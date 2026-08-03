@@ -3191,5 +3191,31 @@
 		"ver": "1.217.7",
 		"date": "2026-06-19",
 		"txt": "- (Brew) Fixed homebrew spell class sources failing to load when hovered on non-Spells pages\n- (Fixed typos/added tags)"
+	},
+	{
+		"ver": "1.217.8",
+		"date": "2026-07-05",
+		"txt": "- Added support for re-ordering DM Screen save slots\n- Added support for decimals (e.g. \"0.5\") in Bestiary Encounter Builder CR fields (previously, only fractions e.g. \"1/2\" were supported)\n- Fixed Races page sublist failing to sort by \"Size\"\n- Fixed rare CR Scaler crash when attempt to scale a dice expression\n- (Brew) Added support for spell usage counts up to 99 (was previously 9)\n- (Brew) Added OCR character handling to all Text Converters (previously only available in the Creature Text Converter)\n- (Brew) Added rudimentary `@creature` tagging to Text Converters\n- (Brew) Improved support for `\"spellcasting\"` entries within legendary actions/mythic actions\n- (Brew) Fixed Text Converter failing to identify title-case reference names in some cases\n- (Brew) Fixed Creature Text Converter failing to handle some ability score formats\n- (Brew) Fixed creature skills with sources failing to render correctly\n- (Brew) Fixed nested condition immunity groups failing to render correctly\n- (Foundry) Added Rivet button to Bestiary Encounter Builder; DM Screen Initiative Tracker; DM Screen Calendar\n- (Fixed typos/added tags)"
+	},
+	{
+		"ver": "1.217.9",
+		"date": "2026-07-08",
+		"txt": "- Added SHIFT and CTRL modifiers to \"Source\" filter quick-select groups, to add to existing selection, or to exclude others, respectively\n- (Brew) Fixed crash when rendering mixed legendary/non-legendary spellcasting entries\n- (Fixed typos/added tags)"
+	},
+	{
+		"ver": "1.218.0",
+		"date": "2026-07-27",
+		"title": "Busman's (Summer) Holiday",
+		"txt": "- Overhauled and expanded DM Screen panel history functionality:\n  - Added \"Enable History\" and \"History Size\" settings (previously always enabled/10, respectively; these are retained as defaults)\n  - Added \"Preserve Embeds on Save Slot Change\" setting (disabled by default); when enabled, and when switching between save slots, embedded `iframe`s (e.g. Google Docs, YouTube videos) will remain loaded\n  - Added support for YouTube and Twitch panels in panel history (previously these were immediately deleted); closed YouTube and Twitch panels will now have their players temporarily removed from the page to prevent continued playback/streaming, but may be restored from history like any other panel\n  - Added placeholder text and better tooltips to panels in panel history\n  - Fixed YouTube panels eating drag events, preventing them from being re-positioned once playing\n  - Fixed embedded `iframe` panel state being reset when re-positioning (which would notably restart YouTube and Twitch panels)\n- Added rudimentary \"Download as Markdown\" to Classes page \"Other Options\" menu (previously \"Settings\" menu)\n- Added \"Download as Markdown\" button to list page \"Other Options\" menus, removing the need to first open the Markdown view\n- Added Sublist (i.e., \"Pin\") and Printer View support to Names and Encounter Generator pages\n- Improved quality of various images, and made use of various un-used images not referenced in the site's data\n- Added CTRL+click to adventure/book headers, to update browser URL to clicked link\n- Reworked Adventure/Book page embedded statblock support to fix various bugs:\n  - Capped embedded statblock height to pre-defined values, preventing layout shifts/re-renders during scrolling, and preventing cascading viewport movement due to repeated layout shifts\n    - The old \"bad\" behavior may be re-gained by SHIFT-clicking a capped header, which will un-cap the height of every embedded statblock on the page. _[My sincerest apologies to those who preferred the bugged version.]_\n  - Improved embedded statblock header titles, and added tooltip text\n  - Added SHIFT-click to expand/collapse all embedded statblocks (and switched general header expand/collapse-all to SHIFT-click; previously CTRL)\n  - Fixed embedded statblock rendering potentially hijacking header identifiers, preventing contents clicks from scrolling to the correct header\n  - Fixed fast-scrolling up/down the page triggering lazy-loading of content which was no longer visible\n- Fixed list page search indexing unwanted values (URL; page number)\n- Fixed crash when rendering a single entity to Markdown via list page Book Views\n- Fixed Classes page having inconsistent subclass-retention behavior when clicking list items vs. pressing `J`/`K` (fixing the latter)\n- Fixed DM Screen \"Paste image URL\" input failing to clear after image was added\n- (Brew) Added support for rudimentary `\"initiative\"` field on `\"SHIP\"`-type `\"vehicle\"`s\n- (Brew) Added support for rendering vehicle terrain\n- (Brew) Fixed JSON cleaner affecting local `[homebrew|prerelease]/index.json` files; added `prerelease/` dir to list of cleaned dirs\n- (Brew) Fixed crash when handling various `@tag`s with missing data, or `@recharge` tags with invadlid data\n- (Fixed typos/added tags)"
+	},
+	{
+		"ver": "1.218.1",
+		"date": "2026-07-28",
+		"txt": "- Fixed crash when loading Adventures/Books \"View All\" pages\n- (Brew) Fixed Creature Homebrew Builder failing to restore custom creature type on statblock load"
+	},
+	{
+		"ver": "1.218.2",
+		"date": "2026-07-31",
+		"txt": "- Added \"Cost\" filter to Vehicles page\n- Fixed DM Screen crash when loading Initiative Tracker Creature Viewer\n- (Brew) Added support for custom `\"vehicleUpgradeTypes\"`\n- (Brew) Added support for `\"cost\"` on `\"vehicleUpgrade\"`s\n- (Fixed typos/added tags)"
 	}
 ]

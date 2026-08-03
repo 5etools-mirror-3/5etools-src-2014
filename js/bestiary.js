@@ -112,37 +112,36 @@ class BestiarySublistManager extends SublistManager {
 
 		const cellsText = [name, type, cr];
 
-		const hovStatblock = ee`<span class="ve-col-1-4 ve-help ve-help--hover best-ecgen__visible">Stat Block</span>`
-			.onn("mouseover", evt => this._encounterBuilder.doStatblockMouseOver({
+		const hovStatblock = veT`<span class="ve-col-1-4 ve-help ve-help--hover best-ecgen__visible">Stat Block</span>`
+			.vee.onn("mouseover", evt => this._encounterBuilder.doStatblockMouseOver({
 				evt,
 				ele: hovStatblock,
 				source: mon.source,
 				hash: hashBase,
 				customHashId: this._getCustomHashId({entity: mon}),
 			}))
-			.onn("mousemove", evt => Renderer.hover.handleLinkMouseMove(evt, hovStatblock))
-			.onn("mouseleave", evt => Renderer.hover.handleLinkMouseLeave(evt, hovStatblock));
+			.vee.onn("mousemove", evt => Renderer.hover.handleLinkMouseMove(evt, hovStatblock))
+			.vee.onn("mouseleave", evt => Renderer.hover.handleLinkMouseLeave(evt, hovStatblock));
 
-		const hovTokenMeta = EncounterBuilderUiBestiary.getTokenHoverMeta(mon);
-		const hovToken = !hovTokenMeta ? ee`<span class="ve-col-1-2 best-ecgen__visible"></span>` : ee`<span class="ve-col-1-2 best-ecgen__visible ve-help ve-help--hover">Token</span>`
-			.onn("mouseover", evt => hovTokenMeta.mouseOver(evt, hovToken))
-			.onn("mousemove", evt => hovTokenMeta.mouseMove(evt, hovToken))
-			.onn("mouseleave", evt => hovTokenMeta.mouseLeave(evt, hovToken));
+		// TODO(Future) run `pFnCleanup` before list item is destroyed
+		const hovToken = veT`<span class="ve-col-1-2 best-ecgen__visible ve-help ve-help--hover">Token</span>`;
+		Renderer.monster.hover.bindTokenMouseover({mon, ele: hovToken});
 
-		const hovImage = ee`<span class="ve-col-1-2 best-ecgen__visible ve-help ve-help--hover">Image</span>`;
+		// TODO(Future) run `pFnCleanup` before list item is destroyed
+		const hovImage = veT`<span class="ve-col-1-2 best-ecgen__visible ve-help ve-help--hover">Image</span>`;
 		Renderer.monster.hover.bindFluffImageMouseover({mon, ele: hovImage});
 
 		const ptCr = (() => {
-			if (!ScaleCreature.isCrInScaleRange(mon)) return ee`<span class="ve-col-1-2 ve-text-center">${cr}</span>`;
+			if (!ScaleCreature.isCrInScaleRange(mon)) return veT`<span class="ve-col-1-2 ve-text-center">${cr}</span>`;
 
-			const iptCr = ee`<input value="${cr}" class="ve-w-100 ve-text-center ve-form-control form-control--minimal ve-input-xs">`
-				.onn("click", () => iptCr.selecte())
-				.onn("change", () => this._encounterBuilder.pDoCrChange(iptCr, mon, mon._scaledCr));
+			const iptCr = veT`<input value="${cr}" class="ve-w-100 ve-text-center ve-form-control form-control--minimal ve-input-xs">`
+				.vee.onn("click", () => iptCr.vee.select())
+				.vee.onn("change", () => this._encounterBuilder.pDoCrChange(iptCr, mon, mon._scaledCr));
 
-			return ee`<span class="ve-col-1-2 ve-text-center ve-pr-1p">${iptCr}</span>`;
+			return veT`<span class="ve-col-1-2 ve-text-center ve-pr-1p">${iptCr}</span>`;
 		})();
 
-		const eleCount1 = ee`<span class="ve-col-2 ve-text-center">${count}</span>`;
+		const eleCount1 = veT`<span class="ve-col-2 ve-text-center">${count}</span>`;
 
 		const {stg: stgCount2, comp: compCount2} = (() => {
 			const comp = BaseComponent.fromObject({count});
@@ -166,7 +165,7 @@ class BestiarySublistManager extends SublistManager {
 				this.pDoSublistSetCount({entity: mon, doFinalize: true, count: comp._state.count}).then(null);
 			});
 
-			const stg = ee`<span class="ve-col-2 ve-pr-0 ve-text-center ve-pl-1p">${ipt}</span>`;
+			const stg = veT`<span class="ve-col-2 ve-pr-0 ve-text-center ve-pl-1p">${ipt}</span>`;
 
 			return {stg, ipt, comp};
 		})();
@@ -176,13 +175,13 @@ class BestiarySublistManager extends SublistManager {
 			null,
 			name,
 			{
-				hash,
 				source: Parser.sourceJsonToAbv(mon.source),
 				type,
 				cr,
-				page: mon.page,
+				...ListItem.getCommonValues(mon),
 			},
 			{
+				hash,
 				count,
 				customHashId,
 				collectionId,
@@ -201,7 +200,7 @@ class BestiarySublistManager extends SublistManager {
 		const sublistButtonsMeta = this._encounterBuilder.getSublistButtonsMeta(listItem);
 		listItem.data.fnsUpdate.push(sublistButtonsMeta.fnUpdate);
 
-		listItem.ele = ee`<div class="ve-lst__row ve-lst__row--sublist ve-flex-col ve-lst__row--bestiary-sublist">
+		listItem.ele = veT`<div class="ve-lst__row ve-lst__row--sublist ve-flex-col ve-lst__row--bestiary-sublist">
 			<a href="#${hash}" draggable="false" class="best-ecgen__hidden ve-lst__row-border ve-lst__row-inner">
 				${this.constructor._getRowCellsHtml({values: cellsText, templates: this.constructor._ROW_TEMPLATE.slice(0, 3)})}
 				${eleCount1}
@@ -217,8 +216,8 @@ class BestiarySublistManager extends SublistManager {
 				${stgCount2}
 			</div>
 		</div>`
-			.onn("contextmenu", evt => this._handleSublistItemContextMenu(evt, listItem))
-			.onn("click", evt => this._handleBestiaryLinkClickSub(evt, listItem));
+			.vee.onn("contextmenu", evt => this._handleSublistItemContextMenu(evt, listItem))
+			.vee.onn("click", evt => this._handleBestiaryLinkClickSub(evt, listItem));
 
 		return listItem;
 	}
@@ -254,23 +253,23 @@ class BestiaryPageBookView extends ListPageBookView {
 			});
 		};
 
-		const btnDownloadMarkdown = ee`<button class="ve-btn ve-btn-default ve-btn-sm">Download as Markdown</button>`
-			.onn("click", async () => DataUtil.userDownloadText("bestiary.md", await pGetAsMarkdown()));
+		const btnDownloadMarkdown = veT`<button class="ve-btn ve-btn-default ve-btn-sm">Download as Markdown</button>`
+			.vee.onn("click", async () => DataUtil.userDownloadText("bestiary.md", await pGetAsMarkdown()));
 
-		const btnCopyMarkdown = ee`<button class="ve-btn ve-btn-default ve-btn-sm ve-px-2" title="Copy Markdown to Clipboard"><span class="glyphicon glyphicon-copy"></span></button>`
-			.onn("click", async () => {
+		const btnCopyMarkdown = veT`<button class="ve-btn ve-btn-default ve-btn-sm ve-px-2" title="Copy Markdown to Clipboard"><span class="glyphicon glyphicon-copy"></span></button>`
+			.vee.onn("click", async () => {
 				await MiscUtil.pCopyTextToClipboard(await pGetAsMarkdown());
 				JqueryUtil.showCopiedEffect(btnCopyMarkdown);
 			});
 
-		const btnDownloadMarkdownSettings = ee`<button class="ve-btn ve-btn-default ve-btn-sm ve-px-2" title="Markdown Settings"><span class="glyphicon glyphicon-cog"></span></button>`
-			.onn("click", async () => RendererMarkdown.pShowSettingsModal());
+		const btnDownloadMarkdownSettings = veT`<button class="ve-btn ve-btn-default ve-btn-sm ve-px-2" title="Markdown Settings"><span class="glyphicon glyphicon-cog"></span></button>`
+			.vee.onn("click", async () => RendererMarkdown.pShowSettingsModal());
 
-		ee`<div class="ve-flex-v-center ve-btn-group ve-ml-2">
+		veT`<div class="ve-flex-v-center ve-btn-group ve-ml-2">
 			${btnDownloadMarkdown}
 			${btnCopyMarkdown}
 			${btnDownloadMarkdownSettings}
-		</div>`.appendTo(wrpPrint);
+		</div>`.vee.appendTo(wrpPrint);
 		// endregion
 
 		return out;
@@ -301,7 +300,7 @@ class BestiaryPageBookView extends ListPageBookView {
 		}
 
 		cntSelectedEnts += this._bookViewToShow.length;
-		wrpContent.appends(stack.join(""));
+		wrpContent.vee.appends(stack.join(""));
 
 		return {cntSelectedEnts, isAnyEntityRendered};
 	}
@@ -471,8 +470,6 @@ class BestiaryPage extends ListPageMultiSource {
 
 	set encounterBuilder (val) { this._encounterBuilder = val; }
 
-	get list_ () { return this._list; }
-
 	getListItem (mon, mI) {
 		const hash = UrlUtil.autoEncodeHash(mon);
 		if (this._seenHashes.has(hash)) return null;
@@ -487,27 +484,27 @@ class BestiaryPage extends ListPageMultiSource {
 		const type = _BestiaryUtil.getListDisplayType(mon);
 		const cr = mon._pCr;
 
-		const eleLi = e_({
+		const eleLi = veE({
 			tag: "div",
 			clazz: `ve-lst__row ve-flex-col ${isExcluded ? "ve-lst__row--blocklisted" : ""}`,
 			click: (evt) => this._handleBestiaryLiClick(evt, listItem),
 			contextmenu: (evt) => this._handleBestiaryLiContext(evt, listItem),
 			children: [
-				e_({
+				veE({
 					tag: "a",
 					href: `#${hash}`,
 					clazz: "ve-lst__row-border ve-lst__row-inner",
 					click: evt => this._handleBestiaryLinkClick(evt),
 					children: [
 						this._encounterBuilder.getButtons(mI),
-						e_({tag: "span", clazz: `best-ecgen__name ve-bold ve-col-4-2 ve-pl-0 ve-pr-1`, text: mon.name}),
-						e_({tag: "span", clazz: `ve-col-4-1 ve-px-1`, text: type}),
-						e_({tag: "span", clazz: `ve-col-1-7 ve-px-1 ve-text-center`, text: cr}),
-						e_({
+						veE({tag: "span", clazz: `best-ecgen__name ve-bold ve-col-4-2 ve-pl-0 ve-pr-1`, txt: mon.name}),
+						veE({tag: "span", clazz: `ve-col-4-1 ve-px-1`, txt: type}),
+						veE({tag: "span", clazz: `ve-col-1-7 ve-px-1 ve-text-center`, txt: cr}),
+						veE({
 							tag: "span",
 							clazz: `ve-col-2 ve-text-center ${Parser.sourceJsonToSourceClassname(mon.source)} ve-pl-1 ve-pr-0`,
 							title: `${Parser.sourceJsonToFull(mon.source)}${Renderer.utils.getSourceSubText(mon)}`,
-							text: source,
+							txt: source,
 						}),
 					],
 				}),
@@ -519,13 +516,13 @@ class BestiaryPage extends ListPageMultiSource {
 			eleLi,
 			mon.name,
 			{
-				hash,
 				source,
 				type,
 				cr,
 				...ListItem.getCommonValues(mon),
 			},
 			{
+				hash,
 				isExcluded,
 			},
 		);
@@ -535,7 +532,7 @@ class BestiaryPage extends ListPageMultiSource {
 
 	handleFilterChange () {
 		super.handleFilterChange();
-		this._encounterBuilder.resetCache();
+		this._encounterBuilder.resetCache(this._getEncounterBuilderCreatures());
 	}
 
 	async _pDoLoadHash ({id, lockToken}) {
@@ -604,21 +601,21 @@ class BestiaryPage extends ListPageMultiSource {
 
 		this._encounterBuilder.render();
 
-		const btnSaveToUrl = ee`<button class="ve-btn ve-btn-default ve-btn-xs ve-mr-2">Save to URL</button>`
-			.onn("click", () => this._sublistManager.pHandleClick_download({isUrl: true, eleCopyEffect: btnSaveToUrl}));
-		const btnSaveToFile = ee`<button class="ve-btn ve-btn-default ve-btn-xs">Save to File</button>`
-			.onn("click", () => this._sublistManager.pHandleClick_download());
-		const btnLoadFromFile = ee`<button class="ve-btn ve-btn-default ve-btn-xs">Load from File</button>`
-			.onn("click", evt => this._sublistManager.pHandleClick_upload({isAdditive: evt.shiftKey}));
-		const btnCopyAsText = ee`<button class="ve-btn ve-btn-default ve-btn-xs ve-mr-2" title="SHIFT for Multi-Line Format">Copy as Text</button>`
-			.onn("click", (evt) => this._encounterBuilder.handleClickCopyAsText(evt));
-		const btnReset = ee`<button class="ve-btn ve-btn-danger ve-btn-xs" title="SHIFT to Reset Players">Reset</button>`
-			.onn("click", (evt) => this._sublistManager.pHandleClick_new(evt));
+		const btnSaveToUrl = veT`<button class="ve-btn ve-btn-default ve-btn-xs ve-mr-2">Save to URL</button>`
+			.vee.onn("click", () => this._sublistManager.pHandleClick_download({isUrl: true, eleCopyEffect: btnSaveToUrl}));
+		const btnSaveToFile = veT`<button class="ve-btn ve-btn-default ve-btn-xs">Save to File</button>`
+			.vee.onn("click", () => this._sublistManager.pHandleClick_download());
+		const btnLoadFromFile = veT`<button class="ve-btn ve-btn-default ve-btn-xs">Load from File</button>`
+			.vee.onn("click", evt => this._sublistManager.pHandleClick_upload({isAdditive: evt.shiftKey}));
+		const btnCopyAsText = veT`<button class="ve-btn ve-btn-default ve-btn-xs ve-mr-2" title="SHIFT for Multi-Line Format">Copy as Text</button>`
+			.vee.onn("click", (evt) => this._encounterBuilder.handleClickCopyAsText(evt));
+		const btnReset = veT`<button class="ve-btn ve-btn-danger ve-btn-xs" title="SHIFT to Reset Players">Reset</button>`
+			.vee.onn("click", (evt) => this._sublistManager.pHandleClick_new(evt));
 
-		const btnBackToStatblocks = ee`<button class="ve-btn ve-btn-success ve-btn-xs">Back to Stat Blocks</button>`
-			.onn("click", (evt) => this._encounterBuilder.handleClickBackToStatblocks(evt));
+		const btnBackToStatblocks = veT`<button class="ve-btn ve-btn-success ve-btn-xs">Back to Stat Blocks</button>`
+			.vee.onn("click", (evt) => this._encounterBuilder.handleClickBackToStatblocks(evt));
 
-		ee`<div class="ve-flex-col ve-w-100">
+		veT`<div class="ve-flex-col ve-w-100">
 			<hr class="ve-hr-1">
 
 			<div class="ve-flex-v-center ve-mb-2">
@@ -635,21 +632,21 @@ class BestiaryPage extends ListPageMultiSource {
 				${btnBackToStatblocks}
 			</div>
 		</div>`
-			.appendTo(es(`#wrp-encounterbuild-footer`));
+			.vee.appendTo(veEs(`#wrp-encounterbuild-footer`));
 	}
 
 	async _pPageInit_pProfBonusDiceToggle () {
-		this._btnProf = e_(document.getElementById("profbonusdice"));
+		this._btnProf = veE(document.getElementById("profbonusdice"));
 
 		this._profDiceMode = await StorageUtil.pGetForPage("proficiencyDiceMode") || _BestiaryConsts.PROF_MODE_BONUS;
 
 		const hk = () => {
-			this._btnProf.toggleClass("ve-active", this._profDiceMode === _BestiaryConsts.PROF_MODE_DICE);
-			this._pgContent.attr("data-proficiency-dice-mode", this._profDiceMode);
+			this._btnProf.vee.toggleClass("ve-active", this._profDiceMode === _BestiaryConsts.PROF_MODE_DICE);
+			this._pgContent.vee.attr("data-proficiency-dice-mode", this._profDiceMode);
 			StorageUtil.pSetForPage("proficiencyDiceMode", this._profDiceMode).then(null);
 		};
 
-		this._btnProf.onn("click", () => {
+		this._btnProf.vee.onn("click", () => {
 			if (this._profDiceMode === _BestiaryConsts.PROF_MODE_DICE) {
 				this._profDiceMode = _BestiaryConsts.PROF_MODE_BONUS;
 				hk();
@@ -678,17 +675,17 @@ class BestiaryPage extends ListPageMultiSource {
 
 	_bindProfDiceHandlers () {
 		this._pgContent
-			.onn(`mousedown`, evt => {
+			.vee.onn(`mousedown`, evt => {
 				if (!evt.target.parentElement?.getAttribute("data-roll-prof-type")) return;
 
 				if (this._profDiceMode !== _BestiaryConsts.PROF_MODE_BONUS) evt.preventDefault();
 			})
-			.onn(`click`, evt => {
+			.vee.onn(`click`, evt => {
 				if (!evt.target.parentElement?.getAttribute("data-roll-prof-type")) return;
 
-				const parent = evt.target.closest(`[data-roll-prof-type]`);
+				const eleParent = evt.target.closest(`[data-roll-prof-type]`);
 
-				const type = parent?.dataset?.rollProfType;
+				const type = eleParent?.getAttribute("data-roll-prof-type");
 				if (!type) return;
 
 				switch (type) {
@@ -698,11 +695,12 @@ class BestiaryPage extends ListPageMultiSource {
 						evt.stopPropagation();
 						evt.preventDefault();
 
-						const cpyOriginalEntry = JSON.parse(parent.dataset.packedDice);
-						cpyOriginalEntry.toRoll = `d20${parent.dataset.rollProfDice}`;
-						cpyOriginalEntry.d20mod = parent.dataset.rollProfDice;
+						const rollProfDice = eleParent.getAttribute("data-roll-prof-dice");
+						const cpyOriginalEntry = JSON.parse(eleParent.getAttribute("data-packed-dice"));
+						cpyOriginalEntry.toRoll = `d20${rollProfDice}`;
+						cpyOriginalEntry.d20mod = rollProfDice;
 
-						Renderer.dice.pRollerClick(evt, parent, JSON.stringify(cpyOriginalEntry));
+						Renderer.dice.pRollerClick(evt, eleParent, JSON.stringify(cpyOriginalEntry)).then(null);
 						break;
 					}
 
@@ -713,8 +711,8 @@ class BestiaryPage extends ListPageMultiSource {
 							return;
 						}
 
-						const fauxEntry = Renderer.utils.getTagEntry(`@d20`, parent.dataset.rollProfDice);
-						Renderer.dice.pRollerClick(evt, parent, JSON.stringify(fauxEntry));
+						const fauxEntry = Renderer.utils.getTagEntry(`@d20`, eleParent.getAttribute("data-roll-prof-dice"));
+						Renderer.dice.pRollerClick(evt, eleParent, JSON.stringify(fauxEntry)).then(null);
 						break;
 					}
 
@@ -729,18 +727,18 @@ class BestiaryPage extends ListPageMultiSource {
 		this._lastRender.isScaledSpellSummon = isScaledSpellSummon;
 		this._lastRender.isScaledClassSummon = isScaledClassSummon;
 
-		this._wrpBtnProf = this._wrpBtnProf || e_(document.getElementById("wrp-profbonusdice"));
+		this._wrpBtnProf = this._wrpBtnProf || veE(document.getElementById("wrp-profbonusdice"));
 
-		this._pgContent.empty();
+		this._pgContent.vee.empty();
 
 		if (this._btnProf != null) {
-			this._wrpBtnProf.appends(this._btnProf);
+			this._wrpBtnProf.vee.appends(this._btnProf);
 		}
 
 		const tabMetaStats = new Renderer.utils.TabButton({
 			label: "Stat Block",
 			fnChange: () => {
-				if (this._btnProf) this._wrpBtnProf.appends(this._btnProf);
+				if (this._btnProf) this._wrpBtnProf.vee.appends(this._btnProf);
 				this._tokenDisplay.doShow();
 			},
 			fnPopulate: () => this._renderStatblock_doBuildStatsTab({mon, isScaledCr, isScaledSpellSummon, isScaledClassSummon}),
@@ -802,8 +800,8 @@ class BestiaryPage extends ListPageMultiSource {
 	) {
 		Renderer.get().setFirstSection(true);
 
-		const btnScaleCr = !ScaleCreature.isCrInScaleRange(mon) ? null : ee`<button id="btn-scale-cr" title="Scale Creature By CR (Highly Experimental)" class="mon__btn-scale-cr ve-btn ve-btn-xs ve-btn-default ve-popwindow__hidden no-print ve-lst-is-exporting-image__hidden"><span class="glyphicon glyphicon-signal"></span></button>`
-			.onn("click", (evt) => {
+		const btnScaleCr = !ScaleCreature.isCrInScaleRange(mon) ? null : veT`<button id="btn-scale-cr" title="Scale Creature By CR (Highly Experimental)" class="mon__btn-scale-cr ve-btn ve-btn-xs ve-btn-default ve-popwindow__hidden no-print ve-lst-is-exporting-image__hidden"><span class="glyphicon glyphicon-signal"></span></button>`
+			.vee.onn("click", (evt) => {
 				evt.stopPropagation();
 				const win = (evt.view || {}).window;
 				const mon = this._dataList[Hist.lastLoadedId];
@@ -819,33 +817,33 @@ class BestiaryPage extends ListPageMultiSource {
 				});
 			});
 
-		const btnResetScaleCr = !ScaleCreature.isCrInScaleRange(mon) ? null : ee`<button id="btn-reset-cr" title="Reset CR Scaling" class="mon__btn-reset-cr ve-btn ve-btn-xs ve-btn-default ve-popwindow__hidden no-print ve-lst-is-exporting-image__hidden ve-ml-2"><span class="glyphicon glyphicon-refresh"></span></button>`
-			.onn("click", () => Hist.setSubhash(VeCt.HASH_SCALED, null))
-			.toggleVe(isScaledCr);
+		const btnResetScaleCr = !ScaleCreature.isCrInScaleRange(mon) ? null : veT`<button id="btn-reset-cr" title="Reset CR Scaling" class="mon__btn-reset-cr ve-btn ve-btn-xs ve-btn-default ve-popwindow__hidden no-print ve-lst-is-exporting-image__hidden ve-ml-2"><span class="glyphicon glyphicon-refresh"></span></button>`
+			.vee.onn("click", () => Hist.setSubhash(VeCt.HASH_SCALED, null))
+			.vee.toggle(isScaledCr);
 
 		const selSummonSpellLevel = Renderer.monster.getSelSummonSpellLevel(mon);
 		if (selSummonSpellLevel) {
 			selSummonSpellLevel
-				.onChange(evt => {
+				.vee.onChange(evt => {
 					evt.stopPropagation();
-					const scaleTo = Number(selSummonSpellLevel.val());
+					const scaleTo = Number(selSummonSpellLevel.vee.val());
 					if (!~scaleTo) Hist.setSubhash(VeCt.HASH_SCALED_SPELL_SUMMON, null);
 					else Hist.setSubhash(VeCt.HASH_SCALED_SPELL_SUMMON, scaleTo);
 				});
 		}
-		if (isScaledSpellSummon) selSummonSpellLevel.val(`${mon._summonedBySpell_level}`, {isSetAttribute: true});
+		if (isScaledSpellSummon) selSummonSpellLevel.vee.val(`${mon._summonedBySpell_level}`, {isSetAttribute: true});
 
 		const selSummonClassLevel = Renderer.monster.getSelSummonClassLevel(mon);
 		if (selSummonClassLevel) {
 			selSummonClassLevel
-				.onChange(evt => {
+				.vee.onChange(evt => {
 					evt.stopPropagation();
-					const scaleTo = Number(selSummonClassLevel.val());
+					const scaleTo = Number(selSummonClassLevel.vee.val());
 					if (!~scaleTo) Hist.setSubhash(VeCt.HASH_SCALED_CLASS_SUMMON, null);
 					else Hist.setSubhash(VeCt.HASH_SCALED_CLASS_SUMMON, scaleTo);
 				});
 		}
-		if (isScaledClassSummon) selSummonClassLevel.val(`${mon._summonedByClass_level}`, {isSetAttribute: true});
+		if (isScaledClassSummon) selSummonClassLevel.vee.val(`${mon._summonedByClass_level}`, {isSetAttribute: true});
 
 		// region dice rollers
 		const expectedPB = Parser.crToPb(mon.cr);
@@ -913,7 +911,7 @@ class BestiaryPage extends ListPageMultiSource {
 			Renderer.get().addPlugin("string_@dc", pluginDc);
 			Renderer.get().addPlugin("dice", pluginDice);
 
-			this._pgContent.empty().appends(RenderBestiary.getRenderedCreature(mon, {btnScaleCr, btnResetScaleCr, selSummonSpellLevel, selSummonClassLevel, classLevelScalerClass: mon.summonedByClass}));
+			this._pgContent.vee.empty().vee.appends(RenderBestiary.getRenderedCreature(mon, {btnScaleCr, btnResetScaleCr, selSummonSpellLevel, selSummonClassLevel, classLevelScalerClass: mon.summonedByClass}));
 		} finally {
 			Renderer.get().removePlugin("dice", pluginDice);
 			Renderer.get().removePlugin("string_@dc", pluginDc);
@@ -948,8 +946,14 @@ class BestiaryPage extends ListPageMultiSource {
 		super._pOnLoad_initVisibleItemsDisplay(...arguments);
 
 		this._list.on("updated", () => {
-			this._encounterBuilder.resetCache();
+			this._encounterBuilder.resetCache(this._getEncounterBuilderCreatures());
 		});
+	}
+
+	_getEncounterBuilderCreatures () {
+		// Note that this intentionally provides only creatures visible in search results
+		return this._list.visibleItems
+			.map(li => this._dataList[li.ix]);
 	}
 }
 

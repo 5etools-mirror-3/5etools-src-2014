@@ -2,7 +2,7 @@
 
 // in deployment, `IS_DEPLOYED = "<version number>";` should be set below.
 globalThis.IS_DEPLOYED = undefined;
-globalThis.VERSION_NUMBER = /* 5ETOOLS_VERSION__OPEN */"1.217.7"/* 5ETOOLS_VERSION__CLOSE */;
+globalThis.VERSION_NUMBER = /* 5ETOOLS_VERSION__OPEN */"1.218.2"/* 5ETOOLS_VERSION__CLOSE */;
 globalThis.DEPLOYED_IMG_ROOT = "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/";
 // for the roll20 script to set
 globalThis.IS_VTT = false;
@@ -17,64 +17,67 @@ globalThis.HASH_SUB_KV_SEP = ":";
 globalThis.HASH_BLANK = "blankhash";
 globalThis.HASH_SUB_NONE = "null";
 
-globalThis.VeCt = {
-	STR_NONE: "None",
-	STR_SEE_CONSOLE: "See the console (CTRL+SHIFT+J) for details.",
+globalThis.VeCt = class {
+	static STR_NONE = "None";
+	static STR_SEE_CONSOLE = "See the console (CTRL+SHIFT+J) for details.";
 
-	HASH_SCALED: "scaled",
-	HASH_SCALED_SPELL_SUMMON: "scaledspellsummon",
-	HASH_SCALED_CLASS_SUMMON: "scaledclasssummon",
+	static HASH_SCALED = "scaled";
+	static HASH_SCALED_SPELL_SUMMON = "scaledspellsummon";
+	static HASH_SCALED_CLASS_SUMMON = "scaledclasssummon";
 
-	FILTER_BOX_SUB_HASH_SEARCH_PREFIX: "fbsr",
-	FILTER_BOX_SUB_HASH_FLAG_IS_PRESERVE_EXISTING: "fbpe",
+	static FILTER_BOX_SUB_HASH_SEARCH_PREFIX = "fbsr";
+	static FILTER_BOX_SUB_HASH_FLAG_IS_PRESERVE_EXISTING = "fbpe";
 
-	JSON_PRERELEASE_INDEX: `prerelease/index.json`,
-	JSON_BREW_INDEX: `homebrew/index.json`,
+	static JSON_PRERELEASE_INDEX = `prerelease/index.json`;
+	static JSON_BREW_INDEX = `homebrew/index.json`;
 
-	STORAGE_HOMEBREW: "HOMEBREW_STORAGE",
-	STORAGE_HOMEBREW_META: "HOMEBREW_META_STORAGE",
-	STORAGE_EXCLUDES: "EXCLUDES_STORAGE",
-	STORAGE_DMSCREEN: "DMSCREEN_STORAGE",
-	STORAGE_DMSCREEN_TEMP_SUBLIST: "DMSCREEN_TEMP_SUBLIST",
-	STORAGE_ROLLER_MACRO: "ROLLER_MACRO_STORAGE",
-	STORAGE_ENCOUNTER: "ENCOUNTER_STORAGE",
-	STORAGE_POINTBUY: "POINTBUY_STORAGE",
-	STORAGE_GLOBAL_COMPONENT_STATE: "GLOBAL_COMPONENT_STATE",
+	static STORAGE_HOMEBREW = "HOMEBREW_STORAGE";
+	static STORAGE_HOMEBREW_META = "HOMEBREW_META_STORAGE";
+	static STORAGE_EXCLUDES = "EXCLUDES_STORAGE";
+	static STORAGE_DMSCREEN = "DMSCREEN_STORAGE";
+	static STORAGE_DMSCREEN_TEMP_SUBLIST = "DMSCREEN_TEMP_SUBLIST";
+	static STORAGE_ROLLER_MACRO = "ROLLER_MACRO_STORAGE";
+	static STORAGE_ENCOUNTER = "ENCOUNTER_STORAGE";
+	static STORAGE_POINTBUY = "POINTBUY_STORAGE";
+	static STORAGE_GLOBAL_COMPONENT_STATE = "GLOBAL_COMPONENT_STATE";
 
-	DUR_INLINE_NOTIFY: 500,
-	DUR_DEBOUNCE_SAVE: 100,
+	static DUR_INLINE_NOTIFY = 500;
+	static DUR_DEBOUNCE_SAVE = 100;
 
-	PG_NONE: "NO_PAGE",
-	STR_GENERIC: "Generic",
+	static PG_NONE = "NO_PAGE";
+	static STR_GENERIC = "Generic";
 
-	SYM_UI_SKIP: Symbol("uiSkip"),
+	static SYM_UI_SKIP = Symbol("uiSkip");
 
-	SYM_WALKER_BREAK: Symbol("walkerBreak"),
+	static SYM_WALKER_BREAK = Symbol("walkerBreak");
 
-	SYM_UTIL_TIMEOUT: Symbol("timeout"),
+	static SYM_UTIL_TIMEOUT = Symbol("timeout");
 
-	LOC_HOSTNAME_CANCER: "5e.tools",
+	static LOC_HOSTNAME_CANCER = "5e.tools";
 
-	URL_BREW: `https://github.com/TheGiddyLimit/homebrew`,
-	URL_ROOT_BREW: `https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/`, // N.b. must end with a slash
-	URL_ROOT_BREW_IMG: `https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/`, // N.b. must end with a slash
-	URL_PRERELEASE: `https://github.com/TheGiddyLimit/unearthed-arcana`,
-	URL_ROOT_PRERELEASE: `https://raw.githubusercontent.com/TheGiddyLimit/unearthed-arcana/master/`, // As above
+	static URL_BREW = `https://github.com/TheGiddyLimit/homebrew`;
+	static URL_ROOT_BREW = `https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master/`; // N.b. must end with a slash
+	static URL_ROOT_BREW_IMG = `https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/`; // N.b. must end with a slash
+	static URL_PRERELEASE = `https://github.com/TheGiddyLimit/unearthed-arcana`;
+	static URL_ROOT_PRERELEASE = `https://raw.githubusercontent.com/TheGiddyLimit/unearthed-arcana/master/`; // As above
 
-	STR_NO_ATTUNEMENT: "No Attunement Required",
+	static STR_NO_ATTUNEMENT = "No Attunement Required";
 
-	CR_UNKNOWN: 100001,
-	CR_CUSTOM: 100000,
+	static CR_UNKNOWN = 100001;
+	static CR_CUSTOM = 100000;
 
-	SPELL_LEVEL_MAX: 9,
-	LEVEL_MAX: 20,
+	static SPELL_LEVEL_MAX = 9;
+	static SPELL_USES_MAX = 99;
+	static SPELL_USES_KEYS = new Set(Array.from({length: this.SPELL_USES_MAX}, (_, i) => `${i + 1}`));
+	static SPELL_USES_KEYS_EACH = new Set(Array.from({length: this.SPELL_USES_MAX}, (_, i) => `${i + 1}e`));
+	static LEVEL_MAX = 20;
 
-	ENTDATA_ITEM_MERGED_ENTRY_TAG: "item__mergedEntryTag",
+	static ENTDATA_ITEM_MERGED_ENTRY_TAG = "item__mergedEntryTag";
 
-	DRAG_TYPE_IMPORT: "ve-Import",
-	DRAG_TYPE_LOOT: "ve-Loot",
+	static DRAG_TYPE_IMPORT = "ve-Import";
+	static DRAG_TYPE_LOOT = "ve-Loot";
 
-	Z_INDEX_BENEATH_HOVER: 199,
+	static Z_INDEX_BENEATH_HOVER = 199;
 };
 
 // STRING ==============================================================================================================
@@ -387,6 +390,8 @@ globalThis.StrUtil = class {
 		"yuan-ti": "yuan-ti",
 	};
 
+	/* -------------------------------------------- */
+
 	static _IRREGULAR_SINGLE_WORDS = {
 		...Object.fromEntries(Object.entries(this._IRREGULAR_PLURAL_WORDS).map(([k, v]) => [v, k])),
 	};
@@ -395,7 +400,17 @@ globalThis.StrUtil = class {
 		[/(axe)s$/i, "$1"],
 	];
 
+	static _RE_TO_SINGLE_END_ES = null;
+	static _RE_TO_SINGLE_END_IES = null;
+
+	static _toSingle_init () {
+		this._RE_TO_SINGLE_END_ES ??= /(s|x|z|ch|sh)es$/i;
+		this._RE_TO_SINGLE_END_IES ??= /[bcdfghjklmnpqrstvwxyz]ies$/i;
+	}
+
 	static toSingle (str) {
+		this._toSingle_init();
+
 		if (this._IRREGULAR_SINGLE_WORDS[str.toLowerCase()]) return this._getMatchedCase(str, this._IRREGULAR_SINGLE_WORDS[str.toLowerCase()]);
 		const single = this._IRREGULAR_SINGLE_PATTERNS
 			.first(([re, repl]) => {
@@ -403,16 +418,28 @@ globalThis.StrUtil = class {
 			});
 		if (single) return single;
 
-		if (/(s|x|z|ch|sh)es$/i.test(str)) return str.slice(0, -2);
-		if (/[bcdfghjklmnpqrstvwxyz]ies$/i.test(str)) return `${str.slice(0, -3)}y`;
+		if (this._RE_TO_SINGLE_END_ES.test(str)) return str.slice(0, -2);
+		if (this._RE_TO_SINGLE_END_IES.test(str)) return `${str.slice(0, -3)}y`;
 		return str.replace(/s$/i, "");
 	}
 
+	/* -------------------------------------------- */
+
+	static _RE_TO_PLURAL_END_ES = null;
+	static _RE_TO_PLURAL_END_IES = null;
+
+	static _toPlural_init () {
+		this._RE_TO_PLURAL_END_ES ??= /(s|x|z|ch|sh)$/i;
+		this._RE_TO_PLURAL_END_IES ??= /[bcdfghjklmnpqrstvwxyz]y$/i;
+	}
+
 	static toPlural (str) {
+		this._toPlural_init();
+
 		let plural;
 		if (this._IRREGULAR_PLURAL_WORDS[str.toLowerCase()]) plural = this._IRREGULAR_PLURAL_WORDS[str.toLowerCase()];
-		else if (/(s|x|z|ch|sh)$/i.test(str)) plural = `${str}es`;
-		else if (/[bcdfghjklmnpqrstvwxyz]y$/i.test(str)) plural = str.replace(/y$/i, "ies");
+		else if (this._RE_TO_PLURAL_END_ES.test(str)) plural = `${str}es`;
+		else if (this._RE_TO_PLURAL_END_IES.test(str)) plural = `${str.slice(0, -1)}ies`;
 		else plural = `${str}s`;
 
 		return this._getMatchedCase(str, plural);
@@ -841,126 +868,76 @@ Math.seed = Math.seed || function (s) {
 };
 
 class TemplateUtil {
-	static initJquery () {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (!globalThis.jQuery) return;
+	/**
+	 * Template strings which can contain DOM elements.
+	 * Usage: veT`<div>Press this button: ${btn}</div>`
+	 * or:    veT(ele)`<div>Press this button: ${btn}</div>`
+	 * @return {HTMLElementExtended}
+	 */
+	static getTagged (...allArgs) {
+		if (!allArgs.length) throw new TypeError(`"veT" called with no arguments!`);
 
-		/* eslint-disable vet-jquery/jquery */
-		/**
-		 * Template strings which can contain jQuery objects.
-		 * Usage: $$`<div>Press this button: ${$btn}</div>`
-		 * or:    $$($ele)`<div>Press this button: ${$btn}</div>`
-		 * @return {jQuery}
-		 */
-		globalThis.$$ = (parts, ...args) => {
-			if (parts instanceof jQuery || parts instanceof Node) {
-				return (...passed) => {
-					const parts2 = [...passed[0]];
-					const args2 = passed.slice(1);
-					parts2[0] = `<div>${parts2[0]}`;
-					parts2.last(`${parts2.at(-1)}</div>`);
+		const [parts, ...args] = allArgs;
 
-					const eleParts = parts instanceof jQuery ? parts[0] : parts;
-					const $temp = $$(parts2, ...args2);
-					$temp.children().each((i, e) => eleParts.appendChild(e));
-					return $(eleParts);
-				};
-			}
+		if (parts == null) throw new TypeError(`"veT" called with "${parts}" as first argument!`);
 
-			// Note that passing in a jQuery collection of multiple elements is not supported
-			const partsNxt = parts instanceof jQuery ? parts[0] : parts;
-			const argsNxt = args
-				.map(arg => {
-					if (arg instanceof Array) return arg.flatMap(argSub => argSub instanceof jQuery ? argSub.get() : argSub);
-					return arg instanceof jQuery ? arg.get() : arg;
-				});
-			const ele = ee(partsNxt, ...argsNxt);
-			if (ele?.nodeType === Node.DOCUMENT_FRAGMENT_NODE) return $([...ele.children]);
-			return $(ele);
-		};
-		/* eslint-enable vet-jquery/jquery */
+		if (parts instanceof Node) {
+			return (...passed) => {
+				const parts2 = [...passed[0]];
+				const args2 = passed.slice(1);
+				parts2[0] = `<div>${parts2[0]}`;
+				parts2.last(`${parts2.at(-1)}</div>`);
+
+				const eleTmp = veT(parts2, ...args2);
+				Array.from(eleTmp.childNodes).forEach(node => parts.appendChild(node));
+
+				return veE({ele: parts});
+			};
+		}
+
+		const eles = [];
+		let ixArg = 0;
+
+		const raw = parts
+			.reduce((html, p, ix) => {
+				// Initial `.reduce` `ix` is 1
+				if (ix === 1) html = html.trimStart();
+				// ...and final `ix` is actually-final-index + 1
+				if (ix === parts.length) html = html.trimEnd();
+
+				const myIxArg = ixArg++;
+				if (args[myIxArg] == null) return `${html}${p}`;
+				if (args[myIxArg] instanceof Array) return `${html}${args[myIxArg].map(arg => TemplateUtil._getTagged_handleArg(eles, arg)).join("")}${p}`;
+				else return `${html}${TemplateUtil._getTagged_handleArg(eles, args[myIxArg])}${p}`;
+			});
+
+		const eleTmpTemplate = document.createElement("template");
+		eleTmpTemplate.innerHTML = raw.trim();
+		const {content: eleTmp} = eleTmpTemplate;
+
+		if (!eleTmp.children.length) throw new Error(`Failed to create HTML element(s) from "${raw}"!`);
+
+		Array.from(eleTmp.querySelectorAll(".ve-tpl-r"))
+			.forEach((node, i) => node.replaceWith(eles[i]));
+
+		const childNodes = Array.from(eleTmp.childNodes);
+		childNodes.forEach(node => document.adoptNode(node));
+
+		// If the caller has passed in a single element, return it
+		if (childNodes.length === 1) return veE({ele: childNodes[0]});
+
+		// If the caller has passed in multiple elements with no wrapper, return a fragment
+		const fragment = document.createDocumentFragment();
+		childNodes
+			.forEach(childNode => fragment.appendChild(veE({ele: childNode})));
+		return fragment;
 	}
 
-	/* -------------------------------------------- */
-
-	static initVanilla () {
-		/**
-		 * Template strings which can contain DOM elements.
-		 * Usage: ee`<div>Press this button: ${btn}</div>`
-		 * or:    ee(ele)`<div>Press this button: ${btn}</div>`
-		 * @return {HTMLElementExtended}
-		 */
-		globalThis.ee = (...allArgs) => {
-			if (!allArgs.length) throw new TypeError(`"ee" called with no arguments!`);
-
-			const [parts, ...args] = allArgs;
-
-			if (parts == null) throw new TypeError(`"ee" called with "${parts}" as first argument!`);
-
-			// eslint-disable-next-line vet-jquery/jquery
-			if (globalThis.jQuery && parts instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
-			// eslint-disable-next-line vet-jquery/jquery
-			if (globalThis.jQuery && args?.some(arg => arg instanceof globalThis.jQuery)) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
-			if (parts instanceof Node) {
-				return (...passed) => {
-					const parts2 = [...passed[0]];
-					const args2 = passed.slice(1);
-					parts2[0] = `<div>${parts2[0]}`;
-					parts2.last(`${parts2.at(-1)}</div>`);
-
-					const eleTmp = ee(parts2, ...args2);
-					Array.from(eleTmp.childNodes).forEach(node => parts.appendChild(node));
-
-					return e_({ele: parts});
-				};
-			}
-
-			const eles = [];
-			let ixArg = 0;
-
-			const raw = parts
-				.reduce((html, p, ix) => {
-					// Initial `.reduce` `ix` is 1
-					if (ix === 1) html = html.trimStart();
-					// ...and final `ix` is actually-final-index + 1
-					if (ix === parts.length) html = html.trimEnd();
-
-					const myIxArg = ixArg++;
-					if (args[myIxArg] == null) return `${html}${p}`;
-					if (args[myIxArg] instanceof Array) return `${html}${args[myIxArg].map(arg => TemplateUtil._ee_handleArg(eles, arg)).join("")}${p}`;
-					else return `${html}${TemplateUtil._ee_handleArg(eles, args[myIxArg])}${p}`;
-				});
-
-			const eleTmpTemplate = document.createElement("template");
-			eleTmpTemplate.innerHTML = raw.trim();
-			const {content: eleTmp} = eleTmpTemplate;
-
-			if (!eleTmp.children.length) throw new Error(`Failed to create HTML element(s) from "${raw}"!`);
-
-			Array.from(eleTmp.querySelectorAll(".ve-ee-r"))
-				.forEach((node, i) => node.replaceWith(eles[i]));
-
-			const childNodes = Array.from(eleTmp.childNodes);
-			childNodes.forEach(node => document.adoptNode(node));
-
-			// If the caller has passed in a single element, return it
-			if (childNodes.length === 1) return e_({ele: childNodes[0]});
-
-			// If the caller has passed in multiple elements with no wrapper, return a fragment
-			const fragment = document.createDocumentFragment();
-			childNodes
-				.forEach(childNode => fragment.appendChild(e_({ele: childNode})));
-			return fragment;
-		};
-	}
-
-	static _ee_handleArg (eles, arg) {
+	static _getTagged_handleArg (eles, arg) {
 		if (arg instanceof Node) {
 			eles.push(arg);
 			// Use a class for performance
-			return `<${arg.tagName} class="ve-ee-r"></${arg.tagName}>`;
+			return `<${arg.tagName} class="ve-tpl-r"></${arg.tagName}>`;
 		}
 
 		return arg;
@@ -969,50 +946,14 @@ class TemplateUtil {
 
 globalThis.TemplateUtil = TemplateUtil;
 
+if (typeof window !== "undefined") {
+	/**
+	 * @return {HTMLElementExtended}
+	 */
+	window.veT = TemplateUtil.getTagged.bind(TemplateUtil);
+}
+
 globalThis.JqueryUtil = class {
-	static _isEnhancementsInit = false;
-	static initEnhancements () {
-		if (JqueryUtil._isEnhancementsInit) return;
-		JqueryUtil._isEnhancementsInit = true;
-
-		TemplateUtil.initVanilla();
-		TemplateUtil.initJquery();
-
-		// eslint-disable-next-line vet-jquery/jquery
-		if (!globalThis.jQuery) return;
-
-		// eslint-disable-next-line vet-jquery/jquery
-		$.fn.extend({
-			// avoid setting input type to "search" as it visually offsets the contents of the input
-			disableSpellcheck: function () { return this.attr("autocomplete", "new-password").attr("autocapitalize", "off").attr("spellcheck", "false"); },
-			tag: function () { return this.prop("tagName").toLowerCase(); },
-			title: function (...args) { return this.attr("title", ...args); },
-			placeholder: function (...args) { return this.attr("placeholder", ...args); },
-			disable: function () { return this.attr("disabled", true); },
-
-			/**
-			 * Quickly set the innerHTML of the innermost element, without parsing the whole thing with jQuery.
-			 * Useful for populating e.g. a table row.
-			 */
-			fastSetHtml: function (html) {
-				if (!this.length) return this;
-				let tgt = this[0];
-				while (tgt.children.length) {
-					tgt = tgt.children[0];
-				}
-				tgt.innerHTML = html;
-				return this;
-			},
-
-			hideVe: function () { return this.addClass("ve-hidden"); },
-			showVe: function () { return this.removeClass("ve-hidden"); },
-			toggleVe: function (val) {
-				if (val === undefined) return this.toggleClass("ve-hidden", !this.hasClass("ve-hidden"));
-				else return this.toggleClass("ve-hidden", !val);
-			},
-		});
-	}
-
 	static _COPY_BUBBLE_CLASS_NAMES = [
 		"ve-clp__disp-copied--bubble-variant-1",
 		"ve-clp__disp-copied--bubble-variant-2",
@@ -1022,31 +963,26 @@ globalThis.JqueryUtil = class {
 	];
 
 	static showCopiedEffect (ele, {text = "Copied!", isBubble = false} = {}) {
-		// eslint-disable-next-line vet-jquery/jquery
-		ele = (globalThis.jQuery && ele instanceof globalThis.jQuery)
-			? e_({ele: ele[0]})
-			: ele;
-
 		const {top, left, width} = ele.getBoundingClientRect();
 
 		const seed = Math.random();
 		const duration = isBubble ? 250 + seed * 200 : 250;
 
-		const dispCopied = ee`<div class="ve-clp__disp-copied ve-flex-vh-center"></div>`;
+		const dispCopied = veT`<div class="ve-clp__disp-copied ve-flex-vh-center"></div>`;
 		dispCopied
-			.html(text)
-			.css({
+			.vee.html(text)
+			.vee.css({
 				top: `${(top - 14)}px`,
 				left: `${left + (width / 2)}px`,
 				animationDuration: `${duration}ms`,
 			})
-			.appendTo(document.body);
+			.vee.appendTo(document.body);
 		if (isBubble) {
 			dispCopied
-				.addClass(`ve-clp__disp-copied--bubble`)
-				.addClass(RollerUtil.rollOnArray(this._COPY_BUBBLE_CLASS_NAMES));
+				.vee.addClass(`ve-clp__disp-copied--bubble`)
+				.vee.addClass(RollerUtil.rollOnArray(this._COPY_BUBBLE_CLASS_NAMES));
 		} else {
-			dispCopied.addClass(`ve-clp__disp-copied--basic`);
+			dispCopied.vee.addClass(`ve-clp__disp-copied--basic`);
 		}
 
 		setTimeout(() => dispCopied.remove(), duration);
@@ -1055,8 +991,8 @@ globalThis.JqueryUtil = class {
 	static _WRP_TOAST = null;
 	static _ACTIVE_TOAST = [];
 	/**
-	 * @param {{content: jQuery|string|HTMLElementExtended, type?: string, autoHideTime?: boolean} | string} options The options for the toast.
-	 * @param {(jQuery|string|HTMLElementExtended)} options.content Toast contents. Supports jQuery objects.
+	 * @param {{content: string|HTMLElementExtended, type?: string, autoHideTime?: boolean} | string} options The options for the toast.
+	 * @param {(string|HTMLElementExtended)} options.content Toast contents.
 	 * @param {string} options.type Toast type. Can be any Bootstrap alert type ("success", "info", "warning", or "danger").
 	 * @param {number} options.autoHideTime The time in ms before the toast will be automatically hidden.
 	 * Defaults to 5000 ms.
@@ -1066,7 +1002,7 @@ globalThis.JqueryUtil = class {
 		if (typeof window === "undefined") return;
 
 		if (JqueryUtil._WRP_TOAST == null) {
-			JqueryUtil._WRP_TOAST = e_({
+			JqueryUtil._WRP_TOAST = veE({
 				tag: "div",
 				clazz: "toast__container ve-no-events ve-w-100 ve-overflow-y-hidden ve-flex-col",
 			});
@@ -1084,30 +1020,25 @@ globalThis.JqueryUtil = class {
 		options.isAutoHide = options.isAutoHide ?? true;
 		options.autoHideTime = options.autoHideTime ?? 5000;
 
-		const eleToast = e_({
+		const eleToast = veE({
 			tag: "div",
 			clazz: `toast toast--type-${options.type} ve-events-initial ve-relative ve-my-2 ve-mx-auto`,
 			children: [
-				e_({
+				veE({
 					tag: "div",
 					clazz: "toast__wrp-content",
-					children: [
-						// eslint-disable-next-line vet-jquery/jquery
-						(globalThis.jQuery && options.content instanceof globalThis.jQuery)
-							? options.content[0]
-							: options.content,
-					],
+					children: [options.content],
 				}),
-				e_({
+				veE({
 					tag: "div",
 					clazz: "toast__wrp-control",
 					children: [
-						e_({
+						veE({
 							tag: "button",
 							clazz: "ve-btn toast__btn-close",
 							title: "Close (CTRL to Close All)",
 							children: [
-								e_({
+								veE({
 									tag: "span",
 									clazz: "glyphicon glyphicon-remove",
 								}),
@@ -1133,14 +1064,14 @@ globalThis.JqueryUtil = class {
 		//   down instantly (should be animated).
 		//   See e.g.:
 		//   `[...new Array(10)].forEach((_, i) => MiscUtil.pDelay(i * 50).then(() => JqueryUtil.doToast(`test ${i}`)))`
-		eleToast.prependTo(JqueryUtil._WRP_TOAST);
+		eleToast.vee.prependTo(JqueryUtil._WRP_TOAST);
 
 		const toastMeta = {isAutoHide: !!options.isAutoHide, eleToast};
 		JqueryUtil._ACTIVE_TOAST.push(toastMeta);
 
 		AnimationUtil.pRecomputeStyles()
 			.then(() => {
-				eleToast.addClass(`toast--animate`);
+				eleToast.vee.addClass(`toast--animate`);
 
 				if (options.isAutoHide) {
 					setTimeout(() => {
@@ -1159,7 +1090,7 @@ globalThis.JqueryUtil = class {
 	}
 
 	static _doToastCleanup (toastMeta) {
-		toastMeta.eleToast.removeClass("toast--animate");
+		toastMeta.eleToast.vee.removeClass("toast--animate");
 		JqueryUtil._ACTIVE_TOAST.splice(JqueryUtil._ACTIVE_TOAST.indexOf(toastMeta), 1);
 		setTimeout(() => toastMeta.eleToast.parentElement && toastMeta.eleToast.remove(), 85);
 	}
@@ -1171,8 +1102,6 @@ globalThis.JqueryUtil = class {
 	}
 };
 
-if (typeof window !== "undefined") window.addEventListener("load", JqueryUtil.initEnhancements);
-
 class ElementUtil {
 	static _ATTRS_NO_FALSY = new Set([
 		"checked",
@@ -1182,8 +1111,9 @@ class ElementUtil {
 	]);
 
 	/**
-	 * @typedef {HTMLElement} HTMLElementExtended
-	 * @extends {HTMLElement}
+	 * @typedef {object} HTMLElementExtendedVee
+	 *
+	 * @property {Object<string, Array<{fn: function, opts: object=}>>} _listeners
 	 *
 	 * @property {function(string): ?HTMLElementExtended} find
 	 * @property {function(string): Array<HTMLElementExtended>} findAll
@@ -1193,39 +1123,40 @@ class ElementUtil {
 	 * @property {function(): Array<HTMLElementExtended>} nextAll
 	 *
 	 * @property {function(HTMLElement|string): HTMLElementExtended} appends
+	 * @property {function(HTMLElement): HTMLElementExtended} appendsMove
 	 * @property {function(HTMLElement|string): HTMLElementExtended} prepends
 	 * @property {function(HTMLElement): HTMLElementExtended} appendTo
 	 * @property {function(HTMLElement): HTMLElementExtended} prependTo
-	 * @property {function(HTMLElement|string): HTMLElementExtended} aftere
+	 * @property {function(HTMLElement|string): HTMLElementExtended} after
 	 * @property {function(HTMLElement): HTMLElementExtended} insertAfter
-	 * @property {function(HTMLElement|string): HTMLElementExtended} beforee
-	 * @property {function(HTMLElement|string): HTMLElementExtended} insertBeforee
+	 * @property {function(HTMLElement|string): HTMLElementExtended} before
+	 * @property {function(HTMLElement|string): HTMLElementExtended} insertBefore
 	 *
 	 * @property {function(string): HTMLElementExtended} addClass
 	 * @property {function(string): HTMLElementExtended} removeClass
 	 * @property {function(string, ?boolean): HTMLElementExtended} toggleClass
 	 * @property {function(string): boolean} hasClass
 	 *
-	 * @property {function(): HTMLElementExtended} showVe
-	 * @property {function(): HTMLElementExtended} hideVe
-	 * @property {function(?boolean): HTMLElementExtended} toggleVe
+	 * @property {function(): HTMLElementExtended} show
+	 * @property {function(): HTMLElementExtended} hide
+	 * @property {function(?boolean): HTMLElementExtended} toggle
 	 *
 	 * @property {function(): HTMLElementExtended} empty
 	 * @property {function(): HTMLElementExtended} detach
 	 *
-	 * @property {function(string, string=): HTMLElementExtended} attr
-	 * @property {function(string, *=): HTMLElementExtended} prop
-	 * @property {function(*=): *} val
+	 * @property {function(string, string=): (HTMLElementExtended|string|null)} attr
+	 * @property {function(string, *=): (HTMLElementExtended|*)} prop
+	 * @property {function(*=, object=): *} val
 	 *
 	 * @property {function(string=): (HTMLElementExtended|string)} html
 	 * @property {function(string=): (HTMLElementExtended|string)} txt
 	 *
-	 * @property {function(?string): HTMLElementExtended} tooltip
-	 * @property {function(?string): HTMLElementExtended} placeholdere
+	 * @property {function(?string=): (HTMLElementExtended|string|null)} tooltip
+	 * @property {function(?string=): (HTMLElementExtended|string|null)} placeholder
 	 * @property {function(): HTMLElementExtended} disableSpellcheck
 	 * @property {function(Array<string>): HTMLElementExtended} typeahead
 	 *
-	 * @property {function(object): HTMLElementExtended} css
+	 * @property {function((string|object), string=): (HTMLElementExtended|string)} css
 	 *
 	 * @property {function(string, function, object=): HTMLElementExtended} onn
 	 * @property {function(string, function=, object=): HTMLElementExtended} off
@@ -1238,21 +1169,26 @@ class ElementUtil {
 	 * @property {function(string): HTMLElementExtended} trigger
 	 *
 	 * @property {function(string=): HTMLElementExtended} first
-	 * @property {function(string): HTMLElementExtended} closeste
-	 * @property {function(string=): Array<HTMLElementExtended>} childrene
+	 * @property {function(string): HTMLElementExtended} closest
+	 * @property {function(string=): Array<HTMLElementExtended>} children
 	 * @property {function(string=): Array<HTMLElementExtended>} siblings
-	 * @property {function(): HTMLElementExtended} parente
+	 * @property {function(): HTMLElementExtended} parent
 	 *
-	 * @property {function(): number} outerWidthe
-	 * @property {function(): number} outerHeighte
+	 * @property {function(): number} outerWidth
+	 * @property {function(): number} outerHeight
 	 *
-	 * @property {function(): HTMLElementExtended} focuse
-	 * @property {function(): HTMLElementExtended} selecte
-	 * @property {function(): HTMLElementExtended} blure
+	 * @property {function(): HTMLElementExtended} focus
+	 * @property {function(): HTMLElementExtended} select
+	 * @property {function(): HTMLElementExtended} blur
 	 *
-	 * @property {function(?number): HTMLElementExtended} scrollTope
+	 * @property {function(?number=): (HTMLElementExtended|number)} scrollTop
 	 *
 	 * @property {function(string): boolean} is
+	 */
+
+	/**
+	 * @typedef {HTMLElement} HTMLElementExtended
+	 * @property {HTMLElementExtendedVee} vee
 	 *
 	 * @return {HTMLElementExtended}
 	 */
@@ -1274,8 +1210,6 @@ class ElementUtil {
 			pointerup,
 			keydown,
 			html,
-			/** @deprecated */
-			text,
 			txt,
 			children,
 			outer,
@@ -1304,9 +1238,6 @@ class ElementUtil {
 		});
 		ele = metaEle.ele;
 
-		// TODO(Future) remove `text` option
-		const _txt = txt ?? text;
-
 		if (clazz) ele.className = clazz;
 		if (style) ele.setAttribute("style", style);
 		if (click) ele.addEventListener("click", click);
@@ -1319,9 +1250,9 @@ class ElementUtil {
 		if (pointerup) ele.addEventListener("pointerup", pointerup);
 		if (keydown) ele.addEventListener("keydown", keydown);
 		if (html != null) ele.innerHTML = html;
-		if (_txt != null) {
-			if (ele instanceof HTMLOptionElement) ele.text = _txt;
-			else ele.textContent = _txt;
+		if (txt != null) {
+			if (ele instanceof HTMLOptionElement) ele.text = txt;
+			else ele.textContent = txt;
 		}
 		if (id != null && metaEle.isSetId) ele.setAttribute("id", id);
 		if (name != null) ele.setAttribute("name", name);
@@ -1341,65 +1272,80 @@ class ElementUtil {
 			}
 		}
 
-		if (data != null) { for (const k in data) { if (data[k] === undefined) continue; ele.dataset[k] = data[k]; } }
+		if (data != null) { for (const k in data) { if (data[k] === undefined) continue; ele.setAttribute(`data-${k}`, data[k]); } }
 
 		if (children) for (let i = 0, len = children.length; i < len; ++i) if (children[i] != null) ele.append(children[i]);
 
-		ele.find = ele.find || ElementUtil._find.bind(ele);
-		ele.findAll = ele.findAll || ElementUtil._findAll.bind(ele);
-		ele.prev = ele.prev || ElementUtil._prev.bind(ele);
-		ele.prevAll = ele.prevAll || ElementUtil._prevAll.bind(ele);
-		ele.next = ele.next || ElementUtil._next.bind(ele);
-		ele.nextAll = ele.nextAll || ElementUtil._nextAll.bind(ele);
-		ele.appends = ele.appends || ElementUtil._appends.bind(ele);
-		ele.prepends = ele.prepends || ElementUtil._prepends.bind(ele);
-		ele.appendTo = ele.appendTo || ElementUtil._appendTo.bind(ele);
-		ele.prependTo = ele.prependTo || ElementUtil._prependTo.bind(ele);
-		ele.aftere = ele.aftere || ElementUtil._aftere.bind(ele);
-		ele.insertAfter = ele.insertAfter || ElementUtil._insertAfter.bind(ele);
-		ele.beforee = ele.beforee || ElementUtil._beforee.bind(ele);
-		ele.insertBeforee = ele.insertBeforee || ElementUtil._insertBeforee.bind(ele);
-		ele.addClass = ele.addClass || ElementUtil._addClass.bind(ele);
-		ele.removeClass = ele.removeClass || ElementUtil._removeClass.bind(ele);
-		ele.toggleClass = ele.toggleClass || ElementUtil._toggleClass.bind(ele);
-		ele.hasClass = ele.hasClass || ElementUtil._hasClass.bind(ele);
-		ele.showVe = ele.showVe || ElementUtil._showVe.bind(ele);
-		ele.hideVe = ele.hideVe || ElementUtil._hideVe.bind(ele);
-		ele.toggleVe = ele.toggleVe || ElementUtil._toggleVe.bind(ele);
-		ele.empty = ele.empty || ElementUtil._empty.bind(ele);
-		ele.detach = ele.detach || ElementUtil._detach.bind(ele);
-		ele.attr = ele.attr || ElementUtil._attr.bind(ele);
-		ele.prop = ele.prop || ElementUtil._prop.bind(ele);
-		ele.val = ele.val || ElementUtil._val.bind(ele);
-		ele.html = ele.html || ElementUtil._html.bind(ele);
-		ele.txt = ele.txt || ElementUtil._txt.bind(ele);
-		ele.tooltip = ele.tooltip || ElementUtil._tooltip.bind(ele);
-		ele.placeholdere = ele.placeholdere || ElementUtil._placeholdere.bind(ele);
-		ele.disableSpellcheck = ele.disableSpellcheck || ElementUtil._disableSpellcheck.bind(ele);
-		ele.typeahead = ele.typeahead || ElementUtil._typeahead.bind(ele);
-		ele.css = ele.css || ElementUtil._css.bind(ele);
-		ele.onn = ele.onn || ElementUtil._onX.bind(ele);
-		ele.off = ele.off || ElementUtil._offX.bind(ele);
-		ele.onClick = ele.onClick || ElementUtil._onX.bind(ele, "click");
-		ele.onContextmenu = ele.onContextmenu || ElementUtil._onX.bind(ele, "contextmenu");
-		ele.onChange = ele.onChange || ElementUtil._onX.bind(ele, "change");
-		ele.onKeydown = ele.onKeydown || ElementUtil._onX.bind(ele, "keydown");
-		ele.onKeyup = ele.onKeyup || ElementUtil._onX.bind(ele, "keyup");
-		ele.trigger = ele.trigger || ElementUtil._trigger.bind(ele);
-		ele.first = ele.first || ElementUtil._first.bind(ele);
-		ele.closeste = ele.closeste || ElementUtil._closeste.bind(ele);
-		ele.childrene = ele.childrene || ElementUtil._childrene.bind(ele);
-		ele.siblings = ele.siblings || ElementUtil._siblings.bind(ele);
-		ele.parente = ele.parente || ElementUtil._parente.bind(ele);
-		ele.outerWidthe = ele.outerWidthe || ElementUtil._outerWidthe.bind(ele);
-		ele.outerHeighte = ele.outerHeighte || ElementUtil._outerHeighte.bind(ele);
-		ele.focuse = ele.focuse || ElementUtil._focuse.bind(ele);
-		ele.selecte = ele.selecte || ElementUtil._selecte.bind(ele);
-		ele.blure = ele.blure || ElementUtil._blure.bind(ele);
-		ele.scrollTope = ele.scrollTope || ElementUtil._scrollTope.bind(ele);
-		ele.is = ele.is || ElementUtil._is.bind(ele);
+		ElementUtil._getOrModify_bindMethods(ele);
 
 		return ele;
+	}
+
+	static _getOrModify_bindMethods (ele) {
+		if (ele.vee) return;
+
+		Object.defineProperty(ele, "vee", {
+			configurable: true,
+			enumerable: false,
+			writable: true,
+			value: {
+				_listeners: {},
+				find: ElementUtil._find.bind(ele),
+				findAll: ElementUtil._findAll.bind(ele),
+				prev: ElementUtil._prev.bind(ele),
+				prevAll: ElementUtil._prevAll.bind(ele),
+				next: ElementUtil._next.bind(ele),
+				nextAll: ElementUtil._nextAll.bind(ele),
+				appends: ElementUtil._appends.bind(ele),
+				appendsMove: ElementUtil._appendsMove.bind(ele),
+				prepends: ElementUtil._prepends.bind(ele),
+				appendTo: ElementUtil._appendTo.bind(ele),
+				prependTo: ElementUtil._prependTo.bind(ele),
+				after: ElementUtil._after.bind(ele),
+				insertAfter: ElementUtil._insertAfter.bind(ele),
+				before: ElementUtil._before.bind(ele),
+				insertBefore: ElementUtil._insertBefore.bind(ele),
+				addClass: ElementUtil._addClass.bind(ele),
+				removeClass: ElementUtil._removeClass.bind(ele),
+				toggleClass: ElementUtil._toggleClass.bind(ele),
+				hasClass: ElementUtil._hasClass.bind(ele),
+				show: ElementUtil._show.bind(ele),
+				hide: ElementUtil._hide.bind(ele),
+				toggle: ElementUtil._toggle.bind(ele),
+				empty: ElementUtil._empty.bind(ele),
+				detach: ElementUtil._detach.bind(ele),
+				attr: ElementUtil._attr.bind(ele),
+				prop: ElementUtil._prop.bind(ele),
+				val: ElementUtil._val.bind(ele),
+				html: ElementUtil._html.bind(ele),
+				txt: ElementUtil._txt.bind(ele),
+				tooltip: ElementUtil._tooltip.bind(ele),
+				placeholder: ElementUtil._placeholder.bind(ele),
+				disableSpellcheck: ElementUtil._disableSpellcheck.bind(ele),
+				typeahead: ElementUtil._typeahead.bind(ele),
+				css: ElementUtil._css.bind(ele),
+				onn: ElementUtil._onX.bind(ele),
+				off: ElementUtil._offX.bind(ele),
+				onClick: ElementUtil._onX.bind(ele, "click"),
+				onContextmenu: ElementUtil._onX.bind(ele, "contextmenu"),
+				onChange: ElementUtil._onX.bind(ele, "change"),
+				onKeydown: ElementUtil._onX.bind(ele, "keydown"),
+				onKeyup: ElementUtil._onX.bind(ele, "keyup"),
+				trigger: ElementUtil._trigger.bind(ele),
+				first: ElementUtil._first.bind(ele),
+				closest: ElementUtil._closest.bind(ele),
+				children: ElementUtil._children.bind(ele),
+				siblings: ElementUtil._siblings.bind(ele),
+				parent: ElementUtil._parent.bind(ele),
+				outerWidth: ElementUtil._outerWidth.bind(ele),
+				outerHeight: ElementUtil._outerHeight.bind(ele),
+				focus: ElementUtil._focus.bind(ele),
+				select: ElementUtil._select.bind(ele),
+				blur: ElementUtil._blur.bind(ele),
+				scrollTop: ElementUtil._scrollTop.bind(ele),
+				is: ElementUtil._is.bind(ele),
+			},
+		});
 	}
 
 	static _getOrModify_getEle (
@@ -1444,7 +1390,7 @@ class ElementUtil {
 	static _prev (selector) {
 		let prv = this.previousElementSibling;
 		if (selector != null) while (prv && !prv.matches(selector)) prv = prv.previousElementSibling;
-		return prv ? e_({ele: prv}) : null;
+		return prv ? veE({ele: prv}) : null;
 	}
 
 	/** @this {HTMLElementExtended} */
@@ -1452,7 +1398,7 @@ class ElementUtil {
 		const out = [];
 		let tmp = this;
 		while (tmp.previousElementSibling) {
-			out.push(e_({ele: tmp.previousElementSibling}));
+			out.push(veE({ele: tmp.previousElementSibling}));
 			tmp = tmp.previousElementSibling;
 		}
 		return out;
@@ -1462,7 +1408,7 @@ class ElementUtil {
 	static _next (selector) {
 		let nxt = this.nextElementSibling;
 		if (selector != null) while (nxt && !nxt.matches(selector)) nxt = nxt.nextElementSibling;
-		return nxt ? e_({ele: nxt}) : null;
+		return nxt ? veE({ele: nxt}) : null;
 	}
 
 	/** @this {HTMLElementExtended} */
@@ -1470,7 +1416,7 @@ class ElementUtil {
 		const out = [];
 		let tmp = this;
 		while (tmp.nextElementSibling) {
-			out.push(e_({ele: tmp.nextElementSibling}));
+			out.push(veE({ele: tmp.nextElementSibling}));
 			tmp = tmp.nextElementSibling;
 		}
 		return out;
@@ -1478,78 +1424,59 @@ class ElementUtil {
 
 	/** @this {HTMLElementExtended} */
 	static _appends (child) {
-		if (typeof child === "string") child = ee`${child}`;
-
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && child instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
+		if (typeof child === "string") child = veT`${child}`;
 		this.appendChild(child);
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
+	static _appendsMove (child) {
+		if (child.isConnected) this.moveBefore(child, null);
+		else this.vee.appends(child);
+		return this;
+	}
+
+	/** @this {HTMLElementExtended} */
 	static _prepends (child) {
-		if (typeof child === "string") child = ee`${child}`;
-
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && child instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
+		if (typeof child === "string") child = veT`${child}`;
 		this.prepend(child);
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
 	static _appendTo (parent) {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && parent instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
 		parent.appendChild(this);
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
 	static _prependTo (parent) {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && parent instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
 		parent.prepend(this);
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _aftere (other) {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && other instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
-		if (typeof other === "string") other = ee`${other}`;
+	static _after (other) {
+		if (typeof other === "string") other = veT`${other}`;
 		this.after(other);
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
 	static _insertAfter (parent) {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && parent instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
 		parent.after(this);
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _beforee (other) {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && other instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
-		if (typeof other === "string") other = ee`${other}`;
+	static _before (other) {
+		if (typeof other === "string") other = veT`${other}`;
 		this.before(other);
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _insertBeforee (parent) {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && parent instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
+	static _insertBefore (parent) {
 		parent.before(this);
 		return this;
 	}
@@ -1580,20 +1507,20 @@ class ElementUtil {
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _showVe () {
+	static _show () {
 		this.classList.remove("ve-hidden");
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _hideVe () {
+	static _hide () {
 		this.classList.add("ve-hidden");
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _toggleVe (isActive = null) {
-		this.toggleClass("ve-hidden", isActive == null ? isActive : !isActive);
+	static _toggle (isActive = null) {
+		this.vee.toggleClass("ve-hidden", isActive == null ? isActive : !isActive);
 		return this;
 	}
 
@@ -1646,23 +1573,23 @@ class ElementUtil {
 	static _tooltip (...args) {
 		const [title] = args;
 		if (!args.length) return this.getAttribute("title");
-		return this.attr("title", title);
+		return this.vee.attr("title", title);
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _placeholdere (...args) {
+	static _placeholder (...args) {
 		const [placeholder] = args;
 		if (!args.length) return this.getAttribute("placeholder");
-		return this.attr("placeholder", placeholder);
+		return this.vee.attr("placeholder", placeholder);
 	}
 
 	/** @this {HTMLElementExtended} */
 	static _disableSpellcheck () {
 		// avoid setting input type to "search" as it visually offsets the contents of the input
 		return this
-			.attr("autocomplete", "new-password")
-			.attr("autocapitalize", "off")
-			.attr("spellcheck", "false");
+			.vee.attr("autocomplete", "new-password")
+			.vee.attr("autocapitalize", "off")
+			.vee.attr("spellcheck", "false");
 	}
 
 	/** @this {HTMLElementExtended} */
@@ -1670,12 +1597,12 @@ class ElementUtil {
 		const id = CryptUtil.md5(JSON.stringify(values));
 
 		if (!document.getElementById(id)) {
-			ee`<datalist id="${id}">${values.map(val => `<option value="${val.qq()}"></option>`).join("")}</datalist>`
-				.appendTo(document.body);
+			veT`<datalist id="${id}">${values.map(val => `<option value="${val.qq()}"></option>`).join("")}</datalist>`
+				.vee.appendTo(document.body);
 		}
 
 		return this
-			.attr("list", id);
+			.vee.attr("list", id);
 	}
 
 	/** @this {HTMLElementExtended} */
@@ -1693,11 +1620,10 @@ class ElementUtil {
 
 	/** @this {HTMLElementExtended} */
 	static _onX (evtName, fn, opts) {
-		// TODO(jquery) migrate
 		if (evtName.includes(" ")) throw new Error(`Event name "${evtName}" contains a space! This should be split into multiple ".onn" calls.`);
 		if (evtName.includes(".")) throw new Error(`Event name "${evtName}" contains a "."! This should be revised as a non-namespaced name.`);
 
-		((this._veListeners ||= {})[evtName] ||= []).push({fn, opts});
+		((this.vee._listeners ||= {})[evtName] ||= []).push({fn, opts});
 
 		if (opts) this.addEventListener(evtName, fn, opts);
 		else this.addEventListener(evtName, fn);
@@ -1706,12 +1632,11 @@ class ElementUtil {
 
 	/** @this {HTMLElementExtended} */
 	static _offX (evtName, fn, opts) {
-		// TODO(jquery) migrate
 		if (evtName.includes(" ")) throw new Error(`Event name "${evtName}" contains a space! This should be split into multiple ".onn" calls.`);
 		if (evtName.includes(".")) throw new Error(`Event name "${evtName}" contains a "."! This should be revised as a non-namespaced name.`);
 
 		if (!fn) {
-			(this._veListeners?.[evtName] || [])
+			(this.vee._listeners?.[evtName] || [])
 				.forEach(({fn, opts}) => {
 					this.removeEventListener(evtName, fn);
 					if (opts) this.removeEventListener(evtName, fn, opts);
@@ -1720,7 +1645,7 @@ class ElementUtil {
 			return this;
 		}
 
-		if (this._veListeners?.[evtName]) this._veListeners[evtName] = this._veListeners[evtName].filter(({fn: fn_, opts: opts_}) => fn_ === fn && MiscUtil.isNearStrictlyEqual(opts_?.capture, opts?.capture));
+		if (this.vee._listeners?.[evtName]) this.vee._listeners[evtName] = this.vee._listeners[evtName].filter(({fn: fn_, opts: opts_}) => fn_ === fn && MiscUtil.isNearStrictlyEqual(opts_?.capture, opts?.capture));
 		this.removeEventListener(evtName, fn);
 		return this;
 	}
@@ -1756,11 +1681,7 @@ class ElementUtil {
 					return this;
 				}
 
-				if (typeof val !== "string") {
-					// TODO(jquery) upgrade to blocking error
-					setTimeout(() => { throw new Error(`Attempted to assign SELECT value to non-string "${val}"!`); });
-					return this;
-				}
+				if (typeof val !== "string") throw new Error(`Attempted to assign SELECT value to non-string "${val}"!`);
 
 				let selectedIndexNxt = -1;
 				for (let i = 0, len = this.options.length; i < len; ++i) {
@@ -1785,24 +1706,24 @@ class ElementUtil {
 	/** @this {HTMLElementExtended} */
 	static _first (selector) {
 		if (selector == null) {
-			return this.firstElementChild ? e_({ele: this.firstElementChild}) : this.firstElementChild;
+			return this.firstElementChild ? veE({ele: this.firstElementChild}) : this.firstElementChild;
 		}
 		const child = this.querySelector(selector);
 		if (!child) return child;
-		return e_({ele: child});
+		return veE({ele: child});
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _closeste (selector) {
+	static _closest (selector) {
 		const ancestor = this.closest(selector);
 		if (!ancestor) return ancestor;
-		return e_({ele: ancestor});
+		return veE({ele: ancestor});
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _childrene (selector) {
-		if (!selector) return [...this.children].map(child => e_({ele: child}));
-		return em(selector, this);
+	static _children (selector) {
+		if (!selector) return [...this.children].map(child => veE({ele: child}));
+		return veEm(selector, this);
 	}
 
 	/** @this {HTMLElementExtended} */
@@ -1810,40 +1731,40 @@ class ElementUtil {
 		if (!selector) {
 			return [...this.parentNode.children]
 				.filter(ele => ele !== this)
-				.map(ele => e_({ele: ele}));
+				.map(ele => veE({ele: ele}));
 		}
 
 		return [...this.parentNode.querySelectorAll(`:scope > ${selector}`)]
 			.filter(ele => ele !== this)
-			.map(ele => e_({ele: ele}));
+			.map(ele => veE({ele: ele}));
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _parente (selector) {
-		if (selector) throw new Error(`.parente "select" argument is not supported!`);
-		return this.parentElement ? e_({ele: this.parentElement}) : null;
+	static _parent (selector) {
+		if (selector) throw new Error(`.parent "select" argument is not supported!`);
+		return this.parentElement ? veE({ele: this.parentElement}) : null;
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _outerWidthe () { return this.getBoundingClientRect().width; }
+	static _outerWidth () { return this.getBoundingClientRect().width; }
 
 	/** @this {HTMLElementExtended} */
-	static _outerHeighte () { return this.getBoundingClientRect().height; }
+	static _outerHeight () { return this.getBoundingClientRect().height; }
 
 	/** @this {HTMLElementExtended} */
-	static _focuse () {
+	static _focus () {
 		this.focus();
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _selecte () {
+	static _select () {
 		this.select();
 		return this;
 	}
 
 	/** @this {HTMLElementExtended} */
-	static _blure () {
+	static _blur () {
 		this.blur();
 		return this;
 	}
@@ -1851,7 +1772,7 @@ class ElementUtil {
 	/* -------------------------------------------- */
 
 	/** @this {HTMLElementExtended} */
-	static _scrollTope (...args) {
+	static _scrollTop (...args) {
 		const [val] = args;
 		if (!args.length) return this.scrollTop;
 		this.scrollTop = val;
@@ -1862,9 +1783,6 @@ class ElementUtil {
 
 	/** @this {HTMLElementExtended} */
 	static _is (nodeTypeOrEle) {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && nodeTypeOrEle instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
 		if (typeof nodeTypeOrEle === "string") return this.nodeName.toLowerCase() === nodeTypeOrEle.toLowerCase();
 
 		return nodeTypeOrEle === this;
@@ -1876,23 +1794,17 @@ class ElementUtil {
 	 * @return {?HTMLElementExtended}
 	 */
 	static getBySelector (selector, parent) {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && parent instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
 		const ele = (parent || document).querySelector(selector);
 		if (!ele) return null;
-		return e_({ele});
+		return veE({ele});
 	}
 
 	/**
 	 * @return {Array<HTMLElementExtended>}
 	 */
 	static getBySelectorMulti (selector, parent) {
-		// eslint-disable-next-line vet-jquery/jquery
-		if (globalThis.jQuery && parent instanceof globalThis.jQuery) throw new Error(`Unhandled jQuery instance!`); // TODO(jquery) migrate
-
 		return [...(parent || document).querySelectorAll(selector)]
-			.map(ele => e_({ele}));
+			.map(ele => veE({ele}));
 	}
 
 	/* -------------------------------------------- */
@@ -1973,17 +1885,17 @@ if (typeof window !== "undefined") {
 	/**
 	 * @return {HTMLElementExtended}
 	 */
-	window.e_ = ElementUtil.getOrModify.bind(ElementUtil);
+	window.veE = ElementUtil.getOrModify.bind(ElementUtil);
 
 	/**
 	 * @return {HTMLElementExtended}
 	 */
-	window.es = ElementUtil.getBySelector.bind(ElementUtil);
+	window.veEs = ElementUtil.getBySelector.bind(ElementUtil);
 
 	/**
 	 * @return {Array<HTMLElementExtended>}
 	 */
-	window.em = ElementUtil.getBySelectorMulti.bind(ElementUtil);
+	window.veEm = ElementUtil.getBySelectorMulti.bind(ElementUtil);
 }
 
 globalThis.ObjUtil = class {
@@ -2036,10 +1948,10 @@ globalThis.MiscUtil = class {
 
 	static async pCopyTextToClipboard (text) {
 		function doCompatibilityCopy () {
-			const iptTemp = ee`<textarea class="ve-clp__wrp-temp"></textarea>`
-				.appendTo(document.body)
-				.val(text)
-				.selecte();
+			const iptTemp = veT`<textarea class="ve-clp__wrp-temp"></textarea>`
+				.vee.appendTo(document.body)
+				.vee.val(text)
+				.vee.select();
 			document.execCommand("Copy");
 			iptTemp.remove();
 		}
@@ -2986,8 +2898,7 @@ globalThis.EventUtil = class {
 	static getKeyIgnoreCapsLock (evt) {
 		if (!evt.key) return null;
 		if (evt.key.length !== 1) return evt.key;
-		// TODO(jquery) migrate
-		const isCaps = (evt.originalEvent || evt).getModifierState("CapsLock");
+		const isCaps = evt.getModifierState("CapsLock");
 		if (!isCaps) return evt.key;
 		const asciiCode = evt.key.charCodeAt(0);
 		const isUpperCase = asciiCode >= 65 && asciiCode <= 90;
@@ -3172,8 +3083,8 @@ globalThis.ContextUtil = class {
 			this._ele = null;
 		}
 
-		width () { return this._ele ? this._ele.outerWidthe() : undefined; }
-		height () { return this._ele ? this._ele.outerHeighte() : undefined; }
+		width () { return this._ele ? this._ele.vee.outerWidth() : undefined; }
+		height () { return this._ele ? this._ele.vee.outerHeight() : undefined; }
 
 		pOpen (
 			evt,
@@ -3199,13 +3110,13 @@ globalThis.ContextUtil = class {
 
 			this._ele
 				// Show as transparent/non-clickable first, so we can get an accurate width/height
-				.css({
+				.vee.css({
 					left: `0px`,
 					top: `0px`,
 					opacity: `0px`,
 					pointerEvents: "none",
 				})
-				.showVe();
+				.vee.show();
 
 			// Use the accurate width/height to set the final position, and remove our temp styling
 			const cssNxt = {
@@ -3218,7 +3129,7 @@ globalThis.ContextUtil = class {
 			cssNxt[isFromRight ? "right" : "left"] = `${xPos ?? this._getMenuPosition(evt, "x", {bounds: boundsX})}px`;
 			cssNxt.top = `${yPos ?? this._getMenuPosition(evt, "y", {offset: offsetY})}px`;
 
-			this._ele.css(cssNxt);
+			this._ele.vee.css(cssNxt);
 
 			this._metasActions[0].eleRow.focus();
 
@@ -3232,7 +3143,7 @@ globalThis.ContextUtil = class {
 		 * @param isSkipParentMenus
 		 */
 		close ({_isSkipSubMenus = false, isSkipParentMenus = false} = {}) {
-			if (this._ele) this._ele.hideVe();
+			if (this._ele) this._ele.vee.hide();
 
 			if (!_isSkipSubMenus) this.closeSubMenus();
 			if (!isSkipParentMenus) this._closeParentMenus();
@@ -3248,21 +3159,21 @@ globalThis.ContextUtil = class {
 		_initLazy ({window}) {
 			if (this._ele) {
 				this._metasActions.forEach(meta => meta.action.update());
-				this._ele.appendTo(window.document.body);
+				this._ele.vee.appendTo(window.document.body);
 				return;
 			}
 
 			const elesAction = this._actions.map(it => {
-				if (it == null) return ee`<div class="ve-my-1 ve-w-100 ve-ui-ctx__divider"></div>`;
+				if (it == null) return veT`<div class="ve-my-1 ve-w-100 ve-ui-ctx__divider"></div>`;
 
 				const rdMeta = it.render({menu: this});
 				this._metasActions.push(rdMeta);
 				return rdMeta.eleRow;
 			});
 
-			this._ele = ee`<div class="ve-flex-col ve-ui-ctx__wrp ve-py-2 ve-absolute">${elesAction}</div>`
-				.hideVe()
-				.appendTo(window.document.body);
+			this._ele = veT`<div class="ve-flex-col ve-ui-ctx__wrp ve-py-2 ve-absolute">${elesAction}</div>`
+				.vee.hide()
+				.vee.appendTo(window.document.body);
 		}
 
 		_getMenuPosition (evt, axis, {bounds = null, offset = null} = {}) {
@@ -3349,7 +3260,7 @@ globalThis.ContextUtil = class {
 
 			return {
 				action: this,
-				eleRow: ee`<div class="ve-ui-ctx__row ve-flex-v-center ${this.style || ""}">${btnAction}${btnActionAlt}</div>`,
+				eleRow: veT`<div class="ve-ui-ctx__row ve-flex-v-center ${this.style || ""}">${btnAction}${btnActionAlt}</div>`,
 				btn: btnAction,
 			};
 		}
@@ -3367,16 +3278,16 @@ globalThis.ContextUtil = class {
 				if (menu.resolveResult_) menu.resolveResult_(result);
 			};
 
-			const btnAction = ee`<div class="ve-w-100 ve-min-w-0 ve-ui-ctx__btn ve-py-1 ve-pl-5 ${this.fnActionAlt ? "" : "ve-pr-5"}" ${this.isDisabled ? "disabled" : ""} tabindex="0">${this.text}</div>`
-				.onn("click", evt => pOnClick(evt))
-				.onn("mousedown", evt => {
+			const btnAction = veT`<div class="ve-w-100 ve-min-w-0 ve-ui-ctx__btn ve-py-1 ve-pl-5 ${this.fnActionAlt ? "" : "ve-pr-5"}" ${this.isDisabled ? "disabled" : ""} tabindex="0">${this.text}</div>`
+				.vee.onn("click", evt => pOnClick(evt))
+				.vee.onn("mousedown", evt => {
 					evt.preventDefault();
 				})
-				.onn("keydown", async evt => {
+				.vee.onn("keydown", async evt => {
 					if (evt.key !== "Enter") return;
 					await pOnClick(evt);
 				});
-			if (this.title) btnAction.tooltip(this.title);
+			if (this.title) btnAction.vee.tooltip(this.title);
 
 			return btnAction;
 		};
@@ -3384,8 +3295,8 @@ globalThis.ContextUtil = class {
 		_render_btnActionAlt ({menu}) {
 			if (!this.fnActionAlt) return null;
 
-			const btnActionAlt = ee`<div class="ve-ui-ctx__btn ve-ml-1 ve-bl-1 ve-py-1 ve-px-4" ${this.isDisabled ? "disabled" : ""}>${this.textAlt ?? `<span class="glyphicon glyphicon-cog"></span>`}</div>`
-				.onn("click", async evt => {
+			const btnActionAlt = veT`<div class="ve-ui-ctx__btn ve-ml-1 ve-bl-1 ve-py-1 ve-px-4" ${this.isDisabled ? "disabled" : ""}>${this.textAlt ?? `<span class="glyphicon glyphicon-cog"></span>`}</div>`
+				.vee.onn("click", async evt => {
 					if (this.isDisabled) return;
 
 					evt.preventDefault();
@@ -3396,10 +3307,10 @@ globalThis.ContextUtil = class {
 					const result = await this.fnActionAlt(evt, {userData: menu.userData});
 					if (menu.resolveResult_) menu.resolveResult_(result);
 				})
-				.onn("mousedown", evt => {
+				.vee.onn("mousedown", evt => {
 					evt.preventDefault();
 				});
-			if (this.titleAlt) btnActionAlt.tooltip(this.titleAlt);
+			if (this.titleAlt) btnActionAlt.vee.tooltip(this.titleAlt);
 
 			return btnActionAlt;
 		}
@@ -3416,14 +3327,14 @@ globalThis.ContextUtil = class {
 		}
 
 		_render_btnAction () {
-			this._btnAction = ee`<a href="${this.fnHref()}" class="ve-w-100 ve-min-w-0 ve-ui-ctx__btn ve-py-1 ve-pl-5 ${this.fnActionAlt ? "" : "ve-pr-5"}" ${this.isDisabled ? "disabled" : ""} tabindex="0">${this.text}</a>`;
-			if (this.title) this._btnAction.tooltip(this.title);
+			this._btnAction = veT`<a href="${this.fnHref()}" class="ve-w-100 ve-min-w-0 ve-ui-ctx__btn ve-py-1 ve-pl-5 ${this.fnActionAlt ? "" : "ve-pr-5"}" ${this.isDisabled ? "disabled" : ""} tabindex="0">${this.text}</a>`;
+			if (this.title) this._btnAction.vee.tooltip(this.title);
 
 			return this._btnAction;
 		}
 
 		update () {
-			this._btnAction.attr("href", this.fnHref());
+			this._btnAction.vee.attr("href", this.fnHref());
 		}
 	};
 
@@ -3448,27 +3359,27 @@ globalThis.ContextUtil = class {
 			this._sel = this._render_sel({menu});
 
 			if (this._ixInitial != null) {
-				this._sel.val(`${this._ixInitial}`);
+				this._sel.vee.val(`${this._ixInitial}`);
 				this._ixInitial = null;
 			}
 
 			return {
 				action: this,
-				eleRow: ee`<div class="ve-ui-ctx__row ve-flex-v-center">${this._sel}</div>`,
+				eleRow: veT`<div class="ve-ui-ctx__row ve-flex-v-center">${this._sel}</div>`,
 			};
 		}
 
 		_render_sel ({menu}) {
-			const sel = e_({
+			const sel = veE({
 				tag: "select",
 				clazz: "ve-w-100 ve-min-w-0 ve-mx-5 ve-py-1",
 				tabindex: 0,
 				children: this._values
 					.map((val, i) => {
-						return e_({
+						return veE({
 							tag: "option",
 							value: i,
-							text: this._fnGetDisplayValue ? this._fnGetDisplayValue(val) : val,
+							txt: this._fnGetDisplayValue ? this._fnGetDisplayValue(val) : val,
 						});
 					}),
 				click: async evt => {
@@ -3482,7 +3393,7 @@ globalThis.ContextUtil = class {
 				change: () => {
 					menu.close();
 
-					const ix = Number(sel.val() || 0);
+					const ix = Number(sel.vee.val() || 0);
 					const val = this._values[ix];
 
 					if (this._fnOnChange) this._fnOnChange(val);
@@ -3496,7 +3407,7 @@ globalThis.ContextUtil = class {
 		setValue (val) {
 			const ix = this._values.indexOf(val);
 			if (!this._sel) return this._ixInitial = ix;
-			this._sel.val(`${ix}`);
+			this._sel.vee.val(`${ix}`);
 		}
 
 		update () { /* Implement as required */ }
@@ -3512,11 +3423,11 @@ globalThis.ContextUtil = class {
 			const menuSub = ContextUtil.getMenu(this._actions, {menuParent: menu});
 			menu.addSubMenu(menuSub);
 
-			const eleRow = ee`<div class="ve-ui-ctx__btn ve-py-1 ve-px-5 ve-split-v-center">
+			const eleRow = veT`<div class="ve-ui-ctx__btn ve-py-1 ve-px-5 ve-split-v-center">
 				<div>${this._name}</div>
 				<div class="ve-pl-4"><span class="ve-caret ve-caret--right"></span></div>
 			</div>`
-				.onn("click", async evt => {
+				.vee.onn("click", async evt => {
 					evt.stopPropagation();
 					if (menuSub.isOpen()) return menuSub.close({isSkipParentMenus: true});
 
@@ -3535,7 +3446,7 @@ globalThis.ContextUtil = class {
 						},
 					);
 				})
-				.onn("mousedown", evt => {
+				.vee.onn("mousedown", evt => {
 					evt.preventDefault();
 				});
 
@@ -4002,6 +3913,8 @@ UrlUtil.URL_TO_HASH_BUILDER[UrlUtil.PG_CHAR_CREATION_OPTIONS] = UrlUtil.URL_TO_H
 UrlUtil.URL_TO_HASH_BUILDER[UrlUtil.PG_RECIPES] = (it) => `${UrlUtil.encodeArrayForHash(it.name, it.source)}${it._scaleFactor ? `${HASH_PART_SEP}${VeCt.HASH_SCALED}${HASH_SUB_KV_SEP}${it._scaleFactor}` : ""}`;
 UrlUtil.URL_TO_HASH_BUILDER[UrlUtil.PG_HOMECRAFTS] = UrlUtil.URL_TO_HASH_GENERIC;
 UrlUtil.URL_TO_HASH_BUILDER[UrlUtil.PG_DECKS] = UrlUtil.URL_TO_HASH_GENERIC;
+UrlUtil.URL_TO_HASH_BUILDER[UrlUtil.PG_NAMES] = ent => UrlUtil.encodeForHash([ent.name, ent.source, ent.option]);
+UrlUtil.URL_TO_HASH_BUILDER[UrlUtil.PG_ENCOUNTERGEN] = ent => UrlUtil.encodeForHash([ent.name, ent.source, `${ent.minlvl ?? 0}-${ent.maxlvl ?? 0}-${ent.caption || ""}`]);
 UrlUtil.URL_TO_HASH_BUILDER[UrlUtil.PG_CLASS_SUBCLASS_FEATURES] = (it) => (it.__prop === "subclassFeature" || it.subclassSource) ? UrlUtil.URL_TO_HASH_BUILDER["subclassFeature"](it) : UrlUtil.URL_TO_HASH_BUILDER["classFeature"](it);
 UrlUtil.URL_TO_HASH_BUILDER[UrlUtil.PG_CREATURE_FEATURES] = UrlUtil.URL_TO_HASH_GENERIC;
 UrlUtil.URL_TO_HASH_BUILDER[UrlUtil.PG_VEHICLE_FEATURES] = UrlUtil.URL_TO_HASH_GENERIC;
@@ -4456,17 +4369,17 @@ globalThis.SortUtil = class {
 
 		const dispCarets = [...wrpBtnsSort.querySelectorAll(`[data-sort]`)]
 			.map(btnSort => {
-				const dispCaret = e_({
+				const dispCaret = veE({
 					tag: "span",
 					clazz: "ve-lst__caret",
 				})
-					.appendTo(btnSort);
+					.vee.appendTo(btnSort);
 
-				const btnSortField = btnSort.dataset.sort;
+				const btnSortField = btnSort.getAttribute("data-sort");
 
 				if (btnSortField === list.sortBy) dispCaretInitial = dispCaret;
 
-				e_({
+				veE({
 					ele: btnSort,
 					click: evt => {
 						evt.stopPropagation();
@@ -4491,17 +4404,17 @@ globalThis.SortUtil = class {
 			direction,
 		},
 	) {
-		dispCarets.forEach(it => it.removeClass("ve-lst__caret--active"));
-		dispCaret.addClass("ve-lst__caret--active").toggleClass("ve-lst__caret--reverse", direction === "asc");
+		dispCarets.forEach(it => it.vee.removeClass("ve-lst__caret--active"));
+		dispCaret.vee.addClass("ve-lst__caret--active").vee.toggleClass("ve-lst__caret--reverse", direction === "asc");
 	}
 
 	/** Add more list sort on-clicks to existing sort buttons. */
 	static initBtnSortHandlersAdditional (wrpBtnsSort, list) {
 		[...wrpBtnsSort.querySelectorAll(".sort")]
 			.map(btnSort => {
-				const btnSortField = btnSort.dataset.sort;
+				const btnSortField = btnSort.getAttribute("data-sort");
 
-				e_({
+				veE({
 					ele: btnSort,
 					click: evt => {
 						evt.stopPropagation();
@@ -4568,6 +4481,11 @@ globalThis.SortUtil = class {
 		const ixA = SortUtil._ITEM_RARITY_ORDER.indexOf(a);
 		const ixB = SortUtil._ITEM_RARITY_ORDER.indexOf(b);
 		return (~ixA ? ixA : Number.MAX_SAFE_INTEGER) - (~ixB ? ixB : Number.MAX_SAFE_INTEGER);
+	}
+
+	static ascSortSpellRechargeKeys (a, b) {
+		// `parseInt` discards trailing/un-parsed `e`s; secondary ascSort handles `e`-vs-not-`e`
+		return SortUtil.ascSort(parseInt(a, 10), parseInt(b, 10)) || SortUtil.ascSort(a, b);
 	}
 };
 
@@ -5824,19 +5742,14 @@ globalThis.DataUtil = class {
 				["recharge", "legendary", "charges", "rest", "restLong", "daily", "weekly", "monthly", "yearly"].forEach(prop => {
 					if (!modInfo[prop]) return;
 
-					for (let i = 1; i <= 9; ++i) {
-						const e = `${i}e`;
+					Object.entries(modInfo[prop])
+						.forEach(([k, spells]) => {
+							if (!VeCt.SPELL_USES_KEYS.has(k) && !VeCt.SPELL_USES_KEYS_EACH.has(k)) return;
 
-						spellcasting[prop] = spellcasting[prop] || {};
+							spellcasting[prop] ||= {};
 
-						if (modInfo[prop][i]) {
-							modInfo[prop][i].forEach(sp => (spellcasting[prop][i] = spellcasting[prop][i] || []).push(sp));
-						}
-
-						if (modInfo[prop][e]) {
-							modInfo[prop][e].forEach(sp => (spellcasting[prop][e] = spellcasting[prop][e] || []).push(sp));
-						}
-					}
+							spells.forEach(sp => (spellcasting[prop][k] ||= []).push(sp));
+						});
 				});
 			}
 
@@ -5868,19 +5781,16 @@ globalThis.DataUtil = class {
 				}
 
 				// TODO should be extended  to handle all non-slot-based spellcasters
-				if (modInfo.daily) {
-					for (let i = 1; i <= 9; ++i) {
-						const e = `${i}e`;
+				["daily"].forEach(prop => {
+					if (!modInfo[prop]) return;
 
-						if (modInfo.daily[i]) {
-							modInfo.daily[i].forEach(replaceMeta => handleReplace(spellcasting.daily, replaceMeta, i));
-						}
+					Object.entries(modInfo[prop])
+						.forEach(([k, replaceMetas]) => {
+							if (!VeCt.SPELL_USES_KEYS.has(k) && !VeCt.SPELL_USES_KEYS_EACH.has(k)) return;
 
-						if (modInfo.daily[e]) {
-							modInfo.daily[e].forEach(replaceMeta => handleReplace(spellcasting.daily, replaceMeta, e));
-						}
-					}
-				}
+							replaceMetas.forEach(replaceMeta => handleReplace(spellcasting[prop], replaceMeta, k));
+						});
+				});
 			}
 
 			static _doMod_removeSpells ({copyTo, copyFrom, modInfo, msgPtFailed}) {
@@ -5907,19 +5817,14 @@ globalThis.DataUtil = class {
 				["recharge", "legendary", "charges", "rest", "restLong", "daily", "weekly", "monthly", "yearly"].forEach(prop => {
 					if (!modInfo[prop]) return;
 
-					for (let i = 1; i <= 9; ++i) {
-						const e = `${i}e`;
+					Object.entries(modInfo[prop])
+						.forEach(([k, spells]) => {
+							if (!VeCt.SPELL_USES_KEYS.has(k) && !VeCt.SPELL_USES_KEYS_EACH.has(k)) return;
 
-						spellcasting[prop] = spellcasting[prop] || {};
+							spellcasting[prop] ||= {};
 
-						if (modInfo[prop][i]) {
-							spellcasting[prop][i] = spellcasting[prop][i].filter(it => !modInfo[prop][i].includes(it));
-						}
-
-						if (modInfo[prop][e]) {
-							spellcasting[prop][e] = spellcasting[prop][e].filter(it => !modInfo[prop][e].includes(it));
-						}
-					}
+							spellcasting[prop][k] = spellcasting[prop][k].filter(it => !spells.includes(it));
+						});
 				});
 			}
 
@@ -8979,7 +8884,7 @@ Map.prototype.getOrSet || Object.defineProperty(Map.prototype, "getOrSet", {
  *
  * @param opts Options object.
  * @param opts.hashKey to use in the URL so that forward/back can open/close the view
- * @param opts.btnOpen jQuery-selected button to bind click open/close
+ * @param opts.btnOpen Button to bind click open/close
  * @param [opts.eleNoneVisible] "error" message to display if user has not selected any viewable content
  * @param opts.pageTitle Title.
  * @param opts.state State to modify when opening/closing.
@@ -9007,12 +8912,12 @@ class BookModeViewBase {
 		if (this._hashKey && this._stateKey) throw new Error(`Only one of "hashKey" and "stateKey" may be specified!`);
 
 		this._state = state;
-		this._btnOpen = e_({ele: btnOpen});
+		this._btnOpen = veE({ele: btnOpen});
 
 		this._isActive = false;
 		this._wrpBook = null;
 
-		this._btnOpen.onn("click", () => this.setStateOpen());
+		this._btnOpen.vee.onn("click", () => this.setStateOpen());
 	}
 
 	/* -------------------------------------------- */
@@ -9030,49 +8935,49 @@ class BookModeViewBase {
 	/* -------------------------------------------- */
 
 	_getWindowHeaderLhs () {
-		return ee`<div class="ve-flex-v-center"></div>`;
+		return veT`<div class="ve-flex-v-center"></div>`;
 	}
 
 	_getBtnWindowClose () {
-		return ee`<button class="ve-btn ve-btn-xs ve-btn-danger ve-br-0 ve-bt-0 ve-btl-0 ve-btr-0 ve-bbr-0 ve-bbl-0 ve-h-20p" title="Close"><span class="glyphicon glyphicon-remove"></span></button>`
-			.onn("click", () => this.setStateClosed());
+		return veT`<button class="ve-btn ve-btn-xs ve-btn-danger ve-br-0 ve-bt-0 ve-btl-0 ve-btr-0 ve-bbr-0 ve-bbl-0 ve-h-20p" title="Close"><span class="glyphicon glyphicon-remove"></span></button>`
+			.vee.onn("click", () => this.setStateClosed());
 	}
 
 	/* -------------------------------------------- */
 
 	async _pGetWrpControls ({wrpContent}) {
-		const wrp = ee`<div class="ve-w-100 ve-flex-col ve-no-shrink no-print"></div>`;
+		const wrp = veT`<div class="ve-w-100 ve-flex-col ve-no-shrink no-print"></div>`;
 
 		if (!this._hasPrintColumns) return {wrp};
 
-		["ve-px-2", "ve-mt-2", "ve-bb-1p", "ve-pb-1"].forEach(clz => wrp.addClass(clz));
+		["ve-px-2", "ve-mt-2", "ve-bb-1p", "ve-pb-1"].forEach(clz => wrp.vee.addClass(clz));
 
 		const onChangeColumnCount = (cols) => {
-			wrpContent.toggleClass(`bkmv__wrp--columns-1`, cols === 1);
-			wrpContent.toggleClass(`bkmv__wrp--columns-2`, cols === 2);
+			wrpContent.vee.toggleClass(`bkmv__wrp--columns-1`, cols === 1);
+			wrpContent.vee.toggleClass(`bkmv__wrp--columns-2`, cols === 2);
 		};
 
 		const lastColumns = StorageUtil.syncGetForPage(BookModeViewBase._BOOK_VIEW_COLUMNS_K);
 
 		const onChangeSelColumns = () => {
-			const val = Number(selColumns.val());
+			const val = Number(selColumns.vee.val());
 			if (val === 0) onChangeColumnCount(2);
 			else onChangeColumnCount(1);
 
 			StorageUtil.syncSetForPage(BookModeViewBase._BOOK_VIEW_COLUMNS_K, val);
 		};
 
-		const selColumns = ee`<select class="ve-form-control ve-input-sm">
+		const selColumns = veT`<select class="ve-form-control ve-input-sm">
 			<option value="0">Two (book style)</option>
 			<option value="1">One</option>
 		</select>`
-			.onn("change", () => onChangeSelColumns());
-		selColumns.val(`${lastColumns ?? 0}`);
+			.vee.onn("change", () => onChangeSelColumns());
+		selColumns.vee.val(`${lastColumns ?? 0}`);
 		onChangeSelColumns();
 
-		const wrpPrint = ee`<div class="ve-w-100 ve-flex">
+		const wrpPrint = veT`<div class="ve-w-100 ve-flex">
 			<div class="ve-flex-vh-center"><div class="ve-mr-2 ve-no-wrap ve-help-subtle" title="Applied when printing the page.">Print columns:</div>${selColumns}</div>
-		</div>`.appendTo(wrp);
+		</div>`.vee.appendTo(wrp);
 
 		return {wrp, wrpPrint};
 	}
@@ -9082,8 +8987,8 @@ class BookModeViewBase {
 	_getEleNoneVisible () { return null; }
 
 	_getBtnNoneVisibleClose () {
-		return ee`<button class="ve-btn ve-btn-default">Close</button>`
-			.onn("click", () => this.setStateClosed());
+		return veT`<button class="ve-btn ve-btn-default">Close</button>`
+			.vee.onn("click", () => this.setStateClosed());
 	}
 
 	/** @abstract */
@@ -9119,18 +9024,18 @@ class BookModeViewBase {
 
 		if (this._wrpBook) this._wrpBook.remove();
 
-		this._wrpBook = ee`<div class="bkmv print__h-initial ve-flex-col print__ve-block">
+		this._wrpBook = veT`<div class="bkmv print__h-initial ve-flex-col print__ve-block">
 			<div class="bkmv__spacer-name no-print ve-split-v-center ve-no-shrink no-print">${this._getWindowHeaderLhs()}${this._getBtnWindowClose()}</div>
 			${(await this._pGetWrpControls({wrpContent})).wrp}
 			${wrpContentOuter}
 		</div>`
-			.appendTo(document.body);
+			.vee.appendTo(document.body);
 	}
 
 	async _pGetContentElementMetas () {
-		const wrpContent = ee`<div class="bkmv__scroller ve-smooth-scroll ve-overflow-y-auto print__overflow-visible ${this._isColumns ? "bkmv__wrp" : "ve-flex-col"} ve-w-100 ve-min-h-0"></div>`;
+		const wrpContent = veT`<div class="bkmv__scroller ve-smooth-scroll ve-overflow-y-auto print__overflow-visible ${this._isColumns ? "bkmv__wrp" : "ve-flex-col"} ve-w-100 ve-min-h-0"></div>`;
 
-		const wrpContentOuter = ee`<div class="ve-h-100 print__h-initial ve-w-100 ve-min-h-0 ve-flex-col print__ve-block">${wrpContent}</div>`;
+		const wrpContentOuter = veT`<div class="ve-h-100 print__h-initial ve-w-100 ve-min-h-0 ve-flex-col print__ve-block">${wrpContent}</div>`;
 
 		const out = {
 			wrpContentOuter,
@@ -9139,11 +9044,11 @@ class BookModeViewBase {
 
 		const {cntSelectedEnts, isAnyEntityRendered} = await this._pGetRenderContentMeta({wrpContent, wrpContentOuter});
 
-		if (isAnyEntityRendered) wrpContentOuter.appends(wrpContent);
+		if (isAnyEntityRendered) wrpContentOuter.vee.appends(wrpContent);
 
 		if (cntSelectedEnts) return out;
 
-		wrpContentOuter.appends(this._getEleNoneVisible());
+		wrpContentOuter.vee.appends(this._getEleNoneVisible());
 
 		return out;
 	}
@@ -9387,11 +9292,11 @@ globalThis.ExtensionUtil = class {
 	}
 
 	static _getElementData ({ele}) {
-		const eleParent = e_({ele}).closeste(`[data-page]`);
-		const page = eleParent.attr("data-page");
-		const source = eleParent.attr("data-source");
-		const hash = eleParent.attr("data-hash");
-		const rawExtensionData = eleParent.attr("data-extension");
+		const eleParent = veE({ele}).vee.closest(`[data-page]`);
+		const page = eleParent.vee.attr("data-page");
+		const source = eleParent.vee.attr("data-source");
+		const hash = eleParent.vee.attr("data-hash");
+		const rawExtensionData = eleParent.vee.attr("data-extension");
 		const extensionData = rawExtensionData ? JSON.parse(rawExtensionData) : null;
 
 		return {page, source, hash, extensionData};
@@ -9653,14 +9558,14 @@ if (!globalThis.IS_VTT && typeof window !== "undefined") {
 				"div-gpt-ad-5etools36834", // mobile middle
 			].forEach(id => {
 				const iv = setInterval(() => {
-					const wrp = es(`#${id}`);
+					const wrp = veEs(`#${id}`);
 					if (!wrp) return;
-					if (!wrp.childrene().length) return;
-					if (wrp.childrene()[0].tagName === "SCRIPT") return;
-					const tgt = wrp.closeste(".cancer__anchor")?.find(".cancer__disp-cancer");
+					if (!wrp.vee.children().length) return;
+					if (wrp.vee.children()[0].tagName === "SCRIPT") return;
+					const tgt = wrp.vee.closest(".cancer__anchor")?.vee.find(".cancer__disp-cancer");
 					if (tgt) {
 						anyFound = true;
-						tgt.css({display: "flex"}).text("Advertisements");
+						tgt.vee.css({display: "flex"}).vee.txt("Advertisements");
 						clearInterval(iv);
 					}
 				}, 250);
@@ -9673,25 +9578,25 @@ if (!globalThis.IS_VTT && typeof window !== "undefined") {
 				if (isPadded) return;
 				isPadded = true;
 				// Pad the bottom of the page so the adhesive unit doesn't overlap the content
-				em(`.view-col-group--cancer`).forEach(ele => ele.appends(`<div class="ve-w-100 ve-no-shrink" style="height: 110px;"></div>`));
+				veEm(`.view-col-group--cancer`).forEach(ele => ele.vee.appends(`<div class="ve-w-100 ve-no-shrink" style="height: 110px;"></div>`));
 			}, 300);
 			ivsCancer.push(ivPad);
 		});
 
 		// Hack to lock the ad space at a fixed size--prevents the screen from shifting around once loaded
 		setTimeout(() => {
-			const wrps = em(`.cancer__wrp-leaderboard-inner`);
-			if (anyFound) wrps.forEach(ele => ele.css({height: 90}));
+			const wrps = veEm(`.cancer__wrp-leaderboard-inner`);
+			if (anyFound) wrps.forEach(ele => ele.vee.css({height: 90}));
 			ivsCancer.forEach(iv => clearInterval(iv));
 		}, 6500);
 	} else {
-		if (!isDbgCancer) window.addEventListener("load", () => em(`.cancer__anchor`).forEach(ele => ele.remove()));
+		if (!isDbgCancer) window.addEventListener("load", () => veEm(`.cancer__anchor`).forEach(ele => ele.remove()));
 	}
 
 	if (isDbgCancer) {
 		window.addEventListener("load", () => {
-			em(`.cancer__sidebar-inner--top`).forEach(ele => ele.appends(`<div style="width: 300px; height: 600px; background: #f0f;"></div>`));
-			em(`.cancer__sidebar-inner--bottom`).forEach(ele => ele.appends(`<div style="width: 300px; height: 600px; background: #f0f;"></div>`));
+			veEm(`.cancer__sidebar-inner--top`).forEach(ele => ele.vee.appends(`<div style="width: 300px; height: 600px; background: #f0f;"></div>`));
+			veEm(`.cancer__sidebar-inner--bottom`).forEach(ele => ele.vee.appends(`<div style="width: 300px; height: 600px; background: #f0f;"></div>`));
 		});
 	}
 	// endregion

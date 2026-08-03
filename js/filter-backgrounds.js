@@ -187,13 +187,13 @@ class ModalFilterBackgrounds extends ModalFilterBase {
 			eleRow,
 			bg.name,
 			{
-				hash,
 				source,
 				sourceJson: bg.source,
 				...ListItem.getCommonValues(bg),
 				skills: bg._skillDisplay,
 			},
 			{
+				hash,
 				cbSel: eleRow.firstElementChild.firstElementChild.firstElementChild,
 				btnShowHidePreview,
 			},

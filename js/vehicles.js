@@ -17,29 +17,31 @@ class VehiclesSublistManager extends SublistManager {
 	}
 
 	pGetSublistItem (it, hash) {
-		const displayType = it.vehicleType ? Parser.vehicleTypeToFull(it.vehicleType) : it.upgradeType.map(t => Parser.vehicleTypeToFull(t));
-		const cellsText = [displayType, it.name];
+		const displayType = it.vehicleType
+			? [Parser.vehicleTypeToFull(it.vehicleType)]
+			: (it.upgradeType || []).map(t => Parser.vehicleUpgradeTypeToFull(t));
+		const cellsText = [displayType.join(", ").qq(), it.name];
 
-		const ele = ee`<div class="ve-lst__row ve-lst__row--sublist ve-flex-col">
+		const ele = veT`<div class="ve-lst__row ve-lst__row--sublist ve-flex-col">
 			<a href="#${hash}" class="ve-lst__row-border ve-lst__row-inner">
 				${this.constructor._getRowCellsHtml({values: cellsText})}
 			</a>
 		</div>`
-			.onn("contextmenu", evt => this._handleSublistItemContextMenu(evt, listItem))
-			.onn("click", evt => this._listSub.doSelect(listItem, evt));
+			.vee.onn("contextmenu", evt => this._handleSublistItemContextMenu(evt, listItem))
+			.vee.onn("click", evt => this._listSub.doSelect(listItem, evt));
 
 		const listItem = new ListItem(
 			hash,
 			ele,
 			it.name,
 			{
-				hash,
-				page: it.page,
+				...ListItem.getCommonValues(it),
 				vehicleType: it.vehicleType,
 				upgradeType: it.upgradeType,
 				type: displayType,
 			},
 			{
+				hash,
 				entity: it,
 				mdRow: [...cellsText],
 			},
@@ -85,10 +87,12 @@ class VehiclesPage extends ListPage {
 
 		const source = Parser.sourceJsonToAbv(it.source);
 		const hash = UrlUtil.autoEncodeHash(it);
-		const displayType = it.vehicleType ? Parser.vehicleTypeToFull(it.vehicleType) : it.upgradeType.map(t => Parser.vehicleTypeToFull(t));
+		const displayType = it.vehicleType
+			? [Parser.vehicleTypeToFull(it.vehicleType)]
+			: (it.upgradeType || []).map(t => Parser.vehicleUpgradeTypeToFull(t));
 
 		eleLi.innerHTML = `<a href="#${UrlUtil.autoEncodeHash(it)}" class="ve-lst__row-border ve-lst__row-inner">
-			<span class="ve-col-6 ve-pl-0 ve-pr-1 ve-text-center">${displayType}</span>
+			<span class="ve-col-6 ve-pl-0 ve-pr-1 ve-text-center">${displayType.join(", ").qq()}</span>
 			<span class="ve-bold ve-col-4 ve-px-1">${it.name}</span>
 			<span class="ve-col-2 ve-text-center ${Parser.sourceJsonToSourceClassname(it.source)} ve-pl-1 ve-pr-0" title="${Parser.sourceJsonToFull(it.source)}">${source}</span>
 		</a>`;
@@ -98,14 +102,14 @@ class VehiclesPage extends ListPage {
 			eleLi,
 			it.name,
 			{
-				hash,
 				source,
-				page: it.page,
+				...ListItem.getCommonValues(it),
 				vehicleType: it.vehicleType,
 				upgradeType: it.upgradeType,
 				type: displayType,
 			},
 			{
+				hash,
 				isExcluded,
 			},
 		);
@@ -117,7 +121,7 @@ class VehiclesPage extends ListPage {
 	}
 
 	_renderStats_doBuildStatsTab ({ent}) {
-		this._pgContent.empty().appends(RenderVehicles.getRenderedVehicle(ent));
+		this._pgContent.vee.empty().vee.appends(RenderVehicles.getRenderedVehicle(ent));
 
 		this._tokenDisplay.render(ent);
 	}
