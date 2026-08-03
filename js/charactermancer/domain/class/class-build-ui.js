@@ -256,6 +256,31 @@ export class ClassBuildUi extends BaseComponent {
 		const wrpSel = ee`<div class="cmchr__class-sel ve-flex-col ve-w-100"></div>`;
 		wrpSelBlock.append(wrpSel);
 
+		// Level Selection UI
+		const wrpLevelSel = ee`<div class="ve-flex-col ve-w-100 ve-mt-2"></div>`;
+		const lblLevel = ee`<div class="ve-bold ve-mb-1">Target Level</div>`;
+		const wrpLevelList = ee`<div class="veapp__list ve-flex-col ve-w-100 ve-overflow-y-auto" style="max-height: 120px; border: 1px solid var(--border-color); border-radius: 3px;"></div>`;
+		
+		const paintLevelList = () => {
+			wrpLevelList.empty();
+			for (let i = 1; i <= 20; i++) {
+				const isSelected = this._getEntry().targetLevel === i;
+				const row = ee`<label class="ve-flex-v-center ve-py-1 ve-px-2 stripe-even ve-clickable ${isSelected ? "veapp__list-row-active" : ""}">
+					<input type="radio" name="class-level" value="${i}" class="ve-mr-2" ${isSelected ? "checked" : ""}>
+					<span>Level ${i}</span>
+				</label>`;
+				row.onn("change", () => {
+					this._getEntry().targetLevel = i;
+					this._syncEntryFromState();
+					paintLevelList();
+				});
+				wrpLevelList.append(row);
+			}
+		};
+		paintLevelList();
+		wrpLevelSel.append(lblLevel, wrpLevelList);
+		wrpSelBlock.append(wrpLevelSel);
+
 		const {wrp: wrpClassSel, setFnFilter: setFnFilterClass} = ComponentUiUtil.getSelSearchable(
 			this,
 			"ixClass",

@@ -32,3 +32,6 @@ dev-*.sh
 
 # NotebookLM export output (local only)
 tools/notebooklm-export/output/
+
+# Sword Coast export output (local only)
+tools/sword-coast-export/output/

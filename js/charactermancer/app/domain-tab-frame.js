@@ -61,7 +61,7 @@ export class DomainTabFrame {
 
 		const wrpRoot = ee`<div class="cmchr__domain cmchr__domain--two-col ve-flex-col w-100 h-100 min-h-0">
 			<div class="cmchr__split-panel ve-flex flex-1 min-h-0 w-100">
-				<div class="cmchr__lhs ve-flex-col min-h-0 min-w-0">
+				<div class="cmchr__lhs ve-col-6 ve-flex-col min-h-0 min-w-0" style="border-right: 1px solid var(--border-color);">
 					<div class="cmchr__lhs-chrome ve-flex-v-baseline no-shrink px-2 pt-2 ${useGlobalListFilter ? "" : "ve-hidden"}">
 						<h5 class="cmchr__lhs-title mb-0">${tab.selectTitle}</h5>
 						<div class="cmchr__lhs-meta ml-auto ve-flex-v-center ve-hidden"></div>
@@ -69,7 +69,7 @@ export class DomainTabFrame {
 					<div class="cmchr__filter-bar px-2 ${useGlobalListFilter ? "" : "cmchr__filter-bar--mini-only"}"></div>
 					<div class="cmchr__lhs-body ve-flex-col flex-1 min-h-0 px-2 pb-2"></div>
 				</div>
-				<div class="cmchr__rhs ve-flex-col flex-1 min-h-0 min-w-0">
+				<div class="cmchr__rhs ve-col-6 ve-flex-col flex-1 min-h-0 min-w-0">
 					<div class="cmchr__preview-pane flex-1 min-h-0 overflow-y-auto smooth-scroll">
 						<div class="initial-message initial-message--med ve-flex-vh-center flex-1 min-h-0">Select an entry from the list to view it here</div>
 					</div>

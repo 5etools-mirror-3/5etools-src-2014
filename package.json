@@ -44,6 +44,7 @@
 		"serve:dev": "http-server -c-1 --cors --port 5050",
 		"serve:dev:tls": "http-server -c-1 --cors --port 5051 --tls --cert certs-dev-only/throwaway-cert.pem --key certs-dev-only/throwaway-key.pem",
 		"export:notebooklm": "node tools/notebooklm-export/export.js",
+		"export:sword-coast": "node tools/sword-coast-export/export.js",
 		"spellcheck:check-data": "node node/spellcheck.js",
 		"spellcheck:check-data:fast": "node node/spellcheck.js --fast",
 		"spellcheck:trust-data": "node node/spellcheck.js --trust",
