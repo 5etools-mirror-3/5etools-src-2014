@@ -359,13 +359,13 @@
 								{
 									"type": "list",
 									"items": [
-										"{@adventure Chapter 11|RoT|3|Varram the White}: Death to the Wyrmspeakers ({@creature Varram|RoT})",
+										"{@area Chapter 11|0db|x}: Death to the Wyrmspeakers ({@creature Varram|RoT})",
 										"{@area Chapter 10|07e|x}: The Sea of Moving Ice",
 										"{@area Chapter 13|155|x}: The Cult Strikes Back (First Attack)",
 										"{@area Chapter 12|12d|x}: Death to the Wyrmspeakers ({@creature Neronvain|RoT})",
 										"{@area Chapter 13|15d|x}: The Cult Strikes Back (Second Attack)",
-										"{@adventure Chapter 15|RoT|6}: Xonthal's Tower",
-										"{@adventure Chapter 16|RoT|7}: Mission to Thay (level gain at DM's option)",
+										"{@area Chapter 15|192|x}: Xonthal's Tower",
+										"{@area Chapter 16|1dd|x}: Mission to Thay (level gain at DM's option)",
 										"{@area Chapter 13|166|x}: The Cult Strikes Back (Third Attack)"
 									],
 									"columns": 3
@@ -379,7 +379,7 @@
 							"page": 9,
 							"id": "029",
 							"entries": [
-								"For characters who have not played {@adventure Hoard of the Dragon Queen|HotDQ}, the adventure can also begin by playing out another chapter before the first session of the Council of Waterdeep. The party could be summoned by a factional leader seeking aid against the Cult of the Dragon, with the characters asked to undertake the \"{@creature Varram|RoT} the White\" portion of the \"{@adventure Chapter 11 and 12: Death to the Wyrmspeakers.|RoT|3}\" Seeking to capture a high-ranking cult leader is a great step in the fight against the cult. Once they return to Waterdeep, the adventurers then become embroiled in the first session of the \"{@adventure Chapter 9: Council of Waterdeep|RoT|1}.\"",
+								"For characters who have not played {@adventure Hoard of the Dragon Queen|HotDQ}, the adventure can also begin by playing out another chapter before the first session of the Council of Waterdeep. The party could be summoned by a factional leader seeking aid against the Cult of the Dragon, with the characters asked to undertake the \"{@creature Varram|RoT} the White\" portion of the \"{@area Chapter 11 and 12: Death to the Wyrmspeakers.|0da|x}\" Seeking to capture a high-ranking cult leader is a great step in the fight against the cult. Once they return to Waterdeep, the adventurers then become embroiled in the first session of the \"{@area Chapter 9: Council of Waterdeep|05f|x}.\"",
 								"{@i Tyranny of Dragons} can be adapted to different regions of the Forgotten Realms, or to a different campaign setting entirely with a bit of preparation on your part. Change the names, factions, and locations present in the adventure to suit your own campaign.",
 								{
 									"type": "inset",
@@ -484,7 +484,8 @@
 					"imageType": "map",
 					"title": "Map of the Sword Coast",
 					"width": 2650,
-					"height": 3800
+					"height": 3800,
+					"id": "254"
 				},
 				{
 					"type": "section",
@@ -604,7 +605,7 @@
 									"entries": [
 										"Red Wizards can be encountered anywhere on the Sword Coast (use {@creature mage} stats if necessary), whether operating alongside cultists or on their own. They most often work alone, but two or three Red Wizards might join forces for an important assignment. In a public area where their appearance could put them at risk, Red Wizards favor deep hoods and scarves to hide their faces. Their undead {@creature wight} bodyguards are usually nearby\u2014and often {@condition invisible}. Each {@creature Red Wizard|RoT} specializes in a single school of magic, but all learn spells outside their specialty schools.",
 										"Red Wizards don't share the cultists' fanaticism for {@creature Tiamat|RoT}. For them, bringing the Dragon Queen into the world is just one stage of what they call the Thayan Resurrection\u2014the larger plan to destroy Szass Tam and reclaim Thay. They tolerate the dragon cultists but do not acknowledge them as equals.",
-										"Not every {@creature Red Wizard|RoT} on the Sword Coast is working for Rath Modar or the Cult of the Dragon. Some pursue their own interests, while others are spies for Szass Tam. The adventurers might thus find themselves making uneasy alliances with characters they would normally never trust, since the easiest and surest way to eliminate a {@creature Red Wizard|RoT} in service to the cult is to betray that wizard's location to an agent of Szass Tam. However, characters who get too close to Szass Tam's servants and his paranoid vendetta against the {@creature Red Wizard|RoT} exiles might find themselves at the mercy of the Thayans. This possibility is explored more fully in {@adventure chapter 16|RoT|7}."
+										"Not every {@creature Red Wizard|RoT} on the Sword Coast is working for Rath Modar or the Cult of the Dragon. Some pursue their own interests, while others are spies for Szass Tam. The adventurers might thus find themselves making uneasy alliances with characters they would normally never trust, since the easiest and surest way to eliminate a {@creature Red Wizard|RoT} in service to the cult is to betray that wizard's location to an agent of Szass Tam. However, characters who get too close to Szass Tam's servants and his paranoid vendetta against the {@creature Red Wizard|RoT} exiles might find themselves at the mercy of the Thayans. This possibility is explored more fully in {@area chapter 16|1dd|x}."
 									]
 								}
 							]
@@ -876,7 +877,7 @@
 										"Lady Laeral is present starting with the second council, at which point she becomes the Open Lord of Waterdeep. She is one of the Seven Sisters\u2014legendary, nigh-immortal figures known to have been blessed by Mystra. (Some even say they are the goddess's daughters.) Her spellcasting ability is impressive but is beginning to wane, and she focuses more on political power than on the arcane these days. The Masked Lords of Waterdeep choose her as the successor to Dagult Neverember between the first and second sessions of the Council of Waterdeep, making her the leader of the Lords' Alliance.",
 										"Laeral Silverhand brings centuries of leadership experience and an impressive reputation to the negotiations. A consummate diplomat, she can wield words that wound or soothe with equal ease. As the Open Lord of Waterdeep, she holds great sway with all the delegates except Dagult Neverember, who believes that she engineered his removal from the position of Open Lord.",
 										"Laeral's primary concern is keeping all parties at the negotiating table, and making sure that concrete actions result from each council's discussions. However, she is leery of committing troops to battle. No stranger to the horrors of war, she is keenly aware that the lands represented by the Lords' Alliance need their soldiers for the protection of their own people. Only when convinced that the Cult of the Dragon is likely to succeed in summoning {@creature Tiamat|RoT} does she change her mind. However, she doesn't trust the adventurers with leadership unless their deeds in the field and at the negotiating table have impressed her.",
-										"If the adventurers sway Laeral to their side, she speaks highly of the party in the periods between council sessions. Having the support of the leader of the Lords' Alliance increases the party's stature in the eyes of all other factions, granting additional bonuses. See \"{@adventure Chapter 9: Council of Waterdeep|RoT|1}\" and the Council Scorecard ({@adventure appendix B|HotDQ|10}) for more information."
+										"If the adventurers sway Laeral to their side, she speaks highly of the party in the periods between council sessions. Having the support of the leader of the Lords' Alliance increases the party's stature in the eyes of all other factions, granting additional bonuses. See \"{@area Chapter 9: Council of Waterdeep|05f|x}\" and the Council Scorecard ({@adventure appendix B|HotDQ|10}) for more information."
 									]
 								},
 								{
@@ -992,9 +993,9 @@
 								"Unknown to all but a few, the heart of the Zhentarim is a cabal of evil and sometimes monstrous leaders who seek to extend the Black Network's blood-soaked reach into every assassination, black market, and illegal deal that happens in Faerûn. The order's criminal connections burrow into every major city and thieves' guild in the Western Heartlands and along the Sword Coast. Wherever a city's coinage is disastrously undermined by counterfeiting, wherever an up-and-coming business runs roughshod over its established competitors, and wherever a political struggle turns to widespread intimidation, it's a safe bet that the Zhentarim are involved.",
 								"However, engaging in mainstream corruption and wanting to see {@creature Tiamat|RoT} ascendant are two different things. The Zhentarim have no illusions about what the Dragon Queen's return would mean for their plans. Wanting to secretly rule the world from the shadows for themselves, the leaders of the Black Network have no desire to become agents and errand-runners for some petty god and her dragon cohorts.",
 								"This viewpoint makes the Zhentarim an interesting addition to the characters' possible allies. Under normal circumstances, the Harpers, the Lords' Alliance, the Order of the Gauntlet, and the Emerald Enclave would shun ties to the Black Network\u2014and possibly arrest its emissaries. However, the crisis created by the Cult of the Dragon is unprecedented. Every resource that can be mustered will be needed in the final showdown against the cult, and the Zhentarim's network of spies, assassins, and mercenary armies cannot be ignored.",
-								"Even with the fate of the world and the Zhentarim's own future hanging in the balance, the order demands payment for services\u2014and where need and risk are greatest, the pay is expected to be equally great. This mercenary attitude does not sit well with the Lords' Alliance, however, and they are the only group with the resources to pay the Black Network's price. The heroes can attempt to sway the opinions of the other factions\u2014and have a chance to buy the Zhentarim's allegiance outright in the follow-up to {@adventure chapter 15|RoT|6}.",
+								"Even with the fate of the world and the Zhentarim's own future hanging in the balance, the order demands payment for services\u2014and where need and risk are greatest, the pay is expected to be equally great. This mercenary attitude does not sit well with the Lords' Alliance, however, and they are the only group with the resources to pay the Black Network's price. The heroes can attempt to sway the opinions of the other factions\u2014and have a chance to buy the Zhentarim's allegiance outright in the follow-up to {@area chapter 15|192|x}.",
 								"In the end, too much is at stake to sit this fight out, and the Zhentarim pitch in against the cult regardless of whether their price is paid. However, if the other factions want a voice in how the Zhentarim go to war against the cult, it will cost them. If the Zhentarim fight on their own, they strike when and how they choose.",
-								"At least one Black Network mission is carried out regardless of payment. Without the knowledge of anyone outside the Zhentarim, one of their agents has infiltrated the cult and gets close enough to Wyrmspeaker {@creature Varram|RoT} to steal the {@i White Dragon Mask}. This theft sets off a sequence of events that culminates in {@creature Varram|RoT}'s portion of the \"{@adventure Death to the Wyrmspeakers|RoT|3}\" chapter.",
+								"At least one Black Network mission is carried out regardless of payment. Without the knowledge of anyone outside the Zhentarim, one of their agents has infiltrated the cult and gets close enough to Wyrmspeaker {@creature Varram|RoT} to steal the {@i White Dragon Mask}. This theft sets off a sequence of events that culminates in {@creature Varram|RoT}'s portion of the \"{@area Death to the Wyrmspeakers|0da|x}\" chapter.",
 								{
 									"type": "entries",
 									"name": "Using the Zhentarim",
@@ -1036,7 +1037,7 @@
 									"page": 20,
 									"id": "05c",
 									"entries": [
-										"The metallic dragons will strike against the cultists at the Well of Dragons, but they are much more effective if their attacks are coordinated as part of the overall plan of battle. Moreover, if they can be brought into the alliance represented by the Council of Waterdeep, they can help defend humanoid territories from the cult's devastating raids. This is covered in greater detail in {@adventure chapter 14|RoT|5}."
+										"The metallic dragons will strike against the cultists at the Well of Dragons, but they are much more effective if their attacks are coordinated as part of the overall plan of battle. Moreover, if they can be brought into the alliance represented by the Council of Waterdeep, they can help defend humanoid territories from the cult's devastating raids. This is covered in greater detail in {@area chapter 14|16f|x}."
 									]
 								}
 							]
@@ -1078,7 +1079,7 @@
 					"width": 1537,
 					"height": 1000
 				},
-				"{@i The Rise of Tiamat} begins immediately after the conclusion of {@i Hoard of the Dragon Queen}, and assumes that the characters have returned to Waterdeep in the aftermath of that adventure. While in the city, the adventurers are summoned to the first meeting of the Council of Waterdeep. While at that gathering, they hear the sounding of the ancient {@item Draakhorn|RoT} that heralds the next stage of the Cult of the Dragon's plots. (See {@adventure Chapter 17|RoT|8} for more information on the {@item Draakhorn|RoT}, but be sure to withhold that information until the characters have played through the \"{@adventure Chapter 10: The Sea of Moving Ice|RoT|2}.\")",
+				"{@i The Rise of Tiamat} begins immediately after the conclusion of {@i Hoard of the Dragon Queen}, and assumes that the characters have returned to Waterdeep in the aftermath of that adventure. While in the city, the adventurers are summoned to the first meeting of the Council of Waterdeep. While at that gathering, they hear the sounding of the ancient {@item Draakhorn|RoT} that heralds the next stage of the Cult of the Dragon's plots. (See {@area Chapter 17|1e6|x} for more information on the {@item Draakhorn|RoT}, but be sure to withhold that information until the characters have played through the \"{@area Chapter 10: The Sea of Moving Ice|07e|x}.\")",
 				{
 					"type": "section",
 					"name": "Starting the Adventure",
@@ -1113,9 +1114,9 @@
 							"id": "063",
 							"entries": [
 								"When the characters arrive in Waterdeep, they are met by the Harper agent Leosin Erlanthar. The monk explains the purpose of the council and tells the adventurers they are expected to attend the first gathering\u2014both so the council can thank them for their great deeds and to advise the council about the Cult of the Dragon. Four meetings of the council occur at critical points throughout the crisis, right up to the final chapter of the adventure at the Well of Dragons.",
-								"During the {@b first session} of the council, all the Sword Coast becomes aware of how the Cult of the Dragon's plots are advancing when the {@item Draakhorn|RoT} sounds. In the aftermath, the characters are given leads to {@adventure chapter 10|RoT|2} or to {@creature Varram|RoT} in {@adventure chapter 11 and 12|RoT|3|Varram the White}.",
-								"{@b second session} of the council is summoned to address increasingly aggressive dragon activity. The characters are asked to investigate a devastating series of raids in the Misty Forest, leading to {@creature Neronvain|RoT} in \"{@area Chapters 11 and 12: Death to the Wyrmspeakers.|12d|x}\" The adventurers are also approached by a representative who wishes to bring the party to a secret meeting with the metallic dragons, leading to {@adventure chapter 14|RoT|5}.",
-								"A {@b third session} of the council is called to assess the gains made by the allied factions against the Cult of the Dragon. The party is called on to pursue two leads that might grant even more advantage over the cult\u2014a renegade cultist offering to turn over one of the dragon masks, in {@adventure chapter 15|RoT|6}, and an attempt to undercut the power of the exile Red Wizards in {@adventure chapter 16|RoT|7}.",
+								"During the {@b first session} of the council, all the Sword Coast becomes aware of how the Cult of the Dragon's plots are advancing when the {@item Draakhorn|RoT} sounds. In the aftermath, the characters are given leads to {@area chapter 10|07e|x} or to {@creature Varram|RoT} in {@area chapter 11 and 12|0db|x}.",
+								"{@b second session} of the council is summoned to address increasingly aggressive dragon activity. The characters are asked to investigate a devastating series of raids in the Misty Forest, leading to {@creature Neronvain|RoT} in \"{@area Chapters 11 and 12: Death to the Wyrmspeakers.|12d|x}\" The adventurers are also approached by a representative who wishes to bring the party to a secret meeting with the metallic dragons, leading to {@area chapter 14|16f|x}.",
+								"A {@b third session} of the council is called to assess the gains made by the allied factions against the Cult of the Dragon. The party is called on to pursue two leads that might grant even more advantage over the cult\u2014a renegade cultist offering to turn over one of the dragon masks, in {@area chapter 15|192|x}, and an attempt to undercut the power of the exile Red Wizards in {@area chapter 16|1dd|x}.",
 								"At the {@b fourth session} of the Council of Waterdeep, the adventurers learn that the plots of the Cult of the Dragon and the Red Wizards are nearing fruition. The forces of the various factions must gather in preparation for the assault on the Well of Dragons.",
 								"During each new council, the various factions measure the party's actions and achievements, comparing those actions to their own goals. Characters who further the goals of a faction will find that faction willing to pledge more resources to the fight against the cult. However, gaining the allegiance of one faction might lead to distrust from others. The adventurers must strike a careful balance in their appeal to\u2014and appeasement of\u2014the delegates to gather the strongest force possible to confront {@creature Tiamat|RoT}.",
 								"Though it isn't ideal for all attendees, the Lords' Palace in Waterdeep is the designated location of the council meetings. The Lords' Alliance faction is sending the most delegates, and those delegates prefer a civilized gathering place."
@@ -1130,7 +1131,7 @@
 					"id": "064",
 					"entries": [
 						"Though every faction provides some troops and resources toward the final showdown with the forces of {@creature Tiamat|RoT}, the extent of their support\u2014and how much effect that support will have\u2014is dependent on the respect the adventurers garner from each group for their actions. Before committing irrevocably to the fight, a faction must be convinced that the cult presents a danger surpassing all other concerns\u2014and that the adventurers are the right heroes to lead this fight. Moreover, what is worthy of respect in one faction might lose respect from another.",
-						"As the adventurers complete chapters of the adventure, you track how they earn or lose respect from each faction on the council scorecard (see {@adventure appendix B|RoT|10}). \"{@area Scoring the Sessions|07d|x},\" below, for more information.",
+						"As the adventurers complete chapters of the adventure, you track how they earn or lose respect from each faction on the council scorecard (see {@area appendix B|243|x}). \"{@area Scoring the Sessions|07d|x},\" below, for more information.",
 						{
 							"type": "entries",
 							"name": "Leading Delegates",
@@ -1185,7 +1186,7 @@
 										"\"The disturbance that's been sensed across the Sword Coast is the {@item Draakhorn|RoT}\u2014an ancient device whose sounding alerts dragons across Faerûn that great events are unfolding. It's impossible to say what the sounding means, but the dragons hear it clearly and will eventually answer its call. \""
 									]
 								},
-								"Lady Silmerhelve learned this from her family's secret benefactor, an ancient bronze dragon named Nymmurh. She knows a little more about the {@item Draakhorn|RoT}, but she waits to reveal it until she attends the first council meeting. She flatly refuses to tell anyone the source of her knowledge if asked. This makes Ulder Ravengard, King Connerad, and Ontharr Frume suspicious, but others take the secrecy in stride. If Lady Silmerhelve is treated poorly, It might affect how Nymmurh interacts with the characters in {@adventure Chapter 14.|RoT|5}\""
+								"Lady Silmerhelve learned this from her family's secret benefactor, an ancient bronze dragon named Nymmurh. She knows a little more about the {@item Draakhorn|RoT}, but she waits to reveal it until she attends the first council meeting. She flatly refuses to tell anyone the source of her knowledge if asked. This makes Ulder Ravengard, King Connerad, and Ontharr Frume suspicious, but others take the secrecy in stride. If Lady Silmerhelve is treated poorly, It might affect how Nymmurh interacts with the characters in {@area Chapter 14.|16f|x}\""
 							]
 						},
 						{
@@ -1218,7 +1219,7 @@
 									"page": 107,
 									"id": "06d",
 									"entries": [
-										"One of Remallia Haventree's first acts in her fight against the Cult of the Dragon was to encourage the Harpers to focus all their resources on the cult's activities and its most powerful members. Those efforts have been successful, and Leosin Erlanthar reports to the adventurers of the movements of {@creature Varram|RoT}, the cult's White Wyrmspeaker. This leads to \"{@adventure Varram the White|RoT|3|Varram the White},\" Part of \"{@adventure Chapters 11 and 12: Death to the Wyrmspeakers|RoT|3}\"."
+										"One of Remallia Haventree's first acts in her fight against the Cult of the Dragon was to encourage the Harpers to focus all their resources on the cult's activities and its most powerful members. Those efforts have been successful, and Leosin Erlanthar reports to the adventurers of the movements of {@creature Varram|RoT}, the cult's White Wyrmspeaker. This leads to \"{@area Varram the White|0db|x},\" Part of \"{@area Chapters 11 and 12: Death to the Wyrmspeakers|0da|x}\"."
 									]
 								},
 								{
@@ -1227,7 +1228,7 @@
 									"page": 107,
 									"id": "06e",
 									"entries": [
-										"The sounding of the {@item Draakhorn|RoT} weighs heavily on all the leaders of the Sword Coast. Seeking more information on the horn and its whereabouts leads the party on an expedition to the frozen North, and {@adventure chapter 10|RoT|2}."
+										"The sounding of the {@item Draakhorn|RoT} weighs heavily on all the leaders of the Sword Coast. Seeking more information on the horn and its whereabouts leads the party on an expedition to the frozen North, and {@area chapter 10|07e|x}."
 									]
 								}
 							]
@@ -1264,7 +1265,7 @@
 									"page": 107,
 									"id": "072",
 									"entries": [
-										"Delaan Winterhound of the Emerald Enclave is involved with investigations into recent dragon attacks in the Misty Forest. King Melandrach waves away Delaan's concerns, saying that dragon attacks in the area have stopped since his elves increased their patrols and fortified their positions. Discovering the truth will lead the adventurers to \"{@area Neronvain,|12d|x}\" part of \"{@adventure Chapters 11 and 12:Death to the Wyrmspeakers.|RoT|3}\""
+										"Delaan Winterhound of the Emerald Enclave is involved with investigations into recent dragon attacks in the Misty Forest. King Melandrach waves away Delaan's concerns, saying that dragon attacks in the area have stopped since his elves increased their patrols and fortified their positions. Discovering the truth will lead the adventurers to \"{@area Neronvain,|12d|x}\" part of \"{@area Chapters 11 and 12:Death to the Wyrmspeakers.|0da|x}\""
 									]
 								},
 								{
@@ -1273,7 +1274,7 @@
 									"page": 107,
 									"id": "073",
 									"entries": [
-										"During the council, the adventurers are introduced to the silver dragon Otaaryliakkarnos, in her human guise as Elia. She bears an invitation from the metallic dragons to a council of their own, and the council delegates ask the adventurers to attend. This leads into {@adventure chapter 14|RoT|5}."
+										"During the council, the adventurers are introduced to the silver dragon Otaaryliakkarnos, in her human guise as Elia. She bears an invitation from the metallic dragons to a council of their own, and the council delegates ask the adventurers to attend. This leads into {@area chapter 14|16f|x}."
 									]
 								}
 							]
@@ -1312,7 +1313,7 @@
 									"page": 108,
 									"id": "077",
 									"entries": [
-										"At the summit, information comes to the characters revealing that a senior member of the Cult of the Dragon seeks to defect from the group, and that the cultist is offering a dragon mask as part of his plea for aid. Though the offer could be a trap, the council delegates believe that the risk is worth it. The defector is holed up in a fortress known as Xonthal's Tower, recently taken over by the cult. Because a small team has a better chance to successfully infiltrate the tower than a larger force, the adventurers are asked to investigate. This leads to {@adventure chapter 15|RoT|6}."
+										"At the summit, information comes to the characters revealing that a senior member of the Cult of the Dragon seeks to defect from the group, and that the cultist is offering a dragon mask as part of his plea for aid. Though the offer could be a trap, the council delegates believe that the risk is worth it. The defector is holed up in a fortress known as Xonthal's Tower, recently taken over by the cult. Because a small team has a better chance to successfully infiltrate the tower than a larger force, the adventurers are asked to investigate. This leads to {@area chapter 15|192|x}."
 									]
 								},
 								{
@@ -1321,7 +1322,7 @@
 									"page": 108,
 									"id": "078",
 									"entries": [
-										"The Red Wizards are integral to the cult's plans for summoning {@creature Tiamat|RoT}, but the Red Wizards allied with the Cult of the Dragon are exiles with no connection to Thay. The Thayan Red Wizards approach the Council of Waterdeep asking for an envoy to be sent to Thay, where they must convince the most reviled wizards in Faerûn to join with the forces of the Sword Coast for the common good. This paves the way for {@adventure chapter 16|RoT|7}."
+										"The Red Wizards are integral to the cult's plans for summoning {@creature Tiamat|RoT}, but the Red Wizards allied with the Cult of the Dragon are exiles with no connection to Thay. The Thayan Red Wizards approach the Council of Waterdeep asking for an envoy to be sent to Thay, where they must convince the most reviled wizards in Faerûn to join with the forces of the Sword Coast for the common good. This paves the way for {@area chapter 16|1dd|x}."
 									]
 								}
 							]
@@ -1371,7 +1372,7 @@
 					"page": 109,
 					"id": "07d",
 					"entries": [
-						"Every faction will donate troops and resources to the struggle against the Cult of the Dragon. However, to win the battle requires the full, unconditional support of multiple factions. The outcome of the Council of Waterdeep is tracked on the {@b Council Scorecard} ({@adventure appendix B|RoT|10}), which determines what resources are available to oppose the Cult of the Dragon during the final confrontation at the Well of Dragons.",
+						"Every faction will donate troops and resources to the struggle against the Cult of the Dragon. However, to win the battle requires the full, unconditional support of multiple factions. The outcome of the Council of Waterdeep is tracked on the {@b Council Scorecard} ({@area appendix B|243|x}), which determines what resources are available to oppose the Cult of the Dragon during the final confrontation at the Well of Dragons.",
 						"Which way a faction leans is determined by the adventurers' actions and accomplishments during the adventure. Successfully completing an chapter of the adventure will usually gain support from multiple factions. However, each faction has its own priorities, and sometimes a heroic deed that pleases one faction can anger or disappoint another. In some cases, a faction might even prefer that the characters engage in antiheroic acts\u2014by executing certain enemies rather than taking prisoners, for example. The adventurers might also be seen to be favoring certain factions, if metallic dragon allies are sent to defend the interests and settlements of one faction over another.",
 						"Each faction has its own column on the scorecard. Important events that occur during {@i The Rise of Tiamat} are noted along the side of the scorecard, beginning with events that could have occurred in the previous adventure, {@i Hoard of the Dragon Queen}. If you didn't play {@i Hoard of the Dragon Queen}, assume that events marked with an asterisk (*) occurred and that other events did not.",
 						"A plus sign (+) for a particular faction and event indicates that the faction approves of the successful outcome of that event, and that the characters gain respect for that outcome. Each + counts as +1 in the final tally. A negative icon (\u2212) indicates that a faction disapproves of an outcome and the characters lose respect for it. Each\u2212counts as \u22121 in the final tally. A blank means that the faction either doesn't consider the event significant or that there's no consensus within the faction. Some events are especially important to certain factions, and are marked double plus (+/+) or double minus (\u2212/\u2212). They count as +2 or \u22122, respectively, in the tally.",
@@ -1381,7 +1382,7 @@
 						"The scorecard covers the events and outcomes that are likely to occur over the course of the adventure. However, {@i The Rise of Tiamat} is an open-ended scenario, such that decisions by the players might trigger events that aren't noted on the scorecard. Excellent diplomacy, good roleplaying, and creative handling of events that have the potential to impress or anger certain delegates can be rewarded with additional respect, at your discretion. Likewise, if the characters tackle chapters in a different order from this list, just mark off icons for events as they happen, then keep track of the subtotals as you see fit.",
 						"At the end of each council, add up all the plusses and minuses from that stage of the adventure and write the subtotal in the provided space. At the end of the fourth council, add up the subtotals. You can use the subtotals as feedback to give the players an idea of how the factions are reacting to their exploits and whether the delegates treat them with respect, disdain, or something between.",
 						"The scorecard is meant to be used only by the DM, but there's nothing wrong with sharing it with your players if that suits the style of your game. If you don't reveal the specifics of the scorecard, convey the players' and adventurers' goals through description and roleplaying, providing good indications of how effectively the adventurers are winning over the factions.",
-						"If a faction's final tally equals or exceeds the \"Score Needed For Support,\" the characters have won that faction's full support in the final battle. If the tally is below the score required, that faction sends only minimal support that won't help in the final confrontation. The benefits of each faction's support are Determined in {@adventure chapter 17|RoT|8}."
+						"If a faction's final tally equals or exceeds the \"Score Needed For Support,\" the characters have won that faction's full support in the final battle. If the tally is below the score required, that faction sends only minimal support that won't help in the final confrontation. The benefits of each faction's support are Determined in {@area chapter 17|1e6|x}."
 					]
 				}
 			]
@@ -1686,7 +1687,7 @@
 									"id": "096",
 									"entries": [
 										"If Orcaheart loses the match, the Ice Hunters go through the motions of honoring their pledge. They offer to let the characters sleep in the village storage hut, which barely qualifies as shelter. Bonecarver brings them a platter of slightly spoiled raw fish, explaining (truthfully) that her people prefer the tanginess of meat that's gone past its prime. The fish won't hurt characters who eat it\u2014but the poison Bonecarver added to it will. The sharp tang of the fish covers the bitter poison so well that a successful {@dc 20} Wisdom ({@skill Perception}) check or {@dc 15} Intelligence ({@skill Investigation}) check is needed to detect it.",
-										"Any character who eats the poisoned fish must make a {@dc 15} Constitution saving throw. Failure means the character takes 13 ({@dice 3d8}) poison damage and becomes {@condition unconscious} for 8 hours. On a successful save, the character takes 9 ({@dice 2d8}) poison damage. If all the characters are rendered {@condition unconscious} by the poison, they are tied up and carried down to area 1 in the ice caves, where they awaken to see 5 {@creature Ice Toad|RoT|ice toads} (see {@adventure appendix D|RoT|12}) examining their belongings."
+										"Any character who eats the poisoned fish must make a {@dc 15} Constitution saving throw. Failure means the character takes 13 ({@dice 3d8}) poison damage and becomes {@condition unconscious} for 8 hours. On a successful save, the character takes 9 ({@dice 2d8}) poison damage. If all the characters are rendered {@condition unconscious} by the poison, they are tied up and carried down to area 1 in the ice caves, where they awaken to see 5 {@creature Ice Toad|RoT|ice toads} (see {@area appendix D|26f|x}) examining their belongings."
 									]
 								},
 								{
@@ -1854,7 +1855,7 @@
 									"page": 116,
 									"id": "0a5",
 									"entries": [
-										"A crew of {@dice 1d6} {@creature Ice Toad|RoT|ice toads} (see {@adventure appendix D|RoT|12}) is working in this area or passing along the corridor. Disguises are ineffective against the ice toads, which know what creatures live in Oyaviggaton at any given time. If they see anything unexpected\u2014even Ice Hunter villagers entering the caves without permission\u2014they stop what they're doing and observe the characters' actions, asking questions if they can. The ice toads flee to the ice trolls if threatened, fighting only if they must.",
+										"A crew of {@dice 1d6} {@creature Ice Toad|RoT|ice toads} (see {@area appendix D|26f|x}) is working in this area or passing along the corridor. Disguises are ineffective against the ice toads, which know what creatures live in Oyaviggaton at any given time. If they see anything unexpected\u2014even Ice Hunter villagers entering the caves without permission\u2014they stop what they're doing and observe the characters' actions, asking questions if they can. The ice toads flee to the ice trolls if threatened, fighting only if they must.",
 										"The ice toads speak their own language, plus enough Draconic and Uluik to communicate with Arauthator, the kobolds, and the Ice Hunters. They work for Arauthator but have no special devotion to the dragon. If a fight is coming, their loyalty goes to whomever they expect to win. That means the dragon, unless the characters somehow impress them."
 									]
 								},
@@ -3426,7 +3427,7 @@
 														"Maccath knows the general layout of the dragon's cavern but not its specific dangers. Arauthator has never allowed her out of his sight in the lair. In particular, she knows nothing of the scrags in {@area area 15|0cf|x} or the traps in {@area area 18|0d2|x}.",
 														"Two entrances lead to Arauthator's lair\u2014one in the adjoining scriptorium and the other in {@area area 6|0b0|x}.",
 														"Arauthator moves in and out of the lair using underwater passages.",
-														"The {@item Draakhorn|RoT} was here when Maccath came to Oyaviggaton, but a group of humans wearing distinctive robes came to the iceberg half a year ago. After negotiation with Arauthator, they took the device away. (The characters recognize Cult of the Dragon regalia in Maccath's description of the humans.) In addition to this, Maccath can tell the characters all the information about the {@item Draakhorn|RoT} as it's described in {@adventure chapter 17|RoT|8}.",
+														"The {@item Draakhorn|RoT} was here when Maccath came to Oyaviggaton, but a group of humans wearing distinctive robes came to the iceberg half a year ago. After negotiation with Arauthator, they took the device away. (The characters recognize Cult of the Dragon regalia in Maccath's description of the humans.) In addition to this, Maccath can tell the characters all the information about the {@item Draakhorn|RoT} as it's described in {@area chapter 17|1e6|x}.",
 														"Trying to escape from the iceberg on a ship would be suicidal while Arauthator is able to attack from the air. The dragon is content to let his minions deal with intruders, but he will be alerted if the characters flee.",
 														"Even if the adventurers have not alerted any of the dragon's servants, Maccath's absence would be reported within a day. When that happens, the dragon will come looking for her and whoever helped her escape."
 													]
@@ -3516,7 +3517,7 @@
 												"A bizarre sight greets you in this rough-walled chamber. About a dozen giant toads with thick, mottled white hides are at work here, scribing strange writing into the ice of the walls, or onto weathered parchment and stone tablets. A few toads transfer parchments and tablets into and out of floor-to-ceiling cubbyholes cut into the ice along the entire southern wall."
 											]
 										},
-										"A total of 11 {@creature Ice Toad|RoT|ice toads} (see {@adventure appendix D|RoT|12} for statistics) work in this chamber, scribing records and tallies into the ice using sharpened antlers or their own claws. They also maintain rough maps of the Sea of Moving Ice based on reports from the Ice Hunter villagers. At regular intervals, their temporary records are transferred to more permanent form.",
+										"A total of 11 {@creature Ice Toad|RoT|ice toads} (see {@area appendix D|26f|x} for statistics) work in this chamber, scribing records and tallies into the ice using sharpened antlers or their own claws. They also maintain rough maps of the Sea of Moving Ice based on reports from the Ice Hunter villagers. At regular intervals, their temporary records are transferred to more permanent form.",
 										"See \"Random Encounters\" (above) for guidelines on how the giant ice toads respond to intruders. The characters' best chance to avoid a fight in this area\u2014and to keep the toads from alerting the ice trolls\u2014is to win the ice toads to their cause by treating with their leader, {@creature Marfulb|RoT}.",
 										"The average ice toad is smart, but their leader {@creature Marfulb|RoT} is exceptional (Intelligence 13). Her knack for organization and governance had no outlet until her path crossed Arauthator's on the Sea of Moving Ice, and she has served as the seneschal of Oyaviggaton for the four decades since. Not even Arauthator understands the workings of Oyaviggaton as well as {@creature Marfulb|RoT}, who knows the contents and value of every pack, chest, and heap of coins in the iceberg down to the last copper piece.",
 										{
@@ -5014,7 +5015,7 @@
 									"entries": [
 										"This long gallery holds the magic pool that was the source of {@creature Diderius|RoT}'s power. The double doors to the south have no markings on them, but they feature the same hazard as the doors in {@area area 4|0f9|x}.",
 										"Broken arrows, bloodstains, and a dead cultist are strewn across the floor of the chamber. A {@dc 12} Intelligence ({@skill Investigation}) check reveals that the arrows were shot from the north doorway leading into area 13. The arrows are carved of stone and their heads are in the shape of fangs, set with the symbol of a cobra with a crown above it. A {@dc 18} Intelligence ({@skill Religion}) check recognizes the symbol of the yuan-ti god Merrshaulk.",
-										"If a character inspects the body, it is revealed that the cultist died not from arrows but from a dagger wound. A successful {@dc 15} Intelligence ({@skill Investigation}) check reveals that a {@item dragontooth dagger|RoT} (See {@adventure appendix C|RoT|11}) was the killing weapon. This was the unlucky cultist the duplicitous {@creature Varram|RoT} sacrificed when he used the pool.",
+										"If a character inspects the body, it is revealed that the cultist died not from arrows but from a dagger wound. A successful {@dc 15} Intelligence ({@skill Investigation}) check reveals that a {@item dragontooth dagger|RoT} (See {@area appendix C|249|x}) was the killing weapon. This was the unlucky cultist the duplicitous {@creature Varram|RoT} sacrificed when he used the pool.",
 										{
 											"type": "entries",
 											"name": "Pool",
@@ -5488,7 +5489,7 @@
 					"entries": [
 						"The Green Wyrmspeaker has established a stronghold for himself and Chuth within a cave complex in the Misty Forest, its entrance hidden behind a waterfall that tumbles down a high cliff. The green dragon has taken over the largest cavern of the stronghold as one of its many lairs.",
 						"{@creature Neronvain|RoT} is served by a group of cultist bodyguards, while Chuth has won the service of a number of ettins to help guard the stronghold. The dragon also controls a terrified group of elf prisoners {@creature Neronvain|RoT} brought back from one of their raids, who fight for the dragon and the wyrmspeaker unless they can be convinced to flee.",
-						"Chuth is an {@creature adult green dragon}. Statistics for {@creature Neronvain|RoT} can be found in {@adventure appendix D|RoT|12}.",
+						"Chuth is an {@creature adult green dragon}. Statistics for {@creature Neronvain|RoT} can be found in {@area appendix D|26f|x}.",
 						{
 							"type": "inset",
 							"name": "No One Home",
@@ -6531,7 +6532,7 @@
 									"id": "148",
 									"entries": [
 										"This area is brightly lit by torches set into roughly carved wall sconces. Long tables made of split logs are where the cultists sit to eat or entertain themselves. A cooking fire burns in the center of the room, its smoke rising out to the central cavern and then out of the caves.",
-										"If the alarm hasn't been raised, 5 {@creature Dragonclaw|HotDQ|dragonclaws} and 1 {@creature dragonfang|RoT} cultists (see {@adventure appendix D|RoT|12}) are at leisure here. Unless the characters are wearing cult garb and can roleplay effectively, the cultists immediately recognize them as intruders and attack."
+										"If the alarm hasn't been raised, 5 {@creature Dragonclaw|HotDQ|dragonclaws} and 1 {@creature dragonfang|RoT} cultists (see {@area appendix D|26f|x}) are at leisure here. Unless the characters are wearing cult garb and can roleplay effectively, the cultists immediately recognize them as intruders and attack."
 									]
 								},
 								{
@@ -6540,7 +6541,7 @@
 									"page": 138,
 									"id": "149",
 									"entries": [
-										"Rough bunks, bedrolls, and backpacks fill this area. If the alarm hasn't yet been raised, 5 {@creature Dragonclaw|HotDQ|dragonclaws} and 1 {@creature dragonfang|RoT} cultists (see {@adventure appendix D|RoT|12}) are asleep here.",
+										"Rough bunks, bedrolls, and backpacks fill this area. If the alarm hasn't yet been raised, 5 {@creature Dragonclaw|HotDQ|dragonclaws} and 1 {@creature dragonfang|RoT} cultists (see {@area appendix D|26f|x}) are asleep here.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -6631,7 +6632,7 @@
 					"page": 139,
 					"id": "152",
 					"entries": [
-						"This chapter can end either with one or both of Chuth and {@creature Neronvain|RoT} dead or escaped from the stronghold. If either survives, they retreat to the Well of Dragons and report the adventurers' actions to {@creature Severin|RoT}. (If appropriate, you might let either Chuth or {@creature Neronvain|RoT} seek revenge as part of the force that attacks the adventurers in {@adventure chapter 13|RoT|4}.)",
+						"This chapter can end either with one or both of Chuth and {@creature Neronvain|RoT} dead or escaped from the stronghold. If either survives, they retreat to the Well of Dragons and report the adventurers' actions to {@creature Severin|RoT}. (If appropriate, you might let either Chuth or {@creature Neronvain|RoT} seek revenge as part of the force that attacks the adventurers in {@area chapter 13|153|x}.)",
 						"In any event, the threat against the Misty Forest is ended. King Melandrach hears of the party's actions and is grateful for the heroes' bravery. However, the discovery that his lost son {@creature Neronvain|RoT} is a wyrmspeaker fills him with shame and rage.",
 						"The characters gain a level at the end of this chapter."
 					]
@@ -6654,7 +6655,7 @@
 					"height": 1000
 				},
 				"During the course of this adventure, the heroes undertake various activities to thwart the plots of the Cult of the Dragon. The cult's awareness of the characters' opposition to their goals will have started even earlier if the characters played {@adventure Hoard of the Dragon Queen|HotDQ}. Either way, it doesn't take long for the cult to target the characters as a threat that must be eliminated.",
-				"Like \"{@adventure Chapter 9: Council of Waterdeep|RoT|1}\", this chapter is played out as separate encounters. However, these attacks work best if they are incorporated into other chapters, rather than played out between chapters.",
+				"Like \"{@area Chapter 9: Council of Waterdeep|05f|x}\", this chapter is played out as separate encounters. However, these attacks work best if they are incorporated into other chapters, rather than played out between chapters.",
 				"Think about the pacing of other chapters and the placement of these encounters so that the cult's attacks can be spaced out over time. In particular, the third attack should be placed for maximum effectiveness.",
 				"The cult's attacks can happen anywhere, but the characters are at greatest risk while on their home ground. The cult wants its enemies to know that they aren't safe anywhere. If the characters ever split up to pursue separate missions in what seem like safe environments, the cult is almost certain to strike.",
 				{
@@ -6798,7 +6799,7 @@
 							"page": 141,
 							"id": "15f",
 							"entries": [
-								"The second attack force comprises a team led by a {@creature dragonsoul|RoT} cultist (see {@adventure appendix D|RoT|12}). If this is an isolated fight with the characters at or near full strength, choose adversaries that create a deadly encounter. If the adventurers are weakened from earlier encounters, aim for a hard encounter instead.",
+								"The second attack force comprises a team led by a {@creature dragonsoul|RoT} cultist (see {@area appendix D|26f|x}). If this is an isolated fight with the characters at or near full strength, choose adversaries that create a deadly encounter. If the adventurers are weakened from earlier encounters, aim for a hard encounter instead.",
 								"Don't be reluctant to use forces that are likely to kill one or more characters. The destruction of the heroes is the goal of this attack, and if the risk of death doesn't feel real, the players won't take the threat of the cult seriously.",
 								{
 									"type": "entries",
@@ -7088,7 +7089,7 @@
 							"entries": [
 								"Each dragon councilor has one of four attitudes in this chapter, ranging from {@b unfriendly} to {@b cautious}, {@b neutral}, and {@b friendly}. To secure the cooperation of the metallic dragons as a whole, the party must conclude this chapter with at least three dragon councilors having a friendly attitude and with none unfriendly. If the characters make a promise or perform an act aimed at a specific dragon, they gain a two-step improvement in the attitude of that dragon (for example, from unfriendly to neutral, or from cautious to friendly). A general concession grants a one-step improvement to a single dragon of your choosing.",
 								"Metallic dragons are exceedingly wise, but they sometimes have difficulty distinguishing individual humanoids from each other. As such, an individual dragon's initial attitude depends on the party's racial makeup\u2014and on ancient interactions and past wrongs.",
-								"See \"{@adventure Chapter 9:Council of Waterdeep|RoT|1}\" for information on the effects of the concessions offered by the adventurers to secure the metallic dragons' allegiance."
+								"See \"{@area Chapter 9:Council of Waterdeep|05f|x}\" for information on the effects of the concessions offered by the adventurers to secure the metallic dragons' allegiance."
 							]
 						},
 						{
@@ -7242,7 +7243,7 @@
 							"entries": [
 								"{@i Male Bronze Dragon}",
 								"Of all the dragons on the council, Nymmurh disagrees most strongly with Protanther. He knows that the metallic dragons are made in the image of Bahamut, and have no choice in the matter of being good or evil. Thus, how much greater and more precious is good when it is freely chosen by the humanoids, who must consciously turn away from villainy?",
-								"Nymmurh's belief in the potential of humanoids is partly driven by his affection for and protection of the noble Silmerhelve human family in Waterdeep (including Dala Silmerhelve; see \"{@adventure Chapter 9:Council of Waterdeep|RoT|1}\").",
+								"Nymmurh's belief in the potential of humanoids is partly driven by his affection for and protection of the noble Silmerhelve human family in Waterdeep (including Dala Silmerhelve; see \"{@area Chapter 9:Council of Waterdeep|05f|x}\").",
 								{
 									"type": "entries",
 									"id": "184",
@@ -7322,7 +7323,7 @@
 													"page": 147,
 													"id": "18d",
 													"entries": [
-														"Metallic dragons are known to bestow magic and treasure from their hoards to help heroes from time to time. If the characters do an excellent job impressing the dragons\u2014for example, bringing all five dragons up to an attitude of friendly\u2014or if they roleplayed the encounter well, the council dragons might grant one or more characters with a token of their esteem. This is likely a set of 3 {@item Arrow of Slaying||arrows of slaying (dragons)}, or {@item Armor of Resistance||armor of resistance (lightning)}. Either will prove useful against the cult, especially if the characters have yet to play through {@adventure chapter 15|RoT|6}. Tazmikella can even return the item the characters gave to her as a concession. (She does not covet it when it might do others good, but simply resents having had it stolen.)"
+														"Metallic dragons are known to bestow magic and treasure from their hoards to help heroes from time to time. If the characters do an excellent job impressing the dragons\u2014for example, bringing all five dragons up to an attitude of friendly\u2014or if they roleplayed the encounter well, the council dragons might grant one or more characters with a token of their esteem. This is likely a set of 3 {@item Arrow of Slaying||arrows of slaying (dragons)}, or {@item Armor of Resistance||armor of resistance (lightning)}. Either will prove useful against the cult, especially if the characters have yet to play through {@area chapter 15|192|x}. Tazmikella can even return the item the characters gave to her as a concession. (She does not covet it when it might do others good, but simply resents having had it stolen.)"
 													]
 												}
 											]
@@ -8700,7 +8701,7 @@
 									]
 								},
 								"The dead cultist was slain by {@creature Iskander|RoT}. They argued, the dead cultist turned to step onto the teleport circle, and {@creature Iskander|RoT} stabbed her before stepping through the teleporter himself.",
-								"A character who inspects the body and makes a successful {@dc 10} Wisdom ({@skill Medicine}) check can tell that the cultist was killed by a {@item dragontooth dagger|RoT} (see {@adventure appendix C|RoT|11}).",
+								"A character who inspects the body and makes a successful {@dc 10} Wisdom ({@skill Medicine}) check can tell that the cultist was killed by a {@item dragontooth dagger|RoT} (see {@area appendix C|249|x}).",
 								"The balconies are set 8 feet above the floor and can be easily reached by climbing. The floor of each balcony bears a teleport circle similar to those found throughout the tower. The controls are located beneath the railing of the balcony, and can be found with a {@dc 8} Intelligence ({@skill Investigation}) check. These controls can take characters only back to the main circle in this area.",
 								"The decorations in the room are reminiscent of a Maztican style of architecture. Xonthal studied the culture of Maztica extensively and incorporated many Maztican motifs into his home."
 							]
@@ -9217,7 +9218,7 @@
 					"height": 1000
 				},
 				"{@i Tyranny of Dragons: The Rise of Tiamat} reaches its conclusion at the Well of Dragons, where dragons, giants, spellcasters, and armies clash spectacularly around the risen Temple of {@creature Tiamat|RoT}. As they do, the adventurers take on the crucial assignment of infiltrating the temple and making a final stand against the servants of the Dragon Queen and their dark goddess.",
-				"The climactic finale of {@i The Rise of Tiamat} should be played only after all the other chapters of the adventure are complete and the characters have reached 14th or 15th level. In the chapters leading up to this one, both the Harpers and the Zhentarim have spies among the Cult of the Dragon. As such, both organizations can report that the cult's preparations are nearing completion. That same information could also come from prisoners questioned directly by the characters during any of the incidents in {@adventure chapter 13|RoT|4}.",
+				"The climactic finale of {@i The Rise of Tiamat} should be played only after all the other chapters of the adventure are complete and the characters have reached 14th or 15th level. In the chapters leading up to this one, both the Harpers and the Zhentarim have spies among the Cult of the Dragon. As such, both organizations can report that the cult's preparations are nearing completion. That same information could also come from prisoners questioned directly by the characters during any of the incidents in {@area chapter 13|153|x}.",
 				"However it happens, from the moment this chapter kicks into action, events escalate rapidly. There is no turning back from that point onward, and characters who hesitate risk losing everything.",
 				{
 					"type": "section",
@@ -9225,7 +9226,7 @@
 					"page": 164,
 					"id": "1e7",
 					"entries": [
-						"The battle between the factions of the Sword Coast and the Cult of the Dragon plays out as a huge clash between armies and monstrous forces. The manner in which that battle plays out depends on the outcome of the \"{@adventure Council of Waterdeep|RoT|1}\" chapter, and on how successful the heroes have been bringing the various factions together. See \"{@area Enemies and Allies|215|x},\" later in this section, for more information.",
+						"The battle between the factions of the Sword Coast and the Cult of the Dragon plays out as a huge clash between armies and monstrous forces. The manner in which that battle plays out depends on the outcome of the \"{@area Council of Waterdeep|05f|x}\" chapter, and on how successful the heroes have been bringing the various factions together. See \"{@area Enemies and Allies|215|x},\" later in this section, for more information.",
 						"Before or during the final battle, the adventurers have a chance to reconnoiter the Well of Dragons and undertake a stealthy infiltration of the cult's redoubt and the Temple of {@creature Tiamat|RoT}.",
 						{
 							"type": "entries",
@@ -11052,7 +11053,7 @@
 							"page": 167,
 							"id": "1f8",
 							"entries": [
-								"Entrance 1A sees the heaviest use of all the tunnel entrances along the north side of the caldera. All the treasure brought to the Well of Dragons passes through it on the way to {@area area 6|1fd|x} or {@area area 7|200|x}. Each of these entrances is guarded by 3 {@creature Dragonwing|HotDQ|dragonwings}, 3 {@creature Dragonclaw|HotDQ|dragonclaws}, and 2 {@creature Guard Drake|HotDQ|guard drakes} (see {@adventure appendix D|RoT|12} for these creatures statistics).",
+								"Entrance 1A sees the heaviest use of all the tunnel entrances along the north side of the caldera. All the treasure brought to the Well of Dragons passes through it on the way to {@area area 6|1fd|x} or {@area area 7|200|x}. Each of these entrances is guarded by 3 {@creature Dragonwing|HotDQ|dragonwings}, 3 {@creature Dragonclaw|HotDQ|dragonclaws}, and 2 {@creature Guard Drake|HotDQ|guard drakes} (see {@area appendix D|26f|x} for these creatures statistics).",
 								"Entrances 1B and 1C are within sight of each other, but 1A is hidden from the other two by the curve of the mountainside."
 							]
 						},
@@ -11063,7 +11064,7 @@
 							"id": "1f9",
 							"entries": [
 								"Of the tunnel entrances on the east side of the caldera, only 2C is heavily used. All the prisoners held in the warrens are brought through that tunnel on their way to areas {@area 16|20a|x}, {@area 17|20a|x}, or {@area 18|20a|x}. Entrance 2A is seldom used. Entrance 2B is used by the cultists who live in areas {@area 12|207|x} and {@area 13|207|x}, but by no one else.",
-								"Entrances 2A and 2B are guarded by 1 {@creature dragonwing|HotDQ} and 3 {@creature Dragonclaw|HotDQ|dragonclaws} each. Entrance 2C is guarded by 1 {@creature dragonfang|RoT}, 3 {@creature Dragonwing|HotDQ|dragonwings}, 5 {@creature Dragonclaw|HotDQ|dragonclaws}, and 3 {@creature Guard Drake|HotDQ|guard drakes}. See {@adventure appendix D|RoT|12} for these creatures statistics."
+								"Entrances 2A and 2B are guarded by 1 {@creature dragonwing|HotDQ} and 3 {@creature Dragonclaw|HotDQ|dragonclaws} each. Entrance 2C is guarded by 1 {@creature dragonfang|RoT}, 3 {@creature Dragonwing|HotDQ|dragonwings}, 5 {@creature Dragonclaw|HotDQ|dragonclaws}, and 3 {@creature Guard Drake|HotDQ|guard drakes}. See {@area appendix D|26f|x} for these creatures statistics."
 							]
 						},
 						{
@@ -11093,7 +11094,7 @@
 									"width": 751,
 									"height": 1000
 								},
-								"Before {@creature Severin|RoT} assumed control over the Cult of the Dragon, the Well of Dragons was used to transform dying dragons into dracoliches. {@creature Naergoth Bladelord|RoT} (see {@adventure appendix D|RoT|12} for statistics) is a wight who commanded this site for centuries in the name of the Cult of the Dragon. After devoting many lifetimes of selfless service to the cult, he was shunted aside in favor of the new order. Though his loyalty remains unshakeable, Naergoth fears that {@creature Severin|RoT} will succeed in his plans, and that {@creature Tiamat|RoT} will destroy the cult that freed her.",
+								"Before {@creature Severin|RoT} assumed control over the Cult of the Dragon, the Well of Dragons was used to transform dying dragons into dracoliches. {@creature Naergoth Bladelord|RoT} (see {@area appendix D|26f|x} for statistics) is a wight who commanded this site for centuries in the name of the Cult of the Dragon. After devoting many lifetimes of selfless service to the cult, he was shunted aside in favor of the new order. Though his loyalty remains unshakeable, Naergoth fears that {@creature Severin|RoT} will succeed in his plans, and that {@creature Tiamat|RoT} will destroy the cult that freed her.",
 								"As a wight, Naergoth has little use for quarters, but the presence of objects that belonged to him in life make this a pleasing spot for him. The chamber looks like the home of a noble knight that was abandoned centuries ago, its contents now covered in dust and hung with cobwebs and pathos.",
 								"Intruders skulking through the warrens can run into Naergoth anywhere. Use him as a roleplaying encounter or add him to a battle that is going well for the party at a time of your choosing."
 							]
@@ -11113,7 +11114,7 @@
 							"page": 168,
 							"id": "1fd",
 							"entries": [
-								"The well-traveled entrance to this chamber is guarded by 1 {@creature dragonfang|RoT} (see {@adventure appendix D|RoT|12} for statistics) who commands 2 {@creature Flesh Golem||flesh golems}.",
+								"The well-traveled entrance to this chamber is guarded by 1 {@creature dragonfang|RoT} (see {@area appendix D|26f|x} for statistics) who commands 2 {@creature Flesh Golem||flesh golems}.",
 								"The treasure that the cult has stolen from across the Sword Coast to create a hoard for the Dragon Queen is stockpiled in this chamber, creating a sight beyond even the greediest character's dreams.",
 								{
 									"type": "insetReadaloud",
@@ -11122,7 +11123,7 @@
 										"You see gold\u2014mountains of it. And jewels... and pearls... silver plate and gilded mirrors... jeweled swords and the armor of kings... caskets and boxes and barrels filled to overflowing with the treasure of the Sword Coast, packed into a cave the size of a cathedral and stacked to the height of a giant! Pathways wind through a glittering mass whose reflected light dazzles your eyes, like a million twinkling stars close enough to touch."
 									]
 								},
-								"Prowling through the narrow paths between the heaped treasures are 4 {@creature Guard Drake|HotDQ|guard drakes} (see {@adventure appendix D|RoT|12} for statistics). They are used to the vaults being unoccupied (rank-and-file cultists are not allowed here), and attack intruders or move to join fighting at the entrance at once.",
+								"Prowling through the narrow paths between the heaped treasures are 4 {@creature Guard Drake|HotDQ|guard drakes} (see {@area appendix D|26f|x} for statistics). They are used to the vaults being unoccupied (rank-and-file cultists are not allowed here), and attack intruders or move to join fighting at the entrance at once.",
 								{
 									"type": "entries",
 									"name": "Treasure",
@@ -11160,7 +11161,7 @@
 								},
 								"An {@creature air elemental} sounds the horn with its endless breath, guarded by a {@creature stone golem}. If the characters interfere with the horn or the air elemental, the golem and the elemental attack.",
 								"The {@item Draakhorn|RoT} hangs in the northern half of the room and is pointed toward the southwest corner. While the horn is sounding, a creature must make a {@dc 15} Constitution saving throw the first time on a turn the creature enters a 150-foot cone in front of the horn or starts its turn there. On a failed save, the creature takes 27 ({@dice 6d8}) thunder damage and is knocked {@condition prone}. On a successful save, the creature takes half as much damage and isn't knocked {@condition prone}. The horn can't be turned or aimed at a specific target.",
-								"If the horn's sound ceases for more than 1 minute, 1 {@creature dragonsoul|RoT}, 1 {@creature dragonfang|RoT}, and 4 {@creature Dragonwing|HotDQ|dragonwings} arrive to investigate. See {@adventure appendix D|RoT|12} for these cultists' statistics.",
+								"If the horn's sound ceases for more than 1 minute, 1 {@creature dragonsoul|RoT}, 1 {@creature dragonfang|RoT}, and 4 {@creature Dragonwing|HotDQ|dragonwings} arrive to investigate. See {@area appendix D|26f|x} for these cultists' statistics.",
 								{
 									"type": "entries",
 									"name": "Draakhorn",
@@ -11207,7 +11208,7 @@
 							"page": 169,
 							"id": "207",
 							"entries": [
-								"Cultists of dragonsoul and dragonfang rank stationed inside the warrens use these quarters. The chambers are arranged like barracks, with cots for sleeping and trunks for storing personal belongings. With so many strangers presently in and around the Well of Dragons, the cultists who use these chambers have arranged for 4 {@creature Guard Drake|HotDQ|guard drakes} (see {@adventure appendix D|RoT|12} for statistics) to watch the area."
+								"Cultists of dragonsoul and dragonfang rank stationed inside the warrens use these quarters. The chambers are arranged like barracks, with cots for sleeping and trunks for storing personal belongings. With so many strangers presently in and around the Well of Dragons, the cultists who use these chambers have arranged for 4 {@creature Guard Drake|HotDQ|guard drakes} (see {@area appendix D|26f|x} for statistics) to watch the area."
 							]
 						},
 						{
@@ -11225,7 +11226,7 @@
 							"page": 169,
 							"id": "209",
 							"entries": [
-								"The cultists who stand guard over the prisoners in areas 16 to 18 sleep here. The chamber contains only straw mattresses spread on the floor, a few tables made of planks laid over barrels, and roughly made benches. When the characters enter, the room contains 3 {@creature Dragonwing|HotDQ|dragonwings} and 9 {@creature Dragonclaw|HotDQ|dragonclaws} eating a quick meal before the battle. See {@adventure appendix D|RoT|12} for these cultists' statistics."
+								"The cultists who stand guard over the prisoners in areas 16 to 18 sleep here. The chamber contains only straw mattresses spread on the floor, a few tables made of planks laid over barrels, and roughly made benches. When the characters enter, the room contains 3 {@creature Dragonwing|HotDQ|dragonwings} and 9 {@creature Dragonclaw|HotDQ|dragonclaws} eating a quick meal before the battle. See {@area appendix D|26f|x} for these cultists' statistics."
 							]
 						},
 						{
@@ -11234,9 +11235,9 @@
 							"page": 169,
 							"id": "20a",
 							"entries": [
-								"Prisoners captured by the cult have been held in these dark, filthy chambers pending the day of the ritual and their eventual sacrifice. Two groups of guards patrol these areas while the prisoners are here, each consisting of 1 {@creature dragonwing|HotDQ}, 2 {@creature Dragonclaw|HotDQ|dragonclaws}, and 1 {@creature guard drake|HotDQ}. See {@adventure appendix D|RoT|12} for these creatures' statistics.",
+								"Prisoners captured by the cult have been held in these dark, filthy chambers pending the day of the ritual and their eventual sacrifice. Two groups of guards patrol these areas while the prisoners are here, each consisting of 1 {@creature dragonwing|HotDQ}, 2 {@creature Dragonclaw|HotDQ|dragonclaws}, and 1 {@creature guard drake|HotDQ}. See {@area appendix D|26f|x} for these creatures' statistics.",
 								"If the characters pass this way while the sacrifices are taking place, area 16 is empty except for a dozen corpses of prisoners who died of starvation. However, a half-starved fifteen-year-old human male named Stirling is hiding amid the corpses. Stirling can tell the character that the cultists ushered prisoners towards the caldera a few hours ago, but he knows little else.",
-								"With area 16 empty, a prisoner escort consisting of 5 {@creature Dragonclaw|HotDQ|dragonclaws} has begun to move prisoners from area 17 up to the temple. Additionally, a {@creature dragonfang|RoT}, 5 {@creature Dragonclaw|HotDQ|dragonclaws}, and 2 {@creature Guard Drake|HotDQ|guard drakes} working nearby arrive within 2 rounds if a disturbance breaks out. (See {@adventure appendix D|RoT|12} for these creatures' statistics) The prisoners aren't shackled together, but most of them are weak from starvation. Ten human {@creature Commoner||commoners} can fight alongside the characters if they acquire weapons. The characters are free to make use of these allies any way they see fit. If sent into combat, they quickly perish."
+								"With area 16 empty, a prisoner escort consisting of 5 {@creature Dragonclaw|HotDQ|dragonclaws} has begun to move prisoners from area 17 up to the temple. Additionally, a {@creature dragonfang|RoT}, 5 {@creature Dragonclaw|HotDQ|dragonclaws}, and 2 {@creature Guard Drake|HotDQ|guard drakes} working nearby arrive within 2 rounds if a disturbance breaks out. (See {@area appendix D|26f|x} for these creatures' statistics) The prisoners aren't shackled together, but most of them are weak from starvation. Ten human {@creature Commoner||commoners} can fight alongside the characters if they acquire weapons. The characters are free to make use of these allies any way they see fit. If sent into combat, they quickly perish."
 							]
 						},
 						{
@@ -11245,7 +11246,7 @@
 							"page": 169,
 							"id": "20b",
 							"entries": [
-								"The drakes that patrol the lava tunnels are kenneled in this chamber. When the characters investigate this chamber, 4 {@creature Guard Drake|HotDQ|guard drakes} (see {@adventure appendix D|RoT|12}) are present, fighting over hunks of meat that are best left unidentified. Gnawed humanoid bones are scattered throughout the room, along with belt buckles, tattered boots, and scraps of blood-soaked clothing."
+								"The drakes that patrol the lava tunnels are kenneled in this chamber. When the characters investigate this chamber, 4 {@creature Guard Drake|HotDQ|guard drakes} (see {@area appendix D|26f|x}) are present, fighting over hunks of meat that are best left unidentified. Gnawed humanoid bones are scattered throughout the room, along with belt buckles, tattered boots, and scraps of blood-soaked clothing."
 							]
 						},
 						{
@@ -11274,7 +11275,7 @@
 							"id": "20e",
 							"entries": [
 								"The dragon bones that blanket the caldera have been pushed away from these exits to create a bleak open plaza connecting both tunnel exits to the entrance to the temple. This space extends 250 feet from east to west and 100 feet north from the temple gate, and is the scene of horrendous slaughter during the sacrifice ritual. Prisoners are ushered from the temple into the plaza, where five waiting dragons (One of each color of any age category) tear into them with teeth and claws.",
-								"Though these exits are not normally guarded, during the prisoner sacrifice, the each tunnel is blocked by 2 {@creature Barbed Devil||barbed devils} and 4 {@creature Guard Drake|HotDQ|guard drakes} (see {@adventure appendix D|RoT|12} for statistics). The devils' attention is focused toward the plaza, however, not down the tunnels or on what the guard drakes do. The guard drakes might notice approaching characters before the devils do, but they attack only if the fiends give the order. Therefore, the party might get the drop on these guards.",
+								"Though these exits are not normally guarded, during the prisoner sacrifice, the each tunnel is blocked by 2 {@creature Barbed Devil||barbed devils} and 4 {@creature Guard Drake|HotDQ|guard drakes} (see {@area appendix D|26f|x} for statistics). The devils' attention is focused toward the plaza, however, not down the tunnels or on what the guard drakes do. The guard drakes might notice approaching characters before the devils do, but they attack only if the fiends give the order. Therefore, the party might get the drop on these guards.",
 								"For characters who move beyond the cleared plaza, or who approach this area from the sinkhole, the piles of bones are {@quickref difficult terrain||3}."
 							]
 						},
@@ -11496,7 +11497,7 @@
 					"page": 172,
 					"id": "215",
 					"entries": [
-						"By consulting the scorecard filled out during the four sessions of the Council of Waterdeep (see {@adventure appendix B|RoT|10}), you can assess the strength of the forces brought to bear against the Cult of the Dragon. The alliances forged by the characters during the adventure are essential to stopping the cult.",
+						"By consulting the scorecard filled out during the four sessions of the Council of Waterdeep (see {@area appendix B|243|x}), you can assess the strength of the forces brought to bear against the Cult of the Dragon. The alliances forged by the characters during the adventure are essential to stopping the cult.",
 						"The Final Battle Assets table lists the creatures and forces fighting on both sides. \"Factional Assets\" covers the main possibilities for alliances created during the adventure, but you can modify the list as needed depending on events in your campaign.",
 						{
 							"type": "entries",
@@ -11594,7 +11595,7 @@
 											"page": 172,
 											"id": "21a",
 											"entries": [
-												"The head of the cult remains in the temple sanctuary (area 13), wearing the {@item Mask of the Dragon Queen|RoT} while the Red Wizards weave their magic. He can fight defensively or offensively as needed, and rank-and-file cultists fight to the death as long as they know {@creature Severin|RoT} is alive. See {@adventure appendix D|RoT|12} for {@creature Severin|RoT}'s statistics."
+												"The head of the cult remains in the temple sanctuary (area 13), wearing the {@item Mask of the Dragon Queen|RoT} while the Red Wizards weave their magic. He can fight defensively or offensively as needed, and rank-and-file cultists fight to the death as long as they know {@creature Severin|RoT} is alive. See {@area appendix D|26f|x} for {@creature Severin|RoT}'s statistics."
 											]
 										},
 										{
@@ -11603,7 +11604,7 @@
 											"page": 172,
 											"id": "21b",
 											"entries": [
-												"Rath Modar leads the ritual of guidance, but any {@creature Red Wizard|RoT} can take on that role. When the temple is attacked, he hands over his part in the ritual and leads the attack against the adventurers. See {@adventure appendix D|RoT|12} for {@creature Rath Modar|HotDQ|Rath Modar's} statistics."
+												"Rath Modar leads the ritual of guidance, but any {@creature Red Wizard|RoT} can take on that role. When the temple is attacked, he hands over his part in the ritual and leads the attack against the adventurers. See {@area appendix D|26f|x} for {@creature Rath Modar|HotDQ|Rath Modar's} statistics."
 											]
 										},
 										{
@@ -11812,7 +11813,7 @@
 							"id": "232",
 							"entries": [
 								"When the forces of good have been deployed and the battle begun, the characters will take on the most important goal of assaulting the Temple of {@creature Tiamat|RoT}. Making their way through the caverns beneath the caldera provides a number of options for reaching the temple.",
-								"Whether the characters fight {@creature Tiamat|RoT} directly or prevent the summoning ritual from being completed depends on their actions during the final battle. But when the characters see {@creature Tiamat|RoT}'s heads forcing their way through the Red Wizards' portal, they will understand that this is no mere monster they face. As should be clear from her statistics in {@adventure appendix d|RoT|12}, {@creature Tiamat|RoT} is a god. If she manifests through the portal at full strength, she can demolish multiple 15th-level parties with ease. A huge battle against {@creature Tiamat|RoT} while her temple collapses to ash and bone is a memorable way to wrap up a campaign\u2014but the characters might not survive as anything more than memories.",
+								"Whether the characters fight {@creature Tiamat|RoT} directly or prevent the summoning ritual from being completed depends on their actions during the final battle. But when the characters see {@creature Tiamat|RoT}'s heads forcing their way through the Red Wizards' portal, they will understand that this is no mere monster they face. As should be clear from her statistics in {@area appendix d|26f|x}, {@creature Tiamat|RoT} is a god. If she manifests through the portal at full strength, she can demolish multiple 15th-level parties with ease. A huge battle against {@creature Tiamat|RoT} while her temple collapses to ash and bone is a memorable way to wrap up a campaign\u2014but the characters might not survive as anything more than memories.",
 								"During the battle in the temple, read the following text aloud after 10 rounds of the summoning ritual have been successfully focused by five or more Red Wizards.",
 								{
 									"type": "insetReadaloud",
@@ -12836,7 +12837,8 @@
 							"source": "RoT",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "255"
 				},
 				{
 					"type": "statblock",
@@ -12909,7 +12911,8 @@
 							"source": "RoT",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "256"
 				},
 				{
 					"type": "statblock",

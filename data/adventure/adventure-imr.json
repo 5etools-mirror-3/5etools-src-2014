@@ -121,8 +121,8 @@
 							"id": "00a",
 							"entries": [
 								"If you're playing through or using events from {@adventure Baldur's Gate: Descent into Avernus|BGDIA} in your campaign, you might tie that campaign to this adventure in a number of ways.",
-								"To enter Candlekeep in {@i Baldur's Gate: Descent into Avernus}, the characters need a book or scroll that isn't already in the library's vast archives. The hags in {@adventure chapter 1|IMR|1} of this adventure possess just such a scroll, which the characters hear about as rumors that lead them to the fey woods. Alternatively, once in Candlekeep, Sylvira Savikas or one of the monks might ask the characters to investigate the corruption of the fey woods as a side quest.",
-								"The hags of {@adventure chapter 1|IMR|1} might also be in contact with Mad Maggie. Instead of working for either agent, the characters could be tasked with collecting the missing components for Mad Maggie's outpost. And if the characters are already in Avernus, {@creature Lynx Creatlach|IMR} and {@creature Sir Ursas|IMR} might be operating more openly, and could task the characters with collecting the missing components directly for Bel or Zariel."
+								"To enter Candlekeep in {@i Baldur's Gate: Descent into Avernus}, the characters need a book or scroll that isn't already in the library's vast archives. The hags in {@area chapter 1|00c|x} of this adventure possess just such a scroll, which the characters hear about as rumors that lead them to the fey woods. Alternatively, once in Candlekeep, Sylvira Savikas or one of the monks might ask the characters to investigate the corruption of the fey woods as a side quest.",
+								"The hags of {@area chapter 1|00c|x} might also be in contact with Mad Maggie. Instead of working for either agent, the characters could be tasked with collecting the missing components for Mad Maggie's outpost. And if the characters are already in Avernus, {@creature Lynx Creatlach|IMR} and {@creature Sir Ursas|IMR} might be operating more openly, and could task the characters with collecting the missing components directly for Bel or Zariel."
 							]
 						},
 						{
@@ -430,7 +430,7 @@
 									"page": 6,
 									"id": "023",
 									"entries": [
-										"To help the characters in this task, the three mothers have corrupted a {@item bridle of capturing|IMR} (see {@adventure appendix C|IMR|8}), which can control the unicorn and allow it to be led back to them. (Even though the bridle normally targets only beasts, the hags' magic allows this bridle to target {@creature Banrion|IMR} specifically.)"
+										"To help the characters in this task, the three mothers have corrupted a {@item bridle of capturing|IMR} (see {@area appendix C|20e|x}), which can control the unicorn and allow it to be led back to them. (Even though the bridle normally targets only beasts, the hags' magic allows this bridle to target {@creature Banrion|IMR} specifically.)"
 									]
 								},
 								{
@@ -459,7 +459,7 @@
 									"page": 7,
 									"id": "026",
 									"entries": [
-										"The cottage contains brewer's supplies, cook's tools, 250 gp, five potions (of your choice), and a {@item pot of awakening|XGE} (see {@adventure appendix C|IMR|8})."
+										"The cottage contains brewer's supplies, cook's tools, 250 gp, five potions (of your choice), and a {@item pot of awakening|XGE} (see {@area appendix C|20e|x})."
 									]
 								}
 							]
@@ -591,7 +591,7 @@
 							"entries": [
 								"With the hags defeated, {@creature Banrion|IMR} has no further need for the clock tower panel's magical power. She insists that the characters take the two components, both as a reward and as items worthy of magical study. (She is also keen to ensure that the panel can never be used again to adjust time, in case doing so causes the hags or their corruption to return).",
 								"If the characters research the components or the ancient city, a successful {@dc 18} Intelligence ({@skill Arcana} or {@skill History}) check leads to the discovery that the city was the site from which Lum the Mad seized the great artifact that bears his name\u2014and that the two components were once part of that artifact.",
-								"Regardless of whether the characters take the missing components, their activity in the woods is eventually noted by spies of the two agents, {@creature Lynx Creatlach|IMR} and {@creature Sir Ursas|IMR} (introduced in {@adventure chapter 2|IMR|2}). If Olitor survives, the no-longer-disguised redcap is one of those spies, and has quietly worked for Lynx for years even while serving the hags."
+								"Regardless of whether the characters take the missing components, their activity in the woods is eventually noted by spies of the two agents, {@creature Lynx Creatlach|IMR} and {@creature Sir Ursas|IMR} (introduced in {@area chapter 2|034|x}). If Olitor survives, the no-longer-disguised redcap is one of those spies, and has quietly worked for Lynx for years even while serving the hags."
 							]
 						}
 					]
@@ -845,10 +845,10 @@
 							"page": 12,
 							"id": "047",
 							"entries": [
-								"Each mechanical guide is programmed to teleport through space and time to the adventure's set locations, effectively dropping the characters at the start of {@adventure chapter 3|IMR|3} or {@adventure chapter 4|IMR|4}. Each guide can return to its agent's manor at any time.",
+								"Each mechanical guide is programmed to teleport through space and time to the adventure's set locations, effectively dropping the characters at the start of {@area chapter 3|04a|x} or {@area chapter 4|0b2|x}. Each guide can return to its agent's manor at any time.",
 								"Each guide is an unaligned Medium construct with AC 20, 50 hit points, and a speed of 20 feet. It has no attacks, and has a +0 modifier for all its ability scores.",
 								"Each guide has 6 charges, and regains {@dice 1d6} expended charges daily at dawn. Teleporting itself and the party to either adventure locale or back to its home manor costs a guide 1 charge. A guide can also be commanded to spend 1 or more charges to manipulate time in the local area at either adventure location. See \"{@area Manipulating Time|049|x}\" below for more information.",
-								"All damage dealt to a guide can be restored during a long rest with a successful {@dc 14} Dexterity check using thieves' tools or tinker's tools. A damaged guide can also be restored to full hit points by the use of a {@spell mending} spell or similar magic. If reduced to 0 hit points, the guide is destroyed and no longer functions\u2014possibly stranding the characters in the distant past. {@adventure Chapter 3|IMR|3} and {@adventure chapter 4|IMR|4} each offer appropriate suggestions for how the characters might repair or replace a destroyed guide.",
+								"All damage dealt to a guide can be restored during a long rest with a successful {@dc 14} Dexterity check using thieves' tools or tinker's tools. A damaged guide can also be restored to full hit points by the use of a {@spell mending} spell or similar magic. If reduced to 0 hit points, the guide is destroyed and no longer functions\u2014possibly stranding the characters in the distant past. {@area Chapter 3|04a|x} and {@area chapter 4|0b2|x} each offer appropriate suggestions for how the characters might repair or replace a destroyed guide.",
 								"Each guide follows the party and obeys all the characters' commands. If two characters issue commands to the guide at the same time, you decide how the commands are resolved.",
 								{
 									"type": "entries",
@@ -921,7 +921,7 @@
 							"entries": [
 								"A legendary evil human artificer, {@creature Moghadam|IMR} has long sought out interesting challenges for his immense intellect. As such, he considers the design of the Tomb of Horrors to be his masterwork. If questioned about his motivations, he claims that Acererak took his family hostage, and will not release them until {@creature Moghadam|IMR} completes his work. The truth is that the artificer has no family. He delights in creating despair, and works on the tomb in the hope that his name will go down alongside Acererak's in legend.",
 								"{@creature Moghadam|IMR} competes with a rival artificer named {@creature Thessalar|IMR}, who operates out of a temple dedicated to Moloch some distance away. {@creature Moghadam|IMR} has lured away several of {@creature Thessalar|IMR}'s expert sculptors to come work on the tomb, promising them great wealth that he has no intention of paying. More recently, the architect sent his own expert gemsmith along with a group of thieves to the Temple of Moloch, so that they might steal the gemstone eyes from its most famous statue. However, the thieves were captured, and {@creature Moghadam|IMR} is now without the gemstones or his gemsmith, and plots the means to seize both.",
-								"See {@adventure appendix B|IMR|7} for {@creature Moghadam|IMR|Moghadam's} stat block."
+								"See {@area appendix B|1af|x} for {@creature Moghadam|IMR|Moghadam's} stat block."
 							]
 						},
 						{
@@ -979,7 +979,7 @@
 					"page": 14,
 					"id": "053",
 					"entries": [
-						"The missing components of the {@i Infernal Machine} at this location can be found in the chapel of evil ({@area area 14|093|x}), worked into the altar. They resemble the components found at the clock tower in {@adventure chapter 1|IMR|1}, being gemstone-like buttons made of some unknown material, all a deep sapphire blue."
+						"The missing components of the {@i Infernal Machine} at this location can be found in the chapel of evil ({@area area 14|093|x}), worked into the altar. They resemble the components found at the clock tower in {@area chapter 1|00c|x}, being gemstone-like buttons made of some unknown material, all a deep sapphire blue."
 					]
 				},
 				{
@@ -1540,7 +1540,7 @@
 										{
 											"type": "list",
 											"items": [
-												"The characters must travel to the Temple of Moloch (see {@adventure chapter 4|IMR|4}) to rescue the gemsmith {@creature Seodra|IMR} and any surviving thieves sent there. They must then help those operatives complete their mission to steal the gemstone eyes from the temple's greatest statue.",
+												"The characters must travel to the Temple of Moloch (see {@area chapter 4|0b2|x}) to rescue the gemsmith {@creature Seodra|IMR} and any surviving thieves sent there. They must then help those operatives complete their mission to steal the gemstone eyes from the temple's greatest statue.",
 												"The characters can instead travel to the temple to facilitate a prisoner exchange, taking Nolzur and some of the sculptors working the tomb to exchange for the gemsmith."
 											]
 										},
@@ -1765,7 +1765,7 @@
 							"id": "076",
 							"entries": [
 								"A narrow crawl space leads here from the southernmost pit in the entrance hall ({@area area 3|065|x}). At the bottom of a 10-foot drop at the end of the crawl space, a miserable cell holds a solitary prisoner. The artisan Nolzur (a neutral male human {@creature master thief|vgm}, but he is reduced to 1 hit point) has been captured and held here, his alchemical blood continually drained to create the magic pigments used to paint the tomb's murals. The muralists drain him with tools crafted from the beaks of stirges, keeping him barely alive with healing magic.",
-								"Nolzur is too weak to escape on his own, but if rescued and provided healing and nourishment, he gladly aids the characters in any way. This includes telling the characters the general layout of the Temple of Moloch, and revealing {@creature Thessalar|IMR}'s vulnerability to magic potions and salves that restore hit points (see \"{@area Who Dwells Here?|0b4|x}\" in {@adventure chapter 4|IMR|4}).",
+								"Nolzur is too weak to escape on his own, but if rescued and provided healing and nourishment, he gladly aids the characters in any way. This includes telling the characters the general layout of the Temple of Moloch, and revealing {@creature Thessalar|IMR}'s vulnerability to magic potions and salves that restore hit points (see \"{@area Who Dwells Here?|0b4|x}\" in {@area chapter 4|0b2|x}).",
 								{
 									"type": "entries",
 									"name": "Manipulating Time",
@@ -1784,7 +1784,7 @@
 							"id": "078",
 							"entries": [
 								"This workspace is used by a number of neutral human sculptors creating objects for use in the tomb. Five are present when the characters first enter this area, watched over and assisted by a {@creature girallon|VGM}. The sculptors (use the {@creature cultist} stat block) traveled here from the Temple of Moloch under the false promise of fabulous payment for helping construct the tomb. They have since found themselves unable to leave.",
-								"The sculptors seek assistance to escape the tomb, and provide whatever information they know in exchange for aid. They can relate how the rest of the sculptors (in {@area area 10|081|x}) are devising a means of escape using a set of superior {@item mason's tools|PHB} hidden there, and that these tools can also weaken the eidolon in the Temple of Moloch (see {@area area 25|13a|x} in {@adventure chapter 4|IMR|4}). They also know that the muralists are loyal to {@creature Moghadam|IMR} and cannot be trusted.",
+								"The sculptors seek assistance to escape the tomb, and provide whatever information they know in exchange for aid. They can relate how the rest of the sculptors (in {@area area 10|081|x}) are devising a means of escape using a set of superior {@item mason's tools|PHB} hidden there, and that these tools can also weaken the eidolon in the Temple of Moloch (see {@area area 25|13a|x} in {@area chapter 4|0b2|x}). They also know that the muralists are loyal to {@creature Moghadam|IMR} and cannot be trusted.",
 								"The rhythmic chanting magically carried into {@area area 3|065|x} grows louder in this area.",
 								{
 									"type": "inset",
@@ -2025,7 +2025,7 @@
 											"type": "list",
 											"items": [
 												"The gold chest has four {@item Potion of Greater Healing||potions of greater healing}, a {@item potion of flying}, and a {@item potion of poison}.",
-												"The silver chest contains {@item Spell Scroll||spell scrolls} of {@spell guards and wards}, {@spell summon lesser demons|XGE} (see {@adventure appendix C|IMR|8}), and {@spell teleportation circle}; and a {@item wand of web}.",
+												"The silver chest contains {@item Spell Scroll||spell scrolls} of {@spell guards and wards}, {@spell summon lesser demons|XGE} (see {@area appendix C|20e|x}), and {@spell teleportation circle}; and a {@item wand of web}.",
 												"The oak chest holds 278 pp, ninety-seven small gems (worth 10 gp each), and a peridot (5,000 gp)."
 											]
 										}
@@ -2159,7 +2159,7 @@
 									"page": 22,
 									"id": "09f",
 									"entries": [
-										"Having a mechanical guide spend 1 charge in this area causes a ripple in the rift's magic, allowing a creature to pass through it into the tomb. Roll a {@dice d6}. On a 1\u20135, treat this effect as a {@spell summon lesser demons|XGE} spell. On a 5\u20136, treat it as a {@spell summon greater demon|XGE} spell. (See {@adventure appendix C|IMR|8} for both those spells.) Pick one character at random to be treated as the summoner."
+										"Having a mechanical guide spend 1 charge in this area causes a ripple in the rift's magic, allowing a creature to pass through it into the tomb. Roll a {@dice d6}. On a 1\u20135, treat this effect as a {@spell summon lesser demons|XGE} spell. On a 5\u20136, treat it as a {@spell summon greater demon|XGE} spell. (See {@area appendix C|20e|x} for both those spells.) Pick one character at random to be treated as the summoner."
 									]
 								}
 							]
@@ -2250,7 +2250,7 @@
 									"page": 23,
 									"id": "0a8",
 									"entries": [
-										"The door's eye is gem set with a smaller version of one of a demilich's soul gems. The gem can be removed only by a character proficient with jeweler's tools who succeeds on a {@dc 13} Dexterity check using the superior jeweler's tools found in {@area area 31|151|x} of {@adventure chapter 4|IMR|4}. A successful check removes the soul gem, which destroys the gem and unlocks the door.",
+										"The door's eye is gem set with a smaller version of one of a demilich's soul gems. The gem can be removed only by a character proficient with jeweler's tools who succeeds on a {@dc 13} Dexterity check using the superior jeweler's tools found in {@area area 31|151|x} of {@area chapter 4|0b2|x}. A successful check removes the soul gem, which destroys the gem and unlocks the door.",
 										"A character who attempts to remove or destroy the gem in any other way must succeed on a {@dc 13} Constitution saving throw or take 11 ({@dice 2d10}) force damage."
 									]
 								},
@@ -2271,7 +2271,7 @@
 							"page": 23,
 							"id": "0aa",
 							"entries": [
-								"{@creature Seodra|IMR}, a master gemsmith in the employ of {@creature Moghadam|IMR}, maintains her workshop here, although she is currently a prisoner in the Temple of Moloch (see {@adventure chapter 4|IMR|4}).",
+								"{@creature Seodra|IMR}, a master gemsmith in the employ of {@creature Moghadam|IMR}, maintains her workshop here, although she is currently a prisoner in the Temple of Moloch (see {@area chapter 4|0b2|x}).",
 								{
 									"type": "insetReadaloud",
 									"id": "0ab",
@@ -2312,7 +2312,7 @@
 									"page": 24,
 									"id": "0af",
 									"entries": [
-										"In addition to a set of {@item jeweler's tools|PHB}, one worktable contains plans for crafting the jeweled silver skull of a demilich. The three large diamonds (worth 1,000 gp each) have already been cut and fashioned into teeth. These are meant for the skull currently in {@creature Seodra|IMR}'s possession (see {@adventure chapter 4|IMR|4})."
+										"In addition to a set of {@item jeweler's tools|PHB}, one worktable contains plans for crafting the jeweled silver skull of a demilich. The three large diamonds (worth 1,000 gp each) have already been cut and fashioned into teeth. These are meant for the skull currently in {@creature Seodra|IMR}'s possession (see {@area chapter 4|0b2|x})."
 									]
 								},
 								{
@@ -2328,7 +2328,7 @@
 											"page": 24,
 											"id": "0b1",
 											"entries": [
-												"If {@creature Seodra|IMR} has all six diamond teeth (the three in the Tomb of Horrors, along with the three she has with her in {@area area 31|151|x} of chapter 4), the jeweled eyes from the great statue in the Temple of Moloch ({@area area 25|13a|x} of {@adventure chapter 4|IMR|4}), and the silver skull (also in {@area area 31|151|x} of chapter 4), she will have all she needs to complete Acererak's demilich skull.",
+												"If {@creature Seodra|IMR} has all six diamond teeth (the three in the Tomb of Horrors, along with the three she has with her in {@area area 31|151|x} of chapter 4), the jeweled eyes from the great statue in the Temple of Moloch ({@area area 25|13a|x} of {@area chapter 4|0b2|x}), and the silver skull (also in {@area area 31|151|x} of chapter 4), she will have all she needs to complete Acererak's demilich skull.",
 												"The magic of the ritual that creates the skull shrinks down the great rubies of Moloch's eyes to fit the silver skull. The last stage of the ritual involves placing the finished skull atop the manikin in area 18a. The spirit of the archmage Acererak then possesses the manikin and transforms it into an eye of fear and flame. If the characters are present, they can treat with Acererak in this form.",
 												"The {@creature eye of fear and flame|MFF} attacks at once if the characters are known to have undertaken any actions against {@creature Moghadam|IMR}, the tomb, or its workers. If not, and if Acererak is impressed with their adventuring acumen, the archmage promises to grant a great boon in exchange for some measure of service necessary for the completion of his tomb. The details of the service are left to your determination. The boon can be the equivalent of a {@spell wish} spell, though whether or not Acererak fulfills any promise is left to you to decide."
 											]
@@ -2410,7 +2410,7 @@
 							"page": 25,
 							"id": "0b9",
 							"entries": [
-								"The ranger {@creature Barbatos|IMR} (a neutral evil male human; see {@adventure appendix B|IMR|7} for his stat block) uses his tracking, stealth, and combat prowess to trap creatures for selfish gain. He has long worked for {@creature Thessalar|IMR}, trapping animals and monsters to be used in the temple's experiments. As part of his wages, {@creature Barbatos|IMR} has undergone his own experimentation, with {@creature Thessalar|IMR} wiring items made from living creatures directly into the ranger's body.",
+								"The ranger {@creature Barbatos|IMR} (a neutral evil male human; see {@area appendix B|1af|x} for his stat block) uses his tracking, stealth, and combat prowess to trap creatures for selfish gain. He has long worked for {@creature Thessalar|IMR}, trapping animals and monsters to be used in the temple's experiments. As part of his wages, {@creature Barbatos|IMR} has undergone his own experimentation, with {@creature Thessalar|IMR} wiring items made from living creatures directly into the ranger's body.",
 								"{@creature Barbatos|IMR} is always accompanied by his animal companion, a {@creature hell hound} named Sadie III."
 							]
 						},
@@ -2441,7 +2441,7 @@
 								"As an artificer, {@creature Thessalar|IMR} is vainglorious, egotistical, and utterly ruthless in furthering his research. His career began as a priest in the service of Moloch, where he rose through the ranks before eventually taking over the temple as a working laboratory. Most of his experiments have involved the pursuit of new forms of life, resulting in such creatures as the thessalhydra and the owlbear. In recent years, he has also researched the prolonging of life\u2014namely his own. {@creature Thessalar|IMR} hopes that by becoming a lich, his research and experiments can continue indefinitely.",
 								"Over time, {@creature Thessalar|IMR} has subjected himself to so many of his own experiments that his blood has taken on alchemical and magical properties. He regularly uses it as the basis for many of the reagents used throughout his labs. As a side effect, although {@creature Thessalar|IMR} is now immune to poison and the {@condition poisoned} condition, any magical liquid or salve that restores hit points acts as a poison against him if applied to a piercing or slashing weapon.",
 								"Several of {@creature Thessalar|IMR}'s prized sculptors have been lured away from the temple by {@creature Moghadam|IMR}, his rival artificer, with promises of false payment to help construct the Tomb of Horrors. Worse, the sculptors took with them their best tools and half a {@item manual of stone golems}. Both items were part of {@creature Thessalar|IMR}'s plans to craft a powerful stone golem and send it against {@creature Moghadam|IMR} and his tomb. More recently, {@creature Moghadam|IMR} ordered a group of thieves to assault the temple and steal the gemstone eyes from its great statue of Moloch. {@creature Thessalar|IMR} captured the thieves and put the gemsmith accompanying them to work, but the temple still remains on alert against intruders.",
-								"See {@adventure appendix B|IMR|7} for {@creature Thessalar|IMR}'s stat block.",
+								"See {@area appendix B|1af|x} for {@creature Thessalar|IMR}'s stat block.",
 								{
 									"type": "inset",
 									"name": "Who's Who",
@@ -2462,7 +2462,7 @@
 					"id": "0be",
 					"entries": [
 						"The missing components of the {@i Infernal Machine} at this location can be found in various laboratory chambers throughout the temple. Removing the components deactivates various controls within these chambers, disrupting experiments and freeing creatures.",
-						"The components resemble those found at the clock tower in {@adventure chapter 1|IMR|1}, being gemstone-like buttons made of some unknown material and of various colors. The missing components are disbursed as follows:",
+						"The components resemble those found at the clock tower in {@area chapter 1|00c|x}, being gemstone-like buttons made of some unknown material and of various colors. The missing components are disbursed as follows:",
 						{
 							"type": "list",
 							"items": [
@@ -4040,8 +4040,8 @@
 									"id": "0e8",
 									"entries": [
 										"A successful {@dc 14} Intelligence ({@skill Investigation}) check made to search the desk uncovers several papers stolen from {@creature Stolos|IMR} (see {@area area 11|0fd|x}), which discuss the split nature of {@creature Andras|IMR} and {@creature Stolos|IMR}.",
-										"In addition, a locked strongbox can be found under {@creature Andras|IMR}'s bed. It can be opened with a successful {@dc 15} Dexterity check using thieves' tools, but contains an easily noticed poison needle trap. A failed check triggers the trap, which deals 1 piercing damage and delivers a dose of {@item Blood of the Lycanthrope|IMR|blood of the lycanthrope poison} (see {@adventure appendix C|IMR|8}). The strongbox can be smashed open with a successful {@dc 20} Strength check.",
-										"The strongbox holds treasure collected from {@creature Andras|IMR}'s recent victims\u2014110 sp, 55 gp, 10 pp, five rubies (worth 100 gp each), and a vial of {@item mummy rot antidote|IMR} (see {@adventure appendix C|IMR|8})."
+										"In addition, a locked strongbox can be found under {@creature Andras|IMR}'s bed. It can be opened with a successful {@dc 15} Dexterity check using thieves' tools, but contains an easily noticed poison needle trap. A failed check triggers the trap, which deals 1 piercing damage and delivers a dose of {@item Blood of the Lycanthrope|IMR|blood of the lycanthrope poison} (see {@area appendix C|20e|x}). The strongbox can be smashed open with a successful {@dc 20} Strength check.",
+										"The strongbox holds treasure collected from {@creature Andras|IMR}'s recent victims\u2014110 sp, 55 gp, 10 pp, five rubies (worth 100 gp each), and a vial of {@item mummy rot antidote|IMR} (see {@area appendix C|20e|x})."
 									]
 								},
 								{
@@ -4092,7 +4092,7 @@
 									"id": "0ee",
 									"entries": [
 										"The result of one of {@creature Thessalar|IMR}'s grand experiments, {@creature Andras|IMR} has the body of a male human and the head of a massive snowy owl. Like that of any owl, his head can rotate almost fully around for 360-degree vision.",
-										"The prisoners are two of {@creature Moghadam|IMR}'s thieves, who {@creature Andras|IMR} is pressing for additional information as to their raid and {@creature Moghadam|IMR}'s plans. However, the torturer is almost impossible to understand, with his speech resembling the hoots and clicks of an owl. Conversing with {@creature Andras|IMR} requires a successful {@dc 10} Wisdom ({@skill Insight}) check or a {@spell speak with animals} spell, but the torturer speaks to the characters only in bold threats. In combat, {@creature Andras|IMR} uses weapons coated in {@item Blood of the Lycanthrope|IMR|blood of the lycanthrope poison} (see {@adventure appendix C|IMR|8}). He uses the {@creature assassin} stat block with the following changes:",
+										"The prisoners are two of {@creature Moghadam|IMR}'s thieves, who {@creature Andras|IMR} is pressing for additional information as to their raid and {@creature Moghadam|IMR}'s plans. However, the torturer is almost impossible to understand, with his speech resembling the hoots and clicks of an owl. Conversing with {@creature Andras|IMR} requires a successful {@dc 10} Wisdom ({@skill Insight}) check or a {@spell speak with animals} spell, but the torturer speaks to the characters only in bold threats. In combat, {@creature Andras|IMR} uses weapons coated in {@item Blood of the Lycanthrope|IMR|blood of the lycanthrope poison} (see {@area appendix C|20e|x}). He uses the {@creature assassin} stat block with the following changes:",
 										{
 											"type": "list",
 											"items": [
@@ -4110,7 +4110,7 @@
 									"page": 31,
 									"id": "0ef",
 									"entries": [
-										"Mack Francache, the neutral {@creature wererat} leader of {@creature Moghadam|IMR}'s thieves, is the unwilling subject of one of {@creature Thessalar|IMR}'s sadistic experiments, conducted by {@creature Andras|IMR}. His lycanthropic blood is being drained for study by {@creature Thessalar|IMR}, who has already discovered ways in which it might be weaponized (see \"{@area Poisons|20f|x}\" in {@adventure appendix C|IMR|8}).",
+										"Mack Francache, the neutral {@creature wererat} leader of {@creature Moghadam|IMR}'s thieves, is the unwilling subject of one of {@creature Thessalar|IMR}'s sadistic experiments, conducted by {@creature Andras|IMR}. His lycanthropic blood is being drained for study by {@creature Thessalar|IMR}, who has already discovered ways in which it might be weaponized (see \"{@area Poisons|20f|x}\" in {@area appendix C|20e|x}).",
 										"The silver wires connect Francache to a lawful neutral female human {@creature bandit captain} named Big Gadai (sister to the dead thief in {@area area 6|0e0|x}) and a normal rat. As {@creature Andras|IMR} operates the controls to this strange torture device, he causes Francache's lycanthropy to transform the rat into a duplicate of Big Gadai, to the pain and horror of everyone involved. When the rat is in human form, it insists that it is the real Big Gadai, as does the real Big Gadai.",
 										"Francache bargains with the characters for his freedom, promising anything he can in return\u2014including knowledge of the Tomb of Horrors. (His previous assignment for {@creature Moghadam|IMR} was to spy on its workers while in rat form.)"
 									]
@@ -4276,9 +4276,9 @@
 									"page": 33,
 									"id": "100",
 									"entries": [
-										"A successful {@dc 14} Intelligence ({@skill Investigation}) check to search the desk uncovers a box of nine {@item Paper Bird|WDH|paper birds} (see {@adventure appendix C|IMR|8}) used to send messages to {@creature Thessalar|IMR}.",
-										"In addition, a locked strongbox can be found under the desk. It can be opened with a successful {@dc 15} Dexterity check using thieves' tools, but contains an easily noticed poison gas trap. A failed check triggers the trap, which sprays a dose of {@item Dust of the Mummy|IMR|dust of the mummy poison} (see {@adventure appendix C|IMR|8}) at the character making the check. The strongbox can be smashed open with a successful {@dc 20} Strength check, but doing so targets each character within 5 feet of the strongbox with {@item Dust of the Mummy|IMR|dust of the mummy poison}.",
-										"The strongbox holds the treasure collected from {@creature Stolos|IMR}'s current prisoners\u201445 gp, 23 pp, ten small rubies (worth 25 gp each), a {@item ring of water walking}, and a vial of {@item blood of the lycanthrope antidote|IMR} (see {@adventure appendix C|IMR|8})."
+										"A successful {@dc 14} Intelligence ({@skill Investigation}) check to search the desk uncovers a box of nine {@item Paper Bird|WDH|paper birds} (see {@area appendix C|20e|x}) used to send messages to {@creature Thessalar|IMR}.",
+										"In addition, a locked strongbox can be found under the desk. It can be opened with a successful {@dc 15} Dexterity check using thieves' tools, but contains an easily noticed poison gas trap. A failed check triggers the trap, which sprays a dose of {@item Dust of the Mummy|IMR|dust of the mummy poison} (see {@area appendix C|20e|x}) at the character making the check. The strongbox can be smashed open with a successful {@dc 20} Strength check, but doing so targets each character within 5 feet of the strongbox with {@item Dust of the Mummy|IMR|dust of the mummy poison}.",
+										"The strongbox holds the treasure collected from {@creature Stolos|IMR}'s current prisoners\u201445 gp, 23 pp, ten small rubies (worth 25 gp each), a {@item ring of water walking}, and a vial of {@item blood of the lycanthrope antidote|IMR} (see {@area appendix C|20e|x})."
 									]
 								},
 								{
@@ -4306,7 +4306,7 @@
 									"page": 33,
 									"id": "103",
 									"entries": [
-										"The neutral evil human ranger {@creature Barbatos|IMR} is either here or in area 13 (a {@chance 50} chance for either; see {@adventure appendix B|IMR|7} for his stat block), accompanied by his {@creature hell hound} companion, Sadie III. He carries keys to the cages in this area and area 13. Arrogant and cruel, {@creature Barbatos|IMR} threatens and taunts the characters before attempting to capture them for {@creature Thessalar|IMR}. If they prove too powerful, he flees and sets up hit-and-run ambushes for them as they continue to explore the temple.",
+										"The neutral evil human ranger {@creature Barbatos|IMR} is either here or in area 13 (a {@chance 50} chance for either; see {@area appendix B|1af|x} for his stat block), accompanied by his {@creature hell hound} companion, Sadie III. He carries keys to the cages in this area and area 13. Arrogant and cruel, {@creature Barbatos|IMR} threatens and taunts the characters before attempting to capture them for {@creature Thessalar|IMR}. If they prove too powerful, he flees and sets up hit-and-run ambushes for them as they continue to explore the temple.",
 										"A successful {@dc 12} Wisdom ({@skill Perception}) check made while {@creature Barbatos|IMR} is in combat identifies a number of silver wires connecting the ranger's cloak and backpack. If {@creature Barbatos|IMR} is defeated, examining his body reveals that the backpack holds a troll's still-beating heart, while his cloak incorporates the feathery antennae of several rust monsters. The silver wires connect those living tissues to the ranger's own heart, providing his unique features. This setup is made permanently inoperable if {@creature Barbatos|IMR} is slain.",
 										"Anyone attempting to disrupt the wires must succeed on a {@dc 13} Constitution saving throw or take 11 ({@dice 2d10}) force damage. The wires are self-repairing, and cannot be severed or destroyed."
 									]
@@ -4354,7 +4354,7 @@
 									"page": 34,
 									"id": "107",
 									"entries": [
-										"The ranger {@creature Barbatos|IMR} is either here or in area 12 (a {@chance 50} chance for either), accompanied by his {@creature hell hound} companion, Sadie III. See {@adventure appendix B|IMR|7} for his stat block, and {@area area 12|102|x} for more information."
+										"The ranger {@creature Barbatos|IMR} is either here or in area 12 (a {@chance 50} chance for either), accompanied by his {@creature hell hound} companion, Sadie III. See {@area appendix B|1af|x} for his stat block, and {@area area 12|102|x} for more information."
 									]
 								},
 								{
@@ -4427,7 +4427,7 @@
 									"page": 34,
 									"id": "10e",
 									"entries": [
-										"Any search of the room finds two vials of {@item Thessaltoxin|IMR|thessaltoxin poison} (see {@adventure appendix C|IMR|8}), whose polymorph capabilities are being used to facilitate the experiments here."
+										"Any search of the room finds two vials of {@item Thessaltoxin|IMR|thessaltoxin poison} (see {@area appendix C|20e|x}), whose polymorph capabilities are being used to facilitate the experiments here."
 									]
 								},
 								{
@@ -4463,7 +4463,7 @@
 									"page": 34,
 									"id": "112",
 									"entries": [
-										"The imperturbable artificer {@creature Thessalar|IMR} readily converses with the characters, albeit with a domineering attitude. His starting assumption is that they've been sent by {@creature Moghadam|IMR}, and he wants to learn as much about his rival's machinations as he can. See {@adventure appendix B|IMR|7} for his stat block.",
+										"The imperturbable artificer {@creature Thessalar|IMR} readily converses with the characters, albeit with a domineering attitude. His starting assumption is that they've been sent by {@creature Moghadam|IMR}, and he wants to learn as much about his rival's machinations as he can. See {@area appendix B|1af|x} for his stat block.",
 										{
 											"type": "image",
 											"href": {
@@ -4507,7 +4507,7 @@
 										{
 											"type": "list",
 											"items": [
-												"The characters can travel to the Tomb of Horrors (see {@adventure chapter 3|IMR|3}) to recover {@creature Seodra|IMR}'s plans for crafting the jeweled skull of a demilich, as well as the remaining jeweled teeth (both in {@area area 18a|0aa|x} of the tomb). This will allow the captured gemsmith to complete the skull for {@creature Thessalar|IMR} instead.",
+												"The characters can travel to the Tomb of Horrors (see {@area chapter 3|04a|x}) to recover {@creature Seodra|IMR}'s plans for crafting the jeweled skull of a demilich, as well as the remaining jeweled teeth (both in {@area area 18a|0aa|x} of the tomb). This will allow the captured gemsmith to complete the skull for {@creature Thessalar|IMR} instead.",
 												"The characters can instead travel to the tomb to either facilitate a prisoner exchange (offering {@creature Seodra|IMR} for {@creature Thessalar|IMR}'s missing sculptors), or to disrupt its construction by stealing {@creature Moghadam|IMR}'s plans for the tomb."
 											]
 										},
@@ -4547,8 +4547,8 @@
 									"id": "117",
 									"entries": [
 										"The table is, in fact, crafted from four dryads, all subject to a diminution effect and subsequently {@condition petrified}. If the characters have the ability to undo this state for all of them, the dryads are grateful to them. They promise a favor of your determination, then leave the temple for the nearby woods where they once dwelled.",
-										"If this area is searched, a successful {@dc 14} Intelligence ({@skill Investigation}) check uncovers research notes regarding {@creature Thessalar|IMR}'s experiments, including his creation of the various thessalbeasts and the owlbear. The miniaturized human in stasis is described as a prototype phylactery, and is part of the artificer's research into lichdom. Other notes mention Nolzur's apprenticeship and the experiments with his blood (see {@area area 7|076|x} of {@adventure chapter 3|IMR|3}) and how the silver wires can be used to attach the organs of creatures to other hosts (including {@creature Barbatos|IMR} in areas 12 or 13, and the ettin in {@area area 35|15f|x}).",
-										"In addition, this area contains {@item alchemist's supplies|PHB}, an {@item herbalism kit|PHB}, two vials each of {@item Thessaltoxin|IMR|thessaltoxin poison} and {@item thessaltoxin antidote|IMR} (see {@adventure appendix C|IMR|8}), a box of ten {@item Paper Bird|WDH|paper birds} ({@adventure appendix C|IMR|8}), and a strongbox containing three exceptional rubies worth 500 gp each."
+										"If this area is searched, a successful {@dc 14} Intelligence ({@skill Investigation}) check uncovers research notes regarding {@creature Thessalar|IMR}'s experiments, including his creation of the various thessalbeasts and the owlbear. The miniaturized human in stasis is described as a prototype phylactery, and is part of the artificer's research into lichdom. Other notes mention Nolzur's apprenticeship and the experiments with his blood (see {@area area 7|076|x} of {@area chapter 3|04a|x}) and how the silver wires can be used to attach the organs of creatures to other hosts (including {@creature Barbatos|IMR} in areas 12 or 13, and the ettin in {@area area 35|15f|x}).",
+										"In addition, this area contains {@item alchemist's supplies|PHB}, an {@item herbalism kit|PHB}, two vials each of {@item Thessaltoxin|IMR|thessaltoxin poison} and {@item thessaltoxin antidote|IMR} (see {@area appendix C|20e|x}), a box of ten {@item Paper Bird|WDH|paper birds} ({@area appendix C|20e|x}), and a strongbox containing three exceptional rubies worth 500 gp each."
 									]
 								},
 								{
@@ -4583,7 +4583,7 @@
 									"page": 36,
 									"id": "11b",
 									"entries": [
-										"Four {@creature Lizardfolk Shaman||lizardfolk shamans} work here as lab managers, overseeing the process by which two {@creature Owlbear||owlbears} are fueling the creation of a new creature\u2014a {@creature two-headed owlbear|IMR} nicknamed Bear-Bear (see {@adventure appendix B|IMR|7} for its stat block). If the lizardfolk shamans are attacked, they release the owlbears and the two-headed owlbear to take on the characters, then flee to alert the rest of the laboratory section of the temple (areas 1 through 23).",
+										"Four {@creature Lizardfolk Shaman||lizardfolk shamans} work here as lab managers, overseeing the process by which two {@creature Owlbear||owlbears} are fueling the creation of a new creature\u2014a {@creature two-headed owlbear|IMR} nicknamed Bear-Bear (see {@area appendix B|1af|x} for its stat block). If the lizardfolk shamans are attacked, they release the owlbears and the two-headed owlbear to take on the characters, then flee to alert the rest of the laboratory section of the temple (areas 1 through 23).",
 										"If the owlbears or their two-headed kin are freed, the cruel experiments performed on them have pushed them all to the breaking point. They ignore each other but attack any other creatures they can see."
 									]
 								},
@@ -4603,7 +4603,7 @@
 									"page": 36,
 									"id": "11d",
 									"entries": [
-										"Any search of the room recovers two vials of {@item Thessaltoxin|IMR|thessaltoxin poison} (see {@adventure appendix C|IMR|8}) and a vial labeled \"Distilled Ettin Blood\" (worth 25 gp to an alchemist), all used to facilitate the experiments here."
+										"Any search of the room recovers two vials of {@item Thessaltoxin|IMR|thessaltoxin poison} (see {@area appendix C|20e|x}) and a vial labeled \"Distilled Ettin Blood\" (worth 25 gp to an alchemist), all used to facilitate the experiments here."
 									]
 								},
 								{
@@ -4695,7 +4695,7 @@
 										{
 											"type": "list",
 											"items": [
-												"A vial of {@item Thessaltoxin|IMR|thessaltoxin poison} (see {@adventure appendix C|IMR|8})",
+												"A vial of {@item Thessaltoxin|IMR|thessaltoxin poison} (see {@area appendix C|20e|x})",
 												"A tiny {@creature mimic} in the shape of a jewelry box; the mimic deals half damage with its pseudopod and bite attacks, and has only 1 hit point",
 												"Three rubies (worth 200 gp each)",
 												"A piece of river crystal (400 gp)"
@@ -4788,7 +4788,7 @@
 									"page": 37,
 									"id": "130",
 									"entries": [
-										"Any search of this area recovers a set of {@item alchemist's supplies|PHB}, a set of {@item glassblower's tools|PHB}, and a set of {@item tinker's tools|PHB}. In addition, a successful {@dc 14} Intelligence ({@skill Arcana}) check identifies two vials of {@item Thessaltoxin|IMR|thessaltoxin poison}, one vial of {@item blood of the lycanthrope antidote|IMR}, one vial of {@item mummy rot antidote|IMR}, and one vial of {@item thessaltoxin antidote|IMR}. See {@adventure appendix C|IMR|8} for all these items."
+										"Any search of this area recovers a set of {@item alchemist's supplies|PHB}, a set of {@item glassblower's tools|PHB}, and a set of {@item tinker's tools|PHB}. In addition, a successful {@dc 14} Intelligence ({@skill Arcana}) check identifies two vials of {@item Thessaltoxin|IMR|thessaltoxin poison}, one vial of {@item blood of the lycanthrope antidote|IMR}, one vial of {@item mummy rot antidote|IMR}, and one vial of {@item thessaltoxin antidote|IMR}. See {@area appendix C|20e|x} for all these items."
 									]
 								},
 								{
@@ -4817,7 +4817,7 @@
 									]
 								},
 								"{@creature Thessalar|IMR} maintains several clones in tanks of preserving chemicals here, prepared by the spell of the same name and awaiting his use. Three clones are inert. The fourth has managed to gain a degree of sentience from its proximity to the magic of the missing components of the {@i Infernal Machine}, and mouths its demand to be set free. If freed, it claims to be the true {@creature Thessalar|IMR} and that the artificer in {@area area 15|110|x} is an impostor.",
-								"Any freed clone uses the same stat block as {@creature Thessalar|IMR} (see {@adventure appendix C|IMR|8}) but lacks his special equipment and his homunculus.",
+								"Any freed clone uses the same stat block as {@creature Thessalar|IMR} (see {@area appendix C|20e|x}) but lacks his special equipment and his homunculus.",
 								{
 									"type": "entries",
 									"name": "Concealed Door",
@@ -4851,8 +4851,8 @@
 									"page": 38,
 									"id": "137",
 									"entries": [
-										"Ten of the statues in this area are large enough to serve as {@creature Sacred Statue|MTF|sacred statues}. The {@creature eidolon|MTF} in area 25 can enter and animate those statues as needed (see {@adventure appendix B|IMR|7}).",
-										"The sacred statues can be attacked to destroy them, preventing the eidolon from animating them. When not occupied by the eidolon, each statue has AC 17, 50 hit points, resistance to piercing and slashing damage, and immunity to poison and psychic damage. A sacred statue is also vulnerable to the set of superior mason's tools found in {@area area 11|08a|x} of {@adventure chapter 3|IMR|3}. A character proficient with mason's tools can use the superior set to destroy a sacred statue with a successful {@dc 13} Dexterity check."
+										"Ten of the statues in this area are large enough to serve as {@creature Sacred Statue|MTF|sacred statues}. The {@creature eidolon|MTF} in area 25 can enter and animate those statues as needed (see {@area appendix B|1af|x}).",
+										"The sacred statues can be attacked to destroy them, preventing the eidolon from animating them. When not occupied by the eidolon, each statue has AC 17, 50 hit points, resistance to piercing and slashing damage, and immunity to poison and psychic damage. A sacred statue is also vulnerable to the set of superior mason's tools found in {@area area 11|08a|x} of {@area chapter 3|04a|x}. A character proficient with mason's tools can use the superior set to destroy a sacred statue with a successful {@dc 13} Dexterity check."
 									]
 								},
 								{
@@ -4895,7 +4895,7 @@
 									"entries": [
 										"The eyes of the statue are the largest rubies ever recovered from the underground lake, and were cut and faceted by the temple's first priests. With a successful {@dc 12} Intelligence ({@skill Arcana}) check or a {@spell detect magic} spell, a character discerns that the gem eyes are a focal point for the magic of the temple, and are magically connected to the various control panels making use of the missing components from the {@i Infernal Machine of Lum the Mad}. A successful {@dc 12} Wisdom ({@skill Perception}) check made to examine the gems reveals that they are connected to the statue with silver wires similar to those seen in {@creature Thessalar|IMR}'s labs.",
 										"The gems can be removed with a successful {@dc 20} Dexterity check using thieves' tools. However, doing so deactivates any control panel still utilizing components from the {@i Infernal Machine} in the temple (in areas 9, 14, 15, 16, and 22). This disrupts the experiments and frees the bound creatures in all those areas.",
-										"The {@creature eidolon|MTF} in this area (see below) can enter the statue to transform it into a {@creature sacred statue|MTF}. The statue can be attacked to destroy it, preventing the eidolon from animating it. When not occupied by the eidolon, the statue has AC 17, 50 hit points, resistance to piercing and slashing damage, and immunity to poison and psychic damage. The statue is also vulnerable to the set of superior mason's tools found in {@area area 11|08a|x} of {@adventure chapter 3|IMR|3}. A character proficient with mason's tools can use the superior set to destroy the statue with a successful {@dc 13} Dexterity check.",
+										"The {@creature eidolon|MTF} in this area (see below) can enter the statue to transform it into a {@creature sacred statue|MTF}. The statue can be attacked to destroy it, preventing the eidolon from animating it. When not occupied by the eidolon, the statue has AC 17, 50 hit points, resistance to piercing and slashing damage, and immunity to poison and psychic damage. The statue is also vulnerable to the set of superior mason's tools found in {@area area 11|08a|x} of {@area chapter 3|04a|x}. A character proficient with mason's tools can use the superior set to destroy the statue with a successful {@dc 13} Dexterity check.",
 										"If the sacred statue is destroyed, the eidolon can enter one of the other appropriate statues in area 24."
 									]
 								},
@@ -4971,7 +4971,7 @@
 									"page": 40,
 									"id": "143",
 									"entries": [
-										"In addition to ten rubies (worth 50 gp each) being worked into statues, this area contains two sets of {@item jeweler's tools|PHB} and {@item mason's tools|PHB}, as well as half a {@item manual of stone golems}. This is the torn matching half of the half manual held by the sculptors in {@area area 11|08a|x} of {@adventure chapter 3|IMR|3}. Even incomplete, it is worth 500 gp."
+										"In addition to ten rubies (worth 50 gp each) being worked into statues, this area contains two sets of {@item jeweler's tools|PHB} and {@item mason's tools|PHB}, as well as half a {@item manual of stone golems}. This is the torn matching half of the half manual held by the sculptors in {@area area 11|08a|x} of {@area chapter 3|04a|x}. Even incomplete, it is worth 500 gp."
 									]
 								},
 								{
@@ -5061,7 +5061,7 @@
 									"page": 40,
 									"id": "14d",
 									"entries": [
-										"In addition to mundane gear, this area contains a {@item folding boat}, a {@item helm of underwater action|GoS} (see {@adventure appendix C|IMR|8}), and an incomplete {@item apparatus of Kwalish}. The missing levers of the apparatus can be found in {@area area 7|0e5|x}, and require a successful {@dc 14} Intelligence ({@skill Arcana}) check or a Dexterity check using thieves' tools or tinker's tools to reassemble."
+										"In addition to mundane gear, this area contains a {@item folding boat}, a {@item helm of underwater action|GoS} (see {@area appendix C|20e|x}), and an incomplete {@item apparatus of Kwalish}. The missing levers of the apparatus can be found in {@area area 7|0e5|x}, and require a successful {@dc 14} Intelligence ({@skill Arcana}) check or a Dexterity check using thieves' tools or tinker's tools to reassemble."
 									]
 								},
 								{
@@ -5262,7 +5262,7 @@
 									"page": 42,
 									"id": "162",
 									"entries": [
-										"{@creature \"The Demogorgon\"|IMR|This ettin} is thoroughly deranged, with {@creature Thessalar|IMR} cruelly humoring the creature's condition in his \"honored\" treatment. See {@adventure appendix B|IMR|7} for {@creature \"The Demogorgon\"|IMR|the ettin's} stat block. At one time, he was told that he was a statue of Demogorgon brought to life by {@creature Thessalar|IMR}'s experiments. He has since come to believe that he is now the actual Demogorgon, with his two heads addressing one another as Aameul and Hathradiah\u2014mispronounced as Emmanuel and Hebediah, respectively. A successful {@dc 14} Intelligence ({@skill History}) check allows a character to recall the real names of Demogorgon's heads.",
+										"{@creature \"The Demogorgon\"|IMR|This ettin} is thoroughly deranged, with {@creature Thessalar|IMR} cruelly humoring the creature's condition in his \"honored\" treatment. See {@area appendix B|1af|x} for {@creature \"The Demogorgon\"|IMR|the ettin's} stat block. At one time, he was told that he was a statue of Demogorgon brought to life by {@creature Thessalar|IMR}'s experiments. He has since come to believe that he is now the actual Demogorgon, with his two heads addressing one another as Aameul and Hathradiah\u2014mispronounced as Emmanuel and Hebediah, respectively. A successful {@dc 14} Intelligence ({@skill History}) check allows a character to recall the real names of Demogorgon's heads.",
 										{
 											"type": "image",
 											"href": {
@@ -5380,7 +5380,7 @@
 									"entries": [
 										"Uncut rubies and other gems are piled and sorted here according to size\u2014two hundred tiny stones (worth 10 gp each), one hundred small stones (25 gp each), twenty medium stones (100 gp each), and five large stones (200 gp each).",
 										"A small cask holds cut and polished rubies\u2014fifty small gems (worth 100 gp each), ten medium gems (150 gp each), and five large gems (250 gp each).",
-										"In addition, five magic gems and stones are stored in individual coffers scattered about the room\u2014an {@item Elemental Gem, Yellow Diamond||elemental gem (earth)}, an {@item Ioun stone of vitality|IMR} (see {@adventure appendix C|IMR|8}), and three {@item Spell Gem|OotA|spell gems} (see {@adventure appendix C|IMR|8}). Two of the spell gems are {@item Spell Gem (Lapis lazuli)|OotA|lapis lazuli} holding {@spell identify} and {@spell unseen servant}. The third is a {@item Spell Gem (Quartz)|OotA|quartz} holding {@spell locate object}."
+										"In addition, five magic gems and stones are stored in individual coffers scattered about the room\u2014an {@item Elemental Gem, Yellow Diamond||elemental gem (earth)}, an {@item Ioun stone of vitality|IMR} (see {@area appendix C|20e|x}), and three {@item Spell Gem|OotA|spell gems} (see {@area appendix C|20e|x}). Two of the spell gems are {@item Spell Gem (Lapis lazuli)|OotA|lapis lazuli} holding {@spell identify} and {@spell unseen servant}. The third is a {@item Spell Gem (Quartz)|OotA|quartz} holding {@spell locate object}."
 									]
 								},
 								{
@@ -5654,7 +5654,7 @@
 							"page": 46,
 							"id": "183",
 							"entries": [
-								"If one or both of Lynx and {@creature Sir Ursas|IMR} are defeated, the characters might end up in possession of the {@i Infernal Machine}. If you opt to keep this powerful artifact in your campaign, see {@adventure appendix C|IMR|8} for its statistics. Otherwise, you can decide that the machine has been fatally programmed to disperse its components to all-new locations\u2014but only after the characters have had a bit of time to experiment with it.",
+								"If one or both of Lynx and {@creature Sir Ursas|IMR} are defeated, the characters might end up in possession of the {@i Infernal Machine}. If you opt to keep this powerful artifact in your campaign, see {@area appendix C|20e|x} for its statistics. Otherwise, you can decide that the machine has been fatally programmed to disperse its components to all-new locations\u2014but only after the characters have had a bit of time to experiment with it.",
 								"Of course, if the characters take possession of the machine for any length of time, any surviving agents seek revenge against them. Likewise, so will the agents' patron archdevils, Zariel and Bel, who might send forces of cultists to finish the characters off."
 							]
 						},
@@ -5819,7 +5819,7 @@
 							"page": 48,
 							"id": "192",
 							"entries": [
-								"As written, the sculptors in the Tomb of Horrors are eager to escape but the muralists are loyal to {@creature Moghadam|IMR}. However, you might decide that the muralists have their own reasons to flee servitude, and have secured a set of {@item claws of the umber hulk|PotA} (see {@adventure appendix C|IMR|8}) to do so. They might also look for the characters' help to escape, using the claws to dig a secret tunnel beneath their chambers in {@area area 9|07d|x}\u2014and potentially intersecting with the umber hulks' excavations."
+								"As written, the sculptors in the Tomb of Horrors are eager to escape but the muralists are loyal to {@creature Moghadam|IMR}. However, you might decide that the muralists have their own reasons to flee servitude, and have secured a set of {@item claws of the umber hulk|PotA} (see {@area appendix C|20e|x}) to do so. They might also look for the characters' help to escape, using the claws to dig a secret tunnel beneath their chambers in {@area area 9|07d|x}\u2014and potentially intersecting with the umber hulks' excavations."
 							]
 						},
 						{
@@ -6026,7 +6026,7 @@
 											"page": 50,
 											"id": "1a9",
 											"entries": [
-												"You gain the service of one of the servants of your chosen agent (see {@adventure chapter 2|IMR|2}), who appears in a space you choose within 30 feet of you. The NPC serves you loyally for the duration of the adventure, understanding that the fates have drawn them to you. However, they remain violently opposed to any servants of the opposing agent. You control this character."
+												"You gain the service of one of the servants of your chosen agent (see {@area chapter 2|034|x}), who appears in a space you choose within 30 feet of you. The NPC serves you loyally for the duration of the adventure, understanding that the fates have drawn them to you. However, they remain violently opposed to any servants of the opposing agent. You control this character."
 											]
 										},
 										{
@@ -6120,7 +6120,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b9"
 				},
 				{
 					"type": "section",
@@ -6133,7 +6134,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1ba"
 				},
 				{
 					"type": "section",
@@ -6157,7 +6159,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1bb"
 				},
 				{
 					"type": "section",
@@ -6181,7 +6184,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1bc"
 				},
 				{
 					"type": "section",
@@ -6205,7 +6209,8 @@
 							"source": "vgm",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1bd"
 				},
 				{
 					"type": "section",
@@ -6218,7 +6223,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1be"
 				},
 				{
 					"type": "section",
@@ -6242,7 +6248,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1bf"
 				},
 				{
 					"type": "section",
@@ -6266,7 +6273,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c0"
 				},
 				{
 					"type": "section",
@@ -6290,7 +6298,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c1"
 				},
 				{
 					"type": "section",
@@ -6314,7 +6323,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c2"
 				},
 				{
 					"type": "section",
@@ -6338,7 +6348,8 @@
 							"source": "HftT",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c3"
 				},
 				{
 					"type": "section",
@@ -6362,7 +6373,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c4"
 				},
 				{
 					"type": "section",
@@ -6375,7 +6387,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c5"
 				},
 				{
 					"type": "section",
@@ -6388,7 +6401,8 @@
 							"source": "IMR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c6"
 				}
 			]
 		},

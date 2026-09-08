@@ -3077,6 +3077,7 @@ class InputUiUtil {
 	 * @param [opts.count] Number of choices the user can make (cannot be used with min/max).
 	 * @param [opts.min] Minimum number of choices the user can make (cannot be used with count).
 	 * @param [opts.max] Maximum number of choices the user can make (cannot be used with count).
+	 * @param [opts.isSelectAll] If a select-all checkbox should be added.
 	 * @param [opts.defaults] Array of default-selected indices.
 	 * @param [opts.required] Array of always-selected indices.
 	 * @param [opts.isResolveItems] True if the promise should resolve to an array of the items instead of the indices.
@@ -3090,6 +3091,8 @@ class InputUiUtil {
 	static async pGetUserMultipleChoice (opts) {
 		const prop = "formData";
 
+		if (opts.count != null && (opts.min != null || opts.max != null)) throw new Error(`Only one of "count" and "min"/"max" may be specified!`);
+
 		const initialState = {};
 		if (opts.defaults) opts.defaults.forEach(ix => initialState[ComponentUiUtil.getMetaWrpMultipleChoice_getPropIsActive(prop, ix)] = true);
 		if (opts.required) {
@@ -3100,16 +3103,18 @@ class InputUiUtil {
 		}
 
 		const comp = BaseComponent.fromObject(initialState);
+		const fnsCleanup = [];
 
 		let title = opts.title;
 		if (!title) {
 			if (opts.count != null) title = `Choose ${Parser.numberToText(opts.count).uppercaseFirst()}`;
 			else if (opts.min != null && opts.max != null) title = `Choose Between ${Parser.numberToText(opts.min).uppercaseFirst()} and ${Parser.numberToText(opts.max).uppercaseFirst()} Options`;
 			else if (opts.min != null) title = `Choose At Least ${Parser.numberToText(opts.min).uppercaseFirst()}`;
-			else title = `Choose At Most ${Parser.numberToText(opts.max).uppercaseFirst()}`;
+			else if (opts.max != null) title = `Choose At Most ${Parser.numberToText(opts.max).uppercaseFirst()}`;
+			else title = `Choose Options`;
 		}
 
-		const {ele: wrpList, iptSearch, propIsAcceptable} = ComponentUiUtil.getMetaWrpMultipleChoice(comp, prop, opts);
+		const {ele: wrpList, iptSearch, propIsAcceptable, propPulse, rowMetas} = ComponentUiUtil.getMetaWrpMultipleChoice(comp, prop, opts);
 		wrpList.vee.addClass("ve-mb-1");
 
 		const {eleModalInner, doClose, pGetResolved, doAutoResize: doAutoResizeModal} = await InputUiUtil._pGetShowModal({
@@ -3117,6 +3122,7 @@ class InputUiUtil {
 			title,
 			isMinHeight0: true,
 			isUncappedHeight: true,
+			isWidth100: true,
 		});
 
 		const btnOk = this._getBtnOk({opts, doClose});
@@ -3128,12 +3134,47 @@ class InputUiUtil {
 		hkIsAcceptable();
 
 		if (opts.htmlDescription) eleModalInner.vee.appends(opts.htmlDescription);
+
 		if (iptSearch) {
 			veT`<label class="ve-mb-1">
 				${iptSearch}
 			</label>`
 				.vee.appendTo(eleModalInner);
 		}
+
+		if (opts.isSelectAll) {
+			const rowMetasSelectable = rowMetas.filter(({isRequired}) => !isRequired);
+
+			const getIsAllSelected = () => rowMetasSelectable.every(({propIsActive}) => comp._state[propIsActive]);
+
+			const cbAll = veT`<input type="checkbox" title="Select All">`
+				.vee.onn("click", () => {
+					const nxtIsActive = cbAll.vee.prop("checked");
+					comp._proxyAssignSimple(
+						"state",
+						Object.fromEntries(rowMetasSelectable.map(({propIsActive}) => [propIsActive, nxtIsActive])),
+					);
+				});
+
+			const hkSelectAll = comp._addHookBase(propPulse, () => {
+				const cntSelected = rowMetasSelectable.filter(({propIsActive}) => comp._state[propIsActive]).length;
+				const isAll = getIsAllSelected();
+				cbAll
+					.vee.prop("checked", isAll)
+					.vee.prop("indeterminate", cntSelected > 0 && !isAll)
+					.vee.attr("title", isAll ? "Deselect All" : "Select All");
+			});
+			hkSelectAll();
+
+			fnsCleanup.push(() => comp._removeHookBase(propPulse, hkSelectAll));
+
+			veT`<div class="ve-flex-v-center ve-py-1">
+				<label class="ve-col-1 ve-flex-vh-center">${cbAll}</label>
+				<div class="ve-col-11 ve-flex-v-center"></div>
+			</div>`
+				.vee.appendTo(eleModalInner);
+		}
+
 		wrpList.vee.appendTo(eleModalInner);
 		veT`<div class="ve-flex-v-center ve-flex-h-right ve-no-shrink ve-pb-1 ve-px-1">${btnOk}${btnCancel}${btnSkip}</div>`.vee.appendTo(eleModalInner);
 
@@ -3143,6 +3184,7 @@ class InputUiUtil {
 
 		// region Output
 		const [isDataEntered] = await pGetResolved();
+		fnsCleanup.splice(0).forEach(fn => fn());
 
 		if (typeof isDataEntered === "symbol") return isDataEntered;
 
@@ -6425,6 +6467,7 @@ class ComponentUiUtil {
 				rowMetas.push({
 					cb: cb,
 					displayValue,
+					isRequired,
 					value: value,
 					propIsActive,
 					unhook: () => {
@@ -6433,7 +6476,7 @@ class ComponentUiUtil {
 				});
 
 				const ele = veT`<label class="ve-flex-v-center ve-py-1 stripe-even">
-					<div class="ve-col-1 ve-flex-vh-center">${cb}</div>
+					<label class="ve-col-1 ve-flex-vh-center">${cb}</label>
 					<div class="ve-col-11 ve-flex-v-center">${displayValue}</div>
 				</label>`;
 				eles.push(ele);

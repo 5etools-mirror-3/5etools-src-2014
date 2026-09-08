@@ -112,7 +112,7 @@
 					"entries": [
 						"The area between Urzin and Fort Venture is encompassed by the boggy morass of the Brokenveil Marsh. Unless otherwise noted, all areas of the marsh are {@quickref difficult terrain||3}. The bog water in the marsh averages from 1 to 5 feet deep, but is too shallow and weed-bound for boats or rafts. Tiny creatures must have a swimming speed or be carried to traverse this watery terrain.",
 						"Any character not used to this environment who takes a short or long rest within the swamp without being on raised dry ground must make a {@dc 11} Constitution check. On a failure, the character contracts sewer plague (see \"{@book Diseases|DMG|8|Diseases}\" in chapter 8 of the {@book Dungeon Master's Guide|DMG}).",
-						"Key areas of Brokenveil Marsh are noted on {@adventure map 5.11|US|0|Map 5.11: Brokenveil Marsh}. Each hex on the map measures 1 mile across. Characters moving at a normal pace can travel 10 hexes per day on foot through the swampy terrain.",
+						"Key areas of Brokenveil Marsh are noted on {@area map 5.11|000|x}. Each hex on the map measures 1 mile across. Characters moving at a normal pace can travel 10 hexes per day on foot through the swampy terrain.",
 						{
 							"type": "entries",
 							"name": "Navigation",
@@ -446,7 +446,7 @@
 												],
 												[
 													"9",
-													"Any character with a passive Wisdom ({@skill Perception}) score of 15 or higher spots a hummock of dry earth. The hummock is {@dice 1d6} feet above ground, and a successful {@dc 10} Strength ({@skill Athletics}) check is required to climb it. The hummock is 10 feet square and firm enough to support six characters and their gear. Characters who take a long or short rest on this hummock avoid exposure to the swamp's sewer plague (see \"{@adventure Exploring Brokenveil Marsh|US|0|Exploring Brokenveil Marsh}\" earlier in this adventure)."
+													"Any character with a passive Wisdom ({@skill Perception}) score of 15 or higher spots a hummock of dry earth. The hummock is {@dice 1d6} feet above ground, and a successful {@dc 10} Strength ({@skill Athletics}) check is required to climb it. The hummock is 10 feet square and firm enough to support six characters and their gear. Characters who take a long or short rest on this hummock avoid exposure to the swamp's sewer plague (see \"{@area Exploring Brokenveil Marsh|8fe|x}\" earlier in this adventure)."
 												],
 												[
 													"10",
@@ -802,8 +802,8 @@
 										"A jagged bolt of lightning suddenly cuts through the misty air above the keep, striking the edifice as a mighty crack of thunder rumbles off to the horizon."
 									]
 								},
-								"Fort Venture is detailed on {@adventure map 5.12|US|0|Map 5.12: Fort Venture}. Any character who succeeds on a {@dc 12} Intelligence ({@skill Nature}) check or a {@dc 14} Wisdom ({@skill Perception}) check recognizes that the thunderstorm above Fort Venture is fixed around the outpost and the nearby promontory, while the rest of the marsh remains relatively unaffected by the strange weather.",
-								"Once the characters reach Fort Venture, the hobgoblin guide Morgid offers to run reconnaissance and to distract incoming Dwendalian patrols as the party infiltrates the fort. The precise condition of Fort Venture and its inhabitants is dependent on how long it took the characters to arrive, and how much of {@creature Parson Pellinost|EGW|Parson Pellinost's} ill-fated exorcism of {@creature Bol'bara|EGW} has transpired. See \"{@adventure Bol'bara's Exorcism|US|0|Bol'bara's Exorcism}\" later in this chapter for more information."
+								"Fort Venture is detailed on {@area map 5.12|001|x}. Any character who succeeds on a {@dc 12} Intelligence ({@skill Nature}) check or a {@dc 14} Wisdom ({@skill Perception}) check recognizes that the thunderstorm above Fort Venture is fixed around the outpost and the nearby promontory, while the rest of the marsh remains relatively unaffected by the strange weather.",
+								"Once the characters reach Fort Venture, the hobgoblin guide Morgid offers to run reconnaissance and to distract incoming Dwendalian patrols as the party infiltrates the fort. The precise condition of Fort Venture and its inhabitants is dependent on how long it took the characters to arrive, and how much of {@creature Parson Pellinost|EGW|Parson Pellinost's} ill-fated exorcism of {@creature Bol'bara|EGW} has transpired. See \"{@area Bol'bara's Exorcism|927|x}\" later in this chapter for more information."
 							]
 						},
 						{
@@ -1257,7 +1257,7 @@
 											"page": 258,
 											"id": "932",
 											"entries": [
-												"If {@creature Bol'bara|EGW} has already been possessed as a result of the failed exorcism, the watchtower guards are either dead at their posts or missing, having fled to the main hall ({@adventure area V5|US|0|V5. Main Hall}). The iron-banded doors of the gate stand invitingly ajar."
+												"If {@creature Bol'bara|EGW} has already been possessed as a result of the failed exorcism, the watchtower guards are either dead at their posts or missing, having fled to the main hall ({@area area V5|941|x}). The iron-banded doors of the gate stand invitingly ajar."
 											]
 										}
 									]
@@ -1278,7 +1278,7 @@
 										"The south side of the Fort Venture grounds is lined with three rows of canvas tents, presumably the garrison's barracks."
 									]
 								},
-								"When not on duty or training, the guards of Fort Venture spend most of their time in this tent yard, where they drink, gamble, or attempt to sleep despite the maddening howls of Pellinost's furious prisoners in the chapel ({@adventure area V6|US|0|V6. Chapel}). Each tent features a floor covered with straw, a cotton bedroll, a down pillow, and a small wooden footlocker.",
+								"When not on duty or training, the guards of Fort Venture spend most of their time in this tent yard, where they drink, gamble, or attempt to sleep despite the maddening howls of Pellinost's furious prisoners in the chapel ({@area area V6|949|x}). Each tent features a floor covered with straw, a cotton bedroll, a down pillow, and a small wooden footlocker.",
 								"Eight {@creature Guard||guards} are off duty when the characters arrive in this area, sleeping (an {@chance 80} chance) or resting but awake in their tents. Sleeping guards use their passive Wisdom ({@skill Perception}) scores to detect intruders or to hear the alarm being raised.",
 								{
 									"type": "entries",
@@ -1295,7 +1295,7 @@
 									"page": 258,
 									"id": "936",
 									"entries": [
-										"If {@creature Bol'bara|EGW} has already been possessed, no guards are present in the infantry tent yard. The eight off-duty guards took up arms, joined the fray against the possessed warlock, and are either found dead in the training yard ({@adventure area V4|US|0|V4. Training Yard}) or alive after fleeing to the main hall ({@adventure area V5|US|0|V5. Main Hall})."
+										"If {@creature Bol'bara|EGW} has already been possessed, no guards are present in the infantry tent yard. The eight off-duty guards took up arms, joined the fray against the possessed warlock, and are either found dead in the training yard ({@area area V4|93c|x}) or alive after fleeing to the main hall ({@area area V5|941|x})."
 									]
 								}
 							]
@@ -1315,7 +1315,7 @@
 									]
 								},
 								"The map shows the area of Brokenveil Marsh. On the west side of the tent, a wooden bed frame topped with a dusty mattress is flanked by a bedside table. A locked wooden chest lies at the foot of the bed, while a wooden weapon rack and armor stand on the north wall.",
-								"Any character who succeeds on a {@dc 12} Intelligence ({@skill History}) check can identify the Dwendalian insignias and medal of rank adorning the armor of Commander Struther Felmont (a lawful neutral, male human {@creature veteran}). Felmont prefers the isolation of his command tent to the grim scene inside Pellinost's chapel, and retreats here whenever the priest conducts his strange exorcisms. He carries a key to the main hall ({@adventure area V5|US|0|V5. Main Hall}).",
+								"Any character who succeeds on a {@dc 12} Intelligence ({@skill History}) check can identify the Dwendalian insignias and medal of rank adorning the armor of Commander Struther Felmont (a lawful neutral, male human {@creature veteran}). Felmont prefers the isolation of his command tent to the grim scene inside Pellinost's chapel, and retreats here whenever the priest conducts his strange exorcisms. He carries a key to the main hall ({@area area V5|941|x}).",
 								"At the first sight of intruders, Felmont reaches for a horn at his side and sounds the alarm, alerting the guards outside. The commander is fearful but stubborn, and parleys with the characters only if his support troops have been routed and he is obviously outnumbered or outclassed. If Felmont sounds the horn, six Dwendalian {@creature Guard||guards} arrive from the training yard within 2 rounds to fight at his side. If combat persists, all the remaining guards at Fort Venture eventually join the battle.",
 								{
 									"type": "entries",
@@ -1414,7 +1414,7 @@
 										"Three long tables decorate this sparse room, their oiled surfaces spotlessly clean. A closed wooden door is set into the far wall."
 									]
 								},
-								"The main hall is a place for the guards of Fort Venture to join together for meals, revelry, and prayer. However, most of the guards prefer to spend their time in the open spaces of the training yard or in their own tents because of the unsavory sounds that issue forth from Parson Pellinost's chapel ({@adventure area V6|US|0|V6. Chapel}).",
+								"The main hall is a place for the guards of Fort Venture to join together for meals, revelry, and prayer. However, most of the guards prefer to spend their time in the open spaces of the training yard or in their own tents because of the unsavory sounds that issue forth from Parson Pellinost's chapel ({@area area V6|949|x}).",
 								{
 									"type": "entries",
 									"name": "Chapel Door",
@@ -1432,7 +1432,7 @@
 									"page": 260,
 									"id": "945",
 									"entries": [
-										"The sturdy, iron-banded oak door leading to the main hall features an inset lock. If the door is locked, it can be opened with a successful {@dc 15} Dexterity check using thieves' tools. Commander Felmont, {@creature Parson Pellinost|EGW}, one of the guards in this area, and one of the guards at the jail ({@adventure area V8|US|0|V8. Jail}) carry keys to the lock. The door can also be barricaded from within with a 20-foot-long iron crossbar. This crude defense mechanism can't be opened from outside. The barred door can be physically forced open by creatures with a combined Strength of 50."
+										"The sturdy, iron-banded oak door leading to the main hall features an inset lock. If the door is locked, it can be opened with a successful {@dc 15} Dexterity check using thieves' tools. Commander Felmont, {@creature Parson Pellinost|EGW}, one of the guards in this area, and one of the guards at the jail ({@area area V8|953|x}) carry keys to the lock. The door can also be barricaded from within with a 20-foot-long iron crossbar. This crude defense mechanism can't be opened from outside. The barred door can be physically forced open by creatures with a combined Strength of 50."
 									]
 								},
 								{
@@ -1511,7 +1511,7 @@
 									"page": 261,
 									"id": "94d",
 									"entries": [
-										"If the characters reached Fort Venture within three days of setting out from Urzin (see \"{@adventure Bol'bara's Exorcism|US|0|Bol'bara's Exorcism}\" earlier in this chapter), they arrive here to find {@creature Parson Pellinost|EGW} ready to deliver a death blow against {@creature Bol'bara|EGW}. If Bol'bara is slain and revived with the use of a {@spell revivify} spell (the third time Pellinost has brought her back to life that way), her otherworldly patron manipulates the veil between the Shadowfell and the Border Ethereal to possess her. Alternatively, if 1 minute passes from the time the characters arrive and interrupt the torture session, the shadow demon Trush completes its own ritual from the Shadowfell and takes control of the warlock."
+										"If the characters reached Fort Venture within three days of setting out from Urzin (see \"{@area Bol'bara's Exorcism|927|x}\" earlier in this chapter), they arrive here to find {@creature Parson Pellinost|EGW} ready to deliver a death blow against {@creature Bol'bara|EGW}. If Bol'bara is slain and revived with the use of a {@spell revivify} spell (the third time Pellinost has brought her back to life that way), her otherworldly patron manipulates the veil between the Shadowfell and the Border Ethereal to possess her. Alternatively, if 1 minute passes from the time the characters arrive and interrupt the torture session, the shadow demon Trush completes its own ritual from the Shadowfell and takes control of the warlock."
 									]
 								},
 								{
@@ -1573,8 +1573,8 @@
 										"Four iron cages stand in the northeast corner of the Fort Venture grounds, apparently serving as a makeshift jail."
 									]
 								},
-								"Three of the cages are empty, but the fourth houses a strange prisoner (see below). A small table and two wooden stump stools serve as a guard station between the jail and the storehouse ({@adventure area V9|US|0|V9. Storehouse}).",
-								"Two Dwendalian {@creature Guard||guards} normally defend this area but spend most of their time playing at cards or dice. Both guards carry master keys for the cages and for the kennels ({@adventure area V10|US|0|V10. Kennels}), and one carries a key to the main hall ({@adventure area V5|US|0|V5. Main Hall}). Without a key, the cages can be opened with a successful {@dc 15} Dexterity check using thieves' tools, or forced open from the outside with a successful {@dc 20} Strength ({@skill Athletics}) check.",
+								"Three of the cages are empty, but the fourth houses a strange prisoner (see below). A small table and two wooden stump stools serve as a guard station between the jail and the storehouse ({@area area V9|959|x}).",
+								"Two Dwendalian {@creature Guard||guards} normally defend this area but spend most of their time playing at cards or dice. Both guards carry master keys for the cages and for the kennels ({@area area V10|95c|x}), and one carries a key to the main hall ({@area area V5|941|x}). Without a key, the cages can be opened with a successful {@dc 15} Dexterity check using thieves' tools, or forced open from the outside with a successful {@dc 20} Strength ({@skill Athletics}) check.",
 								{
 									"type": "entries",
 									"name": "Caged Cultist",
@@ -1591,7 +1591,7 @@
 									"page": 262,
 									"id": "956",
 									"entries": [
-										"If the alarm is sounded or the dogs in {@adventure area V10|US|0|V10. Kennels} start barking, one of the guards heads to the kennel to release the dogs before investigating the disturbance, while the other guard holds their position at the jail.",
+										"If the alarm is sounded or the dogs in {@area area V10|95c|x} start barking, one of the guards heads to the kennel to release the dogs before investigating the disturbance, while the other guard holds their position at the jail.",
 										"If the characters manage to free Alonne Frith, the cultist can be convinced to join the party and take up the characters' mission with a successful {@dc 18} Charisma ({@skill Persuasion}) check."
 									]
 								},
@@ -1636,7 +1636,7 @@
 									"page": 262,
 									"id": "95b",
 									"entries": [
-										"If {@creature Bol'bara|EGW} has already been possessed, the storehouse tent is at risk from the fires in {@adventure area V4|US|0|V4. Training Yard} (see that section for details). If the characters come here particularly late, they might find the tent and its contents charred and ruined."
+										"If {@creature Bol'bara|EGW} has already been possessed, the storehouse tent is at risk from the fires in {@area area V4|93c|x} (see that section for details). If the characters come here particularly late, they might find the tent and its contents charred and ruined."
 									]
 								}
 							]
@@ -1663,7 +1663,7 @@
 									"id": "95e",
 									"entries": [
 										"A character who succeeds on a {@dc 18} Wisdom ({@skill Animal Handling}) check is able to calm all the dogs and prevent them from barking or attacking.",
-										"If an alarm is sounded elsewhere in the camp, the dogs start barking and one of the guards from the jail ({@adventure area V8|US|0|V8. Jail}) runs to the kennel to release them before investigating the disturbance."
+										"If an alarm is sounded elsewhere in the camp, the dogs start barking and one of the guards from the jail ({@area area V8|953|x}) runs to the kennel to release them before investigating the disturbance."
 									]
 								},
 								{
@@ -1705,7 +1705,7 @@
 					"entries": [
 						"If the characters don't rescue {@creature Bol'bara|EGW} from captivity before {@creature Parson Pellinost|EGW} completes his interrogation and triggers her full possession, the goblin warlock is taken over by her otherworldly patron. Her alignment becomes chaotic evil, and she gains the legendary actions noted in her stat block. After destroying Pellinost and the garrison of Fort Venture, Bol'bara heads into the Brokenveil Marsh, slaying every creature she meets on her way back to destroy the village of Urzin.",
 						"To prevent the people of Urzin from suffering a terrible fate, the characters must track Bol'bara across the swamp and intercept her for a final confrontation. You can use a location the characters didn't visit on their journey to the fort as the site of a climactic battle, or reuse an already-visited site as a location for a deadly ambush. Alternatively, you could have the characters catch the warlock as she reaches Urzin, turning the unique village into the site of a deadly battle.",
-						"Ending Bol'bara's possession while she is alive is beyond the characters' abilities. However, if the warlock is reduced to 0 hit points during the party's confrontation with her, she falls {@condition unconscious} rather than dying outright. If she is brought back to 1 hit point within 3 rounds, she is restored to her normal self. This reverts her alignment to chaotic good and causes her to lose her legendary actions. A character who succeeds on a {@dc 13} Intelligence ({@skill Arcana} or {@skill Religion}) check when the warlock falls can deduce this fact from observing how the unnatural magic infusing her dissipates, or the characters might receive this information as a prophetic insight from the {@creature Mossback Steward|EGW} ({@adventure area B8|US|0|B8. The Mossback Steward})."
+						"Ending Bol'bara's possession while she is alive is beyond the characters' abilities. However, if the warlock is reduced to 0 hit points during the party's confrontation with her, she falls {@condition unconscious} rather than dying outright. If she is brought back to 1 hit point within 3 rounds, she is restored to her normal self. This reverts her alignment to chaotic good and causes her to lose her legendary actions. A character who succeeds on a {@dc 13} Intelligence ({@skill Arcana} or {@skill Religion}) check when the warlock falls can deduce this fact from observing how the unnatural magic infusing her dissipates, or the characters might receive this information as a prophetic insight from the {@creature Mossback Steward|EGW} ({@area area B8|920|x})."
 					]
 				},
 				{

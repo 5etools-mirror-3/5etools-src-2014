@@ -557,7 +557,7 @@
 					"name": "Running the Adventure",
 					"page": 95,
 					"entries": [
-						"This version of {@i White Plume Mountain} is designed for a group of 8th-level player characters. Your players will need both brains and brawn to successfully complete their mission, as there are situations here which cannot be resolved by frontal assault. If your players are unused to hack-proof dilemmas, they may find this adventure frustrating or even boring. But if your players are used to using their wits, they should find this an intriguing balance of problems and action. Unless you are used to mastering lengthy adventures, it will probably take more than one session for a party to investigate all three branches of the dungeon. If this is the case, it would be best if the party were required to leave the dungeon and reenter upon resumption of the game. If they stay in the nearest village (several miles away) they will be relatively safe, but if they camp near White Plume Mountain it would be a good idea to roll for {@adventure random encounters|TftYP-WPM|1|Random Encounters}.",
+						"This version of {@i White Plume Mountain} is designed for a group of 8th-level player characters. Your players will need both brains and brawn to successfully complete their mission, as there are situations here which cannot be resolved by frontal assault. If your players are unused to hack-proof dilemmas, they may find this adventure frustrating or even boring. But if your players are used to using their wits, they should find this an intriguing balance of problems and action. Unless you are used to mastering lengthy adventures, it will probably take more than one session for a party to investigate all three branches of the dungeon. If this is the case, it would be best if the party were required to leave the dungeon and reenter upon resumption of the game. If they stay in the nearest village (several miles away) they will be relatively safe, but if they camp near White Plume Mountain it would be a good idea to roll for {@area random encounters|024|x}.",
 						{
 							"type": "inset",
 							"name": "Placing the Adventure",
@@ -601,7 +601,7 @@
 							"entries": [
 								"The party has arrived at White Plume Mountain, which stands alone in a vast area of dismal moors and tangled thickets. They will probably arrange to leave their horses and possessions either at the nearest village (about 5 miles from the mountain) or hidden in the Dead Gnoll's Eye Socket, a small natural cave in the side of a hill about 2 miles from the Plume. There is really no other shelter available. The villagers know about the cave and may have mentioned it. If the party leaves no guard, they will just have to trust the villagers not to steal their belongings. (Dishonest villagers will have to weigh their fear of White Plume Mountain against their certain belief that the party will never be seen again.) The cave is easily barricaded to keep out unintelligent wandering monsters.",
 								"White Plume Mountain is an almost perfectly conical volcanic hill formed from an ancient slow lava leakage. It is about 1,000 yards in diameter at the base, and rises about 800 feet above the surrounding land. The white plume that gives the mountain its name and fame is a continuous geyser that spouts from the very summit of the mountain another 300 feet into the air, trailing off to the east under the prevailing winds like a great white feather. The spray collects in depressions downslope and merges into a sizable stream. Steam vents are visible in various spots on the slopes of the mountain, but none of them are large enough to allow entry.",
-								"{@adventure Map 4.1|TftYP-WPM|1|Map 4.1: Cutaway View} depicts a cross-section of the mountain, showing the lava pool and the shaft of the geyser. The numbers refer to key areas inside the mountain, showing their orientation with respect to one another.",
+								"{@area Map 4.1|076|x} depicts a cross-section of the mountain, showing the lava pool and the shaft of the geyser. The numbers refer to key areas inside the mountain, showing their orientation with respect to one another.",
 								"The only possible entrance into the cone is a cave on the south slope known as the Wizard's Mouth. This cave actually seems to breathe, exhaling a large cloud of steam and then slowly inhaling, like a person breathing on a cold day. Each cycle takes about 30 seconds. Approaching the cave, the party will hear a whistling noise coinciding with the wind cycle. If it were not for the continuous roaring of the Plume, this whistling could be heard for a great distance.",
 								"The cave is about 8 feet in diameter and 40 feet long. At the end of the cave, near the roof, is a long, horizontal crevice about a foot wide. The air is sucked into this crack at great speed, creating the loud whistling noise and snuffing out torches. Shortly the rush of air slows down, stops for a couple of seconds, and then comes back out in a great blast of steam. This steam is not hot enough to scald anyone who keeps low and avoids the crevice, but it does make the cave very uncomfortable, like a hot sauna bath interrupted by blasts of cold air.",
 								"The ceiling and walls of the cave are slick with the condensed steam that runs down them. The floor is covered with several inches of fine muck. Only careful probing of the muck near the back of the cave will reveal a small trapdoor with a rusted iron ring set in it. Once the muck has been cleared away, a successful {@dc 20} Strength check is required to pull up the encrusted door. Magic such as {@spell knock} or {@spell passwall} can also help open or bypass the door.",
@@ -3721,7 +3721,7 @@
 							"page": 101,
 							"entries": [
 								"As the characters move along the water-covered corridor, they can see that the water is deeper in a small circular area to the east. This space is a 10-foot-deep pit. At the bottom is a wheel connected to a valve. Turning the wheel requires a successful {@dc 20} Strength check.",
-								"When the wheel is turned, a channel will open, and all the water in the wet corridors will drain out in 1 hour. Also at the bottom of the pit is a secret door that is concealed by illusion magic. The door cannot be detected by sight, but can be discovered through the use of magic or by someone who examines the area by touch and succeeds on a {@dc 15} Intelligence ({@skill Investigation}) check. The doorway leads to Keraptis's Indoctrination Center (see \"{@adventure Escaping the Dungeon|TftYP-WPM|1|Escaping the Dungeon}\" at the end of the adventure)."
+								"When the wheel is turned, a channel will open, and all the water in the wet corridors will drain out in 1 hour. Also at the bottom of the pit is a secret door that is concealed by illusion magic. The door cannot be detected by sight, but can be discovered through the use of magic or by someone who examines the area by touch and succeeds on a {@dc 15} Intelligence ({@skill Investigation}) check. The doorway leads to Keraptis's Indoctrination Center (see \"{@area Escaping the Dungeon|06b|x}\" at the end of the adventure)."
 							],
 							"id": "038"
 						},
@@ -3738,7 +3738,7 @@
 									"id": "03a"
 								},
 								"Most of the area is actually a 15-foot-deep pool. The only shallow spaces are those that run mostly around the perimeter of the room, where the water is only 1 foot deep.",
-								"The deep area that makes up most of the room is inhabited by two {@creature Kelpie|TftYP|kelpies} (see {@adventure appendix B|TftYP-WPM|3}). As the characters move into the room, the kelpies will rise to the surface, and each will attempt to charm a character.",
+								"The deep area that makes up most of the room is inhabited by two {@creature Kelpie|TftYP|kelpies} (see {@area appendix B|06e|x}). As the characters move into the room, the kelpies will rise to the surface, and each will attempt to charm a character.",
 								"In the eastern wing of the pool are two partly enclosed areas with entrances that are accessible only from beneath the surface of the water. These areas are partially covered by a roof along the east edge, where the water is only 1 foot deep. The southern chamber is the kelpies' lair, which contains their treasure. The northern chamber is empty.",
 								{
 									"type": "entries",
@@ -3811,7 +3811,7 @@
 													"id": "042"
 												},
 												"If Burket is killed or if {@creature Snarla|TftYP} finds herself in a bad situation, she changes into werewolf form and attacks with desperate savagery, giving her advantage on all her attack rolls.",
-												"If she is captured alive and made to talk, she will tell the party only that she is charged with keeping the kelpies and other denizens of the dungeon fed. There are strange gaps in her memory concerning her employer or any section of the dungeon other than her own. She has never been past the doors at {@adventure area 14|TftYP-WPM|1|14. Flood Doors}. Burket knows even less than she does."
+												"If she is captured alive and made to talk, she will tell the party only that she is charged with keeping the kelpies and other denizens of the dungeon fed. There are strange gaps in her memory concerning her employer or any section of the dungeon other than her own. She has never been past the doors at {@area area 14|049|x}. Burket knows even less than she does."
 											],
 											"id": "041"
 										},
@@ -3877,7 +3877,7 @@
 							"name": "15. Boiling Lake",
 							"page": 102,
 							"entries": [
-								"This boiling lake is several hundred feet deep, extending down to the red-hot rock below, and reaching nearly to the ceiling of the cavern it occupies, 50 feet above the level of the sunken ledge described in {@adventure area 17|TftYP-WPM|1|17. The Boiling Bubble}. It is fed by an underground stream that enters from the northwest at a depth 100 feet below that of the ledge. Its run-off flows through a channel to the east, above the ledge, near the ceiling of the cavern.",
+								"This boiling lake is several hundred feet deep, extending down to the red-hot rock below, and reaching nearly to the ceiling of the cavern it occupies, 50 feet above the level of the sunken ledge described in {@area area 17|04c|x}. It is fed by an underground stream that enters from the northwest at a depth 100 feet below that of the ledge. Its run-off flows through a channel to the east, above the ledge, near the ceiling of the cavern.",
 								"Any creature that enters the boiling lake takes 44 ({@dice 8d10}) fire damage immediately and again at the start of each of its turns for as long as it remains in the lake.",
 								{
 									"type": "image",
@@ -4115,7 +4115,7 @@
 							"name": "24. Sir Bluto's Guardpost",
 							"page": 105,
 							"entries": [
-								"A fallen knight named Sir Bluto Sans Pite (a NE {@creature champion|VGM}; see {@adventure appendix B|TftYP-WPM|3}) and his eight minions (NE human {@creature Knight||knights}) wait here to ambush any who come through the tunnel. They will be alerted by disturbances in the flow of water as the party tampers with it upstream. The stream that flows through this room is suspended in the same manner as in area 23. It continues from north to south out of area 24 and back to area 23, completing the circuit.",
+								"A fallen knight named Sir Bluto Sans Pite (a NE {@creature champion|VGM}; see {@area appendix B|06e|x}) and his eight minions (NE human {@creature Knight||knights}) wait here to ambush any who come through the tunnel. They will be alerted by disturbances in the flow of water as the party tampers with it upstream. The stream that flows through this room is suspended in the same manner as in area 23. It continues from north to south out of area 24 and back to area 23, completing the circuit.",
 								"Sir Bluto's knights work in two teams of four, with two team members on each side of the stream. When a kayak comes out, a team will throw a large net over it and attempt to drag it and its occupants out of the stream and down onto the floor. When it falls, they move in to finish off the occupants with swords. To escape from a net, a creature can use its action to make a {@dc 10} Strength check, freeing itself or another creature within its reach on a successful check. Dealing 5 slashing damage to the net (AC 10) also frees a creature without harming it; any other creature in the same net can then use its action to free itself through that opening.",
 								"Sir Bluto was a respected Knight of the Realm before his indictment in the River of Blood mass-murder case. His mysterious disappearance from prison left even the Royal Magician-Detectives baffled, and a reward of 10,000 gp was posted for his capture. Someone in the party is sure to recognize his one-of-a-kind face.",
 								{
@@ -4215,8 +4215,8 @@
 											"name": "Breaking Glass",
 											"page": 106,
 											"entries": [
-												"If any of the glass walls are broken, a weak {@spell wall of force} will activate immediately in front of the door on the bottom tier (preventing water from forcing the door open and escaping into the corridor beyond). If the glass is broken on both of the aquariums, the volume of water is sufficient to fill the two lower tiers and cover the floor of the middle tier to a depth of about 2 feet. The water will slowly drain out of four small drains in the corners of the bottom tier, but it will take a good three hours to do so. Of course, characters who choose to wait will be subject to the possibility of {@adventure random encounters|TftYP-WPM|1|Random Encounters}. Once the water is finally gone, the wall of force will disappear.",
-												"If the characters destroy the wall of force, the pressure of the water will push open the door and the water will rush into the corridor beyond, pulling along any swimming characters and miscellaneous debris nearby. The water will collide with another wall of force that covers the door to {@adventure area 27|TftYP-WPM|1|27. Luxurious Prison}, and then begin draining out through a grating in the floor in the last 10 feet of the passage. The water will take only 20 minutes to drain out through this grating. (The water drains straight down through an old lava tube to a large cave with no other exits.) When the water is gone, the wall of force barring entry to area 27 dissipates."
+												"If any of the glass walls are broken, a weak {@spell wall of force} will activate immediately in front of the door on the bottom tier (preventing water from forcing the door open and escaping into the corridor beyond). If the glass is broken on both of the aquariums, the volume of water is sufficient to fill the two lower tiers and cover the floor of the middle tier to a depth of about 2 feet. The water will slowly drain out of four small drains in the corners of the bottom tier, but it will take a good three hours to do so. Of course, characters who choose to wait will be subject to the possibility of {@area random encounters|024|x}. Once the water is finally gone, the wall of force will disappear.",
+												"If the characters destroy the wall of force, the pressure of the water will push open the door and the water will rush into the corridor beyond, pulling along any swimming characters and miscellaneous debris nearby. The water will collide with another wall of force that covers the door to {@area area 27|067|x}, and then begin draining out through a grating in the floor in the last 10 feet of the passage. The water will take only 20 minutes to drain out through this grating. (The water drains straight down through an old lava tube to a large cave with no other exits.) When the water is gone, the wall of force barring entry to area 27 dissipates."
 											],
 											"id": "064"
 										},
@@ -4226,7 +4226,7 @@
 											"page": 106,
 											"entries": [
 												"The occupants of each level will be randomly distributed when the party enters, but as the intruders come near, the monsters will move to follow, expecting to be fed. They are accustomed to live food, and will ignore dead meat or other nonliving sustenance. They consider any living creature that enters their domain as food, and will attempt to eat it.",
-												"No creatures inhabit the top tier of the terrace. The aquarium tier inside that area is occupied by six {@creature giant crayfish|TftYP} (see {@adventure appendix B|TftYP-WPM|3}). The next lower tier is a dry level where the glass walls enclose six {@creature Giant Scorpion||giant scorpions}. Beneath and inside that is an aquarium that holds four {@creature Sea Lion|TftYP|sea lions} (see {@adventure appendix B|TftYP-WPM|3}).",
+												"No creatures inhabit the top tier of the terrace. The aquarium tier inside that area is occupied by six {@creature giant crayfish|TftYP} (see {@area appendix B|06e|x}). The next lower tier is a dry level where the glass walls enclose six {@creature Giant Scorpion||giant scorpions}. Beneath and inside that is an aquarium that holds four {@creature Sea Lion|TftYP|sea lions} (see {@area appendix B|06e|x}).",
 												"On the bottom tier are three wing-clipped {@creature Manticore||manticores} that are unable to fly. The manticores will not hesitate to fire their spikes at any they recognize as intruders."
 											],
 											"id": "065"
@@ -4308,7 +4308,7 @@
 					"name": "Escaping the Dungeon",
 					"page": 107,
 					"entries": [
-						"If the characters obtain two or even all three of the magic weapons and are finally leaving for good, they might be stopped at {@adventure area 2|TftYP-WPM|1|2. Riddling Guardian} by the return of the {@spell wall of force}. A voice will speak to them out of the air:",
+						"If the characters obtain two or even all three of the magic weapons and are finally leaving for good, they might be stopped at {@area area 2|029|x} by the return of the {@spell wall of force}. A voice will speak to them out of the air:",
 						{
 							"type": "insetReadaloud",
 							"entries": [
@@ -4540,7 +4540,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "082"
 				},
 				{
 					"type": "section",
@@ -4564,7 +4565,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "083"
 				},
 				{
 					"type": "section",
@@ -4588,7 +4590,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "084"
 				},
 				{
 					"type": "section",
@@ -4612,7 +4615,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "085"
 				},
 				{
 					"type": "section",
@@ -4636,7 +4640,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "086"
 				},
 				{
 					"type": "section",
@@ -4660,7 +4665,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "087"
 				},
 				{
 					"type": "section",
@@ -4684,7 +4690,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "088"
 				},
 				{
 					"type": "section",
@@ -4708,7 +4715,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "089"
 				},
 				{
 					"type": "section",
@@ -4732,7 +4740,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08a"
 				},
 				{
 					"type": "section",
@@ -4756,7 +4765,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08b"
 				},
 				{
 					"type": "section",
@@ -4780,7 +4790,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08c"
 				},
 				{
 					"type": "section",
@@ -4793,7 +4804,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08d"
 				},
 				{
 					"type": "section",
@@ -4817,7 +4829,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08e"
 				},
 				{
 					"type": "section",
@@ -4830,7 +4843,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08f"
 				},
 				{
 					"type": "section",
@@ -4854,7 +4868,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "090"
 				},
 				{
 					"type": "section",
@@ -4867,7 +4882,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "091"
 				},
 				{
 					"type": "section",
@@ -4891,7 +4907,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "092"
 				},
 				{
 					"type": "section",
@@ -4915,7 +4932,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "093"
 				},
 				{
 					"type": "section",
@@ -4928,7 +4946,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "094"
 				},
 				{
 					"type": "section",
@@ -4941,7 +4960,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "095"
 				},
 				{
 					"type": "section",
@@ -4965,7 +4985,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "096"
 				},
 				{
 					"type": "section",
@@ -4989,7 +5010,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "097"
 				},
 				{
 					"type": "section",
@@ -5013,7 +5035,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "098"
 				},
 				{
 					"type": "section",
@@ -5037,7 +5060,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "099"
 				},
 				{
 					"type": "section",
@@ -5061,7 +5085,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09a"
 				},
 				{
 					"type": "section",
@@ -5074,7 +5099,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09b"
 				},
 				{
 					"type": "section",
@@ -5098,7 +5124,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09c"
 				},
 				{
 					"type": "section",
@@ -5111,7 +5138,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09d"
 				},
 				{
 					"type": "section",
@@ -5135,7 +5163,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09e"
 				},
 				{
 					"type": "section",
@@ -5159,7 +5188,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09f"
 				},
 				{
 					"type": "section",
@@ -5183,7 +5213,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0a0"
 				},
 				{
 					"type": "section",
@@ -5207,7 +5238,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0a1"
 				},
 				{
 					"type": "section",
@@ -5220,7 +5252,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0a2"
 				},
 				{
 					"type": "section",
@@ -5233,7 +5266,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0a3"
 				},
 				{
 					"type": "section",
@@ -5246,7 +5280,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0a4"
 				},
 				{
 					"type": "section",
@@ -5270,7 +5305,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0a5"
 				},
 				{
 					"type": "section",
@@ -5294,7 +5330,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0a6"
 				},
 				{
 					"type": "section",
@@ -5307,7 +5344,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0a7"
 				},
 				{
 					"type": "section",
@@ -5331,7 +5369,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0a8"
 				}
 			],
 			"id": "06e"

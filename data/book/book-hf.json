@@ -298,7 +298,7 @@
 									"name": "The Yawning Portal",
 									"page": "xxv",
 									"entries": [
-										"This iconic tavern and eatery located in the City of Waterdeep is among the most famous in the Forgotten Realms. Owned and operated by a gruff former adventurer called Durnan the Wanderer, this multilevel establishment tenders not only fine food and drink, but potential fame and fortune as well. Built atop one of D&D's largest and most notorious dungeons, the fabled Undermountain, this tavern offers paying customers entrance to the sprawling lair via a well that leads into its depths. Unfortunately, most patrons never return. For the menu, see {@book this page|HF|1|The Yawning Portal Menu}."
+										"This iconic tavern and eatery located in the City of Waterdeep is among the most famous in the Forgotten Realms. Owned and operated by a gruff former adventurer called Durnan the Wanderer, this multilevel establishment tenders not only fine food and drink, but potential fame and fortune as well. Built atop one of D&D's largest and most notorious dungeons, the fabled Undermountain, this tavern offers paying customers entrance to the sprawling lair via a well that leads into its depths. Unfortunately, most patrons never return. For the menu, see {@area this page|033|x}."
 									],
 									"id": "00e"
 								},
@@ -307,7 +307,7 @@
 									"name": "The Inn of the Last Home",
 									"page": "xxv",
 									"entries": [
-										"Seated in the branches of a massive vallenwood tree, this rustic, country tavern located in the town of Solace is without a doubt the most famous establishment in the Dragonlance world. It is here where the Heroes of the Lance assemble and begin their unexpected journey among the wafting smells of {@recipe Otik's Skillet-Fried Spiced Potatoes|HF|fried spiced potatoes}\u2014a specialty of the proprietor, Otik Sandath, and often prepared by its lovely barmaid, Tika Waylan, who becomes one of the unlikely adventurers herself. Known for its strong ales, tasty food, and cozy atmosphere, the Inn of the Last Home is a can't-miss stop for those who traverse the world of Krynn. For the menu, see {@book this page|HF|2|The Inn of the Last Home Menu}."
+										"Seated in the branches of a massive vallenwood tree, this rustic, country tavern located in the town of Solace is without a doubt the most famous establishment in the Dragonlance world. It is here where the Heroes of the Lance assemble and begin their unexpected journey among the wafting smells of {@recipe Otik's Skillet-Fried Spiced Potatoes|HF|fried spiced potatoes}\u2014a specialty of the proprietor, Otik Sandath, and often prepared by its lovely barmaid, Tika Waylan, who becomes one of the unlikely adventurers herself. Known for its strong ales, tasty food, and cozy atmosphere, the Inn of the Last Home is a can't-miss stop for those who traverse the world of Krynn. For the menu, see {@area this page|048|x}."
 									],
 									"id": "00f"
 								},
@@ -316,7 +316,7 @@
 									"name": "Celestial Vista Restaurant",
 									"page": "xxv",
 									"entries": [
-										"Floating high above Eberron's City of Sharn in the Azure District of Skyway is the city's renowned Celestial Vista Restaurant. Here, well-to-do tourists and locals alike flock for the view and the cosmopolitan cuisine\u2014where gastronomic innovation meets the traditional dishes of the five nations. Owned by powerful city council member Evix ir'Marasha, the atmosphere is elegant, the food is purified (by House Ghallanda), and the prices are as high as the eatery itself. For the menu, see {@book this page|HF|3|Celestial Vista Restaurant Menu}."
+										"Floating high above Eberron's City of Sharn in the Azure District of Skyway is the city's renowned Celestial Vista Restaurant. Here, well-to-do tourists and locals alike flock for the view and the cosmopolitan cuisine\u2014where gastronomic innovation meets the traditional dishes of the five nations. Owned by powerful city council member Evix ir'Marasha, the atmosphere is elegant, the food is purified (by House Ghallanda), and the prices are as high as the eatery itself. For the menu, see {@area this page|05c|x}."
 									],
 									"id": "010"
 								},
@@ -325,7 +325,7 @@
 									"name": "The Green Dragon Inn",
 									"page": "xxv",
 									"entries": [
-										"Situated in the River Quarter of the Free City of Greyhawk, this iconic pub is everything you'd expect of a D&D tavern: dark, cozy, and dangerous. Hushed conversations linger over map-covered tables, while the smell of roasted game wafts heavily above the underlying stench of stale ale. Whether you're looking for tasty regional cuisine of the Flanaess or trouble, you'll find it at the Green Dragon. For the menu, see {@book this page|HF|4|Green Dragon Inn Menu}."
+										"Situated in the River Quarter of the Free City of Greyhawk, this iconic pub is everything you'd expect of a D&D tavern: dark, cozy, and dangerous. Hushed conversations linger over map-covered tables, while the smell of roasted game wafts heavily above the underlying stench of stale ale. Whether you're looking for tasty regional cuisine of the Flanaess or trouble, you'll find it at the Green Dragon. For the menu, see {@area this page|06f|x}."
 									],
 									"id": "011"
 								}

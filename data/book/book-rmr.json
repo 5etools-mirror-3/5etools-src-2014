@@ -638,7 +638,7 @@
 											"height": 690,
 											"credit": "Troy Little"
 										},
-										"Ability checks are discussed on the following page, saving throws later in this chapter. Attack rolls are described in {@book chapter 2|RMR|1}.",
+										"Ability checks are discussed on the following page, saving throws later in this chapter. Attack rolls are described in {@area chapter 2|058|x}.",
 										"{@comicH3 4. The Dungeon Master is always right.}",
 										"{@comic I-I-I don't know why they didn't include that in their supposed \"core rules,\" but that should actually be number 1. J-j-just scratch out the order of the other stuff and put that at the top.The DM also tells people when they're being stupid.}"
 									]
@@ -1645,9 +1645,9 @@
 							"id": "062",
 							"entries": [
 								"On your turn, you can {@b move} a distance up to your speed and {@b take one action}. You decide whether to move first or take your action first. Your speed\u2014sometimes called your walking speed\u2014is noted on your character sheet.",
-								"The most common actions you can take are described in the \"{@book Actions in Combat|RMR|1|Actions in Combat}\" section later in this chapter. Many class features and other abilities provide additional options for your action.",
-								"The \"{@book Movement and Position|RMR|1|Movement and Position}\" section later in this chapter gives the rules for your move.",
-								"You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the {@action Dodge} or {@action Ready} action, as described in \"{@book Actions in Combat|RMR|1|Actions in Combat}.\"",
+								"The most common actions you can take are described in the \"{@area Actions in Combat|070|x}\" section later in this chapter. Many class features and other abilities provide additional options for your action.",
+								"The \"{@area Movement and Position|069|x}\" section later in this chapter gives the rules for your move.",
+								"You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the {@action Dodge} or {@action Ready} action, as described in \"{@area Actions in Combat|070|x}.\"",
 								{
 									"type": "entries",
 									"name": "Bonus Actions",
@@ -1768,7 +1768,7 @@
 					"page": 20,
 					"id": "069",
 					"entries": [
-						"In combat, characters and monsters are in constant motion, often using movement and position to gain the upper hand. On your turn, you can move a distance up to your speed. You can use as much or as little of your speed as you like on your turn, following the rules here. Your move can include jumping, climbing, and swimming, as described in {@book chapter 3|RMR|2}.",
+						"In combat, characters and monsters are in constant motion, often using movement and position to gain the upper hand. On your turn, you can move a distance up to your speed. You can use as much or as little of your speed as you like on your turn, following the rules here. Your move can include jumping, climbing, and swimming, as described in {@area chapter 3|0b2|x}.",
 						{
 							"type": "entries",
 							"name": "Breaking Up Your Move",
@@ -1851,7 +1851,7 @@
 							"page": 20,
 							"id": "06e",
 							"entries": [
-								"Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are {@condition prone}, a condition described in {@book appendix A|RMR|4}.",
+								"Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are {@condition prone}, a condition described in {@area appendix A|1ac|x}.",
 								"You can {@b drop {@condition prone}} without using any of your speed. {@b Standing up} takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.",
 								"To move while {@condition prone}, you must {@b crawl} or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in {@quickref difficult terrain||3}, therefore, costs 3 feet of movement."
 							]
@@ -1891,7 +1891,7 @@
 							"page": 21,
 							"id": "071",
 							"entries": [
-								"Spellcasters such as wizards and clerics, as well as many monsters, have access to spells and can use them to great effect in combat. Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Most spells have a casting time of 1 action, so a spellcaster often uses his or her action in combat to cast such a spell. See {@book chapter 4|RMR|3} for the rules on spellcasting."
+								"Spellcasters such as wizards and clerics, as well as many monsters, have access to spells and can use them to great effect in combat. Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Most spells have a casting time of 1 action, so a spellcaster often uses his or her action in combat to cast such a spell. See {@area chapter 4|105|x} for the rules on spellcasting."
 							]
 						},
 						{
@@ -1901,7 +1901,7 @@
 							"id": "072",
 							"entries": [
 								"The most common action to take in combat is the {@action Attack} action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.",
-								"With this action, you make one melee or ranged attack. See the \"{@book Making an Attack|RMR|1|Making an Attack}\" section for the rules that govern attacks.",
+								"With this action, you make one melee or ranged attack. See the \"{@area Making an Attack|07f|x}\" section for the rules that govern attacks.",
 								"Certain features, such as the Extra Attack feature that the fighter gets at 5th level, allow you to make more than one attack with this action.",
 								{
 									"type": "inset",
@@ -1975,7 +1975,7 @@
 							"page": 22,
 							"id": "077",
 							"entries": [
-								"When you take the {@action Dodge} action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are {@condition incapacitated} (as explained in {@book appendix A|RMR|4}) or if your speed drops to 0."
+								"When you take the {@action Dodge} action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are {@condition incapacitated} (as explained in {@area appendix A|1ac|x}) or if your speed drops to 0."
 							]
 						},
 						{
@@ -2014,7 +2014,7 @@
 							"page": 22,
 							"id": "07a",
 							"entries": [
-								"When you take the {@action Hide} action, you make a Dexterity ({@skill Stealth}) check in an attempt to hide, following the rules in {@book chapter 1|RMR|0} for hiding. If you succeed, you gain certain benefits, as described in the \"{@book Unseen Attackers and Targets|RMR|1|Unseen Attackers and Targets}\" section later in this chapter."
+								"When you take the {@action Hide} action, you make a Dexterity ({@skill Stealth}) check in an attempt to hide, following the rules in {@area chapter 1|000|x} for hiding. If you succeed, you gain certain benefits, as described in the \"{@area Unseen Attackers and Targets|086|x}\" section later in this chapter."
 							]
 						},
 						{
@@ -2026,7 +2026,7 @@
 								"Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the {@action Ready} action on your turn, which lets you act using your reaction before the start of your next turn.",
 								"First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include \"If the cultist steps on the trapdoor, I'll pull the lever that opens it,\" and {@highlight \"If the goblin steps next to me, I move away.\"}",
 								"When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.",
-								"A spell must have a casting time of 1 action to be readied, and holding onto the spell's magic until you release it with your reaction requires concentration (explained in {@book chapter 4|RMR|3}). For example, if you are concentrating on the {@spell web} spell and ready {@spell magic missile}, your {@spell web} spell ends, and if you take damage before you release {@spell magic missile} with your reaction, your concentration might be broken.",
+								"A spell must have a casting time of 1 action to be readied, and holding onto the spell's magic until you release it with your reaction requires concentration (explained in {@area chapter 4|105|x}). For example, if you are concentrating on the {@spell web} spell and ready {@spell magic missile}, your {@spell web} spell ends, and if you take damage before you release {@spell magic missile} with your reaction, your concentration might be broken.",
 								{
 									"type": "inset",
 									"id": "07c",
@@ -2660,7 +2660,7 @@
 							"page": 30,
 							"id": "0a1",
 							"entries": [
-								"Unless it results in death, damage isn't permanent, and even death is reversible through powerful magic. Rest can restore a creature's hit points (as explained in {@book chapter 3|RMR|2}), and magical methods such as a {@spell cure wounds} spell or a {@item potion of healing} can remove damage in an instant.",
+								"Unless it results in death, damage isn't permanent, and even death is reversible through powerful magic. Rest can restore a creature's hit points (as explained in {@area chapter 3|0b2|x}), and magical methods such as a {@spell cure wounds} spell or a {@item potion of healing} can remove damage in an instant.",
 								"When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost. A creature that has died can't regain hit points until magic, such as a {@spell revivify} spell, has restored it to life.",
 								{
 									"type": "inset",
@@ -2759,7 +2759,7 @@
 									"page": 31,
 									"id": "0a6",
 									"entries": [
-										"If damage reduces you to 0 hit points and fails to kill you, you fall {@condition unconscious} (see {@book appendix A|RMR|4}). This unconsciousness ends if you regain any hit points.",
+										"If damage reduces you to 0 hit points and fails to kill you, you fall {@condition unconscious} (see {@area appendix A|1ac|x}). This unconsciousness ends if you regain any hit points.",
 										{
 											"type": "inset",
 											"id": "0a7",
@@ -3673,7 +3673,7 @@
 											"id": "0d9",
 											"entries": [
 												"You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.",
-												"If you employ such a weapon to make a melee attack, you use the weapon as an improvised weapon (see \"{@book Improvised Weapons|RMR|2|Improvised Weapons}\" later in the chapter)."
+												"If you employ such a weapon to make a melee attack, you use the weapon as an improvised weapon (see \"{@area Improvised Weapons|0e7|x}\" later in the chapter)."
 											]
 										},
 										{
@@ -3700,7 +3700,7 @@
 											"page": 38,
 											"id": "0dc",
 											"entries": [
-												"A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. See the rules for two-weapon fighting in {@book chapter 2|RMR|1}."
+												"A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. See the rules for two-weapon fighting in {@area chapter 2|058|x}."
 											]
 										},
 										{
@@ -4471,7 +4471,7 @@
 											"page": 40,
 											"id": "0ee",
 											"entries": [
-												"A component pouch is a small, watertight leather belt pouch that holds all the material components and other special items you need to cast your spells, except for those components that have a specific cost. See {@book chapter 4|RMR|3} for more about spellcasting.",
+												"A component pouch is a small, watertight leather belt pouch that holds all the material components and other special items you need to cast your spells, except for those components that have a specific cost. See {@area chapter 4|105|x} for more about spellcasting.",
 												{
 													"type": "inset",
 													"id": "0ef",
@@ -4549,7 +4549,7 @@
 											"page": 40,
 											"id": "0f3",
 											"entries": [
-												"A holy symbol is a representation of a god or pantheon. It might be a silver amulet depicting a symbol commonly used to represent a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. The cleric can use a holy symbol to replace the material components of spells, except for those components that have a specific cost. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it emblazoned on a shield. See {@book chapter 4|RMR|3} for more about spellcasting."
+												"A holy symbol is a representation of a god or pantheon. It might be a silver amulet depicting a symbol commonly used to represent a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. The cleric can use a holy symbol to replace the material components of spells, except for those components that have a specific cost. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it emblazoned on a shield. See {@area chapter 4|105|x} for more about spellcasting."
 											]
 										},
 										{
@@ -5077,7 +5077,7 @@
 					"id": "107",
 					"entries": [
 						"A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect\u2014in most cases, all in the span of seconds.",
-						"Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see {@book appendix A|RMR|4}), drain life energy away, and restore life to the dead.",
+						"Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see {@area appendix A|1ac|x}), drain life energy away, and restore life to the dead.",
 						{
 							"type": "inset",
 							"id": "108",
@@ -5115,7 +5115,7 @@
 							"id": "10a",
 							"entries": [
 								"Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind. Clerics and wizards undergo a process of preparing spells. {@highlight The number of spells a caster can have fixed in mind at any given time is shown on the character sheets.}",
-								"A character can change this list of prepared spells upon finishing a long rest (see {@book chapter 3|RMR|2}). Preparing a new list of spells requires time spent in meditation or study: at least 1 minute per spell level for each spell on the list.",
+								"A character can change this list of prepared spells upon finishing a long rest (see {@area chapter 3|0b2|x}). Preparing a new list of spells requires time spent in meditation or study: at least 1 minute per spell level for each spell on the list.",
 								{
 									"type": "inset",
 									"id": "10b",
@@ -5300,7 +5300,7 @@
 									"page": 46,
 									"id": "118",
 									"entries": [
-										"Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see \"{@book Concentration|RMR|3|Concentration}\" later in this chapter). If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over."
+										"Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so (see \"{@area Concentration|125|x}\" later in this chapter). If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over."
 									]
 								}
 							]
@@ -5314,7 +5314,7 @@
 								"The target of a spell must be within the spell's range. For a spell like {@spell magic missile}, the target is a creature. For a spell like {@spell fireball}, the target is the point in space where the ball of fire erupts.",
 								"Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch.",
 								"Other spells, such as the {@spell shield} spell, affect only you. These spells have a range of self.",
-								"Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you (see \"{@book Areas of Effect|RMR|3|Areas of Effect}\" later in the this chapter).",
+								"Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you (see \"{@area Areas of Effect|129|x}\" later in the this chapter).",
 								"Once a spell is cast, its effects aren't limited by its range, unless the spell's description says otherwise.",
 								{
 									"type": "inset",
@@ -5467,7 +5467,7 @@
 											"items": [
 												"{@b Casting another spell that requires concentration.} You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.",
 												"{@b Taking damage}. Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.",
-												"{@b Being incapacitated or killed.} You lose concentration on a spell if you are {@condition incapacitated} (as explained in {@book appendix A|RMR|4}) or if you die."
+												"{@b Being incapacitated or killed.} You lose concentration on a spell if you are {@condition incapacitated} (as explained in {@area appendix A|1ac|x}) or if you die."
 											],
 											"columns": 3
 										}
@@ -5511,7 +5511,7 @@
 							"entries": [
 								"Spells such as {@spell burning hands} and {@spell fireball} cover an area, allowing them to affect multiple creatures at once.",
 								"A spell's description specifies its area of effect, which typically has one of four different shapes: cone, cube, line, or sphere (each illustrated on the DM screen). Every area of effect has a point of origin, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.",
-								"A spell's effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn't included in the spell's area. To block one of these imaginary lines, an obstruction must provide {@quickref Cover||3||total cover}, as explained in {@book chapter 2|RMR|1}.",
+								"A spell's effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn't included in the spell's area. To block one of these imaginary lines, an obstruction must provide {@quickref Cover||3||total cover}, as explained in {@area chapter 2|058|x}.",
 								"The point of origin of an area of effect isn't included in the area, unless the area is a sphere.",
 								{
 									"type": "entries",
@@ -5588,7 +5588,7 @@
 							"id": "130",
 							"entries": [
 								"Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.",
-								"Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't {@condition incapacitated} (see {@book chapter 2|RMR|1})."
+								"Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't {@condition incapacitated} (see {@area chapter 2|058|x})."
 							]
 						},
 						{
@@ -5798,7 +5798,7 @@
 					"id": "138",
 					"entries": [
 						"Presented in alphabetical order, these spells are used by characters and monsters in this set.",
-						"Some of the spells cause {@b conditions}, including {@condition charmed}, {@condition deafened}, {@condition frightened}, {@condition invisible}, {@condition paralyzed}, {@condition prone}, {@condition restrained}, and {@condition unconscious}. Consult {@book appendix A|RMR|4} to learn a condition's effects in the game.",
+						"Some of the spells cause {@b conditions}, including {@condition charmed}, {@condition deafened}, {@condition frightened}, {@condition invisible}, {@condition paralyzed}, {@condition prone}, {@condition restrained}, and {@condition unconscious}. Consult {@area appendix A|1ac|x} to learn a condition's effects in the game.",
 						{
 							"type": "statblock",
 							"tag": "spell",

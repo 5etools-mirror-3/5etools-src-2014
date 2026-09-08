@@ -1036,7 +1036,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "116"
 						},
 						{
 							"type": "section",
@@ -1060,7 +1061,8 @@
 									"source": "MPMM",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "117"
 						},
 						{
 							"type": "section",
@@ -1084,7 +1086,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "119"
 						}
 					]
 				},
@@ -1188,7 +1191,7 @@
 							"name": "Adventure Hooks",
 							"id": "04d",
 							"entries": [
-								"{@i Trial by Fire} follows the events of {@adventure Orientation|SjA|0}, the first adventure in the series. Characters who did not participate in the first adventure are assumed to have completed their orientation and are assigned to join the other characters' training team.",
+								"{@i Trial by Fire} follows the events of {@area Orientation|000|x}, the first adventure in the series. Characters who did not participate in the first adventure are assumed to have completed their orientation and are assigned to join the other characters' training team.",
 								{
 									"type": "inset",
 									"id": "04e",
@@ -1930,7 +1933,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "11a"
 						},
 						{
 							"type": "section",
@@ -1954,7 +1958,8 @@
 									"source": "MPMM",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "11b"
 						},
 						{
 							"type": "section",
@@ -1978,7 +1983,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "11c"
 						},
 						{
 							"type": "section",
@@ -2002,7 +2008,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "11d"
 						}
 					]
 				},
@@ -2204,7 +2211,7 @@
 							"name": "Adventure Hooks",
 							"id": "095",
 							"entries": [
-								"{@i Spelljammer Academy: Realmspace Sortie}! follows directly after the events of {@adventure Spelljammer Academy: Trial by Fire|SjA|1}. In this adventure, the characters are given their first assignment: retrieving a meteorite of precious adamantine from H'Catha, a distant, disc-shaped world. The characters, having undergone training exercises, have been charged with commandeering a vacant tyrant ship for their first real mission. Others are either fresh recruits or freelancers hired by the faculty.",
+								"{@i Spelljammer Academy: Realmspace Sortie}! follows directly after the events of {@area Spelljammer Academy: Trial by Fire|049|x}. In this adventure, the characters are given their first assignment: retrieving a meteorite of precious adamantine from H'Catha, a distant, disc-shaped world. The characters, having undergone training exercises, have been charged with commandeering a vacant tyrant ship for their first real mission. Others are either fresh recruits or freelancers hired by the faculty.",
 								{
 									"type": "image",
 									"href": {
@@ -2792,7 +2799,8 @@
 									"source": "MPMM",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "11e"
 						},
 						{
 							"type": "section",
@@ -2816,7 +2824,8 @@
 									"source": "MCV1SC",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "11f"
 						},
 						{
 							"type": "section",
@@ -2840,7 +2849,8 @@
 									"source": "MPMM",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "120"
 						},
 						{
 							"type": "section",
@@ -2864,7 +2874,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "121"
 						}
 					]
 				},
@@ -3083,7 +3094,7 @@
 					"name": "Introduction",
 					"id": "0ce",
 					"entries": [
-						"This adventure, designed for {@b three to seven 4th-level characters}, is the last in a series of four adventures. The adventure takes place in Realmspace, a Wildspace system described in the series' third installment, {@adventure Spelljammer Academy: Realmspace Sortie!|SjA|2}",
+						"This adventure, designed for {@b three to seven 4th-level characters}, is the last in a series of four adventures. The adventure takes place in Realmspace, a Wildspace system described in the series' third installment, {@area Spelljammer Academy: Realmspace Sortie!|090|x}",
 						{
 							"type": "inset",
 							"id": "0cf",
@@ -3119,7 +3130,7 @@
 							"name": "Adventure Hooks",
 							"id": "0d2",
 							"entries": [
-								"This adventure picks up where {@adventure Spelljammer Academy: Realmspace Sortie!|SjA|2} leaves off. If one or more characters died in that adventure, assume their replacements are fresh cadets from the hammerhead ship {@i Flighty Foundling}. The characters have a rendezvous with the {@i Flighty Foundling} before resuming their voyage to H'Catha, as described in part 1."
+								"This adventure picks up where {@area Spelljammer Academy: Realmspace Sortie!|090|x} leaves off. If one or more characters died in that adventure, assume their replacements are fresh cadets from the hammerhead ship {@i Flighty Foundling}. The characters have a rendezvous with the {@i Flighty Foundling} before resuming their voyage to H'Catha, as described in part 1."
 							]
 						}
 					]
@@ -3900,7 +3911,8 @@
 									"source": "MPMM",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "122"
 						},
 						{
 							"type": "section",
@@ -3924,7 +3936,8 @@
 									"source": "MPMM",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "123"
 						},
 						{
 							"type": "section",
@@ -3948,7 +3961,8 @@
 									"source": "BAM",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "124"
 						},
 						{
 							"type": "section",
@@ -3972,7 +3986,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "125"
 						},
 						{
 							"type": "section",
@@ -3996,7 +4011,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "126"
 						},
 						{
 							"type": "section",
@@ -4020,7 +4036,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "127"
 						},
 						{
 							"type": "section",
@@ -4044,7 +4061,8 @@
 									"source": "MCV1SC",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "128"
 						},
 						{
 							"type": "section",
@@ -4068,7 +4086,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "129"
 						}
 					]
 				},

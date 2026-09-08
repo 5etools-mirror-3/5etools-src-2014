@@ -10,7 +10,7 @@ import {
 	PANEL_TYP_IMAGE,
 	PANEL_TYP_ROLLBOX,
 	PANEL_TYP_RULES,
-	PANEL_TYP_STATS,
+	PANEL_TYP_STATS, PANEL_TYPS__HAS_PAGE,
 } from "./dmscreen-consts.js";
 import {DmScreenJoystickMenu} from "./dmscreen-joystickmenu.js";
 import {PanelContentManagerFactory} from "./panels/dmscreen-panels.js";
@@ -50,6 +50,7 @@ export class Panel {
 		this.pnlAddTab = null;
 		this.pnlWrpTabs = null;
 		this.pnlTabs = null;
+		this._wrpPnlControls = null;
 
 		this._exileElementMetas = null;
 	}
@@ -202,8 +203,8 @@ export class Panel {
 			page,
 			source,
 			hash,
-		).then(it => {
-			if (!it) {
+		).then(ent => {
+			if (!ent) {
 				setTimeout(() => { throw new Error(`Failed to load entity: "${hash}" (${source}) from ${page}`); });
 				return this.doPopulate_Error({message: `Failed to load <code>${hash}</code> from page <code>${page}</code>! (Content does not exist.)`}, title);
 			}
@@ -212,214 +213,54 @@ export class Panel {
 
 			const eleContentInner = veT`<div class="panel-content-wrapper-inner"></div>`;
 			const eleContentStats = veT`<table class="ve-w-100 ve-stats"></table>`.vee.appendTo(eleContentInner);
-			eleContentStats.vee.appends(fn(it));
+			eleContentStats.vee.appends(fn(ent));
 
 			const fnBind = Renderer.hover.getFnBindListenersCompact(page);
-			if (fnBind) fnBind(it, eleContentStats);
-
-			this._stats_bindCrScaleClickHandler(it, meta, eleContentInner, eleContentStats);
-			this._stats_bindSummonScaleClickHandler(it, meta, eleContentInner, eleContentStats);
+			if (fnBind) this._stats_bindListenersCompact({fnBind, ent: ent, ix, meta, eleContentInner, eleContentStats});
 
 			this.setTab({
 				ix,
 				type: PANEL_TYP_STATS,
 				contentMeta: meta,
 				eleContent: eleContentInner,
-				title: title || it.name,
+				title: title || ent.name,
 				tabCanRename: true,
 				tabRenamed: !!title,
 			});
 		});
 	}
 
-	_onClickBtnScaleCrPrev = null;
-	_onClickBtnResetCrPrev = null;
+	_stats_bindListenersCompact ({fnBind, ent, ix, meta, eleContentInner, eleContentStats}) {
+		fnBind(
+			ent,
+			eleContentStats,
+			{
+				fnPostRender: (entRendered) => {
+					let type = PANEL_TYP_STATS;
+					const contentMeta = {...meta};
 
-	_stats_bindCrScaleClickHandler (mon, meta, eleContentInner, eleContentStats) {
-		if (mon.__prop !== "monster") return;
-
-		const onClickBtnScaleCr = (evt) => {
-			const btnScale_ = evt.target.closest(".mon__btn-scale-cr");
-			if (!btnScale_) return;
-
-			evt.stopPropagation();
-			const win = (evt.view || {}).window;
-
-			const btnScale = veE(btnScale_);
-			const lastCr = this.contentMeta.cr != null ? Parser.numberToCr(this.contentMeta.cr) : mon.cr ? (mon.cr.cr || mon.cr) : null;
-
-			Renderer.monster.getCrScaleTarget({
-				win,
-				btnScale,
-				initialCr: lastCr,
-				isCompact: true,
-				cbRender: (targetCr) => {
-					const originalCr = Parser.crToNumber(mon.cr) === targetCr;
-
-					const doRender = (toRender) => {
-						eleContentStats.vee.empty().vee.appends(Renderer.monster.getCompactRenderedString(toRender, {isShowScalers: true, isScaledCr: !originalCr}));
-
-						const nxtMeta = {
-							...meta,
-							cr: targetCr,
-						};
-						if (originalCr) delete nxtMeta.cr;
-
-						this.setTab({
-							ix: this.tabIndex,
-							type: originalCr ? PANEL_TYP_STATS : PANEL_TYP_CREATURE_SCALED_CR,
-							contentMeta: nxtMeta,
-							eleContent: eleContentInner,
-							title: toRender._displayName || toRender.name,
-							tabCanRename: true,
-						});
-					};
-
-					if (originalCr) {
-						doRender(mon);
-					} else {
-						ScaleCreature.scale(mon, targetCr).then(toRender => doRender(toRender));
+					if (entRendered._isScaledCr) {
+						type = PANEL_TYP_CREATURE_SCALED_CR;
+						contentMeta.cr = entRendered._scaledCr;
+					} else if (entRendered._isScaledSpellSummon) {
+						type = PANEL_TYP_CREATURE_SCALED_SPELL_SUMMON;
+						contentMeta.ssl = entRendered._summonedBySpell_level;
+					} else if (entRendered._isScaledClassSummon) {
+						type = PANEL_TYP_CREATURE_SCALED_CLASS_SUMMON;
+						contentMeta.csl = entRendered._summonedByClass_level;
 					}
+
+					this.setTab({
+						ix,
+						type,
+						contentMeta,
+						eleContent: eleContentInner,
+						title: entRendered._displayName || entRendered.name,
+						tabCanRename: true,
+					});
 				},
-			});
-		};
-
-		if (this._onClickBtnScaleCrPrev) eleContentStats.vee.off("click", this._onClickBtnScaleCrPrev);
-		this._onClickBtnScaleCrPrev = onClickBtnScaleCr;
-		eleContentStats.vee.onn("click", onClickBtnScaleCr);
-
-		const onClickBtnResetCr = (evt) => {
-			const btnReset = evt.target.closest(".mon__btn-reset-cr");
-			if (!btnReset) return;
-
-			evt.stopPropagation();
-			eleContentStats.vee.empty().vee.appends(Renderer.monster.getCompactRenderedString(mon, {isShowScalers: true, isScaledCr: false}));
-			this.setTab({
-				ix: this.tabIndex,
-				type: PANEL_TYP_STATS,
-				contentMeta: meta,
-				eleContent: eleContentInner,
-				title: mon.name,
-				tabCanRename: true,
-			});
-		};
-
-		if (this._onClickBtnResetCrPrev) eleContentStats.vee.off("click", this._onClickBtnResetCrPrev);
-		this._onClickBtnResetCrPrev = onClickBtnResetCr;
-		eleContentStats.vee.onn("click", onClickBtnResetCr);
-	}
-
-	_onChangeSelScaleSummonSpellLevelPrev = null;
-	_onChangeSelScaleSummonClassLevelPrev = null;
-
-	_stats_bindSummonScaleClickHandler (mon, meta, eleContentInner, eleContentStats) {
-		if (mon.__prop !== "monster") return;
-
-		const onChangeSelScaleSummonSpellLevel = async (evt) => {
-			const selScale_ = evt.target.closest(`[name="mon__sel-summon-spell-level"]`);
-			if (!selScale_) return;
-
-			const selSummonSpellLevel = veE(selScale_);
-
-			const spellLevel = Number(selSummonSpellLevel.vee.val());
-			if (~spellLevel) {
-				const nxtMeta = {
-					...meta,
-					ssl: spellLevel,
-				};
-
-				ScaleSpellSummonedCreature.scale(mon, spellLevel)
-					.then(toRender => {
-						eleContentStats.vee.empty().vee.appends(Renderer.monster.getCompactRenderedString(toRender, {isShowScalers: true, isScaledSpellSummon: true}));
-
-						this._stats_doUpdateSummonScaleDropdowns(toRender, eleContentStats);
-
-						this.setTab({
-							ix: this.tabIndex,
-							type: PANEL_TYP_CREATURE_SCALED_SPELL_SUMMON,
-							contentMeta: nxtMeta,
-							eleContent: eleContentInner,
-							title: mon._displayName || mon.name,
-							tabCanRename: true,
-						});
-					});
-			} else {
-				eleContentStats.vee.empty().vee.appends(Renderer.monster.getCompactRenderedString(mon, {isShowScalers: true, isScaledCr: false, isScaledSpellSummon: false}));
-
-				this._stats_doUpdateSummonScaleDropdowns(mon, eleContentStats);
-
-				this.setTab({
-					ix: this.tabIndex,
-					type: PANEL_TYP_STATS,
-					contentMeta: meta,
-					eleContent: eleContentInner,
-					title: mon.name,
-					tabCanRename: true,
-				});
-			}
-		};
-
-		if (this._onChangeSelScaleSummonSpellLevelPrev) eleContentStats.vee.off("change", this._onChangeSelScaleSummonSpellLevelPrev);
-		this._onChangeSelScaleSummonSpellLevelPrev = onChangeSelScaleSummonSpellLevel;
-		eleContentStats.vee.onn("change", onChangeSelScaleSummonSpellLevel);
-
-		const onChangeSelScaleSummonClassLevel = async (evt) => {
-			const selScale_ = evt.target.closest(`[name="mon__sel-summon-class-level"]`);
-			if (!selScale_) return;
-
-			const selSummonClassLevel = veE(selScale_);
-
-			const classLevel = Number(selSummonClassLevel.vee.val());
-			if (~classLevel) {
-				const nxtMeta = {
-					...meta,
-					csl: classLevel,
-				};
-
-				ScaleClassSummonedCreature.scale(mon, classLevel)
-					.then(toRender => {
-						eleContentStats.vee.empty().vee.appends(Renderer.monster.getCompactRenderedString(toRender, {isShowScalers: true, isScaledClassSummon: true}));
-
-						this._stats_doUpdateSummonScaleDropdowns(toRender, eleContentStats);
-
-						this.setTab({
-							ix: this.tabIndex,
-							type: PANEL_TYP_CREATURE_SCALED_CLASS_SUMMON,
-							contentMeta: nxtMeta,
-							eleContent: eleContentInner,
-							title: mon._displayName || mon.name,
-							tabCanRename: true,
-						});
-					});
-			} else {
-				eleContentStats.vee.empty().vee.appends(Renderer.monster.getCompactRenderedString(mon, {isShowScalers: true, isScaledCr: false, isScaledClassSummon: false}));
-
-				this._stats_doUpdateSummonScaleDropdowns(mon, eleContentStats);
-
-				this.setTab({
-					ix: this.tabIndex,
-					type: PANEL_TYP_STATS,
-					contentMeta: meta,
-					eleContent: eleContentInner,
-					title: mon.name,
-					tabCanRename: true,
-				});
-			}
-		};
-
-		if (this._onChangeSelScaleSummonClassLevelPrev) eleContentStats.vee.off("change", this._onChangeSelScaleSummonClassLevelPrev);
-		this._onChangeSelScaleSummonClassLevelPrev = onChangeSelScaleSummonClassLevel;
-		eleContentStats.vee.onn("change", onChangeSelScaleSummonClassLevel);
-	}
-
-	_stats_doUpdateSummonScaleDropdowns (scaledMon, eleContentStats) {
-		eleContentStats
-			.vee.find(`[name="mon__sel-summon-spell-level"]`)
-			?.vee.val(scaledMon._summonedBySpell_level != null ? `${scaledMon._summonedBySpell_level}` : "-1");
-
-		eleContentStats
-			.vee.find(`[name="mon__sel-summon-class-level"]`)
-			?.vee.val(scaledMon._summonedByClass_level != null ? `${scaledMon._summonedByClass_level}` : "-1");
+			},
+		);
 	}
 
 	doPopulate_StatsScaledCr (page, source, hash, targetCr, skipSetTab, title) { // FIXME skipSetTab is never used
@@ -432,13 +273,14 @@ export class Panel {
 			page,
 			source,
 			hash,
-		).then(it => {
-			ScaleCreature.scale(it, targetCr).then(initialRender => {
+		).then(ent => {
+			return ScaleCreature.scale(ent, targetCr).then(initialRender => {
 				const eleContentInner = veT`<div class="panel-content-wrapper-inner"></div>`;
 				const eleContentStats = veT`<table class="ve-w-100 ve-stats"></table>`.vee.appendTo(eleContentInner);
 				eleContentStats.vee.appends(Renderer.monster.getCompactRenderedString(initialRender, {isShowScalers: true, isScaledCr: true}));
 
-				this._stats_bindCrScaleClickHandler(it, meta, eleContentInner, eleContentStats);
+				const fnBind = Renderer.hover.getFnBindListenersCompact(page);
+				if (fnBind) this._stats_bindListenersCompact({fnBind, ent: initialRender, ix, meta, eleContentInner, eleContentStats});
 
 				this.setTab({
 					ix: ix,
@@ -463,15 +305,14 @@ export class Panel {
 			page,
 			source,
 			hash,
-		).then(it => {
-			ScaleSpellSummonedCreature.scale(it, summonSpellLevel).then(scaledMon => {
+		).then(ent => {
+			return ScaleSpellSummonedCreature.scale(ent, summonSpellLevel).then(scaledMon => {
 				const eleContentInner = veT`<div class="panel-content-wrapper-inner"></div>`;
 				const eleContentStats = veT`<table class="ve-w-100 ve-stats"></table>`.vee.appendTo(eleContentInner);
 				eleContentStats.vee.appends(Renderer.monster.getCompactRenderedString(scaledMon, {isShowScalers: true, isScaledSpellSummon: true}));
 
-				this._stats_doUpdateSummonScaleDropdowns(scaledMon, eleContentStats);
-
-				this._stats_bindSummonScaleClickHandler(it, meta, eleContentInner, eleContentStats);
+				const fnBind = Renderer.hover.getFnBindListenersCompact(page);
+				if (fnBind) this._stats_bindListenersCompact({fnBind, ent: scaledMon, ix, meta, eleContentInner, eleContentStats});
 
 				this.setTab({
 					ix: ix,
@@ -496,15 +337,14 @@ export class Panel {
 			page,
 			source,
 			hash,
-		).then(it => {
-			ScaleClassSummonedCreature.scale(it, summonClassLevel).then(scaledMon => {
+		).then(ent => {
+			return ScaleClassSummonedCreature.scale(ent, summonClassLevel).then(scaledMon => {
 				const eleContentInner = veT`<div class="panel-content-wrapper-inner"></div>`;
 				const eleContentStats = veT`<table class="ve-w-100 ve-stats"></table>`.vee.appendTo(eleContentInner);
 				eleContentStats.vee.appends(Renderer.monster.getCompactRenderedString(scaledMon, {isShowScalers: true, isScaledClassSummon: true}));
 
-				this._stats_doUpdateSummonScaleDropdowns(scaledMon, eleContentStats);
-
-				this._stats_bindSummonScaleClickHandler(it, meta, eleContentInner, eleContentStats);
+				const fnBind = Renderer.hover.getFnBindListenersCompact(page);
+				if (fnBind) this._stats_bindListenersCompact({fnBind, ent: scaledMon, ix, meta, eleContentInner, eleContentStats});
 
 				this.setTab({
 					ix: ix,
@@ -941,10 +781,66 @@ export class Panel {
 
 	setIsTabs (isTabs) {
 		this.isTabs = isTabs;
-		this.doRenderTabs();
+		this._doRenderTabs();
 	}
 
-	doRenderTitle () {
+	/* -------------------------------------------- */
+
+	_doRenderControls_getBtnOpenInNewTab_getUrl () {
+		const metaCorpus = {
+			[PANEL_TYP_ADVENTURES]: {prop: "a", page: UrlUtil.PG_ADVENTURE},
+			[PANEL_TYP_BOOKS]: {prop: "b", page: UrlUtil.PG_BOOK},
+		}[this.type];
+
+		if (metaCorpus) {
+			const hashParts = [this.contentMeta[metaCorpus.prop]];
+			if (this.contentMeta.c != null) hashParts.push(this.contentMeta.c);
+			return `${metaCorpus.page}#${hashParts.join(HASH_PART_SEP)}`;
+		}
+
+		const metaScale = {
+			[PANEL_TYP_CREATURE_SCALED_CR]: {prop: "cr", hashKey: VeCt.HASH_SCALED},
+			[PANEL_TYP_CREATURE_SCALED_SPELL_SUMMON]: {prop: "ssl", hashKey: VeCt.HASH_SCALED_SPELL_SUMMON},
+			[PANEL_TYP_CREATURE_SCALED_CLASS_SUMMON]: {prop: "csl", hashKey: VeCt.HASH_SCALED_CLASS_SUMMON},
+		}[this.type];
+
+		const hashParts = [this.contentMeta.u];
+		if (metaScale && this.contentMeta[metaScale.prop] != null) {
+			hashParts.push(UrlUtil.packSubHash(metaScale.hashKey, [this.contentMeta[metaScale.prop]]));
+		}
+
+		return `${this.contentMeta.p}#${hashParts.join(HASH_PART_SEP)}`;
+	}
+
+	_doRenderControls_getBtnOpenInNewTab () {
+		if (!PANEL_TYPS__HAS_PAGE.includes(this.type)) return null;
+
+		return veT`<div class="panel-control-icon glyphicon glyphicon-modal-window" title="Open in New Tab"></div>`
+			.vee.onn("click", () => {
+				if (!this.contentMeta) return;
+				window.open(this._doRenderControls_getBtnOpenInNewTab_getUrl(), "_blank");
+			});
+	}
+
+	_doRenderControls () {
+		const btnNewTab = this._doRenderControls_getBtnOpenInNewTab();
+
+		const btnMove = veT`<div class="panel-control-icon glyphicon glyphicon-move" title="Move"></div>`
+			.vee.onn("click", () => {
+				this.setMoveModeActive(!this.getIsMoveModeActive());
+			});
+
+		const btnClose = veT`<div class="panel-control-icon glyphicon glyphicon-remove" title="Close"></div>`
+			.vee.onn("click", () => {
+				this.getReplacementPanel();
+			});
+
+		veT(this._wrpPnlControls.vee.empty())`${btnNewTab}${btnMove}${btnClose}`;
+	}
+
+	/* -------------------------------------------- */
+
+	_doRenderTitle () {
 		const displayText = this.title !== _TITLE_LOADING
 		&& (this.type === PANEL_TYP_STATS || this.type === PANEL_TYP_CREATURE_SCALED_CR || this.type === PANEL_TYP_CREATURE_SCALED_SPELL_SUMMON || this.type === PANEL_TYP_CREATURE_SCALED_CLASS_SUMMON || this.type === PANEL_TYP_RULES || this.type === PANEL_TYP_ADVENTURES || this.type === PANEL_TYP_BOOKS) ? this.title : "";
 
@@ -953,7 +849,9 @@ export class Panel {
 		else this.pnlTitle.vee.removeClass("hidden");
 	}
 
-	doRenderTabs () {
+	/* -------------------------------------------- */
+
+	_doRenderTabs () {
 		if (this.isTabs) {
 			this.pnlWrpTabs.vee.show();
 			this.pnlWrpContent.vee.addClass("panel-content-wrapper-tabs");
@@ -964,6 +862,8 @@ export class Panel {
 			this.pnlAddTab.vee.removeClass("hidden");
 		}
 	}
+
+	/* -------------------------------------------- */
 
 	getReplacementPanel () {
 		const replacement = new Panel(this.board, this.x, this.y, this.width, this.height);
@@ -999,6 +899,8 @@ export class Panel {
 		this.pnl.vee.findAll(`.panel-control-bar`).forEach(ele => ele.vee.toggleClass("move-expand-active", val));
 	}
 
+	/* -------------------------------------------- */
+
 	render () {
 		const doApplyPosCss = (ele) => {
 			// indexed from 1 instead of zero...
@@ -1021,7 +923,7 @@ export class Panel {
 		const doInitialRender = () => {
 			const pnl = veT`<div data-panelId="${this.id}" class="dm-screen-panel ve-min-w-0 ve-min-h-0" empty="true"></div>`;
 			this.pnl = pnl;
-			const ctrlBar = veT`<div class="panel-control-bar"></div>`.vee.appendTo(pnl);
+			this._wrpPnlControls = veT`<div class="panel-control-bar"></div>`.vee.appendTo(pnl);
 			this.pnlTitle = veT`<div class="panel-control-bar panel-control-title"></div>`.vee.appendTo(pnl).vee.onn("click", () => this.pnlTitle.vee.toggleClass("panel-control-title--bumped"));
 			this.pnlAddTab = veT`<div class="panel-control-bar panel-control-addtab"><div class="panel-control-icon glyphicon glyphicon-plus" title="Add Tab"></div></div>`
 				.vee.onn("click", async () => {
@@ -1031,15 +933,6 @@ export class Panel {
 					await pOpenAddMenu();
 				})
 				.vee.appendTo(pnl);
-
-			const ctrlMove = veT`<div class="panel-control-icon glyphicon glyphicon-move" title="Move"></div>`.vee.appendTo(ctrlBar);
-			ctrlMove.vee.onn("click", () => {
-				this.setMoveModeActive(!this.getIsMoveModeActive());
-			});
-			const ctrlEmpty = veT`<div class="panel-control-icon glyphicon glyphicon-remove" title="Close"></div>`.vee.appendTo(ctrlBar);
-			ctrlEmpty.vee.onn("click", () => {
-				this.getReplacementPanel();
-			});
 
 			const joyMenu = new DmScreenJoystickMenu(this.board, this);
 			this.joyMenu = joyMenu;
@@ -1072,8 +965,8 @@ export class Panel {
 			const wrpTabs = veT`<div class="content-tab-bar ve-flex"></div>`.vee.hide().vee.appendTo(pnl);
 			const wrpTabsInner = veT`<div class="content-tab-bar-inner"></div>`.vee.onn("wheel", (evt) => {
 				const delta = evt.deltaY;
-				const curr = wrpTabsInner.scrollLeft();
-				wrpTabsInner.scrollLeft(Math.max(0, curr + delta));
+				const curr = wrpTabsInner.scrollLeft;
+				wrpTabsInner.scrollLeft = Math.max(0, curr + delta);
 			}).vee.appendTo(wrpTabs);
 			const btnTabAdd = veT`<button class="ve-btn ve-btn-default content-tab" title="Add Tab"><span class="glyphicon glyphicon-plus"></span></button>`
 				.vee.onn("click", () => pOpenAddMenu())
@@ -1091,8 +984,10 @@ export class Panel {
 			if (!this.pnl) doInitialRender();
 			else {
 				doApplyPosCss(this.pnl);
-				this.doRenderTitle();
-				this.doRenderTabs();
+
+				this._doRenderControls();
+				this._doRenderTitle();
+				this._doRenderTabs();
 
 				if (this.isContentDirty) {
 					this.pnlWrpContent.clear();
@@ -1173,8 +1068,9 @@ export class Panel {
 		}
 
 		this.pnl.vee.attr("empty", !eleContent);
-		this.doRenderTitle();
-		this.doRenderTabs();
+		this._doRenderControls();
+		this._doRenderTitle();
+		this._doRenderTabs();
 	}
 
 	setFromPeer ({hisMeta, hisContent, isMoveModeActive}) {
@@ -1230,7 +1126,7 @@ export class Panel {
 			this.doCloseTab(ix);
 		};
 
-		const btnCloseTab = veT`<span class="glyphicon glyphicon-remove content-tab-remove"></span>`
+		const btnCloseTab = veT`<span class="glyphicon glyphicon-remove ve-ml-1 content-tab-remove"></span>`
 			.vee.onn("mousedown", async (evt) => {
 				if (evt.button === 0) {
 					evt.stopPropagation();
@@ -1238,7 +1134,7 @@ export class Panel {
 				}
 			});
 
-		const btnSelTab = veT`<span class="ve-btn ve-btn-default content-tab ve-flex"><span class="content-tab-title ve-overflow-ellipsis" title="${title}">${title}</span>${btnCloseTab}</span>`
+		const btnSelTab = veT`<button class="ve-btn ve-btn-default content-tab ve-flex-v-center"><span class="content-tab-title ve-overflow-ellipsis" title="${title}">${title}</span>${btnCloseTab}</button>`
 			.vee.onn("mousedown", async (evt) => {
 				if (evt.button === 0) {
 					this.setActiveTab(ix);
@@ -1303,6 +1199,8 @@ export class Panel {
 			tabRenamed,
 		},
 	) {
+		let isSetActiveTab = true;
+
 		if (ix === null) ix = 0;
 		if (ix < 0) {
 			const ixPos = Math.abs(ix + 1);
@@ -1310,6 +1208,8 @@ export class Panel {
 			if (td) {
 				td.isDeleted = true;
 				if (td.tabButton) td.tabButton.vee.detach();
+
+				if (ixPos !== this.tabIndex) isSetActiveTab = false;
 			}
 		} else {
 			const btnOld = (this.tabDatas[ix] || {}).tabButton; // preserve tab button
@@ -1334,12 +1234,16 @@ export class Panel {
 			else this.tabDatas[ix].tabButton.vee.find(`.content-tab-title`).vee.txt(title).vee.tooltip(title);
 		}
 
-		this.setActiveTab(ix);
+		if (isSetActiveTab) this.setActiveTab(ix);
+		else this._doUpdateTabStateAndSave();
+
 		return ix;
 	}
 
 	setActiveTab (ix) {
 		if (ix < 0) {
+			const ixOrig = Math.abs(ix + 1);
+
 			const handleNoTabs = () => {
 				this.isTabs = false;
 				this.tabIndex = 0;
@@ -1349,9 +1253,14 @@ export class Panel {
 			};
 
 			if (this.isTabs) {
-				const prevTabIx = this.tabDatas.findIndex(it => !it.isDeleted);
-				if (~prevTabIx) {
-					this.setActiveTab(prevTabIx);
+				const tabDatasRemaining = this.tabDatas
+					.map((tabData, ix) => ({tabData, ix}))
+					.filter(({tabData}) => !tabData.isDeleted);
+				const ixSplitPoint = tabDatasRemaining.findLastIndex(({ix}) => ix < ixOrig);
+				const ixNxt = ~ixSplitPoint ? ixSplitPoint : tabDatasRemaining[0].ix;
+
+				if (~ixNxt) {
+					this.setActiveTab(ixNxt);
 				} else handleNoTabs();
 			} else handleNoTabs();
 		} else {
@@ -1359,6 +1268,11 @@ export class Panel {
 			const tabData = this.tabDatas[ix];
 			this.setEleContent(tabData.type, tabData.contentMeta, tabData.eleContent, tabData.title, tabData.tabCanRename, tabData.tabRenamed);
 		}
+		this._doUpdateTabStateAndSave();
+	}
+
+	_doUpdateTabStateAndSave () {
+		this.tabDatas.forEach((tabData, ix) => tabData.tabButton?.vee.toggleClass("ve-active", !tabData.isDeleted && ix === this.tabIndex));
 		this.board.doSaveStateDebounced();
 	}
 

@@ -781,7 +781,7 @@ export class ConverterCreature extends ConverterBase {
 			stats[abilProp] = Number(score);
 
 			const saveNum = Number(save);
-			if (Parser.getAbilityModNumber(stats[abilProp]) !== saveNum) (state.save ||= {})[abilProp] = save;
+			if (Parser.getAbilityModNumber(stats[abilProp]) !== saveNum) (stats.save ||= {})[abilProp] = save;
 		}
 
 		return true;

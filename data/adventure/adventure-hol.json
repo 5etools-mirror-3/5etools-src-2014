@@ -81,7 +81,7 @@
 							"page": 203,
 							"id": "49a",
 							"entries": [
-								"A mysterious malevolence lies beneath the House of Lament (see {@adventure area 31|HoL|0|31. Amber Cavity}). More a force of nature than an individual being, the Entity is a bodiless intellect that nudges those in the domain toward wickedness. As characters explore, use the Entity as a lurking manifestation of the Dark Powers, a vague glimpse of a terror even the house's spirits fear."
+								"A mysterious malevolence lies beneath the House of Lament (see {@area area 31|564|x}). More a force of nature than an individual being, the Entity is a bodiless intellect that nudges those in the domain toward wickedness. As characters explore, use the Entity as a lurking manifestation of the Dark Powers, a vague glimpse of a terror even the house's spirits fear."
 							]
 						},
 						{
@@ -124,8 +124,8 @@
 									"page": 204,
 									"id": "49c",
 									"entries": [
-										"The house reveals its full haunting at a dramatic moment. The adventure notes events that wake the house, many surrounding the events of the third séance (see the following \"{@adventure Séances|HoL|0|Séances}\" section). Use ambient haunts and the {@book atmosphere-building tips|VRGR|4|Horror Atmosphere} from earlier in this chapter to drive the adventure toward a dramatic scene where it feels appropriate for the house to reveal its full malevolence.",
-										"If characters prove especially persistent (or destructive), the house might wake earlier. If this occurs, the adventure's horror takes on a more in-your-face slasher quality, but there's nothing wrong with that\u2014ditch the subtlety and go for wild shocks. Triggers that wake the house early include deliberate damage inflicted by its visitors and entering and then leaving {@adventure area 24|HoL|0|24. Children's Bedroom}.",
+										"The house reveals its full haunting at a dramatic moment. The adventure notes events that wake the house, many surrounding the events of the third séance (see the following \"{@area Séances|4a4|x}\" section). Use ambient haunts and the {@book atmosphere-building tips|VRGR|4|Horror Atmosphere} from earlier in this chapter to drive the adventure toward a dramatic scene where it feels appropriate for the house to reveal its full malevolence.",
+										"If characters prove especially persistent (or destructive), the house might wake earlier. If this occurs, the adventure's horror takes on a more in-your-face slasher quality, but there's nothing wrong with that\u2014ditch the subtlety and go for wild shocks. Triggers that wake the house early include deliberate damage inflicted by its visitors and entering and then leaving {@area area 24|548|x}.",
 										"After waking, the House of Lament will not become dormant again for several weeks."
 									]
 								},
@@ -276,7 +276,7 @@
 									"page": 205,
 									"id": "4a2",
 									"entries": [
-										"Whenever the party takes a long rest in the house, one character suffers a nightmare. Choose a character at random or one who has a Dark Gift or background that makes them sensitive to visions of the past. If none of the characters sleep during a long rest, one of them experiences a waking vision that plays out like an ambient haunt. These nightmares gradually reveal details from the \"{@adventure Story Overview|HoL|0|Story Overview}.\" Relate these specifics to the character experiencing the nightmare, embellishing them or presenting them as intense but half-remembered visions. Characters might witness any of the following events:",
+										"Whenever the party takes a long rest in the house, one character suffers a nightmare. Choose a character at random or one who has a Dark Gift or background that makes them sensitive to visions of the past. If none of the characters sleep during a long rest, one of them experiences a waking vision that plays out like an ambient haunt. These nightmares gradually reveal details from the \"{@area Story Overview|494|x}.\" Relate these specifics to the character experiencing the nightmare, embellishing them or presenting them as intense but half-remembered visions. Characters might witness any of the following events:",
 										{
 											"type": "list",
 											"items": [
@@ -302,27 +302,27 @@
 											"rows": [
 												[
 													"1",
-													"Standing on a railing on the widow's walk ({@adventure area 25|HoL|0|25. Widow's Walk})"
+													"Standing on a railing on the widow's walk ({@area area 25|54e|x})"
 												],
 												[
 													"2",
-													"In the tub of the master bath ({@adventure area 17|HoL|0|17. Master Bath}), facing a mirror smeared with blood that repeats the words \"Bloody Mara\" three times"
+													"In the tub of the master bath ({@area area 17|529|x}), facing a mirror smeared with blood that repeats the words \"Bloody Mara\" three times"
 												],
 												[
 													"3",
-													"Inside an empty cask in the wine cellar ({@adventure area 27|HoL|0|27. Wine Cellar}), which is easily mistaken for a coffin from the inside"
+													"Inside an empty cask in the wine cellar ({@area area 27|555|x}), which is easily mistaken for a coffin from the inside"
 												],
 												[
 													"4",
-													"Sprawled on the table in the dining room ({@adventure area 11|HoL|0|11. Dining Room}), surrounded by illusory diners draped in sheets"
+													"Sprawled on the table in the dining room ({@area area 11|50f|x}), surrounded by illusory diners draped in sheets"
 												],
 												[
 													"5",
-													"Seated in the office ({@adventure area 18|HoL|0|18. Office}) before an illusory, phantom accountant who measures sins and virtues as ghostly coins on a merchant's scale"
+													"Seated in the office ({@area area 18|52e|x}) before an illusory, phantom accountant who measures sins and virtues as ghostly coins on a merchant's scale"
 												],
 												[
 													"6",
-													"Under the bedcovers in one of the bedrooms ({@adventure area 14|HoL|0|14. Guest Bedrooms} or {@adventure 21|HoL|0|21. Servants' Quarters}) while something approaches in the dark"
+													"Under the bedcovers in one of the bedrooms ({@area area 14|51b|x} or {@area 21|538|x}) while something approaches in the dark"
 												]
 											]
 										}
@@ -363,21 +363,21 @@
 										{
 											"type": "item",
 											"name": "Dalk Dranzorg",
-											"entry": "This manipulative murderer wants the party to trust him so they'll free his corpse from {@adventure area 5a|HoL|0|5a. Tower Base}. He gives his name as \"Garland Kordz,\" an anagram of his actual name."
+											"entry": "This manipulative murderer wants the party to trust him so they'll free his corpse from {@area area 5a|4ee|x}. He gives his name as \"Garland Kordz,\" an anagram of his actual name."
 										},
 										{
 											"type": "item",
 											"name": "Mara Silvra",
-											"entry": "This rageful spirit expresses her anger at traitors and trespassers. She urges characters to find {@adventure area 31|HoL|0|31. Amber Cavity}, hoping to trade their lives for her freedom from a bargain she made with the Entity."
+											"entry": "This rageful spirit expresses her anger at traitors and trespassers. She urges characters to find {@area area 31|564|x}, hoping to trade their lives for her freedom from a bargain she made with the Entity."
 										},
 										{
 											"type": "item",
 											"name": "Theodora Halvhrest",
-											"entry": "The sorrowful former lady of the house hides the spirits of her children in {@adventure area 24|HoL|0|24. Children's Bedroom}. She's wary of trespassers but sees them as a way to free her children."
+											"entry": "The sorrowful former lady of the house hides the spirits of her children in {@area area 24|548|x}. She's wary of trespassers but sees them as a way to free her children."
 										}
 									]
 								},
-								"Consult the \"{@adventure Escaping the House|HoL|0|Escaping the House}\" section at the end of the adventure for details on the specific climaxes each spirit drives the plot toward."
+								"Consult the \"{@area Escaping the House|56c|x}\" section at the end of the adventure for details on the specific climaxes each spirit drives the plot toward."
 							]
 						},
 						{
@@ -386,7 +386,7 @@
 							"page": 206,
 							"id": "4a5",
 							"entries": [
-								"Séances reveal the mysteries of the House of Lament through atmospheric encounters. These events all take place in the house's parlor ({@adventure area 3|HoL|0|3. Parlor}). Before a séance, consider how you'll run the encounter and what information it should convey.",
+								"Séances reveal the mysteries of the House of Lament through atmospheric encounters. These events all take place in the house's parlor ({@area area 3|4e2|x}). Before a séance, consider how you'll run the encounter and what information it should convey.",
 								{
 									"type": "entries",
 									"id": "4a6",
@@ -415,7 +415,7 @@
 											"page": 206,
 											"id": "4a9",
 											"entries": [
-												"One of the investigators detailed in the following \"{@adventure Guests of the House|HoL|0|Guests of the House}\" section leads each séance. Narrate the start of the séance and encourage each character to ask a question. As they do, you control how the spirits within the house respond. To do this, subtly guide the planchette on the spirit board or otherwise make the spirits' intentions known. Use the investigator who isn't running the séance to ask basic questions or ease the party into engaging. Provide short, mysterious answers."
+												"One of the investigators detailed in the following \"{@area Guests of the House|4c7|x}\" section leads each séance. Narrate the start of the séance and encourage each character to ask a question. As they do, you control how the spirits within the house respond. To do this, subtly guide the planchette on the spirit board or otherwise make the spirits' intentions known. Use the investigator who isn't running the séance to ask basic questions or ease the party into engaging. Provide short, mysterious answers."
 											]
 										},
 										{
@@ -446,7 +446,7 @@
 							"page": 206,
 							"id": "4ac",
 							"entries": [
-								"The investigator running the séance explains that they plan to use the spirit board in {@adventure area 3|HoL|0|3. Parlor} to contact the spirits to learn why they linger here. The investigators invite the party to sit at the parlor table and join them in touching a planchette atop the spirit board. The lead investigator then starts the séance, saying:",
+								"The investigator running the séance explains that they plan to use the spirit board in {@area area 3|4e2|x} to contact the spirits to learn why they linger here. The investigators invite the party to sit at the parlor table and join them in touching a planchette atop the spirit board. The lead investigator then starts the séance, saying:",
 								{
 									"type": "insetReadaloud",
 									"id": "4ad",
@@ -467,7 +467,7 @@
 											"page": 207,
 											"id": "4af",
 											"entries": [
-												"The planchette then moves to the sword symbol. Dranzorg is trying to win trust by leading the party to his lost weapon buried in {@adventure area 1|HoL|0|1. Porch}."
+												"The planchette then moves to the sword symbol. Dranzorg is trying to win trust by leading the party to his lost weapon buried in {@area area 1|4d9|x}."
 											]
 										},
 										{
@@ -476,7 +476,7 @@
 											"page": 207,
 											"id": "4b0",
 											"entries": [
-												"The planchette then moves to the skull image at the top of the spirit board. Mara wants to use the characters to free her consciousness from the house. She tests them first, setting the characters after the Chimney Witch detailed in {@adventure area 10|HoL|0|10. Kitchen}."
+												"The planchette then moves to the skull image at the top of the spirit board. Mara wants to use the characters to free her consciousness from the house. She tests them first, setting the characters after the Chimney Witch detailed in {@area area 10|508|x}."
 											]
 										},
 										{
@@ -485,7 +485,7 @@
 											"page": 207,
 											"id": "4b1",
 											"entries": [
-												"The planchette then moves to the candle image. Theodora tests the characters' willingness to help by having them light a candle detailed in {@adventure area 25|HoL|0|25. Widow's Walk}.",
+												"The planchette then moves to the candle image. Theodora tests the characters' willingness to help by having them light a candle detailed in {@area area 25|54e|x}.",
 												"When every character has asked a question and the spirit conveys its message, the presence moves the planchette to the word \"Farewell\" and departs. The investigators are pleased with the progress and eager to contact the same spirit again. They encourage the party to continue their exploration of the house with the spirit's words in mind, but they don't feel the need to rush things, planning to pick up the investigation after resting and further research.",
 												"If characters have not already reached 2nd level, they gain a level when this séance ends."
 											]
@@ -521,7 +521,7 @@
 											"page": 207,
 											"id": "4b5",
 											"entries": [
-												"Mara offers a new message only if the characters battled the Chimney Witch. She now asks the characters to combat the Leaper in {@adventure area 5b|HoL|0|5b. Tower Heights}."
+												"Mara offers a new message only if the characters battled the Chimney Witch. She now asks the characters to combat the Leaper in {@area area 5b|4f2|x}."
 											]
 										},
 										{
@@ -530,7 +530,7 @@
 											"page": 207,
 											"id": "4b6",
 											"entries": [
-												"Theodora offers a new message only if the characters acted on her last request. If they did, she ends her message by having the planchette circle the flowers and vines on the spirit board's frame, suggesting the way to open the door to {@adventure area 24|HoL|0|24. Children's Bedroom}.",
+												"Theodora offers a new message only if the characters acted on her last request. If they did, she ends her message by having the planchette circle the flowers and vines on the spirit board's frame, suggesting the way to open the door to {@area area 24|548|x}.",
 												"After this, the séance ends as the first one did, and the investigators encourage the party to complete its investigations. If the players are enjoying the séances or are taking their time exploring, feel free to run this encounter multiple times, allowing the characters to ask more questions.",
 												"If the borders to the domain are not yet closed, a storm begins brewing at this point."
 											]
@@ -557,7 +557,7 @@
 											"page": 207,
 											"id": "4b9",
 											"entries": [
-												"Dalk has lost his patience with the party. He demands they free him from {@adventure area 5a|HoL|0|5a. Tower Base}. If the characters realize who he is, he doesn't deny it and insists they'll never escape without his help. The séance ends with Dalk's message followed by the house awakening and the sound of Mara's distant scream."
+												"Dalk has lost his patience with the party. He demands they free him from {@area area 5a|4ee|x}. If the characters realize who he is, he doesn't deny it and insists they'll never escape without his help. The séance ends with Dalk's message followed by the house awakening and the sound of Mara's distant scream."
 											]
 										},
 										{
@@ -566,7 +566,7 @@
 											"page": 207,
 											"id": "4ba",
 											"entries": [
-												"Mara offers a new message only if the characters battled the Chimney Witch and the Leaper. She encourages them to come for her next. Mara opens the path in {@adventure area 28|HoL|0|28. Storage}. At this point, the rest of the house's spirits think Mara is attempting to escape and awaken the house to prevent this."
+												"Mara offers a new message only if the characters battled the Chimney Witch and the Leaper. She encourages them to come for her next. Mara opens the path in {@area area 28|55b|x}. At this point, the rest of the house's spirits think Mara is attempting to escape and awaken the house to prevent this."
 											]
 										},
 										{
@@ -575,8 +575,8 @@
 											"page": 207,
 											"id": "4bb",
 											"entries": [
-												"Theodora shares a vision with all the characters in the room. Spectral images of the dragon and knight toys from {@adventure area 24|HoL|0|24. Children's Bedroom} hover in the air before dissolving into vapor. She wants the characters to get the toys her children haunt away from the house.",
-												"When the séance ends, review what happens when the house wakes and look ahead to \"{@adventure Escaping the House|HoL|0|Escaping the House}\" at the end of the adventure. Unless otherwise noted, should the party try to conduct additional séances at this point, the spirits are unhelpful or aggressive.",
+												"Theodora shares a vision with all the characters in the room. Spectral images of the dragon and knight toys from {@area area 24|548|x} hover in the air before dissolving into vapor. She wants the characters to get the toys her children haunt away from the house.",
+												"When the séance ends, review what happens when the house wakes and look ahead to \"{@area Escaping the House|56c|x}\" at the end of the adventure. Unless otherwise noted, should the party try to conduct additional séances at this point, the spirits are unhelpful or aggressive.",
 												"If characters have not already reached 3rd level, they gain a level when this séance ends."
 											]
 										}
@@ -592,7 +592,7 @@
 					"page": 208,
 					"id": "4bc",
 					"entries": [
-						"\" {@adventure The House of Lament|HoL|0}\" serves as an introduction to the Domains of Dread and can serve as the first adventure in a longer horror campaign. As players make characters, use the following details to encourage them along the path leading into the Mists.",
+						"\" {@area The House of Lament|493|x}\" serves as an introduction to the Domains of Dread and can serve as the first adventure in a longer horror campaign. As players make characters, use the following details to encourage them along the path leading into the Mists.",
 						{
 							"type": "entries",
 							"name": "Leaving the Past Behind",
@@ -743,7 +743,7 @@
 										"Gradually the haze and brush give way, revealing a bald hilltop. There stands a grim black tower, the last defiant turret of a long-crumbled fortress. Attached to this tower is a three-story manor house, weather beaten and veined with ivy. A porch girds the house, its sagging roof sheltering a stout front door that stands open and emits a flickering light."
 									]
 								},
-								"This is the House of Lament. Abandoned for centuries, it was disturbed only moments ago by a pair of investigators who are in the process of bringing in their equipment for what they expect to be multiple days of exploration and study. They've identified the parlor ({@adventure area 3|HoL|0|3. Parlor}) as the base for their investigation.",
+								"This is the House of Lament. Abandoned for centuries, it was disturbed only moments ago by a pair of investigators who are in the process of bringing in their equipment for what they expect to be multiple days of exploration and study. They've identified the parlor ({@area area 3|4e2|x}) as the base for their investigation.",
 								"If the characters don't disguise their approach, one of the investigators calls out, identifies themselves, and welcomes the company. They invite the party inside to meet with their partner. Ultimately, if the party proves cooperative, the investigators offer the following information:",
 								{
 									"type": "list",
@@ -755,7 +755,7 @@
 										"They offer each party member 20 gp per day to help them explore the house and document strange phenomena."
 									]
 								},
-								"If the party accepts the investigators' offer, they acquire reliable allies. One of the investigators offers to join the party in their exploration the house. The other stays in the parlor to prepare to contact the house's spirits (see the \"{@adventure Séances|HoL|0|Séances}\" section). In the case of Rudolph van Richten, he remains in the parlor while the characters explore the house.",
+								"If the party accepts the investigators' offer, they acquire reliable allies. One of the investigators offers to join the party in their exploration the house. The other stays in the parlor to prepare to contact the house's spirits (see the \"{@area Séances|4a4|x}\" section). In the case of Rudolph van Richten, he remains in the parlor while the characters explore the house.",
 								"If the party rejects the investigators' offer, they stay out of the characters' way. They'll still invite the characters to participate in their séances and are amenable to collaborating if characters have a change of heart. Anyone who tries to leave the grounds surrounding the House of Lament find their way barred by the Mists. Whenever they enter the haze, the Mists lead them back to the house, just as they did at the crossroads."
 							]
 						}
@@ -3200,7 +3200,7 @@
 							"page": 210,
 							"id": "4d9",
 							"entries": [
-								"The porch is creaky, covered in dead vines, and infested with earwigs, but otherwise unremarkable. An unlocked double door opens from the front of the house into area 2. An unlocked door on the east side of the house leads to {@adventure area 10|HoL|0|10. Kitchen}. Characters who succeed on a {@dc 12} Strength ({@skill Athletics}) check can climb the porch's supports to {@adventure area 19|HoL|0|19. Exterior Balcony} above.",
+								"The porch is creaky, covered in dead vines, and infested with earwigs, but otherwise unremarkable. An unlocked double door opens from the front of the house into area 2. An unlocked door on the east side of the house leads to {@area area 10|508|x}. Characters who succeed on a {@dc 12} Strength ({@skill Athletics}) check can climb the porch's supports to {@area area 19|534|x} above.",
 								{
 									"type": "entries",
 									"id": "4da",
@@ -3240,7 +3240,7 @@
 										"Peeling wallpaper and a musty scent cling to the walls of this spacious foyer. A curving staircase rises from the cracked tile floor to a balcony above, keeping its distance from a darkened chandelier. Doors lead in every direction. At the room's center, a bronze sculpture of an antlered eagle perches atop a marble pedestal."
 									]
 								},
-								"This once-impressive entryway is dusty and choked with cobwebs. The stairs climb to the balcony above ({@adventure area 13|HoL|0|13. Second-Floor Hall}). The ceiling here rises 20 feet from the floor. The statue is attached to the pedestal, which together weigh 800 pounds.",
+								"This once-impressive entryway is dusty and choked with cobwebs. The stairs climb to the balcony above ({@area area 13|517|x}). The ceiling here rises 20 feet from the floor. The statue is attached to the pedestal, which together weigh 800 pounds.",
 								{
 									"type": "entries",
 									"id": "4df",
@@ -3303,7 +3303,7 @@
 											"page": 212,
 											"id": "4e5",
 											"entries": [
-												"One of the investigators spends their time here, getting a feel for the place and poring through notes. When the party first arrives, they note that the spirit board here would be the perfect tool to contact the house's spirits, but they don't see anything suitable for use as a planchette. Encourage the characters to offer up the planchette they found. If they don't, the investigator soon finds one in the room and begins preparing to conduct the first of several séances. How and when these séances unfold are detailed in the \"{@adventure Séances|HoL|0|Séances}\" section."
+												"One of the investigators spends their time here, getting a feel for the place and poring through notes. When the party first arrives, they note that the spirit board here would be the perfect tool to contact the house's spirits, but they don't see anything suitable for use as a planchette. Encourage the characters to offer up the planchette they found. If they don't, the investigator soon finds one in the room and begins preparing to conduct the first of several séances. How and when these séances unfold are detailed in the \"{@area Séances|4a4|x}\" section."
 											]
 										},
 										{
@@ -3403,7 +3403,7 @@
 											"id": "4f1",
 											"entries": [
 												"Blood runs down the northwestern wall, outlining the hidden alcove. This part of the wall has AC 16, 20 hit points, and immunity to poison and psychic damage. Opening the alcove reveals a cramped space packed with those Mara buried in her castle's walls, specifically two {@creature boneless|VRGR} (see {@book chapter 5|VRGR|5}) and the corpse of Dalk Dranzorg.",
-												"Dranzorg has the statistics of a {@creature revenant} with one exception: his Rejuvenation trait restores him and the boneless after 1 minute, returning them to the alcove in this area. He wears the sinister armor and demon skull helmet he wore in life, but centuries of rust ensure they don't affect his statistics. Dranzorg can be permanently destroyed only if he's slain by Mara or a creature possessed by Mara. Consult \"{@adventure Tyrant's Escape|HoL|0|Tyrant's Escape}\" at the end of the adventure for details."
+												"Dranzorg has the statistics of a {@creature revenant} with one exception: his Rejuvenation trait restores him and the boneless after 1 minute, returning them to the alcove in this area. He wears the sinister armor and demon skull helmet he wore in life, but centuries of rust ensure they don't affect his statistics. Dranzorg can be permanently destroyed only if he's slain by Mara or a creature possessed by Mara. Consult \"{@area Tyrant's Escape|575|x}\" at the end of the adventure for details."
 											]
 										}
 									]
@@ -3416,7 +3416,7 @@
 							"page": 213,
 							"id": "4f2",
 							"entries": [
-								"The stairs along the tower's interior lack railings and climb 40 feet into {@adventure area 26|HoL|0|26. Tower Chamber}. Creatures can climb the tower's interior or exterior walls with a successful {@dc 14} Strength ({@skill Athletics}) check.",
+								"The stairs along the tower's interior lack railings and climb 40 feet into {@area area 26|552|x}. Creatures can climb the tower's interior or exterior walls with a successful {@dc 14} Strength ({@skill Athletics}) check.",
 								{
 									"type": "entries",
 									"id": "4f3",
@@ -3504,7 +3504,7 @@
 											"page": 214,
 											"id": "4fd",
 											"entries": [
-												"Inexplicably, one plant is still alive and flourishing in the room: a belladonna plant with fat, black berries. It can be useful in completing the symbol of Ezra that appears on the door to {@adventure area 24|HoL|0|24. Children's Bedroom}."
+												"Inexplicably, one plant is still alive and flourishing in the room: a belladonna plant with fat, black berries. It can be useful in completing the symbol of Ezra that appears on the door to {@area area 24|548|x}."
 											]
 										}
 									]
@@ -3645,7 +3645,7 @@
 											"page": 214,
 											"id": "50c",
 											"entries": [
-												"An aloof, {@condition invisible} spirit dwells in this chimney. The Chimney Witch is a chaotic being that hungers equally for the house's destruction and living creatures\u2014particularly Small or smaller creatures. The witch makes its influence known through the hearths connected to the chimney, which include the oven in this area, the bathroom ({@adventure area 17|HoL|0|17. Master Bath}) and nursery ({@adventure area 23|HoL|0|23. Nursery}) fireplaces, and the chimney's top near the widow's walk ({@adventure area 25|HoL|0|25. Widow's Walk}). The witch acts subtly while the house is dormant but becomes aggressive after it's awakened. The Chimney Witch can perform the following actions:",
+												"An aloof, {@condition invisible} spirit dwells in this chimney. The Chimney Witch is a chaotic being that hungers equally for the house's destruction and living creatures\u2014particularly Small or smaller creatures. The witch makes its influence known through the hearths connected to the chimney, which include the oven in this area, the bathroom ({@area area 17|529|x}) and nursery ({@area area 23|542|x}) fireplaces, and the chimney's top near the widow's walk ({@area area 25|54e|x}). The witch acts subtly while the house is dormant but becomes aggressive after it's awakened. The Chimney Witch can perform the following actions:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -3768,7 +3768,7 @@
 							"page": 215,
 							"id": "517",
 							"entries": [
-								"This hall starts at a balcony overlooking the foyer ({@adventure area 2|HoL|0|2. Foyer}), the floor of which is 10 feet below. One of the doors in the hall opens to a stairway that ascends to {@adventure area 20|HoL|0|20. Third-Floor Hall}.",
+								"This hall starts at a balcony overlooking the foyer ({@area area 2|4dd|x}), the floor of which is 10 feet below. One of the doors in the hall opens to a stairway that ascends to {@area area 20|535|x}.",
 								{
 									"type": "entries",
 									"id": "518",
@@ -3779,7 +3779,7 @@
 											"page": 215,
 											"id": "519",
 											"entries": [
-												"The coughing from {@adventure area 16|HoL|0|16. Master Bedroom} is audible in this hall."
+												"The coughing from {@area area 16|524|x} is audible in this hall."
 											]
 										},
 										{
@@ -3788,7 +3788,7 @@
 											"page": 215,
 											"id": "51a",
 											"entries": [
-												"When the party finishes exploring the floors below, the investigators invite them to participate in the first séance (see the \"{@adventure Séances|HoL|0|Séances}\" section earlier in the adventure). If the party goes directly to this area, the investigators invite them to the séance after they explore two or three rooms."
+												"When the party finishes exploring the floors below, the investigators invite them to participate in the first séance (see the \"{@area Séances|4a4|x}\" section earlier in the adventure). If the party goes directly to this area, the investigators invite them to the séance after they explore two or three rooms."
 											]
 										}
 									]
@@ -3932,7 +3932,7 @@
 											"page": 216,
 											"id": "52c",
 											"entries": [
-												"The fireplace connects to the haunted chimney detailed in {@adventure area 10|HoL|0|10. Kitchen}."
+												"The fireplace connects to the haunted chimney detailed in {@area area 10|508|x}."
 											]
 										},
 										{
@@ -3998,7 +3998,7 @@
 											"page": 216,
 											"id": "532",
 											"entries": [
-												"In addition to dull business records, the desk holds a key to the lockbox in {@adventure area 22|HoL|0|22. Family Room}, a 4-foot-long silver chain necklace worth 40 gp, and your choice of a {@item wand of magic missiles} or a {@item pistol} alongside a box containing 49 bullets (see the {@book Dungeon Master's Guide|DMG})."
+												"In addition to dull business records, the desk holds a key to the lockbox in {@area area 22|53c|x}, a 4-foot-long silver chain necklace worth 40 gp, and your choice of a {@item wand of magic missiles} or a {@item pistol} alongside a box containing 49 bullets (see the {@book Dungeon Master's Guide|DMG})."
 											]
 										}
 									]
@@ -4019,7 +4019,7 @@
 							"page": 217,
 							"id": "534",
 							"entries": [
-								"This sturdy, ivy entangled balcony stands 15 feet over the porch ({@adventure area 1|HoL|0|1. Porch}). A glass door leads from the balcony into area 18, but it's bolted closed from the other side. The door has AC 14, 8 hit points, and immunity to poison and psychic damage."
+								"This sturdy, ivy entangled balcony stands 15 feet over the porch ({@area area 1|4d9|x}). A glass door leads from the balcony into area 18, but it's bolted closed from the other side. The door has AC 14, 8 hit points, and immunity to poison and psychic damage."
 							]
 						},
 						{
@@ -4039,7 +4039,7 @@
 											"page": 217,
 											"id": "537",
 											"entries": [
-												"The {@adventure second séance|HoL|0|Second Séance} should occur soon after characters reach this floor. If the séance hasn't occurred yet, the clock in area 22 inexplicably chimes thirteen or a dead raven topples from a door frame. If one of the investigators accompanies the party, they are startled and encourage the party to return to the parlor to relax and renew their exploration later\u2014ultimately, after the next séance."
+												"The {@area second séance|4b2|x} should occur soon after characters reach this floor. If the séance hasn't occurred yet, the clock in area 22 inexplicably chimes thirteen or a dead raven topples from a door frame. If one of the investigators accompanies the party, they are startled and encourage the party to return to the parlor to relax and renew their exploration later\u2014ultimately, after the next séance."
 											]
 										}
 									]
@@ -4073,7 +4073,7 @@
 											"page": 217,
 											"id": "53b",
 											"entries": [
-												"Victro's bed is unusually long, built to accommodate his 7-foot-tall frame. The key to his locked footlocker is in {@adventure area 27|HoL|0|27. Wine Cellar}. A character using thieves' tools can try to pick the lock, which requires 1 minute and a successful {@dc 12} Dexterity check. Inside the footlocker are suits custom-made for a very tall man, a pouch containing 13 sp, and an amulet bearing the symbol of a skull surrounded by a skeletal ouroboros\u2014the icon of the {@creature Priest of Osybus|VRGR|priests of Osybus} (see {@book chapter 5|VRGR|5|Priests of Osybus})."
+												"Victro's bed is unusually long, built to accommodate his 7-foot-tall frame. The key to his locked footlocker is in {@area area 27|555|x}. A character using thieves' tools can try to pick the lock, which requires 1 minute and a successful {@dc 12} Dexterity check. Inside the footlocker are suits custom-made for a very tall man, a pouch containing 13 sp, and an amulet bearing the symbol of a skull surrounded by a skeletal ouroboros\u2014the icon of the {@creature Priest of Osybus|VRGR|priests of Osybus}."
 											]
 										}
 									]
@@ -4134,7 +4134,7 @@
 											"page": 217,
 											"id": "541",
 											"entries": [
-												"Those who open the lockbox hidden behind the portrait find a 1-foot-long black feather and velvet pouch containing nine pieces of silver jewelry worth 10 gp each. A tenth piece is an amulet bearing the Mark of the Raven, a symbol used by the {@book Keepers of the Feather|VRGR|3|Keepers of the Feather} (see {@book chapter 3|VRGR|3}). The Mark of the Raven is not magical, but some fell forces recoil from the righteous powers it suggests (as in {@adventure area 31|HoL|0|31. Amber Cavity}). The amulet is worth 25 gp."
+												"Those who open the lockbox hidden behind the portrait find a 1-foot-long black feather and velvet pouch containing nine pieces of silver jewelry worth 10 gp each. A tenth piece is an amulet bearing the Mark of the Raven, a symbol used by the {@book Keepers of the Feather|VRGR|3|Keepers of the Feather} (see {@book chapter 3|VRGR|3}). The Mark of the Raven is not magical, but some fell forces recoil from the righteous powers it suggests (as in {@area area 31|564|x}). The amulet is worth 25 gp."
 											]
 										}
 									]
@@ -4165,7 +4165,7 @@
 											"page": 218,
 											"id": "545",
 											"entries": [
-												"The door to area 24 is under divine protection that manifests as an {@spell arcane lock} spell. The first time a creature touches the door, an incomplete symbol of the god Ezra appears amid the woodwork for an instant, then vanishes. This shield symbol doesn't bear the belladonna sprig that traditionally crosses it. If a character presents a belladonna sprig, such as from the plant in {@adventure area 7|HoL|0|7. Conservatory}, the {@spell arcane lock} is suppressed for 10 minutes.",
+												"The door to area 24 is under divine protection that manifests as an {@spell arcane lock} spell. The first time a creature touches the door, an incomplete symbol of the god Ezra appears amid the woodwork for an instant, then vanishes. This shield symbol doesn't bear the belladonna sprig that traditionally crosses it. If a character presents a belladonna sprig, such as from the plant in {@area area 7|4f7|x}, the {@spell arcane lock} is suppressed for 10 minutes.",
 												"Each time the door is damaged, a blast of energy erupts from it, dealing 7 ({@dice 2d6}) radiant damage to all creatures within 10 feet of the door. The door takes no damage."
 											]
 										},
@@ -4184,7 +4184,7 @@
 											"page": 218,
 											"id": "547",
 											"entries": [
-												"The fireplace here connects to the haunted chimney detailed in {@adventure area 10|HoL|0|10. Kitchen}."
+												"The fireplace here connects to the haunted chimney detailed in {@area area 10|508|x}."
 											]
 										}
 									]
@@ -4223,7 +4223,7 @@
 										"They would like to leave but don't know how."
 									]
 								},
-								"If the characters tell the spirits that Theodora sent them, they eagerly cooperate. See Theodora's parts of the \"{@adventure Séances|HoL|0|Séances}\" and \"{@adventure Escaping the House|HoL|0|Escaping the House}\" sections for details on helping the children.",
+								"If the characters tell the spirits that Theodora sent them, they eagerly cooperate. See Theodora's parts of the \"{@area Séances|4a4|x}\" and \"{@area Escaping the House|56c|x}\" sections for details on helping the children.",
 								{
 									"type": "entries",
 									"id": "54b",
@@ -4243,7 +4243,7 @@
 											"page": 218,
 											"id": "54d",
 											"entries": [
-												"The effects of Ezra's blessing end when anyone enters and then leaves the room. This reveals Regan and Vastion's spirits to the other apparitions in the house, causing the house to awaken. See \"{@adventure Waking the House|HoL|0|Waking the House}\" earlier in the adventure for details."
+												"The effects of Ezra's blessing end when anyone enters and then leaves the room. This reveals Regan and Vastion's spirits to the other apparitions in the house, causing the house to awaken. See \"{@area Waking the House|49c|x}\" earlier in the adventure for details."
 											]
 										}
 									]
@@ -4276,7 +4276,7 @@
 											"page": 218,
 											"id": "551",
 											"entries": [
-												"A ledge juts from a chimney about 30 feet east of the northeast corner of the widow's walk. This is a witch stone, a mundane architectural superstition said to provide a place for witches to rest during their nightly travels. The chimney bearing the witch stone connects to the haunted chimney detailed in {@adventure area 10|HoL|0|10. Kitchen}. Any character who succeeds on a {@dc 14} Intelligence ({@skill History}) check knows this fact, which might help them understand a request Theodora makes during a séance. Characters with the Stonecunning trait may apply it to this check. This stone has no special properties, but a character who lights a candle here satisfies Theodora's request."
+												"A ledge juts from a chimney about 30 feet east of the northeast corner of the widow's walk. This is a witch stone, a mundane architectural superstition said to provide a place for witches to rest during their nightly travels. The chimney bearing the witch stone connects to the haunted chimney detailed in {@area area 10|508|x}. Any character who succeeds on a {@dc 14} Intelligence ({@skill History}) check knows this fact, which might help them understand a request Theodora makes during a séance. Characters with the Stonecunning trait may apply it to this check. This stone has no special properties, but a character who lights a candle here satisfies Theodora's request."
 											]
 										}
 									]
@@ -4300,7 +4300,7 @@
 											"page": 219,
 											"id": "554",
 											"entries": [
-												"This {@item ring mail|PHB} belonged to the knight Mara Silvra. The blood red suit is of an ancient style and bears the marks of repeated repairs. It has no magical properties unless employed to do battle with Dalk Dranzorg, as detailed in the \"{@adventure Tyrant's Escape|HoL|0|Tyrant's Escape}\" section at the end of the adventure."
+												"This {@item ring mail|PHB} belonged to the knight Mara Silvra. The blood red suit is of an ancient style and bears the marks of repeated repairs. It has no magical properties unless employed to do battle with Dalk Dranzorg, as detailed in the \"{@area Tyrant's Escape|575|x}\" section at the end of the adventure."
 											]
 										}
 									]
@@ -4340,7 +4340,7 @@
 											"page": 219,
 											"id": "559",
 											"entries": [
-												"Anyone who investigates the wine racks and succeeds on a {@dc 8} Wisdom ({@skill Perception}) check finds an especially long apron. In its pocket is a silver tastevin worth 10 gp and the key to the footlocker in {@adventure area 21|HoL|0|21. Servants' Quarters}."
+												"Anyone who investigates the wine racks and succeeds on a {@dc 8} Wisdom ({@skill Perception}) check finds an especially long apron. In its pocket is a silver tastevin worth 10 gp and the key to the footlocker in {@area area 21|538|x}."
 											]
 										}
 									]
@@ -4470,7 +4470,7 @@
 											"page": 220,
 											"id": "569",
 											"entries": [
-												"The amulet from {@adventure area 22|HoL|0|22. Family Room} begins glowing when it's brought into this area. If a character uses an action to present the Mark of the Raven, Mara does not attack on the next turn, the light from the amber monolith dwindles, and the shadowy limbs have disadvantage on attack rolls, ability checks, and saving throws. A character can use the amulet multiple times, but doing so causes the shadowy limbs to focus their attacks on its bearer."
+												"The amulet from {@area area 22|53c|x} begins glowing when it's brought into this area. If a character uses an action to present the Mark of the Raven, Mara does not attack on the next turn, the light from the amber monolith dwindles, and the shadowy limbs have disadvantage on attack rolls, ability checks, and saving throws. A character can use the amulet multiple times, but doing so causes the shadowy limbs to focus their attacks on its bearer."
 											]
 										},
 										{
@@ -4522,7 +4522,7 @@
 											"page": 220,
 											"id": "56f",
 											"entries": [
-												"After the characters explore and leave {@adventure area 24|HoL|0|24. Children's Bedroom}, the house detects the hidden Halvhrest children and wakes."
+												"After the characters explore and leave {@area area 24|548|x}, the house detects the hidden Halvhrest children and wakes."
 											]
 										},
 										{
@@ -4531,7 +4531,7 @@
 											"page": 220,
 											"id": "570",
 											"entries": [
-												"If the characters attempt to leave the house with the children's toys, the spirits of the house physically manifest as a {@creature shadow demon} and two {@creature Specter||specters} at opposite sides of the front porch ({@adventure area 1|HoL|0|1. Porch}). Once characters leave the house, a new specter emerges from the house every other round on the specters' initiative count. The spirits shriek things like \"part of the house\" and \"feed us forever\" as the characters try to escape. If the characters reach the Mists, the spirit of Theodora Halvhrest parts the fog, allowing them to leave the domain."
+												"If the characters attempt to leave the house with the children's toys, the spirits of the house physically manifest as a {@creature shadow demon} and two {@creature Specter||specters} at opposite sides of the front porch ({@area area 1|4d9|x}). Once characters leave the house, a new specter emerges from the house every other round on the specters' initiative count. The spirits shriek things like \"part of the house\" and \"feed us forever\" as the characters try to escape. If the characters reach the Mists, the spirit of Theodora Halvhrest parts the fog, allowing them to leave the domain."
 											]
 										},
 										{
@@ -4588,7 +4588,7 @@
 											"page": 220,
 											"id": "577",
 											"entries": [
-												"After the house wakes, Dalk Dranzorg can be released as described in {@adventure area 5a|HoL|0|5a. Tower Base}. If the party doesn't release him, he breaks free himself after an hour. Dranzorg torments the party and rampages through the house, calling for Mara to face him. Once freed, he won't enter the parlor ({@adventure area 3|HoL|0|3. Parlor}), wandering off if the characters take refuge there."
+												"After the house wakes, Dalk Dranzorg can be released as described in {@area area 5a|4ee|x}. If the party doesn't release him, he breaks free himself after an hour. Dranzorg torments the party and rampages through the house, calling for Mara to face him. Once freed, he won't enter the parlor ({@area area 3|4e2|x}), wandering off if the characters take refuge there."
 											]
 										},
 										{
@@ -4597,7 +4597,7 @@
 											"page": 221,
 											"id": "578",
 											"entries": [
-												"Dranzorg can be permanently defeated only by Mara. If it doesn't occur to the characters, one of the investigators suggests reaching out to her spirit for help. Whether characters use the spirit board or another method to contact Mara, her furious spirit appears and demands the characters aid her in destroying Dranzorg. If they do, she'll let them leave the house. Mara demands the characters retrieve her armor from the tower chamber ({@adventure area 26|HoL|0|26. Tower Chamber}). If they use it in combat as described below, she can help them defeat Dranzorg."
+												"Dranzorg can be permanently defeated only by Mara. If it doesn't occur to the characters, one of the investigators suggests reaching out to her spirit for help. Whether characters use the spirit board or another method to contact Mara, her furious spirit appears and demands the characters aid her in destroying Dranzorg. If they do, she'll let them leave the house. Mara demands the characters retrieve her armor from the tower chamber ({@area area 26|552|x}). If they use it in combat as described below, she can help them defeat Dranzorg."
 											]
 										},
 										{

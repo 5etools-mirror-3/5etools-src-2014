@@ -416,7 +416,7 @@
 									"id": "02d",
 									"entries": [
 										"The Cult of the Dragon expands its operation in larger and bolder ways. Its leaders send diplomatic missions to Berdusk, Triel, and other settlements demanding tribute\u2014and offering protection from dragon raids for those who comply. Cultists shake down caravans seeking protection money, and have been burning caravans that belong to the rivals of those who do pay. Less scrupulous merchants are finding it easier to do business with the cult than to fight against them. Any Zhentarim contacts of the adventurers are understandably worried about these developments.",
-										"Elite bands of cultists have been charged with establishing the cult's control from the Gray Peaks to the Sunset Mountains. They seek out allies in the area, with an eye toward choosing friendly territory for a capital city and a seat of power for the cult's Inner Circle. Such bands are led by a {@creature dragonsoul|RoT} defended by 4 {@creature Dragonclaw|HotDQ|dragonclaws} and a pack of 3 {@creature Guard Drake|HotDQ|guard drakes}. The dragonsoul rides a {@creature warhorse}, but the other cultists are on foot. See {@adventure appendix D|HotDQ|12} for the cultists and drakes."
+										"Elite bands of cultists have been charged with establishing the cult's control from the Gray Peaks to the Sunset Mountains. They seek out allies in the area, with an eye toward choosing friendly territory for a capital city and a seat of power for the cult's Inner Circle. Such bands are led by a {@creature dragonsoul|RoT} defended by 4 {@creature Dragonclaw|HotDQ|dragonclaws} and a pack of 3 {@creature Guard Drake|HotDQ|guard drakes}. The dragonsoul rides a {@creature warhorse}, but the other cultists are on foot. See {@area appendix D|2a5|x} for the cultists and drakes."
 									]
 								},
 								{
@@ -484,7 +484,8 @@
 					"imageType": "map",
 					"title": "Map of the Sword Coast",
 					"width": 2650,
-					"height": 3800
+					"height": 3800,
+					"id": "28d"
 				},
 				{
 					"type": "section",
@@ -521,7 +522,7 @@
 									"id": "036",
 									"entries": [
 										"The cult has a simple hierarchical structure, consisting of initiates on the bottom, four ranks for cultists, and one highest rank for \"Wearers of Purple\"\u2014the lords, leaders, and cult masters of particular locales. The cult is ruled by a secretive inner group led by Severin and four other wyrmspeakers\u2014a term of respect given to those whose bond with dragons is supernaturally strong.",
-										"Rank in the cult is based on merit and fanaticism. As raw recruits, initiates (represented by {@creature Cultist||cultists} and {@creature Cult Fanatic||cult fanatics}) have no rank and follow the orders of their superiors. Only initiates that prove their worth are allowed to advance. A Wearer of Purple can promote an initiate along the track of {@creature dragonclaw|HotDQ} (first rank), {@creature dragonwing|HotDQ} (second rank), {@creature dragonfang|RoT} (third rank), and {@creature dragonsoul|RoT} (fourth rank). Statistics for those four ranking cultists are found in {@adventure appendix D|HotDQ|12}.",
+										"Rank in the cult is based on merit and fanaticism. As raw recruits, initiates (represented by {@creature Cultist||cultists} and {@creature Cult Fanatic||cult fanatics}) have no rank and follow the orders of their superiors. Only initiates that prove their worth are allowed to advance. A Wearer of Purple can promote an initiate along the track of {@creature dragonclaw|HotDQ} (first rank), {@creature dragonwing|HotDQ} (second rank), {@creature dragonfang|RoT} (third rank), and {@creature dragonsoul|RoT} (fourth rank). Statistics for those four ranking cultists are found in {@area appendix D|2a5|x}.",
 										"Cult operation groups are assembled to match their assigned tasks. They vary in size, from a few low-ranking cultists operating on their own to hundreds of cultists of various ranks under the control of multiple Wearers of Purple."
 									]
 								},
@@ -876,7 +877,7 @@
 										"Lady Laeral is present starting with the second council, at which point she becomes the Open Lord of Waterdeep. She is one of the Seven Sisters\u2014legendary, nigh-immortal figures known to have been blessed by Mystra. (Some even say they are the goddess's daughters.) Her spellcasting ability is impressive but is beginning to wane, and she focuses more on political power than on the arcane these days. The Masked Lords of Waterdeep choose her as the successor to Dagult Neverember between the first and second sessions of the Council of Waterdeep, making her the leader of the Lords' Alliance.",
 										"Laeral Silverhand brings centuries of leadership experience and an impressive reputation to the negotiations. A consummate diplomat, she can wield words that wound or soothe with equal ease. As the Open Lord of Waterdeep, she holds great sway with all the delegates except Dagult Neverember, who believes that she engineered his removal from the position of Open Lord.",
 										"Laeral's primary concern is keeping all parties at the negotiating table, and making sure that concrete actions result from each council's discussions. However, she is leery of committing troops to battle. No stranger to the horrors of war, she is keenly aware that the lands represented by the Lords' Alliance need their soldiers for the protection of their own people. Only when convinced that the Cult of the Dragon is likely to succeed in summoning Tiamat does she change her mind. However, she doesn't trust the adventurers with leadership unless their deeds in the field and at the negotiating table have impressed her.",
-										"If the adventurers sway Laeral to their side, she speaks highly of the party in the periods between council sessions. Having the support of the leader of the Lords' Alliance increases the party's stature in the eyes of all other factions, granting additional bonuses. See \"{@adventure Chapter 9: Council of Waterdeep|RoT|1}\" and the Council Scorecard ({@adventure appendix B|HotDQ|10}) for more information."
+										"If the adventurers sway Laeral to their side, she speaks highly of the party in the periods between council sessions. Having the support of the leader of the Lords' Alliance increases the party's stature in the eyes of all other factions, granting additional bonuses. See \"{@adventure Chapter 9: Council of Waterdeep|RoT|1}\" and the Council Scorecard ({@area appendix B|279|x}) for more information."
 									]
 								},
 								{
@@ -1086,7 +1087,7 @@
 					"page": 22,
 					"id": "060",
 					"entries": [
-						"To tie the characters' backstories to the {@i Tyranny of Dragons} campaign more closely, see {@adventure appendix A|HotDQ|9}."
+						"To tie the characters' backstories to the {@i Tyranny of Dragons} campaign more closely, see {@area appendix A|271|x}."
 					]
 				},
 				{
@@ -1418,7 +1419,7 @@
 					"page": 23,
 					"id": "06c",
 					"entries": [
-						"The streets of Greenest are overrun by forces consisting of {@creature Cultist||cultists} and {@creature Acolyte||acolytes} accompanied by monstrous allies: {@creature Kobold||kobolds} with {@creature Ambush Drake|HotDQ|ambush drakes} (see {@adventure appendix D|HotDQ|12}) and {@creature Giant Lizard||giant lizards}. These raiders move through town without fear, pillaging as they go. As characters travel through the embattled village, they can run into raiders and townsfolk. Use these guidelines to determine if characters have an encounter.",
+						"The streets of Greenest are overrun by forces consisting of {@creature Cultist||cultists} and {@creature Acolyte||acolytes} accompanied by monstrous allies: {@creature Kobold||kobolds} with {@creature Ambush Drake|HotDQ|ambush drakes} (see {@area appendix D|2a5|x}) and {@creature Giant Lizard||giant lizards}. These raiders move through town without fear, pillaging as they go. As characters travel through the embattled village, they can run into raiders and townsfolk. Use these guidelines to determine if characters have an encounter.",
 						"If characters use cover and stealth to avoid encounters, have each character attempt a {@dc 10} Dexterity ({@skill Stealth}) check. For every two individual checks that fail, the characters have one encounter on the way to their destination. Roll a {@dice d8} on the Chapter 1 Encounters table to determine each encounter. If characters use the stream bed for cover for most of the trip, these characters have advantage on their Dexterity checks.",
 						"If characters don't use cover and stealth to avoid encounters, roll a {@dice d8} for every 100 feet they move in town. If the roll is 4 or lower, they didn't attract attention with that move. If the roll is 5 or higher, they run into something; roll a {@dice d8} again and check the Chapter 1 Encounters table to see what the characters meet.",
 						{
@@ -1448,7 +1449,7 @@
 												],
 												[
 													"2",
-													"3 {@creature Kobold||kobolds} and 1 {@creature ambush drake|HotDQ} (see {@adventure appendix D|HotDQ|12})"
+													"3 {@creature Kobold||kobolds} and 1 {@creature ambush drake|HotDQ} (see {@area appendix D|2a5|x})"
 												],
 												[
 													"3",
@@ -1484,7 +1485,7 @@
 											"page": 23,
 											"id": "06f",
 											"entries": [
-												"The cultists and their kobold lackeys are in the midst of looting Greenest and collecting the spoils for transport back to their camp (see {@adventure chapter 2|HotDQ|2}). Any marauding group that the party encounters has a {@chance 50} chance of having stolen treasure in its possession. Roll a {@dice d6} and multiply the result by 10 to determine the total value of the stolen items, in gold pieces (gp)."
+												"The cultists and their kobold lackeys are in the midst of looting Greenest and collecting the spoils for transport back to their camp (see {@area chapter 2|08b|x}). Any marauding group that the party encounters has a {@chance 50} chance of having stolen treasure in its possession. Roll a {@dice d6} and multiply the result by 10 to determine the total value of the stolen items, in gold pieces (gp)."
 											]
 										}
 									]
@@ -1558,7 +1559,7 @@
 									"page": 24,
 									"id": "076",
 									"entries": [
-										"A group of cultists is searching the stream banks for hiding townsfolk when the characters emerge from the tunnel. If characters open the lock with the key or with {@item thieves' tools|PHB}, the first one to exit notices the raiders approaching without being spotted in return; the characters can keep out of sight in the tunnel or try to ambush the raiders after they pass. If the check fails, the raiders spot the character; roll initiative and proceed with combat. If the grate had to be broken open with a Strength check, the raiders hear the noise and find cover; they wait for the characters to exit the tunnel, then gain a surprise round. The raiders' group consists of two {@creature Cultist||cultists} and six {@creature Kobold||kobolds}. If any cultists are still alive at the beginning of the fourth round of the fight, one of them runs to fetch help. Ten minutes later, two {@creature Cultist||cultists}, ten {@creature Kobold||kobolds}, and one {@creature ambush drake|HotDQ} (see {@adventure appendix D|HotDQ|12}) arrive to guard the tunnel."
+										"A group of cultists is searching the stream banks for hiding townsfolk when the characters emerge from the tunnel. If characters open the lock with the key or with {@item thieves' tools|PHB}, the first one to exit notices the raiders approaching without being spotted in return; the characters can keep out of sight in the tunnel or try to ambush the raiders after they pass. If the check fails, the raiders spot the character; roll initiative and proceed with combat. If the grate had to be broken open with a Strength check, the raiders hear the noise and find cover; they wait for the characters to exit the tunnel, then gain a surprise round. The raiders' group consists of two {@creature Cultist||cultists} and six {@creature Kobold||kobolds}. If any cultists are still alive at the beginning of the fourth round of the fight, one of them runs to fetch help. Ten minutes later, two {@creature Cultist||cultists}, ten {@creature Kobold||kobolds}, and one {@creature ambush drake|HotDQ} (see {@area appendix D|2a5|x}) arrive to guard the tunnel."
 									]
 								},
 								{
@@ -1580,7 +1581,7 @@
 							"entries": [
 								"The keep has a sally port along the west wall for counterattacking foes who bring a battering ram against the gates. During the night while characters are in the keep, raiders approach the old gate, force it open, and rush through. Escobert discovers them and races into the courtyard to sound the alarm ahead of the infiltrators.",
 								"Enough defenders are available to deal with the immediate threat from raiders loose in the keep, since it's more a probe that got out of hand rather than a full-scale assault. Escobert is most concerned about resealing the sally port, and he seeks out the characters for that job.",
-								"To secure the sally port, characters must battle through two groups of foes. The first fight occurs against three {@creature Acolyte||acolytes}, three {@creature Kobold||kobolds}, and one {@creature ambush drake|HotDQ} (see {@adventure appendix D|HotDQ|12}), which are guarding the sally port's 10-foot-by-20-foot ready room against exactly this type of counterattack. After characters seize the room, they discover that the door is heavily damaged. The fastest repair is with five castings of {@spell mending} (taking five minutes). If none of the characters can do this, an NPC in the keep knows the cantrip. Someone must find and fetch her to the ready room.",
+								"To secure the sally port, characters must battle through two groups of foes. The first fight occurs against three {@creature Acolyte||acolytes}, three {@creature Kobold||kobolds}, and one {@creature ambush drake|HotDQ} (see {@area appendix D|2a5|x}), which are guarding the sally port's 10-foot-by-20-foot ready room against exactly this type of counterattack. After characters seize the room, they discover that the door is heavily damaged. The fastest repair is with five castings of {@spell mending} (taking five minutes). If none of the characters can do this, an NPC in the keep knows the cantrip. Someone must find and fetch her to the ready room.",
 								"Before the door can be repaired, a second group of raiders consisting of two {@creature Guard||guards}, three {@creature Cultist||cultists}, and three {@creature Kobold||kobolds} attacks. These foes can come from outside the keep, or they might be a group of infiltrators trying to fight its way back outside. If characters barricade the door with barrels or other heavy objects while awaiting repairs, they might hold off attackers until the repairs are finished and avoid this fight entirely.",
 								{
 									"type": "entries",
@@ -1627,7 +1628,7 @@
 										"\"I'd give anything to know what we're up against, and why. For that, we need prisoners. A commander, even a low-ranking one, is best.\""
 									]
 								},
-								"If the characters haven't run into any cult leaders yet, Nighthill takes them onto the parapet and points out what he means. This is an ideal time for everyone to catch a glimpse of {@creature Frulam Mondath|HotDQ} (see {@adventure appendix D|HotDQ|12}) in her purple robes, accompanied by a dozen guards. Even the governor cautions characters against attacking such a formidable force, especially when any lower-level officer can answer his questions.",
+								"If the characters haven't run into any cult leaders yet, Nighthill takes them onto the parapet and points out what he means. This is an ideal time for everyone to catch a glimpse of {@creature Frulam Mondath|HotDQ} (see {@area appendix D|2a5|x}) in her purple robes, accompanied by a dozen guards. Even the governor cautions characters against attacking such a formidable force, especially when any lower-level officer can answer his questions.",
 								"Leaving the keep through the front gate is out of the question\u2014too many raiders watch it, and they would jump the characters as soon as they moved away from the keep. Other options are waiting for a cloud to cover the moon before climbing down ropes tossed over the back wall of the keep, or using the old tunnel that exits into the stream bed.",
 								"This mission can be combined with another mission, such as saving the mill or rescuing villagers from the temple of Chauntea (area 3). All characters need to do is bring a live cultist or Cult of the Dragon initiate back to the keep. Or characters can go into the town hunting for one specifically.",
 								"Prisoners brought back to the keep are interrogated by Governor Nighthill and a few of his picked guards. Characters can participate if they want to.",
@@ -1696,8 +1697,8 @@
 									"id": "083",
 									"entries": [
 										"The force outside the temple is split into three groups. One (A) is battering at the front doors, another (B) is circling the temple in a screeching mob, and the third (C) is heaping burning straw against a rear door. All these groups together would overwhelm 1st-level characters, but characters can devise a plan that gets them inside the temple by dealing with one group.",
-										"Group A consists of one {@creature dragonclaw|HotDQ} (see {@adventure appendix D|HotDQ|12}), two {@creature Cultist||cultists}, and six {@creature Kobold||kobolds}. The cultists are handling the ram while the kobolds stand guard in case the town militia mounts a counterattack. The dragonclaw is in charge. The kobold guards are alert, but they are distracted when Group B passes in front of the temple.",
-										"Group B consists of three {@creature Cultist||cultists}, ten {@creature Kobold||kobolds}, and two {@creature Ambush Drake|HotDQ|ambush drakes} (see {@adventure appendix D|HotDQ|12}) strung out in a mob that stretches 50 feet. This procession with leaping and whirling kobolds completes one circuit around the temple approximately every eight minutes (two minutes per side).",
+										"Group A consists of one {@creature dragonclaw|HotDQ} (see {@area appendix D|2a5|x}), two {@creature Cultist||cultists}, and six {@creature Kobold||kobolds}. The cultists are handling the ram while the kobolds stand guard in case the town militia mounts a counterattack. The dragonclaw is in charge. The kobold guards are alert, but they are distracted when Group B passes in front of the temple.",
+										"Group B consists of three {@creature Cultist||cultists}, ten {@creature Kobold||kobolds}, and two {@creature Ambush Drake|HotDQ|ambush drakes} (see {@area appendix D|2a5|x}) strung out in a mob that stretches 50 feet. This procession with leaping and whirling kobolds completes one circuit around the temple approximately every eight minutes (two minutes per side).",
 										"Group C consists of four {@creature Cultist||cultists} and four {@creature Kobold||kobolds} clustered tightly around the temple's back door. Their meager fire produces little flame, instead creating prodigious clouds of thick smoke that engulf the back of the temple and blanket the surrounding 30 feet of ground. Everything in the smoke is {@quickref Vision and Light||2||lightly obscured}, and objects or creatures that are seen through more than 15 feet of smoke are {@quickref Vision and Light||2||heavily obscured}. Characters can sneak up on these raiders and gain a surprise round against them, as long as they avoid Group B in the process."
 									]
 								},
@@ -1739,7 +1740,7 @@
 										"\"Defenders of Greenest! This has been a successful night, and I am feeling generous. Do you see these four pitiful, useless prisoners? We have no need for them, so I will trade them back to you. Send out your best warrior to fight me, and you can have these four in exchange.\""
 									]
 								},
-								"The speaker is {@creature Langdedrosa Cyanwrath|HotDQ} (see {@adventure appendix D|HotDQ|12} for statistics) a half-blue dragon who serves the Cult of the Dragon. Cyanwrath has a personal troop of sixteen {@creature Kobold||kobolds}. A character who makes a successful {@dc 15} Intelligence ({@skill Arcana}) or Intelligence ({@skill Nature}) check recognizes the creature as a half-dragon from descriptions.",
+								"The speaker is {@creature Langdedrosa Cyanwrath|HotDQ} (see {@area appendix D|2a5|x} for statistics) a half-blue dragon who serves the Cult of the Dragon. Cyanwrath has a personal troop of sixteen {@creature Kobold||kobolds}. A character who makes a successful {@dc 15} Intelligence ({@skill Arcana}) or Intelligence ({@skill Nature}) check recognizes the creature as a half-dragon from descriptions.",
 								"One of the defenders in the keep, Sergeant Markguth, recognizes the prisoners as his sister and her children, and he is ready to rush out into battle with the half-dragon. Escobert the Red and a few other defenders restrain him while Nighthill approaches the characters.",
 								{
 									"type": "insetReadaloud",
@@ -1751,7 +1752,7 @@
 								"If no one steps forward, Nighthill is disappointed but says he understands, and their refusal in no way diminishes what they've done so far. In that case, the woman's brother goes out to face the half-dragon. He is a human {@creature guard}. Select one of the players to control Sergeant Markguth for this fight or just narrate its result.",
 								"Cyanwrath is pleased to see a champion step forward. He agrees to these terms for the combat: The three children will be set loose immediately, but his kobolds will continue to stand guard over the woman, and they will kill her if anyone interferes in the fight\u2014for example, if archers in the keep let fly at him. Regardless of who wins, the woman will be released when the fight is over; and the victor will be the last one standing.",
 								"Governor Nighthill holds his troops in the keep during the combat. Adventurers can go out if they want, but the half-dragon insists that they keep their distance and stay between him and the fortress. If characters try to surround him or to edge into position for an ambush, he warns them that his kobolds won't hesitate to kill the hostages if they see signs of treachery. The half-dragon is evil, but he has a deep sense of honor about one-on-one combat. He doesn't intend any shenanigans, and he won't allow any from his kobolds.",
-								"Cyanwrath is the likely winner of this match, whether he's fighting Sergeant Markguth or a character. When his foe drops, he strikes one more time; the last blow kills Markguth or inflicts one death roll failure on a character. If Cyanwrath loses the fight, the kobolds immediately jump in to protect his body and carry it away. (Cyanwrath will recover from his wounds and be encountered again later.) If by some mischance Cyanwrath is killed or captured, his place in the dragon hatchery ({@adventure chapter 3|HotDQ|3}) is taken by another half-dragon.",
+								"Cyanwrath is the likely winner of this match, whether he's fighting Sergeant Markguth or a character. When his foe drops, he strikes one more time; the last blow kills Markguth or inflicts one death roll failure on a character. If Cyanwrath loses the fight, the kobolds immediately jump in to protect his body and carry it away. (Cyanwrath will recover from his wounds and be encountered again later.) If by some mischance Cyanwrath is killed or captured, his place in the dragon hatchery ({@area chapter 3|0a4|x}) is taken by another half-dragon.",
 								"With the fight over, the last of the raiders retreat en masse from the town into the darkness, marching away toward the southeast.",
 								{
 									"type": "entries",
@@ -2198,7 +2199,7 @@
 											"page": 32,
 											"id": "09c",
 											"entries": [
-												"The cultists' prisoners are kept at area 1. Currently, only eight prisoners are in the camp, not counting Leosin. During the day, they are put to work under guard by four {@creature Dragonclaw|HotDQ|dragonclaws} (see {@adventure appendix D|HotDQ|12}). At night, they are shackled to a post in their hut to prevent escape. The shackles are secured by a single chain and lock that can be opened with a key carried by one of the guards or with thieves' tools and a successful {@dc 10} Dexterity check. The chain can be broken with a successful {@dc 20} Strength check. Five of the prisoners are from Greenest, and the other three are from earlier raids against hamlets and small farming villages to the south and east. There were more prisoners at one time, but many have died from overwork and mistreatment. If a situation develops where released prisoners must fight, use {@creature commoner} stats for them."
+												"The cultists' prisoners are kept at area 1. Currently, only eight prisoners are in the camp, not counting Leosin. During the day, they are put to work under guard by four {@creature Dragonclaw|HotDQ|dragonclaws} (see {@area appendix D|2a5|x}). At night, they are shackled to a post in their hut to prevent escape. The shackles are secured by a single chain and lock that can be opened with a key carried by one of the guards or with thieves' tools and a successful {@dc 10} Dexterity check. The chain can be broken with a successful {@dc 20} Strength check. Five of the prisoners are from Greenest, and the other three are from earlier raids against hamlets and small farming villages to the south and east. There were more prisoners at one time, but many have died from overwork and mistreatment. If a situation develops where released prisoners must fight, use {@creature commoner} stats for them."
 											]
 										},
 										{
@@ -2218,7 +2219,7 @@
 											"id": "09e",
 											"entries": [
 												"The raiders live in circular huts made from closely spaced wooden or bone poles covered in hide, mud, and sod. Huts vary in diameter from 10 feet to 25 feet, and in height from 5 feet to 10 feet. (Symbols on the map represent clusters of tents.) Those in the mouth of the hollow (level 1 on the map) are crudely built and decorated with animal skulls. These are occupied by kobolds. Cultists occupy the huts on level 2, which are sturdier, cleaner, and decorated with painted designs representing dragons. A few tents on level 2 are set aside for prisoners.",
-												"The large tent at area 2 is set apart from the others by an open space. It is reserved for {@creature Rezmir|HotDQ}, {@creature Frulam Mondath|HotDQ}, {@creature Langdedrosa Cyanwrath|HotDQ}, and {@creature Azbara Jos|HotDQ}. An honor guard of four {@creature Veteran||veterans} and four {@creature Guard Drake|HotDQ|guard drakes} ({@adventure appendix D|HotDQ|12}) keeps watch around this tent day and night. They don't sleep at their posts, they don't fall for tricks, and they don't listen to stories or pleas. Their job is to keep everyone away from the tent, and they are fanatical about it. Only acolytes and adepts the veterans know by sight and by voice are allowed to approach."
+												"The large tent at area 2 is set apart from the others by an open space. It is reserved for {@creature Rezmir|HotDQ}, {@creature Frulam Mondath|HotDQ}, {@creature Langdedrosa Cyanwrath|HotDQ}, and {@creature Azbara Jos|HotDQ}. An honor guard of four {@creature Veteran||veterans} and four {@creature Guard Drake|HotDQ|guard drakes} ({@area appendix D|2a5|x}) keeps watch around this tent day and night. They don't sleep at their posts, they don't fall for tricks, and they don't listen to stories or pleas. Their job is to keep everyone away from the tent, and they are fanatical about it. Only acolytes and adepts the veterans know by sight and by voice are allowed to approach."
 											]
 										}
 									]
@@ -2472,11 +2473,11 @@
 												],
 												[
 													"5",
-													"2 {@creature Winged Kobold||winged kobolds} and 1 {@creature guard drake|HotDQ} ({@adventure appendix D|HotDQ|12})"
+													"2 {@creature Winged Kobold||winged kobolds} and 1 {@creature guard drake|HotDQ} ({@area appendix D|2a5|x})"
 												],
 												[
 													"6",
-													"2 {@creature Ambush Drake|HotDQ|ambush drakes} ({@adventure appendix D|HotDQ|12})"
+													"2 {@creature Ambush Drake|HotDQ|ambush drakes} ({@area appendix D|2a5|x})"
 												]
 											]
 										},
@@ -3475,7 +3476,7 @@
 							"page": 37,
 							"id": "0af",
 							"entries": [
-								"The entrance to the cave is broad and tall, but the ceiling quickly lowers to a height of 15 feet. Standing guard inside the entrance are two {@creature Dragonclaw|HotDQ|dragonclaws} (see {@adventure appendix D|HotDQ|12}). They position themselves about 30 feet inside the cave and stay near the walls and the column, so that while they aren't hidden, they aren't conspicuous, either. Characters who observe the cave from a distance\u2014from the area of the plateau where the steps ascend from level 1 to level 2, for example\u2014spot one of the dragonclaws.",
+								"The entrance to the cave is broad and tall, but the ceiling quickly lowers to a height of 15 feet. Standing guard inside the entrance are two {@creature Dragonclaw|HotDQ|dragonclaws} (see {@area appendix D|2a5|x}). They position themselves about 30 feet inside the cave and stay near the walls and the column, so that while they aren't hidden, they aren't conspicuous, either. Characters who observe the cave from a distance\u2014from the area of the plateau where the steps ascend from level 1 to level 2, for example\u2014spot one of the dragonclaws.",
 								"If characters approach openly through the camp, the dragonclaws spot them automatically and retreat toward area 2 in the cave, to set up an ambush. If characters approach the cave quietly from the sides, they won't be spotted. They then have a chance to surprise the dragonclaws."
 							]
 						},
@@ -3781,7 +3782,7 @@
 							"page": 43,
 							"id": "0ce",
 							"entries": [
-								"{@creature Frulam Mondath|HotDQ} (see {@adventure appendix D|HotDQ|12}) moved into this simple but comfortable chamber when the camp was abandoned. If no fight has occurred with the guards in area 12 and characters enter this chamber from {@area area 9|0c1|x}, then Mondath is here when they arrive. Guards in area 12 hear whatever happens in this chamber and respond dutifully.",
+								"{@creature Frulam Mondath|HotDQ} (see {@area appendix D|2a5|x}) moved into this simple but comfortable chamber when the camp was abandoned. If no fight has occurred with the guards in area 12 and characters enter this chamber from {@area area 9|0c1|x}, then Mondath is here when they arrive. Guards in area 12 hear whatever happens in this chamber and respond dutifully.",
 								"The chamber contains a writing desk and stool, several tables with books and papers, and a mirror on a floor stand. Light comes from two oil lamps. Thick rugs completely cover the floor, including an open chute that drops down to area 9. A rope ladder is fixed in the chute for climbing up and down, but nothing marks the position of the open, 3-foot-wide hole when it is covered by rugs. The slight depression it causes in the rug can be noticed with a successful {@dc 10} Wisdom ({@skill Perception}) check. If someone steps on the chute without knowing it's there, the character must make a {@dc 10} Dexterity saving throw. Success means the character hops off the rug before it collapses through the hole, or grabs the top of ladder as he or she falls; failure means the character plunges 30 feet down the chute into area 9, taking {@dice 3d6} bludgeoning damage from the fall.",
 								{
 									"type": "insetReadaloud",
@@ -4018,9 +4019,9 @@
 									"width": 776,
 									"height": 1000
 								},
-								"{@creature Azbara Jos|HotDQ} (see {@adventure appendix D|HotDQ|12} for statistics) is a male human and a Red Wizard of Thay. Red Wizards are widely disliked and mistrusted, so he takes some pains to disguise his membership in that group by always wearing a wool cap with ear and neck flaps to cover his shaved, tattooed head. It's not an especially effective disguise; characters who make a successful {@dc 15} Wisdom ({@skill Perception}) check notice the edges of the tattoos peeking out from under the cap. Many Thayans have shaved, tattooed heads, however, but only a few are Red Wizards. Countless Thayans fled their country when the lich Szass Tam seized control, so they are not entirely strange on the Sword Coast. If questioned, {@creature Azbara Jos|HotDQ|Jos} claims to be just another Thayan expatriot trying to find refuge while his country is controlled by undead monsters. In fact, other than the denial that he's a Red Wizard, this is all true.",
+								"{@creature Azbara Jos|HotDQ} (see {@area appendix D|2a5|x} for statistics) is a male human and a Red Wizard of Thay. Red Wizards are widely disliked and mistrusted, so he takes some pains to disguise his membership in that group by always wearing a wool cap with ear and neck flaps to cover his shaved, tattooed head. It's not an especially effective disguise; characters who make a successful {@dc 15} Wisdom ({@skill Perception}) check notice the edges of the tattoos peeking out from under the cap. Many Thayans have shaved, tattooed heads, however, but only a few are Red Wizards. Countless Thayans fled their country when the lich Szass Tam seized control, so they are not entirely strange on the Sword Coast. If questioned, {@creature Azbara Jos|HotDQ|Jos} claims to be just another Thayan expatriot trying to find refuge while his country is controlled by undead monsters. In fact, other than the denial that he's a Red Wizard, this is all true.",
 								"{@creature Azbara Jos|HotDQ|Jos} buys space aboard one of the cult wagons, although they turned away everyone else who sought passage earlier in the journey. He does not mingle with the other travelers and seldom speaks to anyone except the man who seems to be the leader of the cultists.",
-								"{@creature Jamna Gleamsilver|HotDQ} (see {@adventure appendix D|HotDQ|12} for statistics) is a female gnome and a member of a secretive organization called the Black Network, also known as the Zhentarim. Outwardly, the Black Network provides mercenaries and other forms of muscle for hire. Informally, it is known as a criminal society akin to a widespread thieves guild. Secretly, its leaders seek to extend their shadowy fingers into every throne room and ruling council chamber in Faerûn. Like the Harpers, the Zhentarim too are aware that the Cult of the Dragon is on the move, and they need to know the cult's plans so they can prevent them from interfering with the Zhentarim's own plans, plus perhaps take advantage of the plunder possibilities.",
+								"{@creature Jamna Gleamsilver|HotDQ} (see {@area appendix D|2a5|x} for statistics) is a female gnome and a member of a secretive organization called the Black Network, also known as the Zhentarim. Outwardly, the Black Network provides mercenaries and other forms of muscle for hire. Informally, it is known as a criminal society akin to a widespread thieves guild. Secretly, its leaders seek to extend their shadowy fingers into every throne room and ruling council chamber in Faerûn. Like the Harpers, the Zhentarim too are aware that the Cult of the Dragon is on the move, and they need to know the cult's plans so they can prevent them from interfering with the Zhentarim's own plans, plus perhaps take advantage of the plunder possibilities.",
 								"That's why Gleamsilver joins the caravan. The Black Network's spies learned that the cult is moving freight northward, and, like the characters, she was tasked with finding out what they're hauling and where it's headed. Those above her seriously considered wiping out the caravan with mercenaries disguised as bandits, ransacking the wagons, and torturing cult members for the desired information. Fortunately for the characters, Gleamsilver persuaded her superiors to give her a shot at uncovering the truth in a less bloody fashion. If she hasn't come up with something useful by the time the caravan reaches Waterdeep, she will put plan B\u2014the one involving mass murder\u2014into action.",
 								"Despite the vast gulf between their outlooks, the Black Network and the Harpers have a common enemy, and that is pushing them into an unlikely alliance. Gleamsilver is the antithesis of a hero\u2014she is self-serving, a skilled thief and liar, and willing to murder anyone who stands between her and her goal."
 							]
@@ -4231,8 +4232,8 @@
 						"The stretch of road from Baldur's Gate to Waterdeep is a journey of 750 miles. Horse-drawn or mule-drawn freight wagons cover 15 miles per day, depending on conditions. The animals need one day off after every six days of hauling to recover from their work. All things considered, the trip is expected to take two months.",
 						"The caravan leaving Baldur's Gate contains the three wagons of the Cult of the Dragon plus {@dice 2d4} more. Not all travelers are merchants. A wagon might carry a family relocating to the north or a diplomat on a mission to Waterdeep. People and wagons join the caravan along the way, and others leave according to the dictates of business and fortune. Some travelers ride horses, some walk beside the wagons, and some pay the merchants to ride aboard their wagons. On several occasions, characters notice the cult teamsters turning away passengers even though they have spare room on their wagons.",
 						"Nothing identifies the cult's wagons as anything but typical merchants hauling northbound freight. They don't bunch up during the day or camp together at night. As far as anyone else knows, their only connection is that they're part of this caravan.",
-						"{@creature Rezmir|HotDQ} and eight of her guards leave Baldur's Gate secretly ahead of the caravan and ride north at a fast clip. They are headed for Castle Naerytar in the Mere of Dead Men and won't be seen again until {@adventure chapter 6|HotDQ|6}. She leaves twelve {@creature Guard||guards} behind. One travels with each wagon, acting as a guard and assistant to the teamster. The other nine are cloaked as private travelers in two distinct groups, seeking company and protection in the caravan for their journey.",
-						"The wagons travel for about eight hours per day, with a few stops to feed and water the horses and mules. Many nights are spent camping along the road. Most small towns have roadside inns if travelers want more comfort, and walled hostelries catering to wagon caravans are spread a few days apart. Animals and travelers can rest comfortably at these walled compounds while wagons are safely locked inside. The map for {@adventure chapter 5|HotDQ|5} shows a structure that once served that purpose. It can be used as the model for a typical hostelry if needed.",
+						"{@creature Rezmir|HotDQ} and eight of her guards leave Baldur's Gate secretly ahead of the caravan and ride north at a fast clip. They are headed for Castle Naerytar in the Mere of Dead Men and won't be seen again until {@area chapter 6|11d|x}. She leaves twelve {@creature Guard||guards} behind. One travels with each wagon, acting as a guard and assistant to the teamster. The other nine are cloaked as private travelers in two distinct groups, seeking company and protection in the caravan for their journey.",
+						"The wagons travel for about eight hours per day, with a few stops to feed and water the horses and mules. Many nights are spent camping along the road. Most small towns have roadside inns if travelers want more comfort, and walled hostelries catering to wagon caravans are spread a few days apart. Animals and travelers can rest comfortably at these walled compounds while wagons are safely locked inside. The map for {@area chapter 5|10c|x} shows a structure that once served that purpose. It can be used as the model for a typical hostelry if needed.",
 						"The most difficult part of the journey is near the beginning. A few days' travel north of Baldur's Gate brings the caravan into a countryside known as the Fields of the Dead. The road twists and wanders through hills dotted with ancient battlefields, dolmens, and barrow mounds. Common wisdom holds that it's a very bad idea to light a fire on a hilltop at night in the Fields of the Dead, because the light attracts monsters from miles around. Crossing this territory takes several days, during which everyone will be edgy and on watch."
 					]
 				},
@@ -4556,7 +4557,7 @@
 								"By this point in the journey, the characters should be popular with the other travelers; they probably have saved numerous lives and the entire caravan more than once. The cultists, on the other hand, are not so popular. They are standoffish and even a bit odd. This works in the accused character's favor, because many people will speak up in his or her defense.",
 								"If a character suggests that the wagon's owners should open their crates to see if anything is missing, the accusations die away. (If a character doesn't suggest this, an onlooker in the crowd does.) Uncharacteristically, {@creature Azbara Jos|HotDQ} comes forward and tries to calm the situation, in the process saying more than anyone has so far heard him say at one time.",
 								"In the end, the caravan's most prominent merchants agree that without witnesses, nothing can be done. The gods will punish the guilty party and life will go on.",
-								"Most of the cultists never again look at the accused character with anything but undisguised hatred. This animosity becomes important later on in {@adventure chapter 5|HotDQ|5}.",
+								"Most of the cultists never again look at the accused character with anything but undisguised hatred. This animosity becomes important later on in {@area chapter 5|10c|x}.",
 								"The murderer was, of course, {@creature Jamna Gleamsilver|HotDQ}. Knowing what was in the cargo, she couldn't resist helping herself to some. The theft itself is undetectable, because she left no signs, and the cult isn't carrying a manifest of its looted treasure. The guard interrupted her in the act and had to die; it was just that simple."
 							]
 						}
@@ -4688,7 +4689,7 @@
 								"The work camp is exactly what it appears to be: a supply depot for the road builders. It is also something more, however: a transit point for the cult's contraband coming up from the south.",
 								"When wagons arrive from the south, they are brought into the compound one or two at a time for unloading, then moved back outside for parking. The compound is crowded with food, lumber, and myriad other supplies in crates and barrels. Material that can't be left exposed to the cold, wet weather or is especially valuable is stored in the warehouse (area 3), and anything valuable is kept in the locked strong room attached to the warehouse (area 4). Only the camp superintendent, a burly half-orc known only as Bog Luck (use {@creature veteran} statistics), has a key to that inner room.",
 								"Bog Luck was recruited to the Cult of the Dragon years ago. The only outward sign of this is the scabbard of his ever-present shortsword, which is decorated with a dragon resembling the designs on the scabbards characters saw in the dragon hatchery (and possibly have with them still; see {@area area 12|0d1|x} in that section). When cult wagons arrive, their road-building cargo is unloaded into the compound normally, but Bog Luck ensures that the contraband is stored in the strong room. Afterward, he goes into the strong room alone and paints a symbol onto each carton belonging to the cult.",
-								"In the floor of the strong room is a camouflaged trapdoor. It can be found with a {@dc 10} Wisdom ({@skill Perception}) check. The trapdoor connects to a dripping, slimy tunnel that runs 500 yards into a dense stand of trees and brush at the edge of the Mere of Dead Men. At night, when everyone in the compound is asleep except for a few rooftop guards, lizardfolk creep through the tunnel and take the marked crates to a location in the mere (the subject of {@adventure chapter 6|HotDQ|6}). They seldom perform this task over a single night unless the shipment is very small. Typically they take one night per wagon.",
+								"In the floor of the strong room is a camouflaged trapdoor. It can be found with a {@dc 10} Wisdom ({@skill Perception}) check. The trapdoor connects to a dripping, slimy tunnel that runs 500 yards into a dense stand of trees and brush at the edge of the Mere of Dead Men. At night, when everyone in the compound is asleep except for a few rooftop guards, lizardfolk creep through the tunnel and take the marked crates to a location in the mere (the subject of {@area chapter 6|11d|x}). They seldom perform this task over a single night unless the shipment is very small. Typically they take one night per wagon.",
 								{
 									"type": "gallery",
 									"images": [
@@ -5616,7 +5617,7 @@
 					"entries": [
 						"Over a century ago, a half-elf wizard built a castle at the edge of the Mere of Dead Men. He lived there a relatively short time before the growing swamp flowed past the castle on all sides and made the location too remote for even his taste. After the structure sat abandoned for years, a group of astrologers called the Academy of Stargazers claimed it. They built an observatory into the top level of the keep, where they installed a piece of magic equipment called the {@i farseer of Illusk}. But the astrologers vanished mysteriously after a few years.",
 						"After the disappearance of the astrologers, the castle again fell into disuse. It was built to withstand its cold, watery environment, so the encroaching water hasn't undermined the walls or flooded the dungeon. Over decades of abandonment, however, it filled with debris and attracted many unpleasant dwellers. Then {@creature Rezmir|HotDQ} happened upon the castle on one of her trips into the mere to study and negotiate with the black dragon Voaraghamanthar. {@creature Rezmir|HotDQ} suspected the castle could become a useful stronghold for her, being located so conveniently close to the lair of a black dragon. She explored the structure, cleared the giant spiders out of the tower, and forged an alliance with the nearby tribe of bullywugs.",
-						"During that time, the half-dragon was still thinking of the castle simply as a fortified hideout. When she discovered the portal in the dungeon and learned that it connected to an abandoned lodge in the Graypeak Mountains, a new thought took shape. Lugging large amounts of treasure fifteen miles through the mere would not be easy, but if it cut 700 miles of wagon transport out of the picture, it would be worth the difficulty\u2014especially if bullywugs and lizardfolk did all the hard work. {@creature Rezmir|HotDQ} laid claim to both structures, turned the Graypeak Mountain hunting lodge over to a trusted Cult of the Dragon associate (a half-elf named Talis who now despises {@creature Rezmir|HotDQ}\u2014see {@adventure chapter 7|HotDQ|7}), and set about making Castle Naerytar an essential hub in the cult's treasure-amassing activity in the North.",
+						"During that time, the half-dragon was still thinking of the castle simply as a fortified hideout. When she discovered the portal in the dungeon and learned that it connected to an abandoned lodge in the Graypeak Mountains, a new thought took shape. Lugging large amounts of treasure fifteen miles through the mere would not be easy, but if it cut 700 miles of wagon transport out of the picture, it would be worth the difficulty\u2014especially if bullywugs and lizardfolk did all the hard work. {@creature Rezmir|HotDQ} laid claim to both structures, turned the Graypeak Mountain hunting lodge over to a trusted Cult of the Dragon associate (a half-elf named Talis who now despises {@creature Rezmir|HotDQ}\u2014see {@area chapter 7|196|x}), and set about making Castle Naerytar an essential hub in the cult's treasure-amassing activity in the North.",
 						"Through diplomacy and intimidation, and by leveraging the influence of Voaraghamanthar with the monstrous creatures of the mere, {@creature Rezmir|HotDQ} created an uneasy alliance in the Mere of Dead Men and brought her vision into reality.",
 						{
 							"type": "entries",
@@ -5632,7 +5633,7 @@
 									"page": 62,
 									"id": "132",
 									"entries": [
-										"Although {@creature Rezmir|HotDQ} is responsible for resurrecting Castle Naerytar and claiming it for the Cult of the Dragon (in name only; she considers it her personal property), an elf Wearer of Purple named {@creature Dralmorrer Borngray|HotDQ} (see {@adventure appendix D|HotDQ|12}) commands the castle for {@creature Rezmir|HotDQ}. The half-dragon needs to show up occasionally to remind the bullywugs and lizardfolk that the Cult of the Dragon is really in charge, but Borngray runs the operation.",
+										"Although {@creature Rezmir|HotDQ} is responsible for resurrecting Castle Naerytar and claiming it for the Cult of the Dragon (in name only; she considers it her personal property), an elf Wearer of Purple named {@creature Dralmorrer Borngray|HotDQ} (see {@area appendix D|2a5|x}) commands the castle for {@creature Rezmir|HotDQ}. The half-dragon needs to show up occasionally to remind the bullywugs and lizardfolk that the Cult of the Dragon is really in charge, but Borngray runs the operation.",
 										"{@creature Dralmorrer Borngray|HotDQ} is a member of the Eldreth Valuuthra, a group of elf supremacists dedicated to removing humanity from Faerûn. He longs for the age of great empires before humans claimed the continent. Being from Evermeet, he believes that his island home will be safely sheltered from the dragons' reign. Elves on the mainland will suffer, but that will be a small price to pay for the terror that will fall on humanity.",
 										"The elf idolizes {@creature Rezmir|HotDQ} in all ways but one: he rues her decision to elevate the bullywugs in their alliance. In Borngray's opinion, the lizardfolk would be more useful, more reliable, and more appropriate allies than the repulsive bullywugs are. He cannot alter the arrangement without countering {@creature Rezmir|HotDQ}'s orders, but Borngray has taken small steps to restore the lizardfolk's tribal pride, such as by trying to teach them metallurgy. His effort has met with little success.",
 										"Borngray is loyal to the cult and yearns for Tiamat's return. He genuinely looks forward to the whole world lying helpless under the claws of dragons, both because that's where the world belongs, and because it will mean that his job at Castle Naerytar is finished. The second-best day of his life will be the day when Borngray can scrape the mud and stink of the Mere of Dead Men off his boots and return to someplace civilized. He has never mentioned his desire to leave to the bullywugs, whom he considers revolting necessities.",
@@ -5645,7 +5646,7 @@
 									"page": 62,
 									"id": "133",
 									"entries": [
-										"The band of bullywugs serving the Cult of the Dragon follows the dictates of {@creature Pharblex Spattergoo|HotDQ} (see {@adventure appendix D|HotDQ|12}), a rare bullywug who has mastered shamanistic magic. His \"religion\" is a mishmash of confused tradition, borrowed mysticism, hallucinogenic intoxicants, and manufactured lore that serves more as a road to personal power for Pharblex than as a spiritual system for the bullywugs. Pharblex's spellcasting holds his followers together, and that makes him useful to {@creature Rezmir|HotDQ}.",
+										"The band of bullywugs serving the Cult of the Dragon follows the dictates of {@creature Pharblex Spattergoo|HotDQ} (see {@area appendix D|2a5|x}), a rare bullywug who has mastered shamanistic magic. His \"religion\" is a mishmash of confused tradition, borrowed mysticism, hallucinogenic intoxicants, and manufactured lore that serves more as a road to personal power for Pharblex than as a spiritual system for the bullywugs. Pharblex's spellcasting holds his followers together, and that makes him useful to {@creature Rezmir|HotDQ}.",
 										{
 											"type": "image",
 											"href": {
@@ -5715,7 +5716,7 @@
 						{
 							"type": "list",
 							"items": [
-								"{@creature Rezmir|HotDQ} and {@creature Azbara Jos|HotDQ} do almost anything to avoid a battle with interfering adventurers. They have bigger concerns than the safety of Castle Naerytar and its occupants. If a battle develops, both of these characters head directly for the gate beneath the castle and teleport to {@creature Talis the White|HotDQ}'s hunting lodge (see {@adventure chapter 7|HotDQ|7}). For purposes of this adventure, do everything you can to ensure that {@creature Rezmir|HotDQ} and {@creature Azbara Jos|HotDQ|Jos} survive this chapter. It's not a catastrophe if they don't, but it's much better if they do.",
+								"{@creature Rezmir|HotDQ} and {@creature Azbara Jos|HotDQ} do almost anything to avoid a battle with interfering adventurers. They have bigger concerns than the safety of Castle Naerytar and its occupants. If a battle develops, both of these characters head directly for the gate beneath the castle and teleport to {@creature Talis the White|HotDQ}'s hunting lodge (see {@area chapter 7|196|x}). For purposes of this adventure, do everything you can to ensure that {@creature Rezmir|HotDQ} and {@creature Azbara Jos|HotDQ|Jos} survive this chapter. It's not a catastrophe if they don't, but it's much better if they do.",
 								"{@creature Dralmorrer Borngray|HotDQ} and {@creature Pharblex Spattergoo|HotDQ} have everything to lose if enemies of the cult overrun Castle Naerytar; a defeat would cost Borngray his hard-earned rank in the cult, and Spattergoo would lose the base from which he hopes to rule the mere after the cult is finished with the castle. They fight to the death to protect the castle (simultaneously buying time for {@creature Rezmir|HotDQ} and {@creature Azbara Jos|HotDQ|Jos} to escape). Despite their loathing for one another, they understand that they are much stronger together than apart. As soon as fighting breaks out, they join forces and cooperate.",
 								"The best place for Borngray and Pharblex to make their stand depends on how the attack develops; you'll need to play that part by ear. Their best ploy against a determined assault may be a fighting retreat through the castle and down into the caverns, where the narrow passages and giant frogs work in their favor.",
 								"The bullywugs are numerous but cowardly. They fight to protect Pharblex, but if he isn't immediately in sight\u2014if Pharblex has retreated into the caverns while other bullywugs are fighting in the inner ward, for example\u2014bullywugs who feel as if he has abandoned them are likely to leap away into the mere and never come back. If Pharblex is killed, most bullywugs desert immediately.",
@@ -6832,7 +6833,7 @@
 							"page": 67,
 							"id": "147",
 							"entries": [
-								"Originally, the passage between the outer and inner wards could be closed off with heavy wooden gates, but they have long since fallen apart and haven't been replaced. The inner ward is patrolled by three {@creature Guard Drake|HotDQ|guard drakes} (see {@adventure appendix D|HotDQ|12} for statistics) at all hours of the day. They attack anyone they don't recognize or who isn't accompanied by someone they recognize."
+								"Originally, the passage between the outer and inner wards could be closed off with heavy wooden gates, but they have long since fallen apart and haven't been replaced. The inner ward is patrolled by three {@creature Guard Drake|HotDQ|guard drakes} (see {@area appendix D|2a5|x} for statistics) at all hours of the day. They attack anyone they don't recognize or who isn't accompanied by someone they recognize."
 							]
 						},
 						{
@@ -6961,7 +6962,7 @@
 							"page": 69,
 							"id": "155",
 							"entries": [
-								"This was originally the castle priest's living quarters, and it included many sturdy storage cabinets for vestments and religious paraphernalia. All the cabinets were hacked open and looted long ago. Four {@creature Dragonclaw|HotDQ|dragonclaws} (see {@adventure appendix D|HotDQ|12}) moved into this chamber and turned it into their living quarters. They tend the library in {@area area 2N|16a|x}."
+								"This was originally the castle priest's living quarters, and it included many sturdy storage cabinets for vestments and religious paraphernalia. All the cabinets were hacked open and looted long ago. Four {@creature Dragonclaw|HotDQ|dragonclaws} (see {@area appendix D|2a5|x}) moved into this chamber and turned it into their living quarters. They tend the library in {@area area 2N|16a|x}."
 							]
 						},
 						{
@@ -6989,9 +6990,9 @@
 							"id": "158",
 							"entries": [
 								"The cultists eat their meals and conduct most of their business in this high, wide hall. The eastern end of the hall is used for dining and socializing. The western half is where contraband hauled in from the Carnath Roadhouse is inspected, sorted, and repacked before being carried to the portal beneath the southwest tower. The tables in that half of the hall are covered with valuables.",
-								"Looting won't be possible, however, as long as any cultists are alive. During the day, there will always be twelve {@creature Cultist||cultists} (of initiate rank) working in the Great Hall and four {@creature Dragonclaw|HotDQ|dragonclaws} (see {@adventure appendix D|HotDQ|12} for statistics) keeping an eye on them. Most of the cultists are human, but all the character races are represented. The precise mix doesn't matter.",
+								"Looting won't be possible, however, as long as any cultists are alive. During the day, there will always be twelve {@creature Cultist||cultists} (of initiate rank) working in the Great Hall and four {@creature Dragonclaw|HotDQ|dragonclaws} (see {@area appendix D|2a5|x} for statistics) keeping an eye on them. Most of the cultists are human, but all the character races are represented. The precise mix doesn't matter.",
 								"If there is any disturbance in the Great Hall, everyone within hearing responds to the hue and cry. Cultists in the southwest tower and guard drakes from the inner ward show up at the start of the third round, and any bullywugs or lizardfolk in the outer ward respond at the beginning of the fourth round.",
-								"At night, two {@creature Guard Drake|HotDQ|guard drakes} (see {@adventure appendix D|HotDQ|12} for statistics) sleep in the Great Hall while a third guard drake patrols the hall and the inner ward. Even asleep, the guard drakes are at normal alertness.",
+								"At night, two {@creature Guard Drake|HotDQ|guard drakes} (see {@area appendix D|2a5|x} for statistics) sleep in the Great Hall while a third guard drake patrols the hall and the inner ward. Even asleep, the guard drakes are at normal alertness.",
 								{
 									"type": "entries",
 									"name": "Treasure",
@@ -7048,7 +7049,7 @@
 							"page": 70,
 							"id": "15e",
 							"entries": [
-								"Normally, these rooms aren't used, but {@creature Azbara Jos|HotDQ} occupies them currently. They are reasonably warm and comfortable. {@creature Azbara Jos|HotDQ|Jos} will be here when he isn't consulting with {@creature Rezmir|HotDQ} in area 1U, {@area 2N|16a|x}, or {@area 3L|176|x}. {@creature Azbara Jos|HotDQ|Jos} keeps all of his real valuables with him. The only things he leaves in these chambers are his clothes and his traveling spellbook\u2014which contains all the spells he has prepared (see {@adventure appendix D|HotDQ|12}). The spellbook is locked inside a box of silver-inlaid redwood. The lock can be opened with a successful {@dc 15} Dexterity check, but if the roll is less than 20, the tampering sets off a magical ward with the same effect as a {@spell Melf's acid arrow} spell; the acid arrow launches at the character who opened the box and causes {@dice 4d6} acid damage immediately plus another {@dice 4d6} acid damage at the end of the character's next turn. The damage is halved if the character makes a successful {@dc 15} Dexterity saving throw. Opening the box with the key disarms the trap automatically; {@creature Azbara Jos|HotDQ|Jos} carries the key on a string around his neck."
+								"Normally, these rooms aren't used, but {@creature Azbara Jos|HotDQ} occupies them currently. They are reasonably warm and comfortable. {@creature Azbara Jos|HotDQ|Jos} will be here when he isn't consulting with {@creature Rezmir|HotDQ} in area 1U, {@area 2N|16a|x}, or {@area 3L|176|x}. {@creature Azbara Jos|HotDQ|Jos} keeps all of his real valuables with him. The only things he leaves in these chambers are his clothes and his traveling spellbook\u2014which contains all the spells he has prepared (see {@area appendix D|2a5|x}). The spellbook is locked inside a box of silver-inlaid redwood. The lock can be opened with a successful {@dc 15} Dexterity check, but if the roll is less than 20, the tampering sets off a magical ward with the same effect as a {@spell Melf's acid arrow} spell; the acid arrow launches at the character who opened the box and causes {@dice 4d6} acid damage immediately plus another {@dice 4d6} acid damage at the end of the character's next turn. The damage is halved if the character makes a successful {@dc 15} Dexterity saving throw. Opening the box with the key disarms the trap automatically; {@creature Azbara Jos|HotDQ|Jos} carries the key on a string around his neck."
 							]
 						}
 					]
@@ -7598,7 +7599,7 @@
 							"page": 71,
 							"id": "164",
 							"entries": [
-								"{@creature Pharblex Spattergoo|HotDQ} (see {@adventure appendix D|HotDQ|12} for statistics) and his personal retinue of ten {@creature Bullywug||bullywugs} use this level of the barracks as their living quarters. No one else has any business being in this chamber, including cultists. Not even Borngray or {@creature Rezmir|HotDQ} herself are welcome here. The bullywugs are always here at night but only two stand guard over the treasure chest during the day, when Pharblex spends most of his time in the giant frog hatchery beneath the castle. Those two guards trust no one, and one of them is equipped with a horn made of crocodile bone with which to sound the alarm if trouble develops.",
+								"{@creature Pharblex Spattergoo|HotDQ} (see {@area appendix D|2a5|x} for statistics) and his personal retinue of ten {@creature Bullywug||bullywugs} use this level of the barracks as their living quarters. No one else has any business being in this chamber, including cultists. Not even Borngray or {@creature Rezmir|HotDQ} herself are welcome here. The bullywugs are always here at night but only two stand guard over the treasure chest during the day, when Pharblex spends most of his time in the giant frog hatchery beneath the castle. Those two guards trust no one, and one of them is equipped with a horn made of crocodile bone with which to sound the alarm if trouble develops.",
 								"Like all areas occupied by bullywugs, this chamber is a mess. Reed pallets, dirty baskets, and animal bones litter the floor.",
 								{
 									"type": "entries",
@@ -7658,7 +7659,7 @@
 							"page": 72,
 							"id": "16a",
 							"entries": [
-								"Books and manuscripts line wooden shelves constructed from salvaged lumber. One {@creature dragonwing|HotDQ} (see {@adventure appendix D|HotDQ|12} for statistics) and four {@creature Cultist||cultists} (initiates) spend most of their time here, organizing the books.",
+								"Books and manuscripts line wooden shelves constructed from salvaged lumber. One {@creature dragonwing|HotDQ} (see {@area appendix D|2a5|x} for statistics) and four {@creature Cultist||cultists} (initiates) spend most of their time here, organizing the books.",
 								"Since treasure first started funneling through Naerytar, {@creature Dralmorrer Borngray|HotDQ} has pulled out any books, parchments, tablets, and other written material that interested him. He knows better than to claim them as his own; he will forward these treasures to Tiamat's hoard when the work at Castle Naerytar draws to a close. Until then, he keeps the written material at the castle to study and to divert him from the miserable surroundings. {@creature Rezmir|HotDQ} knows about the library and approves of using the books this way, as long as they are delivered to the Well of Dragons before Tiamat's arrival.",
 								"Borngray has assembled an impressive library. It contains over one hundred books, quartos, and manuscripts covering the history of the Sword Coast, natural philosophy, mathematics, astronomy, magic, and many theoretical works on alternate reality, time, and dimensional travel. This collection would be a priceless addition to any library or collector in Waterdeep if it could be removed from the castle before the cultists spirit it away or the bullywugs spoil it."
 							]
@@ -7687,7 +7688,7 @@
 							"page": 72,
 							"id": "16d",
 							"entries": [
-								"At night, seven {@creature Dragonwing|HotDQ|dragonwings} (see {@adventure appendix D|HotDQ|12}) sleep here. Otherwise, the chamber is empty of all but their reed mattresses and simple belongings in wooden trunks. A small stone hearth keeps the chamber warm."
+								"At night, seven {@creature Dragonwing|HotDQ|dragonwings} (see {@area appendix D|2a5|x}) sleep here. Otherwise, the chamber is empty of all but their reed mattresses and simple belongings in wooden trunks. A small stone hearth keeps the chamber warm."
 							]
 						},
 						{
@@ -8227,7 +8228,7 @@
 							"page": 74,
 							"id": "17d",
 							"entries": [
-								"Middle-ranking cultists have the entire top floor of the tower for their use. At night, six {@creature Dragonwing|HotDQ|dragonwings} (see {@adventure appendix D|HotDQ|12}) are present. Otherwise, the chamber is empty of all but their reed mattresses and belongings in wooden trunks. A small stone hearth provides meager warmth. The door to area 3S is always kept closed but not locked."
+								"Middle-ranking cultists have the entire top floor of the tower for their use. At night, six {@creature Dragonwing|HotDQ|dragonwings} (see {@area appendix D|2a5|x}) are present. Otherwise, the chamber is empty of all but their reed mattresses and belongings in wooden trunks. A small stone hearth provides meager warmth. The door to area 3S is always kept closed but not locked."
 							]
 						},
 						{
@@ -9313,7 +9314,7 @@
 							"entries": [
 								"Pharblex turned this area into a shrine to his distorted notions of religion. Niches in the walls are filled with carvings of frogs ranging from the size of a fist to the size of a pumpkin. Larger carvings sit on the floor. Crude renderings of frogs are scratched into the walls around the niches and colored with chalk.",
 								"Anyone with the Intelligence ({@skill Religion}) skill recognizes elements in these designs taken from the worship of both Ghaunadaur (god of slimes) and Shar (goddess of shadows), but none of these elements are used in a canonical manner. Pharblex used pieces that he saw in religious icons that arrived in treasure shipments, but he has no understanding of their real meaning. With a successful {@dc 18} Intelligence ({@skill Religion}) check, a character also sees indications that Ramenos is venerated here. Ramenos is an ancient entity now believed to be in a deep slumber. As far as the character is aware, Ramenos was a god of one of the ancient creator races\u2014if it was ever anything more than a legend. Judging from this chamber, whoever created this place has only the shallowest knowledge about these entities.",
-								"Unless a disturbance develops elsewhere in the caverns, the most likely place to find Pharblex is here, followed by areas 12 and 7 (in that order). Wherever he goes, {@creature Pharblex Spattergoo|HotDQ} (see {@adventure appendix D|HotDQ|12} for statistics) has ten {@creature bullywug} protecting him."
+								"Unless a disturbance develops elsewhere in the caverns, the most likely place to find Pharblex is here, followed by areas 12 and 7 (in that order). Wherever he goes, {@creature Pharblex Spattergoo|HotDQ} (see {@area appendix D|2a5|x} for statistics) has ten {@creature bullywug} protecting him."
 							]
 						},
 						{
@@ -9336,7 +9337,7 @@
 							"entries": [
 								"Mist from area 10 seeps into this room and keeps it filled to a depth of two to three feet. Aside from the mist, the chamber appears empty.",
 								"It is not empty, however. A permanent teleportation circle is carved into the floor, where it is obscured by the mist. Characters with a passive Wisdom ({@skill Perception}) score of 10 or higher spot the circle, while dispersing the mist (using a gust of wind spell, for example) reveals the circle to all.",
-								"To travel through the gate, a command word must be spoken aloud (a whisper will do). The command word (\"Draezir\") can be found on a paper on {@creature Rezmir|HotDQ}'s desk in {@area area 3L|176|x} or from {@creature Dralmorrer Borngray|HotDQ} if he faces defeat with no escape. When the command word is spoken, everyone and everything inside the gate's circumference is teleported to the corresponding gate in the hunting lodge of {@creature Talis the White|HotDQ} (see {@adventure chapter 7|HotDQ|7}). Castle Naerytar and the Graypeak Mountain lodge were constructed by the same reclusive wizard, and this was his means of transit between the two."
+								"To travel through the gate, a command word must be spoken aloud (a whisper will do). The command word (\"Draezir\") can be found on a paper on {@creature Rezmir|HotDQ}'s desk in {@area area 3L|176|x} or from {@creature Dralmorrer Borngray|HotDQ} if he faces defeat with no escape. When the command word is spoken, everyone and everything inside the gate's circumference is teleported to the corresponding gate in the hunting lodge of {@creature Talis the White|HotDQ} (see {@area chapter 7|196|x}). Castle Naerytar and the Graypeak Mountain lodge were constructed by the same reclusive wizard, and this was his means of transit between the two."
 							]
 						}
 					]
@@ -9377,7 +9378,7 @@
 					"page": 78,
 					"id": "197",
 					"entries": [
-						"The lodge is built in a comfortable but rustic style, and good tapestries and some hunting trophies festoon its rooms. The wooden floors are heavily scarred by claws. A successful {@dc 20} Intelligence ({@skill Nature}) check reveals that these are not the marks of normal hunting hounds, but rather ambush drakes (see {@adventure appendix D|HotDQ|12}).",
+						"The lodge is built in a comfortable but rustic style, and good tapestries and some hunting trophies festoon its rooms. The wooden floors are heavily scarred by claws. A successful {@dc 20} Intelligence ({@skill Nature}) check reveals that these are not the marks of normal hunting hounds, but rather ambush drakes (see {@area appendix D|2a5|x}).",
 						{
 							"type": "entries",
 							"id": "198",
@@ -9433,7 +9434,7 @@
 							"id": "19e",
 							"entries": [
 								"Because they are enemies, {@creature Rezmir|HotDQ} does not warn Talis that attackers might be coming through the portal on her heels, but instead slips off to Skyreach Castle (see {@area chapter 8|207|x}) with the intent of letting the adventurers destroy Talis. If the characters slew {@creature Rezmir|HotDQ}, the lodge's relative lack of watchfulness is not surprising.",
-								"If {@creature Rezmir|HotDQ} survived the earlier chapter, the half-dragon meets with {@creature Captain Othelstan|HotDQ} in Parnast to receive a full report on the status of the cult raids and to inform the captain of the possible arrival of adventurers. Tracking her successfully requires a {@dc 23} Wisdom ({@skill Survival}) check. If the adventurers ignore the lodge in favor of following {@creature Rezmir|HotDQ} to Parnast, skip to {@adventure chapter 8|HotDQ|8}."
+								"If {@creature Rezmir|HotDQ} survived the earlier chapter, the half-dragon meets with {@creature Captain Othelstan|HotDQ} in Parnast to receive a full report on the status of the cult raids and to inform the captain of the possible arrival of adventurers. Tracking her successfully requires a {@dc 23} Wisdom ({@skill Survival}) check. If the adventurers ignore the lodge in favor of following {@creature Rezmir|HotDQ} to Parnast, skip to {@area chapter 8|1f1|x}."
 							]
 						},
 						{
@@ -9497,7 +9498,7 @@
 							"page": 79,
 							"id": "1a5",
 							"entries": [
-								"If the party lingers outside the lodge or explores the woods nearby, it finds company. Those with a passive Wisdom ({@skill Perception}) score of 12 or higher are not {@status surprised} by the rush of a group of two {@creature Troll||trolls} and three {@creature Ambush Drake|HotDQ|ambush drakes} (see {@adventure appendix D|HotDQ|12} for Statistics) that has been wandering the area. The combat alerts Talis that she has company. The trolls serve as the lodge's bouncers, and anyone who is not expected is eaten."
+								"If the party lingers outside the lodge or explores the woods nearby, it finds company. Those with a passive Wisdom ({@skill Perception}) score of 12 or higher are not {@status surprised} by the rush of a group of two {@creature Troll||trolls} and three {@creature Ambush Drake|HotDQ|ambush drakes} (see {@area appendix D|2a5|x} for Statistics) that has been wandering the area. The combat alerts Talis that she has company. The trolls serve as the lodge's bouncers, and anyone who is not expected is eaten."
 							]
 						},
 						{
@@ -9559,7 +9560,7 @@
 									"height": 1000
 								},
 								"The {@creature Trepsin|HotDQ|four-armed troll}, {@creature Trepsin|HotDQ}, is asking for the cult's recognition signal. If the characters don't know it or just don't provide it, the troll attacks.",
-								"The kennel contains six {@creature Ambush Drake|HotDQ|ambush drakes} (see {@adventure appendix D|HotDQ|12} for statistics), which the cultists use to track and kill game and intruders. The drakes obey {@creature Trepsin|HotDQ} as the leader of their pack.",
+								"The kennel contains six {@creature Ambush Drake|HotDQ|ambush drakes} (see {@area appendix D|2a5|x} for statistics), which the cultists use to track and kill game and intruders. The drakes obey {@creature Trepsin|HotDQ} as the leader of their pack.",
 								"{@creature Trepsin|HotDQ} wears a mossy and filthy cape that he soaks in water from the well; this provides both good camouflage and partial protection against fire. The muddy cape allows him to ignore the first 10 points of fire damage from any attack or source.",
 								"If the characters investigate the interior of the kennels, they find a disturbing altar.",
 								{
@@ -10564,7 +10565,7 @@
 									]
 								},
 								"This encounter is the classic scene where the villain explains herself if the players are willing to pause.",
-								"{@creature Talis the White|HotDQ} (See {@adventure appendix D|HotDQ|12} for statistics). She stands behind her bodyguards and uses a {@item wand of winter|HotDQ} (see {@adventure appendix C|HotDQ|11}). Talis's bodyguards include two human {@creature Veteran||veterans} named Maelgot and Sorvic, and a {@creature dragonclaw|HotDQ} (see {@adventure appendix D|HotDQ|12}) named Kusphia. If Talis is slain, the veterans surrender, but Kusphia fights to the death to avenge her slain mistress.",
+								"{@creature Talis the White|HotDQ} (See {@area appendix D|2a5|x} for statistics). She stands behind her bodyguards and uses a {@item wand of winter|HotDQ} (see {@area appendix C|27f|x}). Talis's bodyguards include two human {@creature Veteran||veterans} named Maelgot and Sorvic, and a {@creature dragonclaw|HotDQ} (see {@area appendix D|2a5|x}) named Kusphia. If Talis is slain, the veterans surrender, but Kusphia fights to the death to avenge her slain mistress.",
 								"Talis expects to meet some co-conspirators at the lodge to discuss various matters of her own ascendancy in the ranks. If the characters can be turned to her advantage, she would much rather send them against her rival than fight them. At the same time, she knows she cannot be seen as disloyal to the cult's interests.",
 								{
 									"type": "entries",
@@ -11037,7 +11038,7 @@
 									]
 								},
 								"Cultists posing as villagers are unfriendly toward visitors, while villagers under the cult's sway remain silent and withdraw from visitors for fear of incurring the cult's wrath.",
-								"If the characters demand to speak with someone in charge, they are directed to {@creature Captain Othelstan|HotDQ} ({@adventure appendix D|HotDQ|12}) but are also warned that he has no time or patience for dealing with outlaws.",
+								"If the characters demand to speak with someone in charge, they are directed to {@creature Captain Othelstan|HotDQ} ({@area appendix D|2a5|x}) but are also warned that he has no time or patience for dealing with outlaws.",
 								{
 									"type": "inset",
 									"name": "The Helpful Wheelwright",
@@ -11111,7 +11112,7 @@
 									"page": 90,
 									"id": "1fa",
 									"entries": [
-										"The Golden Tankard takes its name from a magic item that Raggnar found years ago: a golden stein decorated with dancing dwarves and grain patterns. This is a {@item tankard of plenty|HotDQ} (see {@adventure Appendix C|HotDQ|11}). The command word is \"Illefarn\"."
+										"The Golden Tankard takes its name from a magic item that Raggnar found years ago: a golden stein decorated with dancing dwarves and grain patterns. This is a {@item tankard of plenty|HotDQ} (see {@area Appendix C|27f|x}). The command word is \"Illefarn\"."
 									]
 								}
 							]
@@ -11207,7 +11208,7 @@
 											"page": 91,
 											"id": "205",
 											"entries": [
-												"Any party that spends an hour or more in the village asking questions, getting a meal or rest, or otherwise not getting aboard the castle might miss the boat. The castle leaves one hour after the cultists realize the village has been infiltrated. After the castle is gone, the villagers drop all pretense of friendliness and send {@creature Captain Othelstan|HotDQ} (see {@adventure appendix D|HotDQ|12}), one {@creature veteran}, and six {@creature Guard||guards} to attempt to capture the intruders and either kill them as sacrifices or drive them out of the village. Othelstan can also call for reinforcements in the form of three {@creature Dragonclaw|HotDQ|dragonclaws}, one of whom takes the time to release the two {@creature Wyvern||wyverns} in the stables (see {@area area 3|1fb|x})."
+												"Any party that spends an hour or more in the village asking questions, getting a meal or rest, or otherwise not getting aboard the castle might miss the boat. The castle leaves one hour after the cultists realize the village has been infiltrated. After the castle is gone, the villagers drop all pretense of friendliness and send {@creature Captain Othelstan|HotDQ} (see {@area appendix D|2a5|x}), one {@creature veteran}, and six {@creature Guard||guards} to attempt to capture the intruders and either kill them as sacrifices or drive them out of the village. Othelstan can also call for reinforcements in the form of three {@creature Dragonclaw|HotDQ|dragonclaws}, one of whom takes the time to release the two {@creature Wyvern||wyverns} in the stables (see {@area area 3|1fb|x})."
 											]
 										},
 										{
@@ -12348,7 +12349,7 @@
 							"id": "223",
 							"entries": [
 								"The barracks smell of unwashed bedclothes, and the chamber contains fourteen fur-covered beds, as well as several chests of clothing, a table and chairs, and other simple furnishings.",
-								"At any given time, ten {@creature Dragonwing|HotDQ|dragonwings} (see {@adventure appendix D|HotDQ|12} for statistics) are resting here. Half of them are sound asleep, while the other half are awake but doing nothing overly strenuous. They do not roam the castle unless an alarm has sounded, they hear combat in the courtyard, or the ogres at the gate yell for reinforcements."
+								"At any given time, ten {@creature Dragonwing|HotDQ|dragonwings} (see {@area appendix D|2a5|x} for statistics) are resting here. Half of them are sound asleep, while the other half are awake but doing nothing overly strenuous. They do not roam the castle unless an alarm has sounded, they hear combat in the courtyard, or the ogres at the gate yell for reinforcements."
 							]
 						},
 						{
@@ -12422,7 +12423,7 @@
 									"width": 959,
 									"height": 1000
 								},
-								"Unless she is lured elsewhere by a general alarm, {@creature Rezmir|HotDQ} (see {@adventure appendix D|HotDQ|12}) is here along with two loyal {@creature Guard Drake|HotDQ|guard drakes} ({@adventure appendix D|HotDQ|12}).",
+								"Unless she is lured elsewhere by a general alarm, {@creature Rezmir|HotDQ} (see {@area appendix D|2a5|x}) is here along with two loyal {@creature Guard Drake|HotDQ|guard drakes} ({@area appendix D|2a5|x}).",
 								"The large rug inside of the door is actually a {@creature rug of smothering}. The rug patiently waits for a creature to walk onto it before attacking. If they are present, {@creature Rezmir|HotDQ} and her drakes wait for the rug to attack an enemy coming through the door before springing into action.",
 								"If {@creature Rezmir|HotDQ} is killed, the contents of the iron chest on her desk teleport away, leaving the chest empty.",
 								{
@@ -12433,7 +12434,7 @@
 									"entries": [
 										"{@creature Rezmir|HotDQ} carries keys to this room, the lock on the chest, and to the storeroom ({@area area 13|232|x}). In addition, the chest here is locked and magically attuned to {@creature Rezmir|HotDQ} so that if she dies, its contents are teleported to the Well of Dragons and out of her slayers' hands.",
 										"The chest's padlock can be picked using {@item thieves' tools|PHB} with a successful {@dc 20} Dexterity check. However, the lock is rigged with a poison needle trap that triggers if the check fails by 5 or more. The needle can be found with a successful {@dc 20} Intelligence ({@skill Investigation}) check and can be disarmed with a successful {@dc 15} Dexterity check. A creature triggering the needle trap or failing the Dexterity check by 5 or more is injected with {@item Wyvern Poison} and must make a {@dc 13} Constitution saving throw, taking 24 ({@dice 7d6}) poison damage on a failed save, or half as much damage on a successful one.",
-										"The chest contains the {@item Black Dragon Mask|HotDQ} (see {@adventure appendix C|HotDQ|11}) as well as {@creature Rezmir|HotDQ}'s private collection of gems, jewelry, and coins. The gems and jewelry includes a set of matched peridot stones on a gold chain (400 gp), a silver torc with dragon's heads (200 gp), six {@item Moonstone||moonstones} of 50 gp each, and a set of 20 loose pearls, worth a total of 3,000 gp. There's also 600 sp, 200 gp, and 50 pp."
+										"The chest contains the {@item Black Dragon Mask|HotDQ} (see {@area appendix C|27f|x}) as well as {@creature Rezmir|HotDQ}'s private collection of gems, jewelry, and coins. The gems and jewelry includes a set of matched peridot stones on a gold chain (400 gp), a silver torc with dragon's heads (200 gp), six {@item Moonstone||moonstones} of 50 gp each, and a set of 20 loose pearls, worth a total of 3,000 gp. There's also 600 sp, 200 gp, and 50 pp."
 									]
 								},
 								{
@@ -12471,7 +12472,7 @@
 									"width": 1161,
 									"height": 1500
 								},
-								"{@creature Rath Modar|HotDQ} (see {@adventure appendix D|HotDQ|12} for statistics), a Red Wizard of Thay allied with the Cult of the Dragon, resides here. Unless he was killed or captured previously, {@creature Azbara Jos|HotDQ} (see {@adventure appendix D|HotDQ|12} for statistics) is also present. If both Red Wizards are present, they are in the midst of a scholarly argument when the characters arrive, but they clam up as soon as others appear. If {@creature Rath Modar|HotDQ} is alone, he is standing at a lectern, reading a book (see \"Treasure\").",
+								"{@creature Rath Modar|HotDQ} (see {@area appendix D|2a5|x} for statistics), a Red Wizard of Thay allied with the Cult of the Dragon, resides here. Unless he was killed or captured previously, {@creature Azbara Jos|HotDQ} (see {@area appendix D|2a5|x} for statistics) is also present. If both Red Wizards are present, they are in the midst of a scholarly argument when the characters arrive, but they clam up as soon as others appear. If {@creature Rath Modar|HotDQ} is alone, he is standing at a lectern, reading a book (see \"Treasure\").",
 								"If Azbara is absent, {@creature Rath Modar|HotDQ} might mistake the characters for cultists. If the characters play along and attempt to gather information from the Red Wizard, roleplay it out. Rath is no fool, and he is an expert at seeing through illusions and deceptions. He also has a healthy suspicion of strangers, especially if the characters are wounded or inappropriately equipped.",
 								"{@creature Rath Modar|HotDQ} is here to help watch over the vast treasure being transported to the Well of Dragons and also to plan for the summoning of Tiamat; the necessary incantations are complex and require hundreds of skilled spellcasters. He knows that the cult's ultimate goal is to free Tiamat and raise her temple from the Nine Hells, and Rath's ultimate goal is to use Tiamat and her dragons to overthrow Szass Tam.",
 								"The horse skulls on the ceiling are ghastly ornaments and nothing more.",
@@ -12841,7 +12842,7 @@
 									"id": "256",
 									"entries": [
 										"Although anyone can trigger command runes, the spirit of the cloud giant Esclarotta actually controls the castle and can \"lock out\" individuals who misuse the command runes, effectively rendering them unable to trigger the runes.",
-										"Any character succeeding on a {@dc 15} Intelligence ({@skill Arcana}) check senses an intelligence at work, and one can attempt to communicate with Esclarotta's spirit simply by calling out to it while inside the tower. She is a kind soul, disturbed by the cultists, dragon, wyverns, and kobolds infesting her beautiful castle, and she longs for information about what her husband is up to. Requests made to her succeed with a {@dc 14} Charisma ({@skill Persuasion}). The person has advantage on the check if he or she speaks Giant. If anyone tries to wreck the steering chamber, Esclarotta triggers the alarm rune. {@creature Blagothkus|HotDQ} (see {@adventure appendix D|HotDQ|12}) arrives 3 rounds later with two {@creature Ogre||ogres} (his stewards) in tow.",
+										"Any character succeeding on a {@dc 15} Intelligence ({@skill Arcana}) check senses an intelligence at work, and one can attempt to communicate with Esclarotta's spirit simply by calling out to it while inside the tower. She is a kind soul, disturbed by the cultists, dragon, wyverns, and kobolds infesting her beautiful castle, and she longs for information about what her husband is up to. Requests made to her succeed with a {@dc 14} Charisma ({@skill Persuasion}). The person has advantage on the check if he or she speaks Giant. If anyone tries to wreck the steering chamber, Esclarotta triggers the alarm rune. {@creature Blagothkus|HotDQ} (see {@area appendix D|2a5|x}) arrives 3 rounds later with two {@creature Ogre||ogres} (his stewards) in tow.",
 										"If {@creature Blagothkus|HotDQ} dies aboard the castle, his spirit replaces Esclarotta's, and he crashes the castle to keep it from falling into enemy hands (see \"Developments\")."
 									]
 								},
@@ -12992,7 +12993,7 @@
 												"A blue-skinned giant sits on the floor with his legs crossed while two ogres comb his snowy white hair. The giant's hulking morningstar leans against the bed within arm's reach."
 											]
 										},
-										"{@creature Blagothkus|HotDQ} ({@adventure appendix D|HotDQ|12}) and the two {@creature Ogre||ogres} (his stewards) aren't the only inhabitants of this room. As a bonus action on his turn, {@creature Blagothkus|HotDQ} can summon an {@creature air elemental} that's been magically bound to the room. The elemental follows the giant's commands but cannot leave the room. It remains until dismissed by its master.",
+										"{@creature Blagothkus|HotDQ} ({@area appendix D|2a5|x}) and the two {@creature Ogre||ogres} (his stewards) aren't the only inhabitants of this room. As a bonus action on his turn, {@creature Blagothkus|HotDQ} can summon an {@creature air elemental} that's been magically bound to the room. The elemental follows the giant's commands but cannot leave the room. It remains until dismissed by its master.",
 										{
 											"type": "image",
 											"href": {
@@ -14051,7 +14052,8 @@
 							"source": "RoT",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "28e"
 				},
 				{
 					"type": "statblock",
@@ -14124,7 +14126,8 @@
 							"source": "RoT",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "28f"
 				},
 				{
 					"type": "statblock",

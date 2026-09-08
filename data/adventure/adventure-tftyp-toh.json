@@ -117,8 +117,8 @@
 									],
 									"id": "00b"
 								},
-								"The {@book Monster Manual|mm} contains stat blocks for most of the monsters and NPCs found in this book. When a monster's name appears in {@b bold} type, that's a visual cue pointing you to the creature's stat block in the Monster Manual. Descriptions and stat blocks for new monsters appear in {@adventure appendix B|TftYP-ToH|3}. If a stat block is in that appendix, an adventure's text tells you so.",
-								"Spells and nonmagical objects or equipment mentioned in the book are described in the {@book Player's Handbook|phb}. Magic items are described in the {@book Dungeon Master's Guide|dmg}, unless the adventure's text directs you to an item's description in {@adventure appendix A|TftYP-ToH|2}."
+								"The {@book Monster Manual|mm} contains stat blocks for most of the monsters and NPCs found in this book. When a monster's name appears in {@b bold} type, that's a visual cue pointing you to the creature's stat block in the Monster Manual. Descriptions and stat blocks for new monsters appear in {@area appendix B|0b4|x}. If a stat block is in that appendix, an adventure's text tells you so.",
+								"Spells and nonmagical objects or equipment mentioned in the book are described in the {@book Player's Handbook|phb}. Magic items are described in the {@book Dungeon Master's Guide|dmg}, unless the adventure's text directs you to an item's description in {@area appendix A|0b3|x}."
 							],
 							"id": "00a"
 						},
@@ -625,20 +625,20 @@
 					"name": "Running the Adventure",
 					"page": 211,
 					"entries": [
-						"As clever players will gather from the information in the \"{@adventure Legend of the Tomb|TftYP-ToH|1|Legend of the Tomb},\" this dungeon has more tricks and traps than it has monsters to fight. This is a thinking person's adventure, and if your group is a hack-and-slay gathering, they will be unhappy! Only high-level characters stand a chance of surviving, but every player who braves the tomb will have the experience of a lifetime.",
+						"As clever players will gather from the information in the \"{@area Legend of the Tomb|01b|x},\" this dungeon has more tricks and traps than it has monsters to fight. This is a thinking person's adventure, and if your group is a hack-and-slay gathering, they will be unhappy! Only high-level characters stand a chance of surviving, but every player who braves the tomb will have the experience of a lifetime.",
 						"Negotiation of the tomb will require quite a long time, so be prepared to spend several sessions with this material. When the game ends for the day, assume the expedition is spending the intervening time resting and recovering until play again commences. Since there are no monsters to be randomly encountered within the tomb, the party might be able to encamp close to the entrance without fear of being disturbed, but if you do so opt, do not inform the players of this.",
 						"As characters enter the various areas, read aloud appropriate sections of text, but never give any additional information that player characters would have no way of knowing, and avoid facial expressions or voice tones that might either give helpful hints or mislead players. The real enjoyment of this adventure is in managing to cope, and those players who do so with even moderate success will appreciate your refereeing properly and allowing them to \"live or die\" on their own.",
-						"The starting information given here simply assumes that the expedition has arrived at the site of the Tomb of Horrors. After relating the salient features of the \"{@adventure Legend of the Tomb|TftYP-ToH|1|Legend of the Tomb},\" you may fill in whatever other background is needed to get the characters to the site.",
+						"The starting information given here simply assumes that the expedition has arrived at the site of the Tomb of Horrors. After relating the salient features of the \"{@area Legend of the Tomb|01b|x},\" you may fill in whatever other background is needed to get the characters to the site.",
 						{
 							"type": "entries",
 							"name": "Adventure Start",
 							"page": 212,
 							"entries": [
 								"The characters have arrived at the site of the demilich's last haunt. Before them is a low, flat topped hill, about 200 yards wide, 300 yards long, and 60 feet high. Only ugly weeds, thorns, and briars grow upon the steep sides and bald top of the mound. There are black rocks upon the top of the hill, and if these are viewed from a height of about 200 feet or so above the mound, it will be seen that the whole is shaped like a human skull, with piles of rock appearing as eyeholes, a nose hole, and the jagged teeth of a grinning death's head.",
-								"A thorough inspection and search of the entire area reveals only that the north side of the hill has a crumbling cliff of sand and gravel about 20 feet high in the middle of the whole. (This cliff face is represented by the northern edge of {@adventure map 7.1|TftYP-ToH|1|Map 7.1: Tomb of Horrors}.) A low stone ledge overhangs this eroded area, and shrubs and bushes obscure it from observation at a distance.",
+								"A thorough inspection and search of the entire area reveals only that the north side of the hill has a crumbling cliff of sand and gravel about 20 feet high in the middle of the whole. (This cliff face is represented by the northern edge of {@area map 7.1|0d3|x}.) A low stone ledge overhangs this eroded area, and shrubs and bushes obscure it from observation at a distance.",
 								"It takes 10 minutes for characters to search each 10-foot-wide space along the cliff face. This examination must be done from a distance, using a long spear or a 10-foot pole to poke into the sand and gravel, looking for an opening. Any prodding into the cliff face must be sufficiently high off the ground in order to collapse enough material to expose a portion of a tunnel entrance. Once an entrance is exposed, it takes about 1 hour for characters to thoroughly clear the passage that lies beyond, but a crawl space can be opened in 10 minutes.",
 								"Probing of the gravel and sand face can begin wherever the characters choose\u2014east side, west side, middle, several locations at once or merely a single one at a time. Leave this strictly to the players to decide. The best manner to handle it is to ask where they will search, once they have determined that they will investigate the area and they have stated how it will be done and with what. Remember that probing low to the ground, or probing with short implements (daggers, swords, and the like) will not reveal anything.",
-								"As soon as any entrance is cleared and entered, go to the appropriate location on {@adventure map 7.1|TftYP-ToH|1|Map 7.1: Tomb of Horrors}: either {@adventure area 1|TftYP-ToH|1|1. False Entrance Tunnel}, {@adventure area 2|TftYP-ToH|1|2. False Entrance Tunnel}, or {@adventure area 3|TftYP-ToH|1|3. Entrance to the Tomb of Horrors}.",
+								"As soon as any entrance is cleared and entered, go to the appropriate location on {@area map 7.1|0d3|x}: either {@area area 1|026|x}, {@area area 2|02a|x}, or {@area area 3|02e|x}.",
 								{
 									"type": "inset",
 									"name": "Demonic Attention",
@@ -2083,7 +2083,7 @@
 									],
 									"id": "02f"
 								},
-								"This corridor contains five covered pits (see the {@adventure sidebar|TftYP-ToH|1|Covered Pits}). On the west wall adjacent to the northernmost pit is where the torture chamber is painted. The wall hiding the passage to the west shows a depiction of an iron door that evidently confines some sort of horrid creature (its taloned and scaled hands grasp the bars of its small window). If the plaster and lath beneath this image is broken away, a normal, inward-opening door will be revealed. If the plaster remains intact, the door can be discovered only by magical means.",
+								"This corridor contains five covered pits (see the {@area sidebar|038|x}). On the west wall adjacent to the northernmost pit is where the torture chamber is painted. The wall hiding the passage to the west shows a depiction of an iron door that evidently confines some sort of horrid creature (its taloned and scaled hands grasp the bars of its small window). If the plaster and lath beneath this image is broken away, a normal, inward-opening door will be revealed. If the plaster remains intact, the door can be discovered only by magical means.",
 								{
 									"type": "entries",
 									"entries": [
@@ -2092,7 +2092,7 @@
 											"name": "Message from Acererak",
 											"page": 215,
 											"entries": [
-												"If the path of red tiles on the floor is carefully observed and studied all the way from the entrance to where the path forks toward {@adventure areas 5|TftYP-ToH|1|5. The Arch of Mist} and {@adventure 6|TftYP-ToH|1|6. The Face of the Great Green Devil}, the individual with such perseverance will be rewarded by suddenly understanding that a message is contained in barely noticeable runes in the mosaic floor.",
+												"If the path of red tiles on the floor is carefully observed and studied all the way from the entrance to where the path forks toward {@area areas 5|039|x} and {@area 6|03b|x}, the individual with such perseverance will be rewarded by suddenly understanding that a message is contained in barely noticeable runes in the mosaic floor.",
 												"The message reads:",
 												{
 													"type": "inset",
@@ -2184,7 +2184,7 @@
 									"id": "03a"
 								},
 								"Nothing will cause the vapors to clear, nor will any sort of magic allow sight into the area, until the glowing stones are pressed in the proper sequence: yellow, blue, orange. If this is done, the vapors disappear, and the path appears to go eastward.",
-								"If the archway is entered when it is clouded, those characters doing so will be instantly teleported to {@adventure area 7|TftYP-ToH|1|7. The Forsaken Prison}. If it is passed through after pressing the glowing stones in proper sequence, those who step through while following the path will be teleported to {@adventure area 11|TftYP-ToH|1|11. The Three-Armed Statue}, and those who pass through off the path will be sent back to {@adventure area 3|TftYP-ToH|1|3. Entrance to the Tomb of Horrors}."
+								"If the archway is entered when it is clouded, those characters doing so will be instantly teleported to {@area area 7|040|x}. If it is passed through after pressing the glowing stones in proper sequence, those who step through while following the path will be teleported to {@area area 11|054|x}, and those who pass through off the path will be sent back to {@area area 3|02e|x}."
 							],
 							"id": "039"
 						},
@@ -2359,7 +2359,7 @@
 							"name": "10. Great Hall of Spheres",
 							"page": 216,
 							"entries": [
-								"This area is similar to {@adventure area 3|TftYP-ToH|1|3. Entrance to the Tomb of Horrors}, for the floor is of inlaid tiles and the walls and ceiling are painted with figures of animals, strange signs and glyphs (which mean absolutely nothing), and humans and human-like creatures posing with spheres of different colors. These globes are two-dimensional, of course, and their significance and pattern are described below. From north to south, with the west wall being the left-hand column, and the east the right-hand, the spheres are colored and positioned as follows:",
+								"This area is similar to {@area area 3|02e|x}, for the floor is of inlaid tiles and the walls and ceiling are painted with figures of animals, strange signs and glyphs (which mean absolutely nothing), and humans and human-like creatures posing with spheres of different colors. These globes are two-dimensional, of course, and their significance and pattern are described below. From north to south, with the west wall being the left-hand column, and the east the right-hand, the spheres are colored and positioned as follows:",
 								{
 									"type": "table",
 									"colLabels": [
@@ -2425,10 +2425,10 @@
 										]
 									]
 								},
-								"1 An illusion covering a crawlway to {@adventure area 11|TftYP-ToH|1|11. The Three-Armed Statue}",
+								"1 An illusion covering a crawlway to {@area area 11|054|x}",
 								"2 This door can be opened by a {@spell knock} spell or destroyed with {@spell disintegrate}",
-								"3 An illusion covering a crawlway to {@adventure area 14|TftYP-ToH|1|14. Chapel of Evil}",
-								"4 An illusion covering a crawlway to {@adventure area 13|TftYP-ToH|1|13. Chamber of Three Chests}",
+								"3 An illusion covering a crawlway to {@area area 14|05e|x}",
+								"4 An illusion covering a crawlway to {@area area 13|059|x}",
 								"The false doors and secret doors can be found with successful {@dc 20} Wisdom ({@skill Perception}) checks. If anyone makes physical contact with an illusion in this area, its nature becomes apparent. Also, a character who examines an illusory image without touching it can make a {@dc 20} Intelligence ({@skill Investigation}) check. On a successful check, the illusion becomes faint to the character, who can then easily see the crawlway beyond the illusion.",
 								{
 									"type": "entries",
@@ -2438,7 +2438,7 @@
 											"name": "Magic Archway",
 											"page": 217,
 											"entries": [
-												"On the south wall is a stone archway similar in appearance to {@adventure area 5|TftYP-ToH|1|5. The Arch of Mist}, also filled with cloudy vapors that block vision or detection of what lies beyond. When a character moves to within 3 feet of the arch, read:",
+												"On the south wall is a stone archway similar in appearance to {@area area 5|039|x}, also filled with cloudy vapors that block vision or detection of what lies beyond. When a character moves to within 3 feet of the arch, read:",
 												{
 													"type": "insetReadaloud",
 													"entries": [
@@ -2446,7 +2446,7 @@
 													],
 													"id": "053"
 												},
-												"No matter how the stones are manipulated, the archway remains clouded and veiled with a haze which nothing can enable the onlookers to see through. All living matter which goes through the arch will be teleported to {@adventure area 3|TftYP-ToH|1|3. Entrance to the Tomb of Horrors}, while nonliving matter is teleported simultaneously to {@adventure area 33|TftYP-ToH|1|33. The Crypt of Acererak the Demilich}\u2014meaning that characters stepping through will appear at the start totally nude, while everything else with them will go to the {@adventure crypt of the demilich|TftYP-ToH|1|33. The Crypt of Acererak the Demilich}. (Cruel, but most entertaining for the DM.)"
+												"No matter how the stones are manipulated, the archway remains clouded and veiled with a haze which nothing can enable the onlookers to see through. All living matter which goes through the arch will be teleported to {@area area 3|02e|x}, while nonliving matter is teleported simultaneously to {@area area 33|0cb|x}\u2014meaning that characters stepping through will appear at the start totally nude, while everything else with them will go to the {@area crypt of the demilich|0cb|x}. (Cruel, but most entertaining for the DM.)"
 											],
 											"id": "052"
 										}
@@ -2541,7 +2541,7 @@
 											"name": "Oak",
 											"page": 218,
 											"entries": [
-												"When the lid of the oak chest is opened, an animated {@creature giant skeleton|TftYP} (see {@adventure appendix B|TftYP-ToH|3}) will be instantly teleported into the room, and it strikes with surprise."
+												"When the lid of the oak chest is opened, an animated {@creature giant skeleton|TftYP} (see {@area appendix B|0b4|x}) will be instantly teleported into the room, and it strikes with surprise."
 											],
 											"id": "05d"
 										}
@@ -2626,7 +2626,7 @@
 											"name": "Archway",
 											"page": 219,
 											"entries": [
-												"Just as in other locations around the tomb, the mists that obscure the archway can't be penetrated with any sort of vision or magic. (If a character moves close to the archway and asks about it, explain that none of the stones of the arch glow.) The skeleton, of course, misleads the party, for any character passing through the portal will enter a 10-foot-by-10-foot room where their sex and alignment are reversed by a powerful magic. Exiting the room and reentering the archway will restore original alignment, but also deals 3 ({@dice 1d6}) psychic damage. Going back a third time will reverse sex again, but the individual will be teleported in the manner of the archway in {@adventure area 10|TftYP-ToH|1|10. Great Hall of Spheres}. Only a {@spell wish} spell will restore both alignment and sex. If alignment is restored by entering the orange portal, a {@spell remove curse} or {@spell greater restoration} spell will then restore original sex."
+												"Just as in other locations around the tomb, the mists that obscure the archway can't be penetrated with any sort of vision or magic. (If a character moves close to the archway and asks about it, explain that none of the stones of the arch glow.) The skeleton, of course, misleads the party, for any character passing through the portal will enter a 10-foot-by-10-foot room where their sex and alignment are reversed by a powerful magic. Exiting the room and reentering the archway will restore original alignment, but also deals 3 ({@dice 1d6}) psychic damage. Going back a third time will reverse sex again, but the individual will be teleported in the manner of the archway in {@area area 10|050|x}. Only a {@spell wish} spell will restore both alignment and sex. If alignment is restored by entering the orange portal, a {@spell remove curse} or {@spell greater restoration} spell will then restore original sex."
 											],
 											"id": "067"
 										},
@@ -2799,7 +2799,7 @@
 											"name": "Creature",
 											"page": 220,
 											"entries": [
-												"The false crypt is the home of a false lich that is actually a magically prepared {@creature greater zombie|TftYP} (see {@adventure appendix B|TftYP-ToH|3}). Between strikes the creature will gesture with its hands as if readying a spell. If it is struck by the golden mace it will make a roaring bellow (produced by a {@spell magic mouth} spell), and the weapon will obviously stagger it (roll dice and shake your head ruefully) every time the mace is used. The third time it is struck by the glowing mace, the false lich will instantly wither and disappear in a puff of dust, and the mace will shatter.",
+												"The false crypt is the home of a false lich that is actually a magically prepared {@creature greater zombie|TftYP} (see {@area appendix B|0b4|x}). Between strikes the creature will gesture with its hands as if readying a spell. If it is struck by the golden mace it will make a roaring bellow (produced by a {@spell magic mouth} spell), and the weapon will obviously stagger it (roll dice and shake your head ruefully) every time the mace is used. The third time it is struck by the glowing mace, the false lich will instantly wither and disappear in a puff of dust, and the mace will shatter.",
 												"If the characters investigate the room's contents, they can see a jade coffer, the dead monster's fallen crown, and a fine leather bag (its condition is a give-away\u2014it isn't rotten) all within easy reach. The furnishings and decorations are of no value."
 											],
 											"id": "07b"
@@ -2828,7 +2828,7 @@
 											"name": "False Ending",
 											"page": 221,
 											"entries": [
-												"If this outcome doesn't make the players suspicious enough to take another run through to check things out, put the adventure away for use when you have a different group (or the same ones) inquiring about one of the references in the \"{@adventure Legend of the Tomb|TftYP-ToH|1|Legend of the Tomb}.\" Note that something so simple as a {@spell commune} spell will reveal that the demilich has not been destroyed."
+												"If this outcome doesn't make the players suspicious enough to take another run through to check things out, put the adventure away for use when you have a different group (or the same ones) inquiring about one of the references in the \"{@area Legend of the Tomb|01b|x}.\" Note that something so simple as a {@spell commune} spell will reveal that the demilich has not been destroyed."
 											],
 											"id": "07e"
 										}
@@ -2989,7 +2989,7 @@
 											"name": "Creature",
 											"page": 222,
 											"entries": [
-												"At the center of the cavern is a small grotto in which dwells the fey being {@creature Siren|TftYP} (see {@adventure appendix B|TftYP-ToH|3}). As a private joke, Acererak placed her in this cavern under an enchantment. She must be asked to come out of the chamber in order to break the spell, and she can give no clues as to the nature of her durance. If the characters come close enough, they can see that two sacks, a large one and a small one, are lying on the floor next to her.",
+												"At the center of the cavern is a small grotto in which dwells the fey being {@creature Siren|TftYP} (see {@area appendix B|0b4|x}). As a private joke, Acererak placed her in this cavern under an enchantment. She must be asked to come out of the chamber in order to break the spell, and she can give no clues as to the nature of her durance. If the characters come close enough, they can see that two sacks, a large one and a small one, are lying on the floor next to her.",
 												"{@creature Siren|TftYP} will converse in a friendly fashion, asking how characters are and if they find the going hard in the tomb. Because of the enchantment, she will answer any direct questions with an evasive reply: \"I cannot say,\" \"That is unknown to me,\" \"Possibly,\" and so forth unless she is freed. She knows nothing of the tomb in any event.",
 												"If the characters ask her to come with them and are kind, she will do so and stay with them through the rest of the adventure."
 											],
@@ -3068,7 +3068,7 @@
 											"name": "Secret Trapdoor",
 											"page": 222,
 											"entries": [
-												"On the other side of the secret door is a secret trapdoor in the floor of the corridor, requiring a successful {@dc 20} Wisdom ({@skill Perception}) check to find. The trapdoor opens onto a steep flight of narrow stairs that spiral down to a 5-foot-wide tunnel which emerges at {@adventure area 24|TftYP-ToH|1|24. Adamantine Door}."
+												"On the other side of the secret door is a secret trapdoor in the floor of the corridor, requiring a successful {@dc 20} Wisdom ({@skill Perception}) check to find. The trapdoor opens onto a steep flight of narrow stairs that spiral down to a 5-foot-wide tunnel which emerges at {@area area 24|098|x}."
 											],
 											"id": "094"
 										}
@@ -3151,7 +3151,7 @@
 											"page": 223,
 											"entries": [
 												"Any character who touches a pillar with or without intent will uncontrollably float upward (as if affected by a {@spell levitate} spell), then bounce gently around on the ceiling, 30 feet above, just as a helium balloon. To stop this effect, a {@spell dispel magic} or {@spell remove curse} spell must be placed upon each such individual.",
-												"There seems to be a gentle breeze in the room, for any character floating among the many-hued columns will begin drifting toward the northwest or northeast corner of the room. From the entry an observant character with a suitable light source will be able to observe part of the dais on the south wall and the door at {@adventure area 27|TftYP-ToH|1|27. The Portal of Scintillating Violet}."
+												"There seems to be a gentle breeze in the room, for any character floating among the many-hued columns will begin drifting toward the northwest or northeast corner of the room. From the entry an observant character with a suitable light source will be able to observe part of the dais on the south wall and the door at {@area area 27|0ac|x}."
 											],
 											"id": "09d"
 										},
@@ -3160,7 +3160,7 @@
 											"name": "Northwest Devil Face",
 											"page": 223,
 											"entries": [
-												"About 24 feet above the floor in the northwest corner, on the north wall, is a mosaic relief sculpture of a green devil's face which appears to be exactly the same as that first encountered in the entrance hall to the tomb ({@adventure area 3|TftYP-ToH|1|3. Entrance to the Tomb of Horrors}). Any creature that comes within 3 feet of its gaping mouth will be sucked in and instantly teleported, to be \"spat out\" nude at {@adventure area 6|TftYP-ToH|1|6. The Face of the Great Green Devil}, while all non-living matter in the character's possession goes to {@adventure area 33|TftYP-ToH|1|33. The Crypt of Acererak the Demilich}."
+												"About 24 feet above the floor in the northwest corner, on the north wall, is a mosaic relief sculpture of a green devil's face which appears to be exactly the same as that first encountered in the entrance hall to the tomb ({@area area 3|02e|x}). Any creature that comes within 3 feet of its gaping mouth will be sucked in and instantly teleported, to be \"spat out\" nude at {@area area 6|03b|x}, while all non-living matter in the character's possession goes to {@area area 33|0cb|x}."
 											],
 											"id": "09e"
 										},
@@ -3169,7 +3169,7 @@
 											"name": "Northeast Devil Face",
 											"page": 223,
 											"entries": [
-												"The sculpture in the northeast corner is identical in size and placement to the one in the other corner, but it is tinged with a bluish color over the green. Any character that enters the mouth opening of this devil face is teleported to {@adventure area 27A|TftYP-ToH|1|27A. Chamber of Hopelessness}."
+												"The sculpture in the northeast corner is identical in size and placement to the one in the other corner, but it is tinged with a bluish color over the green. Any character that enters the mouth opening of this devil face is teleported to {@area area 27A|0b0|x}."
 											],
 											"id": "09f"
 										},
@@ -3325,7 +3325,7 @@
 							"name": "27A. Chamber of Hopelessness",
 							"page": 224,
 							"entries": [
-								"Any creature unfortunate enough to be teleported here from {@adventure area 25|TftYP-ToH|1|25. Pillared Throne Room} is doomed, for its fate is clearly stated in glowing letters magically written on the north wall of the place. If someone arrives here, read:",
+								"Any creature unfortunate enough to be teleported here from {@area area 25|099|x} is doomed, for its fate is clearly stated in glowing letters magically written on the north wall of the place. If someone arrives here, read:",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -3360,7 +3360,7 @@
 											"name": "Swords and Shields",
 											"page": 225,
 											"entries": [
-												"If the door to the south is opened from this side, all the swords and shields in {@adventure area 27|TftYP-ToH|1|27. The Portal of Scintillating Violet} swoop from the walls to attack, but they cease as soon as the door opener retreats into the chamber to the north."
+												"If the door to the south is opened from this side, all the swords and shields in {@area area 27|0ac|x} swoop from the walls to attack, but they cease as soon as the door opener retreats into the chamber to the north."
 											],
 											"id": "0b7"
 										}
@@ -3401,7 +3401,7 @@
 											"name": "Keyhole",
 											"page": 225,
 											"entries": [
-												"Where these valves meet, at about waist height, is a cup-like depression, a hemispherical concavity with a central hole. The hole appears to fit the Second Key, but if it is inserted, the character so doing will take 5 ({@dice 1d10}) lightning damage. Anyone so foolish as to insert the First Key (from {@adventure area 19|TftYP-ToH|1|19. Laboratory and Mummy Preparation Room}) will take double that amount of damage."
+												"Where these valves meet, at about waist height, is a cup-like depression, a hemispherical concavity with a central hole. The hole appears to fit the Second Key, but if it is inserted, the character so doing will take 5 ({@dice 1d10}) lightning damage. Anyone so foolish as to insert the First Key (from {@area area 19|07f|x}) will take double that amount of damage."
 											],
 											"id": "0bc"
 										},
@@ -3410,7 +3410,7 @@
 											"name": "True Key",
 											"page": 225,
 											"entries": [
-												"The real key to these great gates is the scepter from {@adventure area 25|TftYP-ToH|1|25. Pillared Throne Room}. If the gold knob is inserted into the depression, the mithral doors will swing silently open. If the silver end of the scepter is touched to the hemispherical cup the holder of the instrument will be teleported instantly to be spat out of the devil's mouth at {@adventure area 6|TftYP-ToH|1|6. The Face of the Great Green Devil}, nude, while all non-living materials with the individual go to {@adventure area 33|TftYP-ToH|1|33. The Crypt of Acererak the Demilich}, and the crown and the scepter reappear on the throne."
+												"The real key to these great gates is the scepter from {@area area 25|099|x}. If the gold knob is inserted into the depression, the mithral doors will swing silently open. If the silver end of the scepter is touched to the hemispherical cup the holder of the instrument will be teleported instantly to be spat out of the devil's mouth at {@area area 6|03b|x}, nude, while all non-living materials with the individual go to {@area area 33|0cb|x}, and the crown and the scepter reappear on the throne."
 											],
 											"id": "0bd"
 										},
@@ -3538,7 +3538,7 @@
 							"page": 226,
 							"entries": [
 								"The portal to the south can't be detected by any magical means, but a successful {@dc 15} Wisdom ({@skill Perception}) check enables a character to notice that the wall at this location has a small opening that is metal-lined\u2014obviously a keyhole!",
-								"Following this discovery, any attempt to force the door open by physical or magical means will be useless. But if the {@i First Key} (from {@adventure area 19|TftYP-ToH|1|19. Laboratory and Mummy Preparation Room}) is inserted in the hole and then removed, the door will sink into the floor, revealing itself to be a stone-sheathed adamantine slab of tremendous thickness. There can be no real doubt that the end of the adventure\u2014one way or another\u2014is near."
+								"Following this discovery, any attempt to force the door open by physical or magical means will be useless. But if the {@i First Key} (from {@area area 19|07f|x}) is inserted in the hole and then removed, the door will sink into the floor, revealing itself to be a stone-sheathed adamantine slab of tremendous thickness. There can be no real doubt that the end of the adventure\u2014one way or another\u2014is near."
 							],
 							"id": "0ca"
 						},
@@ -3556,7 +3556,7 @@
 								},
 								"A successful {@dc 15} Wisdom ({@skill Perception}) check enables a character to discover a small hole in the middle of this depression\u2014another keyhole!",
 								"If the {@i First Key} is inserted herein, the key explodes, and the individual doing so takes 17 ({@dice 5d6}) bludgeoning damage.",
-								"The {@i Second Key} (from {@adventure area 28|TftYP-ToH|1|28. The Wondrous Foyer}) will fit within the hole, and nothing untoward will occur. In fact, nothing whatsoever will happen until it is turned three times to the right in succession. If this is done, read:",
+								"The {@i Second Key} (from {@area area 28|0b8|x}) will fit within the hole, and nothing untoward will occur. In fact, nothing whatsoever will happen until it is turned three times to the right in succession. If this is done, read:",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -3619,7 +3619,7 @@
 												"All items possessed by characters who were teleported nude",
 												"Ninety-seven small gems worth 10 gp each",
 												"Three huge gems\u2014a 10,000 gp peridot, a 50,000 gp emerald, and a 100,000 gp black opal",
-												"Four magic weapons\u2014a {@item defender}, a {@item sword of vengeance}, a {@item berserker axe}, and a {@item spear of backbiting|TftYP} (see {@adventure appendix A|TftYP-ToH|2})"
+												"Four magic weapons\u2014a {@item defender}, a {@item sword of vengeance}, a {@item berserker axe}, and a {@item spear of backbiting|TftYP} (see {@area appendix A|0b3|x})"
 											]
 										},
 										"In addition, the hoard contains several magic items of your choosing (except that none can be of legendary rarity), including:",
@@ -3839,7 +3839,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0df"
 				},
 				{
 					"type": "section",
@@ -3863,7 +3864,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e0"
 				},
 				{
 					"type": "section",
@@ -3887,7 +3889,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e1"
 				},
 				{
 					"type": "section",
@@ -3911,7 +3914,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e2"
 				},
 				{
 					"type": "section",
@@ -3935,7 +3939,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e3"
 				},
 				{
 					"type": "section",
@@ -3959,7 +3964,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e4"
 				},
 				{
 					"type": "section",
@@ -3983,7 +3989,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e5"
 				},
 				{
 					"type": "section",
@@ -4007,7 +4014,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e6"
 				},
 				{
 					"type": "section",
@@ -4031,7 +4039,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e7"
 				},
 				{
 					"type": "section",
@@ -4055,7 +4064,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e8"
 				},
 				{
 					"type": "section",
@@ -4079,7 +4089,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e9"
 				},
 				{
 					"type": "section",
@@ -4092,7 +4103,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ea"
 				},
 				{
 					"type": "section",
@@ -4116,7 +4128,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0eb"
 				},
 				{
 					"type": "section",
@@ -4129,7 +4142,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ec"
 				},
 				{
 					"type": "section",
@@ -4153,7 +4167,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ed"
 				},
 				{
 					"type": "section",
@@ -4166,7 +4181,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ee"
 				},
 				{
 					"type": "section",
@@ -4190,7 +4206,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ef"
 				},
 				{
 					"type": "section",
@@ -4214,7 +4231,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f0"
 				},
 				{
 					"type": "section",
@@ -4227,7 +4245,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f1"
 				},
 				{
 					"type": "section",
@@ -4240,7 +4259,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f2"
 				},
 				{
 					"type": "section",
@@ -4264,7 +4284,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f3"
 				},
 				{
 					"type": "section",
@@ -4288,7 +4309,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f4"
 				},
 				{
 					"type": "section",
@@ -4312,7 +4334,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f5"
 				},
 				{
 					"type": "section",
@@ -4336,7 +4359,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f6"
 				},
 				{
 					"type": "section",
@@ -4360,7 +4384,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f7"
 				},
 				{
 					"type": "section",
@@ -4373,7 +4398,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f8"
 				},
 				{
 					"type": "section",
@@ -4397,7 +4423,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f9"
 				},
 				{
 					"type": "section",
@@ -4410,7 +4437,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fa"
 				},
 				{
 					"type": "section",
@@ -4434,7 +4462,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fb"
 				},
 				{
 					"type": "section",
@@ -4458,7 +4487,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fc"
 				},
 				{
 					"type": "section",
@@ -4482,7 +4512,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fd"
 				},
 				{
 					"type": "section",
@@ -4506,7 +4537,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fe"
 				},
 				{
 					"type": "section",
@@ -4519,7 +4551,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ff"
 				},
 				{
 					"type": "section",
@@ -4532,7 +4565,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "100"
 				},
 				{
 					"type": "section",
@@ -4545,7 +4579,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "101"
 				},
 				{
 					"type": "section",
@@ -4569,7 +4604,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "102"
 				},
 				{
 					"type": "section",
@@ -4593,7 +4629,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "103"
 				},
 				{
 					"type": "section",
@@ -4606,7 +4643,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "104"
 				},
 				{
 					"type": "section",
@@ -4630,7 +4668,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "105"
 				}
 			],
 			"id": "0b4"

@@ -67,10 +67,10 @@
 					"id": "002",
 					"entries": [
 						"This book is your guide to life at Strixhaven in Dungeons & Dragons\u2014an introduction to the university, a guide to creating student characters there, a campaign, and a collection of friends and foes.",
-						"{@book Chapter 1|SCC|1} gives an overview of life and study at Strixhaven. It introduces the main features of the central campus and each of the five colleges.",
-						"{@book Chapter 2|SCC|2} is your guide to creating a student character. It introduces the owlin race and five backgrounds\u2014one for each college\u2014as well as a collection of feats, spells, and magic items.",
-						"{@adventure Chapters 3|SCC-CK|0}\u2013{@adventure 6|SCC-ARiR|0} provide a campaign meant to advance characters from 1st to 10th level as they progress through their magical studies. Each chapter covers a year's worth of adventure, so characters begin {@book chapter 3|SCC|3} as 1st-level characters and first-year students and begin {@adventure chapter 6|SCC-ARiR|0} at the start of their fourth year of studies (at around 8th level). Chapter 3 includes an overview of the adventures and the overall campaign arc as well as special rules for aspects of campus life: exams, relationships, extracurriculars, and jobs.",
-						"{@book Chapter 7|SCC|8} is a collection of stat blocks for students, faculty, and various creatures on and around the Strixhaven campus. Whether student adventurers get caught up in a duel with their rivals or face a dreaded {@creature mage hunter|SCC}, the stat blocks in this chapter give you the information you need to resolve the situation."
+						"{@area Chapter 1|00b|x} gives an overview of life and study at Strixhaven. It introduces the main features of the central campus and each of the five colleges.",
+						"{@area Chapter 2|06b|x} is your guide to creating a student character. It introduces the owlin race and five backgrounds\u2014one for each college\u2014as well as a collection of feats, spells, and magic items.",
+						"{@adventure Chapters 3|SCC-CK|0}\u2013{@adventure 6|SCC-ARiR|0} provide a campaign meant to advance characters from 1st to 10th level as they progress through their magical studies. Each chapter covers a year's worth of adventure, so characters begin {@area chapter 3|0d1|x} as 1st-level characters and first-year students and begin {@adventure chapter 6|SCC-ARiR|0} at the start of their fourth year of studies (at around 8th level). Chapter 3 includes an overview of the adventures and the overall campaign arc as well as special rules for aspects of campus life: exams, relationships, extracurriculars, and jobs.",
+						"{@area Chapter 7|445|x} is a collection of stat blocks for students, faculty, and various creatures on and around the Strixhaven campus. Whether student adventurers get caught up in a duel with their rivals or face a dreaded {@creature mage hunter|SCC}, the stat blocks in this chapter give you the information you need to resolve the situation."
 					]
 				},
 				{
@@ -86,7 +86,7 @@
 							"page": 5,
 							"id": "004",
 							"entries": [
-								"This book's campaign assumes that the player characters are students at Strixhaven University. Even as they get caught up in the adventures, the characters have to continue going to class, doing homework, and studying for exams. Optional rules in {@book chapter 3|SCC|3|Exams} reinforce the importance of study in the adventures.",
+								"This book's campaign assumes that the player characters are students at Strixhaven University. Even as they get caught up in the adventures, the characters have to continue going to class, doing homework, and studying for exams. Optional rules in {@area chapter 3|11f|x} reinforce the importance of study in the adventures.",
 								"The characters are also subject to the authority of the university's faculty and staff members. Circumstances will at times cause player characters to defy faculty authority\u2014and even deans\u2014during their adventures, and the threat of detention or even expulsion might hang over their head.",
 								"Finally, student characters are part of a school community. They live in university housing, eat in dining halls, and spend the majority of their time on campus. They eat, sleep, study, socialize, and adventure as part of a community of students, faculty, and staff. The school is like a town, where a relatively small cast of characters can play significant roles over the course of the campaign."
 							]
@@ -108,7 +108,7 @@
 							"id": "006",
 							"entries": [
 								"Strixhaven draws students and faculty from across the world and from other realms in the multiverse. The university's students and faculty are united by a desire to learn and include {@race human||humans}, {@race elf||elves}, {@race dwarf||dwarves}, {@race owlin|SCC}, {@race orc|VGM|orcs}, {@creature troll||trolls}, {@race Vampire|PSZ|vampires}, and studious folk of many other origins.",
-								"In practical terms, for player characters, you can use the rules found in any D&D book to select a character's race, if the DM approves. For nonplayer characters, you're as likely to meet a {@creature pixie}, a {@creature dryad}, a giant, a {@creature treant}, or another fantastical creature on campus as you are to meet a Humanoid. The faculty members mentioned in {@book chapter 1|SCC|1} include genasi, tritons, and even a bipedal brown bear.",
+								"In practical terms, for player characters, you can use the rules found in any D&D book to select a character's race, if the DM approves. For nonplayer characters, you're as likely to meet a {@creature pixie}, a {@creature dryad}, a giant, a {@creature treant}, or another fantastical creature on campus as you are to meet a Humanoid. The faculty members mentioned in {@area chapter 1|00b|x} include genasi, tritons, and even a bipedal brown bear.",
 								"To the faculty and students of Strixhaven, it is unremarkable to meet someone who hails from a far-off land, since almost everyone on campus is from somewhere else. Strixhaven has a place for anyone who is dedicated to magic-enhanced study."
 							]
 						}
@@ -132,7 +132,7 @@
 							"entries": [
 								"As described in the {@book Player's Handbook|PHB}, magic suffuses all existence in the worlds of D&D. In the Forgotten Realms, scholars describe the fabric of magic as a Weave that allows spellcasters to interact with the world's underlying magical reality. In Arcavios, that fabric is knotted and tangled in some locations, creating a phenomenon called snarls. At these places, spells can be amplified or distorted in unpredictable ways. This phenomenon matters for Strixhaven because a luminous snarl is situated at the very heart of campus, located in the Hall of Oracles in the university's monumental library, the Biblioplex.",
 								"Similarly, gravity-defying arch shapes appear throughout the world of Arcavios and, in particular, tower over the Biblioplex. These star arches are made from spokes of natural materials that float in an arch shape, with a precise inner curve and a rough and irregular outer arch. They can stand straight or lie at an angle, and they can be small or enormous, whole or broken, grown over or mysteriously clean. Their irregular spokes evoke the radiating lines of a shining star.",
-								"The star arches are a mystery left over from the birth of the world. In most cases, the arches simply float inexplicably\u2014silent, immovable, and inert. But many people report seeing an arch appear to them at a critical juncture in their lives, helping them understand a lesson or answer a burning question in their mind. Some scholars believe each arch marks a place of great magic, such as the site of a great mage's birth or the location of a time-lost spell. Other folk believe these arches are connected with the archaics in some way (see \"{@book Archaics and the Oracle|SCC|0|Archaics and the Oracle}\" below). Some students have even seen an arch come to life with magic in an archaic's presence.",
+								"The star arches are a mystery left over from the birth of the world. In most cases, the arches simply float inexplicably\u2014silent, immovable, and inert. But many people report seeing an arch appear to them at a critical juncture in their lives, helping them understand a lesson or answer a burning question in their mind. Some scholars believe each arch marks a place of great magic, such as the site of a great mage's birth or the location of a time-lost spell. Other folk believe these arches are connected with the archaics in some way (see \"{@area Archaics and the Oracle|00a|x}\" below). Some students have even seen an arch come to life with magic in an archaic's presence.",
 								"Both snarls and star arches are subjects of magical research for students and faculty at Strixhaven, who also study wild and dead magic zones, floating earth motes, and other weird locales."
 							]
 						},
@@ -143,7 +143,7 @@
 							"id": "009",
 							"entries": [
 								"Strixhaven University was founded by five ancient dragons who, according to legend, hatched from the magical energy of the newborn world of Arcavios. These Founder Dragons were among the first to master magic, and they realized that only through disciplined study would magic be safe in the hands of other peoples. They founded Strixhaven to facilitate that study and established the five colleges based on the magic that each dragon mastered, as summarized in the Founder Dragons table.",
-								"To this day, the Founder Dragons roam the world. They no longer associate directly with Strixhaven, preferring to let the deans of the colleges speak in their stead. The dragons' knowledge is vast, but their tempers can prove short. Mages seek them out only to learn the most elusive secrets. The dragons' stat blocks are presented in {@book chapter 7|SCC|8}.",
+								"To this day, the Founder Dragons roam the world. They no longer associate directly with Strixhaven, preferring to let the deans of the colleges speak in their stead. The dragons' knowledge is vast, but their tempers can prove short. Mages seek them out only to learn the most elusive secrets. The dragons' stat blocks are presented in {@area chapter 7|445|x}.",
 								{
 									"type": "table",
 									"caption": "Founder Dragons",
@@ -189,7 +189,7 @@
 								"The {@creature Oracle of Strixhaven|SCC} is the wisest and most accomplished mage in the world of Arcavios, selected by the Founder Dragons. The Oracle's lifelong task is to ensure that magic is used to help people and not twisted to evil ends. To be the Oracle, one must understand fundamental truths about the nature of magic, know and wield hundreds of spells, and possess impeccable judgment and virtue.",
 								"Mysteriously linked to the Oracle, {@creature Archaic|SCC|archaics} are wise, giant, long-lived beings with an innate talent for magic. They can be seen striding through the wilds, exploring sources of magic with their many arms or contemplating existence through their \"eye,\" which functions as a magical focus of some kind. Scholars seek out archaics for their vast knowledge of history and magic, but archaics tend to communicate in obscure allusions and cryptic metaphors.",
 								"Few know that archaics' existence is linked to a time-warping phenomenon involving the Oracle. When an Oracle dies, their mind and spirit is swept off to the distant past, drawn backward through time toward the intense magical power that brought the world into being. Splinters of that Oracle's soul and its fragmented memories coalesce into a creature\u2014a newborn archaic. Every archaic alive today was born at the dawn of time from the mind of someone who has lived and died (or who will one day live and die) as an Oracle. Archaics speak in cryptic allegories not only to tease and test the eager minds of young mages, but also to cleverly sidestep time paradoxes.",
-								"Stat blocks for {@creature Archaic|SCC|archaics} appear in {@book chapter 7|SCC|8}, alongside that of the current {@creature Oracle of Strixhaven|SCC|Oracle}, whose name is Jadzi.",
+								"Stat blocks for {@creature Archaic|SCC|archaics} appear in {@area chapter 7|445|x}, alongside that of the current {@creature Oracle of Strixhaven|SCC|Oracle}, whose name is Jadzi.",
 								{
 									"type": "image",
 									"href": {
@@ -284,7 +284,7 @@
 									"page": 10,
 									"id": "012",
 									"entries": [
-										"Before starting their second year of studies, students choose one of the five colleges\u2014{@book Lorehold|SCC|1|Lorehold College}, {@book Prismari|SCC|1|Prismari College}, {@book Quandrix|SCC|1|Quandrix College}, {@book Silverquill|SCC|1|Silverquill College}, or {@book Witherbloom|SCC|1|Witherbloom College}\u2014to be their academic home for the remainder of their education. From this point, students wear uniforms featuring the colors of their college, though these outfits aren't as unvarying as the first-year garb.",
+										"Before starting their second year of studies, students choose one of the five colleges\u2014{@area Lorehold|01f|x}, {@area Prismari|02e|x}, {@area Quandrix|03d|x}, {@area Silverquill|04c|x}, or {@area Witherbloom|05b|x}\u2014to be their academic home for the remainder of their education. From this point, students wear uniforms featuring the colors of their college, though these outfits aren't as unvarying as the first-year garb.",
 										{
 											"type": "entries",
 											"name": "Two Counselors",
@@ -333,7 +333,7 @@
 							"page": 10,
 							"id": "017",
 							"entries": [
-								"Each of Strixhaven's five colleges has a mascot\u2014a small creature associated with the magic of the school and often found wandering their respective campuses. Witherbloom's mascots, pests, are naturally found in the world around the campus. The other colleges' mascots are brought into being through magic. The Strixhaven Mascots table lists the mascots by college. Each of these mascots is detailed in {@book chapter 7|SCC|8}.",
+								"Each of Strixhaven's five colleges has a mascot\u2014a small creature associated with the magic of the school and often found wandering their respective campuses. Witherbloom's mascots, pests, are naturally found in the world around the campus. The other colleges' mascots are brought into being through magic. The Strixhaven Mascots table lists the mascots by college. Each of these mascots is detailed in {@area chapter 7|445|x}.",
 								{
 									"type": "table",
 									"caption": "Strixhaven Mascots",
@@ -379,7 +379,7 @@
 					"page": 11,
 					"id": "018",
 					"entries": [
-						"Strixhaven occupies hundreds of acres, spread out over six campuses. Each of the university's five colleges has its own campus, and the central campus, home to the Biblioplex and Strixhaven Stadium, serves as a hub for university life. See the {@book appendix|SCC|9} or the poster map for a view of the entire university.",
+						"Strixhaven occupies hundreds of acres, spread out over six campuses. Each of the university's five colleges has its own campus, and the central campus, home to the Biblioplex and Strixhaven Stadium, serves as a hub for university life. See the {@area appendix|483|x} or the poster map for a view of the entire university.",
 						{
 							"type": "image",
 							"href": {
@@ -621,7 +621,7 @@
 							"page": 14,
 							"id": "023",
 							"entries": [
-								"This section describes noteworthy members of the Lorehold faculty. Some of them use a Lorehold-specific stat block from {@book chapter 7|SCC|8|Lorehold Scholars}.",
+								"This section describes noteworthy members of the Lorehold faculty. Some of them use a Lorehold-specific stat block from {@area chapter 7|071|x}.",
 								{
 									"type": "entries",
 									"name": "Augusta Tullus, Dean of Order",
@@ -891,7 +891,7 @@
 							"page": 16,
 							"id": "033",
 							"entries": [
-								"This section describes noteworthy members of the Prismari faculty. Some of them use a Prismari-specific stat block from {@book chapter 7|SCC|8|Prismari Scholars}. Several of them are genasi, who are Humanoids touched by the Elemental Planes.",
+								"This section describes noteworthy members of the Prismari faculty. Some of them use a Prismari-specific stat block from {@area chapter 7|072|x}. Several of them are genasi, who are Humanoids touched by the Elemental Planes.",
 								{
 									"type": "image",
 									"href": {
@@ -1132,7 +1132,7 @@
 							"page": 19,
 							"id": "041",
 							"entries": [
-								"This section describes noteworthy members of the Quandrix faculty. Some of them use a Quandrix-specific stat block from {@book chapter 7|SCC|8|Quandrix Scholars}.",
+								"This section describes noteworthy members of the Quandrix faculty. Some of them use a Quandrix-specific stat block from {@area chapter 7|073|x}.",
 								{
 									"type": "image",
 									"href": {
@@ -1381,7 +1381,7 @@
 							"page": 22,
 							"id": "050",
 							"entries": [
-								"This section describes noteworthy members of the Silverquill faculty. Some of them use a Silverquill-specific stat block from {@book chapter 7|SCC|8|Silverquill Scholars}.",
+								"This section describes noteworthy members of the Silverquill faculty. Some of them use a Silverquill-specific stat block from {@area chapter 7|074|x}.",
 								{
 									"type": "image",
 									"href": {
@@ -1630,7 +1630,7 @@
 							"page": 25,
 							"id": "05f",
 							"entries": [
-								"This section describes noteworthy members of the Witherbloom faculty. Some of them use a Witherbloom-specific stat block from {@book chapter 7|SCC|8|Witherbloom Scholars}.",
+								"This section describes noteworthy members of the Witherbloom faculty. Some of them use a Witherbloom-specific stat block from {@area chapter 7|075|x}.",
 								{
 									"type": "image",
 									"href": {
@@ -1757,7 +1757,7 @@
 									"page": 27,
 									"id": "068",
 									"entries": [
-										"Sedgemoor, the bayou area that encompasses the Witherbloom campus, is known for a range of swamp creatures: bats, crocodilian monsters, zombified animals, lumbering beasts called brackish trudges, and canine creatures called groffs ({@creature Brackish Trudge|SCC|brackish trudges} and {@creature Groff|SCC|groffs} are described in {@book chapter 7|SCC|8}). Sedgemoor is an excellent place to find pest mascots, herbs, spider silk, fungi, and other ingredients for potions and spells.",
+										"Sedgemoor, the bayou area that encompasses the Witherbloom campus, is known for a range of swamp creatures: bats, crocodilian monsters, zombified animals, lumbering beasts called brackish trudges, and canine creatures called groffs ({@creature Brackish Trudge|SCC|brackish trudges} and {@creature Groff|SCC|groffs} are described in {@area chapter 7|445|x}). Sedgemoor is an excellent place to find pest mascots, herbs, spider silk, fungi, and other ingredients for potions and spells.",
 										"Characters have the opportunity to explore Sedgemoor in {@adventure chapter 3|SCC-CK|0|Secrets in Sedgemoor}."
 									]
 								},
@@ -1793,12 +1793,12 @@
 			"id": "06b",
 			"entries": [
 				"The campus of Strixhaven draws a student body from across the world\u2014or many worlds. With your DM's permission, you can create just about any Strixhaven character you can imagine, drawing on player character rules from the {@book Player's Handbook|PHB} and other D&D books. This chapter adds to that wealth of options with the material in the following sections:",
-				"\"{@book Race Option|SCC|2|Race Option}\" presents the owlin, a character race option perfect for playing an owl-like student.",
-				"\"{@book Choosing a College|SCC|2|Choosing a College}\" gives advice on building a character for adventuring in Strixhaven.",
-				"\"{@book Strixhaven Backgrounds|SCC|2|Strixhaven Backgrounds}\" presents a background option for each Strixhaven college, linking a character to one of the five colleges.",
-				"\"{@book Feats|SCC|2|Feats}\" offers Strixhaven-themed feats for use with {@i A Curriculum of Chaos} and other adventures.",
-				"\"{@book Spells|SCC|2|Spells}\" reveals some spells that were developed at the university.",
-				"\"{@book Magic Items|SCC|2|Magic Items}\" collects magic items that Strixhaven students might acquire on their adventures.",
+				"\"{@area Race Option|06c|x}\" presents the owlin, a character race option perfect for playing an owl-like student.",
+				"\"{@area Choosing a College|07b|x}\" gives advice on building a character for adventuring in Strixhaven.",
+				"\"{@area Strixhaven Backgrounds|07d|x}\" presents a background option for each Strixhaven college, linking a character to one of the five colleges.",
+				"\"{@area Feats|0ae|x}\" offers Strixhaven-themed feats for use with {@i A Curriculum of Chaos} and other adventures.",
+				"\"{@area Spells|0b2|x}\" reveals some spells that were developed at the university.",
+				"\"{@area Magic Items|0c7|x}\" collects magic items that Strixhaven students might acquire on their adventures.",
 				{
 					"type": "image",
 					"href": {
@@ -1831,12 +1831,12 @@
 					"id": "07b",
 					"entries": [
 						"At Strixhaven, students choose their colleges at the start of their second year. But even during a character's first year, you make college-related decisions for your character, such as a background choice. From the start, your character is making decisions that will lead to their eventual college choice.",
-						"{@book Chapter 1|SCC|1} describes each of the colleges. How do you decide which of these colleges is right for your character? Consider these approaches:",
+						"{@area Chapter 1|00b|x} describes each of the colleges. How do you decide which of these colleges is right for your character? Consider these approaches:",
 						{
 							"type": "list",
 							"items": [
 								"Read the college descriptions in chapter 1, and choose the college that appeals to you.",
-								"Read the descriptions of {@book backgrounds|SCC|2|Strixhaven Backgrounds} and {@book feats|SCC|2|Feats} in this chapter. If one of them catches your eye, choose that college.",
+								"Read the descriptions of {@area backgrounds|07d|x} and {@area feats|0ae|x} in this chapter. If one of them catches your eye, choose that college.",
 								"If you have access to Magic: The Gathering cards from the Strixhaven set, find a card that appeals to you and build that character."
 							]
 						},
@@ -2153,7 +2153,7 @@
 			"id": "0d1",
 			"entries": [
 				"The following four chapters present a series of Dungeons & Dragons adventures optimized for four to six characters. Each adventure takes place on and around the Strixhaven campus. In these adventures, the player characters are students attending the university, and they become heroes in their own right as they navigate plots, overcome monsters, and thwart dangers that arise in each adventure.",
-				"{@book Chapters 1|SCC|1} and {@book 2|SCC|2} contain all the information the players need to play Strixhaven students. Each adventure takes place over the course of one academic year. For instance, \"{@adventure Campus Kerfuffle|SCC-CK|0},\" the adventure in this chapter, takes place during the characters' first year at the university. \"{@adventure Hunt for Mage Tower|SCC-HfMT|0},\" in chapter 4, takes place during the characters' second year at the university, and so on. The adventures can be run consecutively as a campaign or individually, as described below.",
+				"{@area Chapters 1|00b|x} and {@area 2|06b|x} contain all the information the players need to play Strixhaven students. Each adventure takes place over the course of one academic year. For instance, \"{@adventure Campus Kerfuffle|SCC-CK|0},\" the adventure in this chapter, takes place during the characters' first year at the university. \"{@adventure Hunt for Mage Tower|SCC-HfMT|0},\" in chapter 4, takes place during the characters' second year at the university, and so on. The adventures can be run consecutively as a campaign or individually, as described below.",
 				{
 					"type": "image",
 					"href": {
@@ -2179,7 +2179,7 @@
 								"Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under a specific circumstance, as described in the text."
 							]
 						},
-						"When a creature's name appears in {@b bold} type, that's a visual cue pointing you to its stat block. In other words, when you see a name in bold type, you should get the creature's stat block ready because you're going to need it soon. If the stat block appears in {@book chapter 7|SCC|8}, the text tells you. Otherwise, you can find the stat block in the {@book Monster Manual|MM}.",
+						"When a creature's name appears in {@b bold} type, that's a visual cue pointing you to its stat block. In other words, when you see a name in bold type, you should get the creature's stat block ready because you're going to need it soon. If the stat block appears in {@area chapter 7|445|x}, the text tells you. Otherwise, you can find the stat block in the {@book Monster Manual|MM}.",
 						"Spells and equipment mentioned in these adventures are described in the {@book Player's Handbook|PHB}. If an adventure doesn't describe a magic item, you can find the magic item's description in the {@book Dungeon Master's Guide|DMG}.",
 						{
 							"type": "entries",
@@ -2197,7 +2197,7 @@
 							"page": 41,
 							"id": "0d5",
 							"entries": [
-								"Before starting any of this book's adventures, consult {@book chapter 2|SCC|2} for guidance on making Strixhaven characters and uniting those characters in a group."
+								"Before starting any of this book's adventures, consult {@area chapter 2|06b|x} for guidance on making Strixhaven characters and uniting those characters in a group."
 							]
 						},
 						{
@@ -2259,7 +2259,7 @@
 									"page": 42,
 									"id": "0d8",
 									"entries": [
-										"If you run chapter 4, 5, or 6 as a standalone adventure, you should ask each player to choose at least one student to be a Friend, a Beloved, or a Rival, as described in the {@book Relationship rules|SCC|3|relationships} later in this chapter. The Starting Relationship Points table lists the number of points a character has at the start with the chosen Friend, Beloved, or Rival.",
+										"If you run chapter 4, 5, or 6 as a standalone adventure, you should ask each player to choose at least one student to be a Friend, a Beloved, or a Rival, as described in the {@area Relationship rules|0d8|x} later in this chapter. The Starting Relationship Points table lists the number of points a character has at the start with the chosen Friend, Beloved, or Rival.",
 										{
 											"type": "table",
 											"caption": "Starting Relationship Points",
@@ -2394,7 +2394,7 @@
 							"page": 43,
 							"id": "0de",
 							"entries": [
-								"The rules for {@book Extracurriculars|SCC|3|Extracurriculars}, {@book Jobs|SCC|3|Jobs}, {@book Exams|SCC|3|Exams}, and {@adventure Relationships|SCC-CK|0} combine with the adventures in this book to enhance the flavor of life at a university of magic.",
+								"The rules for {@area Extracurriculars|0df|x}, {@area Jobs|107|x}, {@area Exams|11f|x}, and {@adventure Relationships|SCC-CK|0} combine with the adventures in this book to enhance the flavor of life at a university of magic.",
 								"If you find these rules aren't the best fit for your group, you can run this book's adventures without those rules, simply narrating the effects of related encounters without using rules to resolve them."
 							]
 						}
@@ -2450,7 +2450,7 @@
 									"page": 44,
 									"id": "0e3",
 									"entries": [
-										"While a student participates in an Extracurricular, the student gains either a positive or a negative Relationship Point (the player's choice) with one student NPC who is also a member of the Extracurricular (see the {@book Relationship rules|SCC|3|relationships} later in this chapter)."
+										"While a student participates in an Extracurricular, the student gains either a positive or a negative Relationship Point (the player's choice) with one student NPC who is also a member of the Extracurricular (see the {@area Relationship rules|0d8|x} later in this chapter)."
 									]
 								}
 							]
@@ -2924,7 +2924,7 @@
 									"page": 46,
 									"id": "10b",
 									"entries": [
-										"While a character works a Job, they gain a positive or negative Relationship Point (the player's choice) with one student NPC at that Job. This represents a coworker with whom the character is often scheduled and with whom they can easily form a connection (see the {@book Relationship rules|SCC|3|relationships} later in this chapter)."
+										"While a character works a Job, they gain a positive or negative Relationship Point (the player's choice) with one student NPC at that Job. This represents a coworker with whom the character is often scheduled and with whom they can easily form a connection (see the {@area Relationship rules|0d8|x} later in this chapter)."
 									]
 								}
 							]
@@ -3325,7 +3325,7 @@
 							"page": 49,
 							"id": "12c",
 							"entries": [
-								"The book's adventures include Relationship encounters, featuring events during which characters can interact with one or more of the student NPCs in the \"{@book Fellow Students|SCC|3|Fellow Students}\" section. When such an encounter begins, use the adventure's read-aloud text to describe the scene. Then work with the characters one at a time until each has had a turn to interact with the student NPCs.",
+								"The book's adventures include Relationship encounters, featuring events during which characters can interact with one or more of the student NPCs in the \"{@area Fellow Students|134|x}\" section. When such an encounter begins, use the adventure's read-aloud text to describe the scene. Then work with the characters one at a time until each has had a turn to interact with the student NPCs.",
 								"The character of each participating player gains 1 Relationship Point or more with student NPCs during Relationship encounters. A character's number of Relationship Points with a specific NPC determines their status with that NPC.",
 								{
 									"type": "entries",
@@ -3335,7 +3335,7 @@
 									"entries": [
 										"Use the entries in the \"Fellow Students\" section to populate Strixhaven as the characters explore it, both during and between adventures. Highlight those NPCs when the characters are at a Job or participating in an Extracurricular, and draw from the entries whenever you want to roleplay an NPC in a classroom setting.",
 										"When it comes time for a Relationship encounter, you might ask a player whether a specific NPC has intrigued them. If so, make sure that NPC interacts with them during the encounter. Alternatively, characters who have joined an Extracurricular or taken on a Job might encounter an NPC associated with that endeavor.",
-										"You may also allow your players to browse the \"{@book Fellow Students|SCC|3|Fellow Students}\" section to learn more about the NPCs."
+										"You may also allow your players to browse the \"{@area Fellow Students|134|x}\" section to learn more about the NPCs."
 									]
 								},
 								{
@@ -3376,7 +3376,7 @@
 							"entries": [
 								"While a character has 2 Relationship Points or more with a student NPC, that NPC becomes a Friend, and the character receives a {@b Bond Boon} from that person as long as the NPC is a Friend.",
 								"While a character has \u22122 Relationship Points or less with a student NPC, that NPC becomes a Rival, and the character receives a {@b Bond Bane} from that person as long as the NPC is a Rival.",
-								"Bond Boons and Bond Banes are noted in each NPC entry in the \"{@book Fellow Students|SCC|3|Fellow Students}\" section. When a character makes a Friend or a Rival, the player should note it on their tracking sheet.",
+								"Bond Boons and Bond Banes are noted in each NPC entry in the \"{@area Fellow Students|134|x}\" section. When a character makes a Friend or a Rival, the player should note it on their tracking sheet.",
 								"At any time during the adventures in this book, a character can end their friendship with an NPC, effective immediately. When they do so, that character's Relationship Points with the NPC reset to 0.",
 								{
 									"type": "entries",
@@ -3452,7 +3452,7 @@
 									"id": "136",
 									"entries": [
 										"The student NPCs are meant to interact with the characters primarily in roleplaying situations and to help create the flavor of attending a university. They aren't intended to wade into combat\u2014or even venture off campus\u2014when the characters embark on adventures.",
-										"In general, avoid putting these student NPCs in danger with the characters. In situations when you need stat blocks for these NPCs, use the stat block indicated for them in the Student NPC Stat Blocks table, where the stat blocks depend on the student's year during the current adventure. These stat blocks can be found in {@book chapter 7|SCC|8}, and in the table, \"[College]\" refers to the name of the NPC's college: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom.",
+										"In general, avoid putting these student NPCs in danger with the characters. In situations when you need stat blocks for these NPCs, use the stat block indicated for them in the Student NPC Stat Blocks table, where the stat blocks depend on the student's year during the current adventure. These stat blocks can be found in {@area chapter 7|445|x}, and in the table, \"[College]\" refers to the name of the NPC's college: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom.",
 										{
 											"type": "table",
 											"caption": "Student NPC Stat Blocks",
@@ -4504,7 +4504,7 @@
 			"id": "445",
 			"entries": [
 				"This chapter provides more than forty monsters and NPCs who live in and around Strixhaven. They appear in this book's adventures, and you're free to use them in adventures of your own creation, whether those tales are set in the university or elsewhere in the D&D multiverse.",
-				"The creatures in this bestiary are organized alphabetically. A few creatures are gathered under a group heading; for example, the \"{@book Lorehold Scholars|SCC|8|Lorehold Scholars}\" section contains stat blocks for faculty and students of Lorehold, and those stat blocks are presented alphabetically within that section.",
+				"The creatures in this bestiary are organized alphabetically. A few creatures are gathered under a group heading; for example, the \"{@area Lorehold Scholars|071|x}\" section contains stat blocks for faculty and students of Lorehold, and those stat blocks are presented alphabetically within that section.",
 				"The Strixhaven Creatures table below lists every creature in this chapter, along with the creature's type and challenge rating (CR).",
 				{
 					"type": "image",
@@ -4802,7 +4802,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "087"
 				},
 				{
 					"type": "section",
@@ -4826,7 +4827,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "088"
 				},
 				{
 					"type": "section",
@@ -4850,7 +4852,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "089"
 				},
 				{
 					"type": "section",
@@ -4874,7 +4877,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08a"
 				},
 				{
 					"type": "section",
@@ -4898,7 +4902,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08b"
 				},
 				{
 					"type": "section",
@@ -4922,7 +4927,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08c"
 				},
 				{
 					"type": "section",
@@ -4946,7 +4952,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08d"
 				},
 				{
 					"type": "section",
@@ -4970,7 +4977,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08e"
 				},
 				{
 					"type": "section",
@@ -4994,7 +5002,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08f"
 				},
 				{
 					"type": "section",
@@ -5018,7 +5027,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "090"
 				},
 				{
 					"type": "section",
@@ -5042,7 +5052,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "091"
 				},
 				{
 					"type": "section",
@@ -5066,7 +5077,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "092"
 				},
 				{
 					"type": "entries",
@@ -5158,7 +5170,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "093"
 				},
 				{
 					"type": "section",
@@ -5182,7 +5195,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "094"
 				},
 				{
 					"type": "section",
@@ -5213,7 +5227,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "095"
 				},
 				{
 					"type": "section",
@@ -5237,7 +5252,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "096"
 				},
 				{
 					"type": "entries",
@@ -5397,7 +5413,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "097"
 				},
 				{
 					"type": "section",
@@ -5421,7 +5438,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "098"
 				},
 				{
 					"type": "section",
@@ -5445,7 +5463,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "099"
 				},
 				{
 					"type": "entries",
@@ -5537,7 +5556,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09a"
 				},
 				{
 					"type": "section",
@@ -5561,7 +5581,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09b"
 				},
 				{
 					"type": "section",
@@ -5585,7 +5606,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09c"
 				},
 				{
 					"type": "section",
@@ -5609,7 +5631,8 @@
 							"source": "SCC",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "09d"
 				},
 				{
 					"type": "entries",

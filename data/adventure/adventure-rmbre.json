@@ -36,7 +36,7 @@
 							"credit": "Troy Little"
 						},
 						"{@i The Lost Dungeon of Rickedness: Big Rick Energy} is an adventure for four to five characters of 1st level. During the course of the adventure, the characters will advance to 3rd level. See \"{@area Leveling Up|013|x}\" for details on when it's best for the characters to advance.",
-						"While the rulebook provides you with everything you need to create your own characters, this adventure assumes players are using the {@i Rick and Morty} {@adventure pregenerated characters|RMBRE|0|Pregenerated Characters} provided in this boxed set. If they're not, that's fine, but players might want to consider why their characters find themselves on an adventure in the unpredictable world of {@i Rick and Morty}\u2014or not, and just be prepared for whatever weirdness comes their way!",
+						"While the rulebook provides you with everything you need to create your own characters, this adventure assumes players are using the {@i Rick and Morty} {@area pregenerated characters|010|x} provided in this boxed set. If they're not, that's fine, but players might want to consider why their characters find themselves on an adventure in the unpredictable world of {@i Rick and Morty}\u2014or not, and just be prepared for whatever weirdness comes their way!",
 						"If this is your first time running a D&D adventure, read the \"Role of the Dungeon Master\" section; it will help you better understand your role and responsibilities.",
 						{
 							"type": "entries",
@@ -1458,7 +1458,7 @@
 											"page": 5,
 											"id": "00d",
 											"entries": [
-												"Any monster or NPC that is likely to be involved in combat requires game statistics so the DM can run it effectively. These statistics are presented in a format called a {@i statistics block}, or {@i stat block}. You'll find the stat blocks needed for this adventure in {@adventure appendix D|RMBRE|3}."
+												"Any monster or NPC that is likely to be involved in combat requires game statistics so the DM can run it effectively. These statistics are presented in a format called a {@i statistics block}, or {@i stat block}. You'll find the stat blocks needed for this adventure in {@area appendix D|110|x}."
 											]
 										}
 									]
@@ -1471,8 +1471,8 @@
 							"page": 5,
 							"id": "00e",
 							"entries": [
-								"Whenever the text refers to a magic item, its name is presented in {@i italic} type. For a description of the item and its magical properties, see {@adventure appendix C|RMBRE|2}.",
-								"Similarly, whenever the adventure text presents a creature's name in {@b bold} type, that's a visual cue directing you to the creature's stat block in {@adventure appendix D|RMBRE|3}."
+								"Whenever the text refers to a magic item, its name is presented in {@i italic} type. For a description of the item and its magical properties, see {@area appendix C|108|x}.",
+								"Similarly, whenever the adventure text presents a creature's name in {@b bold} type, that's a visual cue directing you to the creature's stat block in {@area appendix D|110|x}."
 							]
 						},
 						{
@@ -1609,7 +1609,7 @@
 					"page": 6,
 					"id": "015",
 					"entries": [
-						"All the locations talked about in the adventure are from {@adventure map 1.1|RMBRE|0|Map 1.1: The Lost Dungeon of Rickedness}. Obviously.",
+						"All the locations talked about in the adventure are from {@area map 1.1|10b|x}. Obviously.",
 						{
 							"type": "entries",
 							"name": "Let's Get Going Already",
@@ -5087,7 +5087,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "10e"
 						},
 						{
 							"type": "section",
@@ -5111,7 +5112,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "10f"
 						},
 						{
 							"type": "section",
@@ -5135,7 +5137,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "138"
 						},
 						{
 							"type": "section",
@@ -5159,7 +5162,8 @@
 									"source": "LMoP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "139"
 						},
 						{
 							"type": "section",
@@ -5183,7 +5187,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "13a"
 						},
 						{
 							"type": "section",
@@ -5207,7 +5212,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "13b"
 						},
 						{
 							"type": "section",
@@ -5231,7 +5237,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "13c"
 						},
 						{
 							"type": "section",
@@ -5255,7 +5262,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "13d"
 						},
 						{
 							"type": "section",
@@ -5279,7 +5287,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "13e"
 						},
 						{
 							"type": "section",
@@ -5303,7 +5312,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "13f"
 						},
 						{
 							"type": "section",
@@ -5327,7 +5337,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "140"
 						},
 						{
 							"type": "section",
@@ -5351,7 +5362,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "141"
 						},
 						{
 							"type": "section",
@@ -5375,7 +5387,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "142"
 						},
 						{
 							"type": "section",
@@ -5399,7 +5412,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "143"
 						},
 						{
 							"type": "section",
@@ -5423,7 +5437,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "144"
 						},
 						{
 							"type": "section",
@@ -5447,7 +5462,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "145"
 						},
 						{
 							"type": "section",
@@ -5471,7 +5487,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "146"
 						},
 						{
 							"type": "section",
@@ -5495,7 +5512,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "147"
 						},
 						{
 							"type": "section",
@@ -5519,7 +5537,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "148"
 						},
 						{
 							"type": "section",
@@ -5543,7 +5562,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "149"
 						},
 						{
 							"type": "section",
@@ -5567,7 +5587,8 @@
 									"tag": "creature",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "14a"
 						},
 						{
 							"type": "section",
@@ -5591,7 +5612,8 @@
 									"source": "RMBRE",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "14b"
 						},
 						{
 							"type": "section",
@@ -5615,7 +5637,8 @@
 									"source": "RMBRE",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "14c"
 						},
 						{
 							"type": "section",
@@ -5628,7 +5651,8 @@
 									"source": "RMBRE",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "14d"
 						},
 						{
 							"type": "section",
@@ -5652,7 +5676,8 @@
 									"source": "RMBRE",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "14e"
 						},
 						{
 							"type": "section",
@@ -5676,7 +5701,8 @@
 									"source": "RMBRE",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "14f"
 						},
 						{
 							"type": "section",
@@ -5689,7 +5715,8 @@
 									"source": "RMBRE",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "150"
 						},
 						{
 							"type": "section",
@@ -5713,7 +5740,8 @@
 									"source": "RMBRE",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "151"
 						},
 						{
 							"type": "section",
@@ -5737,7 +5765,8 @@
 									"source": "RMBRE",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "152"
 						}
 					]
 				}

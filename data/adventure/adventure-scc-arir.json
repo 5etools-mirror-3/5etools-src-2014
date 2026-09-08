@@ -199,7 +199,7 @@
 								"The rumor mill has apparently discovered the grave events that happened last academic term."
 							]
 						},
-						"At this point, the characters might be waiting on the faculty to discover more about {@creature Murgaxor|SCC}'s plans. However, they also might want to take this investigation into their own hands. If they do, run the \"{@adventure Clue in the Bayou|SCC-ARiR|0|Clue in the Bayou}\" section as this adventure's first event."
+						"At this point, the characters might be waiting on the faculty to discover more about {@creature Murgaxor|SCC}'s plans. However, they also might want to take this investigation into their own hands. If they do, run the \"{@area Clue in the Bayou|3a3|x}\" section as this adventure's first event."
 					]
 				},
 				{
@@ -343,10 +343,10 @@
 							"page": 160,
 							"id": "3a5",
 							"entries": [
-								"The characters are tasked with mentoring a group of misbehaving students for the day. {@adventure Map 6.1|SCC-ARiR|0|Detention Bog Locations} shows the Detention Bog, where this part of the adventure takes place.",
+								"The characters are tasked with mentoring a group of misbehaving students for the day. {@area Map 6.1|3b2|x} shows the Detention Bog, where this part of the adventure takes place.",
 								"The faculty member in charge during detention is a Prismari instructor named Arkin Minexes (lawful good orc {@creature Prismari professor of expression|SCC}, except he casts {@spell Tenser's floating disk} instead of {@spell fog cloud}). Instructor Minexes is a recent addition to the faculty who is enthusiastic about learning and team-building.",
 								"Earlier in the week, a load of supply crates failed to arrive at a storage area on Witherbloom's campus when a {@creature hydra} attacked the {@creature Ruin Grinder|SCC|ruin grinders} (described in {@book chapter 7|SCC|8|Ruin Grinder}) that were hauling the cargo. The ruin grinders are now malfunctioning and wandering the bayou confusedly. The cargo they hauled is scattered about. Instructor Minexes has tasked the students in detention with retrieving the cargo and bringing it to dry land.",
-								"Ten students are scheduled to serve detention during the characters' shift. The characters can easily find out these students' identities beforehand from Professor Lang (see \"{@adventure Students in Detention|SCC-ARiR|0|Students in Detention}\"). The students in detention are already there when the characters arrive for their shift.",
+								"Ten students are scheduled to serve detention during the characters' shift. The characters can easily find out these students' identities beforehand from Professor Lang (see \"{@area Students in Detention|3aa|x}\"). The students in detention are already there when the characters arrive for their shift.",
 								{
 									"type": "image",
 									"href": {
@@ -490,7 +490,7 @@
 											"page": 162,
 											"id": "3ad",
 											"entries": [
-												"Instructor Minexes directs the students to look for the lost supplies in the area shown on {@adventure map 6.1.|SCC-ARiR|0|Detention Bog Locations} The characters and their charges must find the six lost crates in areas {@book D1|SCC|14|D1. The Stickiest Crate}\u2013{@book D6|SCC|14|D6. Unstable Crate} on map 6.1 and bring them all to the trail in the map's northwest corner, where Instructor Minexes waits for the students to complete their task. A trail near this rendezvous point leads to a more solid section of Witherbloom's campus."
+												"Instructor Minexes directs the students to look for the lost supplies in the area shown on {@area map 6.1.|3b2|x} The characters and their charges must find the six lost crates in areas {@area D1|3b3|x}\u2013{@area D6|3c1|x} on map 6.1 and bring them all to the trail in the map's northwest corner, where Instructor Minexes waits for the students to complete their task. A trail near this rendezvous point leads to a more solid section of Witherbloom's campus."
 											]
 										},
 										{
@@ -499,7 +499,7 @@
 											"page": 162,
 											"id": "3ae",
 											"entries": [
-												"Each crate is a sealed, steel box weighing about 150 pounds. Also, each crate has AC 19; 33 hit points; and immunity to fire, poison, and psychic damage. Finally, each is secured with a locking mechanism that requires a successful {@dc 18} Dexterity check with thieves' tools to unlock. Instructor Minexes carries a master key that unlocks each crate. They all contain spell components. The unstable cargo Instructor Minexes is worried about is in {@adventure area D6|SCC-ARiR|0|D6. Unstable Crate}; see that area for more information."
+												"Each crate is a sealed, steel box weighing about 150 pounds. Also, each crate has AC 19; 33 hit points; and immunity to fire, poison, and psychic damage. Finally, each is secured with a locking mechanism that requires a successful {@dc 18} Dexterity check with thieves' tools to unlock. Instructor Minexes carries a master key that unlocks each crate. They all contain spell components. The unstable cargo Instructor Minexes is worried about is in {@area area D6|3c1|x}; see that area for more information."
 											]
 										},
 										{
@@ -508,7 +508,7 @@
 											"page": 162,
 											"id": "3af",
 											"entries": [
-												"When the characters examine any of the crates except for the empty crate in {@adventure area D5|SCC-ARiR|0|D5. Empty Crate}, they get an unsettling feeling. {@spell Detect magic} reveals latent, sinister magic in the air, as well as a strange sense of magically generated protection.",
+												"When the characters examine any of the crates except for the empty crate in {@area area D5|3be|x}, they get an unsettling feeling. {@spell Detect magic} reveals latent, sinister magic in the air, as well as a strange sense of magically generated protection.",
 												"The characters can deduce that this magical signature belongs to {@creature Murgaxor|SCC}, who must have contaminated all of these supplies. If the players don't figure it out on their own, a successful {@dc 15} Intelligence ({@skill Investigation}) check reveals that {@creature Murgaxor|SCC} has cloaked himself with magical protection, but only from something very specific. It's possible that he has protected himself from the spells of specific spellcasters, although it isn't clear yet who."
 											]
 										},
@@ -813,7 +813,7 @@
 												"At the far end of a broken bridge is a mound of earth barely large enough for one person to stand on. A dented metal crate is partially embedded in the mound."
 											]
 										},
-										"One of the malfunctioning ruin grinders hurled this crate to its current resting place when the hydra that's now in {@adventure area D5|SCC-ARiR|0|D5. Empty Crate} attacked. A character who examines the broken bridge and succeeds on a {@dc 13} Intelligence ({@skill Investigation}) check identifies large bite marks in the wood. Once this evidence is found, a successful {@dc 12} Intelligence ({@skill Nature}) check confirms that a Huge reptile smashed and bit into the wood."
+										"One of the malfunctioning ruin grinders hurled this crate to its current resting place when the hydra that's now in {@area area D5|3be|x} attacked. A character who examines the broken bridge and succeeds on a {@dc 13} Intelligence ({@skill Investigation}) check identifies large bite marks in the wood. Once this evidence is found, a successful {@dc 12} Intelligence ({@skill Nature}) check confirms that a Huge reptile smashed and bit into the wood."
 									]
 								},
 								{
@@ -914,7 +914,7 @@
 											"page": 165,
 											"id": "3c6",
 											"entries": [
-												"To further thank the characters, Instructor Minexes allows them to take 5 uses of planar unguent from the crate in {@adventure area D1|SCC-ARiR|0|D1. The Stickiest Crate}, assuming that this crate is among those recovered from the bog."
+												"To further thank the characters, Instructor Minexes allows them to take 5 uses of planar unguent from the crate in {@area area D1|3b3|x}, assuming that this crate is among those recovered from the bog."
 											]
 										}
 									]
@@ -1022,7 +1022,7 @@
 												"Jutting from the cracked earth ahead of you is a network of reddish sandstone hillocks. What little vegetation exists here is blackened and wilting. Three wooden guard towers flank a trail that leads through the hills. Each tower sports a knotted line of glistening rope ascending twenty feet to a broad, winged kite."
 											]
 										},
-										"Characters approaching from the south get a clear look at the watchtowers (shown on map 6.2). The smaller, central tower has a lone, unmoving sentry. Characters who observe the towers through a spyglass or succeed on a {@dc 15} Wisdom ({@skill Perception}) check note that the \"sentry\" appears to be a mannequin wearing a broad-brimmed sun hat. The kites and sentry are detailed in {@adventure area T1|SCC-ARiR|0|T1. Watchtowers}.",
+										"Characters approaching from the south get a clear look at the watchtowers (shown on map 6.2). The smaller, central tower has a lone, unmoving sentry. Characters who observe the towers through a spyglass or succeed on a {@dc 15} Wisdom ({@skill Perception}) check note that the \"sentry\" appears to be a mannequin wearing a broad-brimmed sun hat. The kites and sentry are detailed in {@area area T1|3d1|x}.",
 										"A successful {@dc 15} Intelligence ({@skill Arcana}) or ({@skill Nature}) check reveals that the local vegetation is afflicted by a magical malady. {@creature Murgaxor|SCC} has a shrine in his underground lair that corrupts the local flora; defeating {@creature Murgaxor|SCC}'s ritual ends this corruption."
 									]
 								},
@@ -2799,7 +2799,7 @@
 													"page": 167,
 													"id": "3d2",
 													"entries": [
-														"The sentry posted in the smaller, central tower is a {@creature spectator} perched atop a mannequin. The spectator's eye stalks are hidden by a sun hat. The blood mage {@creature Y'demi|SCC} summoned the spectator as a guardian after she grew weary of lazy Humanoid lackeys. (For more information about {@creature Y'demi|SCC}, see {@adventure area U4|SCC-ARiR|0|U4. Living Area} of {@adventure map 6.3|SCC-ARiR|0|Map 6.3: underground cave}.)",
+														"The sentry posted in the smaller, central tower is a {@creature spectator} perched atop a mannequin. The spectator's eye stalks are hidden by a sun hat. The blood mage {@creature Y'demi|SCC} summoned the spectator as a guardian after she grew weary of lazy Humanoid lackeys. (For more information about {@creature Y'demi|SCC}, see {@area area U4|3fd|x} of {@area map 6.3|002|x}.)",
 														"When alerted to intruders or danger, the spectator detaches from the mannequin while telepathically warning intruders to leave immediately or face annihilation. Creatures that don't comply are attacked."
 													]
 												},
@@ -2857,7 +2857,7 @@
 											]
 										},
 										"This winding network of tunnels and alcoves holds {@creature Murgaxor|SCC}'s collection of books, scrolls, and curios, which are heaped on shelves and in niches along the cave walls. This area has four entry points, each with its own collection of items.",
-										"The {@creature Shadow Demon||shadow demons} in {@adventure area T3E|SCC-ARiR|0|T3E. East Entrance} investigate any loud noises coming from the neighboring areas.",
+										"The {@creature Shadow Demon||shadow demons} in {@area area T3E|3e3|x} investigate any loud noises coming from the neighboring areas.",
 										{
 											"type": "entries",
 											"name": "T3A. Southeast Entrance",
@@ -2956,7 +2956,7 @@
 													]
 												},
 												"Four {@creature Shadow Demon||shadow demons} hide in the shadows of this cave. They attack visitors who aren't accompanied by {@creature Murgaxor|SCC} or {@creature Y'demi|SCC}. Characters who have a passive Wisdom ({@skill Perception}) score of 17 or higher spot the shadow demons before they attack and aren't {@status surprised} by them.",
-												"The stairs in the north wall lead down to areas U1 through U4, detailed later in the \"{@adventure Underground Cave|SCC-ARiR|0|Underground Cave}\" section."
+												"The stairs in the north wall lead down to areas U1 through U4, detailed later in the \"{@area Underground Cave|3f4|x}\" section."
 											]
 										},
 										{
@@ -3074,7 +3074,7 @@
 														"The stench of decay wafts from this unlit cave. Inside, rows of wooden planters mounted on the walls hold a variety of fungi. A large purple mushroom grows in the northwest corner."
 													]
 												},
-												"The large, purple mushroom growing in the northwest corner is a {@creature shrieker}, which commences shrieking when any creature that's not {@creature Murgaxor|SCC} or {@creature Y'demi|SCC} approaches more than 10 feet inside the cave. The shriek is loud enough to alert the {@creature spectator} in {@adventure area T1|SCC-ARiR|0|T1. Watchtowers}, the {@creature Shadow Demon||shadow demons} in {@adventure area T3E|SCC-ARiR|0|T3E. East Entrance}, and the {@creature gorgon} in {@adventure area T7|SCC-ARiR|0|T7. Gorgon's Cave}.",
+												"The large, purple mushroom growing in the northwest corner is a {@creature shrieker}, which commences shrieking when any creature that's not {@creature Murgaxor|SCC} or {@creature Y'demi|SCC} approaches more than 10 feet inside the cave. The shriek is loud enough to alert the {@creature spectator} in {@area area T1|3d1|x}, the {@creature Shadow Demon||shadow demons} in {@area area T3E|3e3|x}, and the {@creature gorgon} in {@area area T7|3f3|x}.",
 												"The fungi here are used in {@creature Murgaxor|SCC}'s alchemical concoctions and poisons. Creatures foolish enough to eat the fungi must succeed on a {@dc 12} Constitution saving throw or become {@condition poisoned} for 1 hour.",
 												{
 													"type": "entries",
@@ -4066,7 +4066,7 @@
 													"page": 172,
 													"id": "403",
 													"entries": [
-														"A character who searches the southeast wall and succeeds on a {@dc 15} Wisdom ({@skill Perception}) check finds a door disguised to blend with the surrounding stone. This 5-foot-wide, 10-foot-tall stone door opens to a hallway that ends at another secret door, beyond which is {@adventure area U2|SCC-ARiR|0|U2. Ritual Area}. From inside the hallway, characters can spot either secret door without having to make a check."
+														"A character who searches the southeast wall and succeeds on a {@dc 15} Wisdom ({@skill Perception}) check finds a door disguised to blend with the surrounding stone. This 5-foot-wide, 10-foot-tall stone door opens to a hallway that ends at another secret door, beyond which is {@area area U2|3f8|x}. From inside the hallway, characters can spot either secret door without having to make a check."
 													]
 												},
 												{
@@ -4088,7 +4088,7 @@
 									"page": 172,
 									"id": "405",
 									"entries": [
-										"The information in {@adventure areas T5|SCC-ARiR|0|T5. Lab}, {@adventure U2|SCC-ARiR|0|U2. Ritual Area}, and {@adventure U4|SCC-ARiR|0|U4. Living Area} gives a clear picture of the ritual {@creature Murgaxor|SCC} is conducting, where he's conducting it, and when it will be completed. The characters can rush to confront {@creature Murgaxor|SCC} in the Ruins of Caerdoon right away. However, since they have some time before the ritual finishes, encourage them to return to campus to make any final preparations\u2014not to mention have one final visit with their Friends, Rivals, and Beloveds\u2014before heading into this adventure's final areas."
+										"The information in {@area areas T5|3ea|x}, {@area U2|3f8|x}, and {@area U4|3fd|x} gives a clear picture of the ritual {@creature Murgaxor|SCC} is conducting, where he's conducting it, and when it will be completed. The characters can rush to confront {@creature Murgaxor|SCC} in the Ruins of Caerdoon right away. However, since they have some time before the ritual finishes, encourage them to return to campus to make any final preparations\u2014not to mention have one final visit with their Friends, Rivals, and Beloveds\u2014before heading into this adventure's final areas."
 									]
 								}
 							]
@@ -5044,7 +5044,7 @@
 													"page": 174,
 													"id": "411",
 													"entries": [
-														"When a creature not approved by {@creature Murgaxor|SCC} moves within 10 feet of the moat, a 40-foot-high, 1-inch-thick dome of opaque necrotic energy erupts from the middle of the moat to enclose the ruined fortress ({@adventure area N6|SCC-ARiR|0|N6. Fortress}).",
+														"When a creature not approved by {@creature Murgaxor|SCC} moves within 10 feet of the moat, a 40-foot-high, 1-inch-thick dome of opaque necrotic energy erupts from the middle of the moat to enclose the ruined fortress ({@area area N6|420|x}).",
 														"When the dome appears, read the following:",
 														{
 															"type": "insetReadaloud",
@@ -5137,7 +5137,7 @@
 														"A half dozen long-dead soldiers crawl out from underneath the wreckage and get to their feet, their faces grim with determination as they unsheathe their rusty swords."
 													]
 												},
-												"The wights take their orders from the wraith in {@adventure area N1|SCC-ARiR|0|N1. Haunted Watchtower}, and the wraith has instructed the wights to attack trespassers on sight. However, a character who calls for a cessation of hostilities can, with a successful {@dc 13} Charisma ({@skill Persuasion}) check, convince the wights not to attack on their next turn and answer a few questions instead. This ploy works once, after which further calls for peace fall on deaf ears. Questions the wights can answer include the following:",
+												"The wights take their orders from the wraith in {@area area N1|40e|x}, and the wraith has instructed the wights to attack trespassers on sight. However, a character who calls for a cessation of hostilities can, with a successful {@dc 13} Charisma ({@skill Persuasion}) check, convince the wights not to attack on their next turn and answer a few questions instead. This ploy works once, after which further calls for peace fall on deaf ears. Questions the wights can answer include the following:",
 												{
 													"type": "entries",
 													"name": "Where is Murgaxor now",
@@ -5216,7 +5216,7 @@
 													"page": 177,
 													"id": "422",
 													"entries": [
-														"In each 5-foot square marked X on {@adventure map 6.4|SCC-ARiR|0|Map 6.4: ruins of caerdoon} is a {@spell glyph of warding} placed by {@creature Murgaxor|SCC}. Finding each glyph requires a successful {@dc 16} Intelligence ({@skill Investigation}) check. If the wights in area N5 warned the characters about the glyphs, checks made to find them have advantage.",
+														"In each 5-foot square marked X on {@area map 6.4|003|x} is a {@spell glyph of warding} placed by {@creature Murgaxor|SCC}. Finding each glyph requires a successful {@dc 16} Intelligence ({@skill Investigation}) check. If the wights in area N5 warned the characters about the glyphs, checks made to find them have advantage.",
 														"Once a glyph is found, a successful {@dc 16} Intelligence ({@skill Arcana}) check disables it. Otherwise, the glyph triggers the first time a creature enters the 5-foot square, activating a {@spell hypnotic pattern} spell (save {@dc 16}) centered on the glyph."
 													]
 												},
@@ -5234,7 +5234,7 @@
 																"Pained eyes bulge from a 5-foot-diameter sphere of glistening muscle, ashen skin, and yellowed bone. Oily vapor issues from six mouths on the surface of the sphere, which sits pulsing on the ground."
 															]
 														},
-														"A character who examines the sphere and succeeds on a {@dc 15} Intelligence ({@skill Arcana}) check ascertains that it powers the dome around the ruins (see {@adventure area N2|SCC-ARiR|0|N2. Wailing Moat}), and that its haphazard construction makes it susceptible to having its innards torn out or its magic destabilized.",
+														"A character who examines the sphere and succeeds on a {@dc 15} Intelligence ({@skill Arcana}) check ascertains that it powers the dome around the ruins (see {@area area N2|40f|x}), and that its haphazard construction makes it susceptible to having its innards torn out or its magic destabilized.",
 														"The Locus is a Medium object with AC 15; 50 hit points; a damage threshold of 15; immunity to necrotic, poison, and psychic damage; and resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. The Locus can't be moved, but it can be damaged in the following special ways:",
 														{
 															"type": "list",
@@ -5284,7 +5284,7 @@
 							"page": 178,
 							"id": "426",
 							"entries": [
-								"Each character advances to 10th level before the party descends into the {@adventure basement|SCC-ARiR|0|Basement Features} of the Fortress of Caerdoon."
+								"Each character advances to 10th level before the party descends into the {@area basement|429|x} of the Fortress of Caerdoon."
 							]
 						}
 					]
@@ -5302,7 +5302,7 @@
 							"page": 178,
 							"id": "428",
 							"entries": [
-								"{@creature Murgaxor|SCC}'s ritual can't be completed without five ritual stones, which circle {@creature Murgaxor|SCC} while he performs the ritual. Without the stones, he can't manipulate the forces of life and death and would be overwhelmed by their power. See {@adventure area M6|SCC-ARiR|0|M6. Immortality Ritual} for more information about these stones.",
+								"{@creature Murgaxor|SCC}'s ritual can't be completed without five ritual stones, which circle {@creature Murgaxor|SCC} while he performs the ritual. Without the stones, he can't manipulate the forces of life and death and would be overwhelmed by their power. See {@area area M6|43b|x} for more information about these stones.",
 								{
 									"type": "image",
 									"href": {
@@ -5548,7 +5548,7 @@
 												"Torches illuminate a spacious chamber that has crates and boxes stashed in its corners. Five stout, wooden doors line the chamber's south wall. Soggy texts and scrolls lie in puddles on the floor. To the north, you hear an eerie chant made up of guttural croaks."
 											]
 										},
-										"{@creature Murgaxor|SCC} is the source of the chant. If the characters make any loud noises here, {@creature Murgaxor|SCC} notices their presence, although he remains in {@adventure area M6|SCC-ARiR|0|M6. Immortality Ritual}.",
+										"{@creature Murgaxor|SCC} is the source of the chant. If the characters make any loud noises here, {@creature Murgaxor|SCC} notices their presence, although he remains in {@area area M6|43b|x}.",
 										"The soggy books and blank scrolls lying in puddles on the floor were used by {@creature Murgaxor|SCC} to prepare for his ritual; they no longer have any value.",
 										{
 											"type": "entries",
@@ -5612,7 +5612,7 @@
 													"name": "Catapult Munition",
 													"id": "433",
 													"entries": [
-														"This device looks like a cannonball and weighs as much as one. It functions like the catapult munition found in {@adventure area N3|SCC-ARiR|0|N3. Wreckage}."
+														"This device looks like a cannonball and weighs as much as one. It functions like the catapult munition found in {@area area N3|413|x}."
 													]
 												}
 											]
@@ -5712,7 +5712,7 @@
 													"page": 180,
 													"id": "43f",
 													"entries": [
-														"Once the barrier is destroyed, characters can attack {@creature Murgaxor|SCC} and the five ritual stones circling him. Each stone is an 8-inch-long cylindrical opal covered with delicate golden runes. It has AC 18, 30 hit points, and immunity to poison and psychic damage. Reducing {@creature Murgaxor|SCC} to 0 hit points or destroying all five ritual stones ends the ritual before it can be completed (see \"{@adventure Stopping the Ritual|SCC-ARiR|0|Stopping the Ritual}\" below)."
+														"Once the barrier is destroyed, characters can attack {@creature Murgaxor|SCC} and the five ritual stones circling him. Each stone is an 8-inch-long cylindrical opal covered with delicate golden runes. It has AC 18, 30 hit points, and immunity to poison and psychic damage. Reducing {@creature Murgaxor|SCC} to 0 hit points or destroying all five ritual stones ends the ritual before it can be completed (see \"{@area Stopping the Ritual|441|x}\" below)."
 													]
 												},
 												{

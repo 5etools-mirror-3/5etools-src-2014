@@ -141,7 +141,7 @@
 												}
 											]
 										},
-										"More details on the different archdevils, including their stat blocks, can be found in {@adventure appendix A|CoA|13}, \"{@adventure Lords of the Nine|CoA|13}.\"",
+										"More details on the different archdevils, including their stat blocks, can be found in {@area appendix A|34c|x}, \"{@area Lords of the Nine|34c|x}.\"",
 										{
 											"type": "inset",
 											"name": "An Unjust Universe",
@@ -177,8 +177,8 @@
 					"page": 5,
 					"entries": [
 						"To run this adventure, you need the fifth edition rulebooks: {@book Player's Handbook|PHB}, {@book Dungeon Master's Guide|DMG}, {@book Monster Manual|MM}, and {@book Monsters of the Multiverse|MPMM}. {@adventure Baldur's Gate: Descent into Avernus|BGDIA} would also be a good source; {@adventure Chains of Asmodeus|CoA} can be run as a continuation of that story.",
-						"The stat blocks for most creatures in this adventure can be found in the {@book Monster Manual|MM}. When a creature's name appears in bold type, that is a visual cue for you to look up the creature's stat block in the {@book Monster Manual|MM}, unless the adventure's text refers you to {@adventure appendix B|CoA|14} (for monsters), {@adventure appendix C|CoA|15} (for NPCs), or {@book Monsters of the Multiverse|MPMM}.",
-						"Spells and equipment mentioned in the adventure are described in the {@book Player's Handbook|PHB}. Magic items are described in the {@book Dungeon Master's Guide|DMG}, unless the text directs you to an item's description in {@adventure appendix D|CoA|16} of this book.",
+						"The stat blocks for most creatures in this adventure can be found in the {@book Monster Manual|MM}. When a creature's name appears in bold type, that is a visual cue for you to look up the creature's stat block in the {@book Monster Manual|MM}, unless the adventure's text refers you to {@area appendix B|351|x} (for monsters), {@area appendix C|353|x} (for NPCs), or {@book Monsters of the Multiverse|MPMM}.",
+						"Spells and equipment mentioned in the adventure are described in the {@book Player's Handbook|PHB}. Magic items are described in the {@book Dungeon Master's Guide|DMG}, unless the text directs you to an item's description in {@area appendix D|354|x} of this book.",
 						{
 							"type": "insetReadaloud",
 							"page": 5,
@@ -423,7 +423,7 @@
 													"type": "item",
 													"name": "Patron Objectives",
 													"entries": [
-														"{@item Cloak of Invisibility}, {@item Instrument of the Bards, Ollamh Harp||Instrument of the Bards (Ollamh Harp)}, {@item Horn of Valhalla, Iron||Iron Horn of Valhalla}, {@item Wrought-Iron Tower|CoA} ({@adventure see appendix D|CoA|16})"
+														"{@item Cloak of Invisibility}, {@item Instrument of the Bards, Ollamh Harp||Instrument of the Bards (Ollamh Harp)}, {@item Horn of Valhalla, Iron||Iron Horn of Valhalla}, {@item Wrought-Iron Tower|CoA} ({@area see appendix D|354|x})"
 													]
 												}
 											]
@@ -459,7 +459,7 @@
 													"type": "item",
 													"name": "Patron Objectives",
 													"entries": [
-														"{@item Accounting and Valuation of All Things|CoA} ({@adventure see appendix D|CoA|16}), {@item Belt of Storm Giant Strength||Belt of Giant Strength (storm)}"
+														"{@item Accounting and Valuation of All Things|CoA} ({@area see appendix D|354|x}), {@item Belt of Storm Giant Strength||Belt of Giant Strength (storm)}"
 													]
 												}
 											]
@@ -495,7 +495,7 @@
 													"type": "item",
 													"name": "Patron Objectives",
 													"entries": [
-														"{@creature Anagwendol|CoA}, {@item Amulet of the Inferno|CoA} or {@item Ranseur of Torture|CoA} ({@adventure see appendix D|CoA|16})"
+														"{@creature Anagwendol|CoA}, {@item Amulet of the Inferno|CoA} or {@item Ranseur of Torture|CoA} ({@area see appendix D|354|x})"
 													]
 												}
 											]
@@ -531,7 +531,7 @@
 													"type": "item",
 													"name": "Patron Objective",
 													"entries": [
-														"{@item Holy Avenger}, {@item Manual of Iron Golems||Manual of Golems (iron)}, {@item Rod of Resurrection}, {@item True-Ice Shards|CoA} ({@adventure see appendix D|CoA|16})"
+														"{@item Holy Avenger}, {@item Manual of Iron Golems||Manual of Golems (iron)}, {@item Rod of Resurrection}, {@item True-Ice Shards|CoA} ({@area see appendix D|354|x})"
 													]
 												}
 											]
@@ -567,7 +567,7 @@
 													"type": "item",
 													"name": "Patron Objective",
 													"entries": [
-														"{@item Scourge of Shadow|CoA} ({@adventure see appendix D|CoA|16})"
+														"{@item Scourge of Shadow|CoA} ({@area see appendix D|354|x})"
 													]
 												}
 											]
@@ -872,7 +872,7 @@
 							"name": "Koh Tam",
 							"page": 9,
 							"entries": [
-								"The group patron puts the characters in contact with {@creature Koh Tam|CoA} ({@adventure see chapter 1|CoA|1}), a priest serving the God of the Dead. {@creature Koh Tam|CoA} is an expert on the Nine Hells and knows how to navigate the River Styx. But first, he must learn where the souls that the characters seek might be found. To that end, he summons {@creature Baalzebul|CoA} and invites the archdevil to possess him. The characters must deal with the devil to learn the location of the souls. Afterwards, they must exorcise {@creature Koh Tam|CoA} of the devil's spirit."
+								"The group patron puts the characters in contact with {@creature Koh Tam|CoA} ({@area see chapter 1|061|x}), a priest serving the God of the Dead. {@creature Koh Tam|CoA} is an expert on the Nine Hells and knows how to navigate the River Styx. But first, he must learn where the souls that the characters seek might be found. To that end, he summons {@creature Baalzebul|CoA} and invites the archdevil to possess him. The characters must deal with the devil to learn the location of the souls. Afterwards, they must exorcise {@creature Koh Tam|CoA} of the devil's spirit."
 							],
 							"id": "027"
 						},
@@ -1798,7 +1798,7 @@
 							"name": "Resolving Group Patron Objectives",
 							"page": 22,
 							"entries": [
-								"The characters can stay in contact with their group patron throughout the adventure. Once the characters complete the quest given to them by their group patron, they'll have a final meeting with their group patron's representative in Cania. See \"{@adventure A Thankful Patron|CoA|10|A Thankful Patron}\" in chapter 10 for details."
+								"The characters can stay in contact with their group patron throughout the adventure. Once the characters complete the quest given to them by their group patron, they'll have a final meeting with their group patron's representative in Cania. See \"{@area A Thankful Patron|2a3|x}\" in chapter 10 for details."
 							],
 							"id": "047"
 						}
@@ -2418,7 +2418,7 @@
 							"name": "Deathstalker Quest",
 							"page": 28,
 							"entries": [
-								"To force {@creature Asmodeus|CoA} to make good on his word, the Deathstalkers of Bhaal want to gain leverage. For this they need a powerful artifact. They ask the characters to steal some of the most infamous and powerful artifacts of the Nine Hells. They need only one, leaving any other artifacts for the characters to decide what to do with. For a detailed description of these artifacts, see the section \"Infernal Artifacts\" in {@adventure appendix D|CoA|16}."
+								"To force {@creature Asmodeus|CoA} to make good on his word, the Deathstalkers of Bhaal want to gain leverage. For this they need a powerful artifact. They ask the characters to steal some of the most infamous and powerful artifacts of the Nine Hells. They need only one, leaving any other artifacts for the characters to decide what to do with. For a detailed description of these artifacts, see the section \"Infernal Artifacts\" in {@area appendix D|354|x}."
 							],
 							"id": "059"
 						},
@@ -2451,7 +2451,7 @@
 									"name": "Soul Coin Market",
 									"page": 29,
 									"entries": [
-										"Much like the archdevils of the Nine Hells, Bhaal desires souls. Specifically, he desires Soul Coins (see \"{@item Soul Coin|BGDIA|Soul Coins}\" in {@adventure appendix D|CoA|16}). When you're in possession of one or more Soul Coins, you can whisper to the coin what it is that you desire from the Deathstalker Items table. If you have the requisite number of coins, the Soul Coins vanish from your possession, and the item that you asked for appears within 5 feet of you.",
+										"Much like the archdevils of the Nine Hells, Bhaal desires souls. Specifically, he desires Soul Coins (see \"{@item Soul Coin|BGDIA|Soul Coins}\" in {@area appendix D|354|x}). When you're in possession of one or more Soul Coins, you can whisper to the coin what it is that you desire from the Deathstalker Items table. If you have the requisite number of coins, the Soul Coins vanish from your possession, and the item that you asked for appears within 5 feet of you.",
 										{
 											"type": "table",
 											"caption": "Deathstalker Items",
@@ -2960,7 +2960,7 @@
 									"width": 1766,
 									"height": 1340
 								},
-								"Once the avatar has been defeated, the second stage begins. {@creature Koh Tam|CoA} ({@adventure see appendix C|CoA|15}) is possessed and attacks. The characters must free him by casting a Dispel Evil and Good or {@spell Greater Restoration} spell on him, or by dealing radiant damage to him. Feel free to allow other strategies to work if they make sense to the situation. A cleric's Divine Intervention, for example, banishes {@creature Baalzebul|CoA} back to the Nine Hells immediately.",
+								"Once the avatar has been defeated, the second stage begins. {@creature Koh Tam|CoA} ({@area see appendix C|353|x}) is possessed and attacks. The characters must free him by casting a Dispel Evil and Good or {@spell Greater Restoration} spell on him, or by dealing radiant damage to him. Feel free to allow other strategies to work if they make sense to the situation. A cleric's Divine Intervention, for example, banishes {@creature Baalzebul|CoA} back to the Nine Hells immediately.",
 								"Once the characters rid {@creature Koh Tam|CoA} of the avatar of {@creature Baalzebul|CoA}, the threat is ended."
 							],
 							"id": "077"
@@ -3002,7 +3002,7 @@
 							],
 							"id": "07c"
 						},
-						"{@creature Koh Tam|CoA} guides the characters away from the Bronze Citadel to the docks. There he introduces them to his first mate, {@creature Tiax|CoA} ({@adventure see appendix C|CoA|15}).",
+						"{@creature Koh Tam|CoA} guides the characters away from the Bronze Citadel to the docks. There he introduces them to his first mate, {@creature Tiax|CoA} ({@area see appendix C|353|x}).",
 						{
 							"type": "image",
 							"href": {
@@ -3026,7 +3026,7 @@
 						"{@creature Tiax|CoA} is a cleric of Cyric, the god of lies. He believes that his god has chosen him to one day rule Faerûn. Over the years this preposterous belief has led to imprisonment half a dozen times, usually when one of his schemes blows up in his face (often literally). However, Cyric does indeed favor him and treats him like a pet or jester. Thus, the god always helps the gnome escape from whatever predicament he has brought down on himself.",
 						"Cyric has directed {@creature Tiax|CoA} to serve {@creature Koh Tam|CoA} faithfully. Cyric is interested in what {@creature Asmodeus|CoA} has planned and harbors a deep hatred for {@creature Koh Tam|CoA}'s god, Kelemvor. He hopes that {@creature Tiax|CoA} might learn something about {@creature Asmodeus|CoA}'s schemes and if not, then {@creature Tiax|CoA} is well positioned to kill one of Kelemvor's most powerful clerics.",
 						"{@creature Tiax|CoA} hides his faith from everyone. He proclaims himself a great sorcerer so that any magic he uses isn't thought of as divinely given. {@creature Tiax|CoA} is a ticking time bomb and as the characters travel deeper into the Nine Hells he becomes more dangerous. {@creature Tiax|CoA} will randomly appear to help\u2014or hinder\u2014the characters as they make their way through the Nine Hells. Every time the characters arrive at a layer of the Nine Hells, even if they've previously visited it, roll on the Troubles with {@creature Tiax|CoA} table and run the indicated event.",
-						"Eventually {@creature Tiax|CoA} will betray {@creature Koh Tam|CoA} at the Falls of the Frozen Titan in Cania. See the \"{@adventure Tiax's Betrayal|CoA|10|Tiax's Betrayal}\" section in chapter 10 for more details.",
+						"Eventually {@creature Tiax|CoA} will betray {@creature Koh Tam|CoA} at the Falls of the Frozen Titan in Cania. See the \"{@area Tiax's Betrayal|2b1|x}\" section in chapter 10 for more details.",
 						{
 							"type": "table",
 							"caption": "Troubles with Tiax",
@@ -3114,7 +3114,7 @@
 					"name": "No Turning Back",
 					"page": 39,
 					"entries": [
-						"Having met {@creature Tiax|CoA} and boarded {@creature Koh Tam|CoA}'s barge the characters are ready for their adventure to begin. Proceed to \"{@adventure The Bronze Citadel|CoA|3|The Bronze Citadel}\" section in chapter 3.",
+						"Having met {@creature Tiax|CoA} and boarded {@creature Koh Tam|CoA}'s barge the characters are ready for their adventure to begin. Proceed to \"{@area The Bronze Citadel|106|x}\" section in chapter 3.",
 						{
 							"type": "image",
 							"href": {
@@ -3196,7 +3196,7 @@
 					"page": 43,
 					"entries": [
 						"Each layer of the Nine Hells has an adventure location that may contain one of the souls that the characters are searching for. In addition, there is the group patron's objective. {@creature Koh Tam|CoA} is familiar with each layer along with the adventure locations of each. However, he won't speak about a layer or its adventure location until they arrive. {@creature Koh Tam|CoA} responds to any questions on upcoming layers by saying, \"All in due time.\" The characters might wish to explore an adventure location even if it doesn't contain one of their objectives. You should allow them to do this as they can still stumble across the objectives of other group patrons.",
-						"The Objective Locations table summarizes where to find the souls the characters seek as well as their group patron's objectives ({@adventure appendix D|CoA|16} contains further details about the items the Deathstalkers seek.)"
+						"The Objective Locations table summarizes where to find the souls the characters seek as well as their group patron's objectives ({@area appendix D|354|x} contains further details about the items the Deathstalkers seek.)"
 					],
 					"id": "085"
 				},
@@ -3687,7 +3687,7 @@
 									"name": "Attacking the Citadel",
 									"page": 48,
 									"entries": [
-										"If the characters want to join in the assault on the citadel, it is clear that the demons shall lose this battle. It should also be clear that the characters can simply leave the battle at any time\u2014neither demon nor devil notice. The devilish host includes ten {@creature shredwing|CoA|shredwings} fighting the chasmes and eight {@creature affliction devil (kocrachon)|CoA|affliction devils} guarding each citadel entrance ({@adventure see appendix B|CoA|14} for both). Inside a squad of sixteen {@creature bearded devil||bearded devils} emerge to further challenge intruders. If somehow despite all these obstacles the characters reach the bridge, they find it crewed by six {@creature horned devil||horned devils}, two {@creature war devil|CoA|war devils} ({@adventure see appendix B|CoA|14}), and the archdevil appropriate to this layer of the Nine Hells."
+										"If the characters want to join in the assault on the citadel, it is clear that the demons shall lose this battle. It should also be clear that the characters can simply leave the battle at any time\u2014neither demon nor devil notice. The devilish host includes ten {@creature shredwing|CoA|shredwings} fighting the chasmes and eight {@creature affliction devil (kocrachon)|CoA|affliction devils} guarding each citadel entrance ({@area see appendix B|351|x} for both). Inside a squad of sixteen {@creature bearded devil||bearded devils} emerge to further challenge intruders. If somehow despite all these obstacles the characters reach the bridge, they find it crewed by six {@creature horned devil||horned devils}, two {@creature war devil|CoA|war devils} ({@area see appendix B|351|x}), and the archdevil appropriate to this layer of the Nine Hells."
 									],
 									"id": "08e"
 								}
@@ -3718,9 +3718,9 @@
 									],
 									"id": "090"
 								},
-								"This region of the Nine Hells is infested with {@creature Ayperobo Swarm|CoA|ayperobos} ({@adventure see appendix B|CoA|14}). These tiny devils swarm about by the thousands, disguising themselves within the swarms of black flies. They've even burrowed into the flesh of several of the {@creature rothé|CoA} (see the accompanying stat block) and now control these beasts like puppets. The devious devils have scattered the armor, weapons, and treasure of previous victims near the entrance of one of the caves. This way, it can easily be seen from boats passing by. However, it isn't the ayperobos that poses the greatest danger here.",
+								"This region of the Nine Hells is infested with {@creature Ayperobo Swarm|CoA|ayperobos} ({@area see appendix B|351|x}). These tiny devils swarm about by the thousands, disguising themselves within the swarms of black flies. They've even burrowed into the flesh of several of the {@creature rothé|CoA} (see the accompanying stat block) and now control these beasts like puppets. The devious devils have scattered the armor, weapons, and treasure of previous victims near the entrance of one of the caves. This way, it can easily be seen from boats passing by. However, it isn't the ayperobos that poses the greatest danger here.",
 								"The first clue to the dangers of this area are the freshly stripped corpses of several rothé, recently eaten by the ayperobos. All that remains of these rothé are their intact skeletons, flecked with blood and flesh. A successful {@dc 15} Wisdom ({@skill Survival}) check reveals that these corpses are recent and that whatever killed them stripped all of the meat from their bones in a matter of moments.",
-								"The ayperobos wait until their prey has come ashore before attacking\u2014unless it looks like a passing ship doesn't intend to stop. They will then descend upon their victims en masse. A swarm of them will push against the mast, sails and even hull of the Styx barge to drive it against the shore. A successful {@dc 15} Strength check is required by the navigator to keep a boat on course. The ayperobos aren't interested in eating the flesh of their victims; instead, they serve a greater threat. A {@creature tyrant shadow|CoA} ({@adventure see appendix B|CoA|14}) lives within the caves that dot the shore and the ayperobos lure in hapless mortals and devils to be consumed by it. If any of the ayperobos swarms take control of a creature, they force it to enter the nearest cave mouth.",
+								"The ayperobos wait until their prey has come ashore before attacking\u2014unless it looks like a passing ship doesn't intend to stop. They will then descend upon their victims en masse. A swarm of them will push against the mast, sails and even hull of the Styx barge to drive it against the shore. A successful {@dc 15} Strength check is required by the navigator to keep a boat on course. The ayperobos aren't interested in eating the flesh of their victims; instead, they serve a greater threat. A {@creature tyrant shadow|CoA} ({@area see appendix B|351|x}) lives within the caves that dot the shore and the ayperobos lure in hapless mortals and devils to be consumed by it. If any of the ayperobos swarms take control of a creature, they force it to enter the nearest cave mouth.",
 								"The tyrant shadow is a thing of concentrated hatred, fear, and loathing. It has taken the appearance of a {@creature giant spider} made from writhing shadows. As soon as it has an opportunity it snatches a single victim and drags him or her deep into its cave system. From there the tyrant shadow takes its time to devour its prey, hoping that the screams attract a rescue attempt.",
 								"This particular tyrant shadow was manifested by the archdevil known as {@creature Zagum|CoA} of the Triad. Treasure. Among the scattered belongings are some valuables. Select three {@filter uncommon magic items|items|source=DMG|rarity=uncommon} from the {@book Dungeon Master's Guide|DMG}."
 							],
@@ -3826,7 +3826,7 @@
 									"name": "Yamun Khazad",
 									"page": 50,
 									"entries": [
-										"This {@creature Pain Devil (Excruciarch)|CoA|pain devil} rides an intimidating {@creature miasmorne|CoA} ({@adventure see appendix B|CoA|14} for both) and comes from the world of Faerûn, where he was once a warlord that united the tribes of the Endless Steppe. He believes in the power of victory and domination over others.",
+										"This {@creature Pain Devil (Excruciarch)|CoA|pain devil} rides an intimidating {@creature miasmorne|CoA} ({@area see appendix B|351|x} for both) and comes from the world of Faerûn, where he was once a warlord that united the tribes of the Endless Steppe. He believes in the power of victory and domination over others.",
 										{
 											"type": "quote",
 											"entries": [
@@ -3860,7 +3860,7 @@
 									],
 									"id": "098"
 								},
-								"A powerful {@creature amnizu|MPMM} (see Monsters of the Multiverse), named Minos, controls this section of the River Styx. He is in command of a {@creature Styx dragon|CoA} ({@adventure see appendix B|CoA|14}) that he uses to stop ships passing through. Minos considers himself an arbiter and judge of the Nine Hells. He enjoys judging the souls of the damned. Though boats frequently pass him by, they're rarely crewed with mortals, and thus his interest is piqued. Minos' other talent is with riddles, something he loves to practice with devils and mortals alike.",
+								"A powerful {@creature amnizu|MPMM} (see Monsters of the Multiverse), named Minos, controls this section of the River Styx. He is in command of a {@creature Styx dragon|CoA} ({@area see appendix B|351|x}) that he uses to stop ships passing through. Minos considers himself an arbiter and judge of the Nine Hells. He enjoys judging the souls of the damned. Though boats frequently pass him by, they're rarely crewed with mortals, and thus his interest is piqued. Minos' other talent is with riddles, something he loves to practice with devils and mortals alike.",
 								"Minos rises from the Styx once the ship has been brought to a stop by his Styx dragon. He asks for the names of the crew members. If any on board shares their name, Minos acts as if he has heard the name before and plays upon the pride of the individual. He tries to convince one of the characters to play a game of riddles with him. If they refuse, then he explains that their ship is in the grip of his Styx dragon and that he will only allow them passage if they play his game.",
 								"The game consists of three rounds. In each round, Minos will pose a riddle and then the character must pose a riddle. Feel free to replace the three riddles below with different ones of your choosing. The players can either come up with a riddle on their own (which you try to answer) or they can succeed on a {@dc 16} Intelligence check to craft a riddle Minos can't solve. The characters are victorious if Minos can't answer one of their riddles or if they're able to answer all three of the riddles posed by Minos.",
 								{
@@ -3940,7 +3940,7 @@
 										}
 									]
 								},
-								"Winning the game of riddles results in Minos allowing the characters to choose one infernal magic item from his stash at the bottom of the Styx. He has the following items: {@item Bracers of Asmodeus|CoA}, {@item Canian Fork|CoA}, {@item Demonbone Polearm|CoA}, {@item Infernal Amulet|CoA}, {@item Infernal Plate Armor|CoA}, {@item Stygian Spear|CoA}, and the {@item Sword of Retribution|CoA} (these are described in {@adventure appendix D|CoA|16}).",
+								"Winning the game of riddles results in Minos allowing the characters to choose one infernal magic item from his stash at the bottom of the Styx. He has the following items: {@item Bracers of Asmodeus|CoA}, {@item Canian Fork|CoA}, {@item Demonbone Polearm|CoA}, {@item Infernal Amulet|CoA}, {@item Infernal Plate Armor|CoA}, {@item Stygian Spear|CoA}, and the {@item Sword of Retribution|CoA} (these are described in {@area appendix D|354|x}).",
 								"Losing the game of riddles results in Minos demanding 5 Soul Coins to continue down the river. Refusal results in Minos and the Styx dragon attacking. If Minos is attacked or if the game of riddles is refused, then the amnizu and his pet Styx dragon will attack together."
 							],
 							"id": "097"
@@ -3969,7 +3969,7 @@
 									],
 									"id": "09a"
 								},
-								"This camp is the home of Gulgara, a powerful {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@adventure see appendix B|CoA|14}) known as a sire of corruption, and her many minions. Gulgara created the camp decades ago as a trap for the unwary and a place to hone her powers of corruption. Recently a large group of adventurers were searching for the souls of their loved ones when they came under attack by numerous devils. The adventurers could not believe their luck when they saw what appeared to be an abandoned infernal fort. They took refuge within, not realizing it was the corruption devil's powers that had drawn them there in the first place.",
+								"This camp is the home of Gulgara, a powerful {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@area see appendix B|351|x}) known as a sire of corruption, and her many minions. Gulgara created the camp decades ago as a trap for the unwary and a place to hone her powers of corruption. Recently a large group of adventurers were searching for the souls of their loved ones when they came under attack by numerous devils. The adventurers could not believe their luck when they saw what appeared to be an abandoned infernal fort. They took refuge within, not realizing it was the corruption devil's powers that had drawn them there in the first place.",
 								{
 									"type": "inset",
 									"name": "Decadent Corruption",
@@ -3993,7 +3993,7 @@
 									]
 								},
 								"Each tent is guarded by a pair of {@creature succubus||succubi} that have taken the appearance of human knights and pretend to be adventurers. They allow entry only to those obviously under the influence of Gulgara's decadent corruption ability. If the characters attempt to force their way into a tent, all the camp's occupants attack the characters.",
-								"In the first tent, a mage is being tortured by a trio of {@creature Affliction Devil (Kocrachon)|CoA|affliction devils} ({@adventure see appendix B|CoA|14}). The devils attack characters not under the influence of the decadent corruption ability. The other tent is where Gulgara can be found. She attacks characters not under the influence of the decadent corruption ability but emerges from the tent only if a fight breaks out between the characters and her servants.",
+								"In the first tent, a mage is being tortured by a trio of {@creature Affliction Devil (Kocrachon)|CoA|affliction devils} ({@area see appendix B|351|x}). The devils attack characters not under the influence of the decadent corruption ability. The other tent is where Gulgara can be found. She attacks characters not under the influence of the decadent corruption ability but emerges from the tent only if a fight breaks out between the characters and her servants.",
 								"The entire camp is under the influence of Gulgara's decadent corruption ability. The adventurers can be saved but each requires their decadent corruption be removed, as described in the sidebar. If a devil or succubus sees that an adventurer has been saved in this way, or any adventurer attempts to leave the camp, the remainder of the camp goes hostile. Adventurers that have been saved fight to assist the characters and, if they survive, continue to travel the Nine Hells with the characters.",
 								{
 									"type": "inset",
@@ -4070,7 +4070,7 @@
 									],
 									"id": "0a0"
 								},
-								"There are six {@creature Pain Devil (Excruciarch)|CoA|pain devils} and two {@creature maelephant nomad|CoA|maelephant nomads} (for both, {@adventure see appendix B|CoA|14}) around the bowl. Only someone standing at the edge of the bowl can see that it is filled with {@creature larva|DMG|larvae} (see the {@book Dungeon Master's Guide|DMG} for this stat block), {@creature lemure||lemures}, {@creature nupperibo|MPMM|nupperibos} (see Monsters of the Multiverse), and a few {@creature dretch||dretches} captured during the Blood War. These dretches have honed their telepathy so that they can communicate in any language. The pain devils push down any of the pitiful creatures that manage to climb up the sides of the bowl.",
+								"There are six {@creature Pain Devil (Excruciarch)|CoA|pain devils} and two {@creature maelephant nomad|CoA|maelephant nomads} (for both, {@area see appendix B|351|x}) around the bowl. Only someone standing at the edge of the bowl can see that it is filled with {@creature larva|DMG|larvae} (see the {@book Dungeon Master's Guide|DMG} for this stat block), {@creature lemure||lemures}, {@creature nupperibo|MPMM|nupperibos} (see Monsters of the Multiverse), and a few {@creature dretch||dretches} captured during the Blood War. These dretches have honed their telepathy so that they can communicate in any language. The pain devils push down any of the pitiful creatures that manage to climb up the sides of the bowl.",
 								"The maelephants attack anyone who tries to interfere with the pain devils.",
 								"The dretches use their telepathy to make promises to any mortal they see, but all their promises are lies. One dretch claims to be an angelic creature trapped under the other infernal creatures. Another dretch claims that there is a suit of magic plate armor at the bottom. Anyone crawling into the bowl is swarmed by the piteous creatures and must make a {@dc 15} Dexterity saving throw. They take 21 ({@damage 6d6}) slashing damage on a failed save, or half as much damage on a successful one. Magic within the bowl is corrupted so that any spell cast within it fails and triggers a wild magic surge. Determine the surge's effect by rolling on the sorcerer's {@table Wild Magic Surge|PHB} table in the {@book Player's Handbook|PHB}."
 							],
@@ -4100,8 +4100,8 @@
 									],
 									"id": "0a2"
 								},
-								"This forest is the home of one of Hell's larger herds of {@creature oneirovore|CoA|oneirovores} ({@adventure see appendix B|CoA|14}). These creatures, also known as dream eaters, are grazing on the branches of the trees. When they break off a branch it bleeds a luminescent sap that the oneirovores eagerly lap up. This sap is made up of the dreams of mortals.",
-								"Attacking the herd can quickly turn into a disaster. If any of the oneirovores is hurt, {@dice 2d4} {@creature Hellcat (Bezekira)|CoA|hellcats} ({@adventure see appendix B|CoA|14}) immediately spring to their defense. An oneirovore that is injured cries mournfully and releases its stored phantasmagoria. Nearby oneirovores also release their phantasmagoria. Things quickly get worse when the herd's shepherd arrives. In {@dice 1d4} rounds a pack of a dozen {@creature hell hound||hell hounds} will burst on to the scene. A round later the shepherd, a {@creature war devil|CoA} ({@adventure see appendix B|CoA|14}), arrives.",
+								"This forest is the home of one of Hell's larger herds of {@creature oneirovore|CoA|oneirovores} ({@area see appendix B|351|x}). These creatures, also known as dream eaters, are grazing on the branches of the trees. When they break off a branch it bleeds a luminescent sap that the oneirovores eagerly lap up. This sap is made up of the dreams of mortals.",
+								"Attacking the herd can quickly turn into a disaster. If any of the oneirovores is hurt, {@dice 2d4} {@creature Hellcat (Bezekira)|CoA|hellcats} ({@area see appendix B|351|x}) immediately spring to their defense. An oneirovore that is injured cries mournfully and releases its stored phantasmagoria. Nearby oneirovores also release their phantasmagoria. Things quickly get worse when the herd's shepherd arrives. In {@dice 1d4} rounds a pack of a dozen {@creature hell hound||hell hounds} will burst on to the scene. A round later the shepherd, a {@creature war devil|CoA} ({@area see appendix B|351|x}), arrives.",
 								"If the guardians of the flock are dealt with, then it isn't too difficult to coax some of the oneirovores on to a boat. A successful {@dc 15} Wisdom ({@skill Animal Handling}) check convinces an oneirovore to follow along. However, it is very dangerous for anyone to rest while so close to a dream eater. Someone who finishes a long rest within 10 feet of an oneirovore must make a {@dc 15} Wisdom saving throw. The DC increases by 5 for each oneirovore beyond the first. A failed save results in disadvantage on Wisdom saving throws. Only a {@spell Wish} spell can remove this effect."
 							],
 							"id": "0a1"
@@ -4130,7 +4130,7 @@
 									],
 									"id": "0a4"
 								},
-								"Four {@creature maelephant nomad|CoA|maelephant nomads} ({@adventure see appendix B|CoA|14}) stand at the top of the canyon and push boulders toward any ship passing by. These boulders glisten with embedded gold nuggets and when they smash into their target or hit the side of the canyon they break apart, scattering {@dice 2d12} gold nuggets along the riverbank. Each throws three boulders (Ranged Weapon Attack: {@hit 11} to hit, range 60/240 ft., one target. Hit: 28 ({@damage 4d10 + 6}) bludgeoning damage) before retiring out of sight. A spell such as {@spell Gust of Wind} pushes a ship out of range immediately.",
+								"Four {@creature maelephant nomad|CoA|maelephant nomads} ({@area see appendix B|351|x}) stand at the top of the canyon and push boulders toward any ship passing by. These boulders glisten with embedded gold nuggets and when they smash into their target or hit the side of the canyon they break apart, scattering {@dice 2d12} gold nuggets along the riverbank. Each throws three boulders (Ranged Weapon Attack: {@hit 11} to hit, range 60/240 ft., one target. Hit: 28 ({@damage 4d10 + 6}) bludgeoning damage) before retiring out of sight. A spell such as {@spell Gust of Wind} pushes a ship out of range immediately.",
 								"Nearly a dozen prospectors emerge from caves in the sides of the canyon and huts built along the shore. They scramble to collect the gold nuggets, often wading into the river to pick up nuggets that land in the shallows. The memories of these prospectors have long ago been eroded. Now all they care about is finding gold nuggets in the river and hiding whatever they find in the small lair they've built for themselves. Each gold nugget is worth 100 gp, but the prospectors react violently to anyone who tries to take their gold. The prospectors have silently agreed to not touch the treasure hoard of another. Anyone doing so earns the wrath of all the prospectors. A variety of prospectors live here:",
 								{
 									"type": "list",
@@ -4203,7 +4203,7 @@
 											"name": "Infernal Mansion",
 											"page": 56,
 											"entries": [
-												"This mansion is filled with some of the most gruesome looking demons and devils. The devils are willingly scaring participants, while the demons are... not so willing. A {@creature chain devil} uses chains to disturb those who walk down an inky black corridor. A pair of {@creature Hellcat (Bezekira)|CoA|hellcats} ({@adventure see appendix B|CoA|14}) terrorize people walking through an ancient torture chamber and a {@creature displacer fiend|CoA} ({@adventure see appendix B|CoA|14}) reaches out with its tentacles from a cage just unable to reach participants. Finally, there are the exploding {@creature manes} demons. They're released from multiple tiny doors and run gibbering at participants before exploding right before they reach them. This means that participants are always covered in demonic ichor. Luckily, this ichor doesn't behave as it does in the rest of the lower planes, but participants aren't told that."
+												"This mansion is filled with some of the most gruesome looking demons and devils. The devils are willingly scaring participants, while the demons are... not so willing. A {@creature chain devil} uses chains to disturb those who walk down an inky black corridor. A pair of {@creature Hellcat (Bezekira)|CoA|hellcats} ({@area see appendix B|351|x}) terrorize people walking through an ancient torture chamber and a {@creature displacer fiend|CoA} ({@area see appendix B|351|x}) reaches out with its tentacles from a cage just unable to reach participants. Finally, there are the exploding {@creature manes} demons. They're released from multiple tiny doors and run gibbering at participants before exploding right before they reach them. This means that participants are always covered in demonic ichor. Luckily, this ichor doesn't behave as it does in the rest of the lower planes, but participants aren't told that."
 											],
 											"id": "0aa"
 										},
@@ -4468,8 +4468,8 @@
 									"id": "0b4"
 								},
 								"If {@creature Koh Tam|CoA} is in command of the characters' ship, then he steers it to the riverbank and demands that the characters help the warrior. The warrior is a paladin serving Kelemvor named Sir Calenhad Strongheart (lawful neutral {@creature death knight} that is a Humanoid and doesn't have the Marshal Undead trait or Hellfire Orb action).",
-								"Calenhad battles against a dozen {@creature bearded devil||bearded devils}, a pair of {@creature horned devil||horned devils} and nine {@creature bone devil||bone devils}. These creatures are led by a powerful {@creature greater tyrant shadow|CoA} ({@adventure see appendix B|CoA|14}). This tyrant shadow was spawned from the archdevil {@creature Abigor|CoA} millennia ago.",
-								"Calenhad has been tasked by the archdevil {@creature Abigor|CoA} with killing the tyrant shadow, for the creature has been subtly undermining his machinations. {@creature Abigor|CoA} convinced the paladin that the tyrant shadow was responsible for the death of his family and their souls will be consigned to the Nine Hells unless he kills the creature (all lies). To help Calenhad in his quest, {@creature Abigor|CoA} granted him Infernal Plate Armor and a Sword of Retribution ({@adventure see appendix D|CoA|16} for details about both items.) These items have been slowly twisting the paladin.",
+								"Calenhad battles against a dozen {@creature bearded devil||bearded devils}, a pair of {@creature horned devil||horned devils} and nine {@creature bone devil||bone devils}. These creatures are led by a powerful {@creature greater tyrant shadow|CoA} ({@area see appendix B|351|x}). This tyrant shadow was spawned from the archdevil {@creature Abigor|CoA} millennia ago.",
+								"Calenhad has been tasked by the archdevil {@creature Abigor|CoA} with killing the tyrant shadow, for the creature has been subtly undermining his machinations. {@creature Abigor|CoA} convinced the paladin that the tyrant shadow was responsible for the death of his family and their souls will be consigned to the Nine Hells unless he kills the creature (all lies). To help Calenhad in his quest, {@creature Abigor|CoA} granted him Infernal Plate Armor and a Sword of Retribution ({@area see appendix D|354|x} for details about both items.) These items have been slowly twisting the paladin.",
 								"{@creature Koh Tam|CoA} asks the characters to subdue the paladin so he can remove the cursed items and heal him of infernal corruption. If they succeed in this, Calenhad stays below decks slowly recovering. If you want, he may come to the rescue of the characters at a key moment in the story."
 							],
 							"id": "0b3"
@@ -4488,7 +4488,7 @@
 							"name": "Corruption",
 							"page": 59,
 							"entries": [
-								"The temptations have real effect on the game, by modifying the amount of corruption for each character. The more corrupt a character, the more likely it is that they succumb to {@creature Asmodeus|CoA}'s manipulations. Keep track of the individual characters corruption scores on the \"Corruption Tracker\" found in {@adventure appendix E|CoA|17}. All characters start with a Corruption of 0, but are modified by the following:",
+								"The temptations have real effect on the game, by modifying the amount of corruption for each character. The more corrupt a character, the more likely it is that they succumb to {@creature Asmodeus|CoA}'s manipulations. Keep track of the individual characters corruption scores on the \"Corruption Tracker\" found in {@area appendix E|35b|x}. All characters start with a Corruption of 0, but are modified by the following:",
 								{
 									"type": "list",
 									"items": [
@@ -4497,7 +4497,7 @@
 										"If the party aligns with the Deathstalker patron, each character gains an additional corruption point."
 									]
 								},
-								"When a character gives in to one of the temptations an additional 2 corruption points are awarded to them. At the final stage of the adventure, you can tally the scores for each character. Use the Corruption Score table found in {@adventure appendix E|CoA|17} to see if a character has been ensnared by {@creature Asmodeus|CoA}.",
+								"When a character gives in to one of the temptations an additional 2 corruption points are awarded to them. At the final stage of the adventure, you can tally the scores for each character. Use the Corruption Score table found in {@area appendix E|35b|x} to see if a character has been ensnared by {@creature Asmodeus|CoA}.",
 								{
 									"type": "image",
 									"href": {
@@ -4579,62 +4579,62 @@
 										[
 											"1",
 											"Anger",
-											"{@adventure The Cultists (Knowledge)|CoA|2|The Cultists (Knowledge)}"
+											"{@area The Cultists (Knowledge)|0bc|x}"
 										],
 										[
 											"2",
 											"Anger",
-											"{@adventure Vengeance is Yours (Roleplaying)|CoA|2|Vengeance is Yours (Roleplaying)}"
+											"{@area Vengeance is Yours (Roleplaying)|0be|x}"
 										],
 										[
 											"3",
 											"Murder",
-											"{@adventure A View to a Kill (Roleplaying)|CoA|2|A View to a Kill (Roleplaying)}"
+											"{@area A View to a Kill (Roleplaying)|0e2|x}"
 										],
 										[
 											"4",
 											"Greed",
-											"{@adventure Box of Treats (Power)|CoA|2|Box of Treats (Power)}"
+											"{@area Box of Treats (Power)|0cc|x}"
 										],
 										[
 											"5",
 											"Greed",
-											"{@adventure A Head for Knowledge (Knowledge)|CoA|2|A Head for Knowledge (Knowledge)}"
+											"{@area A Head for Knowledge (Knowledge)|0cd|x}"
 										],
 										[
 											"6",
 											"Jealousy",
-											"{@adventure Anything You Can Do (Knowledge)|CoA|2|Anything You Can Do (Knowledge)}"
+											"{@area Anything You Can Do (Knowledge)|0d9|x}"
 										],
 										[
 											"7",
 											"Jealousy",
-											"{@adventure Credit Where Credit is Due (Roleplaying)|CoA|2|Credit Where Credit is Due (Roleplaying)}"
+											"{@area Credit Where Credit is Due (Roleplaying)|0db|x}"
 										],
 										[
 											"8",
 											"Betrayal",
-											"{@adventure What is Rightfully Mine (Roleplaying)|CoA|2|What is Rightfully Mine (Roleplaying)}"
+											"{@area What is Rightfully Mine (Roleplaying)|0c4|x}"
 										],
 										[
 											"9",
 											"Oppression",
-											"{@adventure The Angry Djinni (Power)|CoA|2|The Angry Djinni (Power)}"
+											"{@area The Angry Djinni (Power)|0e4|x}"
 										],
 										[
 											"10",
 											"Harm",
-											"{@adventure Non-Lethal Weapon (Power)|CoA|2|Non-Lethal Weapon (Power)}"
+											"{@area Non-Lethal Weapon (Power)|0d1|x}"
 										],
 										[
 											"11",
 											"Harm",
-											"{@adventure A Torturer in Hell (Roleplaying)|CoA|2|A Torturer in Hell (Roleplaying)}"
+											"{@area A Torturer in Hell (Roleplaying)|0d5|x}"
 										],
 										[
 											"12",
 											"Pride",
-											"{@adventure Taking Pride in Your Work (Roleplaying)|CoA|2|Taking Pride in Your Work (Roleplaying)}"
+											"{@area Taking Pride in Your Work (Roleplaying)|0ee|x}"
 										]
 									]
 								}
@@ -4693,7 +4693,7 @@
 									"name": "Gauntlets of Rage (Privation)",
 									"page": 61,
 									"entries": [
-										"A devil offers to sell one of the characters a powerful magic item known as the Gauntlets of Rage ({@adventure see appendix D|CoA|16})."
+										"A devil offers to sell one of the characters a powerful magic item known as the Gauntlets of Rage ({@area see appendix D|354|x})."
 									],
 									"id": "0bd"
 								},
@@ -4764,7 +4764,7 @@
 									"name": "Nothing Can Touch Me (Privation)",
 									"page": 61,
 									"entries": [
-										"The characters find a ring on the finger of a devil that they've slain. This magic item is the Ring of Treachery ({@adventure see appendix D|CoA|16})."
+										"The characters find a ring on the finger of a devil that they've slain. This magic item is the Ring of Treachery ({@area see appendix D|354|x})."
 									],
 									"id": "0c3"
 								},
@@ -4835,7 +4835,7 @@
 									"name": "Life After Death (Privation)",
 									"page": 62,
 									"entries": [
-										"The characters find the Amulet of Duplicity ({@adventure see appendix D|CoA|16}) around the neck of a defeated enemy."
+										"The characters find the Amulet of Duplicity ({@area see appendix D|354|x}) around the neck of a defeated enemy."
 									],
 									"id": "0c9"
 								},
@@ -4844,7 +4844,7 @@
 									"name": "The Lookalike (Roleplaying)",
 									"page": 62,
 									"entries": [
-										"A {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@adventure see appendix B|CoA|14}) offers one of the characters the services of a {@creature doppelganger}. The doppelganger will faithfully impersonate NPCs of the character's acquaintance and act in their stead, perhaps to help the character's family, community, or allies. A corrupt local official might suddenly step down from their post. A local judge or king might decide in the character's favor. An enemy warlord will suddenly lead their horde in a different direction. What good might not be accomplished with a little duplicity?"
+										"A {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@area see appendix B|351|x}) offers one of the characters the services of a {@creature doppelganger}. The doppelganger will faithfully impersonate NPCs of the character's acquaintance and act in their stead, perhaps to help the character's family, community, or allies. A corrupt local official might suddenly step down from their post. A local judge or king might decide in the character's favor. An enemy warlord will suddenly lead their horde in a different direction. What good might not be accomplished with a little duplicity?"
 									],
 									"id": "0ca"
 								}
@@ -4877,7 +4877,7 @@
 									"name": "A Head for Knowledge (Knowledge)",
 									"page": 62,
 									"entries": [
-										"The characters find a withered devil skull known as the Skull of Selfish Knowledge ({@adventure see appendix D|CoA|16})."
+										"The characters find a withered devil skull known as the Skull of Selfish Knowledge ({@area see appendix D|354|x})."
 									],
 									"id": "0cd"
 								},
@@ -4886,7 +4886,7 @@
 									"name": "Save It for a Rainy Day (Privation)",
 									"page": 63,
 									"entries": [
-										"The characters find the {@item Vial of Greed|CoA} ({@adventure see appendix D|CoA|16}) in the hoard of one of their defeated enemies."
+										"The characters find the {@item Vial of Greed|CoA} ({@area see appendix D|354|x}) in the hoard of one of their defeated enemies."
 									],
 									"id": "0ce"
 								},
@@ -4895,7 +4895,7 @@
 									"name": "The Greedy Art Lover (Roleplaying)",
 									"page": 63,
 									"entries": [
-										"The characters find a magic ring known as the {@item Ring of Collecting|CoA} ({@adventure see appendix D|CoA|16}) in the ice fields of Stygia."
+										"The characters find a magic ring known as the {@item Ring of Collecting|CoA} ({@area see appendix D|354|x}) in the ice fields of Stygia."
 									],
 									"id": "0cf"
 								}
@@ -4930,7 +4930,7 @@
 									"name": "Non-Lethal Weapon (Power)",
 									"page": 63,
 									"entries": [
-										"The characters discover a melee weapon of a kind that one of them is proficient with. This is the {@item Weapon of Agonizing Paralysis|CoA} ({@adventure see appendix D|CoA|16})."
+										"The characters discover a melee weapon of a kind that one of them is proficient with. This is the {@item Weapon of Agonizing Paralysis|CoA} ({@area see appendix D|354|x})."
 									],
 									"id": "0d1"
 								},
@@ -4956,7 +4956,7 @@
 									"name": "Carved in Flesh (Privation)",
 									"page": 63,
 									"entries": [
-										"The characters find a magic cutting knife known as the {@item Knife of Stolen Resistance|CoA} ({@adventure see appendix D|CoA|16})."
+										"The characters find a magic cutting knife known as the {@item Knife of Stolen Resistance|CoA} ({@area see appendix D|354|x})."
 									],
 									"id": "0d4"
 								},
@@ -5007,7 +5007,7 @@
 									"name": "Anything You Can Do (Knowledge)",
 									"page": 63,
 									"entries": [
-										"The characters find the {@item Ring of the Copycat|CoA} ({@adventure see appendix D|CoA|16})."
+										"The characters find the {@item Ring of the Copycat|CoA} ({@area see appendix D|354|x})."
 									],
 									"id": "0d9"
 								},
@@ -5016,7 +5016,7 @@
 									"name": "With Friends Like These (Privation)",
 									"page": 64,
 									"entries": [
-										"An {@creature incubus} tries to sell an {@item Amulet of Betrayal|CoA} ({@adventure see appendix D|CoA|16}) to one of the characters."
+										"An {@creature incubus} tries to sell an {@item Amulet of Betrayal|CoA} ({@area see appendix D|354|x}) to one of the characters."
 									],
 									"id": "0da"
 								},
@@ -5106,7 +5106,7 @@
 									"name": "A View to a Kill (Roleplaying)",
 									"page": 64,
 									"entries": [
-										"While {@creature Koh Tam|CoA}'s barge is docked at any port along the River Styx, a {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@adventure see appendix B|CoA|14}) saunters on board and claims to be impressed by the deeds that the characters have accomplished over their careers. She lists some of their accomplishments, showing that she is indeed aware of them. She then claims to know of someone that has annoyed them in the past. You can choose an enemy from a previous adventure that is still alive or an NPC that is disliked. This person is a minion who has served the interests of the Nine Hells\u2014helping them corrupt the very souls the characters are here to rescue\u2014but their usefulness is at an end. She unveils a mirror that shows the NPC either asleep, eating, traveling, or performing some other mundane activity. Behind them, unsuspected but visible to the characters, is an assassin. At the word of any of the characters the assassin strikes and slays the target."
+										"While {@creature Koh Tam|CoA}'s barge is docked at any port along the River Styx, a {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@area see appendix B|351|x}) saunters on board and claims to be impressed by the deeds that the characters have accomplished over their careers. She lists some of their accomplishments, showing that she is indeed aware of them. She then claims to know of someone that has annoyed them in the past. You can choose an enemy from a previous adventure that is still alive or an NPC that is disliked. This person is a minion who has served the interests of the Nine Hells\u2014helping them corrupt the very souls the characters are here to rescue\u2014but their usefulness is at an end. She unveils a mirror that shows the NPC either asleep, eating, traveling, or performing some other mundane activity. Behind them, unsuspected but visible to the characters, is an assassin. At the word of any of the characters the assassin strikes and slays the target."
 									],
 									"id": "0e2"
 								}
@@ -5150,7 +5150,7 @@
 									"name": "Painful Knowledge (Knowledge)",
 									"page": 65,
 									"entries": [
-										"The characters find a magic iron mirror known as the {@item Sage's Mirror|CoA} ({@adventure see appendix D|CoA|16})."
+										"The characters find a magic iron mirror known as the {@item Sage's Mirror|CoA} ({@area see appendix D|354|x})."
 									],
 									"id": "0e5"
 								},
@@ -5238,7 +5238,7 @@
 									"name": "A Thing of Beauty (Privation)",
 									"page": 65,
 									"entries": [
-										"The characters find the {@item Amulet of Appearance|CoA} ({@adventure see appendix D|CoA|16}), which ensures that whoever wears it always appears immaculate."
+										"The characters find the {@item Amulet of Appearance|CoA} ({@area see appendix D|354|x}), which ensures that whoever wears it always appears immaculate."
 									],
 									"id": "0ed"
 								},
@@ -5262,7 +5262,7 @@
 					"name": "The Dukes",
 					"page": 65,
 					"entries": [
-						"On the River Styx, the deadliest threat the characters may encounter arises from two menacing infernal vessels: one is a warship led by the archdevil brothers, Adramalech and Morax, the other, a submersible commanded by {@creature Abigor|CoA}, an archdevil in the service of {@creature Baalzebul|CoA}. More information on these infernal ships can be found in chapter 11, \"{@adventure Hunted by the Dukes|CoA|11|Chapter 11: Hunted by the Dukes}.\"",
+						"On the River Styx, the deadliest threat the characters may encounter arises from two menacing infernal vessels: one is a warship led by the archdevil brothers, Adramalech and Morax, the other, a submersible commanded by {@creature Abigor|CoA}, an archdevil in the service of {@creature Baalzebul|CoA}. More information on these infernal ships can be found in chapter 11, \"{@area Hunted by the Dukes|2b9|x}.\"",
 						"These archdevils come after the characters once they've completed one of their group patron's objectives. Once this happens, {@creature Asmodeus|CoA} realizes that the characters might be more tenacious than he anticipated and so sends the brothers to take them captive. On the other hand, {@creature Baalzebul|CoA} wants vengeance on {@creature Koh Tam|CoA} and the characters for summoning him to the mortal plane, thus he sends {@creature Abigor|CoA} to hunt them down.",
 						{
 							"type": "image",
@@ -5432,7 +5432,7 @@
 									"rows": [
 										[
 											"1",
-											"A lone {@creature halog|CoA} ({@adventure see appendix B|CoA|14}) begins to follow the characters."
+											"A lone {@creature halog|CoA} ({@area see appendix B|351|x}) begins to follow the characters."
 										],
 										[
 											"2",
@@ -5448,7 +5448,7 @@
 										],
 										[
 											"5",
-											"The sky suddenly darkens as the flying fortress of the archdevil {@creature Zariel|CoA} ({@adventure see appendix A|CoA|13}) passes over the characters, casting a lengthy shadow. Two {@creature affliction devil (kocrachon)|CoA|affliction devils} ({@adventure see appendix B|CoA|14}) leap from it to attack the characters, while the fortress continues its journey across Avernus."
+											"The sky suddenly darkens as the flying fortress of the archdevil {@creature Zariel|CoA} ({@area see appendix A|34c|x}) passes over the characters, casting a lengthy shadow. Two {@creature affliction devil (kocrachon)|CoA|affliction devils} ({@area see appendix B|351|x}) leap from it to attack the characters, while the fortress continues its journey across Avernus."
 										],
 										[
 											"6",
@@ -5514,7 +5514,7 @@
 							"name": "Temptations",
 							"page": 69,
 							"entries": [
-								"Have the characters encounter at least one temptation during their time in Avernus. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@adventure appendix E|CoA|17} to keep track of their corruption level."
+								"Have the characters encounter at least one temptation during their time in Avernus. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@area appendix E|35b|x} to keep track of their corruption level."
 							],
 							"id": "0fe"
 						}
@@ -5644,7 +5644,7 @@
 									"page": 70,
 									"entries": [
 										"{@b {@i \"Gauntlets of Rage\"}}",
-										"During the characters' time in the Bronze Citadel, a corruption devil ({@adventure see appendix B|CoA|14}) offers to sell a spellcaster a special pair of gauntlets for 500 gp or 2 Soul Coins. If a character purchases the item, they now have the Gauntlets of Rage ({@adventure see appendix D|CoA|16})."
+										"During the characters' time in the Bronze Citadel, a corruption devil ({@area see appendix B|351|x}) offers to sell a spellcaster a special pair of gauntlets for 500 gp or 2 Soul Coins. If a character purchases the item, they now have the Gauntlets of Rage ({@area see appendix D|354|x})."
 									],
 									"id": "108"
 								},
@@ -5828,7 +5828,7 @@
 									"page": 72,
 									"entries": [
 										"{@b {@i \"The Stuff of Nightmares\"}}",
-										"If the pillar of skulls is searched a tattered book with a leathery cover is found. If a character takes the item, run the {@adventure appropriate temptation event|CoA|2|Harm} found in chapter 2."
+										"If the pillar of skulls is searched a tattered book with a leathery cover is found. If a character takes the item, run the {@area appropriate temptation event|0d0|x} found in chapter 2."
 									],
 									"id": "10c"
 								}
@@ -5867,7 +5867,7 @@
 										"The War-Slough can warp those who stay too long, so they should make haste."
 									]
 								},
-								"{@creature Koh Tam|CoA} also gives them an infernal map. Show the players the map of the War-Slough in {@adventure appendix F|CoA|18}. They can use this map to decide which points of interest they want to explore. Refer to the \"{@adventure Using an Infernal Map|CoA|3|Using an Infernal Map}\" section of chapter 2. A failed or successful Wisdom ({@skill Survival}) check to use this map has a {@chance 50} chance of triggering an encounter on the Random Encounters in the War-Slough table."
+								"{@creature Koh Tam|CoA} also gives them an infernal map. Show the players the map of the War-Slough in {@area appendix F|35f|x}. They can use this map to decide which points of interest they want to explore. Refer to the \"{@area Using an Infernal Map|0f6|x}\" section of chapter 2. A failed or successful Wisdom ({@skill Survival}) check to use this map has a {@chance 50} chance of triggering an encounter on the Random Encounters in the War-Slough table."
 							],
 							"id": "10f"
 						},
@@ -5967,7 +5967,7 @@
 									"rows": [
 										[
 											"1",
-											"A flock of three {@creature shredwing|CoA|shredwings} ({@adventure see appendix B|CoA|14}) circles in the distance."
+											"A flock of three {@creature shredwing|CoA|shredwings} ({@area see appendix B|351|x}) circles in the distance."
 										],
 										[
 											"2",
@@ -6023,7 +6023,7 @@
 											],
 											"id": "116"
 										},
-										"Rexlexkala has learned the location of an infernal artifact designed millennia ago to end the Great Fray. The artifact is a horn built to allow devils to listen in on the thoughts of demons while they're in Avernus, even powerful demon lords. Such an item is worthless to mortal adventurers but is of supreme value to an archdevil such as {@creature Zariel|CoA}. Rexlexkala will give 10 Soul Coins for the horn. In addition, he provides each character with a vial of Condensed Order ({@adventure see appendix D|CoA|16}.) In addition to the substance's normal effects, it also allows them to leave the War-Slough without requiring a Wisdom saving throw first. Finally, he has studied the War-Slough for centuries and can give advice on how to find things within. If the characters agree to his terms, Rexlexkala gives them a map to a rift which is located deep within the War-Slough (reveal area W4 on the infernal map). In this rift lie buried many weapons left over from the Blood War.",
+										"Rexlexkala has learned the location of an infernal artifact designed millennia ago to end the Great Fray. The artifact is a horn built to allow devils to listen in on the thoughts of demons while they're in Avernus, even powerful demon lords. Such an item is worthless to mortal adventurers but is of supreme value to an archdevil such as {@creature Zariel|CoA}. Rexlexkala will give 10 Soul Coins for the horn. In addition, he provides each character with a vial of Condensed Order ({@area see appendix D|354|x}.) In addition to the substance's normal effects, it also allows them to leave the War-Slough without requiring a Wisdom saving throw first. Finally, he has studied the War-Slough for centuries and can give advice on how to find things within. If the characters agree to his terms, Rexlexkala gives them a map to a rift which is located deep within the War-Slough (reveal area W4 on the infernal map). In this rift lie buried many weapons left over from the Blood War.",
 										"He will also answer questions from the characters if they agree to his task or he feels his life is threatened.",
 										{
 											"type": "list",
@@ -6831,7 +6831,7 @@
 											"entries": [
 												"{@b {@i \"Sentient Artifact\"}}",
 												"The characters' attention is drawn by a voice from a nearby pile of corpses. If they investigate, they find a powerful artifact buried within. This is an opportunity to conjure a tempting reward for one of the characters; select a character and an item they've been coveting. That is the item they now find. You may also select an item that multiple characters might want so that they may argue among themselves over who gains possession of it.",
-												"Once one character has taken the item, run the \"{@adventure Sentient Artifact|CoA|2|The Sentient Artifact (Power)}\" temptation event found in chapter 2."
+												"Once one character has taken the item, run the \"{@area Sentient Artifact|0bb|x}\" temptation event found in chapter 2."
 											],
 											"id": "128"
 										},
@@ -6851,7 +6851,7 @@
 											"name": "Treasure",
 											"page": 78,
 											"entries": [
-												"Every time the characters succeed in their search for clues, they have a {@chance 50} chance of finding Rexlexkala's Horn. Otherwise, they roll on the Infernal Items table. For a description of these items {@adventure see appendix D|CoA|16}. When they find the item, it might be in the clutches of a tentacle that erupts from the canyon walls, or it might be lodged at the bottom of a bubbling pool of {@creature demon ichor|CoA} (which is a black pudding with 120 hit points and immunity to fire damage). After 3 such items, they'll no longer find any more infernal items here and even successful searches are now treated as failures."
+												"Every time the characters succeed in their search for clues, they have a {@chance 50} chance of finding Rexlexkala's Horn. Otherwise, they roll on the Infernal Items table. For a description of these items {@area see appendix D|354|x}. When they find the item, it might be in the clutches of a tentacle that erupts from the canyon walls, or it might be lodged at the bottom of a bubbling pool of {@creature demon ichor|CoA} (which is a black pudding with 120 hit points and immunity to fire damage). After 3 such items, they'll no longer find any more infernal items here and even successful searches are now treated as failures."
 											],
 											"id": "12a"
 										},
@@ -7021,7 +7021,7 @@
 										],
 										[
 											"5",
-											"A lone {@creature barbed devil} approaches and demands 100 gp as tax for traveling across {@creature Dispater|CoA}'s realm. If he is attacked, he calls upon a pair of {@creature war devil|CoA|war devils} ({@adventure see appendix B|CoA|14}) circling hundreds of feet above to protect him."
+											"A lone {@creature barbed devil} approaches and demands 100 gp as tax for traveling across {@creature Dispater|CoA}'s realm. If he is attacked, he calls upon a pair of {@creature war devil|CoA|war devils} ({@area see appendix B|351|x}) circling hundreds of feet above to protect him."
 										],
 										[
 											"6",
@@ -7108,7 +7108,7 @@
 							"name": "Temptations",
 							"page": 81,
 							"entries": [
-								"Have the characters encounter at least one temptation during their time in Dis. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@adventure appendix E|CoA|17} to keep track of their corruption level.",
+								"Have the characters encounter at least one temptation during their time in Dis. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@area appendix E|35b|x} to keep track of their corruption level.",
 								{
 									"type": "inset",
 									"name": "Troubled Rest",
@@ -7252,7 +7252,7 @@
 									"page": 84,
 									"entries": [
 										"{@b {@i \"The Liar\"}}",
-										"While the characters are exploring the Garden, a succubus approaches the character with the highest Charisma and offers to give them the power of deception. Run the {@adventure appropriate temptation event|CoA|2|Deceit} found in chapter 2."
+										"While the characters are exploring the Garden, a succubus approaches the character with the highest Charisma and offers to give them the power of deception. Run the {@area appropriate temptation event|0c5|x} found in chapter 2."
 									],
 									"id": "13c"
 								},
@@ -7289,8 +7289,8 @@
 											],
 											"id": "140"
 										},
-										"Later, on their way down from the prison the characters find the elf's armor on the side of the road but no sign of its former owner. A successful {@dc 15} Intelligence ({@skill Arcana}) check reveals it to be powerful magic armor. Run the {@adventure appropriate temptation event|CoA|2|Oppression} found in chapter 2.",
-										"If the characters try to save the elf, they must fight the shredwing and the four pain devils ({@adventure see appendix B|CoA|14} for both) guarding the rest of the prisoners. The elf is already dead when the battle starts; it was just an animated corpse of an elf that has been dead for more than a thousand years."
+										"Later, on their way down from the prison the characters find the elf's armor on the side of the road but no sign of its former owner. A successful {@dc 15} Intelligence ({@skill Arcana}) check reveals it to be powerful magic armor. Run the {@area appropriate temptation event|0e3|x} found in chapter 2.",
+										"If the characters try to save the elf, they must fight the shredwing and the four pain devils ({@area see appendix B|351|x} for both) guarding the rest of the prisoners. The elf is already dead when the battle starts; it was just an animated corpse of an elf that has been dead for more than a thousand years."
 									],
 									"id": "13f"
 								}
@@ -7338,7 +7338,7 @@
 										"They're likely to see many disturbing things, but if they let on to any discomfort it could lead to trouble."
 									]
 								},
-								"This is a location well known to many travelers and {@creature Koh Tam|CoA} can provide a standard map of the Agora ({@adventure see appendix F|CoA|18}) to the characters."
+								"This is a location well known to many travelers and {@creature Koh Tam|CoA} can provide a standard map of the Agora ({@area see appendix F|35f|x}) to the characters."
 							],
 							"id": "144"
 						},
@@ -7589,7 +7589,7 @@
 									"page": 87,
 									"entries": [
 										"{@b {@i \"With Friends Like These\"}}",
-										"While the characters are perusing wares, an incubus approaches and tries to sell an Amulet of Betrayal ({@adventure see appendix D|CoA|16}) to one of the characters. The price he offers it for is 1000 gp but he is willing to reduce it to 500 gp, if appropriately convinced."
+										"While the characters are perusing wares, an incubus approaches and tries to sell an Amulet of Betrayal ({@area see appendix D|354|x}) to one of the characters. The price he offers it for is 1000 gp but he is willing to reduce it to 500 gp, if appropriately convinced."
 									],
 									"id": "148"
 								},
@@ -7684,7 +7684,7 @@
 															"type": "item",
 															"name": "Test of Skill",
 															"entries": [
-																"The character must either best a {@creature horned devil} in a complicated game of knot tying or compete against an {@creature erinyes} to see who can calm an enraged {@creature Hellcat (Bezekira)|CoA|hellcat} ({@adventure see appendix B|CoA|14}). Tying the knot requires a successful {@dc 18} Dexterity ({@skill Sleight of Hand}) check whereas taming the creature requires a successful {@dc 15} Wisdom ({@skill Animal Handling}) check. If the character fails the check, they can try to make a {@dc 16} Charisma ({@skill Deception}) check. If successful they bluff their way into getting a second (and final) chance on the original check."
+																"The character must either best a {@creature horned devil} in a complicated game of knot tying or compete against an {@creature erinyes} to see who can calm an enraged {@creature Hellcat (Bezekira)|CoA|hellcat} ({@area see appendix B|351|x}). Tying the knot requires a successful {@dc 18} Dexterity ({@skill Sleight of Hand}) check whereas taming the creature requires a successful {@dc 15} Wisdom ({@skill Animal Handling}) check. If the character fails the check, they can try to make a {@dc 16} Charisma ({@skill Deception}) check. If successful they bluff their way into getting a second (and final) chance on the original check."
 															]
 														},
 														{
@@ -7765,17 +7765,17 @@
 												],
 												[
 													"{@item Figurine of Wondrous Power, Golden Lions||Figurine of Wondrous Power (golden lions)}",
-													"Same as above except a pair of {@creature Hellcat (Bezekira)|CoA|hellcats} ({@adventure see appendix B|CoA|14})",
+													"Same as above except a pair of {@creature Hellcat (Bezekira)|CoA|hellcats} ({@area see appendix B|351|x})",
 													"11,500 gp"
 												],
 												[
 													"{@item Figurine of Wondrous Power, Marble Elephant||Figurine of Wondrous Power (marble elephant)}",
-													"Same as above except a single {@creature maelephant nomad|CoA} ({@adventure see appendix B|CoA|14})",
+													"Same as above except a single {@creature maelephant nomad|CoA} ({@area see appendix B|351|x})",
 													"11,000 gp"
 												],
 												[
 													"{@item Figurine of Wondrous Power, Onyx Dog||Figurine of Wondrous Power (onyx dog)}",
-													"{@creature Displacer fiend|CoA} ({@adventure see appendix B|CoA|14}) under permanent Reduce spell and held by an adamantine leash",
+													"{@creature Displacer fiend|CoA} ({@area see appendix B|351|x}) under permanent Reduce spell and held by an adamantine leash",
 													"11,000 gp"
 												],
 												[
@@ -7977,7 +7977,7 @@
 											"name": "Phylactery of the Bounty",
 											"page": 89,
 											"entries": [
-												"The character seeking the phylactery that contains the soul of their bounty\u2014the matron of a powerful noble family\u2014is drawn to this location. They immediately notice a secluded corner of the market where an {@creature Affliction Devil (Kocrachon)|CoA|affliction devil} ({@adventure see appendix B|CoA|14}) haggles with two {@creature barbed devil||barbed devils}. One barbed devil clutches a bulging leather satchel. The character realizes the phylactery they seek is in the satchel. If they don't intervene the affliction devil soon takes the satchel and flies away. Instead, if the character interrupts, they can offer to buy the satchel. This negotiation requires a {@dc 16} Charisma ({@skill Persuasion}) check. If successful, the character manages to outbid the affliction devil and can purchase the satchel for 5,000 gp. If the result of the check is 20 or higher, the character's negotiation skills are insurmountable, and the affliction devil leaves negotiations earlier. The character only needs to pay 3,000 gp to purchase the satchel. Once the satchel is obtained, the character takes possession of this phylactery and receives the Phylactery Benefit associated with it.",
+												"The character seeking the phylactery that contains the soul of their bounty\u2014the matron of a powerful noble family\u2014is drawn to this location. They immediately notice a secluded corner of the market where an {@creature Affliction Devil (Kocrachon)|CoA|affliction devil} ({@area see appendix B|351|x}) haggles with two {@creature barbed devil||barbed devils}. One barbed devil clutches a bulging leather satchel. The character realizes the phylactery they seek is in the satchel. If they don't intervene the affliction devil soon takes the satchel and flies away. Instead, if the character interrupts, they can offer to buy the satchel. This negotiation requires a {@dc 16} Charisma ({@skill Persuasion}) check. If successful, the character manages to outbid the affliction devil and can purchase the satchel for 5,000 gp. If the result of the check is 20 or higher, the character's negotiation skills are insurmountable, and the affliction devil leaves negotiations earlier. The character only needs to pay 3,000 gp to purchase the satchel. Once the satchel is obtained, the character takes possession of this phylactery and receives the Phylactery Benefit associated with it.",
 												{
 													"type": "image",
 													"href": {
@@ -8186,7 +8186,7 @@
 									"page": 94,
 									"entries": [
 										"{@b {@i \"Carved in Flesh\"}}",
-										"One of the butchering knives, currently ensconced in a hunk of meat, appears larger and somehow more ominous than the others. It can be retrieved without alerting the golems and devil with a successful {@dc 16} Dexterity ({@skill Sleight of Hand}) check. The characters now have the Knife of Stolen Resistance ({@adventure see appendix D|CoA|16})."
+										"One of the butchering knives, currently ensconced in a hunk of meat, appears larger and somehow more ominous than the others. It can be retrieved without alerting the golems and devil with a successful {@dc 16} Dexterity ({@skill Sleight of Hand}) check. The characters now have the Knife of Stolen Resistance ({@area see appendix D|354|x})."
 									],
 									"id": "168"
 								},
@@ -8222,7 +8222,7 @@
 											"name": "Insurmountable Odds",
 											"page": 95,
 											"entries": [
-												"All the devils at this location defend either {@creature Dispater|CoA} ({@adventure see appendix A|CoA|13}) or Orishada if the characters attack either. It is unlikely characters can survive an outright onslaught and they may need some guidance to behave as cleverly as the devils themselves do in the Nine Hells. Dealing with just Orishada on his own is significantly easier."
+												"All the devils at this location defend either {@creature Dispater|CoA} ({@area see appendix A|34c|x}) or Orishada if the characters attack either. It is unlikely characters can survive an outright onslaught and they may need some guidance to behave as cleverly as the devils themselves do in the Nine Hells. Dealing with just Orishada on his own is significantly easier."
 											],
 											"id": "16c"
 										},
@@ -8277,7 +8277,7 @@
 							"name": "Encounters",
 							"page": 97,
 							"entries": [
-								"The journey into Minauros is treacherous and navigating the Styx is difficult. Remember to roll on the {@adventure River Styx Encounters|CoA|2|River Styx Encounters} table in chapter 2, for each day they travel those waters. Even once the characters have solid ground under their feet, the Nine Hells offers them no respite. After they leave the ship and make their way inland, roll at least once on the Random Encounters in Minauros table.",
+								"The journey into Minauros is treacherous and navigating the Styx is difficult. Remember to roll on the {@area River Styx Encounters|086|x} table in chapter 2, for each day they travel those waters. Even once the characters have solid ground under their feet, the Nine Hells offers them no respite. After they leave the ship and make their way inland, roll at least once on the Random Encounters in Minauros table.",
 								{
 									"type": "table",
 									"caption": "Random Encounters in Minauros",
@@ -8296,7 +8296,7 @@
 										],
 										[
 											"2",
-											"A convoy of a dozen {@creature lemure||lemures} are under attack by a flock of four shredwings ({@adventure see appendix B|CoA|14}) looking for food."
+											"A convoy of a dozen {@creature lemure||lemures} are under attack by a flock of four shredwings ({@area see appendix B|351|x}) looking for food."
 										],
 										[
 											"3",
@@ -8304,7 +8304,7 @@
 										],
 										[
 											"4",
-											"{@dice 1d4} {@creature ayperobo swarm|CoA|ayperobo swarms} ({@adventure see appendix B|CoA|14}) wander through the swamp, looking for victims. They descend on anything with blood."
+											"{@dice 1d4} {@creature ayperobo swarm|CoA|ayperobo swarms} ({@area see appendix B|351|x}) wander through the swamp, looking for victims. They descend on anything with blood."
 										],
 										[
 											"5",
@@ -8379,7 +8379,7 @@
 									"name": "The Group Patron",
 									"page": 98,
 									"entries": [
-										"If the characters have completed most of their objectives, or are close to doing so, review the \"{@adventure A Thankful Patron|CoA|10|A Thankful Patron}\" section in chapter 10. The characters eventually need to travel to Cania to complete their patron's quest."
+										"If the characters have completed most of their objectives, or are close to doing so, review the \"{@area A Thankful Patron|2a3|x}\" section in chapter 10. The characters eventually need to travel to Cania to complete their patron's quest."
 									],
 									"id": "174"
 								}
@@ -8391,7 +8391,7 @@
 							"name": "Temptations",
 							"page": 98,
 							"entries": [
-								"Have the characters encounter at least one temptation during their time in Minauros. If the characters give in to temptation, use the information in {@adventure appendix E|CoA|17} to keep track of their corruption level."
+								"Have the characters encounter at least one temptation during their time in Minauros. If the characters give in to temptation, use the information in {@area appendix E|35b|x} to keep track of their corruption level."
 							],
 							"id": "175"
 						}
@@ -8505,7 +8505,7 @@
 									"page": 100,
 									"entries": [
 										"{@b {@i \"The Lookalike\"}}",
-										"The characters are approached by a suave corruption devil ({@adventure see appendix B|CoA|14}), followed by a masked figure.",
+										"The characters are approached by a suave corruption devil ({@area see appendix B|351|x}), followed by a masked figure.",
 										{
 											"type": "insetReadaloud",
 											"page": 100,
@@ -8514,7 +8514,7 @@
 											],
 											"id": "17d"
 										},
-										"If the characters pay 1000 gp, they can secure the services of a doppelganger. Review the {@adventure appropriate temptation event|CoA|2|Deceit} in chapter 2 for more details."
+										"If the characters pay 1000 gp, they can secure the services of a doppelganger. Review the {@area appropriate temptation event|0c5|x} in chapter 2 for more details."
 									],
 									"id": "17c"
 								}
@@ -8534,7 +8534,7 @@
 									"page": 100,
 									"entries": [
 										"{@b {@i \"You Must Speak Up\"}}",
-										"While wandering the streets, the characters come across a {@creature chain devil} carving tattoos into the skin of paying visitors. If asked, the devil explains that their tattoos grant the recipient magical knowledge. If a character is willing to pay 2 {@item Soul Coin|BGDIA|Soul Coins} or 300 gp for this tattoo, then review the {@adventure appropriate temptation event|CoA|2|Pride} in chapter 2."
+										"While wandering the streets, the characters come across a {@creature chain devil} carving tattoos into the skin of paying visitors. If asked, the devil explains that their tattoos grant the recipient magical knowledge. If a character is willing to pay 2 {@item Soul Coin|BGDIA|Soul Coins} or 300 gp for this tattoo, then review the {@area appropriate temptation event|0e8|x} in chapter 2."
 									],
 									"id": "17f"
 								}
@@ -8722,7 +8722,7 @@
 										"They should be careful about resting in the swamp. The memories and emotions can twist the mind of a mortal."
 									]
 								},
-								"{@creature Koh Tam|CoA} gives them an infernal map. Show the players the map of the Ineffable Trove in {@adventure appendix F|CoA|18}. They can use this map to decide which points of interest they want to explore. Refer to the \"{@adventure Using an Infernal Map|CoA|2|Using an Infernal Map}\" section of chapter 2. A failed or successful Wisdom ({@skill Survival}) check to use this map has a {@chance 50} chance of triggering an encounter on the Random Encounters in the Ineffable Trove table."
+								"{@creature Koh Tam|CoA} gives them an infernal map. Show the players the map of the Ineffable Trove in {@area appendix F|35f|x}. They can use this map to decide which points of interest they want to explore. Refer to the \"{@area Using an Infernal Map|0f6|x}\" section of chapter 2. A failed or successful Wisdom ({@skill Survival}) check to use this map has a {@chance 50} chance of triggering an encounter on the Random Encounters in the Ineffable Trove table."
 							],
 							"id": "183"
 						},
@@ -8874,7 +8874,7 @@
 								},
 								"Some hunters have less reprehensible goals in raiding the Trove. Wizards seeking to build artificial minds for their creations may send agents seeking some particular quality they wish their creation to have, that they can't generate themselves. Brilliant mortals who yet believe you can get something untainted out of the Nine Hells never cease to amuse {@creature Mammon|CoA}. Finally, most tragically, there are those who have already lost some part of themselves\u2014either because of exactly the sort of deal {@creature Mammon|CoA} loves to make, or because they've been the victim of some attack or mind-draining beast. Mortals who have a hole in their natures where loyalty or love or joy once was, they come to the Trove seeking something to fill that gap. Just as a callous artificer might sew a goblin arm onto a dwarf lacking a limb, so they take up some other unfortunate's lost emotions to graft onto their own mind. Such marriages are seldom happy, but the planes are full of desperation.",
 								"The sucking mire of Minauros is no stranger to oozing, protean life, but such mindless and transient entities become something quite different in the Trove. {@creature Black pudding||Black puddings} are a danger to careless travelers. The creatures abound around the Trove, sucking up and vomiting out a constantly changing diet of thoughts and feelings. Other Oozes are simply possessed by countless babbling voices, akin to gibbering mouthers. The two classes of gelatinous creature aren't mutually exclusive, and monsters with the characteristics of both at once aren't uncommon.",
-								"Other common sights are dream eaters or {@creature oneirovore|CoA|oneirovores} ({@adventure see appendix B|CoA|14}). The normally passive sloth-like monsters are drawn to the Trove from across Minauros, but the rich diet of mortal thoughts and sensation angers them\u2014simultaneously too intense and too transitory. A further danger is a particular strain of infernal {@creature froghemoth|MPMM} (see Monsters of the Multiverse) that can metabolize the Trove's seething emotions, borrowing temporary intellect to lure prey with stolen mortal cries and pleading.",
+								"Other common sights are dream eaters or {@creature oneirovore|CoA|oneirovores} ({@area see appendix B|351|x}). The normally passive sloth-like monsters are drawn to the Trove from across Minauros, but the rich diet of mortal thoughts and sensation angers them\u2014simultaneously too intense and too transitory. A further danger is a particular strain of infernal {@creature froghemoth|MPMM} (see Monsters of the Multiverse) that can metabolize the Trove's seething emotions, borrowing temporary intellect to lure prey with stolen mortal cries and pleading.",
 								"Every time the characters take a short or long rest in the Ineffable Trove, roll on the following table. Then roll a {@dice d6}. On a 1\u20133 the random encounter interrupts the rest. On a 4\u20136 the encounter happens a few minutes after the rest is finished.",
 								{
 									"type": "table",
@@ -8902,7 +8902,7 @@
 										],
 										[
 											"4",
-											"A herd of three {@creature oneirovore|CoA|oneirovores} ({@adventure see appendix B|CoA|14}) lazily eating from deformed trees go berserk with rage when they see the characters."
+											"A herd of three {@creature oneirovore|CoA|oneirovores} ({@area see appendix B|351|x}) lazily eating from deformed trees go berserk with rage when they see the characters."
 										],
 										[
 											"5",
@@ -8937,7 +8937,7 @@
 									"name": "I1: Klassk's Lair",
 									"page": 105,
 									"entries": [
-										"Below Avernus and the lair of Tiamat, dragons are an uncommon sight in the Nine Hells. Klassk, however, is a native, a {@creature Styx dragon|CoA} ({@adventure see appendix B|CoA|14}) whose kind are normally found making things unpleasant for river travelers. Perhaps driven from her original home by rivals, Klassk discovered the Trove an age ago and, by ancient draconic instinct, decided that it was wealth, and that it was hers. Now she broods restlessly in her lair deep in the swamps, tormented by the understanding that her 'treasure' is something she can't hold or physically possess. Indeed, the same resilience that prevented the waters of the Styx from washing away her memories also insulates her from the effects of the Trove, meaning she can never directly enjoy what she has.",
+										"Below Avernus and the lair of Tiamat, dragons are an uncommon sight in the Nine Hells. Klassk, however, is a native, a {@creature Styx dragon|CoA} ({@area see appendix B|351|x}) whose kind are normally found making things unpleasant for river travelers. Perhaps driven from her original home by rivals, Klassk discovered the Trove an age ago and, by ancient draconic instinct, decided that it was wealth, and that it was hers. Now she broods restlessly in her lair deep in the swamps, tormented by the understanding that her 'treasure' is something she can't hold or physically possess. Indeed, the same resilience that prevented the waters of the Styx from washing away her memories also insulates her from the effects of the Trove, meaning she can never directly enjoy what she has.",
 										"Characters searching in this area and succeeding on a {@dc 16} Wisdom ({@skill Perception}) check eventually find a series of burrows, half under water, where she makes her lair. If the characters swim into one cave system in particular, they emerge in a domed cavern, with a section of land just large enough for a dragon to rest.",
 										{
 											"type": "entries",
@@ -8951,7 +8951,7 @@
 													"name": "Swimming in the Swamp",
 													"page": 105,
 													"entries": [
-														"The waters here are still contaminated by the River Styx. However, given their diluted nature, the DC for the saving throw is reduced to 16 and the check to avoid being affected by the {@spell Feeblemind} spell only needs to be made once every hour. Consult \"{@adventure The River Styx|CoA|2|The River Styx}\" section in chapter 2 for more details."
+														"The waters here are still contaminated by the River Styx. However, given their diluted nature, the DC for the saving throw is reduced to 16 and the check to avoid being affected by the {@spell Feeblemind} spell only needs to be made once every hour. Consult \"{@area The River Styx|0f7|x}\" section in chapter 2 for more details."
 													],
 													"id": "18b"
 												}
@@ -9015,7 +9015,7 @@
 													"page": 106,
 													"entries": [
 														"{@b {@i \"Save it for a Rainy Day\"}}",
-														"This temptation doesn't occur if a character comes here seeking their phylactery (see next section). Otherwise, after the characters slay Ilfrich (or somehow plunder the lair without a fight) they find the {@item Vial of Greed|CoA} ({@adventure see appendix D|CoA|16}) among the treasures."
+														"This temptation doesn't occur if a character comes here seeking their phylactery (see next section). Otherwise, after the characters slay Ilfrich (or somehow plunder the lair without a fight) they find the {@item Vial of Greed|CoA} ({@area see appendix D|354|x}) among the treasures."
 													],
 													"id": "192"
 												}
@@ -9152,7 +9152,7 @@
 							"name": "Encounters",
 							"page": 109,
 							"entries": [
-								"While on the Styx, remember to roll each day on the {@adventure River Styx Encounters|CoA|2|River Styx Encounters} table in chapter 2, to see if the characters have one of those encounters. After they disembark from the barge, give them some time to explore. When they travel to or from The Elemental Preserve, or any other location they visit on this layer, roll on the Random Encounters in Phlegethos table.",
+								"While on the Styx, remember to roll each day on the {@area River Styx Encounters|086|x} table in chapter 2, to see if the characters have one of those encounters. After they disembark from the barge, give them some time to explore. When they travel to or from The Elemental Preserve, or any other location they visit on this layer, roll on the Random Encounters in Phlegethos table.",
 								{
 									"type": "table",
 									"caption": "Random Encounters in Phlegethos",
@@ -9167,7 +9167,7 @@
 									"rows": [
 										[
 											"1",
-											"Two {@creature halog|CoA|halogs} ({@adventure see appendix B|CoA|14}) wade through the lava, occasionally sticking their snouts beneath the surface in search of food."
+											"Two {@creature halog|CoA|halogs} ({@area see appendix B|351|x}) wade through the lava, occasionally sticking their snouts beneath the surface in search of food."
 										],
 										[
 											"2",
@@ -9175,7 +9175,7 @@
 										],
 										[
 											"3",
-											"A pack of six {@creature hell hound||hell hounds}, led by a powerful {@creature Hellcat (Bezekira)|CoA|hellcat} ({@adventure see appendix B|CoA|14}), roam the wastes looking for food."
+											"A pack of six {@creature hell hound||hell hounds}, led by a powerful {@creature Hellcat (Bezekira)|CoA|hellcat} ({@area see appendix B|351|x}), roam the wastes looking for food."
 										],
 										[
 											"4",
@@ -9270,7 +9270,7 @@
 							"name": "Temptations",
 							"page": 110,
 							"entries": [
-								"Have the characters encounter at least one temptation during their time in Phlegethos. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@adventure appendix E|CoA|17} to keep track of their corruption level."
+								"Have the characters encounter at least one temptation during their time in Phlegethos. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@area appendix E|35b|x} to keep track of their corruption level."
 							],
 							"id": "1a4"
 						}
@@ -9384,7 +9384,7 @@
 									"page": 112,
 									"entries": [
 										"{@b {@i \"Gaining the Advantage\"}}",
-										"At any point during their time in Abriymoch, a bone devil approaches and offers to etch a magic tattoo onto one of the characters. The cost is a mere 600 gp. If they agree, review the {@adventure appropriate temptation event|CoA|2|Pride} in chapter 2."
+										"At any point during their time in Abriymoch, a bone devil approaches and offers to etch a magic tattoo onto one of the characters. The cost is a mere 600 gp. If they agree, review the {@area appropriate temptation event|0e8|x} in chapter 2."
 									],
 									"id": "1ab"
 								}
@@ -9413,7 +9413,7 @@
 									"page": 112,
 									"entries": [
 										"{@b {@i \"The Heretic Priest\"}}",
-										"A priest of an opposing faith to one of the characters (select the most faithful among the party) is speaking with a {@creature succubus}. If the party spends any amount of time eavesdropping, then run \"{@adventure The Heretic Priest|CoA|2|The Heretic Priest (Knowledge)}\" event from chapter 2."
+										"A priest of an opposing faith to one of the characters (select the most faithful among the party) is speaking with a {@creature succubus}. If the party spends any amount of time eavesdropping, then run \"{@area The Heretic Priest|0df|x}\" event from chapter 2."
 									],
 									"id": "1ae"
 								}
@@ -9451,7 +9451,7 @@
 										"Alternatively, they could try to contact the poor souls who are the prey of Kordichai's current hunt. These mortals have had to learn the lay of the land or die quickly to Kordichai's predations."
 									]
 								},
-								"{@creature Koh Tam|CoA} gives them an infernal map. Show the players the map of the Elemental Preserve in {@adventure appendix F|CoA|18}. They can use this map to decide which points of interest they want to explore. Refer to the \"{@adventure Using an Infernal Map|CoA|2|Using an Infernal Map}\" section of chapter 2. A failed or successful Wisdom ({@skill Survival}) check to use this map has a {@chance 50} chance of triggering an encounter on the Hunt Random Encounters table. Prior to \"Kordichai's Hunt\" roll a {@dice d8} to determine the encounter from the table; after the hunt begins roll a {@dice d12}."
+								"{@creature Koh Tam|CoA} gives them an infernal map. Show the players the map of the Elemental Preserve in {@area appendix F|35f|x}. They can use this map to decide which points of interest they want to explore. Refer to the \"{@area Using an Infernal Map|0f6|x}\" section of chapter 2. A failed or successful Wisdom ({@skill Survival}) check to use this map has a {@chance 50} chance of triggering an encounter on the Hunt Random Encounters table. Prior to \"Kordichai's Hunt\" roll a {@dice d8} to determine the encounter from the table; after the hunt begins roll a {@dice d12}."
 							],
 							"id": "1b1"
 						},
@@ -9477,7 +9477,7 @@
 									"name": "E1: Hunting Lodge",
 									"page": 113,
 									"entries": [
-										"As well as his floating barges, Kordichai maintains a number of hunting lodges of incandescent iron dotted across the Preserve, staffed by {@creature barbed devil||barbed devils} and {@creature Pain Devil (Excruciarch)|CoA|pain devils} ({@adventure see appendix B|CoA|14}) and stocked with food, drink, and souls for the refreshment of his guests. Here he keeps his trophies, the blazing horns and tusks and wall-mounted heads of his greatest kills\u2014both the fiery beasts of the preserves and those he hunted down on further planes. Visitors have surprised Kordichai staring almost wistfully at the echoes of his past deeds.",
+										"As well as his floating barges, Kordichai maintains a number of hunting lodges of incandescent iron dotted across the Preserve, staffed by {@creature barbed devil||barbed devils} and {@creature Pain Devil (Excruciarch)|CoA|pain devils} ({@area see appendix B|351|x}) and stocked with food, drink, and souls for the refreshment of his guests. Here he keeps his trophies, the blazing horns and tusks and wall-mounted heads of his greatest kills\u2014both the fiery beasts of the preserves and those he hunted down on further planes. Visitors have surprised Kordichai staring almost wistfully at the echoes of his past deeds.",
 										{
 											"type": "entries",
 											"name": "The Phylactery of the Sister",
@@ -9491,7 +9491,7 @@
 													"page": 113,
 													"entries": [
 														"{@b {@i \"The Jealous Beauty\"}}",
-														"If the characters have already had an encounter at this hunting lodge, save this temptation event for the next hunting lodge they discover. Otherwise, a {@creature pit fiend} currently enjoying the fine refreshments smiles broadly upon seeing one of the characters. The devil offers the characters a blessing, no strings attached. Review \"{@adventure The Jealous Beauty|CoA|2|The Jealous Beauty (Power)}\" temptation event from chapter 2."
+														"If the characters have already had an encounter at this hunting lodge, save this temptation event for the next hunting lodge they discover. Otherwise, a {@creature pit fiend} currently enjoying the fine refreshments smiles broadly upon seeing one of the characters. The devil offers the characters a blessing, no strings attached. Review \"{@area The Jealous Beauty|0d7|x}\" temptation event from chapter 2."
 													],
 													"id": "1b6"
 												}
@@ -9545,7 +9545,7 @@
 									"name": "E3: Anagwendol's Prison",
 									"page": 114,
 									"entries": [
-										"In the center of the preserve stalks perhaps the most dangerous creature. For therein is the prison that both holds the deva {@creature Anagwendol|CoA} and keeps the rest of the preserve safe from her. Grown mad by her captivity, she has become the ultimate hunter, slaying anything that enters the bewildering tunnels in which Kordichai imprisoned her. More information about {@creature Anagwendol|CoA} can be found in {@adventure appendix C|CoA|15}.",
+										"In the center of the preserve stalks perhaps the most dangerous creature. For therein is the prison that both holds the deva {@creature Anagwendol|CoA} and keeps the rest of the preserve safe from her. Grown mad by her captivity, she has become the ultimate hunter, slaying anything that enters the bewildering tunnels in which Kordichai imprisoned her. More information about {@creature Anagwendol|CoA} can be found in {@area appendix C|353|x}.",
 										"As the characters approach the location:",
 										{
 											"type": "insetReadaloud",
@@ -9811,7 +9811,7 @@
 									"page": 116,
 									"entries": [
 										"Kordichai leads hunting expeditions over his lands, invitations to which are quite the coveted commodity among the devil nobility. What would normally be an unforgivably erratic nature in a senior Fiend becomes acceptable entertainment when he leads a party of jaded devils to hunt prey from levitating barges of searing bronze. From their decks the great devils connive, gossip and scheme, broker deals, gorge on luxuries, and enjoy the screaming as infernal engineers pour a wealth of shrieking souls into the boilers below. The rails of the barges are lined with ballistae from which cackling aristocrats launch projectiles with tips of barbed ice guaranteed to cause the elemental fauna as much pain as possible. Following a wounded Elemental and tormenting it until it expires, is absolutely the done thing\u2014before ripping free some trophy for later bragging rights.",
-										"The hunt consists of Kordichai ({@creature pit fiend}), a {@creature horned devil}, a {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@adventure see appendix B|CoA|14}) and either {@creature Fierna|CoA} or {@creature Belial|CoA}. With one of the two rulers present, characters may have an opportunity to steal one of their artifacts from them (see the end of this chapter for further details).",
+										"The hunt consists of Kordichai ({@creature pit fiend}), a {@creature horned devil}, a {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@area see appendix B|351|x}) and either {@creature Fierna|CoA} or {@creature Belial|CoA}. With one of the two rulers present, characters may have an opportunity to steal one of their artifacts from them (see the end of this chapter for further details).",
 										{
 											"type": "entries",
 											"name": "The Characters as Hunters",
@@ -10070,7 +10070,7 @@
 														}
 													]
 												},
-												"If the characters attack {@creature Belial|CoA} or {@creature Fierna|CoA} ({@adventure see appendix A|CoA|13} for both), Kordichai and any allies defend the archdevil (unless a betrayal has been previously negotiated). During a fight, the optional disarm rules, found in the \"Combat Options\" section within the {@book Dungeon Master's Guide|DMG} might also allow the characters to steal the artifact rather than finish a likely losing battle against an archdevil."
+												"If the characters attack {@creature Belial|CoA} or {@creature Fierna|CoA} ({@area see appendix A|34c|x} for both), Kordichai and any allies defend the archdevil (unless a betrayal has been previously negotiated). During a fight, the optional disarm rules, found in the \"Combat Options\" section within the {@book Dungeon Master's Guide|DMG} might also allow the characters to steal the artifact rather than finish a likely losing battle against an archdevil."
 											],
 											"id": "1d7"
 										}
@@ -10231,7 +10231,7 @@
 							"name": "Temptations",
 							"page": 123,
 							"entries": [
-								"Have the characters encounter at least one temptation during their time in Stygia. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@adventure appendix E|CoA|17} to keep track of their corruption level."
+								"Have the characters encounter at least one temptation during their time in Stygia. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@area appendix E|35b|x} to keep track of their corruption level."
 							],
 							"id": "1de"
 						}
@@ -10338,7 +10338,7 @@
 									"entries": [
 										"{@b {@i \"Mixed Blessings\"}}",
 										"A {@creature pit fiend}, perhaps in the service of {@creature Levistus|CoA}, approaches a character.",
-										"If the characters talk more and accept the boon, run the {@adventure appropriate temptation event|CoA|2|Betrayal} in chapter 2, but the pit fiend never reveals the true identity of its master."
+										"If the characters talk more and accept the boon, run the {@area appropriate temptation event|0bf|x} in chapter 2, but the pit fiend never reveals the true identity of its master."
 									],
 									"id": "1e4"
 								},
@@ -11015,7 +11015,7 @@
 									"page": 127,
 									"entries": [
 										"{@b {@i \"The Greedy Art Lover\"}}",
-										"If the characters spend an hour or more exploring this area before returning to a safer location, they find a devilish arm extruding from the ice. It takes half an hour to excavate the corpse and when they do so they observe that the dead creature is holding a ring in its hand, its frozen eyes staring at it in rapture. The characters must break the corpse's hand to take the Ring of Collecting ({@adventure see appendix D|CoA|16})."
+										"If the characters spend an hour or more exploring this area before returning to a safer location, they find a devilish arm extruding from the ice. It takes half an hour to excavate the corpse and when they do so they observe that the dead creature is holding a ring in its hand, its frozen eyes staring at it in rapture. The characters must break the corpse's hand to take the Ring of Collecting ({@area see appendix D|354|x})."
 									],
 									"id": "1e8"
 								}
@@ -11134,7 +11134,7 @@
 									"name": "C3: The Echoes",
 									"page": 129,
 									"entries": [
-										"Below, the tunnels twine and corkscrew downwards. In these reaches, travelers might encounter Congregation pilgrims trekking towards their ultimate religious experience, or sometimes fugitive devils\u2014{@creature ice devil||ice devils} and {@creature Pain Devil (Excruciarch)|CoA|pain devils} ({@adventure see appendix B|CoA|14})\u2014drawn into the caves seeking mortals to torment or escaping more powerful devils. Most common, though, are the Echoes. Read the following:",
+										"Below, the tunnels twine and corkscrew downwards. In these reaches, travelers might encounter Congregation pilgrims trekking towards their ultimate religious experience, or sometimes fugitive devils\u2014{@creature ice devil||ice devils} and {@creature Pain Devil (Excruciarch)|CoA|pain devils} ({@area see appendix B|351|x})\u2014drawn into the caves seeking mortals to torment or escaping more powerful devils. Most common, though, are the Echoes. Read the following:",
 										{
 											"type": "insetReadaloud",
 											"page": 129,
@@ -11151,7 +11151,7 @@
 											"entries": [
 												"The oathbreaker finds their soul imprisoned among the Echoes in the ice when they, and any companions, see a pre-adolescent reflection of themself begging for mercy. Other reflections, devils in the guise of four children, are tormenting the character's soul relentlessly. To save the soul, characters must break through the ice and enter the Echo. This requires an action and, when the first character is inside, they find themselves in a 60-foot diameter chamber, surrounded by ice. The bullies transform into four {@creature chain devil||chain devils} surrounding the child (a {@creature commoner}). The devils attack the characters.",
 												"Whenever a character starts their turn inside the Echo, they take 5 ({@damage 1d10}) cold damage. Additionally, at initiative count 20 of round 4, any surviving devils seemingly transform back into children (but they retain all their devil statistics). If a devil in child's form is slain, it vanishes and reappears at the start of the next round, fully healed. At initiative count 20 of round 5, the enemies transform back into devils and this process repeats every 4 rounds.",
-												"During this combat, if the oathbreaker's soul is slain, it reappears at the start of the oathbreaker's next turn, but an {@creature Affliction Devil (Kocrachon)|CoA|affliction devil} ({@adventure see appendix B|CoA|14}) appears next to the oathbreaker, to assist the other devils in battle. These devils can be permanently slain only while they wear their own form. Once all the devils are defeated the echo of the oathbreaker's younger self vanishes and leaves the phylactery in its place.",
+												"During this combat, if the oathbreaker's soul is slain, it reappears at the start of the oathbreaker's next turn, but an {@creature Affliction Devil (Kocrachon)|CoA|affliction devil} ({@area see appendix B|351|x}) appears next to the oathbreaker, to assist the other devils in battle. These devils can be permanently slain only while they wear their own form. Once all the devils are defeated the echo of the oathbreaker's younger self vanishes and leaves the phylactery in its place.",
 												"Now in possession of their soul, the character must escape the ice. However, the longer the characters were inside the Echo, the thicker the ice around them has grown. Every time a devil transformed into a child, the ice-chamber was pulled deeper into the Echo, and another 10 feet of ice grew between the chamber and the original entrance into the Echo. Each 10-foot section must be destroyed as if it were created by the {@spell Wall of Ice} spell."
 											],
 											"id": "1f6"
@@ -11405,15 +11405,15 @@
 									"rows": [
 										[
 											"1",
-											"There is a terrible shaking as the earth nearby splits apart and a broad-faced beast, as large as a dragon but wingless, erupts, a mouthful of rocks and gems falling from its mouth. It is a {@creature miasmorne|CoA} ({@adventure see appendix B|CoA|14}) burrowing through the Nine Hells, in search of metal and magic to devour."
+											"There is a terrible shaking as the earth nearby splits apart and a broad-faced beast, as large as a dragon but wingless, erupts, a mouthful of rocks and gems falling from its mouth. It is a {@creature miasmorne|CoA} ({@area see appendix B|351|x}) burrowing through the Nine Hells, in search of metal and magic to devour."
 										],
 										[
 											"2",
-											"Inside a small, fortified structure is a {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@adventure see appendix B|CoA|14}). It hates {@creature Glasya|CoA}'s rule and believes it can revive the Hag Countess."
+											"Inside a small, fortified structure is a {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@area see appendix B|351|x}). It hates {@creature Glasya|CoA}'s rule and believes it can revive the Hag Countess."
 										],
 										[
 											"3",
-											"A {@creature maelephant nomad|CoA} ({@adventure see appendix B|CoA|14}), driven slightly insane by its extended lifespan, searches the ruins for something to guard. When it sees the characters, there is a {@chance 50} chance it goes into a frenzy and attacks."
+											"A {@creature maelephant nomad|CoA} ({@area see appendix B|351|x}), driven slightly insane by its extended lifespan, searches the ruins for something to guard. When it sees the characters, there is a {@chance 50} chance it goes into a frenzy and attacks."
 										],
 										[
 											"4",
@@ -11506,7 +11506,7 @@
 							"name": "Temptations",
 							"page": 136,
 							"entries": [
-								"Have the characters encounter at least one temptation during their time in Malbolge. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@adventure appendix E|CoA|17} to keep track of their corruption level."
+								"Have the characters encounter at least one temptation during their time in Malbolge. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@area appendix E|35b|x} to keep track of their corruption level."
 							],
 							"id": "210"
 						}
@@ -11601,7 +11601,7 @@
 									"page": 137,
 									"entries": [
 										"{@b {@i \"A Thing of Beauty\"}}",
-										"Whilst rummaging the stalls around the city, the character with the lowest Charisma is approached by a devil who offers to sell them an amulet of great power for 600 gp. This is an Amulet of Appearance ({@adventure see appendix D|CoA|16}) and if the character initially declines the purchase, the charming devil insists the character tries it on before deciding. A successful {@dc 15} Wisdom ({@skill Insight}) check reveals it to be a magic amulet but not that it is cursed. If the character tries the amulet on, they transform. Any blemishes and imperfections vanish, they've never looked better. Audible gasps of approval can be heard from onlookers who see the transformation take place."
+										"Whilst rummaging the stalls around the city, the character with the lowest Charisma is approached by a devil who offers to sell them an amulet of great power for 600 gp. This is an Amulet of Appearance ({@area see appendix D|354|x}) and if the character initially declines the purchase, the charming devil insists the character tries it on before deciding. A successful {@dc 15} Wisdom ({@skill Insight}) check reveals it to be a magic amulet but not that it is cursed. If the character tries the amulet on, they transform. Any blemishes and imperfections vanish, they've never looked better. Audible gasps of approval can be heard from onlookers who see the transformation take place."
 									],
 									"id": "216"
 								}
@@ -12504,13 +12504,13 @@
 											"id": "21f"
 										},
 										"The inn sits at a confluence of chasm and tunnel thoroughfares between infernal fortresses, in a particularly perilous region of the plane. Perilous more for Fiends than for travelers from outside the lower planes. From long feeding on the toxic flesh of Malagard\u2014perhaps helped along by the tinkering of the inn's proprietors\u2014the local life has developed some potent weapons to deploy against devils. In place of the regular poisons that Fiends are immune to, many species of {@creature giant scorpion||giant scorpions} and {@creature giant spider||giant spiders} inject acid with their stingers and fangs, or even more bizarre fluids that sear like the radiant touch of angels, rendering down fiendish flesh into a readily ingestible soup.",
-										"The tumultuous air above isn't safe either, as flights of {@creature ayperobo swarm|CoA|ayperobo swarms} ({@adventure see appendix B|CoA|14}) issue from their crevice nests, eager to devour prey. Those devils tasked to take messages and goods through the region of the inn always hurry to take shelter there, no matter the risks, and mortal travelers would be advised to do the same.",
+										"The tumultuous air above isn't safe either, as flights of {@creature ayperobo swarm|CoA|ayperobo swarms} ({@area see appendix B|351|x}) issue from their crevice nests, eager to devour prey. Those devils tasked to take messages and goods through the region of the inn always hurry to take shelter there, no matter the risks, and mortal travelers would be advised to do the same.",
 										{
 											"type": "entries",
 											"name": "Ekengarik's Swarms",
 											"page": 140,
 											"entries": [
-												"Approaching travelers are set upon by {@dice 2d6} {@creature giant scorpion||giant scorpions} and {@dice 2d6} {@creature giant spider||giant spiders} that crawl out from the various crevices around them. If the characters take to the air, an {@creature ayperobo swarm|CoA} ({@adventure see appendix B|CoA|14}) joins the battle. The insects don't pursue if the characters climb the hill towards the inn.",
+												"Approaching travelers are set upon by {@dice 2d6} {@creature giant scorpion||giant scorpions} and {@dice 2d6} {@creature giant spider||giant spiders} that crawl out from the various crevices around them. If the characters take to the air, an {@creature ayperobo swarm|CoA} ({@area see appendix B|351|x}) joins the battle. The insects don't pursue if the characters climb the hill towards the inn.",
 												{
 													"type": "inset",
 													"name": "Corrupted Insects",
@@ -12637,7 +12637,7 @@
 											"page": 142,
 											"entries": [
 												"{@b {@i \"Painful Knowledge\"}}",
-												"If the characters decide to rent a room at the inn or find themselves exploring the guest rooms without payment, they find a mirror by the side of the bed. The mirror is a Sage's Mirror ({@adventure see appendix D|CoA|16}) and is small enough to carry."
+												"If the characters decide to rent a room at the inn or find themselves exploring the guest rooms without payment, they find a mirror by the side of the bed. The mirror is a Sage's Mirror ({@area see appendix D|354|x}) and is small enough to carry."
 											],
 											"id": "22d"
 										},
@@ -12904,7 +12904,7 @@
 											"page": 146,
 											"entries": [
 												"{@b {@i \"Life After Death\"}}",
-												"Malecki carries a strange amulet in one of her robe's many pockets. This is a cursed item known as the Amulet of Duplicity ({@adventure see appendix D|CoA|16})."
+												"Malecki carries a strange amulet in one of her robe's many pockets. This is a cursed item known as the Amulet of Duplicity ({@area see appendix D|354|x})."
 											],
 											"id": "23d"
 										}
@@ -13000,7 +13000,7 @@
 											"page": 147,
 											"entries": [
 												"If the characters are searching for the {@item Scourge of Shadow|CoA}, {@creature Anacreda|CoA} wants to make a deal with them. She desires the head of {@creature Baalzebul|CoA}'s chief general, {@creature Abigor|CoA}, in retaliation for a slight he made to her the last time he visited the inn. {@creature Anacreda|CoA} promises to get the scourge, but only if they agree to having the {@spell Geas} spell cast on them. Alternatively, if the characters defeat {@creature Anacreda|CoA} and her sisters in combat, the hag bargains for her life by offering up both the scourge and {@creature Glasya|CoA}. The archdevil visits often, usually without any guard. What could be a better revenge for the characters, than killing the daughter of {@creature Asmodeus|CoA}? The hag is more than willing to help set an ambush for the archdevil.",
-												"When {@creature Glasya|CoA} ({@adventure see appendix A|CoA|13}) arrives, {@creature Anacreda|CoA} sits with her and serves a frothing tea that both consume. If {@creature Anacreda|CoA} is cooperating to ambush the archdevil, the tea weakens {@creature Glasya|CoA} in the following ways. {@creature Glasya|CoA} can't use her Call Underling, Fiendish Regeneration, or Mesmerizing Gaze in Malbolge for 1 week. As soon as {@creature Glasya|CoA} finishes her tea, {@creature Anacreda|CoA} beckons the characters from the shadows to attack. During combat, the hag uses her Spinewall to disrupt and corral {@creature Glasya|CoA} and she claws at the archdevil as long as the characters are nearby to assist. {@creature Glasya|CoA} doesn't seem overly surprised at the betrayal\u2014this is the way of the Nine Hells after all."
+												"When {@creature Glasya|CoA} ({@area see appendix A|34c|x}) arrives, {@creature Anacreda|CoA} sits with her and serves a frothing tea that both consume. If {@creature Anacreda|CoA} is cooperating to ambush the archdevil, the tea weakens {@creature Glasya|CoA} in the following ways. {@creature Glasya|CoA} can't use her Call Underling, Fiendish Regeneration, or Mesmerizing Gaze in Malbolge for 1 week. As soon as {@creature Glasya|CoA} finishes her tea, {@creature Anacreda|CoA} beckons the characters from the shadows to attack. During combat, the hag uses her Spinewall to disrupt and corral {@creature Glasya|CoA} and she claws at the archdevil as long as the characters are nearby to assist. {@creature Glasya|CoA} doesn't seem overly surprised at the betrayal\u2014this is the way of the Nine Hells after all."
 											],
 											"id": "241"
 										}
@@ -13063,7 +13063,7 @@
 										],
 										[
 											"2",
-											"Construction on a new project is being done by thirty {@creature lemure||lemures}, led by a {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@adventure see appendix B|CoA|14})."
+											"Construction on a new project is being done by thirty {@creature lemure||lemures}, led by a {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@area see appendix B|351|x})."
 										],
 										[
 											"3",
@@ -13071,7 +13071,7 @@
 										],
 										[
 											"4",
-											"Three swarms of {@creature ayperobo swarm|CoA|ayperobo} ({@adventure see appendix B|CoA|14}) wander through Maladomini looking for something to fight."
+											"Three swarms of {@creature ayperobo swarm|CoA|ayperobo} ({@area see appendix B|351|x}) wander through Maladomini looking for something to fight."
 										],
 										[
 											"5",
@@ -13140,7 +13140,7 @@
 							"name": "Temptations",
 							"page": 150,
 							"entries": [
-								"Have the characters encounter at least one temptation during their time in Maladomini. If the characters give in to temptation, use the information in {@adventure appendix E|CoA|17} to keep track of their corruption level."
+								"Have the characters encounter at least one temptation during their time in Maladomini. If the characters give in to temptation, use the information in {@area appendix E|35b|x} to keep track of their corruption level."
 							],
 							"id": "247"
 						}
@@ -13228,7 +13228,7 @@
 							"page": 150,
 							"entries": [
 								"{@b {@i \"If I Could Read Your Mind\"}}",
-								"The characters are approached by a devil that offers them the ability to read the thoughts of someone important to them for the cost of 1 {@item Soul Coin|BGDIA} and 800 gp. If one of the characters is tempted, run the {@adventure appropriate temptation event|CoA|2|Betrayal} from chapter 2."
+								"The characters are approached by a devil that offers them the ability to read the thoughts of someone important to them for the cost of 1 {@item Soul Coin|BGDIA} and 800 gp. If one of the characters is tempted, run the {@area appropriate temptation event|0bf|x} from chapter 2."
 							],
 							"id": "24c"
 						},
@@ -13264,7 +13264,7 @@
 									"page": 150,
 									"entries": [
 										"{@b {@i \"A Palace Fit for a King\"}}",
-										"Here in the (current) capital of {@creature Baalzebul|CoA}'s realm, you can't throw a stone without hitting an architect. All are vying to gain favor from the tormented archdevil and to convince him to let them build bigger and better. One of these architects approaches the characters, explaining that his latest proposal was rejected once more. It is desperate for work and offers to build the characters a fortress or a temple in their name. The price is 3 {@item Soul Coin|BGDIA|Soul Coins} and 2,000 gp (a rare magic item brings the price down to 500 gp). If any of the characters take the devil up on their offer run the {@adventure appropriate temptation event|CoA|2|Oppression} from chapter 2."
+										"Here in the (current) capital of {@creature Baalzebul|CoA}'s realm, you can't throw a stone without hitting an architect. All are vying to gain favor from the tormented archdevil and to convince him to let them build bigger and better. One of these architects approaches the characters, explaining that his latest proposal was rejected once more. It is desperate for work and offers to build the characters a fortress or a temple in their name. The price is 3 {@item Soul Coin|BGDIA|Soul Coins} and 2,000 gp (a rare magic item brings the price down to 500 gp). If any of the characters take the devil up on their offer run the {@area appropriate temptation event|0e3|x} from chapter 2."
 									],
 									"id": "24f"
 								},
@@ -13287,7 +13287,7 @@
 							"name": "Carnival Eternal",
 							"page": 153,
 							"entries": [
-								"Also of note is the Carnival Eternal, which is a terrifying and absurd amusement park built to reward successful devils. If the characters have not yet encountered the \"Ruin and Amusement\" random encounter ({@adventure see chapter 2|CoA|2}), feel free to run that now if the characters explore the Carnival Eternal."
+								"Also of note is the Carnival Eternal, which is a terrifying and absurd amusement park built to reward successful devils. If the characters have not yet encountered the \"Ruin and Amusement\" random encounter ({@area see chapter 2|084|x}), feel free to run that now if the characters explore the Carnival Eternal."
 							],
 							"id": "250"
 						},
@@ -13332,7 +13332,7 @@
 										"Rival gangs of devils roam and control various portions of the Eye Market, and it would be best to not get mixed up in their turf war."
 									]
 								},
-								"This is a location well known to many travelers and {@creature Koh Tam|CoA} can provide a standard map of the Eye Market ({@adventure see appendix F|CoA|18}) to the characters. They can then use this map to decide which route they want to take to reach Vaness' and Fling's shop (area M6)."
+								"This is a location well known to many travelers and {@creature Koh Tam|CoA} can provide a standard map of the Eye Market ({@area see appendix F|35f|x}) to the characters. They can then use this map to decide which route they want to take to reach Vaness' and Fling's shop (area M6)."
 							],
 							"id": "254"
 						},
@@ -13341,7 +13341,7 @@
 							"name": "The Law",
 							"page": 153,
 							"entries": [
-								"Watching over the streets around the Eye Market is Akrekarn, the closest this morass has to the law. A {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@adventure see appendix B|CoA|14}) retired from a life of blackmailing mortals, Akrekarn patrols the streets around the market with a writ from {@creature Baalzebul|CoA}, allegedly enforcing the archdevil's will but in truth simply shaking down locals and visitors for all he can get. He is more than ready to have his mob of infernal deputies (six {@creature bearded devil||bearded devils}) seize anyone who won't bow the knee or proffer a bribe, taking them to be tormented, sold, or ransomed as he thinks best. When not terrorizing the streets, Akrekarn takes his unspeakable pleasures in the one completed building in the city, a guard house he has made his headquarters. Or else he is to be found at the Eye Market itself, shaking down the proprietors and reminding them that they operate only on sufferance.",
+								"Watching over the streets around the Eye Market is Akrekarn, the closest this morass has to the law. A {@creature Corruption Devil (Paeliryon)|CoA|corruption devil} ({@area see appendix B|351|x}) retired from a life of blackmailing mortals, Akrekarn patrols the streets around the market with a writ from {@creature Baalzebul|CoA}, allegedly enforcing the archdevil's will but in truth simply shaking down locals and visitors for all he can get. He is more than ready to have his mob of infernal deputies (six {@creature bearded devil||bearded devils}) seize anyone who won't bow the knee or proffer a bribe, taking them to be tormented, sold, or ransomed as he thinks best. When not terrorizing the streets, Akrekarn takes his unspeakable pleasures in the one completed building in the city, a guard house he has made his headquarters. Or else he is to be found at the Eye Market itself, shaking down the proprietors and reminding them that they operate only on sufferance.",
 								{
 									"type": "inset",
 									"name": "An Eye for Opportunity",
@@ -13992,7 +13992,7 @@
 											"page": 159,
 											"entries": [
 												"{@b {@i \"Two Kills for One\"}}",
-												"Upon defeating Fling, the characters find he carries a magic weapon. Run the {@adventure appropriate temptation event|CoA|2|Betrayal} from chapter 2."
+												"Upon defeating Fling, the characters find he carries a magic weapon. Run the {@area appropriate temptation event|0bf|x} from chapter 2."
 											],
 											"id": "26c"
 										},
@@ -14001,7 +14001,7 @@
 											"name": "Hellriders\u2014Rescuing Jenevere",
 											"page": 159,
 											"entries": [
-												"More information about {@creature Jenevere|CoA} can be found in {@adventure appendix C|CoA|15}. Characters looking for {@creature Jenevere|CoA}, find the planetar imprisoned in Vaness' workshop. As the characters enter, they notice her caged in the back of the room.",
+												"More information about {@creature Jenevere|CoA} can be found in {@area appendix C|353|x}. Characters looking for {@creature Jenevere|CoA}, find the planetar imprisoned in Vaness' workshop. As the characters enter, they notice her caged in the back of the room.",
 												"On their travels around the Nine Hells, the characters may have heard the rumors surrounding {@creature Jenevere|CoA}. It is said she has never been broken, not by any devil. She pains her tormentors by immediately forgiving them for their abuse, praying for those souls that inflict torment on her. She believes no one\u2014not even the vilest of devils\u2014is beyond saving.",
 												"The proudest Fiends think they're to be the one to break her, corrupt her. They fight over her. But possessing the planetar becomes tainted once they realize she can't be broken.",
 												"And now, imprisoned here in the workshop, {@creature Jenevere|CoA}'s magnificent focus is completely on Vaness. She stares intently in Vaness' direction, even though her radiant eyes were taken from her by her cruel captor. It is as if she is looking straight into the beholder's soul.",
@@ -14150,7 +14150,7 @@
 					"name": "Running This Chapter",
 					"page": 163,
 					"entries": [
-						"Before running this chapter read the \"Cania Overview\" section. It provides you with the necessary information as the characters come close to ending their journey down the River Styx. {@creature Tiax|CoA} may have a special role in this chapter, so review the \"{@creature Tiax|CoA}'s Betrayal\" section later in this chapter. Ultimately, if the characters have completed their main objectives, the \"{@adventure A Thankful Patron|CoA|10|A Thankful Patron}\" event occurs, setting the stage for the resolution to the adventure in chapter 12.",
+						"Before running this chapter read the \"Cania Overview\" section. It provides you with the necessary information as the characters come close to ending their journey down the River Styx. {@creature Tiax|CoA} may have a special role in this chapter, so review the \"{@creature Tiax|CoA}'s Betrayal\" section later in this chapter. Ultimately, if the characters have completed their main objectives, the \"{@area A Thankful Patron|2a3|x}\" event occurs, setting the stage for the resolution to the adventure in chapter 12.",
 						{
 							"type": "entries",
 							"name": "Encounters",
@@ -14175,15 +14175,15 @@
 										],
 										[
 											"2",
-											"A pack of three {@creature vorvolaka|CoA|vorvolakas} ({@adventure see appendix B|CoA|14}) circle in the skies above the icy surface, searching for mortal blood. Canian devils call them \"ice vultures.\" Once they find a victim, they stalk and wait for the temperature to make things easier, staying in the air and just out of range until their prey weakens."
+											"A pack of three {@creature vorvolaka|CoA|vorvolakas} ({@area see appendix B|351|x}) circle in the skies above the icy surface, searching for mortal blood. Canian devils call them \"ice vultures.\" Once they find a victim, they stalk and wait for the temperature to make things easier, staying in the air and just out of range until their prey weakens."
 										],
 										[
 											"3",
-											"A young {@creature Styx dragon|CoA} ({@adventure see appendix B|CoA|14}), cut off from the river by falling ice, sought shelter in a nearby ice cave. Without intervention, it will likely die of starvation or frostbite in a few days. It is both defensive and hungry, but it recognizes the position it is in."
+											"A young {@creature Styx dragon|CoA} ({@area see appendix B|351|x}), cut off from the river by falling ice, sought shelter in a nearby ice cave. Without intervention, it will likely die of starvation or frostbite in a few days. It is both defensive and hungry, but it recognizes the position it is in."
 										],
 										[
 											"4",
-											"{@creature Halog|CoA|Halogs} ({@adventure see appendix B|CoA|14}) are known to resist the fires of Phlegethos, and as a swarm of four of them runs by, it becomes apparent they can also survive the freezing temperatures in Cania. They could provide a good source of food\u2014if not for the characters, then for the devils native to this layer."
+											"{@creature Halog|CoA|Halogs} ({@area see appendix B|351|x}) are known to resist the fires of Phlegethos, and as a swarm of four of them runs by, it becomes apparent they can also survive the freezing temperatures in Cania. They could provide a good source of food\u2014if not for the characters, then for the devils native to this layer."
 										],
 										[
 											"5",
@@ -14257,7 +14257,7 @@
 							"name": "Temptations",
 							"page": 164,
 							"entries": [
-								"Have the characters encounter at least one temptation during their time in Cania. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@adventure appendix E|CoA|17} to keep track of their corruption level.",
+								"Have the characters encounter at least one temptation during their time in Cania. You can of course have them encounter more if you want. If the characters give in to temptation, use the information in {@area appendix E|35b|x} to keep track of their corruption level.",
 								{
 									"type": "inset",
 									"name": "Guiding the Characters",
@@ -14329,7 +14329,7 @@
 					"page": 165,
 					"entries": [
 						"If the rumors are to be believed, a heavily guarded portal beneath the city of Mephistar is one of only two methods of entering Nessus. The other entrance lies with the Styx and is equally as dangerous. Only by navigating the Styx from its first entrance into Cania can a captain find the exit\u2014otherwise, some form of magic keeps the edge of Cania hidden and the river goes on indefinitely. Where the Styx reaches the edge, it pours over into a massive frozen waterfall, which solidifies around the body of a gargantuan ancient being. Reaching Nessus requires climbing down the frozen creature, a perilous path plagued with deathly falls, dangerous creatures, and twisting paths. Should one survive the trek, they arrive at the entrance to Nessus.",
-						"The end of this climb is described in the \"{@adventure Climbing down into Nessus|CoA|12|Climbing down into Nessus}\" section in chapter 12.",
+						"The end of this climb is described in the \"{@area Climbing down into Nessus|315|x}\" section in chapter 12.",
 						{
 							"type": "entries",
 							"name": "Features",
@@ -14373,7 +14373,7 @@
 									"entries": [
 										"{@b {@i \"As Good an Answer\"}}",
 										"If the characters make their way to the city of Kintyre, they find a community of prospecting devils. They're obsessed with finding {@creature Mephistopheles|CoA}' libraries and want to gain the knowledge found within. Camps have sprung up in and around the city, from where these devils venture out on their expeditions. Enterprising devils have set up shop here, selling maps they claim mark locations of possible troves of knowledge, amulets that protect against the harsh climate, and other wares that would attract this particular clientele.",
-										"The characters are approached by a devil, who is willing to fabricate false evidence within Kintyre to answer a question of great importance. Run the {@adventure appropriate temptation event|CoA|2|Deceit} from chapter 2."
+										"The characters are approached by a devil, who is willing to fabricate false evidence within Kintyre to answer a question of great importance. Run the {@area appropriate temptation event|0c5|x} from chapter 2."
 									],
 									"id": "27d"
 								},
@@ -14389,7 +14389,7 @@
 											"page": 166,
 											"entries": [
 												"{@b {@i \"To Cheat Death\"}}",
-												"If the characters explore Mephistar they risk drawing attention from Adonides or {@creature Mephistopheles|CoA}. But if they enter the city nonetheless, a {@creature succubus} calls to them from a shop inset into the wall of the glacier-city. She offers to inscribe a magic tattoo and suggests it protects against death. She charges only 250 gp and has ink for only one such tattoo. Run the {@adventure appropriate temptation event|CoA|2|Murder} from chapter 2 if one of the characters gets tattooed by her."
+												"If the characters explore Mephistar they risk drawing attention from Adonides or {@creature Mephistopheles|CoA}. But if they enter the city nonetheless, a {@creature succubus} calls to them from a shop inset into the wall of the glacier-city. She offers to inscribe a magic tattoo and suggests it protects against death. She charges only 250 gp and has ink for only one such tattoo. Run the {@area appropriate temptation event|0dc|x} from chapter 2 if one of the characters gets tattooed by her."
 											],
 											"id": "27f"
 										}
@@ -15415,7 +15415,7 @@
 							],
 							"id": "2b7"
 						},
-						"Proceed to the \"{@adventure Climbing down into Nessus|CoA|12|Climbing down into Nessus}\" section in chapter 12 if the characters have finished their adventures in Cania and are undertaking the climb. The characters are given an infernal map for the Oasis of the Lethe and cautioned to hang onto it until they need it. {@creature Koh Tam|CoA} or {@creature Tiax|CoA} offer the following parting advice:",
+						"Proceed to the \"{@area Climbing down into Nessus|315|x}\" section in chapter 12 if the characters have finished their adventures in Cania and are undertaking the climb. The characters are given an infernal map for the Oasis of the Lethe and cautioned to hang onto it until they need it. {@creature Koh Tam|CoA} or {@creature Tiax|CoA} offer the following parting advice:",
 						{
 							"type": "insetReadaloud",
 							"page": 177,
@@ -15459,7 +15459,7 @@
 							"name": "The Hunters",
 							"page": 179,
 							"entries": [
-								"The archdevils, {@creature Brother Adramalech|CoA} and {@creature Brother Morax|CoA}, have been tasked by {@creature Asmodeus|CoA} to hunt the characters down and take them captive. If they succeed in taking the characters captive, then they take them to Malsheem where they're confronted by {@creature Asmodeus|CoA} (refer to the section on \"{@adventure Malsheem|CoA|12|Adventure: Malsheem}\" in chapter 12).",
+								"The archdevils, {@creature Brother Adramalech|CoA} and {@creature Brother Morax|CoA}, have been tasked by {@creature Asmodeus|CoA} to hunt the characters down and take them captive. If they succeed in taking the characters captive, then they take them to Malsheem where they're confronted by {@creature Asmodeus|CoA} (refer to the section on \"{@area Malsheem|33e|x}\" in chapter 12).",
 								"The archdevil {@creature Abigor|CoA} has been tasked by {@creature Baalzebul|CoA} to simply kill the characters and eliminate the threat to him that they present."
 							],
 							"id": "2bb"
@@ -15480,14 +15480,14 @@
 											"type": "item",
 											"name": "The Triad",
 											"entries": [
-												"The characters may have made a bargain with the devils {@creature Rimmon|CoA}, {@creature Zagum|CoA}, and {@creature Buer|CoA} to capture {@creature Abigor|CoA} (see \"{@adventure Malsheem|CoA|12|Adventure: Malsheem}\" in chapter 12)."
+												"The characters may have made a bargain with the devils {@creature Rimmon|CoA}, {@creature Zagum|CoA}, and {@creature Buer|CoA} to capture {@creature Abigor|CoA} (see \"{@area Malsheem|33e|x}\" in chapter 12)."
 											]
 										},
 										{
 											"type": "item",
 											"name": "The Geas",
 											"entries": [
-												"They may have allowed {@creature Anacreda|CoA} to place a geas upon them that compels them to slay {@creature Abigor|CoA} (see \"{@adventure Anacreda the Angelmaker|CoA|8|S10: Anacreda the Angelmaker}\" in chapter 8)."
+												"They may have allowed {@creature Anacreda|CoA} to place a geas upon them that compels them to slay {@creature Abigor|CoA} (see \"{@area Anacreda the Angelmaker|23e|x}\" in chapter 8)."
 											]
 										},
 										{
@@ -15506,7 +15506,7 @@
 									"name": "Corruption",
 									"page": 179,
 									"entries": [
-										"These encounters may trigger a premature ending to the adventure. An additional gating mechanism you might consider is to avoid triggering this hunt until the characters have become corrupted. The information in {@adventure appendix E|CoA|17} helps you keep track of their corruption. Once they've grown too corrupt, the characters are infinitely tangled in {@creature Asmodeus|CoA}'s chains and making a deal with the archdevil is likely their best option anyways. But if they still have a chance of redemption, they don't want to end up in Malsheem too soon."
+										"These encounters may trigger a premature ending to the adventure. An additional gating mechanism you might consider is to avoid triggering this hunt until the characters have become corrupted. The information in {@area appendix E|35b|x} helps you keep track of their corruption. Once they've grown too corrupt, the characters are infinitely tangled in {@creature Asmodeus|CoA}'s chains and making a deal with the archdevil is likely their best option anyways. But if they still have a chance of redemption, they don't want to end up in Malsheem too soon."
 									],
 									"id": "2bd"
 								}
@@ -15583,7 +15583,7 @@
 							"name": "Encounters",
 							"page": 180,
 							"entries": [
-								"The exterior of this warship is patrolled by devils, as described in area N1. Additionally other devils occupy the watchtower (area N18). Evading their notice is challenging. If the characters somehow enter the ship without being noticed, the hallways are patrolled by a pack of four {@creature displacer fiend|CoA|displacer fiends} ({@adventure see appendix B|CoA|14}). Every minute spent in the hallways there is a 1 in 4 chance of running into them."
+								"The exterior of this warship is patrolled by devils, as described in area N1. Additionally other devils occupy the watchtower (area N18). Evading their notice is challenging. If the characters somehow enter the ship without being noticed, the hallways are patrolled by a pack of four {@creature displacer fiend|CoA|displacer fiends} ({@area see appendix B|351|x}). Every minute spent in the hallways there is a 1 in 4 chance of running into them."
 							],
 							"id": "2c5"
 						},
@@ -16791,7 +16791,7 @@
 											"page": 182,
 											"entries": [
 												"There are a half dozen steel chests in this room. Each is locked and requires a successful {@dc 20} Dexterity check with thieves' tools to unlock. Five of the chests contain platinum bars, each worth 1,000 gp. Each chest has 5 bars stacked inside of it.",
-												"The last chest contains plans written by {@creature Asmodeus|CoA} himself. The plans detail how he intends to trick {@creature Baalzebul|CoA} into leaving his plane so that he can turn him back into the slug form that {@creature Baalzebul|CoA} so despises. He has ordered the archdevil brothers to find {@creature Abigor|CoA}, {@creature Baalzebul|CoA}'s trusted lieutenant, and take him prisoner to draw {@creature Baalzebul|CoA} out. This is the same plan that the Triad will offer the characters ({@adventure see chapter 12|CoA|12})."
+												"The last chest contains plans written by {@creature Asmodeus|CoA} himself. The plans detail how he intends to trick {@creature Baalzebul|CoA} into leaving his plane so that he can turn him back into the slug form that {@creature Baalzebul|CoA} so despises. He has ordered the archdevil brothers to find {@creature Abigor|CoA}, {@creature Baalzebul|CoA}'s trusted lieutenant, and take him prisoner to draw {@creature Baalzebul|CoA} out. This is the same plan that the Triad will offer the characters ({@area see chapter 12|30a|x})."
 											],
 											"id": "2cf"
 										}
@@ -16811,7 +16811,7 @@
 											],
 											"id": "2d1"
 										},
-										"The rooms are used for disobedient crew members and prisoners of war. Unlocking the door with the key makes a loud screeching noise and by the time the door is fully opened, the prisoners beyond are already standing and looking expectantly at the door. There are currently four prisoners being held in separate cells\u2014a {@creature cambion} named Shlatchel, a {@creature bearded devil}, a {@creature couatl} that has assumed the form of a cambion to avoid conflict with his cell mates (though all other crew members know the truth) and the former Hellrider, {@creature Barachiel|CoA} ({@adventure see appendix C|CoA|15}).",
+										"The rooms are used for disobedient crew members and prisoners of war. Unlocking the door with the key makes a loud screeching noise and by the time the door is fully opened, the prisoners beyond are already standing and looking expectantly at the door. There are currently four prisoners being held in separate cells\u2014a {@creature cambion} named Shlatchel, a {@creature bearded devil}, a {@creature couatl} that has assumed the form of a cambion to avoid conflict with his cell mates (though all other crew members know the truth) and the former Hellrider, {@creature Barachiel|CoA} ({@area see appendix C|353|x}).",
 										"The key that opened the outer door also opens any of the cells. When {@creature Barachiel|CoA} sees the characters, he approaches the bars of his prison.",
 										{
 											"type": "insetReadaloud",
@@ -16830,7 +16830,7 @@
 									"name": "N6: Nest",
 									"page": 182,
 									"entries": [
-										"This is where the brothers keep their {@creature vorvolaka|CoA|vorvolakas} ({@adventure see appendix B|CoA|14}). There are three to be found here unless the ship is at battle alert, whereupon the room is empty."
+										"This is where the brothers keep their {@creature vorvolaka|CoA|vorvolakas} ({@area see appendix B|351|x}). There are three to be found here unless the ship is at battle alert, whereupon the room is empty."
 									],
 									"id": "2d3"
 								},
@@ -16961,7 +16961,7 @@
 											],
 											"id": "2e1"
 										},
-										"A {@creature maelephant nomad|CoA} ({@adventure see appendix B|CoA|14}) named Zerkosis runs this workshop. It is assisted by four {@creature bone devil||bone devils} and four {@creature barbed devil||barbed devils}."
+										"A {@creature maelephant nomad|CoA} ({@area see appendix B|351|x}) named Zerkosis runs this workshop. It is assisted by four {@creature bone devil||bone devils} and four {@creature barbed devil||barbed devils}."
 									],
 									"id": "2e0"
 								},
@@ -16996,7 +16996,7 @@
 									"name": "N16: Armory",
 									"page": 184,
 									"entries": [
-										"The armory is filled with weapons of almost every kind. In addition, there are two magic weapons\u2014a {@item Stygian Spear|CoA} and a {@item Demonbone Polearm|CoA} ({@adventure see appendix D|CoA|16})."
+										"The armory is filled with weapons of almost every kind. In addition, there are two magic weapons\u2014a {@item Stygian Spear|CoA} and a {@item Demonbone Polearm|CoA} ({@area see appendix D|354|x})."
 									],
 									"id": "2e5"
 								},
@@ -17013,7 +17013,7 @@
 											],
 											"id": "2e7"
 										},
-										"This is where the {@creature displacer fiend|CoA|displacer fiends} ({@adventure see appendix B|CoA|14}) are kenneled. There are six of them here resting at any given time."
+										"This is where the {@creature displacer fiend|CoA|displacer fiends} ({@area see appendix B|351|x}) are kenneled. There are six of them here resting at any given time."
 									],
 									"id": "2e6"
 								},
@@ -17586,7 +17586,7 @@
 											],
 											"id": "2f0"
 										},
-										"The prisoner is named {@creature Aeshma|CoA} (see his entry in {@adventure appendix C|CoA|15}). The moment he walks free of the room with the characters, he holds out his hand for the coin he has won from them (he did win the wager after all). His satchel contains two {@item Soul Coin|BGDIA|Soul Coins}, 15 gp, and a set of gambler's dice.",
+										"The prisoner is named {@creature Aeshma|CoA} (see his entry in {@area appendix C|353|x}). The moment he walks free of the room with the characters, he holds out his hand for the coin he has won from them (he did win the wager after all). His satchel contains two {@item Soul Coin|BGDIA|Soul Coins}, 15 gp, and a set of gambler's dice.",
 										{
 											"type": "entries",
 											"name": "The Conclave as Patron",
@@ -17620,7 +17620,7 @@
 														}
 													]
 												},
-												"Ultimately the characters must slay {@creature Aeshma|CoA} and capture his soul with the Conclave Coin. Once accomplished, they can bring the coin with them to their final meeting with their patrons (see \"{@adventure A Thankful Patron|CoA|10|A Thankful Patron}\" in chapter 10). Clever characters might instead destroy the coin now, ensuring that the soul doesn't fall into the wrong hands. An infernal ship's furnace consumes the Conclave Coin instantly and destroys the coin in the process. The soul trapped in the coin becomes trapped in the furnace instead, powering the infernal ship. Not even divine intervention can restore a soul destroyed in this manner."
+												"Ultimately the characters must slay {@creature Aeshma|CoA} and capture his soul with the Conclave Coin. Once accomplished, they can bring the coin with them to their final meeting with their patrons (see \"{@area A Thankful Patron|2a3|x}\" in chapter 10). Clever characters might instead destroy the coin now, ensuring that the soul doesn't fall into the wrong hands. An infernal ship's furnace consumes the Conclave Coin instantly and destroys the coin in the process. The soul trapped in the coin becomes trapped in the furnace instead, powering the infernal ship. Not even divine intervention can restore a soul destroyed in this manner."
 											],
 											"id": "2f1"
 										}
@@ -17849,7 +17849,7 @@
 									],
 									"id": "309"
 								},
-								"{@creature Baalzebul|CoA} ({@adventure see appendix A|CoA|13}) is both confused at his sudden transformation back into his most hated form and in rage at the characters. He lashes out at them. The characters can either stand to fight him or attempt to escape. In either case, they've completed the mission the Triad assigned them and if they survive here, they should return to Nessus."
+								"{@creature Baalzebul|CoA} ({@area see appendix A|34c|x}) is both confused at his sudden transformation back into his most hated form and in rage at the characters. He lashes out at them. The characters can either stand to fight him or attempt to escape. In either case, they've completed the mission the Triad assigned them and if they survive here, they should return to Nessus."
 							],
 							"id": "308"
 						}
@@ -17915,11 +17915,11 @@
 										],
 										[
 											"4",
-											"Filled with rage by the sheer quantity of souls it absorbed, a {@creature tyrant shadow|CoA} ({@adventure see appendix B|CoA|14}) rampages through the layer. Creatures of its size and strength are rare, and its death curries favor in the realm. If they kill it, the characters have advantage on all checks when interacting with the Triad. Additionally, when the tyrant shadow dies, {@dice 3d4} {@item Soul Coin|BGDIA|Soul Coins} are created."
+											"Filled with rage by the sheer quantity of souls it absorbed, a {@creature tyrant shadow|CoA} ({@area see appendix B|351|x}) rampages through the layer. Creatures of its size and strength are rare, and its death curries favor in the realm. If they kill it, the characters have advantage on all checks when interacting with the Triad. Additionally, when the tyrant shadow dies, {@dice 3d4} {@item Soul Coin|BGDIA|Soul Coins} are created."
 										],
 										[
 											"5",
-											"A pride of six {@creature Hellcat (Bezekira)|CoA|hellcats} ({@adventure see appendix B|CoA|14}), led by a particularly menacing bezekira, stalks Nessus looking for prey. They avoid opponents they feel they can't defeat."
+											"A pride of six {@creature Hellcat (Bezekira)|CoA|hellcats} ({@area see appendix B|351|x}), led by a particularly menacing bezekira, stalks Nessus looking for prey. They avoid opponents they feel they can't defeat."
 										],
 										[
 											"6",
@@ -17987,7 +17987,7 @@
 							"name": "Corruption Tracker",
 							"page": 196,
 							"entries": [
-								"Before setting out in Nessus, consult {@adventure appendix E|CoA|17}. The information there helps you guide your players through the finale of their adventure. Do the following now:",
+								"Before setting out in Nessus, consult {@area appendix E|35b|x}. The information there helps you guide your players through the finale of their adventure. Do the following now:",
 								{
 									"type": "list",
 									"items": [
@@ -18126,7 +18126,7 @@
 									],
 									"id": "31a"
 								},
-								"The escort is led by a {@creature pit fiend} and includes four {@creature war devil|CoA|war devils} ({@adventure see appendix B|CoA|14}), six {@creature horned devil||horned devils}, and a pair of {@creature adult red dragon||adult red dragons} that the characters are to ride if they can't fly themselves. Even the most powerful characters will find this to be a difficult fight if it comes to violence, but the devils have been told to simply escort the characters, not imprison them. They only attack to defend themselves or if the characters refuse to accompany them. Proceed to the \"Adventure: Malsheem\" section."
+								"The escort is led by a {@creature pit fiend} and includes four {@creature war devil|CoA|war devils} ({@area see appendix B|351|x}), six {@creature horned devil||horned devils}, and a pair of {@creature adult red dragon||adult red dragons} that the characters are to ride if they can't fly themselves. Even the most powerful characters will find this to be a difficult fight if it comes to violence, but the devils have been told to simply escort the characters, not imprison them. They only attack to defend themselves or if the characters refuse to accompany them. Proceed to the \"Adventure: Malsheem\" section."
 							],
 							"id": "319"
 						},
@@ -18211,7 +18211,7 @@
 											"name": "An Old Nemesis",
 											"page": 201,
 											"entries": [
-												"This might be an opportunity to resurface villains from earlier in the character's adventures before they ventured into the Nine Hells, having them side with Ormogg in this prison break. Alternatively have the prisoners be comprised of an {@creature archmage}, four {@creature priest||priests}, six {@creature gladiator||gladiators} and eight {@creature veteran||veterans}. The creature pulling their wagon is a {@creature miasmorne|CoA} ({@adventure see appendix B|CoA|14}) but it isn't truly under their control, at any moment it might turn upon them."
+												"This might be an opportunity to resurface villains from earlier in the character's adventures before they ventured into the Nine Hells, having them side with Ormogg in this prison break. Alternatively have the prisoners be comprised of an {@creature archmage}, four {@creature priest||priests}, six {@creature gladiator||gladiators} and eight {@creature veteran||veterans}. The creature pulling their wagon is a {@creature miasmorne|CoA} ({@area see appendix B|351|x}) but it isn't truly under their control, at any moment it might turn upon them."
 											],
 											"id": "321"
 										},
@@ -18248,7 +18248,7 @@
 							"name": "Advice from Koh Tam",
 							"page": 202,
 							"entries": [
-								"{@creature Koh Tam|CoA} previously gave the characters an infernal map. Show the players the map of the Oasis of the Lethe in {@adventure appendix F|CoA|18}. They can use this map to decide which points of interest they want to explore. Refer to the \"{@adventure Using an Infernal Map|CoA|2|Using an Infernal Map}\" section of chapter 2."
+								"{@creature Koh Tam|CoA} previously gave the characters an infernal map. Show the players the map of the Oasis of the Lethe in {@area appendix F|35f|x}. They can use this map to decide which points of interest they want to explore. Refer to the \"{@area Using an Infernal Map|0f6|x}\" section of chapter 2."
 							],
 							"id": "323"
 						},
@@ -18758,7 +18758,7 @@
 									"name": "Corruption",
 									"page": 206,
 									"entries": [
-										"All of the characters can find the loopholes to their contracts within the library. However, for any characters who are corrupted during their time in the Nine Hells, annulling the contracts isn't the end of their troubles. Use the information in {@adventure appendix E|CoA|17} to guide the characters through their next steps."
+										"All of the characters can find the loopholes to their contracts within the library. However, for any characters who are corrupted during their time in the Nine Hells, annulling the contracts isn't the end of their troubles. Use the information in {@area appendix E|35b|x} to guide the characters through their next steps."
 									],
 									"id": "336"
 								},
@@ -18812,11 +18812,11 @@
 												],
 												[
 													"4",
-													"Three {@creature maelephant nomad|CoA|maelephant nomads} ({@adventure see appendix B|CoA|14})"
+													"Three {@creature maelephant nomad|CoA|maelephant nomads} ({@area see appendix B|351|x})"
 												],
 												[
 													"5",
-													"Two {@creature war devil|CoA|war devils} ({@adventure see appendix B|CoA|14})"
+													"Two {@creature war devil|CoA|war devils} ({@area see appendix B|351|x})"
 												],
 												[
 													"6",
@@ -19026,7 +19026,7 @@
 									"name": "Negotiating",
 									"page": 212,
 									"entries": [
-										"This final negotiation is influenced by the choices the characters made during their time in the Nine Hells. If they're corrupted their options are severely limited. However, if the characters managed to keep their souls relatively untarnished, they have more options and may be able to outmaneuver the Triad. For each individual character, check the Final Outcomes table in {@adventure appendix E|CoA|17} to see which options are available in the negotiation.",
+										"This final negotiation is influenced by the choices the characters made during their time in the Nine Hells. If they're corrupted their options are severely limited. However, if the characters managed to keep their souls relatively untarnished, they have more options and may be able to outmaneuver the Triad. For each individual character, check the Final Outcomes table in {@area appendix E|35b|x} to see which options are available in the negotiation.",
 										{
 											"type": "entries",
 											"name": "Setting the Terms",
@@ -19072,7 +19072,7 @@
 							"name": "Audience with Asmodeus",
 							"page": 213,
 							"entries": [
-								"An audience with {@creature Asmodeus|CoA} ({@adventure see appendix A|CoA|13}) is something that very few mortals have ever had. {@creature Asmodeus|CoA} doesn't want to meet the characters just to sign their contract. He could have let the Triad handle that. He always has another angle to push, and the characters should be on their guard during what turns out to be his final temptation.",
+								"An audience with {@creature Asmodeus|CoA} ({@area see appendix A|34c|x}) is something that very few mortals have ever had. {@creature Asmodeus|CoA} doesn't want to meet the characters just to sign their contract. He could have let the Triad handle that. He always has another angle to push, and the characters should be on their guard during what turns out to be his final temptation.",
 								"If any of the characters managed to free their loved ones without damning themselves in the process, {@creature Asmodeus|CoA} wants to convince them to serve him one last time. {@creature Asmodeus|CoA} butters up the characters by saying that he has witnessed their power, tenacity and ingenuity and has been greatly impressed. He tells the characters that he has an offer.",
 								"Any of the characters can agree to sign a contract that stipulates that their soul goes to the Nine Hells when they die. However, they will arrive in the Nine Hells as horned devils. A successful {@dc 20} Charisma ({@skill Persuasion}) check can make it so that they arrive in the Nine Hells as pit fiends instead. In exchange for their souls {@creature Asmodeus|CoA} will grant them power undreamed of by most mortals. They can choose any 2 of the epic boons available in the {@book Dungeon Master's Guide|DMG} (a successful {@dc 20} Charisma ({@skill Persuasion}) check increases this to 3).",
 								"While he is disappointed if none of them accept his offer, he won't harm the characters. Instead, he teleports them back to {@creature Koh Tam|CoA}'s barge. See the next section."
@@ -19325,7 +19325,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "382"
 				},
 				{
 					"type": "section",
@@ -19349,7 +19350,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "383"
 				},
 				{
 					"type": "section",
@@ -19373,7 +19375,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "384"
 				},
 				{
 					"type": "section",
@@ -19397,7 +19400,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "385"
 				},
 				{
 					"type": "section",
@@ -19421,7 +19425,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "386"
 				},
 				{
 					"type": "section",
@@ -19445,7 +19450,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "387"
 				},
 				{
 					"type": "section",
@@ -19469,7 +19475,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "388"
 				},
 				{
 					"type": "section",
@@ -19493,7 +19500,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "389"
 				},
 				{
 					"type": "section",
@@ -19517,7 +19525,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "38a"
 				},
 				{
 					"type": "section",
@@ -19541,7 +19550,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "38b"
 				},
 				{
 					"type": "section",
@@ -19565,7 +19575,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "38c"
 				}
 			],
 			"id": "34c"
@@ -19604,7 +19615,7 @@
 									"type": "item",
 									"name": "Infernal Magic Items",
 									"entries": [
-										"Some devils might wear or wield infernal magic items. More information is given on these items in {@adventure appendix D|CoA|16}."
+										"Some devils might wear or wield infernal magic items. More information is given on these items in {@area appendix D|354|x}."
 									]
 								}
 							]
@@ -19657,7 +19668,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "38d"
 				},
 				{
 					"type": "section",
@@ -19681,7 +19693,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "38e"
 				},
 				{
 					"type": "section",
@@ -19705,7 +19718,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "38f"
 				},
 				{
 					"type": "section",
@@ -19729,7 +19743,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "390"
 				},
 				{
 					"type": "section",
@@ -19753,7 +19768,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "391"
 				},
 				{
 					"type": "section",
@@ -19777,7 +19793,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "392"
 				},
 				{
 					"type": "section",
@@ -19801,7 +19818,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "393"
 				},
 				{
 					"type": "section",
@@ -19825,7 +19843,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "394"
 				},
 				{
 					"type": "section",
@@ -19849,7 +19868,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "395"
 				},
 				{
 					"type": "section",
@@ -19873,7 +19893,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "396"
 				},
 				{
 					"type": "section",
@@ -19897,7 +19918,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "397"
 				},
 				{
 					"type": "section",
@@ -19921,7 +19943,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "398"
 				},
 				{
 					"type": "section",
@@ -19945,7 +19968,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "399"
 				},
 				{
 					"type": "section",
@@ -19969,7 +19993,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "39a"
 				},
 				{
 					"type": "section",
@@ -19993,7 +20018,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "39b"
 				},
 				{
 					"type": "section",
@@ -20017,7 +20043,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "39c"
 				},
 				{
 					"type": "section",
@@ -20041,7 +20068,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "39d"
 				}
 			],
 			"id": "351"
@@ -20086,7 +20114,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "39e"
 				},
 				{
 					"type": "section",
@@ -20110,7 +20139,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "39f"
 				},
 				{
 					"type": "section",
@@ -20134,7 +20164,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3a0"
 				},
 				{
 					"type": "section",
@@ -20158,7 +20189,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3a1"
 				},
 				{
 					"type": "section",
@@ -20182,7 +20214,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3a2"
 				},
 				{
 					"type": "section",
@@ -20206,7 +20239,8 @@
 							"source": "CoA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3a3"
 				}
 			],
 			"id": "353"

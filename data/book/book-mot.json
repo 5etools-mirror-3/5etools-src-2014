@@ -64,12 +64,12 @@
 				"The caprice of the gods. The destiny of heroes. Great journeys into monster-infested wilds, and mythic odysseys to the edge of the world and back. These elements of adventure fill the realms of Theros, a new setting for your {@b Dungeons & Dragons} campaign to explore.",
 				"The roots of Theros lie in the myths of ancient Greece, tales dominated by gods, heroes, and monsters. This world was created as a setting for the {@b Magic: The Gathering} trading card game, explored in card sets beginning in 2013. The lands of Theros serve as an example of how to take inspiration from real-world mythology and adapt it into a world built from the ground up for fantasy adventures.",
 				"This book is your guide to Theros, its gods, its peoples and their cities (or poleis), its threats, and its tales. It also guides you through creating characters destined to be legends and adventures born of this mythic setting.",
-				"{@book Chapter 1|MOT|1} covers the heroes of Theros: the races, class options, and backgrounds you'll need to make a character. It also introduces supernatural gifts available to starting characters\u2014features that set Theros's adventurers apart as true heroes.",
-				"{@book Chapter 2|MOT|2} introduces the gods of Theros, a squabbling pantheon of arrogant and powerful beings who view mortals as pawns in their strategic games. It also provides rules and guidelines for characters who serve as champions of the gods, including divine benefits they can gain as rewards for their piety.",
-				"{@book Chapter 3|MOT|3} turns to the mortal world, the lands in which the epic adventures of Theros unfold. It covers the three city-states of humanity, the wild lands of leonin and minotaurs, the great forests and wide plains where satyrs revel and centaurs roam, and the seas where tritons dwell and titanic monsters lurk. It also offers glimpses into the divine realm of Nyx and the dismal realms of the Underworld.",
-				"{@book Chapter 4|MOT|4} builds on the guidelines in the {@book Dungeon Master's Guide|DMG}, highlighting adventures set in Theros. Maintaining a focus on the gods, it presents omens that might launch heroes on the road to adventure, details hundreds of plot hooks, includes maps of potential adventure locations, and presents a short introductory adventure you can use to launch your campaign.",
-				"{@book Chapter 5|MOT|5} details treasures of Theros, including the artifacts of the gods, the magical inventions of renowned artisans, and various other devices infused with the magic of the world.",
-				"Finally, {@book chapter 6|MOT|6} presents numerous inhabitants of Theros. An exploration of familiar beasts from the {@book Monster Manual|MM} and other sources\u2014creatures with their roots in Greek mythology\u2014details their place and unique characteristics in the lands of Theros. Several of Theros's most notorious creatures, foes as legendary as the world's most renowned heroes, are also presented as mythic monsters, terrors designed to test even the gods' mightiest champions.",
+				"{@area Chapter 1|00d|x} covers the heroes of Theros: the races, class options, and backgrounds you'll need to make a character. It also introduces supernatural gifts available to starting characters\u2014features that set Theros's adventurers apart as true heroes.",
+				"{@area Chapter 2|080|x} introduces the gods of Theros, a squabbling pantheon of arrogant and powerful beings who view mortals as pawns in their strategic games. It also provides rules and guidelines for characters who serve as champions of the gods, including divine benefits they can gain as rewards for their piety.",
+				"{@area Chapter 3|1a0|x} turns to the mortal world, the lands in which the epic adventures of Theros unfold. It covers the three city-states of humanity, the wild lands of leonin and minotaurs, the great forests and wide plains where satyrs revel and centaurs roam, and the seas where tritons dwell and titanic monsters lurk. It also offers glimpses into the divine realm of Nyx and the dismal realms of the Underworld.",
+				"{@area Chapter 4|229|x} builds on the guidelines in the {@book Dungeon Master's Guide|DMG}, highlighting adventures set in Theros. Maintaining a focus on the gods, it presents omens that might launch heroes on the road to adventure, details hundreds of plot hooks, includes maps of potential adventure locations, and presents a short introductory adventure you can use to launch your campaign.",
+				"{@area Chapter 5|354|x} details treasures of Theros, including the artifacts of the gods, the magical inventions of renowned artisans, and various other devices infused with the magic of the world.",
+				"Finally, {@area chapter 6|37e|x} presents numerous inhabitants of Theros. An exploration of familiar beasts from the {@book Monster Manual|MM} and other sources\u2014creatures with their roots in Greek mythology\u2014details their place and unique characteristics in the lands of Theros. Several of Theros's most notorious creatures, foes as legendary as the world's most renowned heroes, are also presented as mythic monsters, terrors designed to test even the gods' mightiest champions.",
 				{
 					"type": "image",
 					"href": {
@@ -157,7 +157,7 @@
 					"id": "007",
 					"entries": [
 						"When storytellers relate the history of Theros, they always speak in the most general terms. An event of just ten years past happened \"many years ago,\" and the founding of Meletis in the distant past happened \"many, many years ago.\" In Theros, history transforms into myth more quickly than it does in other worlds, becoming generalized, vague, and moralistic. And because the gods are so deeply involved in mortal affairs, it's often impossible to distinguish between the myths of divine activities and the scraps of historical fact in these records.",
-						"The origin and generations of the gods\u2014from the primordial titans to the modern pantheon now worshiped in Theros\u2014are described in {@book chapter 2|MOT|2}. The world's myths also fill this book, stories that still resonate in the dreams and ambitions of Theros's people. These myths are noted in distinct sections, with the first appearing in {@book chapter 1|MOT|1}. Yet the largely agreed upon history of mortal folk on Theros occurred more recently and is thought to have unfolded as follows.",
+						"The origin and generations of the gods\u2014from the primordial titans to the modern pantheon now worshiped in Theros\u2014are described in {@area chapter 2|080|x}. The world's myths also fill this book, stories that still resonate in the dreams and ambitions of Theros's people. These myths are noted in distinct sections, with the first appearing in {@area chapter 1|00d|x}. Yet the largely agreed upon history of mortal folk on Theros occurred more recently and is thought to have unfolded as follows.",
 						{
 							"type": "entries",
 							"name": "Age of Trax",
@@ -344,7 +344,7 @@
 							"page": 11,
 							"id": "010",
 							"entries": [
-								"Many characters' ideals come directly from their service to a god. Each god's description in {@book chapter 2|MOT|2} includes a table you can use to determine your hero's ideal if your character serves that god, instead of (or in addition to) an ideal derived from your background. But whether your character holds to one of those ideals, one from the {@book Player's Handbook|PHB} or another source, or one of your own invention, try to state your ideal in the grandest possible terms to express your character's heroic drive."
+								"Many characters' ideals come directly from their service to a god. Each god's description in {@area chapter 2|080|x} includes a table you can use to determine your hero's ideal if your character serves that god, instead of (or in addition to) an ideal derived from your background. But whether your character holds to one of those ideals, one from the {@book Player's Handbook|PHB} or another source, or one of your own invention, try to state your ideal in the grandest possible terms to express your character's heroic drive."
 							]
 						},
 						{
@@ -373,7 +373,7 @@
 									"page": 12,
 									"id": "013",
 									"entries": [
-										"The birth of a hero is often accompanied by signs in Nyx and Theros alike. You can use the Omens table in {@book chapter 4|MOT|4|Omens} to randomly determine an omen that appeared when you were born. It's up to you and your DM to determine the omen's meaning."
+										"The birth of a hero is often accompanied by signs in Nyx and Theros alike. You can use the Omens table in {@area chapter 4|23a|x} to randomly determine an omen that appeared when you were born. It's up to you and your DM to determine the omen's meaning."
 									]
 								}
 							]
@@ -593,7 +593,7 @@
 					"entries": [
 						"Remarkable individuals from all walks of life seek their destinies among the lands of Theros, from devout servants of the gods, to triumph-hungry athletes.",
 						"While the heroes of Theros might come from any of the backgrounds presented in the {@book Player's Handbook|PHB}, the gods have a way of interceding in the lives of those meant for greatness. When determining your character's backstory, consider how the gods have influenced your life. The gods are pervasive in the stories and cultures of Theros, and even their devout followers shouldn't feel bound to choose a faith-focused background like acolyte. The gods' followers come from all walks of life, and any heroic soul might find themselves thrust into the midst of divine schemes.",
-						"Whether or not your character is exceptionally devout, consider reviewing the deities presented in {@book chapter 2|MOT|2|Gods of Theros} and see if you gravitate toward one. Perhaps this god has a special interest in you, is the deity your family has hailed as a patron for generations, or embodies values you hold close. Based on this, consider that chapter's possibilities for how you might have earned that immortal's favor (if indeed you have) and alternate background ideals related to their worship\u2014along with other boons that might entice you into their service.",
+						"Whether or not your character is exceptionally devout, consider reviewing the deities presented in {@area chapter 2|080|x} and see if you gravitate toward one. Perhaps this god has a special interest in you, is the deity your family has hailed as a patron for generations, or embodies values you hold close. Based on this, consider that chapter's possibilities for how you might have earned that immortal's favor (if indeed you have) and alternate background ideals related to their worship\u2014along with other boons that might entice you into their service.",
 						"Your character doesn't need to be a follower of any of the gods, but if you're not, there's likely a reason why you've avoided them.",
 						"In addition to the gods, the supernatural gifts presented earlier in this chapter might influence your background. Consider what story emerges from your combination of supernatural gift, background, and other choices.",
 						"Beyond these options, the {@background athlete|MOT} background presented here provides a new way to seek glory through discipline and physical prowess.",
@@ -652,7 +652,7 @@
 						"Gods grant their clerics the ability to cast spells, and they can effortlessly duplicate the effect of any spell they could grant (any spell on the cleric spell list, as well as any domain spell from their domains). They also have broad influence over aspects of the world associated with their portfolios, beyond what can be defined by spell effects. For example, Purphoros can make a volcano erupt, and Thassa can call up a tidal wave. Gods can bestow supernatural blessings on mortals, and they can lay terrible curses (such as when Mogis turned a herd of cattle into catoblepases).",
 						"The gods can assume any form they choose. They most commonly appear as humanoids\u2014the form in which the people of Theros most easily imagine them\u2014but on an enormous scale. They often seem to be walking across the dome of the sky, with their feet disappearing just below the horizon. Any part of a god's body that isn't directly lit takes on the appearance of the starry night sky of Nyx. The gods sometimes also appear as animals or magical creatures, or they manifest in insubstantial forms like sunlight or wind.",
 						"When physically present in the mortal world, a god is capable of devastating physical attacks. Heliod's spear striking the polis of Olantin caused it to sink forever into the sea, and an errant blow from Purphoros's hammer shaped the mountains.",
-						"The power of the gods exceeds that of any mortal being. Even so, a god killing another god\u2014let alone a mortal attempting the task\u2014is virtually inconceivable. Any kind of direct confrontation against a god by mortals would require the assistance of at least one other god, and ideally more than one, to have any hope of success. A group of adventurers might try to convince a group of gods to lend their aid against a god who has become a threat to the mortal world, hoping to get the gods to band together to restrain or punish the offender. Kruphix or Klothys might be able to force a god into a physical form that doesn't fill the sky (perhaps something similar to an {@creature empyrean} or the {@creature tarrasque}), which could enable adventurers to battle the god, especially if they have access to a divine weapon like the artifacts detailed in {@book chapter 5|MOT|5}. But defeating the god in that form would merely weaken the deity, allowing other members of the pantheon to capture, bind, or punish them.",
+						"The power of the gods exceeds that of any mortal being. Even so, a god killing another god\u2014let alone a mortal attempting the task\u2014is virtually inconceivable. Any kind of direct confrontation against a god by mortals would require the assistance of at least one other god, and ideally more than one, to have any hope of success. A group of adventurers might try to convince a group of gods to lend their aid against a god who has become a threat to the mortal world, hoping to get the gods to band together to restrain or punish the offender. Kruphix or Klothys might be able to force a god into a physical form that doesn't fill the sky (perhaps something similar to an {@creature empyrean} or the {@creature tarrasque}), which could enable adventurers to battle the god, especially if they have access to a divine weapon like the artifacts detailed in {@area chapter 5|354|x}. But defeating the god in that form would merely weaken the deity, allowing other members of the pantheon to capture, bind, or punish them.",
 						{
 							"type": "entries",
 							"name": "Divine Relationships",
@@ -1476,7 +1476,7 @@
 											"id": "1b7",
 											"entries": [
 												"Myths of the Akroan War",
-												"Centuries before the polis of Olantin sunk beneath the sea (a myth told in {@book chapter 4|MOT|4}), its queen left her husband for the king of Akros. Slighted and heartbroken, the Olantian king summoned his whole host of loyal spears and sails to wage war on the fortified mountain polis.",
+												"Centuries before the polis of Olantin sunk beneath the sea (a myth told in {@area chapter 4|229|x}), its queen left her husband for the king of Akros. Slighted and heartbroken, the Olantian king summoned his whole host of loyal spears and sails to wage war on the fortified mountain polis.",
 												"What followed was a siege that stretched on for decades. Whole parts of Akros were destroyed and rebuilt in the fighting. There were heroes who knew only a life of conflict, performing feats of incredible prowess for the honor of Olantin, or who awed the gods with their sleepless commitment to defending the gates of Akros.",
 												"Most people today know of the event from an embellished account laid down in an epic poem, {@i The Akroan War}. Although its author has been lost to time, the poem is considered to be a definitive accounting of the greatest war in history. Countless soldiers aspire to fight with the honor and purpose that inspired the heroes of the Akroan War."
 											]
@@ -2153,7 +2153,7 @@
 							"page": 98,
 							"id": "1e8",
 							"entries": [
-								"Most of the minotaurs that roam the badlands of Phoberos are outcasts from the society of Skophos. They are bandits and marauders, bloodthirsty killers infected by the wild rage of Mogis. These minotaurs have more in common with the monsters in the {@book Monster Manual|MM} than with the civilized people described in {@book chapter 1|MOT|1|Minotaur} of this book (including their Large size). Most of them use only the barest minimum of technology\u2014tattered clothes, piecemeal armor, and heavy weapons, all scavenged from their fallen foes. They wander alone or gather in bands under the leadership of the strongest among them, and in either case tend to kill any human they encounter. Three distinct bands are particularly well-known by their Akroan foes.",
+								"Most of the minotaurs that roam the badlands of Phoberos are outcasts from the society of Skophos. They are bandits and marauders, bloodthirsty killers infected by the wild rage of Mogis. These minotaurs have more in common with the monsters in the {@book Monster Manual|MM} than with the civilized people described in {@area chapter 1|034|x} of this book (including their Large size). Most of them use only the barest minimum of technology\u2014tattered clothes, piecemeal armor, and heavy weapons, all scavenged from their fallen foes. They wander alone or gather in bands under the leadership of the strongest among them, and in either case tend to kill any human they encounter. Three distinct bands are particularly well-known by their Akroan foes.",
 								{
 									"type": "entries",
 									"name": "Bloodhorn Minotaurs",
@@ -2278,14 +2278,14 @@
 							],
 							"by": "Slighos the Body-binder"
 						},
-						"Before becoming a god, Phenax died, passed into Erebos's realm, and ultimately escaped the Underworld. His escape route, the Path of Phenax (see {@book chapter 4|MOT|4|Path of Phenax}), has since been employed by rare, but over the ages innumerable, individuals. These Returned find the world of the living far different from how they experienced it in life\u2014not that they remember their lives. Although they've escaped from the Underworld, the Returned still find themselves separate from the living, their memories lost and their unnatural states striking fear in most mortals. As a result, most Returned come to follow certain paths of behavior and gravitate toward two city-states, known as the necropoleis\u2014cities of the dead.",
+						"Before becoming a god, Phenax died, passed into Erebos's realm, and ultimately escaped the Underworld. His escape route, the Path of Phenax (see {@area chapter 4|314|x}), has since been employed by rare, but over the ages innumerable, individuals. These Returned find the world of the living far different from how they experienced it in life\u2014not that they remember their lives. Although they've escaped from the Underworld, the Returned still find themselves separate from the living, their memories lost and their unnatural states striking fear in most mortals. As a result, most Returned come to follow certain paths of behavior and gravitate toward two city-states, known as the necropoleis\u2014cities of the dead.",
 						{
 							"type": "entries",
 							"name": "The Returned",
 							"page": 100,
 							"id": "1f5",
 							"entries": [
-								"Walking the Path of Phenax doesn't restore a soul to its life. Those who return from the Underworld are hollow shells inhabited by grim and purposeless spirits. These Returned are separated from their memories, which become wandering eidolons (see {@book chapter 6|MOT|6|Eidolons}). They retain their personalities and skills, but each Returned tends to be a very different being from who they once were. Their second life is theirs to do with as they please, but it's typically a confused, cursed life, plagued by frustration, bitterness, loneliness, and melancholy. Such leads many Returned along dark paths.",
+								"Walking the Path of Phenax doesn't restore a soul to its life. Those who return from the Underworld are hollow shells inhabited by grim and purposeless spirits. These Returned are separated from their memories, which become wandering eidolons (see {@area chapter 6|02e|x}). They retain their personalities and skills, but each Returned tends to be a very different being from who they once were. Their second life is theirs to do with as they please, but it's typically a confused, cursed life, plagued by frustration, bitterness, loneliness, and melancholy. Such leads many Returned along dark paths.",
 								{
 									"type": "entries",
 									"name": "Anographers",
@@ -2434,7 +2434,7 @@
 							],
 							"by": "The Callapheia"
 						},
-						"The vast Siren Sea extends west from the known lands of Theros to the edge of the world. As Thassa's domain, the sea hides an amazing array of creatures, including the entire triton civilization. Its legendary dangers range from deadly reefs and wandering islands to predatory beasts and devastating krakens (see {@book chapter 6|MOT|6|Kraken}). Ever-changing, the Siren Sea is a realm of impossible sights and constant danger, the setting of legendary odysseys and the crucible of heroes.",
+						"The vast Siren Sea extends west from the known lands of Theros to the edge of the world. As Thassa's domain, the sea hides an amazing array of creatures, including the entire triton civilization. Its legendary dangers range from deadly reefs and wandering islands to predatory beasts and devastating krakens (see {@area chapter 6|38a|x}). Ever-changing, the Siren Sea is a realm of impossible sights and constant danger, the setting of legendary odysseys and the crucible of heroes.",
 						{
 							"type": "entries",
 							"name": "Tritons of the Siren Sea",
@@ -2451,7 +2451,7 @@
 							"page": 102,
 							"id": "206",
 							"entries": [
-								"The Dakra Isles were created when Thassa wept over the death of Korinna, a triton queen killed by a human's harpoon. Where the god's tears fell onto the sea there exploded forth an isle suffused with immortal magic and memory. Ages later, the Dakra Isles\u2014also called the Isles of Enchantment\u2014harbor strange sights and fierce monsters. Thassa's power makes it impossible to keep an accurate chart of the islands' positions, which roam as they please. Thus, even the most famed locations appear on no map, and sailors might spot them when or wherever Thassa wills. A few of the Dakra Isles' legendary locations are noted here, and {@book chapter 4|MOT|4} presents guidance for creating more magical shores.",
+								"The Dakra Isles were created when Thassa wept over the death of Korinna, a triton queen killed by a human's harpoon. Where the god's tears fell onto the sea there exploded forth an isle suffused with immortal magic and memory. Ages later, the Dakra Isles\u2014also called the Isles of Enchantment\u2014harbor strange sights and fierce monsters. Thassa's power makes it impossible to keep an accurate chart of the islands' positions, which roam as they please. Thus, even the most famed locations appear on no map, and sailors might spot them when or wherever Thassa wills. A few of the Dakra Isles' legendary locations are noted here, and {@area chapter 4|229|x} presents guidance for creating more magical shores.",
 								{
 									"type": "entries",
 									"name": "Arixmethes",
@@ -2485,7 +2485,7 @@
 									"page": 102,
 									"id": "20a",
 									"entries": [
-										"The island of Skathos was once a sacred meeting place for a secret cult of Pharika whose rites revolved around consuming a magical flower native to the island. The island is now home to the {@creature medusa|MOT} queen, {@creature Hythonia|MOT} (described in {@book chapter 6|MOT|6|Hythonia the Cruel}).",
+										"The island of Skathos was once a sacred meeting place for a secret cult of Pharika whose rites revolved around consuming a magical flower native to the island. The island is now home to the {@creature medusa|MOT} queen, {@creature Hythonia|MOT} (described in {@area chapter 6|3ea|x}).",
 										{
 											"type": "image",
 											"href": {
@@ -2694,7 +2694,7 @@
 							"id": "21e",
 							"entries": [
 								"Nyx is an endless plane of existence where the powers of potentiality and belief hold sway. It is the realm of the gods, of belief given form, of dreams, and of rising and fading philosophies. From here, the pantheon of Theros watches the mortal world and guides the living. Though the gods live in a veritable paradise, they can't sever themselves from the mortal world. To do so would be to lose the faith of their followers, the source of their magic and a power they will not relinquish.",
-								"Nyx can be perceived in the night sky, with its ever-changing brilliance marked by constellations and cosmic phenomena. Its power slips into the world in the same form, with star fields filling the shadows of Nyxborn beings that are infused with its power (see {@book chapter 6|MOT|6|Nyxborn Creatures} for details on Nyxborn).",
+								"Nyx can be perceived in the night sky, with its ever-changing brilliance marked by constellations and cosmic phenomena. Its power slips into the world in the same form, with star fields filling the shadows of Nyxborn beings that are infused with its power (see {@area chapter 6|380|x} for details on Nyxborn).",
 								"While Nyx is impossible to map, distinct regions do exist, and some travelers have returned to the mortal realm with tales of these incredible locations.",
 								{
 									"type": "entries",
@@ -2734,7 +2734,7 @@
 							"entries": [
 								"The Underworld is the place of final rewards and endless suffering. Although many believe the Underworld is literally beneath the ground, in truth the plane is distinct from the mortal world, reachable only via magical means, hidden pathways, or by death. The souls of all dead sapient creatures awake on the banks of the Tartyx, where they meet Athreos the River Guide. From there, those capable of paying for his service are ferried to their new home in the Underworld.",
 								"Most imagine the Underworld's wards as being stacked atop one another, but their actual relationships defy mortal understanding. While the Tartyx River reaches each ward, Phylias is typically defined as the entry to the Underworld, while Tizerus is farthest from this entrance. The other wards hold their own equal places in between. Regardless, souls destined for each realm reach their destinations with equal efficiency and permanency. (See {@book chapter 2|DMG|1} of the {@book Dungeon Master's Guide|DMG} for details on planar arrangements.)",
-								"Each distinctive Underworld ward is effectively infinite in scale, with the space between noteworthy locations endlessly expanding and contracting. Traveling between locations is typically impossible on foot. Secret paths that defy mortal logic, magical steeds, and the intervention of powerful Underworld denizens all might speed one's travels, though. Attempting to escape the Underworld is an entirely different, nearly impossible matter, though (see {@book chapter 4|MOT|4|Underworld Adventures} for details).",
+								"Each distinctive Underworld ward is effectively infinite in scale, with the space between noteworthy locations endlessly expanding and contracting. Traveling between locations is typically impossible on foot. Secret paths that defy mortal logic, magical steeds, and the intervention of powerful Underworld denizens all might speed one's travels, though. Attempting to escape the Underworld is an entirely different, nearly impossible matter, though (see {@area chapter 4|307|x} for details).",
 								"Although vast beyond understanding, the Underworld's most noteworthy regions are detailed here.",
 								{
 									"type": "entries",
@@ -2797,7 +2797,7 @@
 									"entries": [
 										"Nerono is the final home of souls haunted by their memories and of mariners who were lost at sea.",
 										"Vast oceans fill Nerono, a realm dotted by lonely islands and crisscrossed by aimless ships. Titanic ruins and great, algae-slick chains rise out of the sea, as do the weathered hulls of legendary shipwrecks. The sky is a misty blur of color that hangs over water as still as glass. Despite the ocean's normally placid appearance, mighty storms often arise from nowhere, casting souls into waves and whirlpools by the scores. Somewhere within the great oceans hides a twisting tangle of tides and winds called the Labyrinth of Memories. This maze of waterways confounds unwary travelers and twists their course into an inescapable path for eternity.",
-										"When a soul reaches Nerono, sirens, naiads (see {@book chapter 6|MOT|6}), or sphinxes might guide them into the ward.",
+										"When a soul reaches Nerono, sirens, naiads (see {@area chapter 6|37e|x}), or sphinxes might guide them into the ward.",
 										{
 											"type": "image",
 											"href": {
@@ -2855,7 +2855,7 @@
 				},
 				"As exemplified by the labors of Anthousa, the exploits of Haktos the Unscarred, the wondrous inventions of Dalakos, and Elspeth's escape from the Underworld, the heroes of Theros chart their own fates\u2014and so will the player characters in your campaign.",
 				"What adventures might Heliod's champions undertake? What villains and monsters are associated with Phenax? How might adventurers get entangled in divine schemes? This chapter explores these questions, providing abundant advice, tools, and maps for players to create their own exciting stories. The options presented here expand on the material in {@book chapter 3|DMG|2} of the {@book Dungeon Master's Guide|DMG} to help you craft adventures for your own Theros campaign. Each god of Theros's pantheon has a section here, describing how the deity interacts with the mortal world. Beyond the gods, tools for running nautical odysseys and descents into the Underworld appear in this chapter, along with an adventure that explores the machinations of immortals and the dead.",
-				"Monsters and nonplayer characters mentioned in this chapter can be found in this book ({@i MOoT}), the {@book Monster Manual|MM} (MM), {@book Mordenkainen's Tome of Foes|MTF} (MToF), or {@book Volo's Guide to Monsters|VGM} (VGtM). When a creature's name appears in bold type, that's a visual cue pointing you to the creature's stat block. If the stat block appears in {@book chapter 6|MOT|6}, the text tells you so.",
+				"Monsters and nonplayer characters mentioned in this chapter can be found in this book ({@i MOoT}), the {@book Monster Manual|MM} (MM), {@book Mordenkainen's Tome of Foes|MTF} (MToF), or {@book Volo's Guide to Monsters|VGM} (VGtM). When a creature's name appears in bold type, that's a visual cue pointing you to the creature's stat block. If the stat block appears in {@area chapter 6|37e|x}, the text tells you so.",
 				{
 					"type": "section",
 					"name": "God-Based Adventures",
@@ -2951,7 +2951,7 @@
 							"page": 110,
 							"id": "230",
 							"entries": [
-								"Just as many heroes serve as champions of the gods, many villains also serve their wills. Each god's section offers ideas for NPCs whose devotion turns their behavior in a villainous direction. It also provides suggestions for the kinds of monsters that might be associated with that god and serve as foes in an adventure. Generally, monster suggestions exclude foes that could work for most gods, like {@creature Acolyte||acolytes} and {@creature Priest||priests} from the {@book Monster Manual|MM} and {@creature Oracle|MOT|oracles} from {@book chapter 6|MOT|6|Oracle} of this book."
+								"Just as many heroes serve as champions of the gods, many villains also serve their wills. Each god's section offers ideas for NPCs whose devotion turns their behavior in a villainous direction. It also provides suggestions for the kinds of monsters that might be associated with that god and serve as foes in an adventure. Generally, monster suggestions exclude foes that could work for most gods, like {@creature Acolyte||acolytes} and {@creature Priest||priests} from the {@book Monster Manual|MM} and {@creature Oracle|MOT|oracles} from {@area chapter 6|03c|x} of this book."
 							]
 						},
 						{
@@ -3040,7 +3040,7 @@
 							"id": "239",
 							"entries": [
 								"Communication between the mortal world and the divine can take a variety of forms, from omens that get mortals' attention by distorting natural phenomena to face-to-face conversations between a mortal and the manifestation of a god.",
-								"As explained in {@book chapter 2|MOT|2}, the gods aren't all-knowing, so theoretical limits do exist on the information a god might be able to pass on to a human champion. That said, the gods are tremendously knowledgeable, with perfect recall of their past experiences and a reliable ability to predict the short-term future. The gods don't like to reveal their ignorance of any matter, so they might give a purposefully unclear or misleading answer rather than admit they don't know the right one.",
+								"As explained in {@area chapter 2|080|x}, the gods aren't all-knowing, so theoretical limits do exist on the information a god might be able to pass on to a human champion. That said, the gods are tremendously knowledgeable, with perfect recall of their past experiences and a reliable ability to predict the short-term future. The gods don't like to reveal their ignorance of any matter, so they might give a purposefully unclear or misleading answer rather than admit they don't know the right one.",
 								{
 									"type": "entries",
 									"name": "Omens",
@@ -3969,7 +3969,7 @@
 										{
 											"type": "list",
 											"items": [
-												"They are Nyxborn and have one or two of the Nyxborn traits described in {@book chapter 6|MOT|6|Nyxborn Creatures}, commonly magic resistance and magic weapons.",
+												"They are Nyxborn and have one or two of the Nyxborn traits described in {@area chapter 6|380|x}, commonly magic resistance and magic weapons.",
 												"They're of remarkable size, being at least one size category larger than normal."
 											]
 										}
@@ -4032,7 +4032,7 @@
 									"id": "24b",
 									"entries": [
 										"Assuming the god deems the hero worthy, the ordeal gets under way. The hero falls into a trance and steps alone into a dreamscape constructed by the god.",
-										"Work to craft an ordeal that provides a significant challenge for the character to overcome. Fundamentally, an ordeal is a test of the character's heroic drive, as described in {@book chapter 1|MOT|1}. Will the character's drive prove strong enough to overcome everything else?",
+										"Work to craft an ordeal that provides a significant challenge for the character to overcome. Fundamentally, an ordeal is a test of the character's heroic drive, as described in {@area chapter 1|00d|x}. Will the character's drive prove strong enough to overcome everything else?",
 										"An ordeal is a single encounter, which might involve combat, interaction, a series of ability checks, or other activities. It takes place in a dream state, so it's not essential that you give this encounter anything more than a narrative framing. The point is that the ordeal should test whether the hero's drive can counteract their other personality traits. The god who grants an ordeal shapes it. Keranos, for example, might challenge a hero with saving innocents during a dangerous storm, or Thassa might throw a mortal into a dreamscape where their ship is attacked by a kraken. Beyond the obvious challenge, the ordeal should create tension between a character's heroic drive and their other characteristics.",
 										"You can use these guidelines to determine the appropriate degree of challenge for elements of an ordeal:",
 										{
@@ -4069,7 +4069,7 @@
 											"type": "list",
 											"items": [
 												"A miracle or other form of divine intervention",
-												"A supernatural gift of your choice from those described in {@book chapter 1|MOT|1|Supernatural Gifts}",
+												"A supernatural gift of your choice from those described in {@area chapter 1|014|x}",
 												"A magic item of a rarity appropriate to the character's level"
 											]
 										}
@@ -4175,7 +4175,7 @@
 									"rows": [
 										[
 											"1",
-											"An {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) follows omens to find those who have been resurrected, claiming they owe Athreos a debt."
+											"An {@creature oracle|MOT} (see {@area chapter 6|03c|x}) follows omens to find those who have been resurrected, claiming they owe Athreos a debt."
 										],
 										[
 											"2",
@@ -4323,7 +4323,7 @@
 							"id": "254",
 							"entries": [
 								"The Tartyx River is dotted with ruined temples of Athreos on either side of its banks that serve as crossing points between the mortal world and the Underworld. Souls of the dead wait on the riverbank at these desolate places for the River Guide to appear and grant them passage to the Underworld side.",
-								"The ruined temple buildings are as enigmatic as their patron. No priests inhabit or care for these places, though they are guarded by cerberi and phylaskia (both described in {@book chapter 6|MOT|6}). When living mortals enter these shrines, the buildings come alive with magic traps meant to keep the living out of the realm of the dead and the dead from returning to the land of the living.",
+								"The ruined temple buildings are as enigmatic as their patron. No priests inhabit or care for these places, though they are guarded by cerberi and phylaskia (both described in {@area chapter 6|37e|x}). When living mortals enter these shrines, the buildings come alive with magic traps meant to keep the living out of the realm of the dead and the dead from returning to the land of the living.",
 								{
 									"type": "entries",
 									"name": "Underworld Crossing Adventures",
@@ -4617,7 +4617,7 @@
 										],
 										[
 											"6",
-											"An {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) leads a cadre of scholars secretly destroying work that they deem antithetical to proper society."
+											"An {@creature oracle|MOT} (see {@area chapter 6|03c|x}) leads a cadre of scholars secretly destroying work that they deem antithetical to proper society."
 										]
 									]
 								},
@@ -4686,7 +4686,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6|Sphinx} for details about these creatures in Theros."
+												"* See {@area chapter 6|391|x} for details about these creatures in Theros."
 											]
 										}
 									]
@@ -4920,11 +4920,11 @@
 												],
 												[
 													"4",
-													"A snake charmer overreaches when he unsuccessfully attempts to control an {@creature amphisbaena|GoS} (see {@book chapter 6|MOT|6|Amphisbaena}) during a performance."
+													"A snake charmer overreaches when he unsuccessfully attempts to control an {@creature amphisbaena|GoS} (see {@area chapter 6|00e|x}) during a performance."
 												],
 												[
 													"5",
-													"A disgraced priest of Ephara releases a horde of anvilwrought creatures (see {@book chapter 6|MOT|6|Anvilwroughts}) on a crowd gathered at the agora."
+													"A disgraced priest of Ephara releases a horde of anvilwrought creatures (see {@area chapter 6|028|x}) on a crowd gathered at the agora."
 												],
 												[
 													"6",
@@ -5119,7 +5119,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6} for details about these creatures in Theros."
+												"* See {@area chapter 6|37e|x} for details about these creatures in Theros."
 											]
 										},
 										{
@@ -5246,7 +5246,7 @@
 												],
 												[
 													"6",
-													"Reunite a {@creature Returned sentry|MOT} and their {@creature ghostblade eidolon|MOT} (see {@book chapter 6|MOT|6|Eidolons})."
+													"Reunite a {@creature Returned sentry|MOT} and their {@creature ghostblade eidolon|MOT} (see {@area chapter 6|02e|x})."
 												],
 												[
 													"7",
@@ -5488,7 +5488,7 @@
 										],
 										[
 											"6",
-											"A nervous {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) identifies the characters as a threat to the stability of the polis."
+											"A nervous {@creature oracle|MOT} (see {@area chapter 6|03c|x}) identifies the characters as a threat to the stability of the polis."
 										]
 									]
 								},
@@ -5783,7 +5783,7 @@
 												],
 												[
 													"4",
-													"A corrupt {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) of Heliod sells counterfeit heroic artifacts to those he can't see as being destined for greatness."
+													"A corrupt {@creature oracle|MOT} (see {@area chapter 6|03c|x}) of Heliod sells counterfeit heroic artifacts to those he can't see as being destined for greatness."
 												],
 												[
 													"5",
@@ -5923,7 +5923,7 @@
 										],
 										[
 											"2",
-											"A general ({@creature Akroan hoplite|MOT}; see {@book chapter 6|MOT|6|Hoplites}) commands a town be put to the torch for its soldiers' crimes. Followers of Phenax are actually responsible for the crimes and are framing the community so it will be destroyed and turned into a haven for the Returned."
+											"A general ({@creature Akroan hoplite|MOT}; see {@area chapter 6|033|x}) commands a town be put to the torch for its soldiers' crimes. Followers of Phenax are actually responsible for the crimes and are framing the community so it will be destroyed and turned into a haven for the Returned."
 										],
 										[
 											"3",
@@ -6197,7 +6197,7 @@
 											"rows": [
 												[
 													"1",
-													"A champion pankratiast ({@creature Akroan hoplite|MOT}; see {@book chapter 6|MOT|6|Hoplites}) has her cronies lock everyone in the arena. She allows none to leave until a challenger defeats her."
+													"A champion pankratiast ({@creature Akroan hoplite|MOT}; see {@area chapter 6|033|x}) has her cronies lock everyone in the arena. She allows none to leave until a challenger defeats her."
 												],
 												[
 													"2",
@@ -6341,7 +6341,7 @@
 										],
 										[
 											"3",
-											"A local leader ({@creature Setessan hoplite|MOT}; see {@book chapter 6|MOT|6|Hoplites}) imposes harsh penalties on the poor, claiming their poverty is a sign they have invited the gods' wrath."
+											"A local leader ({@creature Setessan hoplite|MOT}; see {@area chapter 6|033|x}) imposes harsh penalties on the poor, claiming their poverty is a sign they have invited the gods' wrath."
 										],
 										[
 											"4",
@@ -6418,7 +6418,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6|Unicorn} for details about these creatures in Theros."
+												"* See {@area chapter 6|394|x} for details about these creatures in Theros."
 											]
 										},
 										{
@@ -6649,7 +6649,7 @@
 												],
 												[
 													"3",
-													"{@creature Siren|TftYP|Sirens} (see the harpies entry in {@book chapter 6|MOT|6|Harpies}) call soldiers to the top of the watchtower, then entice them over the edge so they can feast on the corpses."
+													"{@creature Siren|TftYP|Sirens} (see the harpies entry in {@area chapter 6|031|x}) call soldiers to the top of the watchtower, then entice them over the edge so they can feast on the corpses."
 												],
 												[
 													"4",
@@ -6665,7 +6665,7 @@
 												],
 												[
 													"7",
-													"{@creature Blood-Toll Harpy|MOT|Blood-toll harpies} (see {@book chapter 6|MOT|6|Harpies}) take over a watchtower and light its beacon to bring more victims to the place."
+													"{@creature Blood-Toll Harpy|MOT|Blood-toll harpies} (see {@area chapter 6|031|x}) take over a watchtower and light its beacon to bring more victims to the place."
 												],
 												[
 													"8",
@@ -6777,7 +6777,7 @@
 									"rows": [
 										[
 											"1",
-											"An {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) foretells disaster for a polis unless a number of innocent citizens are sacrificed."
+											"An {@creature oracle|MOT} (see {@area chapter 6|03c|x}) foretells disaster for a polis unless a number of innocent citizens are sacrificed."
 										],
 										[
 											"2",
@@ -6793,7 +6793,7 @@
 										],
 										[
 											"5",
-											"A wild-eyed {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) points to the characters as harbingers of a coming disaster."
+											"A wild-eyed {@creature oracle|MOT} (see {@area chapter 6|03c|x}) points to the characters as harbingers of a coming disaster."
 										],
 										[
 											"6",
@@ -6858,7 +6858,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6|Blue Dragons} for details about these creatures in Theros."
+												"* See {@area chapter 6|387|x} for details about these creatures in Theros."
 											]
 										},
 										{
@@ -7078,7 +7078,7 @@
 											"rows": [
 												[
 													"1",
-													"A bitter {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) who has foreseen her imminent death gives false predictions to worshipers so they will share her misery."
+													"A bitter {@creature oracle|MOT} (see {@area chapter 6|03c|x}) who has foreseen her imminent death gives false predictions to worshipers so they will share her misery."
 												],
 												[
 													"2",
@@ -7098,7 +7098,7 @@
 												],
 												[
 													"6",
-													"An {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) makes false predictions to convince nobles to give him money and lavish gifts."
+													"An {@creature oracle|MOT} (see {@area chapter 6|03c|x}) makes false predictions to convince nobles to give him money and lavish gifts."
 												]
 											]
 										}
@@ -7226,11 +7226,11 @@
 										],
 										[
 											"4",
-											"Insulted {@creature Satyr Reveler|MOT|satyr revelers} (see {@book chapter 6|MOT|6|Satyr}) channel Klothys's magic to drive a polis's priests into embarrassing debauchery."
+											"Insulted {@creature Satyr Reveler|MOT|satyr revelers} (see {@area chapter 6|03f|x}) channel Klothys's magic to drive a polis's priests into embarrassing debauchery."
 										],
 										[
 											"5",
-											"An {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) knows it is a character's destiny to serve Klothys. The seer manufactures tragedy for the individual to provoke this revelation."
+											"An {@creature oracle|MOT} (see {@area chapter 6|03c|x}) knows it is a character's destiny to serve Klothys. The seer manufactures tragedy for the individual to provoke this revelation."
 										],
 										[
 											"6",
@@ -7299,7 +7299,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6|Cyclops} for details about these creatures in Theros."
+												"* See {@area chapter 6|385|x} for details about these creatures in Theros."
 											]
 										}
 									]
@@ -7716,7 +7716,7 @@
 									"rows": [
 										[
 											"1",
-											"An {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) seeks to erase the memories of an entire community, reducing them to a simpler, happier, more natural state."
+											"An {@creature oracle|MOT} (see {@area chapter 6|03c|x}) seeks to erase the memories of an entire community, reducing them to a simpler, happier, more natural state."
 										],
 										[
 											"2",
@@ -7797,7 +7797,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6|Sphinx} for details about these creatures in Theros."
+												"* See {@area chapter 6|391|x} for details about these creatures in Theros."
 											]
 										}
 									]
@@ -8155,7 +8155,7 @@
 										],
 										[
 											"4",
-											"An {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) of Mogis marches into town and predicts doom on the populace within a fortnight."
+											"An {@creature oracle|MOT} (see {@area chapter 6|03c|x}) of Mogis marches into town and predicts doom on the populace within a fortnight."
 										],
 										[
 											"5",
@@ -8232,7 +8232,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6|Classic Monsters} for details about these creatures in Theros."
+												"* See {@area chapter 6|382|x} for details about these creatures in Theros."
 											]
 										},
 										{
@@ -8609,7 +8609,7 @@
 									"rows": [
 										[
 											"1",
-											"A Setessan hunt-leader ({@creature Setessan hoplite|MOT}; see {@book chapter 6|MOT|6|Hoplites}) swears vengeance on a poacher in the Nessian Wood who turns out to be an Akroan general."
+											"A Setessan hunt-leader ({@creature Setessan hoplite|MOT}; see {@area chapter 6|033|x}) swears vengeance on a poacher in the Nessian Wood who turns out to be an Akroan general."
 										],
 										[
 											"2",
@@ -8698,7 +8698,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6} for details about these creatures in Theros."
+												"* See {@area chapter 6|37e|x} for details about these creatures in Theros."
 											]
 										}
 									]
@@ -9121,7 +9121,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6} for details about these creatures in Theros."
+												"* See {@area chapter 6|37e|x} for details about these creatures in Theros."
 											]
 										},
 										{
@@ -9361,7 +9361,7 @@
 												],
 												[
 													"6",
-													"An {@creature oracle|MOT} (see {@book chapter 6|MOT|6|Oracle}) allows the pools' poisons to seep from the caves and contaminate a community."
+													"An {@creature oracle|MOT} (see {@area chapter 6|03c|x}) allows the pools' poisons to seep from the caves and contaminate a community."
 												]
 											]
 										}
@@ -9996,7 +9996,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6|Classic Monsters} for details about these creatures in Theros."
+												"* See {@area chapter 6|382|x} for details about these creatures in Theros."
 											]
 										},
 										{
@@ -10226,7 +10226,7 @@
 												],
 												[
 													"4",
-													"A unit of defeated and desperate {@b hoplites} (see {@book chapter 6|MOT|6|Hoplites}) raid the temple, steal magical weapons, and prepare to avenge their fallen companions."
+													"A unit of defeated and desperate {@b hoplites} (see {@area chapter 6|033|x}) raid the temple, steal magical weapons, and prepare to avenge their fallen companions."
 												],
 												[
 													"5",
@@ -10342,7 +10342,7 @@
 									"rows": [
 										[
 											"1",
-											"A {@creature triton master of waves|MOT} (see {@book chapter 6|MOT|6|Triton}) demands ever greater sacrifices to Thassa from merchants moving along a crucial trade route, threatening to sink ships that don't comply."
+											"A {@creature triton master of waves|MOT} (see {@area chapter 6|040|x}) demands ever greater sacrifices to Thassa from merchants moving along a crucial trade route, threatening to sink ships that don't comply."
 										],
 										[
 											"2",
@@ -10358,7 +10358,7 @@
 										],
 										[
 											"5",
-											"Sirens (see the harpies entry in {@book chapter 6|MOT|6|Harpies}) favored by Thassa take up residence in a lighthouse, preventing its use."
+											"Sirens (see the harpies entry in {@area chapter 6|031|x}) favored by Thassa take up residence in a lighthouse, preventing its use."
 										],
 										[
 											"6",
@@ -10427,7 +10427,7 @@
 												]
 											],
 											"footnotes": [
-												"* See {@book chapter 6|MOT|6} for details about these creatures in Theros."
+												"* See {@area chapter 6|37e|x} for details about these creatures in Theros."
 											]
 										},
 										{
@@ -10664,7 +10664,7 @@
 												],
 												[
 													"3",
-													"A group of sirens (see the {@creature Harpy||harpies} entry in {@book chapter 6|MOT|6|Harpies}) take over the temple and lure new victims inside to drown themselves during high tide."
+													"A group of sirens (see the {@creature Harpy||harpies} entry in {@area chapter 6|031|x}) take over the temple and lure new victims inside to drown themselves during high tide."
 												],
 												[
 													"4",
@@ -10709,7 +10709,7 @@
 							"page": 176,
 							"id": "2f9",
 							"entries": [
-								"Just as on land, everything in the waters of Theros exists on a mythic scale. While map 3.1 in {@book chapter 3|MOT|3|Map 3.1: The World of Theros} suggests that travel across the Siren Sea should take only a few days, its hazards and countless uncharted islands can make what should be a journey of a month a year-long odyssey. Even a routine journey can become an epic adventure if the characters anger a god, such as Thassa, who can make sure the waves are never in their favor.",
+								"Just as on land, everything in the waters of Theros exists on a mythic scale. While map 3.1 in {@area chapter 3|018|x} suggests that travel across the Siren Sea should take only a few days, its hazards and countless uncharted islands can make what should be a journey of a month a year-long odyssey. Even a routine journey can become an epic adventure if the characters anger a god, such as Thassa, who can make sure the waves are never in their favor.",
 								{
 									"type": "entries",
 									"name": "Embarking on Adventure",
@@ -11048,7 +11048,7 @@
 										],
 										[
 											"4",
-											"Calm a kraken attempting to break out of its sea lock (see {@book chapter 6|MOT|6|Kraken})."
+											"Calm a kraken attempting to break out of its sea lock (see {@area chapter 6|38a|x})."
 										],
 										[
 											"5",
@@ -11126,8 +11126,8 @@
 								"Sometimes the answer to a riddle is lost beyond the inky waters of the Tartyx River. When spells and sages fail to recover some crucial bit of information, how far might heroes go to recover it? One answer is to dare an expedition into the Underworld to find what was lost. Entering the Underworld is arguably one of the easiest feats imaginable\u2014everyone ends up there when they die. Entering while still alive, and in such a way as to be able to walk out again, is another matter entirely.",
 								"Legends tell of places where the boundary between the mortal world and the Underworld is weak. These paths lie beyond lands controlled by the poleis and other civilized beings. Dark caves with tunnels leading down into darkness and rivers quietly lapping at fog-shrouded gravel shores give way to the Underworld's borders. Though Athreos ferries the dead across the Tartyx, he's not above accepting a one-way fare from those who still breathe. Even the other fearsome Underworld guardians that keep watch over the dead often allow the living to enter. Leaving the Underworld isn't so simple, and once beyond the Tartyx River the living find themselves in the same predicament as the dead. Within the Underworld, characters who entered bodily are still fully alive. They age, suffer damage, heal naturally, and require air, food, drink, and sleep as normal. The Underworld isn't conducive to mortal life, though, and between deadly creatures and dangerous otherworldly environments, the living might soon find themselves numbering among the dead.",
 								"Characters can pursue all manner of goals to the Underworld. Many center on finding something that was lost with no other means available to recover it. Perhaps this means rescuing a dead soul when resurrection magic isn't an option or retrieving a vital piece of information from someone who wasn't supposed to die. This might even mean pursuing the soul of a player character, particularly if they're somehow barred from being returned to life through usual magical means. In such a case, consider allowing the player to run a temporary character who assists the party in the rescue or to play their own character as a soul and let them rejoin the party to help effect their own escape.",
-								"Regardless of why living characters might enter the Underworld, those who attempt the undertaking might seek to learn more about the realm of the dead, its various wards (see {@book chapter 3|MOT|3|The Underworld}), and where the object of their quest ended up. Oracles of any of the gods might aid in divining these details, but those likely to be the most precise\u2014followers of Erebos\u2014are also the least likely to be interested in aiding an Underworld escape. How characters turn such an oracle to their side and determine the accuracy of the information they receive are all part of such a momentous quest.",
-								"Once characters enter the Underworld and attain their goal, they still face their most daunting challenge: escape. Consult the following \"{@book Paths of Escape|MOT|4|Paths of Escape}\" section for ideas on how the living might ultimately make their way back out of the Underworld."
+								"Regardless of why living characters might enter the Underworld, those who attempt the undertaking might seek to learn more about the realm of the dead, its various wards (see {@area chapter 3|222|x}), and where the object of their quest ended up. Oracles of any of the gods might aid in divining these details, but those likely to be the most precise\u2014followers of Erebos\u2014are also the least likely to be interested in aiding an Underworld escape. How characters turn such an oracle to their side and determine the accuracy of the information they receive are all part of such a momentous quest.",
+								"Once characters enter the Underworld and attain their goal, they still face their most daunting challenge: escape. Consult the following \"{@area Paths of Escape|310|x}\" section for ideas on how the living might ultimately make their way back out of the Underworld."
 							]
 						},
 						{
@@ -11274,7 +11274,7 @@
 									"id": "314",
 									"entries": [
 										"The god Phenax, once a mortal who died and passed into the Underworld, was the first to discover a way to escape, forever known as the Path of Phenax. As part of his escape, he swam across the Tartyx, whose waters stripped away his identity. Without that vital part of his being, Phenax couldn't be detected by Athreos, and Erebos couldn't snare him with his great whip.",
-										"Since Phenax's escape, other souls have repeated his dangerous journey. When mortal souls travel the Path of Phenax, the Tartyx washes away their identities, symbolized by their faces, which become nothing more than blank flesh. Souls that successfully emerge on the mortal side of the Tartyx River become Returned, with no knowledge of their former name or past life. As this is a known consequence, most souls forge a gold mask to carry with them. This mask becomes the proxy identity worn by all Returned. Souls' lost identities continue to exist, though, becoming eidolons, which scatter throughout the mortal realm, having no connection to their Returned bodies. (See {@book chapter 6|MOT|6|Returned} for more information about eidolons and the Returned.)",
+										"Since Phenax's escape, other souls have repeated his dangerous journey. When mortal souls travel the Path of Phenax, the Tartyx washes away their identities, symbolized by their faces, which become nothing more than blank flesh. Souls that successfully emerge on the mortal side of the Tartyx River become Returned, with no knowledge of their former name or past life. As this is a known consequence, most souls forge a gold mask to carry with them. This mask becomes the proxy identity worn by all Returned. Souls' lost identities continue to exist, though, becoming eidolons, which scatter throughout the mortal realm, having no connection to their Returned bodies. (See {@area chapter 6|03e|x} for more information about eidolons and the Returned.)",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -11351,7 +11351,7 @@
 										],
 										[
 											"8",
-											"Discover a secret from an infamous member of your family who became a {@creature typhon|MOT} (see {@book chapter 6|MOT|6|Typhon})."
+											"Discover a secret from an infamous member of your family who became a {@creature typhon|MOT} (see {@area chapter 6|041|x})."
 										],
 										[
 											"9",
@@ -11383,7 +11383,7 @@
 										],
 										[
 											"16",
-											"Discover from a {@creature woe strider|MOT} (see {@book chapter 6|MOT|6|Woe Strider}) how to escape the bonds of destiny."
+											"Discover from a {@creature woe strider|MOT} (see {@area chapter 6|042|x}) how to escape the bonds of destiny."
 										],
 										[
 											"17",
@@ -11460,7 +11460,7 @@
 							"entries": [
 								"Just as the heroes of Theros carry great destinies, so too do many of the magic items they encounter. The common folk don't typically possess magic items, yet adventurers come across them with some regularity\u2014further evidencing the divine favor most enjoy. Nearly every magic item was created with a purpose and often carries with it a role in some greater story, whether an epic long ended or one yet untold.",
 								"As DM, feel free to make ordinary magic items feel like they have significant history and purpose. Even a {@item +1 spear} might have been carried by a company of hoplite veterans that went missing during their quest to reach the edge of the world. Wands might be crafted from legendary sources, while potions might bear the seals of famed alchemists or include signature reagents\u2014like a pegasus feather in a {@item potion of flying}. The Remarkable Origins table offers just a few ways to suggest a magic item's remarkable pedigree without altering its magical properties.",
-								"Certain treasures might also be the objects of heroic quests. For example, one might not be considered a true hero until one follows in the footsteps of past legends and either makes or claims one's own magical garment from the wool of a {@creature Nyx-fleece ram|MOT} (see {@book chapter 6|MOT|6|Nyx-Fleece Ram}). You can also use the tables in {@book chapter 7|DMG|7|Special Features} of the {@book Dungeon Master's Guide|DMG} to help further inspire the story you create for a magic item.",
+								"Certain treasures might also be the objects of heroic quests. For example, one might not be considered a true hero until one follows in the footsteps of past legends and either makes or claims one's own magical garment from the wool of a {@creature Nyx-fleece ram|MOT} (see {@area chapter 6|03a|x}). You can also use the tables in {@book chapter 7|DMG|7|Special Features} of the {@book Dungeon Master's Guide|DMG} to help further inspire the story you create for a magic item.",
 								{
 									"type": "table",
 									"caption": "Remarkable Origins",
@@ -11475,7 +11475,7 @@
 									"rows": [
 										[
 											"1",
-											"The item bears the name or emblem of a lost troop of Akroan stratians (described in {@book chapter 3|MOT|3|Stratians})."
+											"The item bears the name or emblem of a lost troop of Akroan stratians (described in {@area chapter 3|1ae|x})."
 										],
 										[
 											"2",
@@ -11487,7 +11487,7 @@
 										],
 										[
 											"4",
-											"The item is wrapped in handwritten scrolls, suggesting it was once possessed by a founder of one of Meletis's philosophical schools (described in {@book chapter 3|MOT|3|Meletis})."
+											"The item is wrapped in handwritten scrolls, suggesting it was once possessed by a founder of one of Meletis's philosophical schools (described in {@area chapter 3|1b9|x})."
 										],
 										[
 											"5",
@@ -11499,7 +11499,7 @@
 										],
 										[
 											"7",
-											"The item is at least partially made from the heartwood of a Setessan caryatid (described in {@book chapter 3|MOT|3|Caryatid Groves}). The wood regularly sprouts fresh leaves, or its whorls suggest humanoid features."
+											"The item is at least partially made from the heartwood of a Setessan caryatid (described in {@area chapter 3|1d5|x}). The wood regularly sprouts fresh leaves, or its whorls suggest humanoid features."
 										],
 										[
 											"8",
@@ -11511,7 +11511,7 @@
 										],
 										[
 											"10",
-											"Whoever first touches the item receives an omen from the god who watches over it (see {@book chapter 4|MOT|4|Omens} for details on omens)."
+											"Whoever first touches the item receives an omen from the god who watches over it (see {@area chapter 4|23a|x} for details on omens)."
 										],
 										[
 											"11",
@@ -11605,7 +11605,7 @@
 					"id": "364",
 					"entries": [
 						"Miraculous relics fill the tales of Theros. Among these legendary items, none are more renowned than the weapons of the gods themselves. These artifacts embody divine will and the power of Nyx. Where they appear, these weapons change the tide of wars and the course of history.",
-						"Typically a deity bestows their weapon only on a favored champion or devotee. Depending on the champion's piety score, the mortal can tap into hidden properties of the weapon (see {@book chapter 2|MOT|2|Piety} for details on piety). Alternatively, those who don't worship the weapon's divine owner often find themselves cursed for their lack of proper devotion.",
+						"Typically a deity bestows their weapon only on a favored champion or devotee. Depending on the champion's piety score, the mortal can tap into hidden properties of the weapon (see {@area chapter 2|087|x} for details on piety). Alternatively, those who don't worship the weapon's divine owner often find themselves cursed for their lack of proper devotion.",
 						"Occasionally a god's weapon might fall into the wrong hands or go missing entirely, sparking fantastic quests. Consult the Weapons of the Gods Adventures table for suggestions of the sort of quests these artifacts might inspire.",
 						{
 							"type": "table",
@@ -11855,7 +11855,7 @@
 							"page": 204,
 							"id": "385",
 							"entries": [
-								"The human polis of Akros maintains an outpost in the Katachthon Mountains to keep an eye on the cyclops population around One-Eyed Pass (see {@book chapter 3|MOT|3|The Katachthon Mountains}). From the cyclopes' perspective, the Akroan soldiers provide a reliable source of food, for the soldiers herd approaching enemies into cyclops territory rather than fighting these foes themselves. Thus, the cyclopes attack the Akroans just enough to keep the humans afraid of them, but not so much that they eliminate them or drive them off.",
+								"The human polis of Akros maintains an outpost in the Katachthon Mountains to keep an eye on the cyclops population around One-Eyed Pass (see {@area chapter 3|215|x}). From the cyclopes' perspective, the Akroan soldiers provide a reliable source of food, for the soldiers herd approaching enemies into cyclops territory rather than fighting these foes themselves. Thus, the cyclopes attack the Akroans just enough to keep the humans afraid of them, but not so much that they eliminate them or drive them off.",
 								"Similarly, cyclopes who prey on sheep learn never to eat the shepherd. Like the pit of a fruit, a discarded shepherd will eventually \"grow\" a new flock to feed the cyclopes.",
 								{
 									"type": "image",
@@ -11901,7 +11901,7 @@
 									"page": 205,
 									"id": "389",
 									"entries": [
-										"Despite their arrogance and viciousness, dragons are long-lived and perceptive. Their age and patience allows them to divine signs amid violent weather and the rotation of constellations. For worthy sacrifices of food, wealth, or flattery, a dragon might share its interpretations of omens\u2014either those it has witnessed or sights mortals relate to them. Roll on the omens tables in {@book chapter 4|MOT|4|Omens} to determine what the dragon has seen. How the dragon interprets these visions is up to you."
+										"Despite their arrogance and viciousness, dragons are long-lived and perceptive. Their age and patience allows them to divine signs amid violent weather and the rotation of constellations. For worthy sacrifices of food, wealth, or flattery, a dragon might share its interpretations of omens\u2014either those it has witnessed or sights mortals relate to them. Roll on the omens tables in {@area chapter 4|23a|x} to determine what the dragon has seen. How the dragon interprets these visions is up to you."
 									]
 								}
 							]
@@ -11919,7 +11919,7 @@
 									"page": 205,
 									"id": "38b",
 									"entries": [
-										"The largest and most devastating krakens, nadir krakens, dwell in the deepest ocean trenches. These krakens are unique beings, of which the terrifying {@creature Tromokratis|MOT} (described in the \"{@book Mythic Monsters|MOT|6|Tromokratis}\" section of this chapter) numbers among the most feared. When a nadir kraken breaks free of its sea lock and rises to the surface, continents are redrawn, civilizations collapse, and eras end.",
+										"The largest and most devastating krakens, nadir krakens, dwell in the deepest ocean trenches. These krakens are unique beings, of which the terrifying {@creature Tromokratis|MOT} (described in the \"{@area Mythic Monsters|3ee|x}\" section of this chapter) numbers among the most feared. When a nadir kraken breaks free of its sea lock and rises to the surface, continents are redrawn, civilizations collapse, and eras end.",
 										{
 											"type": "image",
 											"href": {
@@ -11941,7 +11941,7 @@
 							"page": 206,
 							"id": "38c",
 							"entries": [
-								"When rage and despair at the gods' misdeeds consume a mortal mind, lamia comes into being. Most lamias in Theros are Nyxborn (described earlier in this {@book chapter|MOT|6|Nyxborn Creatures}), owing their existence to their own twisted imagination, which has changed their physical nature to reflect their internal self. Lamias have wildly varying physical forms, ranging from a feline shape similar to the lamia in the {@book Monster Manual|MM} to a more serpentine form similar to a yuan-ti. In each case, the lamia's body reflects the creature's corrupted instincts and predatory nature."
+								"When rage and despair at the gods' misdeeds consume a mortal mind, lamia comes into being. Most lamias in Theros are Nyxborn (described earlier in this {@area chapter|380|x}), owing their existence to their own twisted imagination, which has changed their physical nature to reflect their internal self. Lamias have wildly varying physical forms, ranging from a feline shape similar to the lamia in the {@book Monster Manual|MM} to a more serpentine form similar to a yuan-ti. In each case, the lamia's body reflects the creature's corrupted instincts and predatory nature."
 							]
 						},
 						{
@@ -11986,7 +11986,7 @@
 							"page": 206,
 							"id": "390",
 							"entries": [
-								"Night hags on Theros appear as leathery-faced crones that hold their single eye within their withered lips as they stare with eyeless sockets. They usually build their huts in the Underworld, particularly around the towering pillars of basalt and granite within the Mire of Punishment (see {@book chapter 3|MOT|3|Tizerus}). There, amid the lamentations of those who have offended the gods, night hags inhale the smoke of toxic balefires. They follow the visions the smoke invokes to the dreams of vulnerable mortals where they sow the seeds of folly.",
+								"Night hags on Theros appear as leathery-faced crones that hold their single eye within their withered lips as they stare with eyeless sockets. They usually build their huts in the Underworld, particularly around the towering pillars of basalt and granite within the Mire of Punishment (see {@area chapter 3|228|x}). There, amid the lamentations of those who have offended the gods, night hags inhale the smoke of toxic balefires. They follow the visions the smoke invokes to the dreams of vulnerable mortals where they sow the seeds of folly.",
 								"A night hag senses the world around her with sensitive fingers, keen hearing, and the single eye she typically holds in her mouth. When a night hag uses her powers to transform, her eye often becomes a bauble or piece of jewelry she keeps close at all times.",
 								{
 									"type": "image",
@@ -12142,7 +12142,8 @@
 									"source": "GoS",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "00e"
 						},
 						{
 							"type": "section",
@@ -12187,7 +12188,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "028"
 						},
 						{
 							"type": "section",
@@ -12232,7 +12234,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "029"
 						},
 						{
 							"type": "section",
@@ -12263,7 +12266,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "02a"
 						},
 						{
 							"type": "section",
@@ -12287,7 +12291,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "02b"
 						},
 						{
 							"type": "section",
@@ -12311,7 +12316,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "02c"
 						},
 						{
 							"type": "section",
@@ -12349,7 +12355,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "02d"
 						},
 						{
 							"type": "section",
@@ -12380,7 +12387,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "02e"
 						},
 						{
 							"type": "section",
@@ -12404,7 +12412,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "02f"
 						},
 						{
 							"type": "section",
@@ -12435,7 +12444,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "030"
 						},
 						{
 							"type": "section",
@@ -12466,7 +12476,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "031"
 						},
 						{
 							"type": "section",
@@ -12490,7 +12501,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "032"
 						},
 						{
 							"type": "section",
@@ -12528,7 +12540,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "033"
 						},
 						{
 							"type": "section",
@@ -12559,7 +12572,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "038"
 						},
 						{
 							"type": "section",
@@ -12583,7 +12597,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "039"
 						},
 						{
 							"type": "section",
@@ -12607,7 +12622,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "03a"
 						},
 						{
 							"type": "section",
@@ -12652,7 +12668,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "03b"
 						},
 						{
 							"type": "section",
@@ -12676,7 +12693,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "03c"
 						},
 						{
 							"type": "section",
@@ -12700,7 +12718,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "03d"
 						},
 						{
 							"type": "section",
@@ -12745,7 +12764,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "03e"
 						},
 						{
 							"type": "section",
@@ -12776,7 +12796,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "03f"
 						},
 						{
 							"type": "section",
@@ -12807,7 +12828,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "040"
 						},
 						{
 							"type": "section",
@@ -12831,7 +12853,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "041"
 						},
 						{
 							"type": "section",
@@ -12855,7 +12878,8 @@
 									"source": "MOT",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "042"
 						}
 					]
 				},

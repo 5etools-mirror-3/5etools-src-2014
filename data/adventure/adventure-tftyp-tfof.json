@@ -718,7 +718,7 @@
 									"entries": [
 										"At the foot of the Stone Tooth, a carefully constructed path winds up the hillside to some unseen height above. Durgeddin's clan concealed its presence as much as possible, but years of wind and rain have eroded away its cover, leaving the path exposed and visible from the valley floor below.",
 										"The path climbs to the Mountain Door, at the location marked A on the map. This is the route used by the orcs in {@creature Great Ulfe|TftYP}'s tribe to come and go from their lair.",
-										"If someone checks the path for tracks, a successful {@dc 10} Wisdom ({@skill Survival}) check reveals that four booted humanoids came down it within the last day and headed into the forest. The trail joins older tracks in the woods and becomes indistinguishable after about half a mile. These tracks belong to orc foraging parties; see \"{@adventure Wait and Watch|TftYP-TFoF|1|Wait and Watch}\" below for more information.",
+										"If someone checks the path for tracks, a successful {@dc 10} Wisdom ({@skill Survival}) check reveals that four booted humanoids came down it within the last day and headed into the forest. The trail joins older tracks in the woods and becomes indistinguishable after about half a mile. These tracks belong to orc foraging parties; see \"{@area Wait and Watch|033|x}\" below for more information.",
 										{
 											"type": "gallery",
 											"images": [
@@ -887,7 +887,7 @@
 											"name": "(A) The Mountain Door",
 											"page": 35,
 											"entries": [
-												"This is the front entrance to the Glitterhame. The old dwarf-path leads up to a bare shoulder of rock and then turns into a deep cleft in the hillside. If the characters enter this way, the expedition begins in {@adventure area 1|TftYP-TFoF|1|1. End of the Trail} of {@adventure map 2.2|TftYP-TFoF|1|Map 2.2: The Mountain Door}, the Mountain Door."
+												"This is the front entrance to the Glitterhame. The old dwarf-path leads up to a bare shoulder of rock and then turns into a deep cleft in the hillside. If the characters enter this way, the expedition begins in {@area area 1|03d|x} of {@area map 2.2|165|x}, the Mountain Door."
 											],
 											"id": "02d"
 										},
@@ -898,7 +898,7 @@
 											"entries": [
 												"When the characters reach the area marked B on the map, they can discover the source of the smoke. A natural rock chimney leads down into the caverns below, and a thin stream of smoke rises through it. The smoke spreads out and isn't easy to pinpoint in the rugged terrain.",
 												"A character who searches for the source of the smoke finds the rock chimney with a successful {@dc 10} Wisdom ({@skill Perception}) check. If the characters pass nearby without searching, anyone who has a passive Perception score of 15 or higher notices the fissure.",
-												"If the characters descend the chimney, the expedition begins in {@adventure area 7|TftYP-TFoF|1|7. Fire in the Hole} of {@adventure map 2.2|TftYP-TFoF|1|Map 2.2: The Mountain Door}, the Mountain Door."
+												"If the characters descend the chimney, the expedition begins in {@area area 7|06b|x} of {@area map 2.2|165|x}, the Mountain Door."
 											],
 											"id": "02e"
 										},
@@ -907,7 +907,7 @@
 											"name": "(C) Orc Tunnel",
 											"page": 35,
 											"entries": [
-												"On the other side of the Stone Tooth, a few hundred yards from the Mountain Door, the orc army burrowed into the hillside to circumvent the dwarven defenses. The tunnel is still passable, but its entrance is choked with brush and debris. If the characters enter this area, someone who has a passive Perception score of 15 or higher discovers the orc tunnel. The characters locate the tunnel automatically if anyone searches the area; it leads to {@adventure area 21|TftYP-TFoF|1|21. Orc Tunnel} of {@adventure map 2.3|TftYP-TFoF|1|Map 2.3: The Glitterhame}, the Glitterhame.",
+												"On the other side of the Stone Tooth, a few hundred yards from the Mountain Door, the orc army burrowed into the hillside to circumvent the dwarven defenses. The tunnel is still passable, but its entrance is choked with brush and debris. If the characters enter this area, someone who has a passive Perception score of 15 or higher discovers the orc tunnel. The characters locate the tunnel automatically if anyone searches the area; it leads to {@area area 21|0bf|x} of {@area map 2.3|166|x}, the Glitterhame.",
 												"The tunnel entrance is about 6 feet high and 4 feet wide. Anyone who succeeds on a {@dc 10} Wisdom ({@skill Survival}) check can spot old tracks passing in and out of the tunnel\u2014reptilian footprints (from the {@creature Troglodyte||troglodytes} inhabiting the Glitterhame) and the paw prints of a very large {@creature Brown Bear||bear}."
 											],
 											"id": "02f"
@@ -927,7 +927,7 @@
 											"page": 36,
 											"entries": [
 												"The eastern slopes of the Stone Tooth descend into a damp valley where water is trapped by the terrain. A dark tarn pools under the hill's slopes, surrounded by numerous smaller lakes. A hidden drainage channel deep underwater connects to the subterranean Black Lake, providing access to Nightscale's underground lair.",
-												"The opening is about 40 feet down, and it lies about 100 feet from the western lakeshore. Player characters exploring around the lake can't find this outlet unless they conduct extensive dives to plumb the mere's depths, requiring {@dc 10} Strength ({@skill Athletics}) checks to swim underwater. If any characters are capable of staying this deep without suffocating and conduct a thorough search of the lake, they discover the passage with a successful {@dc 12} Wisdom ({@skill Perception}) check. If the characters enter through this watery passage, they emerge in {@adventure area 54|TftYP-TFoF|1|54. The Dragon's Passage} of {@adventure map 2.6|TftYP-TFoF|1|Map 2.6: The Black Lake}, the Black Lake.",
+												"The opening is about 40 feet down, and it lies about 100 feet from the western lakeshore. Player characters exploring around the lake can't find this outlet unless they conduct extensive dives to plumb the mere's depths, requiring {@dc 10} Strength ({@skill Athletics}) checks to swim underwater. If any characters are capable of staying this deep without suffocating and conduct a thorough search of the lake, they discover the passage with a successful {@dc 12} Wisdom ({@skill Perception}) check. If the characters enter through this watery passage, they emerge in {@area area 54|15d|x} of {@area map 2.6|169|x}, the Black Lake.",
 												{
 													"type": "inset",
 													"name": "Wilderness Encounters and Camping",
@@ -960,7 +960,7 @@
 											"id": "034"
 										},
 										"If the orcs come across the camp and aren't spotted, they attempt to take out anyone on watch or creep into the camp to attack sleeping characters.",
-										"If an orc party moves past the characters unchallenged or fights its way through, the survivors reinforce the defenses in the complex (see {@adventure area 5|TftYP-TFoF|1|5. Orc Cave} and {@adventure area 14|TftYP-TFoF|1|14. Bunk Room}).",
+										"If an orc party moves past the characters unchallenged or fights its way through, the survivors reinforce the defenses in the complex (see {@area area 5|05f|x} and {@area area 14|092|x}).",
 										"Captured orcs can describe in some detail the general arrangement of the Mountain Door. They don't know anything about the rest of the complex, or that it's possible to enter through the chimney. The orcs defending the Mountain Door refuse to negotiate for their return.",
 										"The characters might disguise themselves as orcs using captured gear. Doing so can let them try to bluff their way past sentries in the dungeon, using Charisma ({@skill Deception}) checks contested by the orcs' Wisdom ({@skill Insight}) checks.",
 										{
@@ -1031,7 +1031,7 @@
 					"name": "The Forge of Fury",
 					"page": 36,
 					"entries": [
-						"Once the party enters Khundrukar, start at the appropriate area on {@adventure map 2.2|TftYP-TFoF|1|Map 2.2: The Mountain Door}, the Mountain Door, or {@adventure map 2.3|TftYP-TFoF|1|Map 2.3: The Glitterhame}, the Glitterhame."
+						"Once the party enters Khundrukar, start at the appropriate area on {@area map 2.2|165|x}, the Mountain Door, or {@area map 2.3|166|x}, the Glitterhame."
 					],
 					"id": "03b"
 				},
@@ -2609,7 +2609,7 @@
 											"name": "Developments",
 											"page": 37,
 											"entries": [
-												"If they are attacked or confronted by more than one character, Wark and Thark call out a warning that's heard by the orc in {@adventure area 4|TftYP-TFoF|1|4 and 4a. Archers' Stations} and then attempt to flee to {@adventure area 3|TftYP-TFoF|1|3. The Rift Hall}. See the \"Mountain Door Defenses\" sidebar.",
+												"If they are attacked or confronted by more than one character, Wark and Thark call out a warning that's heard by the orc in {@area area 4|059|x} and then attempt to flee to {@area area 3|050|x}. See the \"Mountain Door Defenses\" sidebar.",
 												"If the archers are alerted to the party's presence, they open fire on intruders on the ledge and in area 2. See area 4 for more information.",
 												{
 													"type": "inset",
@@ -2649,7 +2649,7 @@
 															"name": "Round 4",
 															"page": 37,
 															"entries": [
-																"Wark and Thark slip through to {@adventure area 5|TftYP-TFoF|1|5. Orc Cave} to spread the alarm, alerting the orcs in {@adventure areas 11|TftYP-TFoF|1|11. Orc Quarters} and {@adventure 14|TftYP-TFoF|1|14. Bunk Room}."
+																"Wark and Thark slip through to {@area area 5|05f|x} to spread the alarm, alerting the orcs in {@area areas 11|080|x} and {@area 14|092|x}."
 															],
 															"id": "047"
 														},
@@ -2714,7 +2714,7 @@
 											"name": "Creatures",
 											"page": 38,
 											"entries": [
-												"If the orcs have been alerted, the orcs in {@adventure areas 4 and 4a|TftYP-TFoF|1|4 and 4a. Archers' Stations} fire arrows until the characters either retreat or succeed in bypassing the door."
+												"If the orcs have been alerted, the orcs in {@area areas 4 and 4a|059|x} fire arrows until the characters either retreat or succeed in bypassing the door."
 											],
 											"id": "04e"
 										},
@@ -2723,7 +2723,7 @@
 											"name": "Development",
 											"page": 38,
 											"entries": [
-												"If the characters are repelled, they must deal with additional reinforcements if they try this approach again. Two orcs from {@adventure area 11|TftYP-TFoF|1|11. Orc Quarters} stand watch at the doors on the west side of area 3, while the {@creature orc Eye of Gruumsh} from {@adventure area 9|TftYP-TFoF|1|9. Shaman's Lair} backs up the orcs in area 4 or 4a.",
+												"If the characters are repelled, they must deal with additional reinforcements if they try this approach again. Two orcs from {@area area 11|080|x} stand watch at the doors on the west side of area 3, while the {@creature orc Eye of Gruumsh} from {@area area 9|073|x} backs up the orcs in area 4 or 4a.",
 												{
 													"type": "image",
 													"href": {
@@ -2798,7 +2798,7 @@
 											"page": 38,
 											"entries": [
 												"The orcs use the rock outcroppings on their side for shelter from attacks, gaining {@quickref Cover||3||half cover}. They throw their javelins at characters trying to cross the bridge, or at those who hang back to cast spells or make ranged attacks. A character on the bridge who is hit by an attack must make a saving throw to avoid a fall, just as if the character's Dexterity ({@skill Acrobatics}) check to move along the bridge had failed by 5 or more.",
-												"If an intruder gets at least two-thirds of the way across the bridge, one orc breaks cover to move through the double doors into {@adventure area 5|TftYP-TFoF|1|5. Orc Cave} and get help. The other tries to hinder the characters by chopping at the bridge's support ropes with its greataxe. Each rope has 8 hit points and AC 11. If one support rope is cut, the DC of the Dexterity ({@skill Acrobatics}) check to cross the bridge increases to 12, and characters on the bridge must immediately make a saving throw to avoid falling as described above. If both ropes are cut, the east end of the bridge drops into the crevasse and slams into the cliff wall on the west side. Any characters on the bridge take 7 ({@dice 2d6}) bludgeoning damage from the impact with the wall and must make successful {@dc 12} Strength or Dexterity saving throws to avoid losing their grip and falling if they aren't otherwise secured."
+												"If an intruder gets at least two-thirds of the way across the bridge, one orc breaks cover to move through the double doors into {@area area 5|05f|x} and get help. The other tries to hinder the characters by chopping at the bridge's support ropes with its greataxe. Each rope has 8 hit points and AC 11. If one support rope is cut, the DC of the Dexterity ({@skill Acrobatics}) check to cross the bridge increases to 12, and characters on the bridge must immediately make a saving throw to avoid falling as described above. If both ropes are cut, the east end of the bridge drops into the crevasse and slams into the cliff wall on the west side. Any characters on the bridge take 7 ({@dice 2d6}) bludgeoning damage from the impact with the wall and must make successful {@dc 12} Strength or Dexterity saving throws to avoid losing their grip and falling if they aren't otherwise secured."
 											],
 											"id": "057"
 										},
@@ -2807,7 +2807,7 @@
 											"name": "Development",
 											"page": 39,
 											"entries": [
-												"If the orcs destroy the bridge but repel the invaders in doing so, {@creature Great Ulfe|TftYP}'s followers rebuild it within three days. Any orcs killed here are replaced by orcs from {@adventure area 11|TftYP-TFoF|1|11. Orc Quarters}."
+												"If the orcs destroy the bridge but repel the invaders in doing so, {@creature Great Ulfe|TftYP}'s followers rebuild it within three days. Any orcs killed here are replaced by orcs from {@area area 11|080|x}."
 											],
 											"id": "058"
 										}
@@ -2822,7 +2822,7 @@
 							"name": "4 and 4a. Archers' Stations",
 							"page": 39,
 							"entries": [
-								"The dwarves carved out chambers on either side of the entryway so they could rain arrows down on attackers that approached the front door of their stronghold. The arrow slits are 15 feet or more above the floor of {@adventure areas 1|TftYP-TFoF|1|1. End of the Trail} and {@adventure 2|TftYP-TFoF|1|2. The Dwarf-Door} and are impassible for creatures larger than Tiny. They grant {@quickref Cover||3||three-quarters cover} to the orcs stationed behind them.",
+								"The dwarves carved out chambers on either side of the entryway so they could rain arrows down on attackers that approached the front door of their stronghold. The arrow slits are 15 feet or more above the floor of {@area areas 1|03d|x} and {@area 2|04b|x} and are impassible for creatures larger than Tiny. They grant {@quickref Cover||3||three-quarters cover} to the orcs stationed behind them.",
 								"The secret doors in area 3 provide access to these locations.",
 								{
 									"type": "insetReadaloud",
@@ -2840,7 +2840,7 @@
 											"name": "Secret Door",
 											"page": 39,
 											"entries": [
-												"In the north end of area 4, a secret door connects to {@adventure area 14|TftYP-TFoF|1|14. Bunk Room}. A character can find the door by succeeding on a {@dc 18} Wisdom ({@skill Perception}) check. The orcs are unaware of this passage and don't use it."
+												"In the north end of area 4, a secret door connects to {@area area 14|092|x}. A character can find the door by succeeding on a {@dc 18} Wisdom ({@skill Perception}) check. The orcs are unaware of this passage and don't use it."
 											],
 											"id": "05c"
 										},
@@ -2850,7 +2850,7 @@
 											"page": 39,
 											"entries": [
 												"Four {@creature Orc||orcs}, three in area 4 and one in area 4a, overlook the stairs leading up to area 2. These orcs aren't particularly vigilant, but they do start shooting if the sentries in area 1 call for help. The orcs are armed with longbows instead of javelins: {@hit 3} to hit (range 150/600 ft.); 5 ({@dice 1d8 + 1}) piercing damage on a hit.",
-												"When the characters turn the corner into area 2, the archer in area 4a joins the attack while one of the archers from area 4 circles around through the secret door in an attempt to shut the double doors to {@adventure area 3|TftYP-TFoF|1|3. The Rift Hall} (see \"{@adventure Mountain Door Defenses|TftYP-TFoF|1|Mountain Door Defenses}\" above).",
+												"When the characters turn the corner into area 2, the archer in area 4a joins the attack while one of the archers from area 4 circles around through the secret door in an attempt to shut the double doors to {@area area 3|050|x} (see \"{@area Mountain Door Defenses|043|x}\" above).",
 												"If the heroes attack by coming through the secret doors that lead to these areas, the archers fire at characters descending the stairs, then switch to greataxes and move up to block the stairways."
 											],
 											"id": "05d"
@@ -2861,7 +2861,7 @@
 											"page": 39,
 											"entries": [
 												"If the characters dispose of the sentries in area 1 quietly, the orcs in area 4 might not notice them. Characters can attempt to sneak past the row of arrow slits by comparing their Dexterity ({@skill Stealth}) checks to the orcs' passive Perception scores. If the characters successfully sneak past the sentries, they reach area 2 without alerting the archers.",
-												"If the characters defeat these orcs but withdraw from the dungeon before overcoming the rest of them, the archers are replaced by orcs from {@adventure area 14|TftYP-TFoF|1|14. Bunk Room} and reinforced by the {@creature orc eye of Gruumsh} from {@adventure area 9|TftYP-TFoF|1|9. Shaman's Lair}."
+												"If the characters defeat these orcs but withdraw from the dungeon before overcoming the rest of them, the archers are replaced by orcs from {@area area 14|092|x} and reinforced by the {@creature orc eye of Gruumsh} from {@area area 9|073|x}."
 											],
 											"id": "05e"
 										}
@@ -2883,7 +2883,7 @@
 									],
 									"id": "060"
 								},
-								"The second orc raiding party normally lairs in the open area east of the doors. These orcs are currently out of the dungeon unless the party spent several days observing the hillside (see \"{@adventure Wait and Watch|TftYP-TFoF|1|Wait and Watch}\" above) before entering.",
+								"The second orc raiding party normally lairs in the open area east of the doors. These orcs are currently out of the dungeon unless the party spent several days observing the hillside (see \"{@area Wait and Watch|033|x}\" above) before entering.",
 								{
 									"type": "entries",
 									"entries": [
@@ -2942,7 +2942,7 @@
 											"page": 39,
 											"entries": [
 												"The prisoners are a pair of human {@creature Commoner||commoners} named Geradil and Courana. They hail from a small settlement a few miles from Blasingdell, and the orcs have held them captive for almost a month now. Neither one's family could raise the ransom demanded by their captors, so both await a terrible death at the orcs' hands.",
-												"Opening the cage door requires a successful {@dc 12} Dexterity check using thieves' tools, the key from Old Yarrack's pocket (see {@adventure area 14|TftYP-TFoF|1|14. Bunk Room}), or a sharp axe and a little time. (The padlock has AC 19 and 5 hit points.) Geradil and Courana are extremely grateful for their rescue, but they will not join the characters in their quest\u2014neither is skilled at fighting, and they just want to go home."
+												"Opening the cage door requires a successful {@dc 12} Dexterity check using thieves' tools, the key from Old Yarrack's pocket (see {@area area 14|092|x}), or a sharp axe and a little time. (The padlock has AC 19 and 5 hit points.) Geradil and Courana are extremely grateful for their rescue, but they will not join the characters in their quest\u2014neither is skilled at fighting, and they just want to go home."
 											],
 											"id": "068"
 										},
@@ -2960,7 +2960,7 @@
 											"name": "Development",
 											"page": 40,
 											"entries": [
-												"Any characters captured by the orcs eventually wind up in the cage, unless they demonstrate that they're too much trouble to be left alive. Their gear is stored among the other supplies in {@adventure area 5|TftYP-TFoF|1|5. Orc Cave}. New characters joining the party might also be introduced as prisoners here."
+												"Any characters captured by the orcs eventually wind up in the cage, unless they demonstrate that they're too much trouble to be left alive. Their gear is stored among the other supplies in {@area area 5|05f|x}. New characters joining the party might also be introduced as prisoners here."
 											],
 											"id": "06a"
 										}
@@ -2975,7 +2975,7 @@
 							"name": "7. Fire in the Hole",
 							"page": 40,
 							"entries": [
-								"The irregular chamber southeast of the main cave holds the main cooking fire of the tribe. A crevice in its ceiling winds up through the rock to the natural chimney on the hilltop above (see \"{@adventure The Stone Tooth|TftYP-TFoF|1|The Stone Tooth}\" above).",
+								"The irregular chamber southeast of the main cave holds the main cooking fire of the tribe. A crevice in its ceiling winds up through the rock to the natural chimney on the hilltop above (see \"{@area The Stone Tooth|029|x}\" above).",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -3009,7 +3009,7 @@
 											"name": "Iron Gate",
 											"page": 40,
 											"entries": [
-												"The passage leading east is blocked about 10 feet in by tightly packed crates and sacks of flour. Removing this material allows travel for another 20 feet to the east, where the tunnel ends at an iron gate stuffed with blankets and straw pallets. The orcs created these barricades to prevent the stirges in {@adventure area 10|TftYP-TFoF|1|10. The Grand Stair} from getting out.",
+												"The passage leading east is blocked about 10 feet in by tightly packed crates and sacks of flour. Removing this material allows travel for another 20 feet to the east, where the tunnel ends at an iron gate stuffed with blankets and straw pallets. The orcs created these barricades to prevent the stirges in {@area area 10|079|x} from getting out.",
 												"The iron gate's lock is rusted shut; it can be picked with a successful {@dc 12} Dexterity check by a character using thieves' tools or forced open with a successful {@dc 15} Strength check."
 											],
 											"id": "070"
@@ -3019,7 +3019,7 @@
 											"name": "Secret Doors",
 											"page": 40,
 											"entries": [
-												"The passage to the south branches in a Y shape. The southwest branch connects to {@adventure area 5|TftYP-TFoF|1|5. Orc Cave}, and the southeast one leads to a secret door cleverly constructed to blend into the natural rock of the cave. A character who makes a successful {@dc 15} Wisdom ({@skill Perception}) check discovers the door.",
+												"The passage to the south branches in a Y shape. The southwest branch connects to {@area area 5|05f|x}, and the southeast one leads to a secret door cleverly constructed to blend into the natural rock of the cave. A character who makes a successful {@dc 15} Wisdom ({@skill Perception}) check discovers the door.",
 												"On the other side, a worked passage continues up to what appears to be a blank wall, marked with hexes and curses in Orc. The markings conceal another secret door, which requires a successful {@dc 12} Wisdom ({@skill Perception}) check to find."
 											],
 											"id": "071"
@@ -3030,7 +3030,7 @@
 											"page": 40,
 											"entries": [
 												"The mundane supplies have a total value of about 20 gp for about 500 pounds of material.",
-												"With a successful {@dc 10} Wisdom ({@skill Perception}) check, a character finds a loose stone. Behind it is hidden a small locked strongbox containing 180 gp and a {@item Holy Water (flask)|PHB|flask of holy water}. This is the personal treasure of Old Yarrack (see {@adventure area 11|TftYP-TFoF|1|11. Orc Quarters})."
+												"With a successful {@dc 10} Wisdom ({@skill Perception}) check, a character finds a loose stone. Behind it is hidden a small locked strongbox containing 180 gp and a {@item Holy Water (flask)|PHB|flask of holy water}. This is the personal treasure of Old Yarrack (see {@area area 11|080|x})."
 											],
 											"id": "072"
 										}
@@ -3121,8 +3121,8 @@
 													],
 													"id": "07d"
 												},
-												"Large quantities of smoke discourage the stirges, and they don't move closer than 5 feet from a source of fire (including characters set alight by the trap described below). Sated stirges flap off to digest their meal down in {@adventure area 15a|TftYP-TFoF|1|15a. Stirge Colony} of the Glitterhame.",
-												"The iron gate blocks entry from {@adventure area 8|TftYP-TFoF|1|8. Orc Commons} (see it for more information). The stairs in the rift lead down to the northwest end of {@adventure area 15|TftYP-TFoF|1|15. The Cold Stream} in the Glitterhame.",
+												"Large quantities of smoke discourage the stirges, and they don't move closer than 5 feet from a source of fire (including characters set alight by the trap described below). Sated stirges flap off to digest their meal down in {@area area 15a|09d|x} of the Glitterhame.",
+												"The iron gate blocks entry from {@area area 8|06d|x} (see it for more information). The stairs in the rift lead down to the northwest end of {@area area 15|09b|x} in the Glitterhame.",
 												"The door to the south connects to area 9 and is locked from the other side. The lock can be picked from this side by someone who makes a successful {@dc 10} Dexterity check using thieves' tools, but doing so pushes the key out on the other side and warns Burdug the shaman that someone's coming."
 											],
 											"id": "07c"
@@ -3185,7 +3185,7 @@
 											"name": "Treasure",
 											"page": 42,
 											"entries": [
-												"The supplies stockpiled here are the same as those in {@adventure areas 5|TftYP-TFoF|1|5. Orc Cave} and {@adventure 8|TftYP-TFoF|1|8. Orc Commons}: trade goods and staples raided from travelers and nearby settlements.",
+												"The supplies stockpiled here are the same as those in {@area areas 5|05f|x} and {@area 8|06d|x}: trade goods and staples raided from travelers and nearby settlements.",
 												"The orcs have 210 gp stashed in an old iron cauldron under vermin-infested bedding. A small pouch in another orc's bedding contains a topaz worth 200 gp and two {@item Onyx||onyx stones} worth 50 gp each. This loot isn't well hidden; anyone searching the room can uncover it."
 											],
 											"id": "084"
@@ -3195,7 +3195,7 @@
 											"name": "Development",
 											"page": 42,
 											"entries": [
-												"If the characters leave the complex before they have defeated {@creature Great Ulfe|TftYP}, two of these orcs move to reinforce {@adventure area 2|TftYP-TFoF|1|2. The Dwarf-Door} (reducing the number in this room to two) before the characters return.",
+												"If the characters leave the complex before they have defeated {@creature Great Ulfe|TftYP}, two of these orcs move to reinforce {@area area 2|04b|x} (reducing the number in this room to two) before the characters return.",
 												{
 													"type": "image",
 													"href": {
@@ -3319,7 +3319,7 @@
 							"name": "14. Bunk Room",
 							"page": 43,
 							"entries": [
-								"A large chamber, once the principal bunk room for dwarf guards posted in this part of the dungeon, has been appropriated by {@creature Great Ulfe|TftYP}'s orcs. Up to eleven of the creatures live here, but at the moment a group of them are out raiding the countryside nearby, and three others are on duty in {@adventure area 4|TftYP-TFoF|1|4 and 4a. Archers' Stations}.",
+								"A large chamber, once the principal bunk room for dwarf guards posted in this part of the dungeon, has been appropriated by {@creature Great Ulfe|TftYP}'s orcs. Up to eleven of the creatures live here, but at the moment a group of them are out raiding the countryside nearby, and three others are on duty in {@area area 4|059|x}.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -3336,7 +3336,7 @@
 											"page": 43,
 											"entries": [
 												"Only Old Yarrack the {@creature orog} and four {@creature Orc||orcs} are at home when the characters enter the chamber. They enter combat as soon as they're aware of intruders.",
-												"If the battle goes poorly for the orcs, Old Yarrack orders an orc to break off and summon help from {@adventure area 9|TftYP-TFoF|1|9. Shaman's Lair}. If things get desperate, he sends for help from the orcs in {@adventure area 11|TftYP-TFoF|1|11. Orc Quarters}. If the orcs here fall, Yarrack attempts to join {@creature Great Ulfe|TftYP}'s forces in {@adventure area 12|TftYP-TFoF|1|12. Great Ulfe}. The orog carries a {@item potion of healing} and drinks it if his current hit points drop to one-fourth his hit point maximum or lower."
+												"If the battle goes poorly for the orcs, Old Yarrack orders an orc to break off and summon help from {@area area 9|073|x}. If things get desperate, he sends for help from the orcs in {@area area 11|080|x}. If the orcs here fall, Yarrack attempts to join {@creature Great Ulfe|TftYP}'s forces in {@area area 12|086|x}. The orog carries a {@item potion of healing} and drinks it if his current hit points drop to one-fourth his hit point maximum or lower."
 											],
 											"id": "095"
 										},
@@ -3355,7 +3355,7 @@
 											"page": 43,
 											"entries": [
 												"Two days after the characters arrive, the first raiding party returns and reinforces this room with four more orcs. Thus, the party might encounter as many as nine creatures in this room.",
-												"Any orcs slain in {@adventure area 4|TftYP-TFoF|1|4 and 4a. Archers' Stations} are replaced by orcs from this room, if any survive."
+												"Any orcs slain in {@area area 4|059|x} are replaced by orcs from this room, if any survive."
 											],
 											"id": "097"
 										},
@@ -3364,8 +3364,8 @@
 											"name": "Treasure",
 											"page": 43,
 											"entries": [
-												"A successful {@dc 10} Wisdom check reveals a loose stone on the south wall, concealing a sack that holds 250 sp and 40 gp. Aside from his {@item potion of healing}, Old Yarrack keeps his personal treasure in {@adventure area 8|TftYP-TFoF|1|8. Orc Commons}.",
-												"Old Yarrack carries the key to the cage door in {@adventure area 6|TftYP-TFoF|1|6. Prisoner Cave}."
+												"A successful {@dc 10} Wisdom check reveals a loose stone on the south wall, concealing a sack that holds 250 sp and 40 gp. Aside from his {@item potion of healing}, Old Yarrack keeps his personal treasure in {@area area 8|06d|x}.",
+												"Old Yarrack carries the key to the cage door in {@area area 6|065|x}."
 											],
 											"id": "098"
 										}
@@ -3393,7 +3393,7 @@
 							"width": 761,
 							"height": 1000
 						},
-						"The Glitterhame is now home to a band of {@creature Troglodyte||troglodytes}, dangerous reptilian savages that haunt underground places. The troglodytes and {@creature Great Ulfe|TftYP}'s tribe maintain an uneasy peace, although skirmishes occur. The troglodytes usually use the old orc tunnel (see {@adventure area 21|TftYP-TFoF|1|21. Orc Tunnel}) to hunt on the surface and leave the orcs alone. In return, {@creature Great Ulfe|TftYP}'s followers rarely invade the troglodytes' domain.",
+						"The Glitterhame is now home to a band of {@creature Troglodyte||troglodytes}, dangerous reptilian savages that haunt underground places. The troglodytes and {@creature Great Ulfe|TftYP}'s tribe maintain an uneasy peace, although skirmishes occur. The troglodytes usually use the old orc tunnel (see {@area area 21|0bf|x}) to hunt on the surface and leave the orcs alone. In return, {@creature Great Ulfe|TftYP}'s followers rarely invade the troglodytes' domain.",
 						{
 							"type": "gallery",
 							"images": [
@@ -7899,7 +7899,7 @@
 							"name": "15. The Cold Stream",
 							"page": 43,
 							"entries": [
-								"If the characters take the steps down from {@adventure area 10|TftYP-TFoF|1|10. The Grand Stair}, they emerge into a narrow tunnel with a subterranean stream flowing across it.",
+								"If the characters take the steps down from {@area area 10|079|x}, they emerge into a narrow tunnel with a subterranean stream flowing across it.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -8017,7 +8017,7 @@
 											"page": 45,
 											"entries": [
 												"The stream flows through the center of the cavern, growing somewhat wider and deeper until it reaches the southeast corner. The pool in that location is about 20 feet across and about 10 feet deep in the middle.",
-												"Along the eastern edge of the pool, a short passage leading to {@adventure area 23|TftYP-TFoF|1|23. Dwarven Sepulchers} has been blocked up with loose rubble and mud, creating a rough stone wall 10 feet across. Characters can break through this barrier with some effort; it has AC 16 and 50 hit points per 5-foot segment."
+												"Along the eastern edge of the pool, a short passage leading to {@area area 23|0c9|x} has been blocked up with loose rubble and mud, creating a rough stone wall 10 feet across. Characters can break through this barrier with some effort; it has AC 16 and 50 hit points per 5-foot segment."
 											],
 											"id": "0aa"
 										}
@@ -8221,7 +8221,7 @@
 									"id": "0c0"
 								},
 								"A hundred years ago, the orcs besieging Khundrukar tunneled into the dwarven stronghold. The cavern they emerged in now serves as a guard post and a mustering point for troglodyte raiders.",
-								"The tunnel in the northern end of the area runs about 500 feet and opens on the hillside (see the \"Orc Tunnel\" subsection of \"{@adventure Scout the Area|TftYP-TFoF|1|Scout the Area}\"). The troglodytes use the opening to raid and hunt on the surface.",
+								"The tunnel in the northern end of the area runs about 500 feet and opens on the hillside (see the \"Orc Tunnel\" subsection of \"{@area Scout the Area|02c|x}\"). The troglodytes use the opening to raid and hunt on the surface.",
 								{
 									"type": "entries",
 									"entries": [
@@ -8373,7 +8373,7 @@
 											"name": "Creatures",
 											"page": 47,
 											"entries": [
-												"Two {@creature Grick||gricks} lurk in the 20-foot-high rockfall that spills down from {@adventure area 26|TftYP-TFoF|1|26. Grick Lair}, at the place where the path leading east comes closest to the slope. They are wedged into spaces between boulders, 6 to 8 feet above the cavern floor. Their Stone Camouflage trait gives them advantage on Dexterity ({@skill Stealth}) checks made to hide, so they might surprise the party.",
+												"Two {@creature Grick||gricks} lurk in the 20-foot-high rockfall that spills down from {@area area 26|0d7|x}, at the place where the path leading east comes closest to the slope. They are wedged into spaces between boulders, 6 to 8 feet above the cavern floor. Their Stone Camouflage trait gives them advantage on Dexterity ({@skill Stealth}) checks made to hide, so they might surprise the party.",
 												"The gricks attack anyone who travels on the path next to the rockfall or climbs anywhere along the slope that leads to area 26. Any character trying to scale the rockfall while under attack must succeed on a {@dc 8} Strength ({@skill Athletics}) check to make progress. If the characters reach area 26 by some other means, the gricks move to attack them there."
 											],
 											"id": "0d2"
@@ -8396,7 +8396,7 @@
 									],
 									"id": "0d4"
 								},
-								"The chamber runs from the troglodyte warrens to a natural shaft on the east end that leads down into the Sinkhole (see {@adventure area 28|TftYP-TFoF|1|28. Waterfall Cavern}). The stream spills over the edge of the shaft in a subterranean waterfall, and near the waterfall a narrow, winding stairwell leads down.",
+								"The chamber runs from the troglodyte warrens to a natural shaft on the east end that leads down into the Sinkhole (see {@area area 28|0df|x}). The stream spills over the edge of the shaft in a subterranean waterfall, and near the waterfall a narrow, winding stairwell leads down.",
 								{
 									"type": "entries",
 									"entries": [
@@ -8437,7 +8437,7 @@
 											"name": "Creatures",
 											"page": 48,
 											"entries": [
-												"The two {@creature Grick||gricks} hidden in the rockfall (see {@adventure area 24|TftYP-TFoF|1|24. The Glitterhame}) make their lair at the end of a passage that winds north from the ledge. They are encountered here if they retreated to attack characters who got past them."
+												"The two {@creature Grick||gricks} hidden in the rockfall (see {@area area 24|0cf|x}) make their lair at the end of a passage that winds north from the ledge. They are encountered here if they retreated to attack characters who got past them."
 											],
 											"id": "0da"
 										},
@@ -8469,8 +8469,8 @@
 									],
 									"id": "0dd"
 								},
-								"The door consists of two pieces of sheet iron bolted to a strong frame. A pintle is fitted through the door's middle, so it has no hinges. It can be opened with the key on the dwarf skeleton in the prison (see {@adventure area 34|TftYP-TFoF|1|34. Prison}). A character can pick the lock with thieves' tools and a successful {@dc 18} Dexterity check. Breaking the door down is very difficult, requiring a successful {@dc 25} Strength check.",
-								"On the other side of the door is a steep staircase that leads up to {@adventure area 35|TftYP-TFoF|1|35. Chamber of Statues} in the Foundry."
+								"The door consists of two pieces of sheet iron bolted to a strong frame. A pintle is fitted through the door's middle, so it has no hinges. It can be opened with the key on the dwarf skeleton in the prison (see {@area area 34|0f7|x}). A character can pick the lock with thieves' tools and a successful {@dc 18} Dexterity check. Breaking the door down is very difficult, requiring a successful {@dc 25} Strength check.",
+								"On the other side of the door is a steep staircase that leads up to {@area area 35|0fd|x} in the Foundry."
 							],
 							"id": "0dc"
 						}
@@ -8482,7 +8482,7 @@
 					"name": "The Sinkhole",
 					"page": 48,
 					"entries": [
-						"The stream that flows through the Glitterhame descends through the chasm in {@adventure area 25|TftYP-TFoF|1|25. Long Cavern} to an even lower level of caverns\u2014the Sinkhole. Here it joins a subterranean river that traverses dark caverns and forgotten storerooms before connecting with the Black Lake.",
+						"The stream that flows through the Glitterhame descends through the chasm in {@area area 25|0d3|x} to an even lower level of caverns\u2014the Sinkhole. Here it joins a subterranean river that traverses dark caverns and forgotten storerooms before connecting with the Black Lake.",
 						"None of the monsters that inhabit the complex regularly visit this place. The black dragon Nightscale sometimes swims through its submerged areas, using the river as a back door to its lair.",
 						"A narrow staircase winds down along the chasm walls until reaching bottom, where it offers access to area 28.",
 						{
@@ -9916,8 +9916,8 @@
 									],
 									"id": "0e0"
 								},
-								"The stream flowing from {@adventure area 25|TftYP-TFoF|1|25. Long Cavern} in the Glitterhame pours down into the chamber.",
-								"The pool is populated by harmless blind fish and white crustaceans but contains nothing dangerous. The outflowing stream drains into the river in area 29. Any characters who fell into the pool are carried by the current toward the outflow at about 20 feet per round. A character who ends up in the river might be swept away; see \"{@adventure Fast-Flowing Water|TftYP-TFoF|1|Fast-Flowing Water}\" below."
+								"The stream flowing from {@area area 25|0d3|x} in the Glitterhame pours down into the chamber.",
+								"The pool is populated by harmless blind fish and white crustaceans but contains nothing dangerous. The outflowing stream drains into the river in area 29. Any characters who fell into the pool are carried by the current toward the outflow at about 20 feet per round. A character who ends up in the river might be swept away; see \"{@area Fast-Flowing Water|0fc|x}\" below."
 							],
 							"id": "0df"
 						},
@@ -9958,7 +9958,7 @@
 							"name": "30. Old Storeroom",
 							"page": 49,
 							"entries": [
-								"The northern door in {@adventure area 28|TftYP-TFoF|1|28. Waterfall Cavern} has swollen shut from dampness. A successful {@dc 10} Strength check is required to force it open. Durgeddin's folk formerly used the large chamber beyond as a storeroom.",
+								"The northern door in {@area area 28|0df|x} has swollen shut from dampness. A successful {@dc 10} Strength check is required to force it open. Durgeddin's folk formerly used the large chamber beyond as a storeroom.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -9998,7 +9998,7 @@
 							"name": "31. Empty Storeroom",
 							"page": 49,
 							"entries": [
-								"The southern door in {@adventure area 28|TftYP-TFoF|1|28. Waterfall Cavern} is swollen shut and requires a successful {@dc 10} Strength check to open. The chamber on the other side of the door resembles area 30, but it is empty. The orcs broke in and carried off most of its contents during the fall of Khundrukar."
+								"The southern door in {@area area 28|0df|x} is swollen shut and requires a successful {@dc 10} Strength check to open. The chamber on the other side of the door resembles area 30, but it is empty. The orcs broke in and carried off most of its contents during the fall of Khundrukar."
 							],
 							"id": "0ea"
 						},
@@ -10082,7 +10082,7 @@
 													],
 													"id": "0f4"
 												},
-												"The roper attacks when any character gets at least 20 feet into the cave, gaining surprise if its presence hasn't been revealed. It can target up to four characters with its tendrils, possibly pulling those it has {@condition grappled} into the rushing river. Characters in the water have advantage on checks to escape the grapple due to the force of the current. The river poses a severe hazard in itself, though; see \"{@adventure Fast-Flowing Water|TftYP-TFoF|1|Fast-Flowing Water}\" below."
+												"The roper attacks when any character gets at least 20 feet into the cave, gaining surprise if its presence hasn't been revealed. It can target up to four characters with its tendrils, possibly pulling those it has {@condition grappled} into the rushing river. Characters in the water have advantage on checks to escape the grapple due to the force of the current. The river poses a severe hazard in itself, though; see \"{@area Fast-Flowing Water|0fc|x}\" below."
 											],
 											"id": "0f3"
 										},
@@ -10133,7 +10133,7 @@
 											"name": "Treasure",
 											"page": 51,
 											"entries": [
-												"The suit of plate is too corroded to be of any use, but a search of the corpse produces a small silk purse containing 8 pp and a key that opens the iron door in {@adventure area 27|TftYP-TFoF|1|27. Iron Door}."
+												"The suit of plate is too corroded to be of any use, but a search of the corpse produces a small silk purse containing 8 pp and a key that opens the iron door in {@area area 27|0dc|x}."
 											],
 											"id": "0fa"
 										}
@@ -10153,7 +10153,7 @@
 					"entries": [
 						"Durgeddin's followers lived and worked in a series of carved halls and chambers beyond the Glitterhame. Most of this part of the complex was thoroughly ransacked when the dwarven citadel fell.",
 						"Unlike the Mountain Door or the Glitterhame, which offer exits to the surface world, the Foundry isn't readily accessible. The area isn't abandoned, though. Undead horrors wait in its darkest recesses, and dwarf-crafted traps still work perfectly well despite their age. In addition, a small number of duergar have come here to breathe life into Durgeddin's old forges and decipher the secrets of the master smith's work.",
-						"If the characters come to this part of the complex from the Black Lake (see the \"Dark Mere\" subsection of \"{@adventure Scout the Area|TftYP-TFoF|1|Scout the Area}\"), they begin in {@adventure area 38|TftYP-TFoF|1|38. The Chasm}.",
+						"If the characters come to this part of the complex from the Black Lake (see the \"Dark Mere\" subsection of \"{@area Scout the Area|02c|x}\"), they begin in {@area area 38|10f|x}.",
 						{
 							"type": "gallery",
 							"images": [
@@ -11288,7 +11288,7 @@
 							"name": "35. Chamber of Statues",
 							"page": 51,
 							"entries": [
-								"In the corridor behind the iron door in {@adventure area 27|TftYP-TFoF|1|27. Iron Door}, a flight of steep stone stairs climbs 30 feet northward.",
+								"In the corridor behind the iron door in {@area area 27|0dc|x}, a flight of steep stone stairs climbs 30 feet northward.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -11382,7 +11382,7 @@
 														"The subterranean river flows from the lake through other parts of the complex below the Glitterhame. It's fed from a lake on the surface."
 													]
 												},
-												"If negotiations are successful, the duergar are willing to let the party enter the rooms to the north. With a sufficiently high Charisma ({@skill Persuasion}) check and an indifferent attitude from Ghared, the characters can get the duergar to escort them to the entrance to the dragon's territory (the chasm in {@adventure area 38|TftYP-TFoF|1|38. The Chasm}). The duergar will not allow the party into the bladeworks (area 37) without an escort, and they prohibit entry into {@adventure area 39|TftYP-TFoF|1|39. Council Chamber}.",
+												"If negotiations are successful, the duergar are willing to let the party enter the rooms to the north. With a sufficiently high Charisma ({@skill Persuasion}) check and an indifferent attitude from Ghared, the characters can get the duergar to escort them to the entrance to the dragon's territory (the chasm in {@area area 38|10f|x}). The duergar will not allow the party into the bladeworks (area 37) without an escort, and they prohibit entry into {@area area 39|112|x}.",
 												"If the characters don't negotiate, or if talks go badly, combat ensues."
 											],
 											"id": "106"
@@ -11453,7 +11453,7 @@
 													"id": "10c"
 												},
 												"{@creature Snurrevin|TftYP} has a familiar, a {@creature rat} named Browngnaw, that hides in the shadows near the unlit forge to the east. The duergar are preoccupied with their task and don't notice the party's entrance unless the characters make themselves known. They object violently to intruders who aren't escorted by duergar.",
-												"If a threat becomes apparent, the two smiths grab their weapons, use Enlarge, and move to guard the two bridges. If the fight goes against them, they turn {@condition invisible} and try to slip out to area 36, then join the other duergar in {@adventure area 39|TftYP-TFoF|1|39. Council Chamber}.",
+												"If a threat becomes apparent, the two smiths grab their weapons, use Enlarge, and move to guard the two bridges. If the fight goes against them, they turn {@condition invisible} and try to slip out to area 36, then join the other duergar in {@area area 39|112|x}.",
 												"In combat, {@creature Snurrevin|TftYP} might cast {@spell shocking grasp} through his hidden familiar, and he might use {@spell silent image} to confound enemies with realistic-seeming threats."
 											],
 											"id": "10b"
@@ -11486,7 +11486,7 @@
 									],
 									"id": "110"
 								},
-								"The chasm is 120 feet deep. Anyone who falls in takes 42 ({@dice 12d6}) bludgeoning damage and ends up in {@adventure area 50|TftYP-TFoF|1|50. The Cascade} of the Black Lake level. Climbing down the slippery stone next to the waterfall requires several successful {@dc 15} Strength ({@skill Athletics}) checks, or {@dc 5} checks for a character who uses a rope."
+								"The chasm is 120 feet deep. Anyone who falls in takes 42 ({@dice 12d6}) bludgeoning damage and ends up in {@area area 50|14d|x} of the Black Lake level. Climbing down the slippery stone next to the waterfall requires several successful {@dc 15} Strength ({@skill Athletics}) checks, or {@dc 5} checks for a character who uses a rope."
 							],
 							"id": "10f"
 						},
@@ -11495,7 +11495,7 @@
 							"name": "38a. Chain Ladder",
 							"page": 53,
 							"entries": [
-								"The rock spur on the northern ledge partially conceals an old chain ladder that leads down to {@adventure area 51|TftYP-TFoF|1|51. Dwarven Bridges} of the Black Lake. The ladder isn't immediately obvious from the southern ledge, but a character who makes a successful {@dc 10} Wisdom ({@skill Perception}) check can spot it."
+								"The rock spur on the northern ledge partially conceals an old chain ladder that leads down to {@area area 51|14f|x} of the Black Lake. The ladder isn't immediately obvious from the southern ledge, but a character who makes a successful {@dc 10} Wisdom ({@skill Perception}) check can spot it."
 							],
 							"id": "111"
 						},
@@ -11521,7 +11521,7 @@
 											"name": "Creatures",
 											"page": 53,
 											"entries": [
-												"Unless the party is under Ghared's protection (see {@adventure area 36|TftYP-TFoF|1|36. The Great Hall}), the lone {@creature duergar} on duty fights to the death to protect his leader, who is in area 40.",
+												"Unless the party is under Ghared's protection (see {@area area 36|102|x}), the lone {@creature duergar} on duty fights to the death to protect his leader, who is in area 40.",
 												"If the characters engage the duergar guard, the sounds of battle alert the leader, {@creature Nimira|TftYP}. She is a {@creature duergar} with the following changes, which increase her challenge rating to 3 (700 XP):",
 												{
 													"type": "list",
@@ -11564,13 +11564,13 @@
 											"name": "Negotiation",
 											"page": 54,
 											"entries": [
-												"{@creature Nimira|TftYP} is an excellent fighter, but she is pragmatic and willing to negotiate in the right circumstances. She knows the same information as the duergar in area 36 and might be convinced to guide the party to the chasm that leads to the dragon's lair ({@adventure area 38|TftYP-TFoF|1|38. The Chasm}).",
+												"{@creature Nimira|TftYP} is an excellent fighter, but she is pragmatic and willing to negotiate in the right circumstances. She knows the same information as the duergar in area 36 and might be convinced to guide the party to the chasm that leads to the dragon's lair ({@area area 38|10f|x}).",
 												{
 													"type": "inset",
 													"name": "Arundil's Animated Objects",
 													"page": 54,
 													"entries": [
-														"A century ago, the dwarf mage Arundil animated a number of objects to defend the Foundry against intruders other than dwarves. Many of these creations remain in place today (in areas 41, {@adventure 47|TftYP-TFoF|1|47. Arundil's Chambers}, and {@adventure 48|TftYP-TFoF|1|48. Looted Armory}).",
+														"A century ago, the dwarf mage Arundil animated a number of objects to defend the Foundry against intruders other than dwarves. Many of these creations remain in place today (in areas 41, {@area 47|13a|x}, and {@area 48|141|x}).",
 														"These animated objects never attack dwarves or duergar. In addition, a dwarf (including a duergar) can order an object to cease its attack. If so commanded, the object becomes immobile for 10 minutes, or until the one commanding it leaves the area."
 													],
 													"id": "11a"
@@ -11637,7 +11637,7 @@
 											"name": "Creature",
 											"page": 54,
 											"entries": [
-												"An {@creature animated table|TftYP} (see {@adventure appendix B|TftYP-THSoT|3}) activates when someone enters the main part of the room. It fights until destroyed but won't attack a dwarf. See the \"{@adventure Arundil's Animated Objects|TftYP-TFoF|1|Arundil's Animated Objects}\" sidebar.",
+												"An {@creature animated table|TftYP} (see {@adventure appendix B|TftYP-THSoT|3}) activates when someone enters the main part of the room. It fights until destroyed but won't attack a dwarf. See the \"{@area Arundil's Animated Objects|11a|x}\" sidebar.",
 												"The room is full of old, rusty iron pots, pans, cutlery, and cooking utensils, none of which are worth much.",
 												{
 													"type": "image",
@@ -11663,7 +11663,7 @@
 							"page": 54,
 							"entries": [
 								"Durgeddin made his last stand in Khundrukar's shrine, laying enemies low until the orcs finally overwhelmed him. Orc shamans pronounced dire curses over his remains to ensure that their terrible foe would never return. Then they entombed a fierce orc warrior to defend it forever in undeath.",
-								"The door leading from {@adventure area 36|TftYP-TFoF|1|36. The Great Hall} bears an inscription in Orc: \"Beyond this door the Maker of Death is chained. May he gnaw on his own hate until the sun dies and all things end.\"",
+								"The door leading from {@area area 36|102|x} bears an inscription in Orc: \"Beyond this door the Maker of Death is chained. May he gnaw on his own hate until the sun dies and all things end.\"",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -11729,7 +11729,7 @@
 											"name": "Creature",
 											"page": 55,
 											"entries": [
-												"Area 43, {@adventure area 46|TftYP-TFoF|1|46. Common Area}, and all the rooms marked 44 are now the demesne of the dwarf mage Arundil, who lingers as an insane {@creature ghost}.",
+												"Area 43, {@area area 46|136|x}, and all the rooms marked 44 are now the demesne of the dwarf mage Arundil, who lingers as an insane {@creature ghost}.",
 												"The ghost relentlessly attacks anyone who enters its territory (most likely in either area 43 or area 46) but can't pursue characters who retreat beyond its domain. If the ghost is turned, it flees to one of the empty rooms labeled as area 44."
 											],
 											"id": "12c"
@@ -11739,7 +11739,7 @@
 											"name": "Development",
 											"page": 55,
 											"entries": [
-												"Arundil's ghost is tormented by grief and shame over abandoning his kin to die (see {@adventure area 47|TftYP-TFoF|1|47. Arundil's Chambers}). The spirit might be laid to rest if the characters can convince it that they have cleansed Khundrukar."
+												"Arundil's ghost is tormented by grief and shame over abandoning his kin to die (see {@area area 47|13a|x}). The spirit might be laid to rest if the characters can convince it that they have cleansed Khundrukar."
 											],
 											"id": "12d"
 										}
@@ -11778,7 +11778,7 @@
 							"name": "45. Skeleton Room",
 							"page": 55,
 							"entries": [
-								"One of the smaller chambers once served as a small barracks. Half a dozen dwarves perished here and were later animated by Arundil (see {@adventure area 47|TftYP-TFoF|1|47. Arundil's Chambers}). He ordered them to defend their post against all intruders.",
+								"One of the smaller chambers once served as a small barracks. Half a dozen dwarves perished here and were later animated by Arundil (see {@area area 47|13a|x}). He ordered them to defend their post against all intruders.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -11834,7 +11834,7 @@
 											"name": "Creature",
 											"page": 56,
 											"entries": [
-												"If the characters approach this area from the secret door to the south before entering {@adventure area 43|TftYP-TFoF|1|43. Entrance to the Dwarf-Halls}, Arundil the {@creature ghost} confronts them here; refer to the encounter in area 43. Otherwise, there is nothing dangerous or valuable in the area."
+												"If the characters approach this area from the secret door to the south before entering {@area area 43|129|x}, Arundil the {@creature ghost} confronts them here; refer to the encounter in area 43. Otherwise, there is nothing dangerous or valuable in the area."
 											],
 											"id": "139"
 										}
@@ -11849,7 +11849,7 @@
 							"name": "47. Arundil's Chambers",
 							"page": 56,
 							"entries": [
-								"Arundil, the leading mage of Khundrukar and Durgeddin's trusted advisor, lived in a spacious room close to the great hall. During the final assault of the orcs, Arundil used his magic to escape the slaughter. He returned to find all his kinfolk dead. Driven insane with grief, he tried to repair some of the complex's defenses, animating dead warriors and various objects to kill any intruders that returned. In his madness, he even summoned a fiend (see {@adventure area 49|TftYP-TFoF|1|49. Idalla's Den}), and he perished at its hands not long after.",
+								"Arundil, the leading mage of Khundrukar and Durgeddin's trusted advisor, lived in a spacious room close to the great hall. During the final assault of the orcs, Arundil used his magic to escape the slaughter. He returned to find all his kinfolk dead. Driven insane with grief, he tried to repair some of the complex's defenses, animating dead warriors and various objects to kill any intruders that returned. In his madness, he even summoned a fiend (see {@area area 49|145|x}), and he perished at its hands not long after.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -11865,7 +11865,7 @@
 											"name": "Creature",
 											"page": 56,
 											"entries": [
-												"The rug, 20 feet square, is actually a Gargantuan {@creature rug of smothering} that activates when any non-dwarf sets foot on it. It fights until destroyed but doesn't attack a dwarf under any circumstances. See \"{@adventure Arundil's Animated Objects|TftYP-TFoF|1|Arundil's Animated Objects}\" above."
+												"The rug, 20 feet square, is actually a Gargantuan {@creature rug of smothering} that activates when any non-dwarf sets foot on it. It fights until destroyed but doesn't attack a dwarf under any circumstances. See \"{@area Arundil's Animated Objects|11a|x}\" above."
 											],
 											"id": "13f"
 										},
@@ -11905,7 +11905,7 @@
 											"name": "Creature",
 											"page": 56,
 											"entries": [
-												"One of the armor stands is actually an animated object (use the {@creature animated armor} stat block), which activates when a non-dwarf enters the room. It fights until destroyed. See \"{@adventure Arundil's Animated Objects|TftYP-TFoF|1|Arundil's Animated Objects}\" above."
+												"One of the armor stands is actually an animated object (use the {@creature animated armor} stat block), which activates when a non-dwarf enters the room. It fights until destroyed. See \"{@area Arundil's Animated Objects|11a|x}\" above."
 											],
 											"id": "144"
 										}
@@ -11937,7 +11937,7 @@
 											"name": "Creature",
 											"page": 56,
 											"entries": [
-												"Arundil summoned a {@creature succubus} and commanded it to guard the area that is now the domain of Arundil's ghost (see {@adventure area 43|TftYP-TFoF|1|43. Entrance to the Dwarf-Halls}). But the fiend easily overpowered Arundil's will, then toyed with him cruelly until it finally drained his life force.",
+												"Arundil summoned a {@creature succubus} and commanded it to guard the area that is now the domain of Arundil's ghost (see {@area area 43|129|x}). But the fiend easily overpowered Arundil's will, then toyed with him cruelly until it finally drained his life force.",
 												"The succubus, which calls itself Idalla, claimed the scholar's library for its own and spends much time here reading through the collected lore. It learned of Khundrukar's history from the scholar's records and realized that the legends of wondrous treasure would lure greedy souls. It consumed the wizard from the previous expedition, who took refuge in this library after his companions were killed. Since that time, it has spread rumors to draw more adventurers to its lair.",
 												"Idalla takes the form of a human woman. When the characters enter, the fiend jumps up and begs to be released from imprisonment. Idalla tells the characters that she is a captive of a wizard who resides below this level. The succubus plays the role to the hilt, trembling and crying as it spins a tale of woe. It tries to split up the group, persuading one character to remain (using its Charm attack if necessary) while the others deal with the wizard. If they leave anyone alone with Idalla, the fiend attempts to kiss and drain the hapless dupe. The succubus is an adept liar and mixes in just enough of the truth to be convincing; see the \"Idalla's Story\" sidebar.",
 												"If the characters attack, Idalla attempts to charm the most dangerous-looking character and turn him or her against the party while the fiend fades into the Ethereal.",
@@ -11995,7 +11995,7 @@
 					"name": "The Black Lake",
 					"page": 57,
 					"entries": [
-						"The darkest and most remote corner of the Glitterhame's cavern system, the Black Lake is a large, winding cavern filled with water that drains from the Dark Mere through a submerged siphon. From the lake, the subterranean river flows west through the Sinkhole, across the bottom of the chasm in {@adventure area 3|TftYP-TFoF|1|3. The Rift Hall} of the Mountain Door, and onward for about 5 miles until it emerges at the surface.",
+						"The darkest and most remote corner of the Glitterhame's cavern system, the Black Lake is a large, winding cavern filled with water that drains from the Dark Mere through a submerged siphon. From the lake, the subterranean river flows west through the Sinkhole, across the bottom of the chasm in {@area area 3|050|x} of the Mountain Door, and onward for about 5 miles until it emerges at the surface.",
 						"The dwarves of Khundrukar never settled these caverns, although Durgeddin had his followers begin work on an escape route through the depths.",
 						"The Black Lake is now the domain of Nightscale, a {@creature young black dragon}. Here she has built her hoard, having slowly collected most of the remaining loot from Khundrukar. From the lake, Nightscale can swim to the Sinkhole, climb up to the Glitterhame, or fly up to the Foundry through the chasm there. The troglodytes fear and worship the dragon. The duergar have negotiated an uneasy truce with Nightscale, paying her a modest tribute to leave them alone.",
 						"The following locations are identified on map 2.6.",
@@ -13325,7 +13325,7 @@
 							"name": "50. The Cascade",
 							"page": 57,
 							"entries": [
-								"The stream in {@adventure area 38|TftYP-TFoF|1|38. The Chasm} flows over the edge of the chasm and pours down into a turbulent pool.",
+								"The stream in {@area area 38|10f|x} flows over the edge of the chasm and pours down into a turbulent pool.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -13368,7 +13368,7 @@
 											"name": "Hazard",
 											"page": 57,
 											"entries": [
-												"The weakened bridge can't take much weight before it collapses. If more than one Small or larger creature is on the bridge at one time, or if a character in heavy armor steps onto it, the arch fails. Any creature on the span must succeed on a {@dc 10} Dexterity saving throw to catch itself on the ledge. On a failed save, a creature falls, takes 7 ({@dice 2d6}) bludgeoning damage from falling timbers and stones, and is caught in the river's current (see \"{@adventure Fast-Flowing Water|TftYP-TFoF|1|Fast-Flowing Water}\" above)."
+												"The weakened bridge can't take much weight before it collapses. If more than one Small or larger creature is on the bridge at one time, or if a character in heavy armor steps onto it, the arch fails. Any creature on the span must succeed on a {@dc 10} Dexterity saving throw to catch itself on the ledge. On a failed save, a creature falls, takes 7 ({@dice 2d6}) bludgeoning damage from falling timbers and stones, and is caught in the river's current (see \"{@area Fast-Flowing Water|0fc|x}\" above)."
 											],
 											"id": "153"
 										}
@@ -13400,7 +13400,7 @@
 											"page": 58,
 											"entries": [
 												"When Nightscale becomes aware of intruders, the {@creature young black dragon} slips into the water, quietly swimming to a point near the three stepping stones shown on the map. Any character watching the lake can make a Wisdom ({@skill Perception}) check contested by the dragon's Dexterity ({@skill Stealth}) check. On a successful check, the character catches a glimpse of a serpentine form moving in the darkness.",
-												"The dragon takes full advantage of her aquatic environment and never offers an easy target to enemies. She begins combat at a range of 20 to 30 feet, raising only her head and part of her neck above the water (granting her {@quickref Cover||3||three-quarters cover}) and breathing acid. Then she submerges and waits for her breath weapon to recharge. Nightscale doesn't resort to melee combat unless she is confronted underwater. If the dragon is reduced to 40 hit points or fewer, she tries to escape through the passage in {@adventure area 54|TftYP-TFoF|1|54. The Dragon's Passage}."
+												"The dragon takes full advantage of her aquatic environment and never offers an easy target to enemies. She begins combat at a range of 20 to 30 feet, raising only her head and part of her neck above the water (granting her {@quickref Cover||3||three-quarters cover}) and breathing acid. Then she submerges and waits for her breath weapon to recharge. Nightscale doesn't resort to melee combat unless she is confronted underwater. If the dragon is reduced to 40 hit points or fewer, she tries to escape through the passage in {@area area 54|15d|x}."
 											],
 											"id": "157"
 										},
@@ -13489,7 +13489,7 @@
 									"name": "Follow the Map",
 									"page": 59,
 									"entries": [
-										"While the characters are exploring the stronghold, they might find another map, perhaps on the body of an adventurer from the previous expedition, or in the library in {@adventure area 49|TftYP-TFoF|1|49. Idalla's Den}. It could lead to a different dungeon, a city in some land far away, or an as-yet-unknown location rumored to hide a fabulous treasure."
+										"While the characters are exploring the stronghold, they might find another map, perhaps on the body of an adventurer from the previous expedition, or in the library in {@area area 49|145|x}. It could lead to a different dungeon, a city in some land far away, or an as-yet-unknown location rumored to hide a fabulous treasure."
 									],
 									"id": "160"
 								},
@@ -13498,7 +13498,7 @@
 									"name": "Track the Broken Blade",
 									"page": 59,
 									"entries": [
-										"If the characters were sent to retrieve weapons for Baron Althon, they can bring him the {@item +1 longsword} from {@adventure area 22|TftYP-TFoF|1|22. Fungus Cavern}, the {@item +2 greataxe} in {@adventure area 53|TftYP-TFoF|1|53. Nightscale's Hoard}, the {@item handaxe|PHB} from {@adventure area 14|TftYP-TFoF|1|14. Bunk Room}, and the {@item warhammer|PHB} from {@adventure area 23|TftYP-TFoF|1|23. Dwarven Sepulchers}. All bear Durgeddin's smith-mark; Baron Althon pays 500 gp above the market price for each mundane weapon, 1,000 gp for the {@item +1 longsword}, and 6,000 gp for the {@item +2 greataxe}, if the characters are willing to sell."
+										"If the characters were sent to retrieve weapons for Baron Althon, they can bring him the {@item +1 longsword} from {@area area 22|0c4|x}, the {@item +2 greataxe} in {@area area 53|159|x}, the {@item handaxe|PHB} from {@area area 14|092|x}, and the {@item warhammer|PHB} from {@area area 23|0c9|x}. All bear Durgeddin's smith-mark; Baron Althon pays 500 gp above the market price for each mundane weapon, 1,000 gp for the {@item +1 longsword}, and 6,000 gp for the {@item +2 greataxe}, if the characters are willing to sell."
 									],
 									"id": "161"
 								},
@@ -13735,7 +13735,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "175"
 				},
 				{
 					"type": "section",
@@ -13759,7 +13760,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "176"
 				},
 				{
 					"type": "section",
@@ -13783,7 +13785,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "177"
 				},
 				{
 					"type": "section",
@@ -13807,7 +13810,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "178"
 				},
 				{
 					"type": "section",
@@ -13831,7 +13835,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "179"
 				},
 				{
 					"type": "section",
@@ -13855,7 +13860,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17a"
 				},
 				{
 					"type": "section",
@@ -13879,7 +13885,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17b"
 				},
 				{
 					"type": "section",
@@ -13903,7 +13910,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17c"
 				},
 				{
 					"type": "section",
@@ -13927,7 +13935,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17d"
 				},
 				{
 					"type": "section",
@@ -13951,7 +13960,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17e"
 				},
 				{
 					"type": "section",
@@ -13975,7 +13985,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17f"
 				},
 				{
 					"type": "section",
@@ -13988,7 +13999,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "180"
 				},
 				{
 					"type": "section",
@@ -14012,7 +14024,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "181"
 				},
 				{
 					"type": "section",
@@ -14025,7 +14038,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "182"
 				},
 				{
 					"type": "section",
@@ -14049,7 +14063,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "183"
 				},
 				{
 					"type": "section",
@@ -14062,7 +14077,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "184"
 				},
 				{
 					"type": "section",
@@ -14086,7 +14102,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "185"
 				},
 				{
 					"type": "section",
@@ -14110,7 +14127,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "186"
 				},
 				{
 					"type": "section",
@@ -14123,7 +14141,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "187"
 				},
 				{
 					"type": "section",
@@ -14136,7 +14155,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "188"
 				},
 				{
 					"type": "section",
@@ -14160,7 +14180,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "189"
 				},
 				{
 					"type": "section",
@@ -14184,7 +14205,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18a"
 				},
 				{
 					"type": "section",
@@ -14208,7 +14230,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18b"
 				},
 				{
 					"type": "section",
@@ -14232,7 +14255,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18c"
 				},
 				{
 					"type": "section",
@@ -14256,7 +14280,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18d"
 				},
 				{
 					"type": "section",
@@ -14269,7 +14294,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18e"
 				},
 				{
 					"type": "section",
@@ -14293,7 +14319,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18f"
 				},
 				{
 					"type": "section",
@@ -14306,7 +14333,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "190"
 				},
 				{
 					"type": "section",
@@ -14330,7 +14358,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "191"
 				},
 				{
 					"type": "section",
@@ -14354,7 +14383,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "192"
 				},
 				{
 					"type": "section",
@@ -14378,7 +14408,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "193"
 				},
 				{
 					"type": "section",
@@ -14402,7 +14433,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "194"
 				},
 				{
 					"type": "section",
@@ -14415,7 +14447,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "195"
 				},
 				{
 					"type": "section",
@@ -14428,7 +14461,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "196"
 				},
 				{
 					"type": "section",
@@ -14441,7 +14475,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "197"
 				},
 				{
 					"type": "section",
@@ -14465,7 +14500,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "198"
 				},
 				{
 					"type": "section",
@@ -14489,7 +14525,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "199"
 				},
 				{
 					"type": "section",
@@ -14502,7 +14539,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19a"
 				},
 				{
 					"type": "section",
@@ -14526,7 +14564,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19b"
 				}
 			],
 			"id": "13e"

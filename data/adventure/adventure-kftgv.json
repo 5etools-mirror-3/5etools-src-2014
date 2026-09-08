@@ -106,67 +106,67 @@
 									],
 									"rows": [
 										[
-											"{@adventure The Murkmire Malevolence|KftGV|1}",
+											"{@area The Murkmire Malevolence|00f|x}",
 											"1",
 											"Retrieve a mysterious egg ensconced in a museum to avert disaster."
 										],
 										[
-											"{@adventure The Stygian Gambit|KftGV|2}",
+											"{@area The Stygian Gambit|081|x}",
 											"2",
 											"Rob a Nine Hells\u2013themed casino built with stolen money."
 										],
 										[
-											"{@adventure Reach for the Stars|KftGV|3}",
+											"{@area Reach for the Stars|0e2|x}",
 											"3",
 											"Search for The Celestial Codex in a mansion warped by the Far Realm."
 										],
 										[
-											"{@adventure Prisoner 13|KftGV|4}",
+											"{@area Prisoner 13|143|x}",
 											"4",
 											"Obtain the key to a vault from a spymaster imprisoned in Revel's End."
 										],
 										[
-											"{@adventure Tockworth's Clockworks|KftGV|5}",
+											"{@area Tockworth's Clockworks|192|x}",
 											"5",
 											"Liberate a svirfneblin town besieged by clockwork automatons."
 										],
 										[
-											"{@adventure Masterpiece Imbroglio|KftGV|6}",
+											"{@area Masterpiece Imbroglio|1f4|x}",
 											"5",
 											"Infiltrate a thieves' guild to retrieve a stolen painting."
 										],
 										[
-											"{@adventure Axe from the Grave|KftGV|7}",
+											"{@area Axe from the Grave|289|x}",
 											"6",
 											"Recover a stolen mandolin to lay a dead bard's spirit to rest."
 										],
 										[
-											"{@adventure Vidorant's Vault|KftGV|8}",
+											"{@area Vidorant's Vault|2ea|x}",
 											"7",
 											"Retrieve a stolen diadem from the vault of a notorious thief."
 										],
 										[
-											"{@adventure Shard of the Accursed|KftGV|9}",
+											"{@area Shard of the Accursed|354|x}",
 											"8",
 											"Use a magical shard to mend a giant's broken heart and save a town from destruction."
 										],
 										[
-											"{@adventure Heart of Ashes|KftGV|10}",
+											"{@area Heart of Ashes|3c6|x}",
 											"8",
 											"Retrieve a king's heart to save his kingdom from a terrible fate."
 										],
 										[
-											"{@adventure Affair on the Concordant Express|KftGV|11}",
+											"{@area Affair on the Concordant Express|407|x}",
 											"9",
 											"Obtain information from a stranger traveling aboard an interplanar train."
 										],
 										[
-											"{@adventure Party at Paliset Hall|KftGV|12}",
+											"{@area Party at Paliset Hall|450|x}",
 											"10",
 											"Snatch a diamond from an archmage in the Feywild."
 										],
 										[
-											"{@adventure Fire and Darkness|KftGV|13}",
+											"{@area Fire and Darkness|4c2|x}",
 											"11",
 											"Wrest the {@item Book of Vile Darkness (Variant)|KftGV|Book of Vile Darkness} from an efreeti and his lackeys."
 										]
@@ -248,7 +248,7 @@
 							"entries": [
 								"Many of this book's heists involve procuring a MacGuffin. Part of preparing for these heists is determining where the MacGuffin in question is located.",
 								"If the characters are having too easy of a time finding the MacGuffin, consider shifting its location to another place that makes sense. Or consider revealing that the MacGuffin is a fake, and the real prize is still nearby. The characters should still be able to determine where it's really located.",
-								"For example, in \"{@adventure The Murkmire Malevolence|KftGV|1},\" perhaps the MacGuffin is no longer in the Gemstone Wing and is being stored in the museum's attic overnight. The characters could learn this detail by reading notes they discover in the curator's office or by questioning one of the museum guards.",
+								"For example, in \"{@area The Murkmire Malevolence|00f|x},\" perhaps the MacGuffin is no longer in the Gemstone Wing and is being stored in the museum's attic overnight. The characters could learn this detail by reading notes they discover in the curator's office or by questioning one of the museum guards.",
 								"If you use the moving MacGuffin complication, be careful of moving the MacGuffin more than once. Having trouble locating the object of the heist could unduly frustrate your players."
 							]
 						},
@@ -378,55 +378,55 @@
 											],
 											"rows": [
 												[
-													"{@adventure The Murkmire Malevolence|KftGV|1}",
+													"{@area The Murkmire Malevolence|00f|x}",
 													"Museum curator Alda Arkin hires the rivals to steal the Murkmire Stone, a curiosity she knows would fetch a high price on the black market."
 												],
 												[
-													"{@adventure The Stygian Gambit|KftGV|2}",
+													"{@area The Stygian Gambit|081|x}",
 													"Regor Falsain (neutral evil, human {@creature noble}), a gambler who wasn't invited to participate in the three-dragon ante tournament, hires the rivals to steal the erinyes statuette."
 												],
 												[
-													"{@adventure Reach for the Stars|KftGV|3}",
+													"{@area Reach for the Stars|0e2|x}",
 													"Yexanthal (chaotic evil, elf {@creature cult fanatic}) was one of {@creature Markos Delphi|KftGV}'s researchers until he was caught trying to steal The Celestial Codex. Eager to commune with Far Realm entities, Yexanthal hires the rivals to steal the book from Delphi Mansion."
 												],
 												[
-													"{@adventure Prisoner 13|KftGV|4}",
+													"{@area Prisoner 13|143|x}",
 													"Horath Axebreaker (lawful evil, dwarf {@creature veteran}) hires the rivals to retrieve a copy of {@creature Prisoner 13|KftGV}'s keystone tattoo so he can steal Clan Axebreaker's treasure for himself."
 												],
 												[
-													"{@adventure Tockworth's Clockworks|KftGV|5}",
+													"{@area Tockworth's Clockworks|192|x}",
 													"Tockworth's security key is a copy of a key that opens a vault containing vast wealth in another svirfneblin stronghold. Waltabeth Brambleroot (neutral evil, deep gnome {@creature mage}) hires the rivals to retrieve the key for her so she can claim the treasure."
 												],
 												[
-													"{@adventure Masterpiece Imbroglio|KftGV|6}",
+													"{@area Masterpiece Imbroglio|1f4|x}",
 													"The rivals are members of a thieves' guild from a neighboring city. They seek {@item Constantori's Portrait|KftGV} for Skandor Torreth (neutral, human {@creature assassin}), a guildmaster who needs information only the portrait knows."
 												],
 												[
-													"{@adventure Axe from the Grave|KftGV|7}",
+													"{@area Axe from the Grave|289|x}",
 													"Zarthine Delthion (neutral, human {@creature noble}), the daughter of the wizard who gave Frody the Canaith mandolin, believes the instrument is rightfully hers. She hires the rivals to retrieve it."
 												],
 												[
-													"{@adventure Vidorant's Vault|KftGV|8}",
+													"{@area Vidorant's Vault|2ea|x}",
 													"The rivals are members of the Silver Fingers Society and wish to impress Samphith Goldenbeard by stealing the diadem. They are unaware Goldenbeard has hired the characters."
 												],
 												[
-													"{@adventure Shard of the Accursed|KftGV|9}",
+													"{@area Shard of the Accursed|354|x}",
 													"Everett Stillwater (neutral evil, human {@creature mage}) hires the rivals to steal the shard the characters seek to return to the tomb. He believes he can break the shard's curse and sell it on the black market for a high price."
 												],
 												[
-													"{@adventure Heart of Ashes|KftGV|10}",
+													"{@area Heart of Ashes|3c6|x}",
 													"Barolophine (neutral evil, elf {@creature archmage}) hires the rivals to recover the heart of Jhaeros, a focus item the archmage needs to fuel her journey to become a lich."
 												],
 												[
-													"{@adventure Affair on the Concordant Express|KftGV|11}",
+													"{@area Affair on the Concordant Express|407|x}",
 													"The rivals are members of {@creature the Stranger|KftGV}'s former outlaw gang. They are determined to free {@creature the Stranger|KftGV} before the Concordant Express reaches Mechanus."
 												],
 												[
-													"{@adventure Party at Paliset Hall|KftGV|12}",
+													"{@area Party at Paliset Hall|450|x}",
 													"The {@creature adult black dragon} Inkscale, one of Zorhanna's oldest and bitterest enemies, hires the rivals to steal the {@item shard solitaire|KftGV} out of spite."
 												],
 												[
-													"{@adventure Fire and Darkness|KftGV|13}",
+													"{@area Fire and Darkness|4c2|x}",
 													"Vrakir's jilted lover Zaltima, an {@creature efreeti}, hires the rivals to steal the {@item Book of Vile Darkness (Variant)|KftGV|Book of Vile Darkness} for her."
 												]
 											]
@@ -797,7 +797,7 @@
 											"page": 16,
 											"id": "024",
 											"entries": [
-												"Audible {@spell alarm} spells have been cast in areas marked (A) on {@adventure map 1.2|KftGV|1|MAP 1.2: DM'S MAP}. The museum's guards and the curator have pass cards that allow them to bypass these alarms, and spare pass cards are kept in {@area area V7|04d|x} (see \"{@area Bypassing Alarms|029|x}\" below for more information). The alarms are located as follows:",
+												"Audible {@spell alarm} spells have been cast in areas marked (A) on {@area map 1.2|141|x}. The museum's guards and the curator have pass cards that allow them to bypass these alarms, and spare pass cards are kept in {@area area V7|04d|x} (see \"{@area Bypassing Alarms|029|x}\" below for more information). The alarms are located as follows:",
 												{
 													"type": "list",
 													"items": [
@@ -2954,7 +2954,7 @@
 									"page": 31,
 									"id": "098",
 									"entries": [
-										"The casino's interior doors are made of wood. {@spell Arcane lock} spells have been cast on the doors that lead to the employee-only areas, the vault hallway, and the vault itself. These doors have bright-green trim, making them obvious to visitors. (On {@adventure map 2.2|KftGV|2|Map 2.2: DM's map}, these doors are marked with dots to indicate they are locked.)",
+										"The casino's interior doors are made of wood. {@spell Arcane lock} spells have been cast on the doors that lead to the employee-only areas, the vault hallway, and the vault itself. These doors have bright-green trim, making them obvious to visitors. (On {@area map 2.2|142|x}, these doors are marked with dots to indicate they are locked.)",
 										"Casino personnel use pass cards (see \"{@area Employee Pass Cards|090|x}\" earlier in the adventure) to bypass the {@spell arcane lock} spells on the doors, which can be shouldered open with a {@dc 25} Strength ({@skill Athletics}) check."
 									]
 								},
@@ -6783,7 +6783,7 @@
 												"A sickly sweet scent hangs in the air of this dusty foyer. Two staircases rise from the hardwood floor to a balcony, and a glass chandelier hangs above the center of the room. Below the chandelier, the pelt of an owlbear has been made into a fine rug, its head staring at the entrance."
 											]
 										},
-										"The stairs climb to a balcony ({@adventure area D10|KftGV|3|D10: Balcony}). The ceiling here rises 30 feet from the floor. The owlbear rug weighs 50 pounds."
+										"The stairs climb to a balcony ({@area area D10|10f|x}). The ceiling here rises 30 feet from the floor. The owlbear rug weighs 50 pounds."
 									]
 								},
 								{
@@ -6860,7 +6860,7 @@
 									"page": 46,
 									"id": "0ff",
 									"entries": [
-										"The pantry is well stocked, and the foodstuffs here haven't spoiled yet. A sack of potatoes rests against the east wall next to stairs that lead to the wine cellar ({@adventure area D23|KftGV|3|D23: Wine Cellar})."
+										"The pantry is well stocked, and the foodstuffs here haven't spoiled yet. A sack of potatoes rests against the east wall next to stairs that lead to the wine cellar ({@area area D23|12c|x})."
 									]
 								},
 								{
@@ -6973,8 +6973,8 @@
 											"credit": "Irina Nordsol"
 										},
 										"The cloaked figure is {@creature Zala Morphus|KftGV}, a human mage who has been transformed into a {@creature nothic}. Zala helped Markos contact Krokulmar and blames this Far Realm entity for her transformation. Now she anxiously turns to the stars, hoping to find a way to return to her human form. Zala has no interest in Markos's current activities and little knowledge about them.",
-										"Zala speaks Common, Deep Speech, and Elvish. If the characters attack her, Zala responds in kind. If they claim to be looking for {@i The Celestial Codex}, Zala advises them to search Markos's office ({@area area D11b|111|x}) or his bedroom ({@adventure area D15|KftGV|3|D15: Markos's Bedroom}).",
-										"Zala wants a map of the Great Snake constellation from the star-map room ({@adventure area D21|KftGV|3|D21: Star-Map Room}). If the characters retrieve the map for her, Zala tells characters about the locked secret door in the wine cellar ({@adventure area D23|KftGV|3|D23: Wine Cellar}) along with the password (\"farrl'v hrak\").",
+										"Zala speaks Common, Deep Speech, and Elvish. If the characters attack her, Zala responds in kind. If they claim to be looking for {@i The Celestial Codex}, Zala advises them to search Markos's office ({@area area D11b|111|x}) or his bedroom ({@area area D15|11c|x}).",
+										"Zala wants a map of the Great Snake constellation from the star-map room ({@area area D21|12a|x}). If the characters retrieve the map for her, Zala tells characters about the locked secret door in the wine cellar ({@area area D23|12c|x}) along with the password (\"farrl'v hrak\").",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -7010,7 +7010,7 @@
 									"page": 47,
 									"id": "10f",
 									"entries": [
-										"This balcony overlooks the foyer ({@adventure area D1|KftGV|3|D1: Foyer}), the floor of which is 20 feet below."
+										"This balcony overlooks the foyer ({@area area D1|0f5|x}), the floor of which is 20 feet below."
 									]
 								},
 								{
@@ -7078,7 +7078,7 @@
 											]
 										},
 										"One of the cloaked figures is Markos's head researcher, Xander (lawful evil, human {@creature cult fanatic}). The other figure is an apprentice named Kura (lawful evil, human {@creature cultist}). Both have embraced the Far Realm entity and the power it offers. Xander and Kura are indifferent toward intruders and don't attack unless the intruders aim to harm them or hinder their research.",
-										"Xander and Kura don't keep track of Markos's movements, but they know he has been spending a lot of time in the caves below the basement ({@adventure area D27|KftGV|3|D27: Ritual Room}). They assume {@i The Celestial Codex} is with Markos or in his bedroom ({@adventure area D15|KftGV|3|D15: Markos's Bedroom}).",
+										"Xander and Kura don't keep track of Markos's movements, but they know he has been spending a lot of time in the caves below the basement ({@area area D27|137|x}). They assume {@i The Celestial Codex} is with Markos or in his bedroom ({@area area D15|11c|x}).",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -7111,7 +7111,7 @@
 											"page": 48,
 											"id": "11b",
 											"entries": [
-												"The trapdoor in the ceiling leads to the master bath ({@adventure area D17|KftGV|3|D17: Bathroom}). An unfolding wooden ladder allows easy access."
+												"The trapdoor in the ceiling leads to the master bath ({@area area D17|121|x}). An unfolding wooden ladder allows easy access."
 											]
 										}
 									]
@@ -7235,7 +7235,7 @@
 											"id": "128",
 											"entries": [
 												"The hook-handed figure is Markos's former butler, Esquire (use the {@creature hook horror} stat block). Esquire isn't bound inside the circle and attacks intruders on sight. He doesn't know the cause of his transformation. If the characters explain that an evil entity is responsible for Esquire's transformation or that Markos might be in danger from this entity, Esquire lets them live if they vow to save Markos.",
-												"Esquire's tattered butler uniform has a pocket containing a locket and a note. The locket is under the effects of a {@spell magic mouth} spell; when opened, it speaks the password to the temple ({@adventure area D24|KftGV|3|D24: Temple}), \"farrl'v hrak,\" which is Deep Speech for \"forever changing.\" The note contains a sketch of a wine bottle and a row of four circles. The second circle from the left is crossed out. (The circles represent the casks in {@adventure area D23|KftGV|3|D23: Wine Cellar}, the crossed-out one representing the cask blocking a secret door.)",
+												"Esquire's tattered butler uniform has a pocket containing a locket and a note. The locket is under the effects of a {@spell magic mouth} spell; when opened, it speaks the password to the temple ({@area area D24|12e|x}), \"farrl'v hrak,\" which is Deep Speech for \"forever changing.\" The note contains a sketch of a wine bottle and a row of four circles. The second circle from the left is crossed out. (The circles represent the casks in {@area area D23|12c|x}, the crossed-out one representing the cask blocking a secret door.)",
 												{
 													"type": "image",
 													"href": {
@@ -7259,7 +7259,7 @@
 									"entries": [
 										"This walk-in closet contains four cabinets, each one filled with carefully organized material components.",
 										"{@b Treasure}. Characters who search the cabinets can find a material component for any 1st- or 2nd-level spell, provided the component has a value less than 1 gp. Characters also find a potion, its bubbling green liquid stained by a drop of some dark substance (octopus ink).",
-										"The alchemists in {@adventure area D13|KftGV|3|D13: Alchemy Lab} concocted the potion, which functions as a {@item potion of poison} but has an additional property. When the poison effect ends, the imbiber sprouts a tentacle made of inky shadow. This shadowy tentacle lasts for 1 hour. As a bonus action, the potion's imbiber can use the tentacle to make a melee weapon attack ({@hit 4} to hit) against a creature the imbiber can see within 5 feet of itself. On a hit, the target takes 4 ({@dice 1d8}) necrotic damage."
+										"The alchemists in {@area area D13|116|x} concocted the potion, which functions as a {@item potion of poison} but has an additional property. When the poison effect ends, the imbiber sprouts a tentacle made of inky shadow. This shadowy tentacle lasts for 1 hour. As a bonus action, the potion's imbiber can use the tentacle to make a melee weapon attack ({@hit 4} to hit) against a creature the imbiber can see within 5 feet of itself. On a hit, the target takes 4 ({@dice 1d8}) necrotic damage."
 									]
 								},
 								{
@@ -7295,7 +7295,7 @@
 											]
 										},
 										"Three of the wine casks contain varying amounts of wine. The fourth cask is empty and positioned in front of a secret door in the west wall. Characters who examine the empty cask see handprints on it, suggesting it has been moved multiple times. The characters also feel cold air coming from the wall, suggesting the presence of a secret door. The wine cask must be moved aside to access the secret door.",
-										"{@b Secret Door}. An {@spell arcane lock} spell has been cast on the secret door. The password to bypass the spell is \"farrl'v hrak,\" which is Deep Speech for \"forever changing.\" Esquire's locket (see {@adventure area D19|KftGV|3|D19: Eldritch Observation Room}) speaks the password when opened.",
+										"{@b Secret Door}. An {@spell arcane lock} spell has been cast on the secret door. The password to bypass the spell is \"farrl'v hrak,\" which is Deep Speech for \"forever changing.\" Esquire's locket (see {@area area D19|125|x}) speaks the password when opened.",
 										"Alternatively, a character can use an action to try to force open the locked secret door, doing so with a successful {@dc 20} Strength ({@skill Athletics}) check."
 									]
 								},
@@ -7320,7 +7320,7 @@
 											"page": 50,
 											"id": "130",
 											"entries": [
-												"The cloaked figures are four neutral, human {@creature Cultist||cultists} who are taking notes on the eldritch surges that occur in this area. These cultists defend themselves if attacked but otherwise pose no threat. They know Markos is performing a ritual in {@adventure area D27|KftGV|3|D27: Ritual Room} but won't share this information until the statue is destroyed.",
+												"The cloaked figures are four neutral, human {@creature Cultist||cultists} who are taking notes on the eldritch surges that occur in this area. These cultists defend themselves if attacked but otherwise pose no threat. They know Markos is performing a ritual in {@area area D27|137|x} but won't share this information until the statue is destroyed.",
 												"{@b Statue}. The statue depicts Krokulmar and was created with the aid of a {@item spell scroll} of {@spell stone shape}. Any creature that touches the statue for the first time on a turn must succeed on a {@dc 11} Wisdom saving throw or take 3 ({@dice 1d6}) psychic damage.",
 												"The statue amplifies the eldritch surges, which a character can ascertain by examining the statue and then succeeding on a {@dc 15} Intelligence ({@skill Arcana}) check. If the statue is destroyed, the eldritch surges stop occurring throughout the mansion. The statue is a Medium object with AC 17, 36 hit points, and immunity to poison and psychic damage."
 											]
@@ -7340,7 +7340,7 @@
 												"Four severed heads and three headless bodies lie on the floor of this room, which also contains four small crates in the far corner."
 											]
 										},
-										"The severed heads and decapitated bodies belong to Elra Lionheart and her three human adventuring companions. The body of one of Elra's companions is missing (and can be found in {@adventure area D27|KftGV|3|D27: Ritual Room}).",
+										"The severed heads and decapitated bodies belong to Elra Lionheart and her three human adventuring companions. The body of one of Elra's companions is missing (and can be found in {@area area D27|137|x}).",
 										"If Elra is with the characters (see \"{@area Meeting Elra|0eb|x}\" earlier in this adventure), she mourns her dead companions and hopes there might be a way to bring her and her friends back from the dead.",
 										{
 											"type": "entries",
@@ -10812,7 +10812,7 @@
 											"page": 76,
 											"id": "1aa",
 											"entries": [
-												"A modest gatehouse stands inside the gates. {@adventure Map 5.2|KftGV|5|Map 5.2: DM's map} includes an inset map that shows the interior of the gatehouse, which the characters can use as a place to rest or regroup. The gatehouse contains sleeping quarters and an armory that was cleaned out during the evacuation."
+												"A modest gatehouse stands inside the gates. {@area Map 5.2|1f2|x} includes an inset map that shows the interior of the gatehouse, which the characters can use as a place to rest or regroup. The gatehouse contains sleeping quarters and an armory that was cleaned out during the evacuation."
 											]
 										}
 									]
@@ -10864,7 +10864,7 @@
 												"Next to the road stands a squat stone building capped with a stone dome. The building's entrance is a double door carved to resemble interlocking hands, and centered above the doorway is a golden pick with a short handle."
 											]
 										},
-										"{@adventure Map 5.2|KftGV|5|Map 5.2: DM's map} includes an inset map that shows the interior of this building.",
+										"{@area Map 5.2|1f2|x} includes an inset map that shows the interior of this building.",
 										"A character who examines the golden pick and succeeds on a {@dc 13} Intelligence ({@skill Religion}) check recognizes it as the symbol of the Deep Brother, Callarduran Smoothhands, a god worshiped by svirfneblin (particularly miners and stone carvers).",
 										{
 											"type": "entries",
@@ -10953,7 +10953,7 @@
 											"page": 79,
 											"id": "1ba",
 											"entries": [
-												"{@adventure Map 5.2|KftGV|5|Map 5.2: DM's map} includes inset maps that show both floors of this two-story building. The lower floor contains a kitchen and mess hall for the jailers and an office reserved for the head jailer. A spiral staircase connects to the upper level, which contains prison cells."
+												"{@area Map 5.2|1f2|x} includes inset maps that show both floors of this two-story building. The lower floor contains a kitchen and mess hall for the jailers and an office reserved for the head jailer. A spiral staircase connects to the upper level, which contains prison cells."
 											]
 										}
 									]
@@ -10978,7 +10978,7 @@
 											"page": 79,
 											"id": "1bd",
 											"entries": [
-												"{@adventure Map 5.2|KftGV|5|Map 5.2: DM's map} includes an inset map that shows the power station's interior, which you can describe as follows:",
+												"{@area Map 5.2|1f2|x} includes an inset map that shows the power station's interior, which you can describe as follows:",
 												{
 													"type": "insetReadaloud",
 													"id": "1be",
@@ -11065,7 +11065,7 @@
 												"The soot-stained foundry stands at the edge of this district, overlooking the magma lake far below. Its huge sliding doors stand open, revealing dark furnaces and silent machinery. A raised loading dock allows access to the dangling buckets of the Slagline, which deliver unrefined ore to the foundry."
 											]
 										},
-										"{@adventure Map 5.2|KftGV|5|Map 5.2: DM's map} includes an inset map that shows the foundry's interior, which is one large, open space. The building has no ceiling, allowing heat and smoke to escape. Ore from the Slagline's buckets can be dumped via chute into any of the foundry's five large furnaces.",
+										"{@area Map 5.2|1f2|x} includes an inset map that shows the foundry's interior, which is one large, open space. The building has no ceiling, allowing heat and smoke to escape. Ore from the Slagline's buckets can be dumped via chute into any of the foundry's five large furnaces.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -11090,7 +11090,7 @@
 												"Hanging above the entrance of this grimy stone building is a painted wooden sign that depicts gemstones pouring from a flagon. A minor magical effect causes the gemstones to glitter invitingly."
 											]
 										},
-										"{@adventure Map 5.2|KftGV|5|Map 5.2: DM's map} includes an inset map that shows the tavern's interior, which consists of a cellar and a taproom.",
+										"{@area Map 5.2|1f2|x} includes an inset map that shows the tavern's interior, which consists of a cellar and a taproom.",
 										{
 											"type": "entries",
 											"name": "Cellar",
@@ -11149,7 +11149,7 @@
 											"page": 80,
 											"id": "1ce",
 											"entries": [
-												"{@adventure Map 5.2|KftGV|5|Map 5.2: DM's map} includes inset maps that show both floors of Tockworth's workshop, which are described in areas {@area L9a|1cf|x} and {@area L9b|1d3|x}.",
+												"{@area Map 5.2|1f2|x} includes inset maps that show both floors of Tockworth's workshop, which are described in areas {@area L9a|1cf|x} and {@area L9b|1d3|x}.",
 												{
 													"type": "image",
 													"href": {
@@ -11270,7 +11270,7 @@
 										"Mining equipment lies abandoned in the alleys and stalagmite-lined streets of this gloomy district."
 									]
 								},
-								"The Cavemouth district is where most of Little Lockford's miners live and work. Two roads lead to the mines, which are not shown on {@adventure map 5.2|KftGV|5|Map 5.2: DM's map}.",
+								"The Cavemouth district is where most of Little Lockford's miners live and work. Two roads lead to the mines, which are not shown on {@area map 5.2|1f2|x}.",
 								"The bridges to Cavemouth have been raised, and the streetlamps throughout the district have been shut off. The characters can lower the bridges and turn on the streetlamps using a control console in {@area area L6|1bb|x} or {@area area L12|1e7|x}.",
 								{
 									"type": "entries",
@@ -11456,7 +11456,7 @@
 											"page": 84,
 											"id": "1e9",
 											"entries": [
-												"{@adventure Map 5.2|KftGV|5|Map 5.2: DM's map} provides an inset map of the security center. Spiral staircases on the north and south sides of the building climb 15 feet to a circular chamber, which you can describe to the players as follows:",
+												"{@area Map 5.2|1f2|x} provides an inset map of the security center. Spiral staircases on the north and south sides of the building climb 15 feet to a circular chamber, which you can describe to the players as follows:",
 												{
 													"type": "insetReadaloud",
 													"id": "1ea",
@@ -11814,7 +11814,7 @@
 									"type": "list",
 									"items": [
 										"Grinky's guesses as to where Dusk stored the painting are wrong.",
-										"Grinky's map is missing the topmost level of the tower, where the painting is kept ({@area area G27|260|x} on {@adventure map 6.2|KftGV|6|Map 6.2: DM's map})."
+										"Grinky's map is missing the topmost level of the tower, where the painting is kept ({@area area G27|260|x} on {@area map 6.2|1f3|x})."
 									]
 								}
 							]
@@ -11838,7 +11838,7 @@
 							"page": 89,
 							"id": "202",
 							"entries": [
-								"Characters can use {@spell invisibility} spells to approach and observe the guildhouse without being seen. They can also use a {@spell locate object} spell to pinpoint the painting's location ({@area area G27|260|x} on {@adventure map 6.2|KftGV|6|Map 6.2: DM's map}). If they don't have access to such magic, they can request Adrisa's help. Within a day, she can obtain a {@item spell scroll} of {@spell locate object} for them.",
+								"Characters can use {@spell invisibility} spells to approach and observe the guildhouse without being seen. They can also use a {@spell locate object} spell to pinpoint the painting's location ({@area area G27|260|x} on {@area map 6.2|1f3|x}). If they don't have access to such magic, they can request Adrisa's help. Within a day, she can obtain a {@item spell scroll} of {@spell locate object} for them.",
 								"The characters might have access to other magic that can help with surveillance, such as the {@spell clairvoyance} spell. A wizard's familiar can slip inside the guildhouse without attracting too much attention, as can a druid using Wild Shape to assume the form of a stray cat or some other common animal.",
 								{
 									"type": "image",
@@ -14077,7 +14077,7 @@
 											]
 										},
 										"The arrow slits are too narrow for a Small or larger character to squeeze or crawl through. Behind the arrow slits are two closed-off chambers\u2014one to the west and one to the east. A character who has {@sense darkvision} or a light source can peer through nearby arrow slits to see what each closed-off area contains: five freestanding human skeletons draped in cobwebs and clutching shortbows. Most of these skeletons are inanimate, propped-up dummies made to look threatening. Each one is a Medium object with AC 15, 4 hit points, and immunity to poison and psychic damage.",
-										"Only two {@creature Skeleton||skeletons} are animated, and they guard the hallway's midpoint. When a character enters the square marked T on {@adventure map 6.2|KftGV|6|Map 6.2: DM's map}, one animated skeleton uses its reaction (if available) to make a Shortbow attack, targeting that character. The character can make a {@dc 15} Dexterity ({@skill Acrobatics}) check to tumble out of the way; if the check is successful, the skeleton has disadvantage on its attack roll.",
+										"Only two {@creature Skeleton||skeletons} are animated, and they guard the hallway's midpoint. When a character enters the square marked T on {@area map 6.2|1f3|x}, one animated skeleton uses its reaction (if available) to make a Shortbow attack, targeting that character. The character can make a {@dc 15} Dexterity ({@skill Acrobatics}) check to tumble out of the way; if the check is successful, the skeleton has disadvantage on its attack roll.",
 										"If a character somehow gains access to one of the closed-off chambers, perhaps by shrinking to Tiny size or by assuming a gaseous form, the animated skeleton in that area stops guarding the hallway and instead attacks that character.",
 										{
 											"type": "entries",
@@ -14104,7 +14104,7 @@
 												"Branches in the tunnel ahead suggest you're entering some sort of maze. You hear the sounds of heavy breathing coming from somewhere ahead."
 											]
 										},
-										"Permanent {@spell minor illusion} spells create the sounds of heavy breathing. These sounds originate in the two spaces marked T on {@adventure map 6.2|KftGV|6|Map 6.2: DM's map}. Any character who succeeds on a {@dc 10} Wisdom ({@skill Perception}) check can track the sounds to their points of origin. A character who enters one of these squares steps on a pressure plate that sinks 1 inch into the floor and remains in that position for 1 minute before resetting itself. A character who searches that section of floor before stepping on it must make a {@dc 13} Wisdom ({@skill Perception}) check. If the check is successful, the character spots the pressure plate and can avoid it. If the characters depress the two pressure plates here along with the one in G33, the north secret door in area G33 swings open."
+										"Permanent {@spell minor illusion} spells create the sounds of heavy breathing. These sounds originate in the two spaces marked T on {@area map 6.2|1f3|x}. Any character who succeeds on a {@dc 10} Wisdom ({@skill Perception}) check can track the sounds to their points of origin. A character who enters one of these squares steps on a pressure plate that sinks 1 inch into the floor and remains in that position for 1 minute before resetting itself. A character who searches that section of floor before stepping on it must make a {@dc 13} Wisdom ({@skill Perception}) check. If the check is successful, the character spots the pressure plate and can avoid it. If the characters depress the two pressure plates here along with the one in G33, the north secret door in area G33 swings open."
 									]
 								},
 								{
@@ -14113,7 +14113,7 @@
 									"page": 99,
 									"id": "272",
 									"entries": [
-										"This maze is like the one in area G32, right down to the heavy breathing. The square marked T on {@adventure map 6.2|KftGV|6|Map 6.2: DM's map} contains a hidden pressure plate on the floor identical to the ones in area G32.",
+										"This maze is like the one in area G32, right down to the heavy breathing. The square marked T on {@area map 6.2|1f3|x} contains a hidden pressure plate on the floor identical to the ones in area G32.",
 										{
 											"type": "entries",
 											"name": "Secret Doors",
@@ -17372,7 +17372,7 @@
 											"page": 127,
 											"id": "322",
 											"entries": [
-												"When a creature steps on a square marked T on {@adventure map 8.2|KftGV|8|Map 8.2: DM's Map}, the statue closest to that square breathes magical fire, which fills the two squares between the statue and the door nearest to it. Any creature in that area must make a {@dc 15} Dexterity saving throw, taking 22 ({@dice 4d10}) fire damage on a failed save, or half as much damage on a successful one.",
+												"When a creature steps on a square marked T on {@area map 8.2|284|x}, the statue closest to that square breathes magical fire, which fills the two squares between the statue and the door nearest to it. Any creature in that area must make a {@dc 15} Dexterity saving throw, taking 22 ({@dice 4d10}) fire damage on a failed save, or half as much damage on a successful one.",
 												"As an action, a character can search a trapped area and make a {@dc 15} Intelligence ({@skill Investigation}) check. If this check succeeds, the character finds a tiny switch on the wall next to the nearest door. Flipping the switch temporarily disables whichever statue breathes fire toward that door. The trap reactivates 1 minute later."
 											]
 										},
@@ -17539,7 +17539,7 @@
 											"page": 128,
 											"id": "335",
 											"entries": [
-												"Two permanent {@spell silent image} spells have been cast over the pit, one on the east side and another on the west. The illusion on the west side depicts a bridge spanning the pit. The illusion on the east side shows an open pit, hiding a real bridge that can be used to safely cross. Touching the fake bridge (which is shown on {@adventure map 8.2|KftGV|8|Map 8.2: DM's Map}) reveals that it has no substance. Similarly, feeling around the pit for the real bridge reveals it in short order. Casting {@spell dispel magic} on either illusion ends it."
+												"Two permanent {@spell silent image} spells have been cast over the pit, one on the east side and another on the west. The illusion on the west side depicts a bridge spanning the pit. The illusion on the east side shows an open pit, hiding a real bridge that can be used to safely cross. Touching the fake bridge (which is shown on {@area map 8.2|284|x}) reveals that it has no substance. Similarly, feeling around the pit for the real bridge reveals it in short order. Casting {@spell dispel magic} on either illusion ends it."
 											]
 										},
 										{
@@ -23018,7 +23018,7 @@
 									]
 								},
 								"The priest is, in fact, a {@creature gray slaad} using its Change Shape ability to fool the characters. The slaad was sent here to kill them, plain and simple. It killed the real priest, stole his robes, and threw his body and holy symbol off the train.",
-								"The slaad works for an evil, multiverse-spanning organization called the Syndicate of Terror, Extortion, Assassination, and Larceny (STEAL), which has been spying on the characters for some time and wants their mission aboard the Concordant Express to fail. (This is doubly true if the characters are working for STEAL's rival, the Golden Vault.) If you're weaving multiple adventures from this anthology into your campaign, one or more villains from earlier adventures might have secret ties to this evil organization. Likely candidates (assuming they're still alive) include Quentin Togglepocket from \"{@adventure The Stygian Gambit|KftGV|2},\" Guildmaster Dusk from \"{@adventure Masterpiece Imbroglio|KftGV|6},\" and {@creature Nixylanna Vidorant|KftGV} from \"{@adventure Vidorant's Vault|KftGV|8}.\" If you're using the rivals described in this book's {@area introduction|00c|x}, their patron might be a STEAL operative.",
+								"The slaad works for an evil, multiverse-spanning organization called the Syndicate of Terror, Extortion, Assassination, and Larceny (STEAL), which has been spying on the characters for some time and wants their mission aboard the Concordant Express to fail. (This is doubly true if the characters are working for STEAL's rival, the Golden Vault.) If you're weaving multiple adventures from this anthology into your campaign, one or more villains from earlier adventures might have secret ties to this evil organization. Likely candidates (assuming they're still alive) include Quentin Togglepocket from \"{@area The Stygian Gambit|081|x},\" Guildmaster Dusk from \"{@area Masterpiece Imbroglio|1f4|x},\" and {@creature Nixylanna Vidorant|KftGV} from \"{@area Vidorant's Vault|2ea|x}.\" If you're using the rivals described in this book's {@area introduction|00c|x}, their patron might be a STEAL operative.",
 								"One of STEAL's operatives, having recently acquired the gray slaad's control gem, used the gem to command the slaad to slip aboard the Concordant Express and kill the characters on sight. The slaad loathes being surrounded by modrons on the train and fights to the death.",
 								{
 									"type": "entries",
@@ -23128,7 +23128,7 @@
 												{
 													"type": "item",
 													"name": "Cell 4",
-													"entry": "This cell contains a friendly {@creature erinyes} who recently helped an efreeti named Vrakir get his hands on the {@item Book of Vile Darkness (Variant)|KftGV|Book of Vile Darkness}. Speaking with this prisoner might kick off \"{@adventure Fire and Darkness|KftGV|13},\" another adventure in this book. {@creature The Stranger|KftGV} (see below) doesn't know this erinyes's true name."
+													"entry": "This cell contains a friendly {@creature erinyes} who recently helped an efreeti named Vrakir get his hands on the {@item Book of Vile Darkness (Variant)|KftGV|Book of Vile Darkness}. Speaking with this prisoner might kick off \"{@area Fire and Darkness|4c2|x},\" another adventure in this book. {@creature The Stranger|KftGV} (see below) doesn't know this erinyes's true name."
 												},
 												{
 													"type": "item",

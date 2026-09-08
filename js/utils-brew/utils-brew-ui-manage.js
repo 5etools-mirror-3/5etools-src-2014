@@ -336,6 +336,11 @@ export class ManageBrewUi {
 				await this.constructor.pOnClickBtnExportListAsUrl({ele: evt.currentTarget});
 			});
 
+		const btnSendToFoundry = ExtensionUtil.ACTIVE
+			? veT`<button class="ve-btn ve-btn-default ve-btn-sm" title="Send List to Foundry. Note that this does not include &quot;Editable&quot; or &quot;Local&quot; content."><span class="glyphicon glyphicon-send"></span></button>`
+				.vee.onn("click", () => this._pOnClickBtnSendListToFoundry({rdState}))
+			: null;
+
 		const wrpBtnLoadAll = this._brewUtil.IS_ADD_BTN_ALL_PARTNERED
 			? veT`<div class="ve-flex-v-center ve-btn-group ve-mr-2">
 				${btnLoadPartnered}
@@ -359,6 +364,7 @@ export class ManageBrewUi {
 
 				<div class="ve-flex-v-center ve-btn-group ve-mr-2">
 					${btnSaveToUrl}
+					${btnSendToFoundry}
 				</div>
 
 				<div class="ve-flex-v-center ve-btn-group">
@@ -455,6 +461,22 @@ export class ManageBrewUi {
 		if (nxtUrl == null) return;
 
 		await this._brewUtil.pSetCustomUrl(nxtUrl);
+	}
+
+	_pOnClickBtnSendListToFoundry ({rdState}) {
+		const urls = rdState.brews
+			.map(brew => brew.head.url)
+			.filter(Boolean)
+			.unique();
+		if (!urls.length) return JqueryUtil.doToast({type: "warning", content: `No ${this._brewUtil.DISPLAY_NAME} URLs available to send!`});
+
+		ExtensionUtil.pDoSend({
+			type: "5etools.manageContent.urls",
+			data: {
+				urls,
+				type: this._brewUtil.ID,
+			},
+		});
 	}
 
 	async _pRender_pBrewList (rdState) {
@@ -908,6 +930,7 @@ export class ManageBrewUi {
 			max: Number.MAX_SAFE_INTEGER,
 			isSearchable: true,
 			fnGetSearchText: getSourceAsText,
+			isSelectAll: true,
 		});
 		if (choices == null || choices.length === 0) return;
 		// endregion

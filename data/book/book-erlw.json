@@ -340,7 +340,7 @@
 									"credit": "Michael Komarck"
 								},
 								"Eberron is a world in need of heroes. Lingering tensions of war remain. From the fanatics of the Emerald Claw and the mad cults of the Dragon Below to the flesh-warping daelkyr and ancient archfiends, Eberron faces many threats, and few people besides the player characters are able to stop them. The gods are distant and don't directly intervene. The Silver Flame is a divine force of light, but it can act only through mortal champions. The few powerful benevolent NPCs have limitations: the Keeper of the Flame loses her powers if she leaves her citadel. The Great Druid, the spiritual leader of the Eldeen Reaches, is a tree. Most of the powerful people in the world focus on selfish goals. If an angry dragon attacks Sharn, there's no one else to deal with the problem: the fate of the city is in your hands.",
-								"Consider a dynamic backstory when developing your character and choosing your background, whether you take a background from the {@book Player's Handbook|PHB} or the house agent background in {@book chapter 1|ERLW|1} of this book. If you take the soldier background, you might have played a role in events of the last few years. What did you do during the Last War? What was your greatest triumph or defeat? If you're a spy, are you a prized agent or did you disavow your organization after they pushed you too far? Don't think of your character as a set of numbers: even at 1st level, you're remarkable in Eberron.",
+								"Consider a dynamic backstory when developing your character and choosing your background, whether you take a background from the {@book Player's Handbook|PHB} or the house agent background in {@area chapter 1|029|x} of this book. If you take the soldier background, you might have played a role in events of the last few years. What did you do during the Last War? What was your greatest triumph or defeat? If you're a spy, are you a prized agent or did you disavow your organization after they pushed you too far? Don't think of your character as a set of numbers: even at 1st level, you're remarkable in Eberron.",
 								{
 									"type": "inset",
 									"name": "DM Tip: High Stakes",
@@ -459,7 +459,7 @@
 												],
 												[
 													"2",
-													"You've got a gambling problem. If you can't repay Daask (see {@book chapter 3|ERLW|8|Daask}), you're going to be playing tag with a cockatrice."
+													"You've got a gambling problem. If you can't repay Daask (see {@area chapter 3|378|x}), you're going to be playing tag with a cockatrice."
 												],
 												[
 													"3",
@@ -467,7 +467,7 @@
 												],
 												[
 													"4",
-													"You were making a delivery on behalf of the Boromar Clan (see {@book chapter 3|ERLW|8|The Boromar Clan}) and you lost the merchandise."
+													"You were making a delivery on behalf of the Boromar Clan (see {@area chapter 3|377|x}) and you lost the merchandise."
 												],
 												[
 													"5",
@@ -525,7 +525,7 @@
 							"page": 9,
 							"id": "015",
 							"entries": [
-								"In a noir story, things don't necessarily end well. But any adventure carries a risk of death or failure, so what additional factors might be at risk for the characters? They should have something to lose beyond hit points, vulnerabilities not reflected in game statistics: fear of a tarnished reputation, a threat to a friend or lover, a favorite business destroyed or taken over. Character relationships require players to invest in the story and work best when the DM and player collaborate to develop details (the {@book group patrons|ERLW|4} in chapter 1 provide a framework for fleshing out such details).",
+								"In a noir story, things don't necessarily end well. But any adventure carries a risk of death or failure, so what additional factors might be at risk for the characters? They should have something to lose beyond hit points, vulnerabilities not reflected in game statistics: fear of a tarnished reputation, a threat to a friend or lover, a favorite business destroyed or taken over. Character relationships require players to invest in the story and work best when the DM and player collaborate to develop details (the {@area group patrons|194|x} in chapter 1 provide a framework for fleshing out such details).",
 								"A DM who introduces an old buddy who served with the player characters during the war could describe the person and then ask each player to define a connection to them. Present each player with a prompt: {@i Player one, how did Smitty save your life? Player two, you and Smitty were both in a prison camp; how did you escape?} The answers to these questions provide details to use in a campaign, and they give the players a personal investment, which makes it more significant when the Emerald Claw targets Smitty for assassination!"
 							]
 						}
@@ -539,7 +539,7 @@
 					"entries": [
 						"The Five Nations were built on a magical foundation. To them, magic is a form of science, which can be studied and taught. Nevertheless, few people possess the skill required to become a wizard or an artificer, and high-level magic remains rare. Resurrection and teleportation aren't part of everyday life, but citizens harness lesser effects and use them for the common good.",
 						"Artisans called magewrights provide much of this magic. Compared to a wizard or an artificer, a magewright's knowledge of magic is narrow: a locksmith might master the {@spell arcane lock} and {@spell knock} spells to supplement the use of physical tools; a magewright healer could cast {@spell lesser restoration} and {@spell cure wounds} in addition to using healer's kits and the {@skill Medicine} skill. A magewright's casting is also slow and expensive: they typically cast their spells as rituals. They are artisans, not adventurers, and the prosperity of the Five Nations was built on their foundation.",
-						"Game statistics are given for magewrights in {@book chapter 6|ERLW|13}, including how much it costs them to cast a spell of 1st level or higher. In chapter 2, prices are given for magewright services in the city of Sharn, but those prices can be used elsewhere in the world as well.",
+						"Game statistics are given for magewrights in {@area chapter 6|513|x}, including how much it costs them to cast a spell of 1st level or higher. In chapter 2, prices are given for magewright services in the city of Sharn, but those prices can be used elsewhere in the world as well.",
 						{
 							"type": "entries",
 							"name": "Dragonmarked Dynasties",
@@ -548,7 +548,7 @@
 							"entries": [
 								"Powerful dynastic guilds dominate and regulate the magical economy. The dragonmarked houses include barons of industry whose influence rivals that of monarchs. Their power derives from their dragonmarks: magical sigils passed down through their bloodlines. For example, House Jorasco dominates the medical trade with its Mark of Healing, while only someone with House Lyrandar's Mark of Storms can pilot an airship.",
 								"Even independent businesses are typically licensed by a house and conform to the standards it sets. Not every tavern is run by House Ghallanda, but the Ghallanda seal in the corner of an inn sign assures customers that the establishment meets health and safety standards.",
-								"{@book Chapter 1|ERLW|2} contains more details about dragonmarks and the dragonmarked houses, along with rules for creating dragonmarked characters."
+								"{@area Chapter 1|0d4|x} contains more details about dragonmarks and the dragonmarked houses, along with rules for creating dragonmarked characters."
 							]
 						},
 						{
@@ -559,7 +559,7 @@
 							"entries": [
 								"The Courier's Guild of House Orien operates a mail service, carrying messages and packages across Khorvaire by horse and the house's lightning rail. Sending a letter by mail is inexpensive; sending a package or a message by way of a courier is more secure but more expensive.",
 								"If security is particularly important, House Sivis can protect written messages using magic, such as the {@spell illusory script} spell, and House Kundarak can secure packages with the {@spell glyph of warding} spell.",
-								"The gnomes of House Sivis also maintain a network of {@item speaking stone|ERLW|speaking stones} (described in {@book chapter 5|ERLW|12}) to facilitate instantaneous communication across long distances. Short messages pass from one stone to another one within a network of message stations.",
+								"The gnomes of House Sivis also maintain a network of {@item speaking stone|ERLW|speaking stones} (described in {@area chapter 5|4d3|x}) to facilitate instantaneous communication across long distances. Short messages pass from one stone to another one within a network of message stations.",
 								"The Communication and Security Services table shows typical prices.",
 								{
 									"type": "table",
@@ -611,7 +611,7 @@
 							"page": 10,
 							"id": "019",
 							"entries": [
-								"In the cities of Khorvaire, magic provides a host of minor conveniences. {@item Everbright lantern|ERLW|Everbright lanterns} (described in {@book chapter 5|ERLW|12}) light the streets. A chef heats a pot of stew with a whispered incantation, while magic amplifies a town crier's voice. The various effects produced by {@spell prestidigitation}\u2014heating, cooling, cleaning, and minor illusion\u2014all enhance daily life in the cities."
+								"In the cities of Khorvaire, magic provides a host of minor conveniences. {@item Everbright lantern|ERLW|Everbright lanterns} (described in {@area chapter 5|4d3|x}) light the streets. A chef heats a pot of stew with a whispered incantation, while magic amplifies a town crier's voice. The various effects produced by {@spell prestidigitation}\u2014heating, cooling, cleaning, and minor illusion\u2014all enhance daily life in the cities."
 							]
 						},
 						{
@@ -1018,7 +1018,7 @@
 							"page": 19,
 							"id": "03b",
 							"entries": [
-								"The dwarves of the Mror Holds are defined in part by their relationship to the ancient Realm Below. In a desperate effort to rediscover and reclaim the holdings of their old nation, the dwarves have recovered many weapons of war created in the final days of the empire. Some of these weapons were forged by the dwarves to wield against the daelkyr, but others were made by the daelkyr for the use of their minions\u2014strange symbiotic items (some of which appear in {@book chapter 5|ERLW|12}) that use the life force of their hosts to power their magical abilities.",
+								"The dwarves of the Mror Holds are defined in part by their relationship to the ancient Realm Below. In a desperate effort to rediscover and reclaim the holdings of their old nation, the dwarves have recovered many weapons of war created in the final days of the empire. Some of these weapons were forged by the dwarves to wield against the daelkyr, but others were made by the daelkyr for the use of their minions\u2014strange symbiotic items (some of which appear in {@area chapter 5|4d3|x}) that use the life force of their hosts to power their magical abilities.",
 								"Some clans have banned the use of these symbiotic weapons and any exploration of daelkyr magic, notably the prominent Clan Mroranon. Others, particularly Clan Soldorak, have embraced this magic to use against the daelkyr. Defining a relationship to these discoveries can be an important element of your character's background; you might be a Mroranon paladin or ranger dedicated to expunging any trace of daelkyr magic from the Realm Below, or a Soldorak warlock drawing on the magic of Xoriat in pursuit of your own power, as well as glory for your clan.",
 								"Another important question to consider in playing a Mrorian character is why you have left the Holds. The Leaving the Mror Holds table offers some suggestions that might spark further ideas.",
 								{
@@ -1201,7 +1201,7 @@
 							"id": "045",
 							"entries": [
 								"The Mark of Shadow first appeared among the elves of the Phiarlan line, and the house quickly turned the mark's powers of shadow and illusion into an economic dynasty. The suspicion of their kin drove them from Aerenal to Khorvaire, and the house splintered during the Last War, giving rise to House Thuranni. The two houses of shadow control the business of espionage throughout Khorvaire, but they also operate more legitimate ventures related to art and entertainment.",
-								"Phiarlan blood still runs among some of the Aereni elves, and the Mark of Shadow appears once or twice in each elven generation. Elves bearing this mark are always inducted into the elite force of the Cairdal Blades\u2014an espionage agency in the service of Aerenal's Sibling Kings (see {@book chapter 2|ERLW|6|Aerenal})."
+								"Phiarlan blood still runs among some of the Aereni elves, and the Mark of Shadow appears once or twice in each elven generation. Elves bearing this mark are always inducted into the elite force of the Cairdal Blades\u2014an espionage agency in the service of Aerenal's Sibling Kings (see {@area chapter 2|2c9|x})."
 							]
 						}
 					]
@@ -1259,7 +1259,7 @@
 										],
 										[
 											"5",
-											"You've acquired a {@item spellshard|ERLW} (described in {@book chapter 5|ERLW|12}) that contains a vast amount of text in a strange code."
+											"You've acquired a {@item spellshard|ERLW} (described in {@area chapter 5|4d3|x}) that contains a vast amount of text in a strange code."
 										],
 										[
 											"6",
@@ -1373,7 +1373,7 @@
 							"page": 24,
 							"id": "04e",
 							"entries": [
-								"The Ghaal'dar tribes arose from the remnants of the Dhakaani Empire. Hobgoblins are the leaders of the Ghaal'dar, enforcing their will on their goblin and bugbear peers. The history of the Ghaal'dar is filled with strife; when they weren't fighting Galifar or Zilargo, the tribes usually turned on one another. This came to an end with the Last War. House Deneith hired Ghaal'dar mercenaries, and this gave focus to the divided tribes. A brilliant hobgoblin, Haruuc, united the Ghaal'dar, and under his leadership they seized control of what is now Darguun (see {@book chapter 2|ERLW|5}). The aging Lhesh Haruuc remains as the ruler of Darguun, and many fear that his death could throw the region into chaos.",
+								"The Ghaal'dar tribes arose from the remnants of the Dhakaani Empire. Hobgoblins are the leaders of the Ghaal'dar, enforcing their will on their goblin and bugbear peers. The history of the Ghaal'dar is filled with strife; when they weren't fighting Galifar or Zilargo, the tribes usually turned on one another. This came to an end with the Last War. House Deneith hired Ghaal'dar mercenaries, and this gave focus to the divided tribes. A brilliant hobgoblin, Haruuc, united the Ghaal'dar, and under his leadership they seized control of what is now Darguun (see {@area chapter 2|231|x}). The aging Lhesh Haruuc remains as the ruler of Darguun, and many fear that his death could throw the region into chaos.",
 								"As a Ghaal'dar goblinoid, you hold your place through cunning and strength. You may have been a former mercenary now seeking adventure. You could be working as an emissary for one of the Ghaal'dar tribes or even Lhesh Haruuc himself. Or you could have been driven from your tribe by the actions of a rival; perhaps you're seeking allies to reclaim your birthright."
 							]
 						},
@@ -1669,7 +1669,7 @@
 							"by": "Kessler, bard of Sharn"
 						},
 						"The first human settlers came to Khorvaire about 3,000 years ago, landing in the area now known as the Lhazaar Principalities. From there, they began a slow but inexorable spread across the continent, disrupting the placid elven empire of Aerenal and leaving further ruined remnants of fallen Dhakaani goblin kingdoms in their wake. During this migration, they founded the settlements that would grow into the Five Nations. Even today humans make up the majority of the population in these countries. Despite their relatively short lifespans\u2014or perhaps because of them\u2014humans are innovative, adaptable, and aggressive, always pushing their limits and pursuing new ideas.",
-						"Humans prove extremely diverse; a barbarian from the Demon Wastes has little in common with a Brelish rogue. When creating a human character, consider where you're from and how that's reflected in your class and background. {@book Chapter 2|ERLW|5} presents an overview of the nations of Khorvaire and ideas for characters tied to those lands. Aundair is a logical place of origin for a wizard character, but your wizard could be a down-and-out arcanist from the alleys of Sharn or a Lhazaar pirate with a knack for the mystic arts.",
+						"Humans prove extremely diverse; a barbarian from the Demon Wastes has little in common with a Brelish rogue. When creating a human character, consider where you're from and how that's reflected in your class and background. {@area Chapter 2|231|x} presents an overview of the nations of Khorvaire and ideas for characters tied to those lands. Aundair is a logical place of origin for a wizard character, but your wizard could be a down-and-out arcanist from the alleys of Sharn or a Lhazaar pirate with a knack for the mystic arts.",
 						"If you want to jump-start your ideas for a human character's origins, you can roll on the Human Origins table.",
 						{
 							"type": "table",
@@ -2006,7 +2006,7 @@
 									]
 								},
 								"So, if you're making an elf character, you can choose to take the Mark of Shadow instead of being a wood elf or a high elf.",
-								"There is another option related to dragonmarks if your group uses feats: the Aberrant Dragonmark feat (see {@book below|ERLW|2|Feat: Aberrant Dragonmark}) grants potentially dangerous magical abilities. Aberrant dragonmarks aren't tied to the dragonmark houses and can be taken by a character of any race.",
+								"There is another option related to dragonmarks if your group uses feats: the Aberrant Dragonmark feat (see {@area below|144|x}) grants potentially dangerous magical abilities. Aberrant dragonmarks aren't tied to the dragonmark houses and can be taken by a character of any race.",
 								{
 									"type": "table",
 									"caption": "Dragonmarks and Their Houses",
@@ -2126,7 +2126,7 @@
 							"entries": [
 								"Each dragonmark grants a set of abilities that reflect the inherent powers of the mark. Your dragonmarked race gives you a set of traits derived from the magic of your mark. If you are a spellcaster, your dragonmark also fuels or channels some of your spells. Each dragonmark's description includes a list of dragonmark spells that flow from the magic of the mark. If you play a character with the Spellcasting or the Pact Magic class feature, your dragonmark spells are added to the spell list for each of your spellcasting classes, thereby expanding the spell options available to you.",
 								"You might also consider your dragonmark the source of any or all of your spells or class features. As a cleric with the Mark of Healing, for example, you could say your mark is the sole source of the healing and supportive spells you cast, or your magic might come from a combination of your mark's power and your faith in the gods. As a warlock, your aberrant dragonmark might actually be your fiendish patron, the source of all your magic. These descriptions add flavor to your character but don't change your character's abilities, beyond the dragonmark spells added to your spell list.",
-								"Over the centuries, the houses have developed tools that enhance and channel the powers of a mark, and these items (some appear in {@book chapter 5|ERLW|12}) give the houses much of their economic power."
+								"Over the centuries, the houses have developed tools that enhance and channel the powers of a mark, and these items (some appear in {@area chapter 5|4d3|x}) give the houses much of their economic power."
 							]
 						},
 						{
@@ -3505,43 +3505,43 @@
 									"rows": [
 										[
 											"1",
-											"{@b Crime}. You have to break the law to administer justice or thwart a criminal act (see \"{@book Crime Syndicate|ERLW|4|Crime Syndicate}\")."
+											"{@b Crime}. You have to break the law to administer justice or thwart a criminal act (see \"{@area Crime Syndicate|1a7|x}\")."
 										],
 										[
 											"2",
-											"{@b Dragonmarked Affairs}. The job involves some dragonmarked house concern (see \"{@book Dragonmarked House|ERLW|4|Dragonmarked House}\")."
+											"{@b Dragonmarked Affairs}. The job involves some dragonmarked house concern (see \"{@area Dragonmarked House|1b6|x}\")."
 										],
 										[
 											"3",
-											"{@b Espionage}. Someone requires some spying or sabotage (see \"{@book Espionage Agency|ERLW|4|Espionage Agency}\")."
+											"{@b Espionage}. Someone requires some spying or sabotage (see \"{@area Espionage Agency|1c3|x}\")."
 										],
 										[
 											"4",
-											"{@b Statecraft}. You're involved in national or international affairs (see \"{@book Head of State|ERLW|4|Head of State}\")."
+											"{@b Statecraft}. You're involved in national or international affairs (see \"{@area Head of State|1d2|x}\")."
 										],
 										[
 											"5",
-											"{@b Cryptic Mystery}. The job is linked to the concerns of immortals (see \"{@book Immortal Being|ERLW|4|Immortal Being}\")."
+											"{@b Cryptic Mystery}. The job is linked to the concerns of immortals (see \"{@area Immortal Being|1de|x}\")."
 										],
 										[
 											"6",
-											"{@b Investigation}. An assignment involves finding something or solving a mystery (see \"{@book Inquisitive Agency|ERLW|4|Inquisitive Agency}\")."
+											"{@b Investigation}. An assignment involves finding something or solving a mystery (see \"{@area Inquisitive Agency|1eb|x}\")."
 										],
 										[
 											"7",
-											"{@b Military Action}. Your party is invited to serve as a military unit (see \"{@book Military Force|ERLW|4|Military Force}\")."
+											"{@b Military Action}. Your party is invited to serve as a military unit (see \"{@area Military Force|1f7|x}\")."
 										],
 										[
 											"8",
-											"{@b Gathering News}. You're called on to act as freelance reporters (see \"{@book Newspaper|ERLW|4|Newspaper}\")."
+											"{@b Gathering News}. You're called on to act as freelance reporters (see \"{@area Newspaper|206|x}\")."
 										],
 										[
 											"9",
-											"{@b Religious Work}. The job involves the work of faith (see \"{@book Religious Order|ERLW|4|Religious Order}\")."
+											"{@b Religious Work}. The job involves the work of faith (see \"{@area Religious Order|218|x}\")."
 										],
 										[
 											"10",
-											"{@b Field Research}. The job involves research or relic-hunting (see \"{@book University|ERLW|4|University}\")."
+											"{@b Field Research}. The job involves research or relic-hunting (see \"{@area University|225|x}\")."
 										]
 									]
 								},
@@ -3575,7 +3575,7 @@
 							"page": 68,
 							"id": "1a8",
 							"entries": [
-								"The Boromar Clan is the most powerful criminal organization in the city of Sharn. From its humble start as a gang of smugglers and thieves, the Boromars have risen to become one of the most influential forces in the city. They have a stranglehold on the smuggling trade and own the majority of the gambling halls in the city, while most of the fences and thieves in Sharn either work directly for the them or pay tribute in exchange for independence. The Boromars control a vast network of extortion, blackmail, and graft that extends throughout the city, and their influence reaches far beyond the criminal underworld. The early Boromar patriarchs invested wisely over the centuries, and today the Boromars are one of the Sixty, the elite tier of Sharn's aristocracy. The Boromar Clan owns warehouses, taverns, and inns throughout the city, and it has a considerable interest in the shipping trade. A Boromar heir sits on the city council of Sharn, and the current head of the clan is a member of the Gold Concord of the Aurum (described in {@book chapter 4|ERLW|11|The Boromar Clan}).",
+								"The Boromar Clan is the most powerful criminal organization in the city of Sharn. From its humble start as a gang of smugglers and thieves, the Boromars have risen to become one of the most influential forces in the city. They have a stranglehold on the smuggling trade and own the majority of the gambling halls in the city, while most of the fences and thieves in Sharn either work directly for the them or pay tribute in exchange for independence. The Boromars control a vast network of extortion, blackmail, and graft that extends throughout the city, and their influence reaches far beyond the criminal underworld. The early Boromar patriarchs invested wisely over the centuries, and today the Boromars are one of the Sixty, the elite tier of Sharn's aristocracy. The Boromar Clan owns warehouses, taverns, and inns throughout the city, and it has a considerable interest in the shipping trade. A Boromar heir sits on the city council of Sharn, and the current head of the clan is a member of the Gold Concord of the Aurum (described in {@area chapter 4|44c|x}).",
 								"As much as some members of the Sharn Council and the Watch would like to see the Boromars disbanded, the syndicate is unlikely to collapse any time soon.",
 								{
 									"type": "entries",
@@ -4201,7 +4201,7 @@
 											"id": "1bf",
 											"entries": [
 												"As a patron, the Twelve is functionally similar to a dragonmarked house. Rather than advancing one house's interests, though, the Twelve seeks to advance magical developments that have practical value to society as well as potential for profit. All the houses contribute to the operating budget of the institute, and in theory they all benefit from the results of its research.",
-												"As agents of the Twelve, you might undertake missions intended to help one house at a time or all of them at once, typically with a focus on magical research or problem-solving. Members of your group might have different status within their houses, but within the Twelve you're held as equals. The Twelve pay you (see \"{@book Patron Benefits|ERLW|4|Patron Benefits}\"), and as their agents, you receive a 5 percent discount on services from all the dragonmarked houses (rather than a 10 percent discount from one house)."
+												"As agents of the Twelve, you might undertake missions intended to help one house at a time or all of them at once, typically with a focus on magical research or problem-solving. Members of your group might have different status within their houses, but within the Twelve you're held as equals. The Twelve pay you (see \"{@area Patron Benefits|1ad|x}\"), and as their agents, you receive a 5 percent discount on services from all the dragonmarked houses (rather than a 10 percent discount from one house)."
 											]
 										},
 										{
@@ -6664,7 +6664,7 @@
 					],
 					"by": "Lyrian Das, Morgrave historian"
 				},
-				"Most player characters begin their adventures on the continent of Khorvaire, as shown on the poster map included with this book and on {@book map 2.1|ERLW|5|Map 2.1: The Continent of Khorvaire}. Although humans make up the majority of the population in the nations of Khorvaire, the continent is home to a wide range of peoples and cultures. Once largely unified under the Kingdom of Galifar, today Khorvaire is split into many nations\u2014some old, others newly born from the crucible of war. This chapter provides an overview of Khorvaire, a glimpse of the world that lies beyond it, and the predominant faiths of Eberron.",
+				"Most player characters begin their adventures on the continent of Khorvaire, as shown on the poster map included with this book and on {@area map 2.1|059|x}. Although humans make up the majority of the population in the nations of Khorvaire, the continent is home to a wide range of peoples and cultures. Once largely unified under the Kingdom of Galifar, today Khorvaire is split into many nations\u2014some old, others newly born from the crucible of war. This chapter provides an overview of Khorvaire, a glimpse of the world that lies beyond it, and the predominant faiths of Eberron.",
 				{
 					"type": "image",
 					"href": {
@@ -6726,7 +6726,7 @@
 									"type": "list",
 									"items": [
 										"Arcanix is the most prestigious academy of magic in Khorvaire. Most of its sages specialize in ritual magic and abstract theory, and don't have the full powers of wizards.",
-										"Magic permeates many aspects of Aundairian life\u2014more so than other nations. A {@item cleansing stone|ERLW} (see {@book chapter 5|ERLW|12}) graces every village, and you might encounter animated farming equipment in the fields. The Knights Arcane are an elite unit of eldritch knights, and the spies of the Royal Eyes of Aundair specialize in divination magic.",
+										"Magic permeates many aspects of Aundairian life\u2014more so than other nations. A {@item cleansing stone|ERLW} (see {@area chapter 5|4d3|x}) graces every village, and you might encounter animated farming equipment in the fields. The Knights Arcane are an elite unit of eldritch knights, and the spies of the Royal Eyes of Aundair specialize in divination magic.",
 										"Some Aundairian nobles are bound by arcane pacts handed down through generations. Only remarkable heirs\u2014such as player characters\u2014develop into warlocks. Most such lines have an Archfey patron."
 									]
 								}
@@ -6741,7 +6741,7 @@
 								"Regardless of your Intelligence score, as an Aundairian you're sure you're the smartest person in the room. Consider the following characteristics for your Aundairian:",
 								"{@b Arcane Talent}. If you're not going to play a magic-using class, consider creating a high elf or a human with the Magic Initiate feat. Whether you favor damage-dealing cantrips or more utilitarian ones, every Aundairian should know a little magic.",
 								"{@b Magic Beats Mundane}. Why use your hand when you could use {@spell mage hand}? Why strain your muscles tugging on a bowstring when you could use a wand?",
-								"{@b Show Some Style}. Don't settle for common clothes and a squalid meal when you could wear {@item glamerweave|ERLW} (see {@book chapter 5|ERLW|12}) and drink the finest wine. If you're a fighter, focus on finesse instead of crude strength. And never miss an opportunity for a clever quip."
+								"{@b Show Some Style}. Don't settle for common clothes and a squalid meal when you could wear {@item glamerweave|ERLW} (see {@area chapter 5|4d3|x}) and drink the finest wine. If you're a fighter, focus on finesse instead of crude strength. And never miss an opportunity for a clever quip."
 							]
 						},
 						{
@@ -6848,7 +6848,7 @@
 									"type": "list",
 									"items": [
 										"Sharn is the largest city in Khorvaire. Almost a nation in its own right, the City of Towers is a hub for commerce and intrigue. Chapter 3 provides more information on Sharn.",
-										"The Boromar Clan is the oldest and most powerful criminal organization in Breland. The Boromar halfling leadership maintains ties to the Talenta Plains. Other notable criminal organizations include the monsters of Daask and House Tarkanan, an alliance of assassins and thieves with aberrant dragonmarks (see {@book chapter 4|ERLW|11|Crime in Sharn} for more about these crime syndicates).",
+										"The Boromar Clan is the oldest and most powerful criminal organization in Breland. The Boromar halfling leadership maintains ties to the Talenta Plains. Other notable criminal organizations include the monsters of Daask and House Tarkanan, an alliance of assassins and thieves with aberrant dragonmarks (see {@area chapter 4|44a|x} for more about these crime syndicates).",
 										"Breland's major cities are highly cosmopolitan. Due to its proximity to Droaam, Breland's cities include more monsters\u2014ogres, orcs, goblins, and even sahuagin, harpies, and gargoyles\u2014than elsewhere in the Five Nations."
 									]
 								}
@@ -6990,7 +6990,7 @@
 									"type": "list",
 									"items": [
 										"Cyre was the ancestral seat of the dragonmarked House Cannith, the house of Making. The house maintained arcane workshops across Cyre. Who knows what treasures wait in Cannith vaults for those who brave the dangers of the Mournland?",
-										"While not as flamboyant as Aundairians, Cyran fashions involved bright colors and {@item glamerweave|ERLW} (see {@book chapter 5|ERLW|12}). Some Cyrans have made a point of continuing this custom. Others wear clothing cut in the Cyran style, but entirely in black; this has become known as Mourning wear.",
+										"While not as flamboyant as Aundairians, Cyran fashions involved bright colors and {@item glamerweave|ERLW} (see {@area chapter 5|4d3|x}). Some Cyrans have made a point of continuing this custom. Others wear clothing cut in the Cyran style, but entirely in black; this has become known as Mourning wear.",
 										"Stories say communities of warforged live in the Mournland, including the insurgent called {@creature the Lord of Blades|ERLW}."
 									]
 								}
@@ -7014,14 +7014,14 @@
 							"page": 110,
 							"id": "24c",
 							"entries": [
-								"Cyre was devastated by the Mourning. Its ruins have become grim reminders of the folly of war. Unknown threats both magical and monstrous haunt the Mournland. For more about the Mournland as it stands now, see {@book chapter 4|ERLW|5|Cyre (The Mournland)}.",
+								"Cyre was devastated by the Mourning. Its ruins have become grim reminders of the folly of war. Unknown threats both magical and monstrous haunt the Mournland. For more about the Mournland as it stands now, see {@area chapter 4|249|x}.",
 								{
 									"type": "entries",
 									"name": "Eston",
 									"page": 110,
 									"id": "24d",
 									"entries": [
-										"Once the seat of House Cannith, this was a place of wonders\u2014a city where \"magic comes to life.\" Marvels of the city included the Clockwork Menagerie, showcasing the golems and homunculi made by generations of artificers; production facilities that housed three creation forges (see {@book chapter 5|ERLW|12}), and the miraculous Steel Gardens, an early breakthrough that paved the way for the living warforged. If you're an artificer or have ties to House Cannith, you might have roots in Eston."
+										"Once the seat of House Cannith, this was a place of wonders\u2014a city where \"magic comes to life.\" Marvels of the city included the Clockwork Menagerie, showcasing the golems and homunculi made by generations of artificers; production facilities that housed three creation forges (see {@area chapter 5|4d3|x}), and the miraculous Steel Gardens, an early breakthrough that paved the way for the living warforged. If you're an artificer or have ties to House Cannith, you might have roots in Eston."
 									]
 								},
 								{
@@ -7068,7 +7068,7 @@
 						"{@b Hallmarks}: Dungeons, goblinoid mercenaries, ruins",
 						"Goblins and their kin have always been part of Khorvaire. Their ancient empire spread across the lands now held by other nations, and goblin foundations still stand underneath many human cities. This empire collapsed into savagery, and when humans arrived from Sarlona, they drove the goblins from their ancestral lands. Thus, goblins have long been a disenfranchised people, living in the shadows of newer nations or in wild lands shunned by humans.",
 						"The land now called Darguun was once part of Cyre. The hobgoblin clans known as the Ghaal'dar were based in the Seawall Mountains, but during the war, the demand for mercenaries drew an ever-increasing number of goblins out of the mountains to fight for Cyre and Breland. Late in the war, a brilliant hobgoblin named Lhesh Haruuc Sharaat'kor recognized that the goblins had become the dominant military power in the region. Uniting the Ghaal'dar under his banner, Haruuc seized the territory he was supposed to protect. The Five Nations were unprepared, and Breland quickly negotiated an alliance with Haruuc to secure the border. Cyre fought the goblins until the Day of Mourning, but the majority of delegates involved in forging the Treaty of Thronehold chose to recognize the new nation of Darguun to ensure peace.",
-						"Darguun is a young and volatile nation, ruled by Lhesh Haruuc Sharaat'kor. Haruuc remains a brilliant strategist and tactician, but many wonder whether he can maintain the web of alliances that hold the Ghaal'dar together, and whether he and his people will be content to abide by the terms of the treaty. Other goblins still hidden in the mountains\u2014the enigmatic Heirs of Dhakaan (see {@book chapter 4|ERLW|9|Goblinoids (Heirs of Dhakaan)})\u2014could pose a threat both to the goblins and the rest of Khorvaire.",
+						"Darguun is a young and volatile nation, ruled by Lhesh Haruuc Sharaat'kor. Haruuc remains a brilliant strategist and tactician, but many wonder whether he can maintain the web of alliances that hold the Ghaal'dar together, and whether he and his people will be content to abide by the terms of the treaty. Other goblins still hidden in the mountains\u2014the enigmatic Heirs of Dhakaan (see {@area chapter 4|3c6|x})\u2014could pose a threat both to the goblins and the rest of Khorvaire.",
 						"Traditionally, the Ghaal'dar worshiped a form of the Dark Six. House Deneith introduced the Sovereign Host to the region, and some goblins have embraced this faith, especially the gods Dol Dorn, Dol Arrah, and Balinor.",
 						{
 							"type": "entries",
@@ -7394,7 +7394,7 @@
 									"type": "list",
 									"items": [
 										"The Towering Wood is vast and untamed. The Wardens of the Wood seek to protect travelers, but swathes of forest remain entirely untouched by human or shifter. Such areas could hold giant beasts never seen in the outside world, or relics from a previous age\u2014artifacts or ruins created by demons or the terrifying daelkyr.",
-										"The fey have a strong presence in the Towering Wood. Even outside the fey stronghold of the Twilight Demesne, manifest zones tied to Thelanis (see {@book chapter 4|ERLW|5|Eldeen Reaches}) allow passage between worlds. The Eldeen Reaches are a logical origin for a character with ties to the fey.",
+										"The fey have a strong presence in the Towering Wood. Even outside the fey stronghold of the Twilight Demesne, manifest zones tied to Thelanis (see {@area chapter 4|26c|x}) allow passage between worlds. The Eldeen Reaches are a logical origin for a character with ties to the fey.",
 										"Druidic magic is a vital tool in the Eldeen Reaches. Residents use animal messengers to carry communications between villages, and beasts perform vital services. {@spell Goodberry} wine takes the place of House Vadalis healing. Communities include awakened animals and plants as members."
 									]
 								}
@@ -7425,7 +7425,7 @@
 									"page": 116,
 									"id": "270",
 									"entries": [
-										"This region of the Towering Wood has strong ties to the sinister Plane of Mabar (see {@book chapter 4|ERLW|10}). It's charged with negative energy, and undead and other malevolent creatures lurk in its shadows."
+										"This region of the Towering Wood has strong ties to the sinister Plane of Mabar (see {@area chapter 4|3cd|x}). It's charged with negative energy, and undead and other malevolent creatures lurk in its shadows."
 									]
 								},
 								{
@@ -7443,7 +7443,7 @@
 									"page": 116,
 									"id": "272",
 									"entries": [
-										"Located within the Towering Wood, the Twilight Demesne has close ties to the Faerie Court of Thelanis (see {@book chapter 4|ERLW|10}). Fey abound in this forest, and those who wander within may stumble upon the City of Rose and Thorn, the domain of a powerful archfey called the King of Summer. If you're playing a character with ties to the fey, the Twilight Demesne could be your home."
+										"Located within the Towering Wood, the Twilight Demesne has close ties to the Faerie Court of Thelanis (see {@area chapter 4|3cd|x}). Fey abound in this forest, and those who wander within may stumble upon the City of Rose and Thorn, the domain of a powerful archfey called the King of Summer. If you're playing a character with ties to the fey, the Twilight Demesne could be your home."
 									]
 								},
 								{
@@ -7725,7 +7725,7 @@
 							"credit": "John Avon"
 						},
 						"In the early days of the Last War, Mror miners made an astonishing discovery: the ruins of an ancient dwarven empire, vast halls deep within the Ironroot Mountains. Explorers uncovered mines still brimming with jewels and precious ores and vaults filled with riches and powerful artifacts. The Mror restored these ancient fortresses and worked to reclaim the secrets of their ancestors. Seeing the untapped potential of the Realm Below and the broken Kingdom of Galifar, the clan lords joined together to form the Iron Council and to declare the independence and sovereignty of the Mror Holds.",
-						"One question remained: What had become of the ancient dwarves? The answer soon became apparent. As the Mror delved deeper into the Realm Below, they woke an ancient evil: {@creature Dyrrn|ERLW} the Corruptor, a daelkyr lord of madness. Hordes of aberrations and derro rose from the depths to challenge the explorers. For decades, the Mror lords have been fighting a battle in the depths, struggling to drive the darkness from their ancestral halls. Many dwarves revile anything to do with the daelkyr. Others believe that the daelkyr can grant the Mror dwarves the power to overcome any enemy. Some clans have taken up symbionts and living weapons recovered from the depths, and cabals of warlocks draw on the power of the Plane of Xoriat (see {@book chapter 4|ERLW|10}).",
+						"One question remained: What had become of the ancient dwarves? The answer soon became apparent. As the Mror delved deeper into the Realm Below, they woke an ancient evil: {@creature Dyrrn|ERLW} the Corruptor, a daelkyr lord of madness. Hordes of aberrations and derro rose from the depths to challenge the explorers. For decades, the Mror lords have been fighting a battle in the depths, struggling to drive the darkness from their ancestral halls. Many dwarves revile anything to do with the daelkyr. Others believe that the daelkyr can grant the Mror dwarves the power to overcome any enemy. Some clans have taken up symbionts and living weapons recovered from the depths, and cabals of warlocks draw on the power of the Plane of Xoriat (see {@area chapter 4|3cd|x}).",
 						"The Mror Holds consist of a loose confederation. Twelve noble clans each govern a hold and have a representative on the Iron Council, which resolves disputes and issues affecting the entire nation. Each hold includes a number of lesser clans, who owe fealty to the noble line. Those who occupy land above have the right to claim the halls that lie below if they can.",
 						"The Sovereign Host is the dominant faith of the Mror Holds. Kol Korran is the most beloved of the Sovereigns, but the dwarves also revere Boldrei, Dol Dorn, Olladra, and Onatar.",
 						{
@@ -7845,7 +7845,7 @@
 					"entries": [
 						"{@b Capital}: Newthrone",
 						"{@b Hallmarks}: Eberron dragonshards, rare herbs",
-						"Q'barra is a young nation on the edge of Khorvaire, an untamed frontier filled with danger and opportunity. During the golden age of Galifar, few humans bothered to cross the Endworld Mountains to explore the vast jungle beyond. When the Last War broke out, a fleet of settlers came to Q'barra in search of a new home far from the war. As this settlement expanded, the settlers discovered massive deposits of Eberron dragonshards (see {@book chapter 5|ERLW|12}). Over the past decade, a wave of prospectors, wandslingers, refugees, and fortune-seekers have descended on Q'barra, along with brigands, deserters from the war, and all manner of criminals and opportunists.",
+						"Q'barra is a young nation on the edge of Khorvaire, an untamed frontier filled with danger and opportunity. During the golden age of Galifar, few humans bothered to cross the Endworld Mountains to explore the vast jungle beyond. When the Last War broke out, a fleet of settlers came to Q'barra in search of a new home far from the war. As this settlement expanded, the settlers discovered massive deposits of Eberron dragonshards (see {@area chapter 5|4d3|x}). Over the past decade, a wave of prospectors, wandslingers, refugees, and fortune-seekers have descended on Q'barra, along with brigands, deserters from the war, and all manner of criminals and opportunists.",
 						"To their surprise, Q'barra was already home to a number of ancient civilizations humans know nothing about: the lizardfolk of the Cold Sun Federation, the dragonborn of Ka'rhashan, and the confederacy of the Poison Dusk lizardfolk. Most settlers refer to them collectively as \"scales.\" King Sebastes ir'Kesslan of Newthrone has established a treaty with the Cold Sun Federation, but communication has been difficult and prospectors rarely abide by the terms of the treaty.",
 						{
 							"type": "entries",
@@ -7971,7 +7971,7 @@
 							"page": 124,
 							"id": "29e",
 							"entries": [
-								"The clans of the Shadow Marches primarily live in small towns and villages, their huts raised above the swamps on stilts. The Shadow Marches contain many manifest zones tied to Xoriat and Kythri (see {@book chapter 4|ERLW|10} for descriptions of both), the planes of madness and chaos. Time moves strangely in places in the deep swamps, which twists mundane beasts and plants into strange shapes. Daelkyr ruins linger in these areas, remnants of the ancient war against the goblins and orcs that once dominated Khorvaire.",
+								"The clans of the Shadow Marches primarily live in small towns and villages, their huts raised above the swamps on stilts. The Shadow Marches contain many manifest zones tied to Xoriat and Kythri (see {@area chapter 4|3cd|x} for descriptions of both), the planes of madness and chaos. Time moves strangely in places in the deep swamps, which twists mundane beasts and plants into strange shapes. Daelkyr ruins linger in these areas, remnants of the ancient war against the goblins and orcs that once dominated Khorvaire.",
 								{
 									"type": "entries",
 									"name": "Dragonshard Fields",
@@ -8033,7 +8033,7 @@
 									"type": "list",
 									"items": [
 										"House Ghallanda and House Jorasco both originated in the Talenta Plains. The dragonmarked bloodlines appear throughout the tribes, though you can play a dragonmarked halfling from the Plains who doesn't work for the houses.",
-										"The Talentan reverence for spirits derives from the fact that a variety of spirits haunt the Plains. The region contains an unusual number of manifest zones tied to Dolurrh and Thelanis (see {@book chapter 4|ERLW|10} for descriptions of both). Ghosts are more likely to linger in such places, and minor fey are scattered across the Plains.",
+										"The Talentan reverence for spirits derives from the fact that a variety of spirits haunt the Plains. The region contains an unusual number of manifest zones tied to Dolurrh and Thelanis (see {@area chapter 4|3cd|x} for descriptions of both). Ghosts are more likely to linger in such places, and minor fey are scattered across the Plains.",
 										"Stories tell of ancient ruins that date back to the first age of the world and of a vast graveyard holding the bones of dragons."
 									]
 								},
@@ -8536,7 +8536,7 @@
 							]
 						},
 						"The massive island of Aerenal is the ancient kingdom of the elves. Its jungles provide strange and valuable lumbers: soarwood used for the hulls of airships, tough bronzewood, and trees that remain alive after being felled.",
-						"The island's proximity to the planes of Irian and Mabar (both described in {@book chapter 4|ERLW|10}) allows the lines between life and death to become blurred. Dangerous, dark forces creep in from the plane known as the Endless Night, but that planar resonance also enables the elves to perform feats of necromancy unmatched elsewhere in Eberron. Among the Aereni elves, the honored dead walk among the living. Heroes who died in glorious battle return to serve the Sibling Kings. And in the depths of Shae Mordai, the deathless lords of the Undying Court study the shifting balance of the planes and the path of the Draconic Prophecy.",
+						"The island's proximity to the planes of Irian and Mabar (both described in {@area chapter 4|3cd|x}) allows the lines between life and death to become blurred. Dangerous, dark forces creep in from the plane known as the Endless Night, but that planar resonance also enables the elves to perform feats of necromancy unmatched elsewhere in Eberron. Among the Aereni elves, the honored dead walk among the living. Heroes who died in glorious battle return to serve the Sibling Kings. And in the depths of Shae Mordai, the deathless lords of the Undying Court study the shifting balance of the planes and the path of the Draconic Prophecy.",
 						"Necromancy is a pillar of Aereni society, distinct from the sinister power most adventurers encounter. Positive energy sustains the deathless undead of Aerenal\u2014both the light of Irian and the devotion freely given by their descendants. The elves of Aerenal despise necromancy that draws on the negative energy of Mabar, and agents of the Undying Court embrace their mandate to seek out and destroy vampires, liches, and other such undead.",
 						"Aereni civilization is over twenty thousand years old. Secure in their island sanctuary, the elves watched nations of goblins and humans rise and fall. The Aereni possess secrets and powers the rest of Khorvaire has yet to discover, but they are more interested in perfecting their ancient traditions than in innovation and discovery. An Aereni wizard might spend a decade refining the pronunciation of a single spell's incantation. For now, humanity can't match the power of the elves. If that balance changes, will Aerenal take action?",
 						{
@@ -8716,8 +8716,8 @@
 									]
 								},
 								"Khyber is an ever-present threat. Any deep passage could connect to a realm of fiends or spew out an army of aberrations. Despite the magnitude of this threat, portals to Khyber are very rare, and they are stable once found. If you dig a hole in the ground, the odds that you'll eventually reach the Vale of the Inner Sun are infinitesimal. And if a portal to Khyber existed in the sewers of Fairhaven, odds are good that it would already have been discovered. The risk arises when you're exploring passages where no one has gone before. The sewers of Fairhaven might be safe today, but if an earthquake opens a new shaft or a group of cultists digs deeper, a previously unknown passage to Khyber could be uncovered. Wherever a passage to Khyber appears, monsters and dark powers can rise up to threaten the world above.",
-								"Cults of the Dragon Below often have ties to Khyber. Some serve aberrations or fight alongside dolgrims and dolgaunts (see {@book chapter 6|ERLW|13}). Others can unintentionally threaten a community by releasing something from the underworld: an unnatural disease, a malevolent demon, or a strange and addictive drug. In dealing with such a cult, the question is not only how to stop their current machinations, but how to seal the passage or prevent it from posing an ongoing threat.",
-								"Treasures from Khyber can take many forms. The daelkyr create living tools, including symbionts (see {@book chapter 5|ERLW|12}), but any magic item could be presented as an organic creation: a living {@item Cape of the Mountebank||cloak of the mountebank} that teleports its wearer through the plane of madness; a {@item dagger of venom} made from chitin and muscle, similar to a scorpion's barb; a {@item crystal ball} made by the daelkyr {@creature Belashyrra|ERLW} that looks like a giant eye, casting visions of distant places directly into the wielder's mind. Items recovered from fiendish demiplanes might be constructed from standard materials but have a sinister aspect or appearance, such as a {@item sword of life stealing} from the Abyssal Forest of Khar made of jagged, blackened steel. Shadows trail the blade, and it issues a hungry moan any time it draws blood.",
+								"Cults of the Dragon Below often have ties to Khyber. Some serve aberrations or fight alongside dolgrims and dolgaunts (see {@area chapter 6|513|x}). Others can unintentionally threaten a community by releasing something from the underworld: an unnatural disease, a malevolent demon, or a strange and addictive drug. In dealing with such a cult, the question is not only how to stop their current machinations, but how to seal the passage or prevent it from posing an ongoing threat.",
+								"Treasures from Khyber can take many forms. The daelkyr create living tools, including symbionts (see {@area chapter 5|4d3|x}), but any magic item could be presented as an organic creation: a living {@item Cape of the Mountebank||cloak of the mountebank} that teleports its wearer through the plane of madness; a {@item dagger of venom} made from chitin and muscle, similar to a scorpion's barb; a {@item crystal ball} made by the daelkyr {@creature Belashyrra|ERLW} that looks like a giant eye, casting visions of distant places directly into the wielder's mind. Items recovered from fiendish demiplanes might be constructed from standard materials but have a sinister aspect or appearance, such as a {@item sword of life stealing} from the Abyssal Forest of Khar made of jagged, blackened steel. Shadows trail the blade, and it issues a hungry moan any time it draws blood.",
 								{
 									"type": "statblock",
 									"name": "Khyber Trinket",
@@ -8802,7 +8802,7 @@
 						},
 						"Tens of thousands of years ago, the vast continent of Sarlona was the cradle of human civilization. Three thousand years ago, the first human colonists left, setting in motion events shaping modern-day Khorvaire.",
 						"Sarlona was once home to over a dozen distinct kingdoms, but wars devastated the continent. From this chaos, a band of saviors rose up to forge a new world. Guided by celestial spirits and endowed with vast psionic powers, these champions became known as the Inspired. Today, the Inspired have united the broken nations into a single realm: the Empire of Riedra. Outsiders aren't welcome in Riedra, and little is known of the nation. Merchants tell stories of massive monoliths that control the dreams of the people, and of secret police who use psionics to root out dissidents.",
-						"A single nation stands against the might of Riedra: the mountain refuge of Adar, homeland of the kalashtar (see {@book chapter 1|ERLW|1}). The Adarans lack the numbers to challenge Riedra, yet they hold their fortress monasteries against endless waves of Riedran assaults. The Adarans possess remarkable psychic and martial disciplines.",
+						"A single nation stands against the might of Riedra: the mountain refuge of Adar, homeland of the kalashtar (see {@area chapter 1|029|x}). The Adarans lack the numbers to challenge Riedra, yet they hold their fortress monasteries against endless waves of Riedran assaults. The Adarans possess remarkable psychic and martial disciplines.",
 						{
 							"type": "entries",
 							"name": "Notable Locations",
@@ -8944,7 +8944,7 @@
 						"The mightiest among the giants was the titan Cul'sir. His power was so great that he pulled the thirteenth moon from the sky and crushed it in a fit of anger. The giants ruled many lesser races, and eventually the elves rose up against them. Cul'sir unleashed plagues upon the rebellious elves. He made assassins of elven shadows and turned them back against their owners. Still the rebels persisted. In his anger, Cul'sir prepared to pull down the rest of the moons to hurl them at his enemies, even though he'd destroy the world in doing it. But the giants had gone too far, and Aureon set the dragons of Argonnessen upon them. The dragons destroyed the vast cities and leveled the towers. Cul'sir was slain and his people scattered.",
 						"The Sovereigns and Six each laid a curse upon the land. Aureon decreed that the creatures of Xen'drik would have no knowledge of law, and Boldrei proclaimed that no city would stand. The Traveler distorted the land so that no path followed twice. The Devourer unleashed fire and storm. And so Xen'drik remains a land of mystery, a realm that cannot be mapped, a place that holds secrets that could shatter the world.",
 						"This story bears at least some truth. The elves were once slaves of the ancient giants, and the dragons did eradicate the civilizations of Xen'drik. Great magic has warped the land. The environments of Xen'drik are extreme and unpredictable, and travelers might find a glacial expanse in the midst of a vast desert. Tens of thousands of years have passed, yet no civilization has risen to the heights of the fallen giants; some believe that Aureon's and Boldrei's curses ensure that any city that grows too large collapses into madness. The Traveler's Curse twists space, and explorers might follow the same path twice only to end up in entirely different locations.",
-						"Xen'drik is a continent that defies control. Expeditions have unearthed artifacts of immense power, as well as fields of Siberys dragonshards (see {@book chapter 5|ERLW|12}), but once you leave a site, you might never find it again.",
+						"Xen'drik is a continent that defies control. Expeditions have unearthed artifacts of immense power, as well as fields of Siberys dragonshards (see {@area chapter 5|4d3|x}), but once you leave a site, you might never find it again.",
 						"Giants still roam Xen'drik, but these creatures have never regained the glory of their ancestors. Tribes of drow\u2014said to be the shadow-assassins created by the Emperor Cul'sir\u2014linger in the darkness. These represent just a few of the threats in this vast land.",
 						{
 							"type": "entries",
@@ -9647,7 +9647,7 @@
 							"page": 146,
 							"id": "2fd",
 							"entries": [
-								"Many cultists carry pieces of volcanic glass or small Khyber dragonshards (see {@book chapter 5|ERLW|12}), but the cults have no unified symbol. Individual cults develop a symbol based on their fiendish patron or mad visions. Eyes, tentacles, and broken weapons are all common themes."
+								"Many cultists carry pieces of volcanic glass or small Khyber dragonshards (see {@area chapter 5|4d3|x}), but the cults have no unified symbol. Individual cults develop a symbol based on their fiendish patron or mad visions. Eyes, tentacles, and broken weapons are all common themes."
 							]
 						},
 						{
@@ -9665,7 +9665,7 @@
 							"page": 146,
 							"id": "2ff",
 							"entries": [
-								"Cults meet underground, whether in caverns or sewers. Rural cults seek out places twisted by the powers of the plane of Xoriat (described in {@book chapter 4|ERLW|10}) or Khyber."
+								"Cults meet underground, whether in caverns or sewers. Rural cults seek out places twisted by the powers of the plane of Xoriat (described in {@area chapter 4|3cd|x}) or Khyber."
 							]
 						}
 					]
@@ -9934,7 +9934,7 @@
 					"by": "A newcomer to the big city"
 				},
 				"All the major themes of Eberron are manifest in the great city of Sharn. It's a place of magic, with skycoaches circling mile-high towers and mystic forges toiling endlessly in the bowels. It's a place of adventure and intrigue. A fallen angel is gathering minions in the ruins below the city. A gang war is gaining strength in Callestan. The corpse of a murdered aristocrat has just been discovered in a floating mansion. A Cannith artificer is experimenting with a planar gateway\u2014and something is about to go terribly wrong. All of these adventures and a hundred more are waiting in the City of Towers.",
-				"This chapter details the city for players and DMs alike. The DM can find additional information about the city in {@book chapter 4|ERLW|11}.",
+				"This chapter details the city for players and DMs alike. The DM can find additional information about the city in {@area chapter 4|442|x}.",
 				{
 					"type": "image",
 					"href": {
@@ -10387,7 +10387,7 @@
 									"id": "337",
 									"entries": [
 										"A Droaam tradition brought to Sharn by immigrants, six stones is a game for seven competitors, who each pay a base stake. The seven are then sealed in a large chamber with a {@creature cockatrice}. The match ends when six of the players have been turned to stone, at which point the survivor is awarded all the stakes (except for a share set aside for the organizers). A {@creature medusa} handler monitors the competition to ensure that rules are followed. Contestants carry no arms or armor, and no magic or supernatural abilities may be used. Additionally, no one is allowed to attack the cockatrice. The challenge lies in outlasting the other contestants and luring them or pushing them into the path of the cockatrice. The battleground might be barren or littered with rubble and cover; it might be lit, or it could be be pitch black.",
-										"Six stones matches are staged by the criminal organization Daask (see the \"{@book Criminal Activities|ERLW|8|Criminal Activities}\" section later in this chapter). The sport is illegal, but the games go on because the matches are confined to Lower Dura and the Cogs and well hidden from the eyes of the Watch. A match usually occurs only once every few months. Sometimes participants voluntarily enter the competition, but most are debtors who have been offered a chance to pay off their loans by winning the match. Daask takes bets on the outcome, and usually earns a tidy sum as its share of the proceeds."
+										"Six stones matches are staged by the criminal organization Daask (see the \"{@area Criminal Activities|376|x}\" section later in this chapter). The sport is illegal, but the games go on because the matches are confined to Lower Dura and the Cogs and well hidden from the eyes of the Watch. A match usually occurs only once every few months. Sometimes participants voluntarily enter the competition, but most are debtors who have been offered a chance to pay off their loans by winning the match. Daask takes bets on the outcome, and usually earns a tidy sum as its share of the proceeds."
 									]
 								}
 							]
@@ -11634,7 +11634,7 @@
 								"Elegant and civilized, Upper Menthis is home to four of the finest theaters in Breland: the cutting-edge Art Temple, the colorful Khavish Theater, the traditional Grand Stage, and the open-air Stargazer Theater, as well as the Kavarrah Concert Hall.",
 								"The shops in Upper Menthis deal mainly in fine food, fashion, and exotic goods. For instance, in the Seventh Tower district, Window on Yesterday, Echoes of the Past, the Mekdall Gallery, and Cloud Antiquities all buy and sell interesting antiques and trinkets from distant lands.",
 								"The district of Den'iyas is a gnome neighborhood that provides a glimpse into the culture of Zilargo. Davandi Fine Tailoring is the source of some of the finest glamerweave clothing in Khorvaire, and the district also hosts a number of businesses that specialize in alchemy, illusion, or divination. Visitors should be aware that intrigue is the primary pastime in Den'iyas, and that hapless adventures can easily find themselves pulled into intricate schemes or feuds.",
-								"Upper Menthis also contains the University district, home to Breland's finest institutions of learning. More information about this district can be found in {@book chapter 1|ERLW|1}."
+								"Upper Menthis also contains the University district, home to Breland's finest institutions of learning. More information about this district can be found in {@area chapter 1|029|x}."
 							]
 						},
 						{
@@ -11995,7 +11995,7 @@
 							"page": 173,
 							"id": "367",
 							"entries": [
-								"Unlike the upper ward, Middle Tavick's Landing welcomes travelers and tourists. The ward features a host of lively taverns and excellent inns. The Cornerstone is a huge arena that hosts events ranging from circuses to aerial jousting. The Deathsgate district caters to adventurers, much as the Clifftop district of Upper Dura does. Like Clifftop, the district has an adventurer's guild\u2014though the Deathsgate Guild has a dark reputation, and its members often pick fights with Clifftop adventurers. (See the \"{@book Adventurer's Guilds|ERLW|8|Adventurer's Guilds}\" section for more information.) House Jorasco has a large house of healing in the ward, and House Deneith maintains a recruiting station for would-be mercenaries.",
+								"Unlike the upper ward, Middle Tavick's Landing welcomes travelers and tourists. The ward features a host of lively taverns and excellent inns. The Cornerstone is a huge arena that hosts events ranging from circuses to aerial jousting. The Deathsgate district caters to adventurers, much as the Clifftop district of Upper Dura does. Like Clifftop, the district has an adventurer's guild\u2014though the Deathsgate Guild has a dark reputation, and its members often pick fights with Clifftop adventurers. (See the \"{@area Adventurer's Guilds|33b|x}\" section for more information.) House Jorasco has a large house of healing in the ward, and House Deneith maintains a recruiting station for would-be mercenaries.",
 								"The Graystone district has deep roots in Karrnathi culture that predate the Last War; Slogar's and the Bloody Mug are places where homesick Karrns can enjoy blood sausage and Nightwood ale. The district is a haven for Karrnathi soldiers who want to avoid Brelish aggression and a place where followers of the Blood of Vol can practice their faith.",
 								"Tavick's Market is one of Sharn's major market districts; located directly above the Terminus lightning rail station, it's filled with stands selling produce and goods brought in by local farmers.",
 								{
@@ -12142,7 +12142,7 @@
 									"credit": "Steve Prescott"
 								},
 								"A number of floating towers drift above the upper wards of Sharn, but these are dwarfed by Skyway, an entire district suspended above and between Central Plateau and Menthis Plateau. Built on an island of solidified cloud, Skyway holds the mansions of the wealthiest people in Khorvaire\u2014nobles whose feet never touch the ground. It's a realm of wonders, filled with the finest examples of luxury and extravagance that gold can buy and magic can produce. For instance, Cloudpool Park is formed from sculpted cloudstuff, with window panels of ice that provide a view of the city below.",
-								"Skyway is home to lavish estates. Prior to the Last War, noble families from across the Five Nations maintained mansions here. Though some of these places remain in the hands of their original owners, others were seized by the crown during the Last War and sold to wealthy citizens of Breland. The resulting influx of residents has brought more diversity to the district, with dragonmarked heirs and even wealthy criminals living alongside the nobility. The grandest estate in Skyway is Tain Manor, home of the ir'Tain family and the monthly Tain Gala (see \"{@book Holidays|ERLW|8|Holidays}\" earlier in this chapter).",
+								"Skyway is home to lavish estates. Prior to the Last War, noble families from across the Five Nations maintained mansions here. Though some of these places remain in the hands of their original owners, others were seized by the crown during the Last War and sold to wealthy citizens of Breland. The resulting influx of residents has brought more diversity to the district, with dragonmarked heirs and even wealthy criminals living alongside the nobility. The grandest estate in Skyway is Tain Manor, home of the ir'Tain family and the monthly Tain Gala (see \"{@area Holidays|324|x}\" earlier in this chapter).",
 								"This district offers the highest-priced services in the city. The Dragon's Hoard is a Ghallanda resort, where travelers can enjoy the utmost in luxury if they can afford the most expensive amenities. The Celestial Vista and the Cloud Dragon are wondrous restaurants. The Azure Gateway is a new hotel and restaurant that has replaced a Ghallanda establishment. The owner has remained anonymous, and this touch of mystery has piqued interest in the place.",
 								"If you're interested in mingling with nobles or celebrities, or if you want to pull off a heist that targets the richest people in Sharn, Skyway is the place to do that.",
 								"No bridges or lifts connect Skyway to the rest of the city, so the usual way to reach the floating district is by taking a skycoach or hiring a flying mount."
@@ -12252,9 +12252,9 @@
 					"page": 178,
 					"id": "376",
 					"entries": [
-						"Under the laws of Sharn, crime takes many forms. Any sort of theft is illegal, including \"malicious theft of identity\"\u2014the use of shapeshifting abilities or illusion magic to impersonate someone with the intent to cause harm. Assault, murder, and fraud will all land you in hot water. Other activities walk the edge of legality. Gambling and prostitution are legal in Sharn, but these industries are heavily taxed and regulated. Likewise, smuggled goods include illegal merchandise such as drugs and mystical explosives, but also heavily taxed goods, such as the drug known as dreamlily (described in {@book chapter 4|ERLW|11|Crime in Sharn}).",
+						"Under the laws of Sharn, crime takes many forms. Any sort of theft is illegal, including \"malicious theft of identity\"\u2014the use of shapeshifting abilities or illusion magic to impersonate someone with the intent to cause harm. Assault, murder, and fraud will all land you in hot water. Other activities walk the edge of legality. Gambling and prostitution are legal in Sharn, but these industries are heavily taxed and regulated. Likewise, smuggled goods include illegal merchandise such as drugs and mystical explosives, but also heavily taxed goods, such as the drug known as dreamlily (described in {@area chapter 4|44a|x}).",
 						"Although crime occurs throughout Sharn, it is most apparent in Lower Dura and the Cogs. The Sharn Watch has a minimal presence in these wards, which are the easiest places to sell stolen goods or to hire an assassin. Of course, they're also good places to get robbed or caught up in a street brawl.",
-						"Sharn is home to a large number of minor gangs and independent criminals. Even so, most criminal activities in the city come under the purview of one of four criminal organizations: the Boromar Clan, Daask, House Tarkanan, and the Tyrants. Even independents usually have an arrangement with one of these power groups. If your character has the criminal background, work with the DM to determine which of these organizations you're connected to (the DM has more information about these groups in {@book chapter 4|ERLW|11}).",
+						"Sharn is home to a large number of minor gangs and independent criminals. Even so, most criminal activities in the city come under the purview of one of four criminal organizations: the Boromar Clan, Daask, House Tarkanan, and the Tyrants. Even independents usually have an arrangement with one of these power groups. If your character has the criminal background, work with the DM to determine which of these organizations you're connected to (the DM has more information about these groups in {@area chapter 4|442|x}).",
 						{
 							"type": "entries",
 							"name": "The Boromar Clan",
@@ -12459,7 +12459,7 @@
 							"page": 180,
 							"id": "37c",
 							"entries": [
-								"The Sharn Watch is responsible for enforcing the laws of the city. The sentinels of the watch patrol the streets of Sharn, to all outward appearances vigilant for signs of unrest. In truth, the Sharn Watch is riddled with corruption, from the commanding officers down to the lowliest patrollers. Dedicated guards who truly want to protect the innocent do exist. But bribery nonetheless runs rampant, and the watch has a way of failing to show up somewhere at the same time that Daask or the Boromar Clan is perpetrating some misdeed. The DM can find more information on the watch in {@book chapter 4|ERLW|11|Sharn Watch}.",
+								"The Sharn Watch is responsible for enforcing the laws of the city. The sentinels of the watch patrol the streets of Sharn, to all outward appearances vigilant for signs of unrest. In truth, the Sharn Watch is riddled with corruption, from the commanding officers down to the lowliest patrollers. Dedicated guards who truly want to protect the innocent do exist. But bribery nonetheless runs rampant, and the watch has a way of failing to show up somewhere at the same time that Daask or the Boromar Clan is perpetrating some misdeed. The DM can find more information on the watch in {@area chapter 4|46c|x}.",
 								{
 									"type": "image",
 									"href": {
@@ -12527,7 +12527,7 @@
 				"Get your own Eberron adventures up and running using the inspiration in this chapter. Eberron is filled with political intrigue, extraplanar threats, magical mysteries, and back-alley detective work\u2014all in the context of a world emerging from the turmoil of war.",
 				"The tables and advice in this chapter expand on the material in {@book chapter 3|DMG|3} of the {@book Dungeon Master's Guide|DMG}. Think of this chapter as an extensive library of ideas\u2014villainous schemes, interesting locations, adventure hooks, encounters, and more\u2014to help you flesh out an adventure you create for your Eberron campaign.",
 				"This chapter begins with a look at three key themes that pervade many Eberron adventures: recurring villains, action, and intrigue. Following that overview is an in-depth look at various organizations and other elements you can use to drive the adventures you create. Such elements include maps of locations that can serve as thrilling set pieces; information on the planes of existence, elemental-powered airships, and the lightning rail; and an introductory adventure set in Sharn.",
-				"Specific monsters and nonplayer characters (NPCs) mentioned in this chapter can be found either in the {@book Monster Manual|MM} or in {@book chapter 6|ERLW|13} of this book. When a creature's name appears in bold type, that's a visual cue pointing you to the creature's stat block in the {@book Monster Manual|MM} or in chapter 6. If the stat block appears in chapter 6, the text tells you so.",
+				"Specific monsters and nonplayer characters (NPCs) mentioned in this chapter can be found either in the {@book Monster Manual|MM} or in {@area chapter 6|513|x} of this book. When a creature's name appears in bold type, that's a visual cue pointing you to the creature's stat block in the {@book Monster Manual|MM} or in chapter 6. If the stat block appears in chapter 6, the text tells you so.",
 				{
 					"type": "image",
 					"href": {
@@ -12731,27 +12731,27 @@
 													"rows": [
 														[
 															"1",
-															"{@book The Chamber|ERLW|9|The Chamber}"
+															"{@area The Chamber|3a4|x}"
 														],
 														[
 															"2",
-															"{@book The Cults of the Dragon Below|ERLW|9|Cults of the Dragon Below}"
+															"{@area The Cults of the Dragon Below|396|x}"
 														],
 														[
 															"3",
-															"{@book The Daughters of Sora Kell|ERLW|9|Daughters of Sora Kell}"
+															"{@area The Daughters of Sora Kell|3ba|x}"
 														],
 														[
 															"4",
-															"{@book The Dreaming Dark|ERLW|9|The Dreaming Dark}"
+															"{@area The Dreaming Dark|3ac|x}"
 														],
 														[
 															"5",
-															"{@book The Lords of Dust|ERLW|10|The Lords of Dust}"
+															"{@area The Lords of Dust|3eb|x}"
 														],
 														[
 															"6",
-															"{@book The Order of the Emerald Claw|ERLW|10|Order of the Emerald Claw}"
+															"{@area The Order of the Emerald Claw|411|x}"
 														]
 													]
 												}
@@ -13053,7 +13053,7 @@
 							"page": 188,
 							"id": "394",
 							"entries": [
-								"It's easy to introduce the Aurum to the characters early in a campaign. Its members are public figures, sometimes eccentric but not necessarily evil. A Concordian could hire the adventurers to solve a mystery or to acquire a harmless curio. A Concordian could be tied to the party's group patron (see {@book chapter 1|ERLW|4})\u2014the owner of the newspaper, a major donor to the university, or the power behind a criminal syndicate.",
+								"It's easy to introduce the Aurum to the characters early in a campaign. Its members are public figures, sometimes eccentric but not necessarily evil. A Concordian could hire the adventurers to solve a mystery or to acquire a harmless curio. A Concordian could be tied to the party's group patron (see {@area chapter 1|194|x})\u2014the owner of the newspaper, a major donor to the university, or the power behind a criminal syndicate.",
 								"Alternatively, an Aurum Concordian can be a behind-the-scenes villain: low-level adventurers could clash with the Concordian's hired goons as they pursue the same treasure, or the adventurers could be trying to solve a mystery the thugs are covering up. As the campaign progresses, the characters might face higher-ranking members of the Aurum, or recurring mercenaries who are increasing in power and status at the same rate they are.",
 								"Whether they interact with the Aurum as ally or enemy, at some point the adventurers might well realize that the Concordians aren't just greedy plutocrats, but participants in an international conspiracy. The Aurum's arc in the campaign might climax with the characters learning of the Shadow Cabinet and thwarting one of its grand schemes."
 							]
@@ -13113,7 +13113,7 @@
 					"page": 188,
 					"id": "396",
 					"entries": [
-						"The Cults of the Dragon Below are made up of people fanatically devoted to the daelkyr or the fiendish overlords (both described in {@book chapter 6|ERLW|13}). Though some choose this path, most are drawn to it by strange visions and corrupting madness. Like weeds breaking through the foundation of Khorvaire, Cults of the Dragon Below can spring up anywhere, at any time.",
+						"The Cults of the Dragon Below are made up of people fanatically devoted to the daelkyr or the fiendish overlords (both described in {@area chapter 6|513|x}). Though some choose this path, most are drawn to it by strange visions and corrupting madness. Like weeds breaking through the foundation of Khorvaire, Cults of the Dragon Below can spring up anywhere, at any time.",
 						"Unlike other organizations with global reach, the cults have no organizing structure or principle. They are an infection inflicted on the world without reason. \"Cult of the Dragon Below\" is a term that outsiders use to describe any sect devoted to the daelkyr or the overlords. Each cult pursues its own mad schemes, tied to its dark patron. Even cults associated with the same master might not recognize one another as allies. You can roll on the Cult of the Dragon Below table to get a quick description of a cult, or you can create something entirely new. Whatever purpose cultists find or create for themselves from their twisted devotions, they pursue it with fanaticism. Even the most urbane and cultured cult leaders are unwavering in their convictions, entirely sure that their beliefs are good, true, and just.",
 						{
 							"type": "table",
@@ -13806,7 +13806,7 @@
 							"entries": [
 								"In a campaign featuring the Chamber, the adventurers might initially carry out simple tasks on behalf of a disguised dragon or secret Chamber agent, not necessarily doing anything shady or villainous, but maneuvering pieces into position so they can play their designated parts. As the campaign unfolds, the dragons of the Chamber might reveal that the adventurers have their own part to play\u2014in particular, perhaps, any member of the party who bears a dragonmark. The Chamber begins interfering in the characters' activities, for good and for ill, and the Lords of Dust might also get involved. Unfortunately for the adventurers, the dragons are not necessarily any more concerned for their well-being than the Lords of Dust are, and the characters might have to consort or cooperate with demons in order to escape the clutches of the dragons.",
 								"Throughout the campaign, the goals of the Chamber might not be readily apparent. Locations such as the planar observatory described here might be able to give the adventurers some insight into the substance of the Prophecy they have become tangled up in, and seers and sages might be able to offer further insight into the different ways that the demons and the dragons could be interpreting those words. Ultimately, the adventurers might be in the position of having to choose between an outcome that is bad for them but good for the world in the long term, or a short-term triumph that carries tremendous risk for the world in the distant (or not too distant) future.",
-								"Another possibility is that the adventurers are openly working with the Chamber to gather information on the Prophecy and fight the Lords of Dust. In this case, the Chamber could act as a group patron; see the \"{@book Immortal Being|ERLW|4|Immortal Being}\" section of {@book chapter 1|ERLW|4}."
+								"Another possibility is that the adventurers are openly working with the Chamber to gather information on the Prophecy and fight the Lords of Dust. In this case, the Chamber could act as a group patron; see the \"{@area Immortal Being|1de|x}\" section of {@area chapter 1|194|x}."
 							]
 						},
 						{
@@ -13865,7 +13865,7 @@
 					"id": "3ac",
 					"entries": [
 						"In the spaces between sleeping and waking, nightmares wait with grasping claws. The quori spirits that rule Dal Quor spent a thousand years seizing control of the continent of Sarlona. Now they have turned their many eyes toward Khorvaire. The ultimate goal of the Dreaming Dark is to control all the nations of the world. The plane of Dal Quor goes through cycles of light and darkness, and the current age is coming to an end. The nightmare spirits that rule the plane believe that by seizing control of mortal civilization\u2014by forcing all the people of Eberron to dream the dreams they devise\u2014they can maintain this current age of darkness indefinitely. So the fiends of the Dreaming Dark aren't merely hungry for power; they are fighting for survival.",
-						"The quori can't manifest physically in Eberron, but they have other options. They can possess willing humanoids, creating agents known as the {@creature Inspired|ERLW} (see {@book chapter 6|ERLW|13}). They can also manipulate the dreams of mortals. The Dreaming Dark can trick a priest by sending dreams that appear to be divine visions, or inspire a soldier to rebel against their lord.",
+						"The quori can't manifest physically in Eberron, but they have other options. They can possess willing humanoids, creating agents known as the {@creature Inspired|ERLW} (see {@area chapter 6|513|x}). They can also manipulate the dreams of mortals. The Dreaming Dark can trick a priest by sending dreams that appear to be divine visions, or inspire a soldier to rebel against their lord.",
 						"The greatest weapon of the Dreaming Dark is its ability to infiltrate other organizations. Anyone could become an Inspired vessel, or be prompted into taking foolish action by a dream. Its agents are scattered across the world and have no obvious connection to one another, until they reveal their true nature and purpose.",
 						{
 							"type": "entries",
@@ -13966,8 +13966,8 @@
 							"page": 197,
 							"id": "3b1",
 							"entries": [
-								"Agents of the Dreaming Dark are insidious villains that can appear anywhere, in almost any context. They receive orders from a cabal of powerful quori. The leader of the organization, known as the Devourer of Dreams, communes with the nightmare spirit of Dal Quor itself. The Dark's chief agent in Eberron is a {@creature kalaraq quori|ERLW} (see {@book chapter 6|ERLW|13}) named Tirashana, who has planted mind seeds\u2014mental copies of herself\u2014across Khorvaire.",
-								"The Dreaming Dark has Inspired agents and {@creature kalaraq quori|ERLW} mind seeds (see {@book chapter 6|ERLW|13}) scattered across Khorvaire, hidden within the membership of dragonmarked houses, noble families, and other driving forces. Because Dreaming Dark agents can communicate and coordinate with one another in dreams, they never have to risk losing their cover to receive assignments or transmit information.",
+								"Agents of the Dreaming Dark are insidious villains that can appear anywhere, in almost any context. They receive orders from a cabal of powerful quori. The leader of the organization, known as the Devourer of Dreams, communes with the nightmare spirit of Dal Quor itself. The Dark's chief agent in Eberron is a {@creature kalaraq quori|ERLW} (see {@area chapter 6|513|x}) named Tirashana, who has planted mind seeds\u2014mental copies of herself\u2014across Khorvaire.",
+								"The Dreaming Dark has Inspired agents and {@creature kalaraq quori|ERLW} mind seeds (see {@area chapter 6|513|x}) scattered across Khorvaire, hidden within the membership of dragonmarked houses, noble families, and other driving forces. Because Dreaming Dark agents can communicate and coordinate with one another in dreams, they never have to risk losing their cover to receive assignments or transmit information.",
 								{
 									"type": "table",
 									"caption": "Dreaming Dark NPCs",
@@ -14086,7 +14086,7 @@
 								"{@b Gorodan Ashlord}. A fire giant exiled from Xen'drik has earned the loyalty of a powerful force of ogres and hill giants. Gorodan knows a great deal about Xen'drik and could prove a valuable resource to adventurers.",
 								"{@b Harpy Flights}. The harpies have long dwelled in the Byeshk Mountains. Several flights across the nation\u2014including the Stormsinger, Last Dirge, and Rotwing\u2014have pledged themselves to the Daughters of Sora Kell. Other flights remain in isolation in the mountains. The largest of these is the Wind Howlers, whose leader, Callain of the Bloody Word, despises the hags.",
 								"{@b Kethelrax the Cunning}. The kobold lord Kethelrax has laid claim to Shaarat Kol in the south of Droaam and leads host of kobolds and goblins\u2014creatures that have been traditionally enslaved and oppressed by the larger and more powerful inhabitants of the region. Though his epithet, \"the Cunning,\" is used mockingly by other warlords, Kethelrax has the favor of Sora Katra and has proven to be clever in his own right. The kobolds are thrilled to have their own territory and are fiercely loyal to the Daughters, but many yearn for revenge against their former masters.",
-								"{@b Rhesh Turakbar}. The minotaur warlord Rhesh Turakbar has united the small clans of his people into a deadly force. His fortress is on the eastern edge of Droaam, and he often leads raiding parties into Breland in the name of his fiendish patron, the Horned Prince\u2014also known as {@creature Rak Tulkhesh|ERLW} (see {@book chapter 6|ERLW|13}).",
+								"{@b Rhesh Turakbar}. The minotaur warlord Rhesh Turakbar has united the small clans of his people into a deadly force. His fortress is on the eastern edge of Droaam, and he often leads raiding parties into Breland in the name of his fiendish patron, the Horned Prince\u2014also known as {@creature Rak Tulkhesh|ERLW} (see {@area chapter 6|513|x}).",
 								"{@b Sheshka, the Queen of Stone.} The medusas have long held the ancient citadel of Cazhaak Draal. Though they are not numerous, their deadly gaze and trained basilisk pets make the medusas a force to be reckoned with. Medusa priests of the Dark Six are spiritual leaders in many Droaamish communities. Queen Sheshka is a skilled warrior and general. She has been loyal to the Daughters, but she is devoted to her people and will always do what's best for them.",
 								"{@b Tzaryan Rrac}. A cunning oni with a large force of ogres and orcs at his disposal, Tzaryan Rrac was quick to embrace the arrival of the hags, but he also yearns for greater power. Rrac is a skilled alchemist and a scholar of arcane lore.",
 								"{@b Venom Lords}. A group of tieflings called the Venom Lords leads a community of warlocks, some of whom are also tieflings. Their domain, called the Venomous Demesne, is hidden away in the desolate marshes south of Blackwater Lake, shrouded by powerful magic. Warlord Bal Molesh is a strong ally of the Daughters, and some of his tiefling kin can be found in the service of Daask.",
@@ -14237,7 +14237,7 @@
 										"If you'd rather use the Daughters as straightforward villains, they could be driven by a thirst for power or a desire to end humanity's dominance over Khorvaire. Sora Teraza's visions enable them to target enemies with unerring precision and reveal enemy plans before they are carried out. Can the adventurers find a way to deal with Sora Teraza and end this threat before the armies of Droaam and agents of Daask make their move?",
 										"A middle-of-the-road view is that the Daughters are motivated solely by Sora Teraza's visions. They have no interest in gaining power or in maintaining their kingdom; they are fulfilling their role in a story that is still unfolding, and once it's resolved, they will abandon their thrones and return to their hidden haunts. Can Droaam survive without the Daughters, or will the nation dissolve into chaos?",
 										"Whatever path you choose should also be reflected in the nature of the criminal organization Daask, described later in this chapter. Those monsters are agents of Sora Katra; how do their actions support her agenda? Are they seizing power on behalf of Droaam, or are they pursuing a more mysterious agenda?",
-										"As described in {@book chapter 1|ERLW|4}, Sora Kell herself could be a group patron for a party of adventurers. In this case, the characters' relationship with the sisters is complicated. Do the Daughters consider the adventurers to be allies, or are they bitter rivals? Does Sora Kell support the nation of Droaam, or are the Daughters defying the wishes of their mother?"
+										"As described in {@area chapter 1|194|x}, Sora Kell herself could be a group patron for a party of adventurers. In this case, the characters' relationship with the sisters is complicated. Do the Daughters consider the adventurers to be allies, or are they bitter rivals? Does Sora Kell support the nation of Droaam, or are the Daughters defying the wishes of their mother?"
 									]
 								}
 							]
@@ -14299,7 +14299,7 @@
 					"entries": [
 						"The Gatekeepers are a druidic sect dedicated to protecting the natural world from unnatural forces. They battle aberrations and guard against extraplanar invasions and the release of ancient evils.",
 						"The Gatekeepers maintain the oldest druidic tradition on Khorvaire. Over fifteen thousand years ago, the green dragon Vvaraak came to the Shadow Marches and gathered a following from among the orcs of the region. In her studies of the Prophecy, Vvaraak had foreseen a great threat that could be stopped only by the younger races. So she taught the orcs the secret language of the natural world and showed them how to work with stone and soil, and how to read the future in the movement of the Ring of Siberys. She charged her students to remain ever vigilant against the threat that was to come, and to protect nature from those that would corrupt it.",
-						"Thousands of years later, the daelkyr (see {@book chapter 6|ERLW|13}) opened gates from the plane of Xoriat and unleashed hordes of mind flayers, beholders, and other foul creatures into the world. The conflict that followed destroyed the goblin empire of Dhakaan, and the daelkyr's invasion left scars across Khorvaire. Ultimately, Vvaraak's students sealed the gates and imprisoned the daelkyr in Khyber. Even after this triumph, the orcs couldn't be sure if they had turned back the threat Vvaraak had foreseen, or if a greater danger lay ahead. So, in addition to guarding the seals that bind the daelkyr and keep Xoriat at bay, the Gatekeepers remained vigilant against the possibility of worse to come.",
+						"Thousands of years later, the daelkyr (see {@area chapter 6|513|x}) opened gates from the plane of Xoriat and unleashed hordes of mind flayers, beholders, and other foul creatures into the world. The conflict that followed destroyed the goblin empire of Dhakaan, and the daelkyr's invasion left scars across Khorvaire. Ultimately, Vvaraak's students sealed the gates and imprisoned the daelkyr in Khyber. Even after this triumph, the orcs couldn't be sure if they had turned back the threat Vvaraak had foreseen, or if a greater danger lay ahead. So, in addition to guarding the seals that bind the daelkyr and keep Xoriat at bay, the Gatekeepers remained vigilant against the possibility of worse to come.",
 						"In the millennia since that struggle ended, the Gatekeepers have shared Vvaraak's wisdom and druidic magic with humans, shifters, and others who came to Khorvaire. New interpretations of Vvaraak's teachings gave birth to new druid sects: the Wardens of the Wood, the Greensingers, and the Ashbound. Today, the Gatekeepers are one of the smaller sects, and many of the sites of their long-ago battles have been abandoned and forgotten. But some Gatekeepers still remain in the Shadow Marches and the Eldeen Reaches, continuing their vigil to this day.",
 						{
 							"type": "entries",
@@ -14983,7 +14983,7 @@
 									"page": 209,
 									"id": "3db",
 									"entries": [
-										"What horrific actions did the villain take during the Last War? Did they massacre civilians? Betray their comrades or their nation? A brilliant artificer might have designed arcane weapons that violated the rules of engagement. A Karrnathi {@creature bone knight|ERLW} (see {@book chapter 6|ERLW|13}) could have overseen a camp where prisoners of war were used as subjects in necromantic experiments. Is the villain infamous for their crimes, or yet to be exposed for what they did? Do they believe that their crimes were justified? Is the criminal protected by powerful people in their nation, or reviled by the people they served?"
+										"What horrific actions did the villain take during the Last War? Did they massacre civilians? Betray their comrades or their nation? A brilliant artificer might have designed arcane weapons that violated the rules of engagement. A Karrnathi {@creature bone knight|ERLW} (see {@area chapter 6|513|x}) could have overseen a camp where prisoners of war were used as subjects in necromantic experiments. Is the villain infamous for their crimes, or yet to be exposed for what they did? Do they believe that their crimes were justified? Is the criminal protected by powerful people in their nation, or reviled by the people they served?"
 									]
 								},
 								{
@@ -15294,7 +15294,7 @@
 												],
 												[
 													"2",
-													"Locate a {@item docent|ERLW} (see {@book chapter 5|ERLW|12}) carried by a warforged wizard who has joined up with {@creature the Lord of Blades|ERLW}."
+													"Locate a {@item docent|ERLW} (see {@area chapter 5|4d3|x}) carried by a warforged wizard who has joined up with {@creature the Lord of Blades|ERLW}."
 												],
 												[
 													"3",
@@ -15407,7 +15407,7 @@
 									"rows": [
 										[
 											"1",
-											"A newly awakened {@item docent|ERLW} (see {@book chapter 5|ERLW|12}) tells its new owner that {@creature the Lord of Blades|ERLW} is the only hope for averting a coming catastrophe."
+											"A newly awakened {@item docent|ERLW} (see {@area chapter 5|4d3|x}) tells its new owner that {@creature the Lord of Blades|ERLW} is the only hope for averting a coming catastrophe."
 										],
 										[
 											"2",
@@ -15442,7 +15442,7 @@
 					"id": "3eb",
 					"entries": [
 						"Evil entities spawned at the dawn of time still haunt Eberron. The cities raised by those ancient overlords are now only ashes, but the Lords of Dust still dream of restoring their primordial dominion. These fiends bide their time in an inconceivably long game, sparring with the dragons of Argonnessen as they manipulate events in order to fulfill the words of the Draconic Prophecy in a way that will bring them victory.",
-						"Though the Lords of Dust are mighty enough on their own, they serve greater masters known as the overlords (see {@book chapter 6|ERLW|13}). Unfathomably powerful fiends, the overlords were bound at the end of the Age of Demons by the power of the Silver Flame, and an overlord can be released from this binding only if doing so can be made to fulfill the Draconic Prophecy. Every fiend spawned from Khyber owes fealty to one of these overlords.",
+						"Though the Lords of Dust are mighty enough on their own, they serve greater masters known as the overlords (see {@area chapter 6|513|x}). Unfathomably powerful fiends, the overlords were bound at the end of the Age of Demons by the power of the Silver Flame, and an overlord can be released from this binding only if doing so can be made to fulfill the Draconic Prophecy. Every fiend spawned from Khyber owes fealty to one of these overlords.",
 						"In many ways the Lords of Dust are a reflection of the Chamber. Each group is trying to steer the fulfillment of the Prophecy to serve its own ends. The goal of the Lords of Dust is to release the overlords from their bindings and loose them upon Eberron in a new age of darkness. Despite this unified goal, the Lords of Dust operate as an alliance of like-minded cabals rather than a single monolithic organization. Each cabal serves its particular overlord above all others, and the conditions that release one overlord could actually contradict those that would free another.",
 						"Accomplished shapeshifters, the Lords of Dust have agents spread across Khorvaire. Some might wonder why, with all their talents, they haven't tried to conquer the world already. The reason is that they have no interest in ruling this world; they want to return it to the state of unnatural glory that existed before. Their only interest in humanoids races is in directing them and their affairs down the paths necessary to release their overlords; aside from that, dealing with mortals is a tedious chore.",
 						{
@@ -15564,7 +15564,7 @@
 							"id": "3f0",
 							"entries": [
 								"Most of the Lords of Dust are rakshasas, but any sort of fiend\u2014devil, demon, or otherwise\u2014could be part of this organization. Such fiends are spawned in Khyber and aren't actually from the Outer Planes. These fiends generally work through a wide network of duped pawns and indebted servitors.",
-								"Each overlord has a chief servant, and these leaders meet in the ruins of Ashtakala in the Demon Wastes. {@book Chapter 6|ERLW|13} contains statistics for the overlord {@creature Rak Tulkhesh|ERLW} and his speaker, {@creature Mordakhesh|ERLW} the Shadowsword. The overlord {@creature Sul Khatesh|ERLW} is served by the rakshasa Hektula, also known as the First Scribe. Durastoran the Wyrmbreaker is the speaker of Bel Shalor, the overlord said to be bound in Flamekeep.",
+								"Each overlord has a chief servant, and these leaders meet in the ruins of Ashtakala in the Demon Wastes. {@area Chapter 6|513|x} contains statistics for the overlord {@creature Rak Tulkhesh|ERLW} and his speaker, {@creature Mordakhesh|ERLW} the Shadowsword. The overlord {@creature Sul Khatesh|ERLW} is served by the rakshasa Hektula, also known as the First Scribe. Durastoran the Wyrmbreaker is the speaker of Bel Shalor, the overlord said to be bound in Flamekeep.",
 								"The Lords of Dust NPCs table describes some possible antagonists who might cross paths with adventurers.",
 								{
 									"type": "table",
@@ -15692,7 +15692,7 @@
 							"entries": [
 								"No one knows the reason for what happened on 20 Olarune 994 YK. Though it had been battered, Cyre stood defiant; Cyran soldiers had recently driven deep into Karrnathi territory and were holding their lines against the combined forces of Breland and Thrane.",
 								"And then it all came to an end.",
-								"Some say that the dead-gray mist began in Metrol, initially flowing out of the royal palaces of Vermishard. Others swear that the disaster began in the Cannith stronghold of Making. All that is known is that the mist swiftly spread across the kingdom, transforming the lands and creatures caught within it. Over a million people died in the Mourning, including nearly all of the inhabitants of central Cyre. The mist slowed its advance as it spread, and some of those in the borderlands heard of the disaster in time to flee. Others survived because they were already beyond the borders of Cyre; the mist stopped mere feet away from the camps of Cyran soldiers holding sections of the Brelish front. And though the vast majority of people caught in the Mourning died, thousands did survive. Most have no clear memory of the event, and there's no explanation for why they were spared. The superstitious say that these people are cursed, that anyone touched by the Mourning is now an agent of darkness. (See the book's {@book introduction|ERLW|0} for further details on how the Mourning might have affected characters.)",
+								"Some say that the dead-gray mist began in Metrol, initially flowing out of the royal palaces of Vermishard. Others swear that the disaster began in the Cannith stronghold of Making. All that is known is that the mist swiftly spread across the kingdom, transforming the lands and creatures caught within it. Over a million people died in the Mourning, including nearly all of the inhabitants of central Cyre. The mist slowed its advance as it spread, and some of those in the borderlands heard of the disaster in time to flee. Others survived because they were already beyond the borders of Cyre; the mist stopped mere feet away from the camps of Cyran soldiers holding sections of the Brelish front. And though the vast majority of people caught in the Mourning died, thousands did survive. Most have no clear memory of the event, and there's no explanation for why they were spared. The superstitious say that these people are cursed, that anyone touched by the Mourning is now an agent of darkness. (See the book's {@area introduction|000|x} for further details on how the Mourning might have affected characters.)",
 								"In the days immediately following the Mourning, many assumed that the mist would continue to spread. Intense panic slowly turned to curiosity as it became clear that the border had stabilized. Over the last four years, people have ventured into the mist for many reasons. Some sought to plunder the abandoned treasures of the richest nation in Galifar. Others hoped to find lost loved ones, or some explanation for the disaster. Few of these explorers have returned, and those survivors all tell tales of a land twisted in unpredictable and inexplicable ways.",
 								{
 									"type": "image",
@@ -15945,7 +15945,7 @@
 									"entries": [
 										"House Cannith was born in Eston, and the house's labors transformed the city into a place of wonders. Clockwork birds perched and sang in silvery trees covered in steel bark. Skycoaches carried smiths and magewrights from forge to forge, and an iridescent dome protected the city from storms and harsh winds. On the proving grounds of the Cannith creation forges, cadres of newborn warforged learned the combat skills that would prepare them for active duty.",
 										"Eston began as a successful mining settlement, extracting iron and rare ores from the nearby hills. Drawing on these resources, the Cannith artificers in Eston spent decades researching all sorts of artificial creatures, which eventually gave rise to the warforged.",
-										"Because of these wonders, Eston is an irresistible attraction for treasure hunters hoping to access the vaults of House Cannith. Reports suggest, however, that it has become a strange and deadly place. It's said that the city is overrun by living spells. In addition to the remnants of damaging spells (see \"{@book Living Spells|ERLW|13|Living Spells}\" in {@book chapter 6|ERLW|13}), there are stranger phenomena: living {@i continual flames} that crawl along the streets, cling to lampposts, and flee from strangers, and living {@i scrying} spells that shift and shimmer, displaying distant scenes on their amorphous skin.",
+										"Because of these wonders, Eston is an irresistible attraction for treasure hunters hoping to access the vaults of House Cannith. Reports suggest, however, that it has become a strange and deadly place. It's said that the city is overrun by living spells. In addition to the remnants of damaging spells (see \"{@area Living Spells|064|x}\" in {@area chapter 6|513|x}), there are stranger phenomena: living {@i continual flames} that crawl along the streets, cling to lampposts, and flee from strangers, and living {@i scrying} spells that shift and shimmer, displaying distant scenes on their amorphous skin.",
 										"Eston was renowned for its clockwork menagerie and its steel gardens, a showcase that chronicles House Cannith's centuries of work developing constructs and homunculi. These creatures have been twisted by the Mourning and have become deadly monsters. Stories tell of an enormous gorgon golem, of razor-winged swarms of silver songbirds, and many other equally strange things."
 									]
 								},
@@ -15989,7 +15989,7 @@
 							"id": "403",
 							"entries": [
 								"Few people have reason to spend time anywhere near the Mournland. Among the exceptions are those who seek to plunder the riches of lost Cyre, such as Ikar's Salvage (described below). These treasure hunters are also the kind of people who make interesting villains, teaming up with adventurers one day and betraying them the next.",
-								"In addition to these salvagers, {@creature the Lord of Blades|ERLW} (described in more detail earlier in this chapter and in {@book chapter 6|ERLW|13}) is a major force in the Mournland. The Mournland Villains table suggests other possible evil schemes and influences that might arise in connection with the Mournland.",
+								"In addition to these salvagers, {@creature the Lord of Blades|ERLW} (described in more detail earlier in this chapter and in {@area chapter 6|513|x}) is a major force in the Mournland. The Mournland Villains table suggests other possible evil schemes and influences that might arise in connection with the Mournland.",
 								{
 									"type": "table",
 									"caption": "Mournland Villains",
@@ -16016,7 +16016,7 @@
 										],
 										[
 											"4",
-											"A Karrnathi {@creature bone knight|ERLW} (see {@book chapter 6|ERLW|13}) wants to raise up an undead army from the corpses in the Mournland."
+											"A Karrnathi {@creature bone knight|ERLW} (see {@area chapter 6|513|x}) wants to raise up an undead army from the corpses in the Mournland."
 										],
 										[
 											"5",
@@ -16057,7 +16057,7 @@
 										],
 										[
 											"2",
-											"A magewright from House Cannith wants the party to escort him to a {@book warforged colossus|ERLW|10|Warforged Colossus}. The magewright wants to retrieve the docent network from the colossus before an unscrupulous House Phiarlan operative does so."
+											"A magewright from House Cannith wants the party to escort him to a {@area warforged colossus|406|x}. The magewright wants to retrieve the docent network from the colossus before an unscrupulous House Phiarlan operative does so."
 										],
 										[
 											"3",
@@ -16164,7 +16164,7 @@
 											"page": 223,
 											"id": "409",
 											"entries": [
-												"Controlling a construct of such size proved to be a great challenge for the Cannith artificers. The solution entailed creating a large number of {@item docent|ERLW} nodes and joining them together in a single network distributed throughout the body of the colossus. Docent nodes are modeled after the ancient {@i docents} found in Xen'drik (described in {@book chapter 5|ERLW|12}), and though they lack the full sentience or functionality of a true {@item docent|ERLW}, collectively they can guide and control a colossus. The network converged at one place, where the captain could stand and control the colossus's every movement through the use of a mithral helmet with hundreds of semi-organic tendril-wires attached. By way of the central master {@item docent|ERLW}\u2014a true {@item docent|ERLW} recovered from Xen'drik\u2014the whole network fed information back to the operator. Several smaller \"hubs\" of the network gave other operators access to the relevant parts of that information and enabled them to control parts of the colossus as well. The techniques and tools used to create {@item docent|ERLW} nodes were lost in the Mourning. The various branches of House Cannith are sending adventurers into the Mournland in hopes of salvaging some or all of the network inside a fallen colossus."
+												"Controlling a construct of such size proved to be a great challenge for the Cannith artificers. The solution entailed creating a large number of {@item docent|ERLW} nodes and joining them together in a single network distributed throughout the body of the colossus. Docent nodes are modeled after the ancient {@i docents} found in Xen'drik (described in {@area chapter 5|4d3|x}), and though they lack the full sentience or functionality of a true {@item docent|ERLW}, collectively they can guide and control a colossus. The network converged at one place, where the captain could stand and control the colossus's every movement through the use of a mithral helmet with hundreds of semi-organic tendril-wires attached. By way of the central master {@item docent|ERLW}\u2014a true {@item docent|ERLW} recovered from Xen'drik\u2014the whole network fed information back to the operator. Several smaller \"hubs\" of the network gave other operators access to the relevant parts of that information and enabled them to control parts of the colossus as well. The techniques and tools used to create {@item docent|ERLW} nodes were lost in the Mourning. The various branches of House Cannith are sending adventurers into the Mournland in hopes of salvaging some or all of the network inside a fallen colossus."
 											]
 										},
 										{
@@ -16194,7 +16194,7 @@
 									"id": "40c",
 									"entries": [
 										"When adventurers discover a colossus, it might be in any state. Some have fallen or collapsed and become overgrown with vegetation to the point where one could be mistaken for a small hill. One was engulfed when the rock under its feet turned to liquid and swallowed it up, encasing it in a stone prison when the rock hardened. Some are buried\u2014except for the head, perhaps, or a hand, which serves as a clear indicator that something lies underneath.",
-										"Adventurers might even stumble upon a reality the world isn't ready to face: an operational {@creature warforged colossus|ERLW|colossus} (see the stat block in {@book chapter 6|ERLW|13})."
+										"Adventurers might even stumble upon a reality the world isn't ready to face: an operational {@creature warforged colossus|ERLW|colossus} (see the stat block in {@area chapter 6|513|x})."
 									]
 								},
 								{
@@ -16467,7 +16467,7 @@
 							"id": "417",
 							"entries": [
 								"At low levels, adventurers can clash with Emerald Claw skeletons and zombies. As the characters grow more capable, the threats escalate. They might have to protect a village from a necromancer who is sucking the life out of the land, or race through a dungeon to acquire a necromantic relic before the Claw can claim it. The Emerald Claw is ideally suited to pulp action; it's a force that is blatant in its villainy and has hordes of evil minions to do its bidding. Defeating the schemes of the Emerald Claw should always feel like the right thing to do.",
-								"Although many members of the Emerald Claw believe that they are fighting for Karrnath, they are truly serving the lich {@creature Lady Illmarrow|ERLW} (see {@book chapter 6|ERLW|13}). The greatest necromancer of the age, she seeks to unlock the secrets of her inactive dragonmark, the Mark of Death. If she succeeds, she could come to possess unimaginable power. This makes her a formidable villain to drive the action of an entire campaign."
+								"Although many members of the Emerald Claw believe that they are fighting for Karrnath, they are truly serving the lich {@creature Lady Illmarrow|ERLW} (see {@area chapter 6|513|x}). The greatest necromancer of the age, she seeks to unlock the secrets of her inactive dragonmark, the Mark of Death. If she succeeds, she could come to possess unimaginable power. This makes her a formidable villain to drive the action of an entire campaign."
 							]
 						},
 						{
@@ -17123,7 +17123,7 @@
 							"page": 233,
 							"id": "42d",
 							"entries": [
-								"The mightiest of the fiends born from Khyber are creatures of immense power known as the overlords. Dozens of overlords were imprisoned by the Silver Flame at the dawn of time; two of them, {@creature Rak Tulkhesh|ERLW} and {@creature Sul Khatesh|ERLW}, are detailed in {@book chapter 6|ERLW|13}. Another\u2014Bel Shalor, the Shadow in the Flame\u2014is bound within the Silver Flame itself in the great cathedral in Flamekeep in Thrane. You can adapt other evil gods or archfiends for an Eberron campaign (assuming you don't want Eberron to be connected to the wider multiverse) by recasting them as overlords. For example, Tiamat could be an overlord embodying the pride and potential for evil within dragons, Lolth could be an overlord who preys on the elves, and Asmodeus the insidious maker of profane bargains.",
+								"The mightiest of the fiends born from Khyber are creatures of immense power known as the overlords. Dozens of overlords were imprisoned by the Silver Flame at the dawn of time; two of them, {@creature Rak Tulkhesh|ERLW} and {@creature Sul Khatesh|ERLW}, are detailed in {@area chapter 6|513|x}. Another\u2014Bel Shalor, the Shadow in the Flame\u2014is bound within the Silver Flame itself in the great cathedral in Flamekeep in Thrane. You can adapt other evil gods or archfiends for an Eberron campaign (assuming you don't want Eberron to be connected to the wider multiverse) by recasting them as overlords. For example, Tiamat could be an overlord embodying the pride and potential for evil within dragons, Lolth could be an overlord who preys on the elves, and Asmodeus the insidious maker of profane bargains.",
 								"Any fiend\u2014whether devil, demon, yugoloth, or something else\u2014could be spawned by Khyber if it suits your story. Such fiends might be bound to an overlord, or they might be independent incarnations of evil unleashed on the world. Two other races of fiends, though, play important roles in its history.",
 								{
 									"type": "entries",
@@ -17589,7 +17589,7 @@
 										"Every Gold Dragon Inn provides a standard menu of reliable services at reasonable rates. Prices are fixed (equal to those given in {@book chapter 5|PHB|4} of the {@book Player's Handbook|PHB}), and the quality of services is reliably modest, with some comfortable upgrades available. Every inn uses one of a small number of possible floor plans, and every inn's restaurant offers the same menu.",
 										"The size and number of guest rooms can vary from inn to inn: a small roadside inn has four rooms and a moderately sized common room, while a thriving inn in a large city has forty rooms, a restaurant, and a separate common room, with two stages for entertainment. Because the inns are owned by House Ghallanda, the buildings all include accommodations for halfling-sized guests as well as taller folk.",
 										"Because travelers often carry valuables with them, each inn has a heavy strongbox secured with an {@spell arcane lock} spell. To make a traveler's stay more enjoyable, perhaps even memorable, House Ghallanda has arranged with House Thuranni and House Phiarlan to employ guild-licensed entertainers at almost every Gold Dragon Inn.",
-										"To populate an inn with some distinctive individuals, you can use the {@book Mysterious Passengers table|ERLW|10|Mysterious Passengers}."
+										"To populate an inn with some distinctive individuals, you can use the {@area Mysterious Passengers table|43e|x}."
 									]
 								},
 								{
@@ -17705,7 +17705,7 @@
 								],
 								[
 									"6",
-									"A {@creature radiant idol|ERLW} (see {@book chapter 6|ERLW|13}) has formed a cult that attracts professors and staff of Morgrave University, promising them knowledge beyond imagining in exchange for their worship."
+									"A {@creature radiant idol|ERLW} (see {@area chapter 6|513|x}) has formed a cult that attracts professors and staff of Morgrave University, promising them knowledge beyond imagining in exchange for their worship."
 								]
 							]
 						},
@@ -18302,7 +18302,7 @@
 						"Any professional criminal in Sharn, however, is likely to be affiliated with one of four organizations. The Boromar Clan is the most entrenched and widespread of the four, and has dominated the business of crime in Sharn for centuries. The group called Daask is on the rise, directly challenging the Boromars. The Tyrants and House Tarkanan are smaller organizations with more specialized areas of operation. These groups are summarized in the Criminal Organizations of Sharn table and described in the later sections that follow.",
 						"Each of these organizations has a core of operatives and enterprises under the direct control of its leaders. But each also has a network of secondary relationships.",
 						"For example, the Little Fingers are a group of pickpockets and cutpurses that work in the Bazaar of Middle Dura. They aren't directly tied to the Boromar family. But the master of the gang pays a tithe to the Boromars, and if the Boromars send word to them that certain targets are to be avoided, the Little Fingers do so. In return, the Boromars ensure that the Sharn Watch in Middle Dura largely leaves the Fingers alone. So although the Boromar Clan itself has a few hundred members, it has interaction with thousands of criminals throughout the city.",
-						"{@book Chapter 3|ERLW|8} provides an overview of the four major criminal organizations and a body of information about them that's more or less common knowledge in Sharn. This section explores the roles that each one could play in a Sharn-based campaign.",
+						"{@area Chapter 3|314|x} provides an overview of the four major criminal organizations and a body of information about them that's more or less common knowledge in Sharn. This section explores the roles that each one could play in a Sharn-based campaign.",
 						"Although the powerful organizations in Sharn have a hand in most criminal activity, sometimes you might want an adventure to involve a smaller gang. The Street Gangs table presents a number of lesser criminal groups adventurers could tangle with.",
 						{
 							"type": "inset",
@@ -18623,7 +18623,7 @@
 							"id": "453",
 							"entries": [
 								"The true power of the Boromar Clan lies in its institutions: watch officers who have been allied to the clan for generations, judges who are blackmailed into compliance, and officials who receive lucrative bribes in exchange for their cooperation. Adventurers who oppose the Boromars might discover that people they think of as friends and allies are in the pocket of the clan. The Boromars are villains in the noir tradition, and adventurers determined to tangle with them will be drawn down into the mud.",
-								"The Boromar Clan could serve as a group patron for a party of adventurers, as described in {@book chapter 1|ERLW|4}. The Boromar Clan Assignments table provides goals for adventurers who are working with the clan, and the \"{@book Crime Syndicate|ERLW|4|Crime Syndicate}\" section of {@book chapter 1|ERLW|4} includes additional ideas.",
+								"The Boromar Clan could serve as a group patron for a party of adventurers, as described in {@area chapter 1|194|x}. The Boromar Clan Assignments table provides goals for adventurers who are working with the clan, and the \"{@area Crime Syndicate|1a7|x}\" section of {@area chapter 1|194|x} includes additional ideas.",
 								{
 									"type": "table",
 									"caption": "Boromar Clan Assignments",
@@ -18941,7 +18941,7 @@
 								},
 								"Another option is to delve deeper into the motives of Daask, to explore the idea that these monsters aren't as savage as they appear. The elite members of Daask are spies, soldiers, and saboteurs using their criminal activities as a cover for their true agenda. What is Sora Katra really trying to accomplish in Sharn? This question ties to how you decide to use the Daughters of Sora Kell, described earlier in this chapter. Do the Daughters simply want to ravage their enemies? Or, guided by the oracular visions of Sora Teraza, are they actually working toward some greater good? For instance, Daask agents could break into the vaults and workshops of dragonmarked houses and discover secret projects forbidden by the Treaty of Thronehold. They could clash with spies of foreign powers in Sharn, or pursue ancient artifacts in the ruins below the city to keep them out of others' hands.",
 								"Dreamlily is relatively safe; dragon's blood is not. Its effects are intentionally unpredictable, and you can take this idea wherever you like. Could drinking dragon's blood cause someone to develop a dragonmark? Could it turn addicts into crazed, draconic creatures? Is Daask simply selling it to make money, or is the drug's introduction part of a grander plan? Neither the Boromar Clan or the dragonmarked houses have been able to learn anything important about dragon's blood.",
-								"Daask can also serve as a group patron for a party of adventurers, as described in {@book chapter 1|ERLW|4}. The Daask Assignments table provides objectives for adventurers working with the organization, and the discussion of crime syndicates in {@book chapter 1|ERLW|4} includes additional ideas for parties with a crime syndicate patron.",
+								"Daask can also serve as a group patron for a party of adventurers, as described in {@area chapter 1|194|x}. The Daask Assignments table provides objectives for adventurers working with the organization, and the discussion of crime syndicates in {@area chapter 1|194|x} includes additional ideas for parties with a crime syndicate patron.",
 								{
 									"type": "table",
 									"caption": "Daask Assignments",
@@ -19039,7 +19039,7 @@
 								"According to a high-ranking source in the King's Citadel, this secret operation predictably ended in disaster. After a few missions, the strike force slew their handlers and deserted, disappearing into the criminal underworld. They could be anywhere. There can be no clearer sign that it's time to bring down the monarchy and institute a government that is chosen by and answerable to the common people!"
 							]
 						},
-						"Long ago, the dragonmarked houses sought to exterminate the bearers of {@book aberrant dragonmarks|ERLW|2|Aberrant Dragonmarks}. Today, those who carry aberrant dragonmarks are still treated with fear and suspicion. During the Last War, the King's Dark Lanterns of Breland trained a team of covert operatives who all bore aberrant marks. Considered expendable, this group was sent on one suicide mission after another. After half its members died in the field, the survivors turned on their masters. Six years ago, they fled to Sharn and founded House Tarkanan. The group takes its name from Lord Halas Tarkanan, who fought the dragonmarked houses long ago and used his aberrant dragonmark to destroy Old Sharn.",
+						"Long ago, the dragonmarked houses sought to exterminate the bearers of {@area aberrant dragonmarks|143|x}. Today, those who carry aberrant dragonmarks are still treated with fear and suspicion. During the Last War, the King's Dark Lanterns of Breland trained a team of covert operatives who all bore aberrant marks. Considered expendable, this group was sent on one suicide mission after another. After half its members died in the field, the survivors turned on their masters. Six years ago, they fled to Sharn and founded House Tarkanan. The group takes its name from Lord Halas Tarkanan, who fought the dragonmarked houses long ago and used his aberrant dragonmark to destroy Old Sharn.",
 						"The smallest of the four criminal organizations described here, House Tarkanan has no interest in claiming territory or dominating the criminal underworld. The house takes neither side in the war between the Boromar Clan and Daask, and it will not assassinate high-ranking members of either organization. In other matters, it sells its services to all who have the gold to pay for them. House Tarkanan's top priority is using its wealth to protect, train, and care for people who have aberrant marks. The leaders of the house are pragmatists and soldiers, and they train their recruits to be warriors and thieves.",
 						"Despite its name, House Tarkanan is not a dragonmarked house; it has taken the name to mock its enemies, and it doesn't have the recognition, power, or resources of a dragonmarked house. In fact, many members of House Tarkanan hate the dragonmarked houses for being prejudiced against their kind and fear that they will instigate a second purge of aberrant marks. Others are more idealistic, and see the growing power of the houses as a threat to all of the nations of Khorvaire.",
 						{
@@ -19116,7 +19116,7 @@
 							"entries": [
 								"As assassins for hire, the members of House Tarkanan can appear in a campaign as agents of other enemies of the adventurers. But they can also play a central role in a campaign.",
 								"To use House Tarkanan as a recurring villain, you can stress its ruthlessness and emphasize its hatred of the dragonmarked houses. If any of the adventurers have ties to one of the houses, this confrontation could begin with a number of small attacks against the adventurer or their friends. Over time, these actions could escalate. In addition, you could build a story around Thora Tarkanan's quest to discover the secrets of aberrant dragonmarks. Long ago, Halas Tarkanan and the Lady of the Plague possessed marks so powerful that they could destroy cities. Can Thora find a way to amplify her own power in the ruins of Old Sharn?",
-								"If one or more of the adventurers has an aberrant dragonmark, House Tarkanan can also serve as a group patron for a party of adventurers, as described in {@book chapter 1|ERLW|4}. The House Tarkanan Assignments table provides hooks for adventurers who are working with the organization, and the discussion of crime syndicates in {@book chapter 1|ERLW|4} includes additional ideas.",
+								"If one or more of the adventurers has an aberrant dragonmark, House Tarkanan can also serve as a group patron for a party of adventurers, as described in {@area chapter 1|194|x}. The House Tarkanan Assignments table provides hooks for adventurers who are working with the organization, and the discussion of crime syndicates in {@area chapter 1|194|x} includes additional ideas.",
 								{
 									"type": "table",
 									"caption": "House Tarkanan Assignments",
@@ -19284,7 +19284,7 @@
 								"The Tyrants have three objectives: acquiring gold, gathering secrets, and protecting the changelings of Sharn. In working the Tyrants into a campaign, the first question is which of these objectives will take precedence. Are they primarily grifters, trying to squeeze as much profit as possible out of the situation? Are they mainly working to gather secrets, and to use those secrets to manipulate others? Or are they most concerned with helping other changelings, who are often with the objects of fear and suspicion?",
 								"The Tyrants offer an easy way to provide adventurers with information. The Spider can be a strong ally for adventurers, and you can always arrange for an agent of the Tyrants to step out of the shadows with and offer to sell a secret.",
 								"The Tyrants could also have a long-term sinister agenda\u2014something they've been working on for generations, which is only coming to fruition now. Do they want to replace the entire city council of Sharn, or are their aspirations even higher than that? In a campaign that examines this idea, the Tyrants might impersonate the patrons and allies of the adventurers, thereby tricking them into carrying out questionable tasks.",
-								"The Tyrants can also serve as a group patron for a party of adventurers, as described in {@book chapter 1|ERLW|4}, especially if the party includes one or more changelings. The Tyrants Assignments table provides hooks for adventurers working with the organization, and the discussion of crime syndicates in {@book chapter 1|ERLW|4} includes additional ideas.",
+								"The Tyrants can also serve as a group patron for a party of adventurers, as described in {@area chapter 1|194|x}, especially if the party includes one or more changelings. The Tyrants Assignments table provides hooks for adventurers working with the organization, and the discussion of crime syndicates in {@area chapter 1|194|x} includes additional ideas.",
 								{
 									"type": "table",
 									"caption": "Tyrants Assignments",
@@ -19403,7 +19403,7 @@
 								"The discussion above primarily concerns the rank and file of the Sharn Watch, the guards who walk the streets day in and day out and the officers who supervise them. The Watch also includes a few special divisions that could cross the paths of the adventurers.",
 								"{@b The Blackened Book} is an elite core of abjurers and diviners, charged with investigating and containing magical threats. These wizards are highly dedicated to their work and their city, and generally don't take bribes. It's up to the higher-ups, however, to decide what missions to assign to the Blackened Book; if there's a case that a noble doesn't want investigated, it probably won't be.",
 								"{@b The Guardians of the Gate} came into being during the Last War to monitor the activities of foreign nationals and immigrants. Their duties have expanded since the surge of refugees into Sharn following the Mourning, and the Guardians of the Gate closely supervise the district of High Walls. The Guardians are chosen from among the best soldiers of the Watch and are devoted to their city. Many of them, however, place the safety of the city ahead of strict adherence to the law, and complaints are raised against them from time to time for unnecessary violence against refugees.",
-								"{@b The Redcloak Battalion} is an exceptional unit of soldiers that is called upon if a situation calls for extreme military force. The Redcloaks are heroes of the Last War, and now that the fighting is over most of them don't appreciate being used as local police. The Redcloaks are absolutely faithful to Breland: they are willing to lay down their lives in the service of their nation. Trying to bribe a Redcloak is a good way to lose a hand. Like the Blackened Book, however, the Redcloaks are elite troops that act only when they're mustered by a captain of the Watch; typically, they won't be asked to respond to a situation if it's not in the interests of the Boromar Clan. The Redcloak Battalion is described in more detail in {@book chapter 3|ERLW|8|The Redcloak Battalion}."
+								"{@b The Redcloak Battalion} is an exceptional unit of soldiers that is called upon if a situation calls for extreme military force. The Redcloaks are heroes of the Last War, and now that the fighting is over most of them don't appreciate being used as local police. The Redcloaks are absolutely faithful to Breland: they are willing to lay down their lives in the service of their nation. Trying to bribe a Redcloak is a good way to lose a hand. Like the Blackened Book, however, the Redcloaks are elite troops that act only when they're mustered by a captain of the Watch; typically, they won't be asked to respond to a situation if it's not in the interests of the Boromar Clan. The Redcloak Battalion is described in more detail in {@area chapter 3|37e|x}."
 							]
 						},
 						{
@@ -19432,7 +19432,7 @@
 										"Commander Belew Yorgan is a male dwarf who leads the Sword Point garrison in Middle Central. He does his best to serve the interests of the nobles and wealthy patrons in the Central Plateau, and as a result these wards are among the safest in Sharn. But Yorgan's loyalties are first and foremost to his purse, and the troops under his command serve whoever's paying the most.",
 										"Commander Silaena Cazal is a female elf who runs the Warden Towers garrison in Middle Menthis. Over a century of service, she has woven a net of graft and extortion across Menthis Plateau; she looks after those who pay their dues. Her mother was driven from House Phiarlan when she developed an aberrant dragonmark. Because of that treatment, Silaena harbors deep resentment for the dragonmarked houses and will occasionally take actions to inconvenience them. Thora Tavin of House Tarkanan is working to strengthen her relationship with Commander Cazal.",
 										"Commander Iyanna ir'Talan is a female human who commands the Black Arch garrison in Lower Tavick's Landing. The daughter of the Lord Commander, Iyanna is idealistic and honorable. She fights for the good of the common people. If the adventurers need an honest ally in the Watch, Iyanna is perhaps their best hope. Despite her father's best efforts to keep her from getting entangled in the criminal underworld, her actions have won her no friends among Sharn's crime lords, and her life could be in danger despite her parentage.",
-										"Lady Warden Maira ir'Talan, a distant relative of the Lord Commander, leads the Blackened Book. A gifted diviner, Maira is a highly effective leader. What none know is that she's also an agent of the Dreaming Dark. Five years ago, a {@creature kalaraq quori|ERLW} (see {@book chapter 6|ERLW|13}) named Tirashana implanted a mind seed in her thoughts. Maira continues to do her job while concealing any evidence of the Dreaming Dark's schemes.",
+										"Lady Warden Maira ir'Talan, a distant relative of the Lord Commander, leads the Blackened Book. A gifted diviner, Maira is a highly effective leader. What none know is that she's also an agent of the Dreaming Dark. Five years ago, a {@creature kalaraq quori|ERLW} (see {@area chapter 6|513|x}) named Tirashana implanted a mind seed in her thoughts. Maira continues to do her job while concealing any evidence of the Dreaming Dark's schemes.",
 										"Captain Daja Brel is a female human who commands the Guardians of the Gate. Daja firmly believes that the Guardians are all that stands between order and chaos in Sharn, and she acts with unbridled force if she believes a group or an individual threatens the city.",
 										"Captain Khandan Dol is a male dwarf who leads the Redcloak Battalion. Khandan is a local legend who served in the Brelish army throughout the Last War; he was knighted by the last king of Galifar and swore an oath to the first queen of Breland. He enjoys drinking and gambling. He takes discipline seriously, though, and expects his soldiers to show complete loyalty to their country and its king. Because of his experiences in the war, he has a deep dislike for Thranes and followers of the Silver Flame, but he rarely lets these feelings interfere with his duties."
 									]
@@ -20161,7 +20161,7 @@
 										],
 										[
 											"2",
-											"A mishap creates a temporary manifest zone (see \"{@book The Planes of Existence|ERLW|10|Planes of Existence}\" in {@book chapter 4|ERLW|10} for information on manifest zones)."
+											"A mishap creates a temporary manifest zone (see \"{@area The Planes of Existence|419|x}\" in {@area chapter 4|3cd|x} for information on manifest zones)."
 										],
 										[
 											"3",
@@ -20281,7 +20281,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "05b"
 				},
 				{
 					"type": "section",
@@ -20312,7 +20313,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "05c"
 				},
 				{
 					"type": "section",
@@ -20336,7 +20338,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "05d"
 				},
 				{
 					"type": "section",
@@ -20360,7 +20363,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "05e"
 				},
 				{
 					"type": "section",
@@ -20384,7 +20388,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "05f"
 				},
 				{
 					"type": "section",
@@ -20415,7 +20420,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "060"
 				},
 				{
 					"type": "section",
@@ -20439,7 +20445,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "061"
 				},
 				{
 					"type": "section",
@@ -20463,7 +20470,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "062"
 				},
 				{
 					"type": "section",
@@ -20487,7 +20495,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "063"
 				},
 				{
 					"type": "section",
@@ -20525,7 +20534,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "064"
 				},
 				{
 					"type": "section",
@@ -20549,7 +20559,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "065"
 				},
 				{
 					"type": "section",
@@ -20573,7 +20584,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "066"
 				},
 				{
 					"type": "section",
@@ -20611,7 +20623,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "067"
 				},
 				{
 					"type": "section",
@@ -20649,7 +20662,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "068"
 				},
 				{
 					"type": "section",
@@ -20673,7 +20687,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "069"
 				},
 				{
 					"type": "section",
@@ -20697,7 +20712,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06a"
 				},
 				{
 					"type": "section",
@@ -20728,7 +20744,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06b"
 				},
 				{
 					"type": "section",
@@ -20766,7 +20783,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06c"
 				},
 				{
 					"type": "section",
@@ -20790,7 +20808,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06d"
 				},
 				{
 					"type": "section",
@@ -20814,7 +20833,8 @@
 							"source": "ERLW",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06e"
 				},
 				{
 					"type": "entries",
@@ -20842,7 +20862,8 @@
 									"source": "ERLW",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "070"
 						},
 						{
 							"type": "section",
@@ -20866,7 +20887,8 @@
 									"source": "ERLW",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "071"
 						},
 						{
 							"type": "section",
@@ -20890,7 +20912,8 @@
 									"source": "ERLW",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "072"
 						},
 						{
 							"type": "section",
@@ -20914,7 +20937,8 @@
 									"source": "ERLW",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "073"
 						},
 						{
 							"type": "section",
@@ -20938,7 +20962,8 @@
 									"source": "ERLW",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "074"
 						},
 						{
 							"type": "section",
@@ -20962,7 +20987,8 @@
 									"source": "ERLW",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "075"
 						},
 						{
 							"type": "section",
@@ -20986,9 +21012,11 @@
 									"source": "ERLW",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "080"
 						}
-					]
+					],
+					"id": "06f"
 				},
 				{
 					"type": "section",

@@ -1,4 +1,4 @@
-"use strict";
+import {GenUtil} from "./utils-generate.js";
 
 const RNG = RollerUtil.randomise.bind(RollerUtil);
 
@@ -307,20 +307,19 @@ const CHILDHOOD_MEMORIES = [
 ];
 
 const LIFE_EVENTS_AGE = [
-	{min: 1, max: 20, "age": () => RNG(20), result: "20 years or younger", "events": 1},
-	{min: 21, max: 59, "age": () => RNG(10) + 20, result: "21\u201430 years", "events": () => RNG(4)},
-	{min: 60, max: 69, "age": () => RNG(10) + 30, result: "31\u201440 years", "events": () => RNG(6)},
-	{min: 70, max: 89, "age": () => RNG(10) + 40, result: "41\u201450 years", "events": () => RNG(8)},
-	{min: 90, max: 99, "age": () => RNG(10) + 50, result: "51\u201460 years", "events": () => RNG(10)},
-	{min: 100, "age": () => RNG(690) + 60, result: "61 years or older", "events": () => RNG(12)}, // max age = 750; max elven age
+	{min: 1, max: 20, age: () => RNG(20), result: "20 years or younger", events: 1},
+	{min: 21, max: 59, age: () => RNG(10) + 20, result: "21\u201430 years", events: () => RNG(4)},
+	{min: 60, max: 69, age: () => RNG(10) + 30, result: "31\u201440 years", events: () => RNG(6)},
+	{min: 70, max: 89, age: () => RNG(10) + 40, result: "41\u201450 years", events: () => RNG(8)},
+	{min: 90, max: 99, age: () => RNG(10) + 50, result: "51\u201460 years", events: () => RNG(10)},
+	{min: 100, age: () => RNG(690) + 60, result: "61 years or older", events: () => RNG(12)}, // max age = 750; max elven age
 ];
 
 async function _pLifeEvtResult (title, rollResult) {
-	const out = {
+	return {
 		result: `${title}: ${rollResult.result}`,
+		pNextRoll: rollResult.pNextRoll,
 	};
-	if (rollResult.pNextRoll) out.nextRoll = await rollResult.pNextRoll;
-	return out;
 }
 
 function _lifeEvtResultArr (title, titles, ...rollResults) {
@@ -383,7 +382,7 @@ const LIFE_EVENTS_ARCANE_MATTERS = [
 
 const LIFE_EVENTS_BOONS = [
 	{min: 1, result: "A friendly wizard gave you a spell scroll containing one cantrip (of the DM's choice)."},
-	{min: 2, result: "You saved the life of a commoner, who now owes you a life debt. This individual accompanies you on your travels and performs mundane tasks for you, but will leave if neglected, abused, or imperiled. Determine details about this character by using the supplemental tables and working with your DM."},
+	{min: 2, result: "You saved the life of a commoner, who now owes you a life debt. This individual accompanies you on your travels and performs mundane tasks for you, but will leave if neglected, abused, or imperiled. Determine details about this character by using the supplemental tables and working with your DM.", pNextRoll: async () => _lifeEvtPerson("Commoner", await getPersonDetails())},
 	{min: 3, result: "You found a {@item riding horse}."},
 	{min: 4, result: () => `You found some money. You have {@dice 1d20} ${fmtChoice(RNG(20))} gp in addition to your regular starting funds.`, display: "You found some money. You have {@dice 1d20} gp in addition to your regular starting funds."},
 	{min: 5, result: "A relative bequeathed you a simple weapon of your choice."},
@@ -772,14 +771,33 @@ async function pSectSiblings () {
 	if (sibCount > 0) {
 		siblings.vee.empty();
 		siblings.vee.appends(`<p>You have ${sibCount} sibling${sibCount > 1 ? "s" : ""}.</p>`);
+
 		for (let i = 0; i < sibCount; ++i) {
-			const siblingType = rollOnArray(["brother", "sister"]);
-			siblings.vee.appends(`<h5>${getBirthOrder()} sibling ${fmtChoice(siblingType, true)}</h5>`);
-			siblings.vee.appends(veT`<div>${joinParaList(await getPersonDetails({
-				gender: siblingType === "brother" ? "Male" : "Female",
-				parentRaces: parentRaces,
-				isSibling: true,
-			}))}</div>`);
+			const dispTitle = veT`<h5 class="ve-my-0 ve-mr-2"></h5>`;
+			const dispDetails = veT`<div></div>`;
+
+			const pDoRollAndDisplay = async () => {
+				const siblingType = rollOnArray(["brother", "sister"]);
+				dispTitle.vee.html(`${getBirthOrder()} sibling ${fmtChoice(siblingType, true)}`);
+				dispDetails.vee.html(joinParaList(await getPersonDetails({
+					gender: siblingType === "brother" ? "Male" : "Female",
+					parentRaces: parentRaces,
+					isSibling: true,
+				})));
+			};
+
+			const btnReroll = veT`<button class="ve-btn ve-btn-default ve-btn-xxs no-print">Reroll</button>`
+				.vee.onn("click", () => pDoRollAndDisplay());
+
+			veT`<div class="ve-flex-col life__output-wrp-border ve-p-3 ve-my-2">
+				<div class="ve-split-v-center ve-mb-1">
+					${dispTitle}
+					${btnReroll}
+				</div>
+				${dispDetails}
+			</div>`.vee.appendTo(siblings);
+
+			await pDoRollAndDisplay();
 		}
 	} else {
 		siblings.vee.html("You are an only child.");
@@ -797,15 +815,35 @@ function sectFamily () {
 	const family = veEs(`#family`);
 	family.vee.empty();
 	family.vee.appends(veT`<div>${`<b>Family:</b> ${GenUtil.getFromTable(FAMILY, RNG(100)).result}<br>`}</div>`);
-	let famIndex = 1;
-	const btnSuppFam = veT`<button class="ve-btn ve-btn-xs ve-btn-default ve-btn-supp-fam no-print"></button>`.vee.onn("click", async () => {
-		const supDetails = await getPersonDetails();
-		const wrpRes = veT`<div class="life__output-wrp-border ve-p-3 ve-my-2"></div>`;
-		wrpRes.vee.appends(`<h5 class="ve-mt-0">Family Member Roll ${famIndex++}</h5>`);
-		wrpRes.vee.appends(veT`<div>${joinParaList(supDetails)}</div>`);
-		btnSuppFam.vee.css({marginBottom: "5px"});
-		btnSuppFam.after(wrpRes);
-	});
+
+	let ixFamily = 1;
+	const btnSuppFam = veT`<button class="ve-btn ve-btn-xs ve-btn-default ve-btn-supp-fam no-print"></button>`
+		.vee.onn("click", async () => {
+			const dispDetails = veT`<div></div>`;
+
+			const pDoRollAndDisplay = async () => dispDetails.vee.html(joinParaList(await getPersonDetails()));
+
+			const btnReroll = veT`<button class="ve-btn ve-btn-default ve-btn-xxs no-print">Reroll</button>`
+				.vee.onn("click", () => pDoRollAndDisplay());
+
+			const btnRemove = veT`<button class="ve-btn ve-btn-xxs no-print ve-btn-danger" title="Delete"><span class="glyphicon glyphicon-trash"></span></button>`
+				.vee.onn("click", () => wrpRes.remove());
+
+			const wrpRes = veT`<div class="life__output-wrp-border ve-p-3 ve-my-2">
+				<div class="ve-split-v-center ve-mb-1">
+					<h5 class="ve-my-0 ve-mr-2">Family Member Roll ${ixFamily++}</h5>
+					<div class="ve-btn-group ve-flex-v-center">
+						${btnReroll}
+						${btnRemove}
+					</div>
+				</div>
+				${dispDetails}
+			</div>`;
+			btnSuppFam.after(wrpRes);
+
+			await pDoRollAndDisplay();
+		});
+
 	family.vee.appends(`<span class="note">You can roll on the Relationship table to determine how your family members or other important figures in your life feel about you. You can also use the Race, Occupation, and Alignment tables to learn more about the family members or guardians who raised you.</span>`);
 	family.vee.appends(btnSuppFam);
 
@@ -838,7 +876,7 @@ function sectClassTraining () {
 }
 
 // LIFE EVENTS
-function sectLifeEvents () {
+async function pSectLifeEvents () {
 	const events = veEs(`#events`).vee.empty();
 	marriageIndex = 0;
 	const age = GenUtil.getFromTable(LIFE_EVENTS_AGE, Number(selAge.vee.val()) || RNG(100));
@@ -848,42 +886,60 @@ function sectLifeEvents () {
 		const dispResult = veT`<div></div>`;
 		const dispNextRoll = veT`<div></div>`;
 
-		const recurseNextRolls = (evt) => {
-			if (!evt.nextRoll) return;
+		const pRecurseNextRolls = async ({lifeEvent, wrpOutput}) => {
+			wrpOutput.vee.empty();
 
-			if (evt.nextRoll.title) {
+			if (!lifeEvent.pNextRoll) return;
+
+			const nextRoll = await lifeEvent.pNextRoll();
+			if (!nextRoll) return;
+
+			const wrpNextRoll = veT`<div></div>`;
+
+			if (nextRoll.title) {
+				const btnReroll = veT`<button class="ve-btn ve-btn-default ve-btn-xxs no-print">Reroll</button>`
+					.vee.onn("click", () => pRecurseNextRolls({lifeEvent, wrpOutput}));
+
 				veT`<div class="life__output-wrp-border ve-p-3 ve-my-2">
-					<h5 class="ve-mt-0">${evt.nextRoll.title}</h5>
-					${joinParaList(evt.nextRoll.result)}
-				</div>`.vee.appendTo(dispNextRoll);
+					<div class="ve-split-v-center ve-mb-1">
+						<h5 class="ve-my-0 ve-mr-2">${nextRoll.title}</h5>
+						${btnReroll}
+					</div>
+					${joinParaList(nextRoll.result)}
+					${wrpNextRoll}
+				</div>`
+					.vee
+					.appendTo(wrpOutput);
 			} else {
-				dispNextRoll.vee.appends(veT`<div>${`${joinParaList(evt.nextRoll.result)}<br>`}</div>`);
+				wrpOutput.vee.appends(
+					veT`<div>${`${joinParaList(nextRoll.result)}<br>`}</div>`,
+					wrpNextRoll,
+				);
 			}
 
-			return recurseNextRolls(evt.nextRoll);
+			return pRecurseNextRolls({lifeEvent: nextRoll, wrpOutput: wrpNextRoll});
 		};
 
-		const doRollAndDisplay = ({isScrollIntoView = false} = {}) => {
-			const evt = GenUtil.getFromTable(LIFE_EVENTS, RNG(100));
-			dispResult.vee.html(evt.result);
-			dispNextRoll.vee.empty();
-			recurseNextRolls(evt);
+		const pDoRollAndDisplay = async ({isScrollIntoView = false} = {}) => {
+			const lifeEvent = GenUtil.getFromTable(LIFE_EVENTS, RNG(100));
+			dispResult.vee.html(lifeEvent.result);
+			await pRecurseNextRolls({lifeEvent, wrpOutput: dispNextRoll});
 			if (isScrollIntoView) wrpEvent.scrollIntoView({block: "nearest", inline: "nearest"});
 		};
 
-		doRollAndDisplay();
-
 		const btnReroll = veT`<button class="ve-btn ve-btn-default ve-btn-xxs">Reroll</button>`
-			.vee.onn("click", () => doRollAndDisplay({isScrollIntoView: true}));
+			.vee.onn("click", () => pDoRollAndDisplay({isScrollIntoView: true}));
 
 		const wrpEvent = veT`<div class="ve-flex-col">
-			<div class="ve-flex-v-center ve-mb-1 ve-mt-2">
+			<div class="ve-split-v-center ve-mb-1 ve-mt-2">
 				<h5 class="ve-my-0 ve-mr-2">Life Event ${i + 1}</h5>
 				${btnReroll}
 			</div>
 			${dispResult}
 			${dispNextRoll}
 		</div>`.vee.appendTo(events);
+
+		await pDoRollAndDisplay();
 	}
 }
 
@@ -896,24 +952,40 @@ async function pRoll () {
 	sectFamily();
 	sectPersonalDecisions();
 	sectClassTraining();
-	sectLifeEvents();
+	await pSectLifeEvents();
+}
+
+class Lifegen {
+	async pInit () {
+		veEs(`#btn-generate`).vee.onn("click", () => pRoll());
+		veEs(`#btn-reroll-parents`).vee.onn("click", () => pSectParents());
+		veEs(`#btn-reroll-birthplace`).vee.onn("click", sectBirthplace);
+		veEs(`#btn-reroll-siblings`).vee.onn("click", () => pSectSiblings());
+		veEs(`#btn-reroll-family`).vee.onn("click", sectFamily);
+		veEs(`#btn-reroll-personal`).vee.onn("click", sectPersonalDecisions);
+		veEs(`#btn-reroll-class`).vee.onn("click", sectClassTraining);
+		veEs(`#btn-reroll-events`).vee.onn("click", () => pSectLifeEvents());
+
+		const selAge = veEs(`#age`).vee.onn("change", () => selAge.vee.toggleClass("ve-italic", !!selAge.vee.val()));
+
+		await Promise.all([
+			PrereleaseUtil.pInit(),
+			BrewUtil2.pInit(),
+		]);
+		ExcludeUtil.pInitialise().then(null); // don't await, as this is only used for search
+		const [lifeData, nameData] = await Promise.all([
+			DataUtil.loadJSON("data/life.json"),
+			DataUtil.loadJSON("data/names.json"),
+		]);
+		onJsonLoad(lifeData, nameData);
+
+		veEs(`#xge_link`).replaceWith(veE({outer: (Renderer.get().render(`{@book Xanathar's Guide to Everything|XGE|1|This Is Your Life}`))}));
+	}
 }
 
 window.addEventListener("load", async () => {
-	await Promise.all([
-		PrereleaseUtil.pInit(),
-		BrewUtil2.pInit(),
-	]);
-	ExcludeUtil.pInitialise().then(null); // don't await, as this is only used for search
-	const [lifeData, nameData] = await Promise.all([
-		DataUtil.loadJSON("data/life.json"),
-		DataUtil.loadJSON("data/names.json"),
-	]);
-	onJsonLoad(lifeData, nameData);
-
-	const selAge = veEs(`#age`).vee.onn("change", () => selAge.vee.toggleClass("ve-italic", !!selAge.vee.val()));
-
-	veEs(`#xge_link`).replaceWith(veE({outer: (Renderer.get().render(`{@book Xanathar's Guide to Everything|XGE|1|This Is Your Life}`))}));
+	const lifegen = new Lifegen();
+	await lifegen.pInit();
 
 	window.dispatchEvent(new Event("toolsLoaded"));
 });

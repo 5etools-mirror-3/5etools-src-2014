@@ -15486,7 +15486,8 @@
 			"page": 137,
 			"otherSources": [
 				{
-					"source": "EGW"
+					"source": "EGW",
+					"page": 137
 				}
 			],
 			"referenceSources": [
@@ -33310,7 +33311,8 @@
 					"page": 278
 				},
 				{
-					"source": "EGW"
+					"source": "EGW",
+					"page": 268
 				}
 			],
 			"referenceSources": [

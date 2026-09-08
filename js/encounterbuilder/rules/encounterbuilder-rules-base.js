@@ -2,7 +2,7 @@ import {EncounterPartyPlayerMeta} from "../encounterbuilder-models-other.js";
 import {EncounterBuilderRandomizerTemplated} from "../randomizer/encounterbuilder-randomizer-templated.js";
 import {BUDGET_MODE_CR, BUDGET_MODE_XP} from "../consts/encounterbuilder-consts.js";
 import {EncounterbuilderAdjusterTemplated} from "../adjuster/encounterbuilder-adjuster-slots.js";
-import {SITE_STYLE__CLASSIC, SITE_STYLE__ONE} from "../../consts.js";
+import {SITE_STYLE__CLASSIC} from "../../consts.js";
 import {EncounterBuilderTtkClassic} from "../ttk/encounterbuilder-ttk-classic.js";
 import {ENCOUNTER_SHAPE_CUSTOM_NAME, ENCOUNTER_SHAPE_CUSTOM_SOURCE, ENCOUNTER_SHAPE_RANDOM_NAME, ENCOUNTER_SHAPE_RANDOM_SOURCE} from "../encounterbuilder-consts.js";
 

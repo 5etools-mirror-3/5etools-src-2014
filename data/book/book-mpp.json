@@ -41,7 +41,7 @@
 					"id": "001",
 					"entries": [
 						"This book is a companion to the {@book Monster Manual|MM} and uses a similar presentation. If you are unfamiliar with the monster stat block format, read the {@book introduction|MM|0} of the {@book Monster Manual|MM} before proceeding. That book explains stat block terminology and gives rules for various monster traits\u2014information that isn't repeated here.",
-						"The {@book Stat Blocks by Challenge Rating table|MPP|0|Stat Blocks by Challenge Rating} sorts the creatures in this book by challenge rating. Most of these creatures appear in the \"{@book Bestiary A to Z|MPP|1}\" section, but those marked with an asterisk (*) appear in the \"{@book Faction Agents|MPP|1|Faction Agents}\" section.",
+						"The {@book Stat Blocks by Challenge Rating table|MPP|0|Stat Blocks by Challenge Rating} sorts the creatures in this book by challenge rating. Most of these creatures appear in the \"{@area Bestiary A to Z|062|x}\" section, but those marked with an asterisk (*) appear in the \"{@area Faction Agents|094|x}\" section.",
 						{
 							"type": "entries",
 							"name": "Unusual Attacks and Magic",
@@ -350,7 +350,7 @@
 										]
 									],
 									"footnotes": [
-										"*Appears in the \"{@book Faction Agents|MPP|1|Faction Agents}\" section"
+										"*Appears in the \"{@area Faction Agents|094|x}\" section"
 									]
 								}
 							]
@@ -435,67 +435,67 @@
 									],
 									"rows": [
 										[
-											"{@book The Abyss|MPP|0|The Abyss}",
+											"{@area The Abyss|00b|x}",
 											"CE"
 										],
 										[
-											"{@book Acheron|MPP|0|Acheron}",
+											"{@area Acheron|010|x}",
 											"LN, LE"
 										],
 										[
-											"{@book Arborea|MPP|0|Arborea}",
+											"{@area Arborea|015|x}",
 											"CG"
 										],
 										[
-											"{@book Arcadia|MPP|0|Arcadia}",
+											"{@area Arcadia|019|x}",
 											"LN, LG"
 										],
 										[
-											"{@book The Beastlands|MPP|0|The Beastlands}",
+											"{@area The Beastlands|01d|x}",
 											"NG, CG"
 										],
 										[
-											"{@book Bytopia|MPP|0|Bytopia}",
+											"{@area Bytopia|022|x}",
 											"NG, LG"
 										],
 										[
-											"{@book Carceri|MPP|0|Carceri}",
+											"{@area Carceri|026|x}",
 											"NE, CE"
 										],
 										[
-											"{@book Elysium|MPP|0|Elysium}",
+											"{@area Elysium|02a|x}",
 											"NG"
 										],
 										[
-											"{@book Gehenna|MPP|0|Gehenna}",
+											"{@area Gehenna|02e|x}",
 											"NE, LE"
 										],
 										[
-											"{@book Hades|MPP|0|Hades}",
+											"{@area Hades|032|x}",
 											"NE"
 										],
 										[
-											"{@book Limbo|MPP|0|Limbo}",
+											"{@area Limbo|038|x}",
 											"CN"
 										],
 										[
-											"{@book Mechanus|MPP|0|Mechanus}",
+											"{@area Mechanus|03d|x}",
 											"LN"
 										],
 										[
-											"{@book Mount Celestia|MPP|0|Mount Celestia}",
+											"{@area Mount Celestia|041|x}",
 											"LG"
 										],
 										[
-											"{@book The Nine Hells|MPP|0|The Nine Hells}",
+											"{@area The Nine Hells|045|x}",
 											"LE"
 										],
 										[
-											"{@book Pandemonium|MPP|0|Pandemonium}",
+											"{@area Pandemonium|049|x}",
 											"CN, CE"
 										],
 										[
-											"{@book Ysgard|MPP|0|Ysgard}",
+											"{@area Ysgard|04d|x}",
 											"CN, CG"
 										]
 									]
@@ -1216,7 +1216,7 @@
 										],
 										[
 											"2",
-											"A {@creature beholder} influenced by {@book the Abyss|MPP|0|The Abyss} has compound eyes and looks like a floating, cyclopean fly head. It promises not to destroy the characters if they bring it a corpse it has never tasted before."
+											"A {@creature beholder} influenced by {@area the Abyss|00b|x} has compound eyes and looks like a floating, cyclopean fly head. It promises not to destroy the characters if they bring it a corpse it has never tasted before."
 										],
 										[
 											"3",
@@ -1224,7 +1224,7 @@
 										],
 										[
 											"4",
-											"A hirsute, axe-wielding {@creature flumph} influenced by {@book Ysgard|MPP|0|Ysgard} quests across the land, seeking legendary beasts to slay and epic songs to sing."
+											"A hirsute, axe-wielding {@creature flumph} influenced by {@area Ysgard|04d|x} quests across the land, seeking legendary beasts to slay and epic songs to sing."
 										]
 									]
 								}
@@ -1255,7 +1255,7 @@
 										],
 										[
 											"2",
-											"A {@creature triceratops} influenced by {@book Mechanus|MPP|0|Mechanus} and composed of simple geometric shapes charges creatures that enter the angular canyons it inhabits. It moves only in straight lines and turns only at right angles."
+											"A {@creature triceratops} influenced by {@area Mechanus|03d|x} and composed of simple geometric shapes charges creatures that enter the angular canyons it inhabits. It moves only in straight lines and turns only at right angles."
 										],
 										[
 											"3",
@@ -1263,7 +1263,7 @@
 										],
 										[
 											"4",
-											"A desiccated {@creature giant frog} influenced by {@book Pandemonium|MPP|0|Pandemonium} screams whenever it opens its mouth. Its interior is even noisier."
+											"A desiccated {@creature giant frog} influenced by {@area Pandemonium|049|x} screams whenever it opens its mouth. Its interior is even noisier."
 										]
 									]
 								}
@@ -1275,7 +1275,7 @@
 							"page": 11,
 							"id": "055",
 							"entries": [
-								"Various Celestials watch over the Outlands, particularly those reaches that border the Upper Planes. Angels and {@book archons|MPP|1|Archons} (presented later in this book) are particularly common. Some seek to prevent fiendish incursions into the plane, while others try to align the Outlands closer to goodly philosophies.",
+								"Various Celestials watch over the Outlands, particularly those reaches that border the Upper Planes. Angels and {@area archons|069|x} (presented later in this book) are particularly common. Some seek to prevent fiendish incursions into the plane, while others try to align the Outlands closer to goodly philosophies.",
 								{
 									"type": "table",
 									"caption": "Outlands Celestials",
@@ -1294,7 +1294,7 @@
 										],
 										[
 											"2",
-											"Wearing grim armor and displaying a rust-colored horn, a {@creature unicorn} influenced by {@book Acheron|MPP|0|Acheron} challenges all it encounters to mortal combat."
+											"Wearing grim armor and displaying a rust-colored horn, a {@creature unicorn} influenced by {@area Acheron|010|x} challenges all it encounters to mortal combat."
 										],
 										[
 											"3",
@@ -1302,7 +1302,7 @@
 										],
 										[
 											"4",
-											"A {@creature couatl} influenced by {@book Limbo|MPP|0|Limbo} has color-changing wings and insists passersby convince it that they're worthy of existing. If the couatl isn't convinced, it has a 50 percent chance of either attacking or wandering off."
+											"A {@creature couatl} influenced by {@area Limbo|038|x} has color-changing wings and insists passersby convince it that they're worthy of existing. If the couatl isn't convinced, it has a 50 percent chance of either attacking or wandering off."
 										]
 									]
 								}
@@ -1333,7 +1333,7 @@
 										],
 										[
 											"2",
-											"A beautiful but vain {@creature flesh golem} influenced by {@book Arborea|MPP|0|Arborea} insists on following a character until the character sketches, sculpts, or otherwise artistically renders it."
+											"A beautiful but vain {@creature flesh golem} influenced by {@area Arborea|015|x} insists on following a character until the character sketches, sculpts, or otherwise artistically renders it."
 										],
 										[
 											"3",
@@ -1341,7 +1341,7 @@
 										],
 										[
 											"4",
-											"A {@creature clay golem} influenced by {@book the Beastlands|MPP|0|The Beastlands} has been transformed into the walking hive that's home to numerous {@creature Swarm of Wasps||swarms of insects (wasps)}."
+											"A {@creature clay golem} influenced by {@area the Beastlands|01d|x} has been transformed into the walking hive that's home to numerous {@creature Swarm of Wasps||swarms of insects (wasps)}."
 										]
 									]
 								},
@@ -1383,7 +1383,7 @@
 										],
 										[
 											"2",
-											"A lawful good {@creature Faerie Dragon (Violet)||faerie dragon} with wings like stained glass has been influenced by {@book Mount Celestia|MPP|0|Mount Celestia}. It seeks the characters' aid in recovering a stolen {@item holy avenger}."
+											"A lawful good {@creature Faerie Dragon (Violet)||faerie dragon} with wings like stained glass has been influenced by {@area Mount Celestia|041|x}. It seeks the characters' aid in recovering a stolen {@item holy avenger}."
 										],
 										[
 											"3",
@@ -1391,7 +1391,7 @@
 										],
 										[
 											"4",
-											"A neutral evil {@creature adult silver dragon} with dull, gray scales has been influenced by {@book Hades|MPP|0|Hades}. It demands a toll from any who crosses its domain."
+											"A neutral evil {@creature adult silver dragon} with dull, gray scales has been influenced by {@area Hades|032|x}. It demands a toll from any who crosses its domain."
 										]
 									]
 								}
@@ -1422,7 +1422,7 @@
 										],
 										[
 											"2",
-											"Some skull-headed {@creature Azer||azers} have been influenced by {@book the Nine Hells|MPP|0|The Nine Hells}. They escort a heavily armored caravan of rare ore to the gate-town of Ribcage."
+											"Some skull-headed {@creature Azer||azers} have been influenced by {@area the Nine Hells|045|x}. They escort a heavily armored caravan of rare ore to the gate-town of Ribcage."
 										],
 										[
 											"3",
@@ -1430,7 +1430,7 @@
 										],
 										[
 											"4",
-											"A wealthy {@creature dao} that glistens with gemstones has been influenced by {@book Arborea|MPP|0|Arborea}. It leads a parade of glimmering {@creature galeb duhr} between gate-towns as part of a shopping spree for precious rocks."
+											"A wealthy {@creature dao} that glistens with gemstones has been influenced by {@area Arborea|015|x}. It leads a parade of glimmering {@creature galeb duhr} between gate-towns as part of a shopping spree for precious rocks."
 										]
 									]
 								}
@@ -1461,15 +1461,15 @@
 										],
 										[
 											"2",
-											"A kindly {@creature green hag} influenced by {@book Elysium|MPP|0|Elysium} invites passersby to join her for tea in her cottage made of sweets. She makes some of the best cookies in the Outlands."
+											"A kindly {@creature green hag} influenced by {@area Elysium|02a|x} invites passersby to join her for tea in her cottage made of sweets. She makes some of the best cookies in the Outlands."
 										],
 										[
 											"3",
-											"A pack of {@creature Blink Dog||blink dogs} tracks a band of {@creature Maelephant|MPP|maelephants} (presented {@book later|MPP|1|Maelephant} in this book) to prevent them from spoiling lands influenced by the Upper Planes."
+											"A pack of {@creature Blink Dog||blink dogs} tracks a band of {@creature Maelephant|MPP|maelephants} (presented {@area later|074|x} in this book) to prevent them from spoiling lands influenced by the Upper Planes."
 										],
 										[
 											"4",
-											"A gnarled {@creature dryad} influenced by {@book Carceri|MPP|0|Carceri} seeks to entrap creatures within the root-snarled, prison-like cavern beneath her grove."
+											"A gnarled {@creature dryad} influenced by {@area Carceri|026|x} seeks to entrap creatures within the root-snarled, prison-like cavern beneath her grove."
 										]
 									]
 								}
@@ -1496,7 +1496,7 @@
 									"rows": [
 										[
 											"1",
-											"A {@creature nycaloth} seeks to capture several monochromatic {@creature Hell Hound||hell hounds} influenced by {@book Gehenna|MPP|0|Gehenna}. The yugoloth seeks to sell the hounds to Fiends participating in the Blood War."
+											"A {@creature nycaloth} seeks to capture several monochromatic {@creature Hell Hound||hell hounds} influenced by {@area Gehenna|02e|x}. The yugoloth seeks to sell the hounds to Fiends participating in the Blood War."
 										],
 										[
 											"2",
@@ -1539,7 +1539,7 @@
 										],
 										[
 											"2",
-											"An {@creature ettin} influenced by {@book the Beastlands|MPP|0|The Beastlands} has one head with bovine features and one head with lupine features. It desperately needs help finding something both heads are willing to eat."
+											"An {@creature ettin} influenced by {@area the Beastlands|01d|x} has one head with bovine features and one head with lupine features. It desperately needs help finding something both heads are willing to eat."
 										],
 										[
 											"3",
@@ -1578,7 +1578,7 @@
 										],
 										[
 											"2",
-											"Several gnome {@creature Mage||mages} seek help recovering their walking castle from a band of aggressive, spine-covered {@creature lizardfolk} influenced by {@book the Abyss|MPP|0|The Abyss}."
+											"Several gnome {@creature Mage||mages} seek help recovering their walking castle from a band of aggressive, spine-covered {@creature lizardfolk} influenced by {@area the Abyss|00b|x}."
 										],
 										[
 											"3",
@@ -1617,7 +1617,7 @@
 										],
 										[
 											"2",
-											"The characters have to retrieve a treasure from a group of mischievous {@creature Sprite||sprites}. The sprites are secretly defended by {@creature Mimic||mimics} influenced by {@book Elysium|MPP|0|Elysium} that take the form of tiny, whimsical cottages."
+											"The characters have to retrieve a treasure from a group of mischievous {@creature Sprite||sprites}. The sprites are secretly defended by {@creature Mimic||mimics} influenced by {@area Elysium|02a|x} that take the form of tiny, whimsical cottages."
 										],
 										[
 											"3",
@@ -1625,7 +1625,7 @@
 										],
 										[
 											"4",
-											"A {@creature drider} influenced by {@book Arborea|MPP|0|Arborea} runs a {@creature giant spider} ranch. She hires the characters to hunt a rare breed of {@creature sunfly|MPP} (detailed {@book later|MPP|1|Sunflies} in this book) that, when fed to her spiders, will allow them to produce a remarkable type of silk."
+											"A {@creature drider} influenced by {@area Arborea|015|x} runs a {@creature giant spider} ranch. She hires the characters to hunt a rare breed of {@creature sunfly|MPP} (detailed {@area later|07a|x} in this book) that, when fed to her spiders, will allow them to produce a remarkable type of silk."
 										]
 									]
 								}
@@ -1656,11 +1656,11 @@
 										],
 										[
 											"2",
-											"Within a {@creature gelatinous cube} influenced by {@book Gehenna|MPP|0|Gehenna} floats a gigantic fiendish skull. Numerous Fiends revere the cube and interpret depraved schemes and threatening orders from its quivering. A Celestial seeks aid in destroying the cube."
+											"Within a {@creature gelatinous cube} influenced by {@area Gehenna|02e|x} floats a gigantic fiendish skull. Numerous Fiends revere the cube and interpret depraved schemes and threatening orders from its quivering. A Celestial seeks aid in destroying the cube."
 										],
 										[
 											"3",
-											"A bog in a region influenced by {@book Carceri|MPP|0|Carceri} is swamped with countless {@creature Black Pudding||black puddings}. The characters are hired to recover a lost relic from the bottom of the bog."
+											"A bog in a region influenced by {@area Carceri|026|x} is swamped with countless {@creature Black Pudding||black puddings}. The characters are hired to recover a lost relic from the bottom of the bog."
 										],
 										[
 											"4",
@@ -1714,7 +1714,7 @@
 										],
 										[
 											"4",
-											"A resident of the gate-town of {@book Ecstasy|SatO|3|Ecstasy} is missing. His garden of {@creature Twig Blight||twig blights}\u2014influenced by {@book Elysium|MPP|0|Elysium} to resemble topiary sculptures\u2014haven't been fed and now sow chaos in town."
+											"A resident of the gate-town of {@book Ecstasy|SatO|3|Ecstasy} is missing. His garden of {@creature Twig Blight||twig blights}\u2014influenced by {@area Elysium|02a|x} to resemble topiary sculptures\u2014haven't been fed and now sow chaos in town."
 										]
 									]
 								}
@@ -1745,7 +1745,7 @@
 										],
 										[
 											"2",
-											"A {@creature banshee} influenced by {@book Acheron|MPP|0|Acheron} appears as a fallen knight-commander with a legion of {@creature Specter||specters}. Guardians of the gate-town of Rigus hire the characters to help banish the phantom army."
+											"A {@creature banshee} influenced by {@area Acheron|010|x} appears as a fallen knight-commander with a legion of {@creature Specter||specters}. Guardians of the gate-town of Rigus hire the characters to help banish the phantom army."
 										],
 										[
 											"3",
@@ -1753,7 +1753,7 @@
 										],
 										[
 											"4",
-											"Several confused {@creature ghost} {@book petitioners|MPP|0|Petitioners} have become lost. They seek someone to pass judgment on their lives and deliver them to the proper planes."
+											"Several confused {@creature ghost} {@area petitioners|004|x} have become lost. They seek someone to pass judgment on their lives and deliver them to the proper planes."
 										]
 									]
 								},
@@ -1775,7 +1775,7 @@
 					"id": "061",
 					"entries": [
 						"The following tables present random encounters adventurers might face across the Outlands or in other realms influenced by the Outer Planes. These tables are divided by the alignment of the planes affecting a region. Unless otherwise noted, creatures marked with an asterisk (*) appear in this book, while the rest are described in the {@book Monster Manual|MM}.",
-						"If you wish to further customize these encounters, use traits detailed in the \"{@book Planar Influences|MPP|0|Planar Influences}\" section.",
+						"If you wish to further customize these encounters, use traits detailed in the \"{@area Planar Influences|009|x}\" section.",
 						{
 							"type": "statblock",
 							"name": "Chaotic Planar Encounters",
@@ -1922,7 +1922,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "069"
 				},
 				{
 					"type": "section",
@@ -1946,7 +1947,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06a"
 				},
 				{
 					"type": "section",
@@ -1970,7 +1972,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06b"
 				},
 				{
 					"type": "section",
@@ -2001,7 +2004,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06c"
 				},
 				{
 					"type": "section",
@@ -2025,7 +2029,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06d"
 				},
 				{
 					"type": "section",
@@ -2049,7 +2054,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06e"
 				},
 				{
 					"type": "section",
@@ -2087,7 +2093,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "06f"
 				},
 				{
 					"type": "section",
@@ -2111,7 +2118,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "070"
 				},
 				{
 					"type": "section",
@@ -2149,7 +2157,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "071"
 				},
 				{
 					"type": "section",
@@ -2187,7 +2196,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "072"
 				},
 				{
 					"type": "section",
@@ -2211,7 +2221,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "073"
 				},
 				{
 					"type": "section",
@@ -2235,7 +2246,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "074"
 				},
 				{
 					"type": "section",
@@ -2287,7 +2299,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "075"
 				},
 				{
 					"type": "section",
@@ -2318,7 +2331,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "076"
 				},
 				{
 					"type": "section",
@@ -2342,7 +2356,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "077"
 				},
 				{
 					"type": "section",
@@ -2380,7 +2395,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "078"
 				},
 				{
 					"type": "section",
@@ -2404,7 +2420,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "079"
 				},
 				{
 					"type": "section",
@@ -2441,7 +2458,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "07a"
 				},
 				{
 					"type": "section",
@@ -2486,7 +2504,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "07b"
 				},
 				{
 					"type": "section",
@@ -2510,7 +2529,8 @@
 							"source": "MPP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "07c"
 				},
 				{
 					"type": "section",
@@ -2635,7 +2655,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "07d"
 						},
 						{
 							"type": "section",
@@ -2659,7 +2680,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "07e"
 						},
 						{
 							"type": "section",
@@ -2683,7 +2705,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "07f"
 						},
 						{
 							"type": "section",
@@ -2707,7 +2730,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "080"
 						},
 						{
 							"type": "section",
@@ -2731,7 +2755,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "081"
 						},
 						{
 							"type": "section",
@@ -2755,7 +2780,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "082"
 						},
 						{
 							"type": "section",
@@ -2779,7 +2805,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "083"
 						},
 						{
 							"type": "section",
@@ -2803,7 +2830,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "084"
 						},
 						{
 							"type": "section",
@@ -2827,7 +2855,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "085"
 						},
 						{
 							"type": "section",
@@ -2851,7 +2880,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "086"
 						},
 						{
 							"type": "section",
@@ -2875,7 +2905,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "087"
 						},
 						{
 							"type": "section",
@@ -2899,7 +2930,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "088"
 						},
 						{
 							"type": "section",
@@ -2923,7 +2955,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "089"
 						},
 						{
 							"type": "section",
@@ -2947,7 +2980,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "08a"
 						},
 						{
 							"type": "section",
@@ -2971,7 +3005,8 @@
 									"source": "MPP",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "08b"
 						}
 					]
 				}

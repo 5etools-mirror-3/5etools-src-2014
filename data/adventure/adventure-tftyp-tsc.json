@@ -798,13 +798,13 @@
 									"entries": [
 										"A dragon cult that valued privacy and defense built the Sunless Citadel on the surface long ago. All record of the cult's name has vanished, though various sources believe that it was associated with the dragon Ashardalon. The cataclysm that killed the cult members sank the fortress at the same time. Because of residual enchantments, much of the structure survived its descent into the earth. With the cultists dead, goblins and other creatures moved in, and they have survived here for hundreds of years.",
 										"The goblins, which belong to the Durbuluk tribe (\"Dominator\" in Goblin), once patrolled the area around the ravine to rob passersby. But now, with the Old Road having fallen out of use, the goblins rarely pay much attention to this entrance anymore. Also, a tribe of kobolds has recently moved in to challenge the goblins' ownership of the fortress. Both groups are skirmishing as they vie for control, and they're not overly concerned about the possibility of intruders. Thus, the cleft offers the characters a good opportunity to gain entry to the dungeon without attracting attention. (The missing party that came here before did much the same; the rope left tied to the pillar near the ravine is theirs.)",
-										"Though the kobolds ({@adventure areas 13|TftYP-TSC|1|13. Empty Room}\u2013{@adventure 24|TftYP-TSC|1|24. Trapped Access}) and the goblins ({@adventure areas 31|TftYP-TSC|1|31. Caltrop Hall}\u2013{@adventure 41|TftYP-TSC|1|41. Hall of the Goblin Chief}) claim the Sunless Citadel as their property, they've never visited all its chambers. They avoid entering the most secluded parts of the grove level. In the past, they feared that the hidden grove was haunted. With the arrival of {@creature Belak the Outcast|TftYP} twelve years ago, that belief is vindicated. He orders the goblins to distribute the midsummer fruit each year, and the goblins obey him out of fear.",
+										"Though the kobolds ({@area areas 13|078|x}\u2013{@area 24|0a0|x}) and the goblins ({@area areas 31|0c1|x}\u2013{@area 41|0ed|x}) claim the Sunless Citadel as their property, they've never visited all its chambers. They avoid entering the most secluded parts of the grove level. In the past, they feared that the hidden grove was haunted. With the arrival of {@creature Belak the Outcast|TftYP} twelve years ago, that belief is vindicated. He orders the goblins to distribute the midsummer fruit each year, and the goblins obey him out of fear.",
 										{
 											"type": "entries",
 											"name": "Monsters on Alert",
 											"page": 11,
 											"entries": [
-												"The kobolds and the goblins respond similarly if attacked. Intruders who fall back to take a long rest before dealing with the leaders of an attacked community allow the creatures time to make preparations. Alerted monsters reinforce cleared rooms with forces previously stationed in other rooms. For example, three kobolds from one {@adventure area 16|TftYP-TSC|1|16. Kobold Guardroom} could be stationed in {@adventure area 15|TftYP-TSC|1|15. Dragon Cell} with orders to set an ambush for returning invaders. Or, four goblins from one {@adventure area 36|TftYP-TSC|1|36. Goblin Bandits} could be redeployed to {@adventure area 32|TftYP-TSC|1|32. Goblin Gate} to guard against another intrusion. Keep track of such changes, so that the characters don't encounter the same kobolds or goblins twice."
+												"The kobolds and the goblins respond similarly if attacked. Intruders who fall back to take a long rest before dealing with the leaders of an attacked community allow the creatures time to make preparations. Alerted monsters reinforce cleared rooms with forces previously stationed in other rooms. For example, three kobolds from one {@area area 16|085|x} could be stationed in {@area area 15|07f|x} with orders to set an ambush for returning invaders. Or, four goblins from one {@area area 36|0da|x} could be redeployed to {@area area 32|0c6|x} to guard against another intrusion. Keep track of such changes, so that the characters don't encounter the same kobolds or goblins twice."
 											],
 											"id": "034"
 										},
@@ -870,7 +870,7 @@
 									"page": 12,
 									"entries": [
 										"The rope tied to one of the leaning pillars hangs down into the darkness of the ravine. Judging by its good condition, the rope couldn't have been tied there any longer than two or three weeks ago. From the edge of the ravine, older and weathered handholds and footholds can be seen carved into the cliff face. These are goblin-carved.",
-										"Adventurers can easily climb down the knotted rope, using the wall to brace themselves. Using the carved indentations is slower but only slightly harder. The descent is 50 feet to the ledge ({@adventure area 1|TftYP-TSC|1|1. Ledge}).",
+										"Adventurers can easily climb down the knotted rope, using the wall to brace themselves. Using the carved indentations is slower but only slightly harder. The descent is 50 feet to the ledge ({@area area 1|041|x}).",
 										{
 											"type": "inset",
 											"name": "General Features",
@@ -891,7 +891,7 @@
 													"name": "Light",
 													"page": 12,
 													"entries": [
-														"Beyond {@adventure area 2|TftYP-TSC|1|2. Switchback Stairs}, many rooms in the underground dungeon are lightless. Descriptions assume that the characters have a suitable light source and are able to see their surroundings."
+														"Beyond {@area area 2|045|x}, many rooms in the underground dungeon are lightless. Descriptions assume that the characters have a suitable light source and are able to see their surroundings."
 													],
 													"id": "03e"
 												},
@@ -3168,7 +3168,7 @@
 									"name": "Dragon Door",
 									"page": 14,
 									"entries": [
-										"The door that is carved to look like a dragon has a mechanical lock as well as an {@spell arcane lock} spell cast on it. The Strength ({@skill Athletics}) check to defeat the arcane lock is {@dc 30}, and the Dexterity check to bypass the magical lock using thieves' tools is {@dc 25}. Casting a {@spell knock} spell on the door suppresses the magical lock for 10 minutes, lowering the DCs by 10 during that time. The mechanical lock remains intact if the magical lock is bypassed, requiring another {@spell knock} spell or the use of the key. The key, which bypasses the magical lock as well as the mechanical one, is in {@adventure area 21|TftYP-TSC|1|21. Dragon Throne}."
+										"The door that is carved to look like a dragon has a mechanical lock as well as an {@spell arcane lock} spell cast on it. The Strength ({@skill Athletics}) check to defeat the arcane lock is {@dc 30}, and the Dexterity check to bypass the magical lock using thieves' tools is {@dc 25}. Casting a {@spell knock} spell on the door suppresses the magical lock for 10 minutes, lowering the DCs by 10 during that time. The mechanical lock remains intact if the magical lock is bypassed, requiring another {@spell knock} spell or the use of the key. The key, which bypasses the magical lock as well as the mechanical one, is in {@area area 21|095|x}."
 									],
 									"id": "058"
 								},
@@ -3197,9 +3197,9 @@
 									],
 									"id": "05b"
 								},
-								"If a character moves within 5 feet of the lit globe, brooding music begins to play throughout the area, and the sound carries into areas 6, 8, and 9 if the doors to those areas are open. Any creature that can hear the music must make a {@dc 15} Wisdom saving throw. On a successful save, a creature is immune to the music of the globe for 24 hours. On a failed save, a creature becomes {@condition charmed} and, while {@condition charmed} in this way, can take only the {@action Dash} action and move toward {@adventure area 3|TftYP-TSC|1|3. Crumbled Courtyard}.",
+								"If a character moves within 5 feet of the lit globe, brooding music begins to play throughout the area, and the sound carries into areas 6, 8, and 9 if the doors to those areas are open. Any creature that can hear the music must make a {@dc 15} Wisdom saving throw. On a successful save, a creature is immune to the music of the globe for 24 hours. On a failed save, a creature becomes {@condition charmed} and, while {@condition charmed} in this way, can take only the {@action Dash} action and move toward {@area area 3|047|x}.",
 								"The effect on a creature ends once that creature reaches the floor beyond the pit trap in area 3. If an affected creature is prevented from moving to area 3, the creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save. The effect ends on its own 1 minute after the creature can no longer hear the music. A creature can escape the music by being on the other side of a closed door that leads to the gallery, or by vacating the area (including adjacent rooms) where the music is audible.",
-								"The globe has AC 10 and 10 hit points. If it is attacked or handled, the music becomes louder, audible in {@adventure areas 4|TftYP-TSC|1|4. Tower Shell} and {@adventure 10|TftYP-TSC|1|10. Honor Guard} if the doors to those areas are open. The DC of the Wisdom saving throw then increases to 20. If the globe is reduced to 0 hit points or taken from the room, it cracks and goes dark and silent. It no longer functions."
+								"The globe has AC 10 and 10 hit points. If it is attacked or handled, the music becomes louder, audible in {@area areas 4|04e|x} and {@area 10|064|x} if the doors to those areas are open. The DC of the Wisdom saving throw then increases to 20. If the globe is reduced to 0 hit points or taken from the room, it cracks and goes dark and silent. It no longer functions."
 							],
 							"id": "05a"
 						},
@@ -3307,7 +3307,7 @@
 									"name": "Spiked Pit",
 									"page": 15,
 									"entries": [
-										"The pit is 10 feet deep, and its bottom is filled with spikes that deal 11 ({@dice 2d10}) piercing damage to a creature that falls in, as well as falling damage. The walls of the pit are rough, and they offer handholds to climbers. {@adventure Area 12|TftYP-TSC|1|12. Tomb of a Failed Dragonpriest} begins on its far side."
+										"The pit is 10 feet deep, and its bottom is filled with spikes that deal 11 ({@dice 2d10}) piercing damage to a creature that falls in, as well as falling damage. The walls of the pit are rough, and they offer handholds to climbers. {@area Area 12|06f|x} begins on its far side."
 									],
 									"id": "067"
 								},
@@ -3583,7 +3583,7 @@
 										"Meepo, the {@creature kobold} who was his tribe's Keeper of Dragons, is now the sole occupant of the chamber. He is heartsick at the loss of the wyrmling and spends much of his time nowadays in nightmare-ridden sleep in his bedroll. With the loss of his charge, Meepo's status is in the gutter. He doesn't react to anything short of loud noise or direct prodding.",
 										"If he is disturbed, Meepo is frightened but willing to talk. He is weepy. His numerous obvious scars are souvenirs of his job as Keeper of Dragons. If he is asked about the cage or queried in any way that mentions a dragon, he says, \"The clan's dragon... we lost it. The wretched goblins stole {@creature Calcryx|TftYP}, our dragon!\"",
 										"To all other questions, Meepo responds by saying, \"Meepo don't know, but {@creature Yusdrayl|TftYP} does. Meepo take you to meet {@creature Yusdrayl|TftYP}, our leader, if you make nice. You get safe passage, if you promise to make nice. Maybe if you promise to rescue dragon, {@creature Yusdrayl|TftYP} make nice to you, answer questions.\"",
-										"Meepo perks up as he senses the possibility of getting the dragon back. True to his word, he guides the characters to {@adventure area 21|TftYP-TSC|1|21. Dragon Throne}. Along the way, he shouts out \"Ticklecorn!\" (in Draconic) from time to time, explaining that it's a password that tells other kobolds the characters are friendly. If the characters leave Meepo behind, or if they are antagonistic toward him, the characters don't learn the password, and all other kobolds are hostile toward the party."
+										"Meepo perks up as he senses the possibility of getting the dragon back. True to his word, he guides the characters to {@area area 21|095|x}. Along the way, he shouts out \"Ticklecorn!\" (in Draconic) from time to time, explaining that it's a password that tells other kobolds the characters are friendly. If the characters leave Meepo behind, or if they are antagonistic toward him, the characters don't learn the password, and all other kobolds are hostile toward the party."
 									],
 									"id": "081"
 								},
@@ -3647,7 +3647,7 @@
 									"page": 17,
 									"entries": [
 										"The room serves as a barracks and guard post for the kobold tribe's warriors. Three {@creature Kobold||kobolds} stand guard inside, unless they have already come forth to reinforce other kobolds.",
-										"If the characters try to talk and the interaction is successful, the kobolds direct the characters to head toward \"{@creature Yusdrayl|TftYP} on her dragon throne,\" giving them simple directions to {@adventure area 21|TftYP-TSC|1|21. Dragon Throne} and warning them to avoid rousing the ire of {@creature Yusdrayl|TftYP}'s elite guards."
+										"If the characters try to talk and the interaction is successful, the kobolds direct the characters to head toward \"{@creature Yusdrayl|TftYP} on her dragon throne,\" giving them simple directions to {@area area 21|095|x} and warning them to avoid rousing the ire of {@creature Yusdrayl|TftYP}'s elite guards."
 									],
 									"id": "088"
 								}
@@ -3672,7 +3672,7 @@
 									"name": "Creatures",
 									"page": 17,
 									"entries": [
-										"The rats are used as food for the dragon wyrmling that was once stabled in {@adventure area 15|TftYP-TSC|1|15. Dragon Cell}. Since the abduction of the dragon, the kobolds have neglected the rats, and in the meantime the rodents have chewed away the fastenings of the barrier. One round after someone opens the door, the rats knock the barrier over and rush out, attacking as a {@creature swarm of rats} for 1 round, after which they disperse into the dungeon."
+										"The rats are used as food for the dragon wyrmling that was once stabled in {@area area 15|07f|x}. Since the abduction of the dragon, the kobolds have neglected the rats, and in the meantime the rodents have chewed away the fastenings of the barrier. One round after someone opens the door, the rats knock the barrier over and rush out, attacking as a {@creature swarm of rats} for 1 round, after which they disperse into the dungeon."
 									],
 									"id": "08b"
 								}
@@ -3722,7 +3722,7 @@
 									"name": "Creatures",
 									"page": 18,
 									"entries": [
-										"An elite squad of three {@creature Kobold||kobolds} (each with 7 hit points) patrols the hall, considering the duty an honor. The guards pay particular attention to the door that leads to {@adventure area 24|TftYP-TSC|1|24. Trapped Access}, which is along the route traditionally used by goblin raiders. These kobolds react to the character's presence in the same way as the ordinary ones described in {@adventure area 16|TftYP-TSC|1|16. Kobold Guardroom}. If the characters head for {@adventure area 21|TftYP-TSC|1|21. Dragon Throne} without causing hostilities, these guards follow the characters into {@creature Yusdrayl|TftYP}'s presence."
+										"An elite squad of three {@creature Kobold||kobolds} (each with 7 hit points) patrols the hall, considering the duty an honor. The guards pay particular attention to the door that leads to {@area area 24|0a0|x}, which is along the route traditionally used by goblin raiders. These kobolds react to the character's presence in the same way as the ordinary ones described in {@area area 16|085|x}. If the characters head for {@area area 21|095|x} without causing hostilities, these guards follow the characters into {@creature Yusdrayl|TftYP}'s presence."
 									],
 									"id": "091"
 								},
@@ -3731,7 +3731,7 @@
 									"name": "Development",
 									"page": 18,
 									"entries": [
-										"If combat erupts here, the result is likely to be deadly for the party. Any kobolds remaining in the areas nearby enter the room as reinforcements. {@creature Yusdrayl|TftYP} and her two guards arrive from area 21 at the start of the second round of combat. At the start of the fifth round, the kobolds in the area 16 to the southwest of this room come on the scene. At the start of the eighth round, the kobolds from {@adventure area 23|TftYP-TSC|1|23. Underdark Access} enter the fray. (Kobolds that leave their original area and are slain here should be noted for possible future reference.)"
+										"If combat erupts here, the result is likely to be deadly for the party. Any kobolds remaining in the areas nearby enter the room as reinforcements. {@creature Yusdrayl|TftYP} and her two guards arrive from area 21 at the start of the second round of combat. At the start of the fifth round, the kobolds in the area 16 to the southwest of this room come on the scene. At the start of the eighth round, the kobolds from {@area area 23|09d|x} enter the fray. (Kobolds that leave their original area and are slain here should be noted for possible future reference.)"
 									],
 									"id": "092"
 								}
@@ -3743,7 +3743,7 @@
 							"name": "20. Kobold Colony",
 							"page": 18,
 							"entries": [
-								"The strong wooden door that leads to the kobolds' living quarters is barred from the inside. Characters who give the proper password (\"Ticklecorn!\" spoken in Draconic; see {@adventure area 15|TftYP-TSC|1|15. Dragon Cell}) or who make a successful {@dc 15} Charisma ({@skill Deception}) check can convince the kobolds within to unbar the door. Otherwise, the kobolds open the door only when guards return to the room for a shift change.",
+								"The strong wooden door that leads to the kobolds' living quarters is barred from the inside. Characters who give the proper password (\"Ticklecorn!\" spoken in Draconic; see {@area area 15|07f|x}) or who make a successful {@dc 15} Charisma ({@skill Deception}) check can convince the kobolds within to unbar the door. Otherwise, the kobolds open the door only when guards return to the room for a shift change.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -3753,7 +3753,7 @@
 								},
 								"Twenty-four kobolds occupy the room, but only three {@creature Kobold||kobolds} are capable warriors that challenge unescorted intruders. Seven other kobolds are {@creature Kobold Commoner|TftYP|commoners}, but with 3 hit points each, and a \u22121 reduction to hit and damage compared to the {@book Monster Manual|MM} statistics. The other tribe members here are too young, too old, or too cowardly to defend themselves; they flee if combat breaks out and are worth no XP. Even the kobolds capable of fighting run away if they are outmatched.",
 								"The kobolds here answer all questions with a quick \"{@creature Yusdrayl|TftYP} knows.\"",
-								"An attack on these kobolds brings reinforcements, as described in {@adventure area 19|TftYP-TSC|1|19. Hall of Dragons}, though each group arrives 1 round later because of the extra distance it must traverse."
+								"An attack on these kobolds brings reinforcements, as described in {@area area 19|08f|x}, though each group arrives 1 round later because of the extra distance it must traverse."
 							],
 							"id": "093"
 						},
@@ -3774,7 +3774,7 @@
 									"name": "Creatures",
 									"page": 18,
 									"entries": [
-										"Normally sitting on the throne is the kobolds' leader, {@creature Yusdrayl|TftYP} (see {@adventure appendix B|TftYP-TSC|3}). Two elite {@creature Kobold||kobolds} (7 hit points each) guard her. Those who come to {@creature Yusdrayl|TftYP}'s chamber can talk to her; she is hostile only if she knows that the characters have slain other kobolds. Characters who antagonize her while talking earn the leader's ire and a savage attack.",
+										"Normally sitting on the throne is the kobolds' leader, {@creature Yusdrayl|TftYP} (see {@area appendix B|158|x}). Two elite {@creature Kobold||kobolds} (7 hit points each) guard her. Those who come to {@creature Yusdrayl|TftYP}'s chamber can talk to her; she is hostile only if she knows that the characters have slain other kobolds. Characters who antagonize her while talking earn the leader's ire and a savage attack.",
 										"{@creature Yusdrayl|TftYP} can speak to the following questions:",
 										{
 											"type": "image",
@@ -3796,7 +3796,7 @@
 											],
 											"id": "098"
 										},
-										"If the characters decide to go looking for the dragon, the kobolds direct them toward the passage that connects {@adventure area 15|TftYP-TSC|1|15. Dragon Cell} and {@adventure area 25|TftYP-TSC|1|25. Empty Chamber}, which is the \"back way\" into goblin territory. {@creature Yusdrayl|TftYP} and her followers know nothing useful about the goblin lair. If the characters take Meepo with them, he can serve as their guide to that location. If Meepo goes along and is slain, the kobolds count it as a small loss as long as the dragon is rescued.",
+										"If the characters decide to go looking for the dragon, the kobolds direct them toward the passage that connects {@area area 15|07f|x} and {@area area 25|0a3|x}, which is the \"back way\" into goblin territory. {@creature Yusdrayl|TftYP} and her followers know nothing useful about the goblin lair. If the characters take Meepo with them, he can serve as their guide to that location. If Meepo goes along and is slain, the kobolds count it as a small loss as long as the dragon is rescued.",
 										"Possible rewards include the key in the carved dragon's mouth, or any two of the items on the altar. {@creature Yusdrayl|TftYP} is also willing to sell the key for 50 gp."
 									],
 									"id": "097"
@@ -3806,7 +3806,7 @@
 									"name": "Development",
 									"page": 19,
 									"entries": [
-										"If hostilities break out, reinforcements arrive in the manner described in {@adventure area 19|TftYP-TSC|1|19. Hall of Dragons}.",
+										"If hostilities break out, reinforcements arrive in the manner described in {@area area 19|08f|x}.",
 										"If the characters return {@creature Calcryx|TftYP}, {@creature Yusdrayl|TftYP} can be convinced to aid them in an assault on the remaining goblins. You determine the nature of the aid."
 									],
 									"id": "099"
@@ -3816,7 +3816,7 @@
 									"name": "Treasure",
 									"page": 19,
 									"entries": [
-										"The key clenched in the mouth of the carved dragon opens the door to {@adventure area 7|TftYP-TSC|1|7. Gallery of Forlorn Notes}. {@creature Yusdrayl|TftYP} has keys to {@adventure area 18|TftYP-TSC|1|18. Prison} and the chains there, a key to the doors in {@adventure area 24|TftYP-TSC|1|24. Trapped Access}, and a key that once fit the cage in {@adventure area 15|TftYP-TSC|1|15. Dragon Cell}. She also has 35 gp.",
+										"The key clenched in the mouth of the carved dragon opens the door to {@area area 7|05a|x}. {@creature Yusdrayl|TftYP} has keys to {@area area 18|08c|x} and the chains there, a key to the doors in {@area area 24|0a0|x}, and a key that once fit the cage in {@area area 15|07f|x}. She also has 35 gp.",
 										"The items assembled on the altar include a {@item Quaal's Feather Token, Tree||Quaal's feather token (tree)}, three {@item Spell Scroll||spell scrolls} ({@spell mage armor}, {@spell spider climb}, and {@spell knock}), and a small flask that contains three doses of {@item elixir of health}."
 									],
 									"id": "09a"
@@ -3859,7 +3859,7 @@
 									"name": "Creatures",
 									"page": 19,
 									"entries": [
-										"If they have not come forth as reinforcements, three {@creature Kobold||kobolds} camp here, serving as hunters and guardians of the tunnel. They react as described in {@adventure area 16|TftYP-TSC|1|16. Kobold Guardroom}."
+										"If they have not come forth as reinforcements, three {@creature Kobold||kobolds} camp here, serving as hunters and guardians of the tunnel. They react as described in {@area area 16|085|x}."
 									],
 									"id": "09f"
 								}
@@ -3920,7 +3920,7 @@
 									"name": "Trap",
 									"page": 20,
 									"entries": [
-										"The door that connects the northernmost empty chamber with area 31 contains a trap. See {@adventure area 31|TftYP-TSC|1|31. Caltrop Hall} for more details."
+										"The door that connects the northernmost empty chamber with area 31 contains a trap. See {@area area 31|0c1|x} for more details."
 									],
 									"id": "0a6"
 								}
@@ -4008,7 +4008,7 @@
 									"name": "Treasure",
 									"page": 20,
 									"entries": [
-										"The candle has a {@spell continual flame} spell cast on it. In the flask is a {@item potion of fire resistance}. The whistle, made of crystal, has the name {@item Night Caller|TftYP} inscribed on it in Dwarvish. See {@adventure appendix A|TftYP-TSC|2} for a description of this item. A secret compartment in the shrine, requiring a successful {@dc 20} Wisdom ({@skill Perception}) check to find, holds a coffer containing six peridot jewels carved in a likeness of a dragon (worth 10 gp each)."
+										"The candle has a {@spell continual flame} spell cast on it. In the flask is a {@item potion of fire resistance}. The whistle, made of crystal, has the name {@item Night Caller|TftYP} inscribed on it in Dwarvish. See {@area appendix A|157|x} for a description of this item. A secret compartment in the shrine, requiring a successful {@dc 20} Wisdom ({@skill Perception}) check to find, holds a coffer containing six peridot jewels carved in a likeness of a dragon (worth 10 gp each)."
 									],
 									"id": "0b0"
 								}
@@ -4094,7 +4094,7 @@
 									"name": "Trapped Fountain",
 									"page": 21,
 									"entries": [
-										"The dry fountain on the northern wall looks remarkably like the one described in {@adventure area 26|TftYP-TSC|1|26. Dry Fountain}. Under the scrutiny of a {@spell detect magic} spell, the fountain emits a faint aura of evocation. A successful {@dc 20} Wisdom ({@skill Perception}) check reveals suspicious metallic tubes in the carved dragon's mouth, as well as a small, rusted iron canister. A character who makes a successful {@dc 15} Wisdom ({@skill Perception}) check notices a mostly worn-away inscription in Draconic on the front of the basin. It reads, \"Let there be death.\"",
+										"The dry fountain on the northern wall looks remarkably like the one described in {@area area 26|0a7|x}. Under the scrutiny of a {@spell detect magic} spell, the fountain emits a faint aura of evocation. A successful {@dc 20} Wisdom ({@skill Perception}) check reveals suspicious metallic tubes in the carved dragon's mouth, as well as a small, rusted iron canister. A character who makes a successful {@dc 15} Wisdom ({@skill Perception}) check notices a mostly worn-away inscription in Draconic on the front of the basin. It reads, \"Let there be death.\"",
 										"Anyone who speaks this phrase aloud in Draconic triggers the trap. A poison mist sprays forth from the dragon's mouth, filling a 20-foot cube and expending the canister's last charge. Those in the area must make a {@dc 10} Constitution saving throw. On a failed save, a creature takes 5 ({@dice 1d10}) poison damage and becomes {@condition poisoned} for 10 minutes. On a successful save, the creature takes only half the poison damage and is {@condition poisoned} for 1 minute."
 									],
 									"id": "0ba"
@@ -4215,7 +4215,7 @@
 									"name": "Creatures",
 									"page": 22,
 									"entries": [
-										"Two {@creature Goblin||goblins} are stationed behind the rough, 3-foot-high wall. They are hostile to intruders, but unwilling to die facing a superior force. If captured, these goblins know the same information that {@creature Erky Timbers|TftYP} in {@adventure area 34|TftYP-TSC|1|34. Goblin Stockade} does."
+										"Two {@creature Goblin||goblins} are stationed behind the rough, 3-foot-high wall. They are hostile to intruders, but unwilling to die facing a superior force. If captured, these goblins know the same information that {@creature Erky Timbers|TftYP} in {@area area 34|0d0|x} does."
 									],
 									"id": "0c8"
 								},
@@ -4277,7 +4277,7 @@
 									"name": "Development",
 									"page": 22,
 									"entries": [
-										"If things go badly for the goblins, one of them attempts to warn the goblin warriors in {@adventure area 39|TftYP-TSC|1|39. Dragon Haze}."
+										"If things go badly for the goblins, one of them attempts to warn the goblin warriors in {@area area 39|0e5|x}."
 									],
 									"id": "0cf"
 								}
@@ -4343,7 +4343,7 @@
 									"name": "Manacles",
 									"page": 23,
 									"entries": [
-										"The rusted iron restraints can bind a Small or Medium creature. If the characters are taken prisoner (see {@adventure area 36|TftYP-TSC|1|36. Goblin Bandits}) and bound here, escaping from the manacles requires a successful {@dc 20} Dexterity check. A set of manacles can be broken with a successful {@dc 20} Strength check, or a character proficient with thieves' tools can pick the lock on a set of manacles with a successful {@dc 15} Dexterity check. Manacles have AC 15 and 15 hit points."
+										"The rusted iron restraints can bind a Small or Medium creature. If the characters are taken prisoner (see {@area area 36|0da|x}) and bound here, escaping from the manacles requires a successful {@dc 20} Dexterity check. A set of manacles can be broken with a successful {@dc 20} Strength check, or a character proficient with thieves' tools can pick the lock on a set of manacles with a successful {@dc 15} Dexterity check. Manacles have AC 15 and 15 hit points."
 									],
 									"id": "0d5"
 								}
@@ -4404,7 +4404,7 @@
 									"name": "Creatures",
 									"page": 23,
 									"entries": [
-										"Three {@creature Goblin||goblins}, who proudly call themselves bandits, are in the room when the characters enter. In better times, two or more bandit groups would hunt the Old Road together, preying on travelers. Now, the bandits content themselves with an occasional hunt in the wilds of the Underdark (see {@adventure area 43|TftYP-TSC|1|43. The Great Hunter's Abode}), as well as preying on the kobolds."
+										"Three {@creature Goblin||goblins}, who proudly call themselves bandits, are in the room when the characters enter. In better times, two or more bandit groups would hunt the Old Road together, preying on travelers. Now, the bandits content themselves with an occasional hunt in the wilds of the Underdark (see {@area area 43|0fa|x}), as well as preying on the kobolds."
 									],
 									"id": "0dc"
 								},
@@ -4413,8 +4413,8 @@
 									"name": "Development",
 									"page": 23,
 									"entries": [
-										"The goblins might try to knock the characters {@condition unconscious} and imprison them in {@adventure area 34|TftYP-TSC|1|34. Goblin Stockade}, locking victims into manacles. They take captured equipment to the goblin chief in {@adventure area 41|TftYP-TSC|1|41. Hall of the Goblin Chief}. The bandits are likely to try to ransom the prisoners to someone in Oakhurst. Kerowyn Hucrele is prepared to pay such a ransom, taking it out of the characters' prospective reward.",
-										"If things go badly for the goblins, one of them attempts to warn the goblin warriors in {@adventure area 39|TftYP-TSC|1|39. Dragon Haze}."
+										"The goblins might try to knock the characters {@condition unconscious} and imprison them in {@area area 34|0d0|x}, locking victims into manacles. They take captured equipment to the goblin chief in {@area area 41|0ed|x}. The bandits are likely to try to ransom the prisoners to someone in Oakhurst. Kerowyn Hucrele is prepared to pay such a ransom, taking it out of the characters' prospective reward.",
+										"If things go badly for the goblins, one of them attempts to warn the goblin warriors in {@area area 39|0e5|x}."
 									],
 									"id": "0dd"
 								},
@@ -4504,7 +4504,7 @@
 									"id": "0e6"
 								},
 								"As long as the torches burn, the hall is lighted, but the haze makes the area {@quickref Vision and Light||2||lightly obscured}. The haze never builds to suffocating levels, thanks to natural ventilation.",
-								"Any loud noise in the chamber attracts the attention of goblins in the {@adventure area 36|TftYP-TSC|1|36. Goblin Bandits} to the south, as well as in area 40. The goblins in area 40 prepare for danger but don't leave their stations, while those in area 36 come to investigate within 2 rounds."
+								"Any loud noise in the chamber attracts the attention of goblins in the {@area area 36|0da|x} to the south, as well as in area 40. The goblins in area 40 prepare for danger but don't leave their stations, while those in area 36 come to investigate within 2 rounds."
 							],
 							"id": "0e5"
 						},
@@ -4527,7 +4527,7 @@
 									"page": 24,
 									"entries": [
 										"Thirty-four goblins are at home when the characters arrive, but only four of the {@creature Goblin||goblins} are warriors. Ten of the other goblins are {@creature Goblin Commoner|TftYP|commoners}, but with 3 hit points each and a \u22121 reduction to hit and damage compared to the {@book Monster Manual|MM} statistics. The other twenty creatures are noncombatants, too feeble or too fearful to defend themselves; they try to flee through the northernmost or the eastern exit. This stampede should dominate the first moments of battle, and even the goblins capable of fighting refuse to stick around just to lose their lives. Noncombatants are worth no XP.",
-										"These goblinoids know the same information, in cruder form, that Erky in {@adventure area 34|TftYP-TSC|1|34. Goblin Stockade} knows."
+										"These goblinoids know the same information, in cruder form, that Erky in {@area area 34|0d0|x} knows."
 									],
 									"id": "0e9"
 								},
@@ -4536,7 +4536,7 @@
 									"name": "Development",
 									"page": 25,
 									"entries": [
-										"An attack on the goblins brings reinforcements from {@adventure area 36|TftYP-TSC|1|36. Goblin Bandits} and warns the goblin chief in area 41 that something is amiss. {@creature Grenl|TftYP}, the goblin shaman in area 41, might emerge to protect the tribe."
+										"An attack on the goblins brings reinforcements from {@area area 36|0da|x} and warns the goblin chief in area 41 that something is amiss. {@creature Grenl|TftYP}, the goblin shaman in area 41, might emerge to protect the tribe."
 									],
 									"id": "0ea"
 								},
@@ -4545,7 +4545,7 @@
 									"name": "Investigating",
 									"page": 25,
 									"entries": [
-										"The goblins collect the phosphorescent fungi from the grove below. They need its light for close work, such as reading, and the fungus is edible. Crude equipment for cooking, skinning game, tanning hides, and other basic gear fills the area. Food is usually collected from the Underdark through {@adventure area 43|TftYP-TSC|1|43. The Great Hunter's Abode}."
+										"The goblins collect the phosphorescent fungi from the grove below. They need its light for close work, such as reading, and the fungus is edible. Crude equipment for cooking, skinning game, tanning hides, and other basic gear fills the area. Food is usually collected from the Underdark through {@area area 43|0fa|x}."
 									],
 									"id": "0eb"
 								},
@@ -4606,7 +4606,7 @@
 										"The goblins in area 40 don't join the battle if they hear sounds of violence coming from the north. If the fight turns against the chief, however, he might open the door to area 40 and call for aid, or withdraw to area 40 to continue the fight.",
 										"{@creature Durnn|TftYP} can't surrender for fear of losing face. He won't give up if the opposition includes kobolds. Otherwise, he might call for parley if doing so allows him to avoid death. But he must still look strong while negotiating, so he's unwilling to capitulate in an arrangement that makes him look weak.",
 										"Because {@creature Durnn|TftYP} and his hobgoblins usurped control of the Durbuluk tribe, {@creature Grenl|TftYP} hates them. She also wants to protect her tribe, so she is willing to negotiate a truce if {@creature Durnn|TftYP} falls. {@creature Grenl|TftYP} also hates and envies Belak, and she wants him gone from the citadel so she can control the Gulthias Tree.",
-										"If captured and interrogated, the goblinoids here know what Erky in {@adventure area 34|TftYP-TSC|1|34. Goblin Stockade} knows, with the following addition: Belak wanted all the living human prisoners sent down to him, but in a fit of anger, {@creature Durnn|TftYP} slew Talgen. Thus, {@creature Durnn|TftYP} sent only Sharwyn and {@creature Sir Braford|TftYP} down to the Twilight Grove."
+										"If captured and interrogated, the goblinoids here know what Erky in {@area area 34|0d0|x} knows, with the following addition: Belak wanted all the living human prisoners sent down to him, but in a fit of anger, {@creature Durnn|TftYP} slew Talgen. Thus, {@creature Durnn|TftYP} sent only Sharwyn and {@creature Sir Braford|TftYP} down to the Twilight Grove."
 									],
 									"id": "0f1"
 								},
@@ -4635,7 +4635,7 @@
 									"name": "Treasure",
 									"page": 25,
 									"entries": [
-										"In addition to the valuables mentioned in the \"Development\" section, {@creature Durnn|TftYP} wears Talgen's gold signet ring (worth 20 gp) and {@item splint armor|PHB}, which is identifiable by the Hucrele family crest worked into the chest pieces. The chief also has the key to his iron chest. {@creature Grenl|TftYP} has keys to {@adventure areas 34|TftYP-TSC|1|34. Goblin Stockade} and {@adventure 37|TftYP-TSC|1|37. Trophy Room}. One of the other hobgoblins wears silver earrings set with moonstones (20 gp each), and another wears a matching necklace (50 gp).",
+										"In addition to the valuables mentioned in the \"Development\" section, {@creature Durnn|TftYP} wears Talgen's gold signet ring (worth 20 gp) and {@item splint armor|PHB}, which is identifiable by the Hucrele family crest worked into the chest pieces. The chief also has the key to his iron chest. {@creature Grenl|TftYP} has keys to {@area areas 34|0d0|x} and {@area 37|0df|x}. One of the other hobgoblins wears silver earrings set with moonstones (20 gp each), and another wears a matching necklace (50 gp).",
 										"Inside {@creature Durnn|TftYP}'s iron chest are 231 gp and two onyx gems (30 gp each)."
 									],
 									"id": "0f4"
@@ -8796,7 +8796,7 @@
 									"name": "Underdark Access",
 									"page": 27,
 									"entries": [
-										"In the dark of the northern cavern section, a crude tunnel leads away, angling west and downward. The tunnel is like the one in {@adventure area 23|TftYP-TSC|1|23. Underdark Access}."
+										"In the dark of the northern cavern section, a crude tunnel leads away, angling west and downward. The tunnel is like the one in {@area area 23|09d|x}."
 									],
 									"id": "0fd"
 								},
@@ -8914,7 +8914,7 @@
 									"name": "Northwest Chamber",
 									"page": 28,
 									"entries": [
-										"Snores are audible from the room to the northwest, which is a rough barracks. Sixteen small pallets of matted fur cover the floor. Two pallets currently hold a sleeping {@creature goblin} and two {@creature Goblin Commoner|TftYP|goblin commoners} (like those in {@adventure area 40|TftYP-TSC|1|40. Goblinville})."
+										"Snores are audible from the room to the northwest, which is a rough barracks. Sixteen small pallets of matted fur cover the floor. Two pallets currently hold a sleeping {@creature goblin} and two {@creature Goblin Commoner|TftYP|goblin commoners} (like those in {@area area 40|0e7|x})."
 									],
 									"id": "10b"
 								},
@@ -8960,7 +8960,7 @@
 									"name": "Southeast Chamber",
 									"page": 28,
 									"entries": [
-										"The room stands empty, and the caved-in back wall leads to a natural rift in the earth (see {@adventure area 44|TftYP-TSC|1|44. Rift})."
+										"The room stands empty, and the caved-in back wall leads to a natural rift in the earth (see {@area area 44|0ff|x})."
 									],
 									"id": "110"
 								}
@@ -9029,7 +9029,7 @@
 									"name": "Southern Arboretum",
 									"page": 29,
 									"entries": [
-										"A {@creature goblin} and three {@creature Goblin Commoner|TftYP|goblin commoners} gather fungus for use in {@adventure area 47|TftYP-TSC|1|47. Belak's Laboratory}."
+										"A {@creature goblin} and three {@creature Goblin Commoner|TftYP|goblin commoners} gather fungus for use in {@area area 47|107|x}."
 									],
 									"id": "118"
 								},
@@ -9038,7 +9038,7 @@
 									"name": "Southeast Arboretum",
 									"page": 29,
 									"entries": [
-										"Several growths in the chamber are scorched and dead. Fungus shrouds holes similar to those found in {@adventure area 45|TftYP-TSC|1|45. Rift Node}, and a {@creature fire snake} lurks inside one of these openings. It emerges if anyone pokes into or closely examines the holes. If the snake comes out, a character who reaches into the snake's burrow can recover two sapphires (worth 50 gp each)."
+										"Several growths in the chamber are scorched and dead. Fungus shrouds holes similar to those found in {@area area 45|101|x}, and a {@creature fire snake} lurks inside one of these openings. It emerges if anyone pokes into or closely examines the holes. If the snake comes out, a character who reaches into the snake's burrow can recover two sapphires (worth 50 gp each)."
 									],
 									"id": "119"
 								},
@@ -9142,7 +9142,7 @@
 									],
 									"id": "125"
 								},
-								"The steps descend 15 feet. An 8-foot-high stone corridor passes about 7 feet below the northern arboretum ({@adventure area 49|TftYP-TSC|1|49. Arboretums}), connecting the stairways on either side."
+								"The steps descend 15 feet. An 8-foot-high stone corridor passes about 7 feet below the northern arboretum ({@area area 49|116|x}), connecting the stairways on either side."
 							],
 							"id": "124"
 						},
@@ -9342,7 +9342,7 @@
 										"Cantrips (at will): {@spell druidcraft}, {@spell poison spray}, {@spell shillelagh}",
 										"1st level (4 slots): {@spell cure wounds}, {@spell entangle}, {@spell faerie fire}, {@spell thunderwave}",
 										"2nd level (3 slots): {@spell barkskin}, {@spell flaming sphere}",
-										"Standing with {@creature Belak the Outcast|TftYP|Belak} are {@creature Sir Braford|TftYP} and {@creature Sharwyn Hucrele|TftYP} (both described in {@adventure appendix B|TftYP-TSC|3}). Belak's {@creature giant frog}, Kulket, lurks stealthily in the branches of the Gulthias Tree. A character who has a passive Perception score of 15 or higher or succeeds on a {@dc 15} Wisdom ({@skill Perception}) check spots the frog. If combat breaks out, the frog jumps down and joins the fight in the second round. Three {@creature Twig Blight||twig blights} are here, too."
+										"Standing with {@creature Belak the Outcast|TftYP|Belak} are {@creature Sir Braford|TftYP} and {@creature Sharwyn Hucrele|TftYP} (both described in {@area appendix B|158|x}). Belak's {@creature giant frog}, Kulket, lurks stealthily in the branches of the Gulthias Tree. A character who has a passive Perception score of 15 or higher or succeeds on a {@dc 15} Wisdom ({@skill Perception}) check spots the frog. If combat breaks out, the frog jumps down and joins the fight in the second round. Three {@creature Twig Blight||twig blights} are here, too."
 									],
 									"id": "13c"
 								},
@@ -9373,8 +9373,8 @@
 									"name": "Combat",
 									"page": 31,
 									"entries": [
-										"If a fight breaks out (which will happen unless the characters actually submit to Belak), the {@creature Twig Blight||twig blights}, the {@creature Giant Frog||frog}, and {@creature Sir Braford|TftYP} attack the characters physically. {@creature Sir Braford|TftYP} uses {@item Shatterspike|TftYP} (see {@adventure appendix A|TftYP-TSC|2}) to destroy his foe's weapon, if possible.",
-										"{@creature Belak the Outcast|TftYP|Belak} casts {@spell barkskin} on himself, possibly before melee occurs. He also makes early use of his {@item wand of entangle|TftYP} (see {@adventure appendix A|TftYP-TSC|2}), attempting to hold the transgressors in place. If Braford looks like he needs healing, Belak casts healing spells on him, as well. {@creature Sharwyn Hucrele|TftYP|Sharwyn} uses her repertoire of spells to best advantage, resorting to her dagger only in desperation."
+										"If a fight breaks out (which will happen unless the characters actually submit to Belak), the {@creature Twig Blight||twig blights}, the {@creature Giant Frog||frog}, and {@creature Sir Braford|TftYP} attack the characters physically. {@creature Sir Braford|TftYP} uses {@item Shatterspike|TftYP} (see {@area appendix A|157|x}) to destroy his foe's weapon, if possible.",
+										"{@creature Belak the Outcast|TftYP|Belak} casts {@spell barkskin} on himself, possibly before melee occurs. He also makes early use of his {@item wand of entangle|TftYP} (see {@area appendix A|157|x}), attempting to hold the transgressors in place. If Braford looks like he needs healing, Belak casts healing spells on him, as well. {@creature Sharwyn Hucrele|TftYP|Sharwyn} uses her repertoire of spells to best advantage, resorting to her dagger only in desperation."
 									],
 									"id": "13f"
 								},
@@ -9383,7 +9383,7 @@
 									"name": "Development",
 									"page": 31,
 									"entries": [
-										"During a battle, if any twig blights remain in {@adventure area 55|TftYP-TSC|1|55. Twilight Grove}, {@dice 1d4}\u22121 of them (minimum 0) enter this area each round."
+										"During a battle, if any twig blights remain in {@area area 55|130|x}, {@dice 1d4}\u22121 of them (minimum 0) enter this area each round."
 									],
 									"id": "140"
 								},
@@ -9410,7 +9410,7 @@
 									"name": "Treasure",
 									"page": 31,
 									"entries": [
-										"Belak has a key (to {@adventure area 53|TftYP-TSC|1|53. Belak's Study}), three {@item Potion of Healing||potions of healing}, two doses of {@item Antitoxin (vial)|PHB|antitoxin}, and his {@item wand of entangle|TftYP}. Sharwyn wears her gold Hucrele signet ring (worth 20 gp)."
+										"Belak has a key (to {@area area 53|126|x}), three {@item Potion of Healing||potions of healing}, two doses of {@item Antitoxin (vial)|PHB|antitoxin}, and his {@item wand of entangle|TftYP}. Sharwyn wears her gold Hucrele signet ring (worth 20 gp)."
 									],
 									"id": "143"
 								}
@@ -9637,7 +9637,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "152"
 				},
 				{
 					"type": "section",
@@ -9661,7 +9662,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "153"
 				},
 				{
 					"type": "section",
@@ -9685,7 +9687,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "154"
 				},
 				{
 					"type": "section",
@@ -9709,7 +9712,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "155"
 				},
 				{
 					"type": "section",
@@ -9733,7 +9737,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "156"
 				},
 				{
 					"type": "section",
@@ -9757,7 +9762,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "159"
 				},
 				{
 					"type": "section",
@@ -9781,7 +9787,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "15a"
 				},
 				{
 					"type": "section",
@@ -9805,7 +9812,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "15b"
 				},
 				{
 					"type": "section",
@@ -9829,7 +9837,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "15c"
 				},
 				{
 					"type": "section",
@@ -9853,7 +9862,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "15d"
 				},
 				{
 					"type": "section",
@@ -9877,7 +9887,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "15e"
 				},
 				{
 					"type": "section",
@@ -9890,7 +9901,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "15f"
 				},
 				{
 					"type": "section",
@@ -9914,7 +9926,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "160"
 				},
 				{
 					"type": "section",
@@ -9927,7 +9940,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "161"
 				},
 				{
 					"type": "section",
@@ -9951,7 +9965,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "162"
 				},
 				{
 					"type": "section",
@@ -9964,7 +9979,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "163"
 				},
 				{
 					"type": "section",
@@ -9988,7 +10004,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "164"
 				},
 				{
 					"type": "section",
@@ -10012,7 +10029,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "165"
 				},
 				{
 					"type": "section",
@@ -10025,7 +10043,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "166"
 				},
 				{
 					"type": "section",
@@ -10038,7 +10057,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "167"
 				},
 				{
 					"type": "section",
@@ -10062,7 +10082,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "168"
 				},
 				{
 					"type": "section",
@@ -10086,7 +10107,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "169"
 				},
 				{
 					"type": "section",
@@ -10110,7 +10132,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "16a"
 				},
 				{
 					"type": "section",
@@ -10134,7 +10157,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "16b"
 				},
 				{
 					"type": "section",
@@ -10158,7 +10182,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "16c"
 				},
 				{
 					"type": "section",
@@ -10171,7 +10196,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "16d"
 				},
 				{
 					"type": "section",
@@ -10195,7 +10221,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "16e"
 				},
 				{
 					"type": "section",
@@ -10208,7 +10235,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "16f"
 				},
 				{
 					"type": "section",
@@ -10232,7 +10260,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "170"
 				},
 				{
 					"type": "section",
@@ -10256,7 +10285,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "171"
 				},
 				{
 					"type": "section",
@@ -10280,7 +10310,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "172"
 				},
 				{
 					"type": "section",
@@ -10304,7 +10335,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "173"
 				},
 				{
 					"type": "section",
@@ -10317,7 +10349,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "174"
 				},
 				{
 					"type": "section",
@@ -10330,7 +10363,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "175"
 				},
 				{
 					"type": "section",
@@ -10343,7 +10377,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "176"
 				},
 				{
 					"type": "section",
@@ -10367,7 +10402,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "177"
 				},
 				{
 					"type": "section",
@@ -10391,7 +10427,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "178"
 				},
 				{
 					"type": "section",
@@ -10404,7 +10441,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "179"
 				},
 				{
 					"type": "section",
@@ -10428,7 +10466,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17a"
 				}
 			],
 			"id": "158"

@@ -3238,5 +3238,10 @@
 		"ver": "1.219.2",
 		"date": "2026-09-02",
 		"txt": "- Fixed numeric inputs falling back on `0`, rather than prior value, when given invalid text\n- Fixed Printer View column count off-by-one issue\n- (Brew) Improved Feat Text Converter handling of spellcasting prerequisites; epic boons\n- (Brew) Improved Creature Text Converter handling of complex types/alignments\n- (Brew) Fixed Item Text Converter adding junk properties to staffs\n- (Brew) Fixed `\"_copy\"` `\"remove\"` mode failing to apply when used under a dot-path\n- (Fixed typos/added tags)"
+	},
+	{
+		"ver": "1.219.3",
+		"date": "2026-09-08",
+		"txt": "- Added \"Open in New Tab\" header button to DM Screen panels displaying entities, adventures, and books\n- Added \"active\" tab button styling to tab buttons in DM Screen panels\n- Added \"Reroll\" buttons to various This Is Your Life outputs (siblings; life events; family members)\n- Fixed This Is Your Life failing to generate \"supplemental tables\" details\n- Fixed DM Screen creature scaling failing to persist between reloads\n- Fixed DM Screen tab button container failing to scroll on scroll-wheel\n- Fixed creatures failing to render as Markdown\n- (Brew/Foundry) Added Rivet button to Homebrew Manager; this allows you to set your Plutonium \"Additional [Local] Homebrew Files\" Config option (ditto for the Prerelease Content Manager and matching Config)\n- (Brew) Added select-all checkbox to Homebrew Manager \"Export\" source-selection screen\n- (Fixed typos/added tags)"
 	}
 ]

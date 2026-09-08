@@ -28,7 +28,7 @@
 									"name": "Divination",
 									"page": 3,
 									"entries": [
-										"Dungeon Masters can use the cards for divinatory readings that provide players with clues about the challenges that lie ahead. Divinatory readings are described in the \"{@book Divinatory Uses|DMTCRG|1}\" section."
+										"Dungeon Masters can use the cards for divinatory readings that provide players with clues about the challenges that lie ahead. Divinatory readings are described in the \"{@area Divinatory Uses|009|x}\" section."
 									],
 									"id": "003"
 								},
@@ -37,7 +37,7 @@
 									"name": "Generating Adventures",
 									"page": 3,
 									"entries": [
-										"DMs can use the deck to generate adventure ideas and even outline an adventure's starting situation, journey, encounters, and climax. The guidelines for this are found in the \"{@book Adventure Spreads|DMTCRG|2}\" section and include an example of how the cards can be used to create a story or a dungeon,"
+										"DMs can use the deck to generate adventure ideas and even outline an adventure's starting situation, journey, encounters, and climax. The guidelines for this are found in the \"{@area Adventure Spreads|012|x}\" section and include an example of how the cards can be used to create a story or a dungeon,"
 									],
 									"id": "004"
 								}
@@ -90,7 +90,7 @@
 					"entries": [
 						"The meanings of in individual cards depend on how you're using the deck. If you're using it to represent the {@item Deck of Many Things|BMT} magic item, the game rules for the twenty-two cards that make up the classic deck appear in the {@item Deck of Many Things|DMG|Dungeon Master's Guide} while rules for the forty-four new cards are detailed in {@book chapter 7 of The Book of Many Things|BMT|6}. However, you can change the powers of cards as you see fit.",
 						"If you're using the deck for divination or generating adventures, you have two main options for card meanings. The easiest method is to use the literal meaning of the card. In this case, the {@card Dragon|Deck of Many More Things|BMT} card literally suggests a dragon.",
-						"For a more nuanced option, the \"{@book Reading the Cards|DMTCRG|3}\" section presents an array of potential meanings for each card, depending on which way the card is oriented and using signifiers that suggest how the card applies to people or creatures the characters might meet, places they might visit, treasures they might find, and situations they might experience. For example, the {@card Dragon|Deck of Many More Things|BMT} card could refer to a literal dragon, but it might also indicate a dragonborn, a dragon's lair, or someone hoarding treasure.",
+						"For a more nuanced option, the \"{@area Reading the Cards|018|x}\" section presents an array of potential meanings for each card, depending on which way the card is oriented and using signifiers that suggest how the card applies to people or creatures the characters might meet, places they might visit, treasures they might find, and situations they might experience. For example, the {@card Dragon|Deck of Many More Things|BMT} card could refer to a literal dragon, but it might also indicate a dragonborn, a dragon's lair, or someone hoarding treasure.",
 						{
 							"type": "entries",
 							"name": "Card Spreads",
@@ -253,7 +253,7 @@
 					"name": "Creating an Adventure Spread",
 					"page": 8,
 					"entries": [
-						"To prepare the deck for creating an adventure spread, shuffle the cards, being sure to rotate some cards as you do so some cards will be upright and others reversed (upside down). Then lay out the top nine cards in a cross pattern, as shown in diagram 2. Each card represents a situation, person, creature, location, or treasure in the adventure, using the signifiers for each card described in the \"{@book Reading the Cards|DMTCRG|3}\" section. You can pick any of a card's signifiers for any of the positions in the diagram, so let your imagination wander and build a story that excites you. Treat the cards placed sideways as upright if the top of the card is on the left and as reversed if the top is on the right.",
+						"To prepare the deck for creating an adventure spread, shuffle the cards, being sure to rotate some cards as you do so some cards will be upright and others reversed (upside down). Then lay out the top nine cards in a cross pattern, as shown in diagram 2. Each card represents a situation, person, creature, location, or treasure in the adventure, using the signifiers for each card described in the \"{@area Reading the Cards|018|x}\" section. You can pick any of a card's signifiers for any of the positions in the diagram, so let your imagination wander and build a story that excites you. Treat the cards placed sideways as upright if the top of the card is on the left and as reversed if the top is on the right.",
 						{
 							"type": "image",
 							"href": {
@@ -395,7 +395,7 @@
 					"page": 11,
 					"entries": [
 						"A dungeon spread is a simpler version of an adventure spread that's optimized for quickly building dungeon-focused adventures. In this variant, you divide The {@deck Deck of Many More Things|DMTCRG|Deck of Many Things} card set into three separate decks: a {@deck locations deck|DMTCRG}, a {@deck features deck|DMTCRG}, and an optional {@deck story deck|DMTCRG}. For simplicity, use the literal meanings of the cards in the locations and features decks; these cards are straightforward descriptions of potential locations and of the creatures, treasures, and other features characters might find in these locations.",
-						"If you want to create a prelude to the dungeon, use the optional steps that call for the story deck, and give those cards their full range of symbolic meaning as discussed in the \"{@book Reading the Cards|DMTCRG|3}\" section. If you'd rather dive straight into the action, you can skip those steps and omit the story deck.",
+						"If you want to create a prelude to the dungeon, use the optional steps that call for the story deck, and give those cards their full range of symbolic meaning as discussed in the \"{@area Reading the Cards|018|x}\" section. If you'd rather dive straight into the action, you can skip those steps and omit the story deck.",
 						{
 							"type": "entries",
 							"name": "Dungeon Spread Decks",

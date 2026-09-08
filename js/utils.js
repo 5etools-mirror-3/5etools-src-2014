@@ -2,7 +2,7 @@
 
 // in deployment, `IS_DEPLOYED = "<version number>";` should be set below.
 globalThis.IS_DEPLOYED = undefined;
-globalThis.VERSION_NUMBER = /* 5ETOOLS_VERSION__OPEN */"1.219.2"/* 5ETOOLS_VERSION__CLOSE */;
+globalThis.VERSION_NUMBER = /* 5ETOOLS_VERSION__OPEN */"1.219.3"/* 5ETOOLS_VERSION__CLOSE */;
 globalThis.DEPLOYED_IMG_ROOT = undefined;
 // for the roll20 script to set
 globalThis.IS_VTT = false;
@@ -3512,7 +3512,7 @@ globalThis.SearchUtil = class {
 globalThis.UidUtil = class {
 	static getUidAdventureBook ({displayText, id, chapter = null, section = null, number = null}) {
 		return [displayText, id, chapter, section, number]
-			.map(it => it || "")
+			.map(it => it ?? "")
 			.join("|")
 			.replace(/\|+$/, "");
 	}

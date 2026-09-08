@@ -6,7 +6,7 @@
 			"id": "000",
 			"page": 2,
 			"entries": [
-				"The Snout of Omgar is a geographical region {@adventure described briefly|ToA|2|Snout of Omgar} in {@adventure Tomb of Annihilation|ToA}. Not much is revealed about the location or its inhabitants in that adventure, however. The Tortle Package is written for Dungeon Masters who want to know more about the Snout of Omgar. This supplement also introduces a new playable character race, the {@race tortle|ttp}, and a new adventure location: {@adventure Dangwaru, the Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)}.",
+				"The Snout of Omgar is a geographical region {@adventure described briefly|ToA|2|Snout of Omgar} in {@adventure Tomb of Annihilation|ToA}. Not much is revealed about the location or its inhabitants in that adventure, however. The Tortle Package is written for Dungeon Masters who want to know more about the Snout of Omgar. This supplement also introduces a new playable character race, the {@race tortle|ttp}, and a new adventure location: {@area Dangwaru, the Typhoon Palace|029|x}.",
 				"Tortles are intelligent, turtle-like humanoids that have a knack for wilderness survival. The race first appeared in early editions of the D&D game, nowhere more prominently than in module X9, The Savage Coast, which was set in the world of Mystara. Tortles, like most other adventurous races, can appear on any D&D world. In the Forgotten Realms, the {@adventure peninsula of Chult|ToA|2} and the Snout of Omgar make good homes for them.",
 				"This supplement assumes that you have the D&D fifth edition core rulebooks ({@book Player's Handbook|phb}, {@book Dungeon Master's Guide|dmg}, and {@book Monster Manual|mm}) as well as {@book Volo's Guide to Monsters|vgm} and {@adventure Tomb of Annihilation|ToA}.",
 				{
@@ -319,8 +319,8 @@
 							}
 						},
 						"The Snout of Omgar was once a peninsula, but upheaval wrought by the Spellplague broke off the tip of the peninsula, creating an island separated from mainland Chult by a narrow strait. When the separation occurred, tortles living in the vicinity claimed the island as their domain. The strait provided a natural defense against aggressive mainland predators.",
-						"The tortles of the Snout are hospitable folk who like to hunt, catch fish, build things, and trade with visitors. Not long after the island was formed, a pirate ship captained by a cleric of the sea goddess {@deity Umberlee|Faerûnian|SCAG} was caught in a typhoon and swept ashore. Tortles rescued the shipwrecked survivors and looked after them. The captain impressed the tortles with her magic and told stories that painted {@deity Umberlee|Faerûnian|SCAG} in a flattering light. In time, she persuaded them to raise a palace in her deity's honor. The cleric chose a mountainside overlooking the sea, and there the tortles spent a decade building {@adventure Dangwaru, the Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)}, which secretly served as a temple of {@deity Umberlee|Faerûnian|SCAG}. In return, the cleric and her followers left the tortles alone and were quiet neighbors.",
-						"Over time, the island's {@deity Umberlee|Faerûnian|SCAG} worshipers died off, and the palace fell into ruin. Descendants of the tortles who built the {@adventure Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)} soon discovered evil creatures lurking within. Older tortles wisely shun the ruined palace, but younger tortles occasionally try to explore it as a rite of passage. Few of them get far before strange monsters frighten them away."
+						"The tortles of the Snout are hospitable folk who like to hunt, catch fish, build things, and trade with visitors. Not long after the island was formed, a pirate ship captained by a cleric of the sea goddess {@deity Umberlee|Faerûnian|SCAG} was caught in a typhoon and swept ashore. Tortles rescued the shipwrecked survivors and looked after them. The captain impressed the tortles with her magic and told stories that painted {@deity Umberlee|Faerûnian|SCAG} in a flattering light. In time, she persuaded them to raise a palace in her deity's honor. The cleric chose a mountainside overlooking the sea, and there the tortles spent a decade building {@area Dangwaru, the Typhoon Palace|029|x}, which secretly served as a temple of {@deity Umberlee|Faerûnian|SCAG}. In return, the cleric and her followers left the tortles alone and were quiet neighbors.",
+						"Over time, the island's {@deity Umberlee|Faerûnian|SCAG} worshipers died off, and the palace fell into ruin. Descendants of the tortles who built the {@area Typhoon Palace|029|x} soon discovered evil creatures lurking within. Older tortles wisely shun the ruined palace, but younger tortles occasionally try to explore it as a rite of passage. Few of them get far before strange monsters frighten them away."
 					]
 				},
 				{
@@ -333,8 +333,8 @@
 						{
 							"type": "list",
 							"items": [
-								"With your consent, one or more players can create {@race tortle|ttp} characters using the rules in the \"{@adventure Tortle|ttp|1}\" section. These tortles have traveled far from the Snout of Omgar in search of adventure and companionship. They can join the party in {@adventure Port Nyanzaru|ToA|1} or some other {@adventure location in Chult|ToA|2|Locations in Chult}.",
-								"The party might encounter a tortle NPC willing to serve as a wilderness guide. This supplement describes three new tortle guides (see \"{@adventure Tortle Guides|ttp|1|Tortle Guides},\").",
+								"With your consent, one or more players can create {@race tortle|ttp} characters using the rules in the \"{@area Tortle|004|x}\" section. These tortles have traveled far from the Snout of Omgar in search of adventure and companionship. They can join the party in {@adventure Port Nyanzaru|ToA|1} or some other {@adventure location in Chult|ToA|2|Locations in Chult}.",
+								"The party might encounter a tortle NPC willing to serve as a wilderness guide. This supplement describes three new tortle guides (see \"{@area Tortle Guides|005|x},\").",
 								"The party might visit the Snout of Omgar, explore its locations, and encounter its inhabitants."
 							]
 						},
@@ -348,11 +348,11 @@
 								{
 									"type": "list",
 									"items": [
-										"While traveling by ship around the Chultan peninsula, the characters are caught in a storm and washed ashore on the Snout of Omgar, not too far from High Horn (see \"{@adventure High Horn|ttp|3|High Horn},\").",
-										"The commander of {@adventure Fort Beluarian|ToA|2|Fort Beluarian}, {@creature Liara Portyr|ToA}, hires the adventurers to explore the ruins of the {@adventure Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)} and report back to her. She arranges for a ship to transport them to {@adventure Ahoyhoy|ttp|3|Ahoyhoy}.",
-										"The characters hire a tortle guide in {@adventure Port Nyanzaru|ToA|1} or {@adventure Fort Beluarian|ToA|2|Fort Beluarian}. The tortle tells them stories about the {@adventure Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)} and, as payment for its services, requests their help in ridding the palace of monsters.",
+										"While traveling by ship around the Chultan peninsula, the characters are caught in a storm and washed ashore on the Snout of Omgar, not too far from High Horn (see \"{@area High Horn|058|x},\").",
+										"The commander of {@adventure Fort Beluarian|ToA|2|Fort Beluarian}, {@creature Liara Portyr|ToA}, hires the adventurers to explore the ruins of the {@area Typhoon Palace|029|x} and report back to her. She arranges for a ship to transport them to {@area Ahoyhoy|01f|x}.",
+										"The characters hire a tortle guide in {@adventure Port Nyanzaru|ToA|1} or {@adventure Fort Beluarian|ToA|2|Fort Beluarian}. The tortle tells them stories about the {@area Typhoon Palace|029|x} and, as payment for its services, requests their help in ridding the palace of monsters.",
 										"The merchant princes of {@adventure Port Nyanzaru|ToA|1} are worried about the growing number of {@filter yuan-ti|bestiary|tag=yuan-ti} spies in their city and fear that the serpent folk are planning to assassinate them. A map of the Snout of Omgar was found on the body of a slain {@creature yuan-ti pureblood|mm} spy who tried to infiltrate {@adventure Merchant Prince Zhanthi's|ToA|1|Zhanthi} household. Zhanthi offers a 1,000 gp reward to adventurers who are willing to visit each of the island's landmarks and report back to her with news of their discoveries. {@adventure Zhanthi|ToA|1|Zhanthi} gives them the map and arranges for a fast ship ({@adventure the Brazen Pegasus|ToA|1|Harbor Ward}) to transport them to the island.",
-										"A ship carrying the famous explorer {@creature Volothamp \"Volo\" Geddarm|ToA} is missing. It set sail for the southern coast of Chult and never arrived. Volo's plan was to visit beautiful {@adventure Snapping Turtle Bay|ToA|2|Snapping Turtle Bay}, then spend a week at the tortle fort of {@adventure Ahoyhoy|ttp|3|Ahoyhoy}. (\"Tortle hospitality is said to be second to none!\") Rumors that the ship fell prey to pirates are false; in fact, the ship capsized in a storm, and Volo was washed ashore on the Snout of Omgar."
+										"A ship carrying the famous explorer {@creature Volothamp \"Volo\" Geddarm|ToA} is missing. It set sail for the southern coast of Chult and never arrived. Volo's plan was to visit beautiful {@adventure Snapping Turtle Bay|ToA|2|Snapping Turtle Bay}, then spend a week at the tortle fort of {@area Ahoyhoy|01f|x}. (\"Tortle hospitality is said to be second to none!\") Rumors that the ship fell prey to pirates are false; in fact, the ship capsized in a storm, and Volo was washed ashore on the Snout of Omgar."
 									]
 								}
 							]
@@ -374,14 +374,14 @@
 					"id": "005",
 					"page": 4,
 					"entries": [
-						"The following tortle NPCs can be added to the {@adventure list of guides|toa|1|Finding a Guide} available for hire in Chult. One of the tortle guides, Kwilgok, works for the {@adventure merchant prince Jobal|ToA|1|Jobal} in {@adventure Port Nyanzaru|ToA|1}. The others, Eeyal and Mudgraw, are freelancers operating out of {@adventure Fort Beluarian|ToA|2|Fort Beluarian} and {@adventure Ahoyhoy|ttp|3|Ahoyhoy}, respectively.",
+						"The following tortle NPCs can be added to the {@adventure list of guides|toa|1|Finding a Guide} available for hire in Chult. One of the tortle guides, Kwilgok, works for the {@adventure merchant prince Jobal|ToA|1|Jobal} in {@adventure Port Nyanzaru|ToA|1}. The others, Eeyal and Mudgraw, are freelancers operating out of {@adventure Fort Beluarian|ToA|2|Fort Beluarian} and {@area Ahoyhoy|01f|x}, respectively.",
 						{
 							"type": "entries",
 							"name": "Eeyal",
 							"page": 4,
 							"entries": [
 								"{@i tortle guide (Fort Beluarian)}",
-								"When the characters meet Eeyal, give them {@adventure handout A|ttp|6|Handout A: Eeyal}.",
+								"When the characters meet Eeyal, give them {@area handout A|068|x}.",
 								"Eeyal is a {@creature tortle|mtf} who wears goggles that she crafted for herself to protect her eyes against volcanic ash. It took her almost a year, but she traveled from the Snout of Omgar to {@adventure Fort Beluarian|ToA|2|Fort Beluarian} on foot, crossing Chult through rough mountains, dense jungles, and undead-infested territory. She's seen {@adventure Lake Luo|ToA|2|Lake luo}, the garden palace of {@adventure Nangalore|ToA|2|Nangalore}, the gorge of {@adventure Ataaz Muhahah|ToA|2|Ataaz Muhahah}, and the ruins of {@adventure Mezro|ToA|2|Mezro}. She even found a shipwreck in the jungle ({@adventure the Wreck of the Narwhal|ToA|2|Wreck of the Narwhal}) and befriended a {@creature weretiger} that lives there.",
 								"A skilled artisan, Eeyal carries a set of {@item smith's tools|phb} and a set of {@item tinker's tools|phb}. She also owns a {@item climber's kit|phb}, a {@item healer's kit|phb}, and a {@item dungeoneer's pack|phb}. This equipment is hooked to a specially crafted leather harness attached to Eeyal's shell. Eeyal claims to have the right tool for every contingency and is so protective of her gear that she insists on carrying it all herself.",
 								"Eeyal is 5 feet, 8 inches tall and weighs 420 pounds.",
@@ -397,10 +397,10 @@
 							"name": "Kwilgok",
 							"entries": [
 								"{@i Prerequisite tortle guide (Port Nyanzaru)}",
-								"When the characters meet Kwilgok, give them {@adventure handout B|ttp|6|Handout B: Kwilgok}.",
-								"Three years ago, a trade ship visited the tortle fort of {@adventure Ahoyhoy|ttp|3|Ahoyhoy}, and Kwilgok was able to book passage on it. In {@adventure Port Nyanzaru|ToA|1}, he discovered a world like no other. He found work repairing docks and, within a year, had enough coin to buy a used {@creature ankylosaurus}, which he rode in several high-stakes {@adventure dinosaur races|ToA|1|Dinosaur Racing}. He lost more than he won but caught the eye of the {@adventure Merchant Prince Jobal|ToA|1|Jobal}, who convinced him there was more profit in wilderness exploration. Kwilgok the {@creature tortle|mtf} became a guide and, like all legitimate guides in {@adventure Port Nyanzaru|ToA|1}, gives a slice of his earnings to {@adventure Jobal|ToA|1|Jobal}.",
+								"When the characters meet Kwilgok, give them {@area handout B|069|x}.",
+								"Three years ago, a trade ship visited the tortle fort of {@area Ahoyhoy|01f|x}, and Kwilgok was able to book passage on it. In {@adventure Port Nyanzaru|ToA|1}, he discovered a world like no other. He found work repairing docks and, within a year, had enough coin to buy a used {@creature ankylosaurus}, which he rode in several high-stakes {@adventure dinosaur races|ToA|1|Dinosaur Racing}. He lost more than he won but caught the eye of the {@adventure Merchant Prince Jobal|ToA|1|Jobal}, who convinced him there was more profit in wilderness exploration. Kwilgok the {@creature tortle|mtf} became a guide and, like all legitimate guides in {@adventure Port Nyanzaru|ToA|1}, gives a slice of his earnings to {@adventure Jobal|ToA|1|Jobal}.",
 								"Kwilgok travels with a cantankerous {@creature ankylosaurus} named Deadly Treasure. The tortle rides in a howdah on the ankylosaurus's back and guides the beast using a {@item Pole (10-foot)|phb|10-foot pole} with succulent leaves tied to one end. Although he doesn't allow others to ride the beast, many would-be explorers are so impressed by the dinosaur that they're happy to pay Kwilgok's fee of 6 gp per day, with payment for 30 days up front.",
-								"Although he's an able and honest guide, Kwilgok won't stick his neck out for his employers. He gets steady work because of his easy-going demeanor and his willingness to lead an expedition to any corner of Chult. He has traveled up the {@adventure River Soshenstar|ToA|2|River Soshenstar} many times and knows the {@adventure Aldani Basin|ToA|2|Aldani Basin} and the surrounding region quite well. He's also led expeditions to {@adventure Orolunga|ToA|2|Orolunga}, though he's never encountered the elusive oracle rumored to dwell there. One place he'd rather not revisit is {@adventure Dangwaru, the Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)}. When he was young, Kwilgok decided on a lark to explore the ruins and encountered evil shadows there. The shadows nearly spelled his doom, but he managed to flee the palace in a weakened state. The shadows still haunt Kwilgok's dreams, and he has no wish to face them again.",
+								"Although he's an able and honest guide, Kwilgok won't stick his neck out for his employers. He gets steady work because of his easy-going demeanor and his willingness to lead an expedition to any corner of Chult. He has traveled up the {@adventure River Soshenstar|ToA|2|River Soshenstar} many times and knows the {@adventure Aldani Basin|ToA|2|Aldani Basin} and the surrounding region quite well. He's also led expeditions to {@adventure Orolunga|ToA|2|Orolunga}, though he's never encountered the elusive oracle rumored to dwell there. One place he'd rather not revisit is {@area Dangwaru, the Typhoon Palace|029|x}. When he was young, Kwilgok decided on a lark to explore the ruins and encountered evil shadows there. The shadows nearly spelled his doom, but he managed to flee the palace in a weakened state. The shadows still haunt Kwilgok's dreams, and he has no wish to face them again.",
 								"Kwilgok is 26 years old, stands just shy of 6 feet tall, and weighs 450 pounds."
 							],
 							"id": "06c"
@@ -410,7 +410,7 @@
 							"name": "Mudgraw",
 							"entries": [
 								"{@i Prerequisite tortle druid guide (Ahoyhoy)}",
-								"When the characters meet Mudgraw, give them {@adventure handout C|ttp|6|Handout C: Mudgraw}. Characters who visit the tortle fort of {@adventure Ahoyhoy|ttp|3|Ahoyhoy} can secure Mudgraw as a guide. Convinced that he is a natural leader, Mudgraw likes to bellow and be heard, and he never admits to being wrong, even when he doesn't know what he's talking about. The {@creature tortle druid|mtf} can't pass up a good adventure and is willing to travel off the island. He has previously led expeditions to {@adventure Omu|ToA|3|Omu}, {@adventure Shilku|ToA|2|Shilku}, and the {@adventure Heart of Ubtao|ToA|2|Heart of Ubtao}. It's been five years since he last visited the Heart; consequently, he knows nothing about its current inhabitants.",
+								"When the characters meet Mudgraw, give them {@area handout C|06a|x}. Characters who visit the tortle fort of {@area Ahoyhoy|01f|x} can secure Mudgraw as a guide. Convinced that he is a natural leader, Mudgraw likes to bellow and be heard, and he never admits to being wrong, even when he doesn't know what he's talking about. The {@creature tortle druid|mtf} can't pass up a good adventure and is willing to travel off the island. He has previously led expeditions to {@adventure Omu|ToA|3|Omu}, {@adventure Shilku|ToA|2|Shilku}, and the {@adventure Heart of Ubtao|ToA|2|Heart of Ubtao}. It's been five years since he last visited the Heart; consequently, he knows nothing about its current inhabitants.",
 								"Mudgraw's only visit to {@adventure Omu|ToA|3|Omu}, three years ago, ended in disaster. He and a company of human treasure-hunters from the city of Athkatla were ambushed by {@filter yuan-ti|bestiary|tag=yuan-ti}, and Mudgraw was forced to abandon his companions. He hid in a ruin that was once a shrine to the god Ubtao, was transfixed by the maze-like imagery on the walls, and found a wooden {@item holy symbol|phb} left behind by the shrine's previous inhabitants. He believes that Ubtao helped him escape the city and now wears the {@item holy symbol|phb} around his neck. He regrets abandoning the expedition and prefers not to speak of it. One of his favorite new sayings is, \"Life is a maze.\" Mudgraw uses it whenever he's vexed or when he has information he'd rather not divulge.",
 								"Mudgraw is 44 years old, stands 6 feet tall, and weighs 480 pounds. He charges 5 gp per day but will waive his fee if he is given the chance to lead another expedition to {@adventure Omu|ToA|3|Omu}. Mudgraw sees any such expedition as an opportunity for atonement."
 							],
@@ -426,7 +426,7 @@
 			"id": "006",
 			"page": 5,
 			"entries": [
-				"A rain forest covers the relatively flat northwest corner of the island. This rain forest is surrounded by grassy hills to the north, sandy beaches to the east and west, and mountains to the south. The tortle fort of {@adventure Ahoyhoy|ttp|3|Ahoyhoy} stands on the west coast, where the edge of the rain forest and the mountains meet.",
+				"A rain forest covers the relatively flat northwest corner of the island. This rain forest is surrounded by grassy hills to the north, sandy beaches to the east and west, and mountains to the south. The tortle fort of {@area Ahoyhoy|01f|x} stands on the west coast, where the edge of the rain forest and the mountains meet.",
 				{
 					"type": "entries",
 					"name": "Random Encounters",
@@ -753,7 +753,7 @@
 							"id": "01c",
 							"page": 8,
 							"entries": [
-								"The characters are attacked by {@dice 1d4+2} {@creature topi|ttp|topis} (see \"{@creature Topi|ttp}\") that escaped from the {@adventure Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)}."
+								"The characters are attacked by {@dice 1d4+2} {@creature topi|ttp|topis} (see \"{@creature Topi|ttp}\") that escaped from the {@area Typhoon Palace|029|x}."
 							]
 						},
 						{
@@ -762,7 +762,7 @@
 							"id": "01d",
 							"page": 8,
 							"entries": [
-								"The characters encounter a {@creature tortle|mtf} (see \"{@race tortle|ttp|Tortles}\"). For suggested tortle names, see \"{@race tortle|ttp|Tortle Names}\". If this encounter occurs near the coast, the tortle is a fisher with a {@item fishing tackle|phb|fishing pole}, a {@item net|phb}, and a fish basket. If the encounter occurs inland, the tortle is hunting snakes, {@creature lizard|MM|lizards}, {@creature axe beak||axe beaks}, or {@creature blood hawk||blood hawks}. The tortle tries to be helpful. If the characters are looking for a settlement where they can rest and trade, the tortle points them in the direction of {@adventure Ahoyhoy|ttp|3|Ahoyhoy}. If they're looking for adventure, it points them in the direction of the {@adventure Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)}. If a mystery is what they seek, it points them in the direction of the {@adventure Shrine of Fangs|ttp|3|Shrine of Fangs}. If they're looking for shipwrecks to plunder, it directs them toward {@adventure High Horn|ttp|3|High Horn}. If they're looking for a good time, the tortle gives them directions to the {@adventure Mud Pits of Florrb|ttp|3|Mud Pits of Florrb}."
+								"The characters encounter a {@creature tortle|mtf} (see \"{@race tortle|ttp|Tortles}\"). For suggested tortle names, see \"{@race tortle|ttp|Tortle Names}\". If this encounter occurs near the coast, the tortle is a fisher with a {@item fishing tackle|phb|fishing pole}, a {@item net|phb}, and a fish basket. If the encounter occurs inland, the tortle is hunting snakes, {@creature lizard|MM|lizards}, {@creature axe beak||axe beaks}, or {@creature blood hawk||blood hawks}. The tortle tries to be helpful. If the characters are looking for a settlement where they can rest and trade, the tortle points them in the direction of {@area Ahoyhoy|01f|x}. If they're looking for adventure, it points them in the direction of the {@area Typhoon Palace|029|x}. If a mystery is what they seek, it points them in the direction of the {@area Shrine of Fangs|065|x}. If they're looking for shipwrecks to plunder, it directs them toward {@area High Horn|058|x}. If they're looking for a good time, the tortle gives them directions to the {@area Mud Pits of Florrb|062|x}."
 							]
 						}
 					]
@@ -1216,7 +1216,7 @@
 								],
 								[
 									"2",
-									"There's an old trail leading from Ahoyhoy to {@adventure Dangwaru|ttp|3|Dangwaru (The Typhoon Palace)}, high up on the mountainside. Tortles built the {@adventure Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)} a century ago for the survivors of a shipwreck, but it's been abandoned for years. Evil spirits now watch over the palace, which is said to be full of treasure. (If characters press for more information, share the additional bits of lore in the \"{@adventure Dangwaru|ttp|3|Dangwaru (The Typhoon Palace)}\" section.)"
+									"There's an old trail leading from Ahoyhoy to {@area Dangwaru|029|x}, high up on the mountainside. Tortles built the {@area Typhoon Palace|029|x} a century ago for the survivors of a shipwreck, but it's been abandoned for years. Evil spirits now watch over the palace, which is said to be full of treasure. (If characters press for more information, share the additional bits of lore in the \"{@area Dangwaru|029|x}\" section.)"
 								],
 								[
 									"3",
@@ -1224,7 +1224,7 @@
 								],
 								[
 									"4",
-									"A trail leads from Ahoyhoy to {@adventure some mud pits|ttp|3|Mud Pits of Florrb} in the heart of the jungle. If you bathe in a mud pit for at least an hour, it will fortify you."
+									"A trail leads from Ahoyhoy to {@area some mud pits|062|x} in the heart of the jungle. If you bathe in a mud pit for at least an hour, it will fortify you."
 								],
 								[
 									"5",
@@ -1245,7 +1245,7 @@
 							]
 						},
 						"The fort is built atop a rocky shelf that overlooks a sandy beach. Visitors are free to set up tents on the beach and conduct trade at the fort. Once every few months, a ship will drop anchor a few hundred yards offshore and send crew members in rowboats to trade with the tortles. For more information on trading with the tortles, see {@area 9|028}.",
-						"Two trails lead away from Ahoyhoy. The north trail cuts into the jungle and ends at the {@adventure Mud Pits of Florrb|ttp|3|Mud Pits of Florrb}. The south trail leads up the mountainside to {@adventure Dangwaru|ttp|3|Dangwaru (The Typhoon Palace)}.",
+						"Two trails lead away from Ahoyhoy. The north trail cuts into the jungle and ends at the {@area Mud Pits of Florrb|062|x}. The south trail leads up the mountainside to {@area Dangwaru|029|x}.",
 						{
 							"type": "entries",
 							"name": "1. South Gate",
@@ -2193,7 +2193,7 @@
 						{
 							"type": "list",
 							"items": [
-								"Almost a century ago, a storm caused a ship to crash near {@adventure High Horn|ttp|3|High Horn}. After pulling human survivors from the wreckage and the water, the tortles tried to make the humans feel at home.",
+								"Almost a century ago, a storm caused a ship to crash near {@area High Horn|058|x}. After pulling human survivors from the wreckage and the water, the tortles tried to make the humans feel at home.",
 								"The ship's captain was a charismatic woman whom the tortles admired. She worshiped a sea goddess and told stories about terrifying sea monsters, great ship battles, and magnificent island palaces. The tortles built the Typhoon Palace for her so that she could feel at home on the island.",
 								"The captain and her crew lived in the palace for the rest of their lives. The last of them perished more than fifty years ago.",
 								"The palace is dilapidated and haunted. Young tortles occasionally explore the ruins in search of treasure. Most don't get far before strange sounds and shadowy forms frighten them away."
@@ -2201,14 +2201,14 @@
 						},
 						"The tortles built the Typhoon Palace to withstand storms, earthquakes, and the passage of time. Most of the damage it has sustained is due to neglect, and the damage is mostly superficial.",
 						"Ceilings within the palace are 15 feet high unless otherwise noted. The walls are made of plaster-covered stone. Embedded in the plaster are decorative stones, oyster shells, starfish, and branches of coral. Doors are fashioned from thick wood and have no locks.",
-						"Several areas contain magical wards that can be bypassed by anyone wearing a holy symbol of {@deity Umberlee|Faerûnian|SCAG}. The characters can find such a device in the wreck of the {@adventure Bitch Queen|ttp|3|Bitch Queen} (see \"{@adventure High Horn|ttp|3|High Horn}\").",
+						"Several areas contain magical wards that can be bypassed by anyone wearing a holy symbol of {@deity Umberlee|Faerûnian|SCAG}. The characters can find such a device in the wreck of the {@area Bitch Queen|059|x} (see \"{@area High Horn|058|x}\").",
 						{
 							"type": "entries",
 							"name": "1. Ruined Portico",
 							"id": "02a",
 							"page": 11,
 							"entries": [
-								"If the characters follow the trail south from {@adventure Ahoyhoy|ttp|3|Ahoyhoy} to Dangwaru, read or paraphrase the following:",
+								"If the characters follow the trail south from {@area Ahoyhoy|01f|x} to Dangwaru, read or paraphrase the following:",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -2218,7 +2218,7 @@
 									"id": "074"
 								},
 								"Slanting beams of sunlight or moonlight shine through the holes in the portico roof, depending on the time of day or night. Although the tiny {@creature lizard|MM|lizards} are harmless, a hostile {@creature giant lizard} lurks amid the plants in the southeast corner of the portico. Characters who enter the portico can spot the {@creature giant lizard} with a successful {@dc 15} Wisdom ({@skill Perception}) check. Anyone who comes within 20 feet of it or the portcullis (see {@area 4|02d}) is attacked. The {@creature giant lizard} is hungry and fights until slain.",
-								"The double door is unlocked and pushes open on rusty, squealing iron hinges. If the characters have found a holy symbol of {@deity Umberlee|Faerûnian|SCAG} amid the wrecks of High Horn (see \"{@adventure High Horn|ttp|3|High Horn},\") or elsewhere, they realize that the splitting waves carved on the double door closely match the symbol."
+								"The double door is unlocked and pushes open on rusty, squealing iron hinges. If the characters have found a holy symbol of {@deity Umberlee|Faerûnian|SCAG} amid the wrecks of High Horn (see \"{@area High Horn|058|x},\") or elsewhere, they realize that the splitting waves carved on the double door closely match the symbol."
 							]
 						},
 						{
@@ -2544,7 +2544,7 @@
 									"id": "044",
 									"entries": [
 										"The western door off the cleric's bedchamber opens into a vestibule where the cleric of {@deity Umberlee|Faerûnian|SCAG} kept her personal belongings. Stone shelves stand against the bare stone walls, and two wooden chests rest in the middle of the floor.",
-										"The shelves contain worthless wooden statuettes of sea creatures given to the cleric of {@deity Umberlee|Faerûnian|SCAG} by tortle admirers, as well as four moldy books that are the logs from her days as captain of the {@adventure Bitch Queen|ttp|3|Bitch Queen}. These old logbooks chronicle the ship's voyages and are worth 25 gp each to an interested buyer in any port city. The chests are locked, and their keys can be found in {@area 24|051}. Picking a lock requires {@item thieves' tools|phb} and a successful {@dc 15} Dexterity check. One chest contains five outfits of {@item traveler's clothes|phb} sized for a large human female. The other chest holds priestly vestments befitting a cleric of {@deity Umberlee|Faerûnian|SCAG} and eight iron keys of different shapes and sizes. The keys open eight of the nine chests in {@area 18|047}. (The ninth key was taken and hidden in {@area 5|02e}.)"
+										"The shelves contain worthless wooden statuettes of sea creatures given to the cleric of {@deity Umberlee|Faerûnian|SCAG} by tortle admirers, as well as four moldy books that are the logs from her days as captain of the {@area Bitch Queen|059|x}. These old logbooks chronicle the ship's voyages and are worth 25 gp each to an interested buyer in any port city. The chests are locked, and their keys can be found in {@area 24|051}. Picking a lock requires {@item thieves' tools|phb} and a successful {@dc 15} Dexterity check. One chest contains five outfits of {@item traveler's clothes|phb} sized for a large human female. The other chest holds priestly vestments befitting a cleric of {@deity Umberlee|Faerûnian|SCAG} and eight iron keys of different shapes and sizes. The keys open eight of the nine chests in {@area 18|047}. (The ninth key was taken and hidden in {@area 5|02e}.)"
 									]
 								}
 							]
@@ -2754,7 +2754,7 @@
 									"id": "085"
 								},
 								"The largest rug is a {@creature rug of smothering}. It attacks the first creature that disturbs it. The urns contain the skulls and bones of six dead {@deity Umberlee|Faerûnian|SCAG} worshipers.",
-								"The cage was salvaged from the {@adventure Bitch Queen|ttp|3|Bitch Queen} (see \"{@adventure High Horn|ttp|3|High Horn},\"), where it was used for deep sea salvaging in shark-infested waters. It was also used by the captain to torture and drown prisoners. If a living creature touches the cage, a neutral merfolk {@creature ghost} materializes inside it. The ghost is all that remains of Siburrath, a male {@creature merfolk} who was captured and tortured by the {@adventure Bitch Queen's|ttp|3|Bitch Queen} captain over a century ago. Siburrath's ghost can't leave the cage unless it possesses someone, and it can't rest until its torturer is slain.",
+								"The cage was salvaged from the {@area Bitch Queen|059|x} (see \"{@area High Horn|058|x},\"), where it was used for deep sea salvaging in shark-infested waters. It was also used by the captain to torture and drown prisoners. If a living creature touches the cage, a neutral merfolk {@creature ghost} materializes inside it. The ghost is all that remains of Siburrath, a male {@creature merfolk} who was captured and tortured by the {@area Bitch Queen's|059|x} captain over a century ago. Siburrath's ghost can't leave the cage unless it possesses someone, and it can't rest until its torturer is slain.",
 								"The ghost tries to possess the first character to come within 5 feet of it, with the intent of using the host to find and kill its torturer. If the ghost fails to possess someone, it tries to persuade the characters (in {@language primordial|phb|Aquan} or {@language Common|phb}) to help it find peace. The ghost can sense that its torturer is nearby, but can't discern the exact location. If the characters kill the slug creature in {@area 24|051}, the ghost is laid to rest, and the characters receive XP as though they had defeated the ghost in combat.",
 								{
 									"type": "entries",
@@ -2822,7 +2822,7 @@
 									],
 									"id": "088"
 								},
-								"The {@creature giant slug|ttp} used to be the cleric of {@deity Umberlee|Faerûnian|SCAG} for whom the {@adventure Typhoon Palace|ttp|3|Dangwaru (The Typhoon Palace)} was built. The sea goddess transformed the cleric as a punishment for some unknown offense. The giant slug has no recollection of its previous life and has the statistics of a {@creature carrion crawler}, with the following changes:",
+								"The {@creature giant slug|ttp} used to be the cleric of {@deity Umberlee|Faerûnian|SCAG} for whom the {@area Typhoon Palace|029|x} was built. The sea goddess transformed the cleric as a punishment for some unknown offense. The giant slug has no recollection of its previous life and has the statistics of a {@creature carrion crawler}, with the following changes:",
 								{
 									"type": "list",
 									"items": [
@@ -2885,7 +2885,7 @@
 							"name": "Treasure",
 							"id": "057",
 							"entries": [
-								"{@creature geonid|ttp|Geonids} hide their treasure at the back of their lairs. A thorough search of the deepest cave uncovers {@dice 2d10} gp worth of stone jewelry and art objects (carved figurines, talismans, and the like), as well as {@dice 1d4} uncut gemstones worth 10 gp each. Each time the characters find such a hoard, there's a cumulative {@chance 20} chance that the trove includes a 6-inch-tall obsidian figurine of a coiled serpent god (25 gp). Only one such relic can be found. A {@creature geonid|ttp} stole it from the {@adventure Shrine of Fangs|ttp|3|Shrine of Fangs}, and its return completes a quest (see \"{@adventure Shrine of Fangs|ttp|3|Shrine of Fangs}\")."
+								"{@creature geonid|ttp|Geonids} hide their treasure at the back of their lairs. A thorough search of the deepest cave uncovers {@dice 2d10} gp worth of stone jewelry and art objects (carved figurines, talismans, and the like), as well as {@dice 1d4} uncut gemstones worth 10 gp each. Each time the characters find such a hoard, there's a cumulative {@chance 20} chance that the trove includes a 6-inch-tall obsidian figurine of a coiled serpent god (25 gp). Only one such relic can be found. A {@creature geonid|ttp} stole it from the {@area Shrine of Fangs|065|x}, and its return completes a quest (see \"{@area Shrine of Fangs|065|x}\")."
 							]
 						}
 					]
@@ -2904,7 +2904,7 @@
 							"id": "089"
 						},
 						"The statue depicts a long-dead tortle named Gumdarr, who heard a ship crash on the rocks and stood atop the crag to get a better look. He blew a {@item horn|phb} to lure other tortles to the beach, and together they fished out the survivors of the shipwreck.",
-						"Six ships have crashed here in the past one hundred years, including the ship that brought the cleric of {@deity Umberlee|Faerûnian|SCAG} and her crew to the island. At high tide, three of the wrecks (the {@adventure Bitch Queen|ttp|3|Bitch Queen}, the {@adventure Carcerius|ttp|3|Carcerius}, and the {@adventure Sea Mare|ttp|3|Sea Mare}) are submerged, while the others (the {@adventure Dawn Avenger|ttp|3|Dawn Avenger}, the {@adventure Dirty Dastard|ttp|3|Dirty Dastard}, and the {@adventure Virago|ttp|3|Virago}) are at least partially visible above the waterline. At low tide, all six wrecks are visible to some extent. Each shipwreck is described below.",
+						"Six ships have crashed here in the past one hundred years, including the ship that brought the cleric of {@deity Umberlee|Faerûnian|SCAG} and her crew to the island. At high tide, three of the wrecks (the {@area Bitch Queen|059|x}, the {@area Carcerius|05b|x}, and the {@area Sea Mare|05f|x}) are submerged, while the others (the {@area Dawn Avenger|05c|x}, the {@area Dirty Dastard|05d|x}, and the {@area Virago|061|x}) are at least partially visible above the waterline. At low tide, all six wrecks are visible to some extent. Each shipwreck is described below.",
 						"A {@creature two-headed plesiosaurus|ttp} prowls the water around the wrecks at high tide. The creature withdraws to the northern strait when the tide goes out. It has the statistics of a {@creature plesiosaurus}, with these changes:",
 						{
 							"type": "list",
@@ -2998,7 +2998,7 @@
 							"id": "061",
 							"page": 20,
 							"entries": [
-								"The virago was a merchant vessel out of Zazesspur. Thirty-odd years ago, it ran afoul of pirates and was chased around the Chultan peninsula. The virago would have escaped had it not sailed into a pyroclastic ash cloud and caught fire. The burning ship drifted for days before the current bore it to {@adventure High Horn|ttp|3|High Horn}. There it sank. The burnt nub that was once the mast is the only part of the ship visible at high tide; at low tide, the scorched top deck of the virago is above water; the rotted-out lower deck and keel are buried deep in the sand below. Nothing of value can be salvaged from this wreck."
+								"The virago was a merchant vessel out of Zazesspur. Thirty-odd years ago, it ran afoul of pirates and was chased around the Chultan peninsula. The virago would have escaped had it not sailed into a pyroclastic ash cloud and caught fire. The burning ship drifted for days before the current bore it to {@area High Horn|058|x}. There it sank. The burnt nub that was once the mast is the only part of the ship visible at high tide; at low tide, the scorched top deck of the virago is above water; the rotted-out lower deck and keel are buried deep in the sand below. Nothing of value can be salvaged from this wreck."
 							]
 						}
 					]
@@ -3009,7 +3009,7 @@
 					"id": "062",
 					"page": 20,
 					"entries": [
-						"In the heart of the island's jungle are three pools of mud heated by geothermal vents. Each pool is within sight of the other two and is 5 feet deep, 50 feet wide, and roughly circular. (The pools shown on {@area map 1|001|x} are not to scale.) A {@spell detect magic} spell reveals a faint aura of abjuration magic around each pool. The tortles of the island like to bathe and relax in the mud pools for hours at a time, singing and bellowing to pass the time. A winding foot trail connects the mud pits to the tortle fort of {@adventure Ahoyhoy|ttp|3|Ahoyhoy}.",
+						"In the heart of the island's jungle are three pools of mud heated by geothermal vents. Each pool is within sight of the other two and is 5 feet deep, 50 feet wide, and roughly circular. (The pools shown on {@area map 1|001|x} are not to scale.) A {@spell detect magic} spell reveals a faint aura of abjuration magic around each pool. The tortles of the island like to bathe and relax in the mud pools for hours at a time, singing and bellowing to pass the time. A winding foot trail connects the mud pits to the tortle fort of {@area Ahoyhoy|01f|x}.",
 						"The \"lord\" of the mud pits is Florrb, a {@creature mud mephit} with {@dice 1d10} temporary hit points (which he gained by swimming in the mud pits). The mephit and the tortles share a common language ({@language primordial|phb|Aquan}). Through words and gestures, Florrb urges visitors to bathe in the mud and enjoy themselves. It demands no payment but insists on joining those who bathe. Florrb likes being in its natural element, but the longer the mephit remains in the mud, the more dour it becomes. A successful {@dc 10} Wisdom (Insight) check reveals that the mud mephit seems to be waiting for something to happen. Florrb doesn't want others to know what's really going on and reveals the cause of its anxiety only if magically compelled to do so.",
 						{
 							"type": "entries",
@@ -3111,7 +3111,8 @@
 							"source": "TTP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08e"
 				},
 				{
 					"type": "section",
@@ -3135,7 +3136,8 @@
 							"source": "TTP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "08f"
 				},
 				{
 					"type": "section",
@@ -3148,7 +3150,8 @@
 							"source": "TTP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "090"
 				},
 				{
 					"type": "section",
@@ -3172,7 +3175,8 @@
 							"source": "TTP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "091"
 				},
 				{
 					"type": "section",
@@ -3196,7 +3200,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "092"
 				},
 				{
 					"type": "section",
@@ -3220,7 +3225,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "093"
 				},
 				{
 					"type": "section",
@@ -3244,7 +3250,8 @@
 							"source": "TTP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "094"
 				}
 			]
 		},

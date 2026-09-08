@@ -299,7 +299,7 @@
 							"height": 1168,
 							"credit": "Brian Sola"
 						},
-						"At the reception, the characters can catch up with other students and enjoy magical snacks. The event concludes with a student getting ill (see \"{@adventure One Too Many?|SCC-TMM|0|One Too Many?}\")\u2014foreshadowing events later in this adventure\u2014and disgruntled students demanding the characters face them in a magical contest (see \"{@adventure The Challenge|SCC-TMM|0|The Challenge}\"). This challenge works best if it comes from a character's Rival.",
+						"At the reception, the characters can catch up with other students and enjoy magical snacks. The event concludes with a student getting ill (see \"{@area One Too Many?|2f2|x}\")\u2014foreshadowing events later in this adventure\u2014and disgruntled students demanding the characters face them in a magical contest (see \"{@area The Challenge|2f4|x}\"). This challenge works best if it comes from a character's Rival.",
 						{
 							"type": "entries",
 							"name": "Activities and Rumors",
@@ -333,7 +333,7 @@
 										],
 										[
 											"4",
-											"Eating Everything. The student wants to try every food available at the event (see \"{@adventure Snack Sampling|SCC-TMM|0|Snack Sampling}\"). They ask the character to join them."
+											"Eating Everything. The student wants to try every food available at the event (see \"{@area Snack Sampling|2f1|x}\"). They ask the character to join them."
 										],
 										[
 											"5",
@@ -545,7 +545,7 @@
 												"Fabricating blackmail material that implicates a character in past dangerous events"
 											]
 										},
-										"If one or more characters accept the challenge, the \"{@adventure Fate at Furygale|SCC-TMM|0|Fate at Furygale}\" encounter occurs at midnight of the following night. Allow characters to spend the intervening time as they please, likely with their first day of studies or other responsibilities. A character who spends time seeking information about Furygale easily learns the details in the \"{@book Furygale|SCC|1|Furygale}\" section of {@book chapter 1|SCC|1}.",
+										"If one or more characters accept the challenge, the \"{@area Fate at Furygale|2f8|x}\" encounter occurs at midnight of the following night. Allow characters to spend the intervening time as they please, likely with their first day of studies or other responsibilities. A character who spends time seeking information about Furygale easily learns the details in the \"{@book Furygale|SCC|1|Furygale}\" section of {@book chapter 1|SCC|1}.",
 										"The characters can arrive at the Furygale Repository whenever they please and find it empty\u2014no one is using the storage site this early in the academic year. The students who challenged the characters arrive at midnight.",
 										"If the characters refuse even in the face of the Rival's coercion, the Rival leaves. The next day, the characters learn that the Rival has taken more extreme actions\u2014potentially involving one of the characters' Friends or Beloveds\u2014to force the characters to come to Furygale."
 									]
@@ -646,7 +646,7 @@
 												{
 													"type": "item",
 													"name": "Magic Protections",
-													"entry": "The repository is designed to break down magic without damaging creatures. See \"{@adventure Duels in the Repository|SCC-TMM|0|Duels in the Repository}\" for details on the site's protective magic. The site's magic restores hit points to creatures within the structure, whether they're dueling or not. After taking damage in the repository, a creature still in the building is healed to full hit points after not taking damage for 1 minute."
+													"entry": "The repository is designed to break down magic without damaging creatures. See \"{@area Duels in the Repository|300|x}\" for details on the site's protective magic. The site's magic restores hit points to creatures within the structure, whether they're dueling or not. After taking damage in the repository, a creature still in the building is healed to full hit points after not taking damage for 1 minute."
 												},
 												{
 													"type": "item",
@@ -714,7 +714,7 @@
 									]
 								},
 								"Any duelist who breaks these rules loses the duel. If a duelist kills an opponent, the killer, if discovered, is expelled from the university and forced to pay for {@spell raise dead} to be cast on the dead duelist.",
-								"As mentioned in the \"Magic Protections\" portion of the \"{@adventure Furygale Repository Features|SCC-TMM|0|Furygale Repository Features}\" section, creatures that take damage in this area are healed by Furygale's magic.",
+								"As mentioned in the \"Magic Protections\" portion of the \"{@area Furygale Repository Features|2fb|x}\" section, creatures that take damage in this area are healed by Furygale's magic.",
 								{
 									"type": "image",
 									"href": {
@@ -735,8 +735,8 @@
 							"id": "301",
 							"entries": [
 								"If the characters go to the repository early, their opponents arrive at midnight. If the characters arrive on time, their opponents are already there waiting at the duelist marks in the center of the structure.",
-								"Once both parties meet and banter, one-on-one duels commence following the rules outlined in the \"{@adventure Duels in the Repository|SCC-TMM|0|Duels in the Repository}\" section. The Rivals use the pledgemage stat blocks appropriate for their colleges (see {@book chapter 7|SCC|8}). All their actions are considered permissible magic for the purposes of dueling.",
-								"Run as many one-on-one duels as the characters want to participate in. During these duels, remember to account for the wild magic effect detailed in \"{@adventure Furygale Repository Features.|SCC-TMM|0|Furygale Repository Features}\" The challenge is complete when every character who wants to has dueled. The team with the most victors is deemed the winning team and earns bragging rights.",
+								"Once both parties meet and banter, one-on-one duels commence following the rules outlined in the \"{@area Duels in the Repository|300|x}\" section. The Rivals use the pledgemage stat blocks appropriate for their colleges (see {@book chapter 7|SCC|8}). All their actions are considered permissible magic for the purposes of dueling.",
+								"Run as many one-on-one duels as the characters want to participate in. During these duels, remember to account for the wild magic effect detailed in \"{@area Furygale Repository Features.|2fb|x}\" The challenge is complete when every character who wants to has dueled. The team with the most victors is deemed the winning team and earns bragging rights.",
 								"Before the groups go their separate ways, though, things take an unexpected turn."
 							]
 						},
@@ -862,7 +862,7 @@
 							"id": "30b",
 							"entries": [
 								"This year, the Strixhaven faculty has chosen to honor the school's storied history in the theme for the Magister's Masquerade.",
-								"During one of her Advanced Arcane History classes, Dean Tullus explains that the theme for the masquerade is \"{@adventure A Starlit Evening|SCC-TMM|0}.\" Just as the light from stars is visible for thousands of years, so too does the professor want to see the students' attire shine with the same wondrous history. She then offers extra credit in her course to students who show her costume designs evocative of some aspect of Strixhaven's history ahead of the ball.",
+								"During one of her Advanced Arcane History classes, Dean Tullus explains that the theme for the masquerade is \"{@area A Starlit Evening|2e0|x}.\" Just as the light from stars is visible for thousands of years, so too does the professor want to see the students' attire shine with the same wondrous history. She then offers extra credit in her course to students who show her costume designs evocative of some aspect of Strixhaven's history ahead of the ball.",
 								{
 									"type": "entries",
 									"name": "Historical Research",
@@ -870,7 +870,7 @@
 									"id": "30c",
 									"entries": [
 										"To meet Dean Tullus's demand for historical authenticity, a character must research Strixhaven fashion through the centuries. This requires spending 6 hours studying at the Biblioplex and succeeding on a {@dc 14} Intelligence ({@skill History}) check. Characters who exceed {@dc 18} on this check also learn the information in the \"Records Gap\" section.",
-										"After successfully conducting their research, a character can show their notes to Dean Tullus and receive extra credit on their second Advanced Arcane History Exam, as noted in the \"{@adventure Exam Results|SCC-TMM|0|Costume Designs}\" section for that Exam."
+										"After successfully conducting their research, a character can show their notes to Dean Tullus and receive extra credit on their second Advanced Arcane History Exam, as noted in the \"{@area Exam Results|32a|x}\" section for that Exam."
 									]
 								},
 								{
@@ -897,7 +897,7 @@
 											"id": "30f",
 											"entries": [
 												"Events related to the fashion show play out over the course of several weeks. Characters might decide to design their own fashions, model designs at the show, or sell their works at the auction. Other students might get involved in the fashion show as well, coaxing characters into the event.",
-												"Let the players know the ways in which their characters can participate in the fashion show, and allow them to do so as much as they're interested, building toward the event at a date you set. These activities can happen in the background as characters focus on other goals or as the events in the \"{@adventure Party Preparations|SCC-TMM|0|Party Preparations}\" section take place."
+												"Let the players know the ways in which their characters can participate in the fashion show, and allow them to do so as much as they're interested, building toward the event at a date you set. These activities can happen in the background as characters focus on other goals or as the events in the \"{@area Party Preparations|320|x}\" section take place."
 											]
 										},
 										{
@@ -1172,7 +1172,7 @@
 									"type": "list",
 									"items": [
 										"A trip to Witherbloom's bayou to harvest marshwicks (see \"Sedgemoor Harvest\" below)",
-										"A day of gathering supplies stored at the Biblioplex (see \"{@adventure Biblioplex Supplies|SCC-TMM|0|Biblioplex Supplies}\" below)"
+										"A day of gathering supplies stored at the Biblioplex (see \"{@area Biblioplex Supplies|323|x}\" below)"
 									]
 								},
 								{
@@ -1280,7 +1280,7 @@
 													"page": 139,
 													"id": "325",
 													"entries": [
-														"The records in the Biblioplex archives weren't available to the characters when they were doing their historical research earlier in the academic year (see \"{@adventure Records Gap|SCC-TMM|0|Records Gap}\" earlier in the chapter). A character who ignores their manual labor duties for an hour and investigates the archive records can make a {@dc 14} Intelligence ({@skill History}) check. If they succeed, they discover a firsthand report from 200 years ago involving a mysterious illness striking campus. Dozens of students fell victim to it, experiencing fatigue and headaches; many of them died, wasting away in a matter of days despite all efforts to cure them."
+														"The records in the Biblioplex archives weren't available to the characters when they were doing their historical research earlier in the academic year (see \"{@area Records Gap|30d|x}\" earlier in the chapter). A character who ignores their manual labor duties for an hour and investigates the archive records can make a {@dc 14} Intelligence ({@skill History}) check. If they succeed, they discover a firsthand report from 200 years ago involving a mysterious illness striking campus. Dozens of students fell victim to it, experiencing fatigue and headaches; many of them died, wasting away in a matter of days despite all efforts to cure them."
 													]
 												}
 											]
@@ -2252,7 +2252,7 @@
 											]
 										},
 										"The characters are sent to complete these tasks along with twenty other students. These students include individuals the characters know and classmates they're less familiar with. Even for this number of helpers, the work takes at least 8 hours to complete\u2014longer if students get distracted.",
-										"The work of preparing the hall might be plagued by accidents. Student recklessness isn't entirely to blame for these dangers\u2014unknown to the characters, some more sinister force is at work. For every two hours the characters spend working in Kollema Hall, roll on the Kollema Hall Accidents table to determine whether an event occurs, then run the corresponding event, which is described below the table. Events can occur more than once. At the end of this time, continue with the \"{@adventure Waking Nightmares|SCC-TMM|0|Waking Nightmares}\" section.",
+										"The work of preparing the hall might be plagued by accidents. Student recklessness isn't entirely to blame for these dangers\u2014unknown to the characters, some more sinister force is at work. For every two hours the characters spend working in Kollema Hall, roll on the Kollema Hall Accidents table to determine whether an event occurs, then run the corresponding event, which is described below the table. Events can occur more than once. At the end of this time, continue with the \"{@area Waking Nightmares|341|x}\" section.",
 										{
 											"type": "table",
 											"caption": "Kollema Hall Accidents",
@@ -2270,23 +2270,23 @@
 													"No Event"
 												],
 												[
-													"{@adventure 5|SCC-TMM|0|Archivist Attack}",
+													"{@area 5|33c|x}",
 													"Archivist Attack"
 												],
 												[
-													"{@adventure 6|SCC-TMM|0|Firebreak}",
+													"{@area 6|33d|x}",
 													"Firebreak"
 												],
 												[
-													"{@adventure 7|SCC-TMM|0|Get Me Down}",
+													"{@area 7|33e|x}",
 													"Get Me Down"
 												],
 												[
-													"{@adventure 8|SCC-TMM|0|Look Out}",
+													"{@area 8|33f|x}",
 													"Look Out"
 												],
 												[
-													"{@adventure 9\u201310|SCC-TMM|0|Sick Leave}",
+													"{@area 9\u201310|340|x}",
 													"Sick Leave"
 												]
 											]
@@ -2307,7 +2307,7 @@
 											"id": "33d",
 											"entries": [
 												"On the night of the masquerade, the hall will be lit with dozens of magical floating lights that emanate from magical firework-like devices that will be set off soon after the event begins. These tube-like devices are among the decorations being set up during the day's preparations. Choose a character and have them make a {@dc 16} Intelligence ({@skill Investigation}) check. On a successful check, they notice that one of the devices is faulty. On a failed check, the character doesn't spot anything amiss.",
-												"If the character fails to notice the damaged device, or notices the problem but elects to do nothing about it, a misfire occurs in the \"{@adventure Welcoming Announcement|SCC-TMM|0|Welcoming Announcement}\" section later in this chapter."
+												"If the character fails to notice the damaged device, or notices the problem but elects to do nothing about it, a misfire occurs in the \"{@area Welcoming Announcement|352|x}\" section later in this chapter."
 											]
 										},
 										{
@@ -2316,7 +2316,7 @@
 											"page": 144,
 											"id": "33e",
 											"entries": [
-												"The demonstration stage ({@adventure area K3|SCC-TMM|0|K3. Demonstration Stage} on {@adventure map 5.2|SCC-TMM|0|Map 5.2: Kollema hall}) has been enchanted with magic that will allow dancers to fly above it on the night of the masquerade. However, this magic has somehow activated early, causing a student the characters know to levitate unexpectedly, stranding them 50 feet in the air, out of reach of any solid objects. The student can't move from their position while out of reach, but if they come in contact with an anchored object, they can move along it as if climbing. The student levitates for 5 minutes before the magic ends and they fall."
+												"The demonstration stage ({@area area K3|336|x} on {@area map 5.2|000|x}) has been enchanted with magic that will allow dancers to fly above it on the night of the masquerade. However, this magic has somehow activated early, causing a student the characters know to levitate unexpectedly, stranding them 50 feet in the air, out of reach of any solid objects. The student can't move from their position while out of reach, but if they come in contact with an anchored object, they can move along it as if climbing. The student levitates for 5 minutes before the magic ends and they fall."
 											]
 										},
 										{
@@ -2335,7 +2335,7 @@
 											"page": 144,
 											"id": "340",
 											"entries": [
-												"During the hall's preparation, a student complains of having a headache that's suddenly gotten worse, and they head to the third-floor infirmary. Although the characters have no way of knowing it, this student is cursed by {@item Murgaxor's orb|SCC}. When this happens, increase the number of sick students in the \"Waking Nightmares\" section by one. If a character escorts the student to the infirmary, Professor DeSantos doesn't find anything wrong with the student and encourages them to lie down in the sickroom ({@adventure area K7|SCC-TMM|0|K7. Sickroom} on {@adventure map 5.2|SCC-TMM|0|Map 5.2: Kollema hall}) until they feel better."
+												"During the hall's preparation, a student complains of having a headache that's suddenly gotten worse, and they head to the third-floor infirmary. Although the characters have no way of knowing it, this student is cursed by {@item Murgaxor's orb|SCC}. When this happens, increase the number of sick students in the \"Waking Nightmares\" section by one. If a character escorts the student to the infirmary, Professor DeSantos doesn't find anything wrong with the student and encourages them to lie down in the sickroom ({@area area K7|33a|x} on {@area map 5.2|000|x}) until they feel better."
 											]
 										}
 									]
@@ -2476,7 +2476,7 @@
 					"id": "34b",
 					"entries": [
 						"The Magister's Masquerade occurs in the final weeks of the academic year as students' final exams conclude. The events of the ball precipitate the end of the adventure, so tie up any loose plots characters are involved in prior to starting this section or during its more free-form parts.",
-						"While the masquerade is the climax of the academic year, the adventure's final challenges take place at Archaeo Memorial Hall as the characters' investigation of Dean Tullus comes to a head. During the Masquerade, the dean uses the crowd to spread {@creature Murgaxor|SCC}'s curse, sowing the seeds for the villain's future magical plots. Use opportunities at the masquerade to fuel the characters' suspicions and ultimately encourage them to investigate the dean's office, as detailed in the \"{@adventure Midnight at Lorehold|SCC-TMM|0|Midnight at Lorehold}\" section.",
+						"While the masquerade is the climax of the academic year, the adventure's final challenges take place at Archaeo Memorial Hall as the characters' investigation of Dean Tullus comes to a head. During the Masquerade, the dean uses the crowd to spread {@creature Murgaxor|SCC}'s curse, sowing the seeds for the villain's future magical plots. Use opportunities at the masquerade to fuel the characters' suspicions and ultimately encourage them to investigate the dean's office, as detailed in the \"{@area Midnight at Lorehold|361|x}\" section.",
 						{
 							"type": "section",
 							"name": "Preparing for the Masquerade",
@@ -2553,7 +2553,7 @@
 									"page": 147,
 									"id": "34f",
 									"entries": [
-										"The Magister's Masquerade is held on the first floor of Kollema Hall, which is shown on {@adventure map 5.2.|SCC-TMM|0|Kollema Hall Locations} The tables have been moved from {@adventure area K1|SCC-TMM|0|K1. Serenity Quadrants} and replaced with a few long tables serving refreshments. During the masquerade, add the following features to those listed in the \"{@adventure Kollema Hall Features|SCC-TMM|0|Kollema Hall Features}\" section earlier in this chapter:",
+										"The Magister's Masquerade is held on the first floor of Kollema Hall, which is shown on {@area map 5.2.|333|x} The tables have been moved from {@area area K1|334|x} and replaced with a few long tables serving refreshments. During the masquerade, add the following features to those listed in the \"{@area Kollema Hall Features|332|x}\" section earlier in this chapter:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -2620,7 +2620,7 @@
 												"\"Now, you've all been promised a starlit night, so one and all, come dance among the stars!\""
 											]
 										},
-										"With Dean Tullus's final words, the tube-like devices placed during the \"{@adventure Preparing the Hall|SCC-TMM|0|Preparing the Hall}\" event fire, scattering multicolored lights to the heights of the hall. These insubstantial magical motes hang in the air, shedding a gentle starry light.",
+										"With Dean Tullus's final words, the tube-like devices placed during the \"{@area Preparing the Hall|331|x}\" event fire, scattering multicolored lights to the heights of the hall. These insubstantial magical motes hang in the air, shedding a gentle starry light.",
 										{
 											"type": "entries",
 											"id": "354",
@@ -2631,7 +2631,7 @@
 													"page": 148,
 													"id": "355",
 													"entries": [
-														"If a character failed to notice the faulty device in the \"{@adventure Firebreak|SCC-TMM|0|Firebreak}\" event earlier in the chapter, or noticed it but did nothing about it, the device explodes when activated. The explosion happens in the quadrant of Kollema Hall's first floor with the largest number of characters. Everyone in that quarter of the hall must succeed on a {@dc 14} Dexterity saving throw or have starry embers burn small holes into their attire. Creatures are otherwise unharmed. Guests are startled, and many are upset about what's happened to their outfits, but within 10 minutes most attendees calm down."
+														"If a character failed to notice the faulty device in the \"{@area Firebreak|33d|x}\" event earlier in the chapter, or noticed it but did nothing about it, the device explodes when activated. The explosion happens in the quadrant of Kollema Hall's first floor with the largest number of characters. Everyone in that quarter of the hall must succeed on a {@dc 14} Dexterity saving throw or have starry embers burn small holes into their attire. Creatures are otherwise unharmed. Guests are startled, and many are upset about what's happened to their outfits, but within 10 minutes most attendees calm down."
 													]
 												},
 												{
@@ -2640,7 +2640,7 @@
 													"page": 148,
 													"id": "356",
 													"entries": [
-														"As the dean finishes her speech, the magic placed on the Kollema Hall demonstration stage activates. Anyone who enters a space on or above the stage gains a fly speed equal to their walking speed. This allows the guests to literally dance on air. Anyone who leaves the space above the dance floor in midair drifts gently to an unoccupied space in {@adventure area K1|SCC-TMM|0|K1. Serenity Quadrants}. This magic lasts until the end of the masquerade."
+														"As the dean finishes her speech, the magic placed on the Kollema Hall demonstration stage activates. Anyone who enters a space on or above the stage gains a fly speed equal to their walking speed. This allows the guests to literally dance on air. Anyone who leaves the space above the dance floor in midair drifts gently to an unoccupied space in {@area area K1|334|x}. This magic lasts until the end of the masquerade."
 													]
 												}
 											]
@@ -2825,7 +2825,7 @@
 														{
 															"type": "item",
 															"name": "Ceilings",
-															"entry": "Most of the Deans' Wing has 12-foot ceilings, while the records rooms ({@adventure area L4|SCC-TMM|0|L4. Records Room}) have 20-foot-high ceilings."
+															"entry": "Most of the Deans' Wing has 12-foot ceilings, while the records rooms ({@area area L4|36b|x}) have 20-foot-high ceilings."
 														},
 														{
 															"type": "item",
@@ -3433,7 +3433,7 @@
 													"page": 151,
 													"id": "36d",
 													"entries": [
-														"The bookshelves here contain detailed records of Lorehold's staff, students, and curriculum going back centuries. A character who spends 10 minutes going through the records and succeeds on a {@dc 14} Intelligence ({@skill Investigation}) check discovers a map of the Deans' Wing. This map clearly marks that there is a hidden space behind a wall of the Deans' Records Room ({@adventure area L9|SCC-TMM|0|L9. Deans' Records Room})."
+														"The bookshelves here contain detailed records of Lorehold's staff, students, and curriculum going back centuries. A character who spends 10 minutes going through the records and succeeds on a {@dc 14} Intelligence ({@skill Investigation}) check discovers a map of the Deans' Wing. This map clearly marks that there is a hidden space behind a wall of the Deans' Records Room ({@area area L9|378|x})."
 													]
 												}
 											]
@@ -3578,7 +3578,7 @@
 													"page": 153,
 													"id": "37b",
 													"entries": [
-														"Anyone who opens the secret door finds a 6-foot-tall, 4-foot-wide, carved wooden frame hanging against the wall inside. Within the frame swirls dense gray fog. This frame is a portal that teleports anyone who enters to the extradimensional space called the Deans' Repository (detailed in the {@adventure next section|SCC-TMM|0|Deans' Repository})."
+														"Anyone who opens the secret door finds a 6-foot-tall, 4-foot-wide, carved wooden frame hanging against the wall inside. Within the frame swirls dense gray fog. This frame is a portal that teleports anyone who enters to the extradimensional space called the Deans' Repository (detailed in the {@area next section|37b|x})."
 													]
 												}
 											]
@@ -3678,7 +3678,7 @@
 														"The portal opens into a richly decorated library filled with floor-to-ceiling shelves packed with books and archaeological relics. Four long worktables occupy the room's center, each covered with papers and dirt-encrusted stonework. Stone statues of dragons stare from between the shelves, and at the room's far end, wing-backed chairs face a crackling fireplace."
 													]
 												},
-												"The Deans' Repository is a spacious extradimensional library. The only passage leading to or from it is the portal on the wall opposite the fireplace. This portal is the duplicate of the one in {@adventure area L9|SCC-TMM|0|L9. Deans' Records Room} of the Deans' Wing.",
+												"The Deans' Repository is a spacious extradimensional library. The only passage leading to or from it is the portal on the wall opposite the fireplace. This portal is the duplicate of the one in {@area area L9|378|x} of the Deans' Wing.",
 												{
 													"type": "entries",
 													"name": "Confronting Dean Tullus",

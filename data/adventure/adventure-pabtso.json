@@ -26,7 +26,7 @@
 					"id": "001",
 					"entries": [
 						"Unbeknownst to any townsfolk, three mind flayer fanatics lurk deep underneath the town and plot a chilling course.",
-						"The fanatics worship Ilvaash, a godlet in the Far Realm, who is determined to reestablish a mind flayer empire on the Material Plane. Ilvaash wants this empire to stretch across Toril's surface, starting with Phandalin as its capital. (For more information about Ilvaash, see {@adventure chapter 8|PaBTSO|8}.)",
+						"The fanatics worship Ilvaash, a godlet in the Far Realm, who is determined to reestablish a mind flayer empire on the Material Plane. Ilvaash wants this empire to stretch across Toril's surface, starting with Phandalin as its capital. (For more information about Ilvaash, see {@area chapter 8|3c9|x}.)",
 						"The mind flayer fanatics have discovered pieces of a shattered obelisk of great magical power, left over from the mysterious Netherese empire that once occupied part of this region. After retrieving the remaining fragments, the fanatics plan to infuse the reconstructed obelisk with Ilvaash's unholy energy and turn Phandalin's population into mind flayers loyal to their evil godlet.",
 						"This plot is a complex affair, but the mind flayers beneath Phandalin have many allies. As petty bandits vie for control of Phandalin, the fanatics' allies quietly search for pieces of the shattered obelisk. How successful those allies are\u2014and whether Phandalin's heroes can stop the will of an evil godlet\u2014is exactly what you're about to find out!"
 					]
@@ -55,12 +55,12 @@
 								{
 									"type": "item",
 									"name": "A Lost Mine",
-									"entry": "Chapters 1\u20134 reimagine the beloved adventure {@adventure Lost Mine of Phandelver|LMoP}, originally published in 2014 with the D&D Starter Set. The heroes begin {@adventure chapter 1|PaBTSO|1} at 1st level and end {@adventure chapter 4|PaBTSO|4} at 5th level."
+									"entry": "Chapters 1\u20134 reimagine the beloved adventure {@adventure Lost Mine of Phandelver|LMoP}, originally published in 2014 with the D&D Starter Set. The heroes begin {@area chapter 1|023|x} at 1st level and end {@area chapter 4|147|x} at 5th level."
 								},
 								{
 									"type": "item",
 									"name": "The Obelisk",
-									"entry": "Chapters 5\u20138 chronicle the mind flayer fanatics' plot against the townspeople of Phandalin. The heroes begin {@adventure chapter 5|PaBTSO|5} at 5th level and end {@adventure chapter 8|PaBTSO|8} at 12th level."
+									"entry": "Chapters 5\u20138 chronicle the mind flayer fanatics' plot against the townspeople of Phandalin. The heroes begin {@area chapter 5|196|x} at 5th level and end {@area chapter 8|3c9|x} at 12th level."
 								}
 							]
 						},
@@ -71,7 +71,7 @@
 							"id": "004",
 							"entries": [
 								"When this adventure dawns, the characters embark on a simple mission to Phandalin, whether it's helping a dwarf patron or following another prompt (see the \"{@area Adventure Hooks|018|x}\" section).",
-								"The mind flayer fanatics' activities beneath Phandalin are invisible for most of this book's first four chapters. If your players don't wish to delve into themes of unseen horror, evil fanatics, or malevolent elder entities, you can easily end the adventure at the conclusion of {@adventure chapter 4|PaBTSO|4}. If you do, replace the psionic goblins in chapters {@adventure 1|PaBTSO|1}\u2013{@adventure 4|PaBTSO|4} with {@creature Goblin||goblins} from the {@book Monster Manual|MM}, and end the adventure once the characters defeat Nezznar. (The \"{@area What's Next?|195|x}\" section at the end of chapter 4 provides more information if you're using this option.) There's no need for the heroes to return to Phandalin and thus kick off the events of {@adventure chapter 5|PaBTSO|5} and beyond.",
+								"The mind flayer fanatics' activities beneath Phandalin are invisible for most of this book's first four chapters. If your players don't wish to delve into themes of unseen horror, evil fanatics, or malevolent elder entities, you can easily end the adventure at the conclusion of {@area chapter 4|147|x}. If you do, replace the psionic goblins in chapters {@area 1|023|x}\u2013{@area 4|147|x} with {@creature Goblin||goblins} from the {@book Monster Manual|MM}, and end the adventure once the characters defeat Nezznar. (The \"{@area What's Next?|195|x}\" section at the end of chapter 4 provides more information if you're using this option.) There's no need for the heroes to return to Phandalin and thus kick off the events of {@area chapter 5|196|x} and beyond.",
 								"A summary of each of the first four chapters follows.",
 								{
 									"type": "entries",
@@ -129,7 +129,7 @@
 							"page": 8,
 							"id": "009",
 							"entries": [
-								"If your players wish to continue the story past {@adventure chapter 4|PaBTSO|4}, they'll find a tale of ancient magic, a malevolent godlet, and fanatics obsessed with transforming innocents into mind flayers faithful to Ilvaash. After they wrap up chapters {@adventure 1|PaBTSO|1}\u2013{@adventure 4|PaBTSO|4}, the characters discover that psionic goblins have committed crimes of vandalism in Phandalin. Investigating the crime scenes reveals that the goblins are searching for pieces of the titular shattered obelisk. Chasing down the goblins reveals their connection to a sobering plot against Phandalin.",
+								"If your players wish to continue the story past {@area chapter 4|147|x}, they'll find a tale of ancient magic, a malevolent godlet, and fanatics obsessed with transforming innocents into mind flayers faithful to Ilvaash. After they wrap up chapters {@area 1|023|x}\u2013{@area 4|147|x}, the characters discover that psionic goblins have committed crimes of vandalism in Phandalin. Investigating the crime scenes reveals that the goblins are searching for pieces of the titular shattered obelisk. Chasing down the goblins reveals their connection to a sobering plot against Phandalin.",
 								"The characters learn that mind flayers who serve Ilvaash are behind this plot. These mind flayer fanatics are renegades who hope to reconstruct and harness the power of the obelisk. Using the obelisk to focus wicked Far Realm power, the mind flayer fanatics plan to enact a ritual to transform Phandalin's townspeople into mind flayers. The characters must follow the mind flayers into their Underdark stronghold and then into the Far Realm if they hope to save Phandalin from certain doom!",
 								"Summaries of the final four chapters follow.",
 								{
@@ -199,8 +199,8 @@
 								"Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under specific circumstances, as described in the text."
 							]
 						},
-						"The {@book Monster Manual|MM} contains stat blocks for most of the creatures encountered in this adventure. The remaining stat blocks can be found in {@adventure appendix A|PaBTSO|9}, as indicated in the text, or in the encounters in which they appear.",
-						"When a creature's name appears in {@b bold} type, that's a visual clue pointing you to its stat block as a way of saying, \"Hey, DM, you better get this creature's stat block ready. You're going to need it.\" Spells and equipment mentioned in the adventure are described in the {@book Player's Handbook|PHB}. Magic items are described in the {@book Dungeon Master's Guide|DMG} unless the adventure's text directs you to an item's description in {@adventure appendix B|PaBTSO|10}.",
+						"The {@book Monster Manual|MM} contains stat blocks for most of the creatures encountered in this adventure. The remaining stat blocks can be found in {@area appendix A|49a|x}, as indicated in the text, or in the encounters in which they appear.",
+						"When a creature's name appears in {@b bold} type, that's a visual clue pointing you to its stat block as a way of saying, \"Hey, DM, you better get this creature's stat block ready. You're going to need it.\" Spells and equipment mentioned in the adventure are described in the {@book Player's Handbook|PHB}. Magic items are described in the {@book Dungeon Master's Guide|DMG} unless the adventure's text directs you to an item's description in {@area appendix B|4b1|x}.",
 						{
 							"type": "entries",
 							"name": "Using the Maps",
@@ -293,7 +293,7 @@
 							"page": 9,
 							"id": "014",
 							"entries": [
-								"This adventure uses a {@adventure Story Tracker|PaBTSO|11}, a copy of which is included at the back of the book. The Story Tracker is a note-keeping tool to help you and the players remember important information about the characters and their accomplishments."
+								"This adventure uses a {@area Story Tracker|4cb|x}, a copy of which is included at the back of the book. The Story Tracker is a note-keeping tool to help you and the players remember important information about the characters and their accomplishments."
 							]
 						},
 						{
@@ -304,7 +304,7 @@
 							"entries": [
 								"The world of the Forgotten Realms is one of high fantasy, populated by elves, dwarves, halflings, humans, and other folk. The Realms are full of valiant knights embarking upon ancestral quests, shifty rogues prowling urban streets, clerics wielding maces and spells in the service of their gods, and wizards plundering the ruins of the fallen Netherese empire. Heroes are scarce, and dangers\u2014be they a dragon's breath or a lich's spell\u2014are plentiful.",
 								"This adventure takes place in a region called the Sword Coast, where daring souls delve into the wreckage of fallen strongholds and explore ruins of long-lost civilizations. Underground, the history and dangers are just as rich. The Underdark here teems with monsters and the remains of mighty civilizations, as well as unknown horrors.",
-								"The accompanying {@adventure map|PaBTSO|0|Sword Coast region surrounding Phandalin} shows the Sword Coast region surrounding Phandalin. Several locations of interest are marked, including Underdark locations key to this adventure's plot. Other parts of the map remain unlabeled, and the adventures that characters find there are yours to design!"
+								"The accompanying {@area map|4CD|x} shows the Sword Coast region surrounding Phandalin. Several locations of interest are marked, including Underdark locations key to this adventure's plot. Other parts of the map remain unlabeled, and the adventures that characters find there are yours to design!"
 							]
 						}
 					]
@@ -396,7 +396,7 @@
 					"id": "018",
 					"entries": [
 						"Players can invent their own reasons for visiting Phandalin, or they can use the following adventure hooks. The character hooks tied to backgrounds also provide characters with motivations for visiting Phandalin.",
-						"It's recommended at least one character use the \"Meet Me in Phandalin\" adventure hook below so that the party has a tie to the dwarf {@creature Gundren Rockseeker|PaBTSO}, who plays a prominent role in chapters {@adventure 1|PaBTSO|1}\u2013{@adventure 4|PaBTSO|4}:",
+						"It's recommended at least one character use the \"Meet Me in Phandalin\" adventure hook below so that the party has a tie to the dwarf {@creature Gundren Rockseeker|PaBTSO}, who plays a prominent role in chapters {@area 1|023|x}\u2013{@area 4|147|x}:",
 						{
 							"type": "image",
 							"href": {
@@ -447,14 +447,14 @@
 					"id": "01a",
 					"entries": [
 						"In this adventure, Far Realm\u2013devoted fanatics seek to transform Phandalin's residents into mind flayers devoted to the evil godlet Ilvaash.",
-						"Even before the fanatics attempt to finish their ritual in {@adventure chapter 8|PaBTSO|8}, their influence over the town infuses the place with the energy of the Far Realm. The townspeople begin to change in troubling ways. Phandalin's buildings and the surrounding environment also experience a withering that gives the entire town an air of decay.",
+						"Even before the fanatics attempt to finish their ritual in {@area chapter 8|3c9|x}, their influence over the town infuses the place with the energy of the Far Realm. The townspeople begin to change in troubling ways. Phandalin's buildings and the surrounding environment also experience a withering that gives the entire town an air of decay.",
 						{
 							"type": "entries",
 							"name": "Transformation of Phandalin",
 							"page": 11,
 							"id": "01b",
 							"entries": [
-								"Each time the characters return to Phandalin during the later parts of this adventure, they find the town and townspeople further affected by the Far Realm. The transformations become noticeable in {@adventure chapter 5|PaBTSO|5} and worsen until the characters' confrontation with the fanatics in the Far Realm during {@adventure chapter 8|PaBTSO|8}.",
+								"Each time the characters return to Phandalin during the later parts of this adventure, they find the town and townspeople further affected by the Far Realm. The transformations become noticeable in {@area chapter 5|196|x} and worsen until the characters' confrontation with the fanatics in the Far Realm during {@area chapter 8|3c9|x}.",
 								"The illustrations in these chapters depict this burgeoning transformation. Use the following descriptions when the characters are in town to add further sinister flavor to the adventure. Each description's effects are cumulative with the previous chapters' effects:",
 								{
 									"type": "list",
@@ -501,7 +501,7 @@
 							"page": 12,
 							"id": "01c",
 							"entries": [
-								"If the fanatics are successful, the characters might transform into mind flayers (see the end of {@adventure chapter 8|PaBTSO|8}). Characters from outside the region might not be affected by the Far Realm ritual, although these details are up to you. Even if the characters don't turn into mind flayers, they experience increasing change as the fanatics' plot progresses.",
+								"If the fanatics are successful, the characters might transform into mind flayers (see the end of {@area chapter 8|3c9|x}). Characters from outside the region might not be affected by the Far Realm ritual, although these details are up to you. Even if the characters don't turn into mind flayers, they experience increasing change as the fanatics' plot progresses.",
 								"The following optional rules allow you to track the effects of Far Realm influence on characters.",
 								{
 									"type": "inset",
@@ -524,7 +524,7 @@
 											"page": 12,
 											"id": "01f",
 											"entries": [
-												"Characters begin at stage 1 at the start of {@adventure chapter 5|PaBTSO|5}. They advance to the next stage at the beginning of each subsequent chapter (stage 2 in {@adventure chapter 6|PaBTSO|6}, stage 3 in {@adventure chapter 7|PaBTSO|7}, and stage 4 in {@adventure chapter 8|PaBTSO|8})."
+												"Characters begin at stage 1 at the start of {@area chapter 5|196|x}. They advance to the next stage at the beginning of each subsequent chapter (stage 2 in {@area chapter 6|223|x}, stage 3 in {@area chapter 7|317|x}, and stage 4 in {@area chapter 8|3c9|x})."
 											]
 										},
 										{
@@ -672,7 +672,7 @@
 					"page": 15,
 					"id": "026",
 					"entries": [
-						"The adventure assumes you're using the \"{@area Meet Me in Phandalin|018|x}\" adventure hook (see this book's {@adventure introduction|PaBTSO|0}) for all your characters. The heroes are escorting a wagon full of provisions from Neverwinter to Phandalin. They're a half-day's march from Phandalin when they run into trouble with goblin raiders from the Cragmaw band.",
+						"The adventure assumes you're using the \"{@area Meet Me in Phandalin|018|x}\" adventure hook (see this book's {@area introduction|000|x}) for all your characters. The heroes are escorting a wagon full of provisions from Neverwinter to Phandalin. They're a half-day's march from Phandalin when they run into trouble with goblin raiders from the Cragmaw band.",
 						"Read the following text to get the adventure started. (If you're using another adventure hook, skip to the second paragraph and adjust the details as necessary, ignoring the information about driving the cart.)",
 						{
 							"type": "insetReadaloud",
@@ -698,7 +698,7 @@
 							"page": 16,
 							"id": "029",
 							"entries": [
-								"Several hours after the characters turn onto Triboar Trail (shown on the {@adventure map|PaBTSO|0|Sword Coast region surrounding Phandalin} in the {@adventure introduction|PaBTSO|0}), they reach the area shown on map 1.1.",
+								"Several hours after the characters turn onto Triboar Trail (shown on the {@area map|4CD|x} in the {@area introduction|000|x}), they reach the area shown on map 1.1.",
 								{
 									"type": "gallery",
 									"images": [
@@ -772,7 +772,7 @@
 									"entries": [
 										"In the unlikely event that the goblins triumph, they leave the characters {@condition unconscious}, loot them and the wagon, then head to the Cragmaw hideout. The characters can continue to Phandalin, buy new gear at Barthen's Provisions, return to the ambush site, and find the goblins' trail, should they wish.",
 										"The characters might capture one or more goblins by knocking them {@condition unconscious} instead of killing them. A character can use any weapon that deals bludgeoning damage (including an unarmed strike) to knock a goblin {@condition unconscious}, succeeding if the attack deals enough damage to drop the goblin to 0 hit points. The goblin regains consciousness after a few minutes and can be convinced to share information (see \"{@area What the Cragmaws Know|02d|x}\"). The goblin can also be persuaded to lead the party to the Cragmaw hideout and to guide the party around the traps along the way (see \"{@area Goblin Trail|02e|x}\" below).",
-										"The characters might not find the goblin trail, or they could decide to continue to Phandalin. In that case, skip to {@adventure chapter 2|PaBTSO|2}. Elmina Barthen (the owner of Barthen's Provisions) seeks out the characters and informs them that {@creature Gundren Rockseeker|PaBTSO} never arrived. She recounts the goblin troubles and suggests the characters return to the ambush site to investigate further (after they rest). Barthen also tells the party that Linene Graywind of the Lionshield Coster (see \"{@area Town Description|069|x}\" in chapter 2) can provide more information on the goblin attacks.",
+										"The characters might not find the goblin trail, or they could decide to continue to Phandalin. In that case, skip to {@area chapter 2|05f|x}. Elmina Barthen (the owner of Barthen's Provisions) seeks out the characters and informs them that {@creature Gundren Rockseeker|PaBTSO} never arrived. She recounts the goblin troubles and suggests the characters return to the ambush site to investigate further (after they rest). Barthen also tells the party that Linene Graywind of the Lionshield Coster (see \"{@area Town Description|069|x}\" in chapter 2) can provide more information on the goblin attacks.",
 										{
 											"type": "image",
 											"href": {
@@ -4161,7 +4161,7 @@
 											"page": 24,
 											"id": "05d",
 											"entries": [
-												"The captured stores are bulky, and the characters will need a wagon to transport them. If they return the supplies to the Lionshield Coster in Phandalin (see {@adventure chapter 2|PaBTSO|2}), they earn a reward of 50 gp and the friendship of Linene and her company.",
+												"The captured stores are bulky, and the characters will need a wagon to transport them. If they return the supplies to the Lionshield Coster in Phandalin (see {@area chapter 2|05f|x}), they earn a reward of 50 gp and the friendship of Linene and her company.",
 												"In addition to the stolen provisions, Klarg has a treasure chest that contains 1,700 cp, 150 sp, two {@item Potion of Healing||potions of healing}, and a jade statuette of a frog with tiny golden orbs for eyes worth 40 gp. The frog statuette can fit in a pocket or pouch."
 											]
 										}
@@ -4193,7 +4193,7 @@
 									]
 								},
 								"{@b Seek NPCs}. Other adventure hooks or background connections might prompt the characters to seek out specific NPCs in the town.",
-								"It's also possible that players might decide to do something different, such as striking out in search of Cragmaw Castle. If that's the case, skip to {@adventure chapter 3|PaBTSO|3}."
+								"It's also possible that players might decide to do something different, such as striking out in search of Cragmaw Castle. If that's the case, skip to {@area chapter 3|0c8|x}."
 							]
 						}
 					]
@@ -4254,7 +4254,7 @@
 						},
 						"The characters can visit various locations in Phandalin and talk to the townsfolk.",
 						"When he hired the characters, {@creature Gundren Rockseeker|PaBTSO} provided an overview of the town and its locations to them. If the characters are using different adventure hooks, other people have told the characters about the town. Either way, the characters should have a rudimentary understanding of Phandalin's layout.",
-						"At this point, show the players {@adventure map 2.1|PaBTSO|2|Map 2.1: Phandalin}. The characters arrive at Phandalin in the evening, so they have time to visit a few places before they must seek lodging for the night.",
+						"At this point, show the players {@area map 2.1|49d|x}. The characters arrive at Phandalin in the evening, so they have time to visit a few places before they must seek lodging for the night.",
 						"Some locales the characters could visit include the following:",
 						{
 							"type": "list",
@@ -4928,8 +4928,8 @@
 									"page": 30,
 									"id": "06e",
 									"entries": [
-										"If the characters began play with the \"{@area Meet Me in Phandalin|018|x}\" adventure hook, their orders are to deliver the wagon of supplies to Barthen's. Elmina pays the agreed amount (10 gp to each character) and takes possession of the wagon and its supplies. If the characters tell her of {@creature Gundren Rockseeker|PaBTSO}'s capture, Elmina encourages the party to rescue the dwarf. She considers Gundren a friend and was excited by his talk of discovering the lost mine of the Phandelver Pact in the nearby hills. If the party hasn't already learned details of the mine from {@creature Sildar Hallwinter|PaBTSO}, a character who succeeds on a {@dc 10} Intelligence ({@skill History}) check can relate the information from the first two paragraphs of {@adventure chapter 1|PaBTSO|1}.",
-										"Elmina also mentions that two more Rockseeker brothers, Nundro and Tharden, are camped somewhere outside town. Elmina hasn't seen them in a tenday and expects the brothers to return \"any day now\" to resupply. What Elmina doesn't know is that Tharden is dead and Nundro is a prisoner in the mine. (See {@adventure chapter 4|PaBTSO|4} for more information.)"
+										"If the characters began play with the \"{@area Meet Me in Phandalin|018|x}\" adventure hook, their orders are to deliver the wagon of supplies to Barthen's. Elmina pays the agreed amount (10 gp to each character) and takes possession of the wagon and its supplies. If the characters tell her of {@creature Gundren Rockseeker|PaBTSO}'s capture, Elmina encourages the party to rescue the dwarf. She considers Gundren a friend and was excited by his talk of discovering the lost mine of the Phandelver Pact in the nearby hills. If the party hasn't already learned details of the mine from {@creature Sildar Hallwinter|PaBTSO}, a character who succeeds on a {@dc 10} Intelligence ({@skill History}) check can relate the information from the first two paragraphs of {@area chapter 1|023|x}.",
+										"Elmina also mentions that two more Rockseeker brothers, Nundro and Tharden, are camped somewhere outside town. Elmina hasn't seen them in a tenday and expects the brothers to return \"any day now\" to resupply. What Elmina doesn't know is that Tharden is dead and Nundro is a prisoner in the mine. (See {@area chapter 4|147|x} for more information.)"
 									]
 								},
 								{
@@ -4978,7 +4978,7 @@
 									"page": 30,
 									"id": "072",
 									"entries": [
-										"Daran has heard stories from prospectors in the hills northeast of Phandalin that someone is digging in the ruins known as Old Owl Well. More disturbingly, several prospectors have reported being chased from the area by foul undead. He asks the characters to head to the ruins, a couple of days' march northeast of Phandalin, and find out who's there and what they're doing. Daran knows the ruins are an old watchtower of an ancient magical empire known as Netheril, and he worries that dangerous magic might be dormant there. If the characters can ensure that no threat to the town is brewing at Old Owl Well, Daran is willing to give them his {@item boots of striding and springing}. The magical boots came in handy when Daran adventured, but he no longer needs them. If the party pursues this quest, see \"{@area Old Owl Well|0da|x}\" in {@adventure chapter 3|PaBTSO|3}.",
+										"Daran has heard stories from prospectors in the hills northeast of Phandalin that someone is digging in the ruins known as Old Owl Well. More disturbingly, several prospectors have reported being chased from the area by foul undead. He asks the characters to head to the ruins, a couple of days' march northeast of Phandalin, and find out who's there and what they're doing. Daran knows the ruins are an old watchtower of an ancient magical empire known as Netheril, and he worries that dangerous magic might be dormant there. If the characters can ensure that no threat to the town is brewing at Old Owl Well, Daran is willing to give them his {@item boots of striding and springing}. The magical boots came in handy when Daran adventured, but he no longer needs them. If the party pursues this quest, see \"{@area Old Owl Well|0da|x}\" in {@area chapter 3|0c8|x}.",
 										{
 											"type": "inset",
 											"id": "073",
@@ -5050,7 +5050,7 @@
 									"entries": [
 										"If the characters ask about the Redbrands, Halia describes how the ruffians loiter around the Sleeping Giant tap house and have a base under Tresendar Manor, on the east edge of town. She then offers the characters 100 gp to capture the Redbrands' leader, whom the outlaws call \"Glasstaff,\" and bring her any correspondence found in his quarters.",
 										"The characters are wise to be cautious when dealing with Halia. She doesn't reveal that she wants to take over the Redbrands herself. A successful {@dc 15} Wisdom ({@skill Insight}) check indicates Halia has ulterior motives for removing the Redbrands' leader.",
-										"Further, in {@adventure chapter 4|PaBTSO|4}, Halia smuggles {@creature Nezznar the Spider|PaBTSO} out of town and into the Zhentarim's custody, allowing the villain to escape justice.",
+										"Further, in {@area chapter 4|147|x}, Halia smuggles {@creature Nezznar the Spider|PaBTSO} out of town and into the Zhentarim's custody, allowing the villain to escape justice.",
 										{
 											"type": "inset",
 											"id": "078",
@@ -5085,7 +5085,7 @@
 									"page": 32,
 									"id": "07b",
 									"entries": [
-										"Qelline is a longtime friend of a druid named Reidoth. If Qelline realizes the characters are looking for specific sites in the area, such as Cragmaw Castle, she suggests the characters visit Reidoth and ask for her help, \"since there's not an inch of the land the druid doesn't know.\" Qelline tells the characters Reidoth recently set out for the ruins of a town called Thundertree, just west of the Neverwinter Wood. The ruins are about fifty miles northwest of Phandalin, and Qelline provides directions so the characters can easily find the place. If the party pursues this quest, see \"{@area Ruins of Thundertree|0de|x}\" in {@adventure chapter 3|PaBTSO|3}."
+										"Qelline is a longtime friend of a druid named Reidoth. If Qelline realizes the characters are looking for specific sites in the area, such as Cragmaw Castle, she suggests the characters visit Reidoth and ask for her help, \"since there's not an inch of the land the druid doesn't know.\" Qelline tells the characters Reidoth recently set out for the ruins of a town called Thundertree, just west of the Neverwinter Wood. The ruins are about fifty miles northwest of Phandalin, and Qelline provides directions so the characters can easily find the place. If the party pursues this quest, see \"{@area Ruins of Thundertree|0de|x}\" in {@area chapter 3|0c8|x}."
 									]
 								}
 							]
@@ -5117,7 +5117,7 @@
 									"id": "07d",
 									"entries": [
 										"Recently, Garaele's superiors asked her to undertake a delicate mission. They wanted to persuade a dangerous banshee named Agatha to answer a question about a spellbook. Garaele underestimated Agatha's wrath when she attempted to approach the banshee.",
-										"Before she fled for her life, Garaele noted that the banshee spoke wistfully about the beautiful baubles she owned in life. Garaele needs an intermediary to bring Agatha a suitable gift\u2014a jeweled silver comb\u2014and persuade the banshee to tell what she knows about the location of a spellbook belonging to a legendary mage named Bowgentle. Sister Garaele believes that a character who pays obeisance to Agatha might be able to trade the comb for an answer. She offers the mission to the characters and will give them three {@item Potion of Healing||potions of healing} as payment for their efforts. If the party pursues this quest, see \"{@area Conyberry and Agatha's Lair|0d2|x}\" in {@adventure chapter 3|PaBTSO|3}.",
+										"Before she fled for her life, Garaele noted that the banshee spoke wistfully about the beautiful baubles she owned in life. Garaele needs an intermediary to bring Agatha a suitable gift\u2014a jeweled silver comb\u2014and persuade the banshee to tell what she knows about the location of a spellbook belonging to a legendary mage named Bowgentle. Sister Garaele believes that a character who pays obeisance to Agatha might be able to trade the comb for an answer. She offers the mission to the characters and will give them three {@item Potion of Healing||potions of healing} as payment for their efforts. If the party pursues this quest, see \"{@area Conyberry and Agatha's Lair|0d2|x}\" in {@area chapter 3|0c8|x}.",
 										{
 											"type": "inset",
 											"id": "07e",
@@ -5164,7 +5164,7 @@
 									"page": 34,
 									"id": "081",
 									"entries": [
-										"Harbin posts official notices on a board beside the door of the townmaster's hall. He's looking for someone to head east on the Triboar Trail, where marauders have attacked several caravans near Wyvern Tor. The most recent victims reported that at least one strange goblin accompanied the marauders, who consist of at least an ogre and some bugbears. Harbin is offering a 100 gp contract to any group that can drive the marauders and any goblin companions away. If the party pursues this quest, see \"{@area Wyvern Tor|10c|x}\" in {@adventure chapter 3|PaBTSO|3}."
+										"Harbin posts official notices on a board beside the door of the townmaster's hall. He's looking for someone to head east on the Triboar Trail, where marauders have attacked several caravans near Wyvern Tor. The most recent victims reported that at least one strange goblin accompanied the marauders, who consist of at least an ogre and some bugbears. Harbin is offering a 100 gp contract to any group that can drive the marauders and any goblin companions away. If the party pursues this quest, see \"{@area Wyvern Tor|10c|x}\" in {@area chapter 3|0c8|x}."
 									]
 								},
 								{
@@ -5174,7 +5174,7 @@
 									"id": "082",
 									"entries": [
 										"After recovering at the Stonehill Inn, {@creature Sildar Hallwinter|PaBTSO} establishes himself at the townmaster's hall. As an agent of the Lords' Alliance, his goal is to see Phandalin thrive and become prosperous. Therefore, he wants to find the lost mine of Wave Echo Cave and help the Rockseeker brothers put it back into production.",
-										"Sildar also encourages the characters to keep up the pressure on the Cragmaw goblins. He offers the party a 500 gp reward if they can locate Cragmaw Castle and defeat or drive off the band's leader. Sildar suggests the party might find the castle by searching the lands around the Triboar Trail for more raiding parties (see the {@area random encounters|0ce|x} in {@adventure chapter 3|PaBTSO|3}).",
+										"Sildar also encourages the characters to keep up the pressure on the Cragmaw goblins. He offers the party a 500 gp reward if they can locate Cragmaw Castle and defeat or drive off the band's leader. Sildar suggests the party might find the castle by searching the lands around the Triboar Trail for more raiding parties (see the {@area random encounters|0ce|x} in {@area chapter 3|0c8|x}).",
 										{
 											"type": "image",
 											"href": {
@@ -5292,7 +5292,7 @@
 									"id": "08a",
 									"entries": [
 										"Are the Players Lost?",
-										"After the \"Redbrand Ruffians\" encounter, the players should realize it's time to deal with the rest of the gang. If they aren't clear that investigating the Redbrands' hideout should be their next move, have one of the NPCs they've met in town ask the characters to investigate Tresendar Manor. However, if the players choose to avoid conflict with the Redbrands because they want to follow other leads in the area, it's okay to move on to {@adventure chapter 3|PaBTSO|3} and let the ruffians wait. The next time the characters return to Phandalin, make it clear that the Redbrands are causing even more trouble and that they need to be dealt with. Some of the Redbrands may also bring the fight to the characters."
+										"After the \"Redbrand Ruffians\" encounter, the players should realize it's time to deal with the rest of the gang. If they aren't clear that investigating the Redbrands' hideout should be their next move, have one of the NPCs they've met in town ask the characters to investigate Tresendar Manor. However, if the players choose to avoid conflict with the Redbrands because they want to follow other leads in the area, it's okay to move on to {@area chapter 3|0c8|x} and let the ruffians wait. The next time the characters return to Phandalin, make it clear that the Redbrands are causing even more trouble and that they need to be dealt with. Some of the Redbrands may also bring the fight to the characters."
 									]
 								}
 							]
@@ -6456,7 +6456,7 @@
 											"id": "0b1",
 											"entries": [
 												"Underneath the southern bridge are corpses of two psionic goblins. These goblins have elongated skulls and are dressed in filthy, haphazard rags. An examination of the bodies reveals that a pair of vicious claws killed the goblins.",
-												"While they were looking to sow mayhem in the hideout, the goblins fell to the nothic before they could get any farther. It's clear that these goblins are different than the ones the characters encountered in {@adventure chapter 1|PaBTSO|1}. The characters will learn more about these goblins in later chapters."
+												"While they were looking to sow mayhem in the hideout, the goblins fell to the nothic before they could get any farther. It's clear that these goblins are different than the ones the characters encountered in {@area chapter 1|023|x}. The characters will learn more about these goblins in later chapters."
 											]
 										},
 										{
@@ -6588,8 +6588,8 @@
 											"id": "0bd",
 											"entries": [
 												"Glasstaff is a wizard of middling skill, and he is trying to master the art of brewing potions and concocting useful alchemical mixtures. The books and notes scattered around the room are basic texts on alchemy. Any character proficient in {@skill Arcana} or {@item alchemist's supplies|PHB} can tell the apparatus is set up to brew a {@item potion of invisibility}\u2014but the process has been unsuccessful so far.",
-												"Among the books is a tome written in Dwarvish. The journal of an adventurer named Urmon, it describes the history of the lost mine of Phandelver and the Forge of Spells. (Share the information in the first and second paragraph of the beginning of {@adventure chapter 1|PaBTSO|1} if you haven't already done so.)",
-												"In addition, Urmon records that a magic mace named {@item Lightbringer|PaBTSO} was commissioned by priests of Lathander, the god of dawn, from the mages working with the gnomes and dwarves of the Phandelver Pact. The mace was lost when Wave Echo Cave and its mine vanished from history. (Characters might find the mace in {@adventure chapter 4|PaBTSO|4}.)"
+												"Among the books is a tome written in Dwarvish. The journal of an adventurer named Urmon, it describes the history of the lost mine of Phandelver and the Forge of Spells. (Share the information in the first and second paragraph of the beginning of {@area chapter 1|023|x} if you haven't already done so.)",
+												"In addition, Urmon records that a magic mace named {@item Lightbringer|PaBTSO} was commissioned by priests of Lathander, the god of dawn, from the mages working with the gnomes and dwarves of the Phandelver Pact. The mace was lost when Wave Echo Cave and its mine vanished from history. (Characters might find the mace in {@area chapter 4|147|x}.)"
 											]
 										},
 										{
@@ -6830,7 +6830,7 @@
 							"page": 47,
 							"id": "0cc",
 							"entries": [
-								"In this chapter, the characters travel from one point of interest to another. As shown on the {@adventure regional map|PaBTSO|0|Sword Coast region surrounding Phandalin} in this book's {@adventure introduction|PaBTSO|0}, some of these areas are forty to fifty miles apart, requiring several days of marching overland to reach the next adventure site.",
+								"In this chapter, the characters travel from one point of interest to another. As shown on the {@area regional map|4CD|x} in this book's {@area introduction|000|x}, some of these areas are forty to fifty miles apart, requiring several days of marching overland to reach the next adventure site.",
 								{
 									"type": "entries",
 									"name": "Travel Time",
@@ -7120,7 +7120,7 @@
 									"page": 51,
 									"id": "0e1",
 									"entries": [
-										"A building in Thundertree is either ruined or intact, as shown on {@adventure map 3.2|PaBTSO|3|Map 3.2: Ruins of Thundertree}.",
+										"A building in Thundertree is either ruined or intact, as shown on {@area map 3.2|49f|x}.",
 										"Ruined buildings are empty shells with stone walls 5 to 8 feet high. Their roofs are gone, leaving piles of debris inside the walls. The debris is {@book difficult terrain|PHB|8|Difficult Terrain}.",
 										"Intact buildings are rundown, ramshackle stone cottages that are otherwise still standing. Their wooden doors are stuck and require a successful {@dc 10} Strength check to force open. The windows of any intact building are 2 feet wide and covered by wooden shutters containing 6-inch-wide arrow slits. Creatures on one side of an arrow slit gain {@quickref cover||3||three-quarters cover} against attacks from the other side. Dusty furnishings, such as simple wooden chairs and tables, remain in most intact buildings."
 									]
@@ -7903,7 +7903,7 @@
 												"This ruined shop is cluttered with sagging storage shelves and broken furniture. Shards of glass and pieces of pottery glint in the weeds and rubble next to rotted books and casks."
 											]
 										},
-										"This was an herb and alchemy shop belonging to the family of Mirna Dendrar, now a resident in Phandalin (see {@area area R5|0a2|x} in the \"{@area Redbrand Hideout Locations|092|x}\" section in {@adventure chapter 2|PaBTSO|2}).",
+										"This was an herb and alchemy shop belonging to the family of Mirna Dendrar, now a resident in Phandalin (see {@area area R5|0a2|x} in the \"{@area Redbrand Hideout Locations|092|x}\" section in {@area chapter 2|05f|x}).",
 										"All the reagents and concoctions here have long since spoiled, and the books are unreadable masses of rot. However, a small wooden case is hidden in a compartment beneath the storage shelves. A character searching through the wreckage can find the case with a successful {@dc 10} Wisdom ({@skill Perception}) check. The check succeeds automatically if Mirna sent the party to find the heirloom.",
 										{
 											"type": "entries",
@@ -8072,7 +8072,7 @@
 								},
 								"If the characters quietly take out the lone {@creature bugbear}, they have a chance to {@status surprised} the raiders in the cave. If the sentry spots the characters sneaking up, or if an attack fails to take the sentry out, the sentry shouts a warning and retreats back to the cave, joining the rest of the marauders there.",
 								"The marauders in the cave include Brughor Axe-Biter, an {@creature orc} with 18 hit points; four {@creature Bugbear||bugbears}; and an {@creature ogre} named Gog. Gog fights until slain, while the rest flee if Brughor is killed.",
-								"If the characters examine the cave walls, they find a strange, scrawled drawing on the northwest wall. The drawing crudely depicts a lanky goblin with a crystal jutting from its skull. The characters can tell this isn't a Cragmaw goblin, but they can't learn anything more just yet. Psionic goblins who were off task in their search for obelisk fragments made this drawing. It attempts to depict their leader, Ruxithid, who is described more in {@adventure chapter 5|PaBTSO|5}.",
+								"If the characters examine the cave walls, they find a strange, scrawled drawing on the northwest wall. The drawing crudely depicts a lanky goblin with a crystal jutting from its skull. The characters can tell this isn't a Cragmaw goblin, but they can't learn anything more just yet. Psionic goblins who were off task in their search for obelisk fragments made this drawing. It attempts to depict their leader, Ruxithid, who is described more in {@area chapter 5|196|x}.",
 								{
 									"type": "entries",
 									"id": "10f",
@@ -9209,7 +9209,7 @@
 											"id": "11f",
 											"entries": [
 												"The dusty plaster and rubble before the door leading to {@area area C8|130|x} conceal a copper tripwire connected to linchpins hidden in the ruined ceiling. Spotting the tripwire requires a search of the area and a successful {@dc 20} Wisdom ({@skill Perception}) check. Once spotted, the tripwire is easily avoided and disarmed (no ability check required).",
-												"Any creature that walks over or through the rubble without avoiding the tripwire triggers a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on {@adventure map 3.4|PaBTSO|3|Map 3.4: Cragmaw Castle}.) Any creature in the area when the trap triggers must succeed on a {@dc 10} Dexterity saving throw or take {@dice 2d10} bludgeoning damage from the falling rubble (half as much damage on a successful save). The noise of the collapse puts the creatures in areas {@area C3|120|x}, {@area C7|12e|x}, {@area C8|130|x}, and {@area C9|134|x} on alert."
+												"Any creature that walks over or through the rubble without avoiding the tripwire triggers a cave-in of wooden beams and heavy stones. (The area of the collapse is marked on {@area map 3.4|4a0|x}.) Any creature in the area when the trap triggers must succeed on a {@dc 10} Dexterity saving throw or take {@dice 2d10} bludgeoning damage from the falling rubble (half as much damage on a successful save). The noise of the collapse puts the creatures in areas {@area C3|120|x}, {@area C7|12e|x}, {@area C8|130|x}, and {@area C9|134|x} on alert."
 											]
 										}
 									]
@@ -9601,7 +9601,7 @@
 					"page": 65,
 					"id": "148",
 					"entries": [
-						"This chapter kicks off once the characters venture into Wave Echo Cave, shown on {@adventure map 4.1|PaBTSO|4|Map 4.1: Wave Echo Cave}. The characters need not face significant dangers on their way to the cave. If you'd like to make the journey more interesting, consider rolling on the {@adventure Triboar Trail Random Encounters table|PaBTSO|3|Triboar Trail Random Encounters} in {@adventure chapter 3|PaBTSO|3}. Reroll a result of \"Cragmaw goblin band\" since the characters dealt with the goblins in that chapter.",
+						"This chapter kicks off once the characters venture into Wave Echo Cave, shown on {@area map 4.1|4a1|x}. The characters need not face significant dangers on their way to the cave. If you'd like to make the journey more interesting, consider rolling on the {@adventure Triboar Trail Random Encounters table|PaBTSO|3|Triboar Trail Random Encounters} in {@area chapter 3|0c8|x}. Reroll a result of \"Cragmaw goblin band\" since the characters dealt with the goblins in that chapter.",
 						{
 							"type": "entries",
 							"name": "Character Advancement",
@@ -14540,7 +14540,7 @@
 							"page": 79,
 							"id": "19d",
 							"entries": [
-								"Harbin describes the crime scenes once the characters accept his quest. The following places can be found on {@adventure map 2.1|PaBTSO|2|Map 2.1: Phandalin} in {@adventure chapter 2|PaBTSO|2}:",
+								"Harbin describes the crime scenes once the characters accept his quest. The following places can be found on {@area map 2.1|49d|x} in {@area chapter 2|05f|x}:",
 								"{@b Barthen's Well}, behind Barthen's Provisions, where the goblins smashed the well winch before fleeing underground.",
 								"{@b The Miner's Exchange}, where the goblins stole one of the building's cornerstones, causing the building to tilt.",
 								"{@b The Shrine of Luck}, which the goblins destroyed and desecrated, trapping people inside.",
@@ -15426,7 +15426,7 @@
 										"Ahead of you rises a tall cliff face, in which is set a pair of forbidding obsidian doors: the entrance to Zorzula's Rest."
 									]
 								},
-								"Zorzula's Rest, depicted on {@adventure map 5.5|PaBTSO|5|Map 5.5: Zorzula's Rest}, is housed within the massive mountain. There are three potential points of entry into Zorzula's Rest: the front doors ({@area area Z1|1d5|x}), the hot spring vent ({@area area Z6|1e2|x}), or the pantry tunnel ({@area area Z9|1eb|x}). A character can discover the spring vent and pantry tunnel by scouting the area and succeeding on a {@dc 16} Wisdom ({@skill Perception}) check. The characters also might know about the pantry tunnel entry from their investigations in Phandalin."
+								"Zorzula's Rest, depicted on {@area map 5.5|4a5|x}, is housed within the massive mountain. There are three potential points of entry into Zorzula's Rest: the front doors ({@area area Z1|1d5|x}), the hot spring vent ({@area area Z6|1e2|x}), or the pantry tunnel ({@area area Z9|1eb|x}). A character can discover the spring vent and pantry tunnel by scouting the area and succeeding on a {@dc 16} Wisdom ({@skill Perception}) check. The characters also might know about the pantry tunnel entry from their investigations in Phandalin."
 							]
 						},
 						{
@@ -15475,7 +15475,7 @@
 											"id": "1d3",
 											"entries": [
 												"Tunnels Galore!",
-												"{@adventure Map 5.5|PaBTSO|5|Map 5.5: Zorzula's Rest} and the corresponding location descriptions detail the main areas of the mining tunnels. However, several smaller, splinter tunnels branch off these areas. These tunnels were once used in the ancient duergar's mining operations, but now lay abandoned.",
+												"{@area Map 5.5|4a5|x} and the corresponding location descriptions detail the main areas of the mining tunnels. However, several smaller, splinter tunnels branch off these areas. These tunnels were once used in the ancient duergar's mining operations, but now lay abandoned.",
 												"The contents of these splinter tunnels is unimportant to the bulk of the adventure. If the characters want to explore these areas, feel free to fill these additional tunnels with whatever treasure or monsters you see fit."
 											]
 										}
@@ -18770,7 +18770,7 @@
 											]
 										},
 										"The mind flayer fanatics psionically charged the crystal and used it to telepathically communicate with Ruxithid as well as store important messages for him. After the message plays aloud, the crystal loses its light and becomes mundane.",
-										"The message that plays for the characters upon Ruxithid's demise is the mind flayers' last command to him: find and deliver the three other obelisk shards hidden within Talhundereth, the Crypt of the Talhund, and Gibbet Crossing (more information about these locations can be found in the {@adventure next chapter|PaBTSO|6}).",
+										"The message that plays for the characters upon Ruxithid's demise is the mind flayers' last command to him: find and deliver the three other obelisk shards hidden within Talhundereth, the Crypt of the Talhund, and Gibbet Crossing (more information about these locations can be found in the {@area next chapter|223|x}).",
 										"Any character who hears the message can make a {@dc 13} Intelligence ({@skill Religion}) check. On a successful check, the character realizes that the message's tone as well as the means of communication are unlike any known divine tradition\u2014this is some other kind of powerful entity or group of entities, posing as gods to accomplish their malign ends.",
 										{
 											"type": "entries",
@@ -18830,7 +18830,7 @@
 											"id": "220",
 											"entries": [
 												"The east wing of the sanctum serves as Ruxithid's war room, where he arranges the various expeditions to retrieve the obelisk shards.",
-												"A character who investigates this room finds a crudely drawn map of the region on the central table, with messy arrows and scrawled labels reading \"Gibbet Crossing,\" \"Crypt of the Talhund,\" and \"Talhundereth.\" (See the {@adventure Goblins' Map handout|PaBTSO|6|The Sawplee Goblins' Map} in {@adventure chapter 6|PaBTSO|6} for a representation of this map.)",
+												"A character who investigates this room finds a crudely drawn map of the region on the central table, with messy arrows and scrawled labels reading \"Gibbet Crossing,\" \"Crypt of the Talhund,\" and \"Talhundereth.\" (See the {@area Goblins' Map handout|4bd|x} in {@area chapter 6|223|x} for a representation of this map.)",
 												"A character who succeeds on a {@dc 15} Intelligence ({@skill Investigation}) check also discovers a rough sketch of a broken obelisk made of dark stone. Four of the broken chunks in the drawing are crossed out, while three are circled. This is a sketch of the Netherese obelisk, with the four crossed-out pieces corresponding to the shards found in Phandalin and the three circled pieces corresponding to the three pieces left to find. Ruxithid's overlords described the obelisk to him and used powers drawn from the Far Realm to roughly locate the obelisk's scattered pieces."
 											]
 										},
@@ -18880,7 +18880,7 @@
 			"id": "223",
 			"entries": [
 				"The characters have defeated Ruxithid, the Sawplee goblin leader who collected fragments of a Netherese obelisk. However, an unsettling truth has emerged: Ruxithid acted at the behest of much more powerful overlords who want the obelisk pieces to impose some terrible fate upon the town.",
-				"The characters discovered Ruxithid's map, which shows the locations of the remaining obelisk pieces. (This {@adventure map|PaBTSO|6|The Sawplee Goblins' Map} is shown on this page; you should feel free to distribute it to your players as a handout.) Further, some townspeople are still missing and could be captives at one of these locations. To save Phandalin and its missing inhabitants, the characters must collect the remaining obelisk shards before the overlords do. Along the way, the heroes learn more about the shadowy threat looming over Phandalin.",
+				"The characters discovered Ruxithid's map, which shows the locations of the remaining obelisk pieces. (This {@area map|4bd|x} is shown on this page; you should feel free to distribute it to your players as a handout.) Further, some townspeople are still missing and could be captives at one of these locations. To save Phandalin and its missing inhabitants, the characters must collect the remaining obelisk shards before the overlords do. Along the way, the heroes learn more about the shadowy threat looming over Phandalin.",
 				{
 					"type": "image",
 					"href": {
@@ -18898,7 +18898,7 @@
 					"page": 103,
 					"id": "224",
 					"entries": [
-						"The Sawplee goblins indirectly served three mind flayers that draw power from a malevolent Far Realm godlet named Ilvaash. Using their godlet as a warped sort of elder brain, these mind flayers are even more alien than others of their kind. (For more information, see {@adventure chapter 7|PaBTSO|7}.)",
+						"The Sawplee goblins indirectly served three mind flayers that draw power from a malevolent Far Realm godlet named Ilvaash. Using their godlet as a warped sort of elder brain, these mind flayers are even more alien than others of their kind. (For more information, see {@area chapter 7|317|x}.)",
 						"Mind flayer activity in the area around Phandalin isn't new; centuries ago, as evidenced in Zorzula's Rest, mind flayers swept through the Underdark beneath and around Phandalin, consuming or destroying all in their path. That illithid empire eventually fell, but the mind flayer threat never entirely subsided. Now, mind flayers pose more of a threat to Phandalin than ever before.",
 						{
 							"type": "entries",
@@ -18907,7 +18907,7 @@
 							"id": "225",
 							"entries": [
 								"The mind flayers seek to enact a dreadful ritual that will transform the entire population of Phandalin into mind flayers.",
-								"As if that brutal process weren't terrifying enough, the ritual would work from a significant distance\u2014even from the Far Realm itself, as described in {@adventure chapter 8|PaBTSO|8}\u2014and would affect individuals on a large scale. However, the fanatics learned from Ilvaash that transforming beings into mind flayers from afar requires a powerful source of magic.",
+								"As if that brutal process weren't terrifying enough, the ritual would work from a significant distance\u2014even from the Far Realm itself, as described in {@area chapter 8|3c9|x}\u2014and would affect individuals on a large scale. However, the fanatics learned from Ilvaash that transforming beings into mind flayers from afar requires a powerful source of magic.",
 								"After much communing and research, the mind flayer fanatics determined that the Netherese obelisk can power their ritual. Long ago, this obelisk was broken into fragments that are now scattered around the region. The mind flayer fanatics need to collect these fragments and rebuild the obelisk as completely as possible so the ancient object can power their ritual."
 							]
 						},
@@ -18933,7 +18933,7 @@
 									},
 									"id": "4bd"
 								},
-								"The characters learned in {@adventure chapter 5|PaBTSO|5} about four obelisk shards around Phandalin that the Sawplee goblins gathered. The mind flayer fanatics possess these shards now, but the fanatics need as many obelisk fragments as possible to ensure their ritual will succeed.",
+								"The characters learned in {@area chapter 5|196|x} about four obelisk shards around Phandalin that the Sawplee goblins gathered. The mind flayer fanatics possess these shards now, but the fanatics need as many obelisk fragments as possible to ensure their ritual will succeed.",
 								"The Sawplees' map reveals the locations of three other fragments: an abandoned dwarven temple called Talhundereth, the crypt beneath it, and a subterranean trading nexus called Gibbet Crossing. These locations are in the Starmetal Hills, several days northeast of Phandalin.",
 								"In the previous chapter, a loyal grimlock servant of {@creature Qunbraxel|PaBTSO} (an ally of the mind flayer fanatics that's described later in this adventure) traveled to Zorzula's Rest to retrieve the shards before the adventurers arrived to confront the goblins.",
 								"In this chapter, the characters might prevent the mind flayers from acquiring the other three fragments. The fanatics can proceed with the fragments they have, but the more obelisk pieces the mind flayers acquire, the more difficult it will be to stop their ritual. The characters must race against the clock to keep the mind flayers and their lackeys from recovering more of the shattered obelisk."
@@ -18945,7 +18945,7 @@
 							"page": 104,
 							"id": "227",
 							"entries": [
-								"If stopping the threat against Phandalin isn't enough motivation for the characters, concern about the still-missing townspeople should prompt them to follow the previous chapter's clues. The characters rescued some kidnapped townspeople in {@adventure chapter 5|PaBTSO|5}, but there are eleven people still missing, and the locations on the goblins' map are the only leads about where these victims might be. The characters won't find these victims in this chapter, but they will find them later in the adventure.",
+								"If stopping the threat against Phandalin isn't enough motivation for the characters, concern about the still-missing townspeople should prompt them to follow the previous chapter's clues. The characters rescued some kidnapped townspeople in {@area chapter 5|196|x}, but there are eleven people still missing, and the locations on the goblins' map are the only leads about where these victims might be. The characters won't find these victims in this chapter, but they will find them later in the adventure.",
 								"In addition to the individuals below, other townspeople might still be missing, at your discretion. Consider identifying additional still-missing townspeople as individuals the characters are familiar with. Gwyn, Grista, Sister Garaele, Ander, and Halia haven't been kidnapped, but anyone else the characters might have come across in Phandalin might be victims.",
 								{
 									"type": "entries",
@@ -19033,7 +19033,7 @@
 					"page": 104,
 					"id": "22a",
 					"entries": [
-						"This chapter begins with a few opportunities for heroics in town, but three separate dungeons are the focus: the abandoned temple of Talhundereth, the haunted Crypt of the Talhund, and the subterranean Gibbet Crossing, all described later in this chapter. The locations of each dungeon are crudely marked on the {@adventure map|PaBTSO|6|The Sawplee Goblins' Map} that the characters found at the end of the previous chapter. {@creature Gwyn Oresong|PaBTSO} tells the characters more about these locations in the \"{@area Return to Phandalin|22c|x}\" section. The characters can't enter the crypt without passing through Talhundereth, but they might approach Gibbet Crossing before or after they explore the temple and crypt.",
+						"This chapter begins with a few opportunities for heroics in town, but three separate dungeons are the focus: the abandoned temple of Talhundereth, the haunted Crypt of the Talhund, and the subterranean Gibbet Crossing, all described later in this chapter. The locations of each dungeon are crudely marked on the {@area map|4bd|x} that the characters found at the end of the previous chapter. {@creature Gwyn Oresong|PaBTSO} tells the characters more about these locations in the \"{@area Return to Phandalin|22c|x}\" section. The characters can't enter the crypt without passing through Talhundereth, but they might approach Gibbet Crossing before or after they explore the temple and crypt.",
 						{
 							"type": "entries",
 							"name": "Character Advancement",
@@ -20843,7 +20843,7 @@
 												"This room contains nothing more than a stone bed, desk, and stool. A robed figure sits at the desk. Nearby, a pyramid-shaped nugget bounces idly on spindly legs."
 											]
 										},
-										"The northwest room is currently inhabited by a {@creature Humanoid mutate|PaBTSO} named Falfark and an {@creature encephalon gemmule|PaBTSO} (see {@adventure appendix A|PaBTSO|9} for both stat blocks) that Falfark treats as a guardian. Falfark is a member of the Cult of the Obelisk.",
+										"The northwest room is currently inhabited by a {@creature Humanoid mutate|PaBTSO} named Falfark and an {@creature encephalon gemmule|PaBTSO} (see {@area appendix A|49a|x} for both stat blocks) that Falfark treats as a guardian. Falfark is a member of the Cult of the Obelisk.",
 										"Falfark prefers surprise or treachery when he's outnumbered, but he's too erratic to be duplicitous. He frequently preaches about the stone that \"speaks the truth of the Far Realm\" and \"disgorges its young to feed.\" He speaks like a deluded prophet and encourages the characters to feed the smallest among them to his gemmule. If the characters resist or threaten them, Falfark and the gemmule attack in a fury.",
 										"If the characters don't do anything about the gemmule within a week of encountering Falfark, the gemmule transforms into an adult encephalon cluster that consumes Falfark as its first meal."
 									]
@@ -21113,7 +21113,7 @@
 										},
 										"This room, once at the end of the Deepening Hall ({@area area T2|24b|x}), is 30 feet high.",
 										"The Cult of the Obelisk labors to transform this statue of Dumathoin into the likeness of the encephalon cluster that guards the obelisk fragment they revere. The plinth is 15 feet high, and the statue atop it is another 10 feet tall.",
-										"A {@creature Humanoid mutate|PaBTSO} named {@creature Malinia|PaBTSO} is defacing the statue. {@creature Malinia|PaBTSO} is perched on the statue's wide shoulders, 20 feet above the floor. Four {@creature Encephalon Gemmule|PaBTSO|encephalon gemmules} (see {@adventure appendix A|PaBTSO|9} for both stat blocks) occasionally gnaw on chips of stone that fall from {@creature Malinia|PaBTSO}'s work. The cultist is quick to send the gemmules into battle, supporting them from her high perch with Nightmare Blast attacks."
+										"A {@creature Humanoid mutate|PaBTSO} named {@creature Malinia|PaBTSO} is defacing the statue. {@creature Malinia|PaBTSO} is perched on the statue's wide shoulders, 20 feet above the floor. Four {@creature Encephalon Gemmule|PaBTSO|encephalon gemmules} (see {@area appendix A|49a|x} for both stat blocks) occasionally gnaw on chips of stone that fall from {@creature Malinia|PaBTSO}'s work. The cultist is quick to send the gemmules into battle, supporting them from her high perch with Nightmare Blast attacks."
 									]
 								},
 								{
@@ -21181,8 +21181,7 @@
 											"type": "insetReadaloud",
 											"id": "27b",
 											"entries": [
-												"The west end of this long room bears an elaborate carving of a mountain filled with gemstones. On the west wall is a dial covered in simpler carvings. The",
-												"dial's center has a faceted indentation, like a socket for a gem. Above the dial is a phrase: \"Only a complete gift opens the crypt beyond.\""
+												"The west end of this long room bears an elaborate carving of a mountain filled with gemstones. On the west wall is a dial covered in simpler carvings. The dial's center has a faceted indentation, like a socket for a gem. Above the dial is a phrase: \"Only a complete gift opens the crypt beyond.\""
 											]
 										},
 										"The dial serves as a lock to the entrance of the Crypt of the Talhund. Fourteen carvings cross the dial, which has a fixed arrow pointing downward at its top. The indentation in the dial's middle is a magical keyhole that requires the insertion of a faceted gemstone.",
@@ -21257,7 +21256,7 @@
 											"page": 117,
 											"id": "283",
 											"entries": [
-												"The characters might reach this room but be forced to retreat. In this case, the mind flayer fanatics have time to send minions to recover the obelisk fragment. Unless the characters return quickly, these villains acquire the fragment and deliver it to the fanatics in Illithinoch (see later in this adventure). Record if this happens, as it alters how the characters confront the mind flayer fanatics in {@adventure chapter 8|PaBTSO|8}."
+												"The characters might reach this room but be forced to retreat. In this case, the mind flayer fanatics have time to send minions to recover the obelisk fragment. Unless the characters return quickly, these villains acquire the fragment and deliver it to the fanatics in Illithinoch (see later in this adventure). Record if this happens, as it alters how the characters confront the mind flayer fanatics in {@area chapter 8|3c9|x}."
 											]
 										}
 									]
@@ -23009,7 +23008,7 @@
 											]
 										},
 										"This is the vault of a great dwarf historian and priest, Thorgran Ironquill, who devoted his life to assembling a written history of Dumathoin's works. Thorgran's masterwork, {@i He of the Hidden Gemstone}, is more fable than history, but his pupils copied the entire text onto the walls of the historian's resting place when they believed he died.",
-										"The sarcophagus is empty. Thorgran faked his death to go on one last important journey; the characters can discover the historian's true fate in {@adventure chapter 7|PaBTSO|7}.",
+										"The sarcophagus is empty. Thorgran faked his death to go on one last important journey; the characters can discover the historian's true fate in {@area chapter 7|317|x}.",
 										{
 											"type": "entries",
 											"name": "Lever",
@@ -23434,7 +23433,7 @@
 											"page": 127,
 											"id": "2ca",
 											"entries": [
-												"If the characters are defeated by the specters, the mind flayer fanatics send minions into the crypt to recover the obelisk fragment. Record if the fanatics get the fragment, as it alters how the characters confront the mind flayer fanatics in {@adventure chapter 8|PaBTSO|8}."
+												"If the characters are defeated by the specters, the mind flayer fanatics send minions into the crypt to recover the obelisk fragment. Record if the fanatics get the fragment, as it alters how the characters confront the mind flayer fanatics in {@area chapter 8|3c9|x}."
 											]
 										},
 										{
@@ -28525,7 +28524,7 @@
 												"An irregular tunnel leads from a fissure to the north to a reinforced door to the south."
 											]
 										},
-										"The fissure at the north end of this room leads to {@area area T1|249|x} in Talhundereth (see {@adventure map 6.3|PaBTSO|6|Map 6.3: Talhundereth}). The svirfneblin worked hard to limit this access to Talhundereth and kept watch here. They weren't expecting a mind flayer attack from Talhundereth and were quickly dispatched."
+										"The fissure at the north end of this room leads to {@area area T1|249|x} in Talhundereth (see {@area map 6.3|4a8|x}). The svirfneblin worked hard to limit this access to Talhundereth and kept watch here. They weren't expecting a mind flayer attack from Talhundereth and were quickly dispatched."
 									]
 								},
 								{
@@ -28972,7 +28971,7 @@
 											"page": 137,
 											"id": "315",
 											"entries": [
-												"If the characters are routed from this room before acquiring the obelisk fragment, {@creature Qunbraxel|PaBTSO} or other servants of the fanatics immediately remove the obelisk fragment. Record if this happens, as it alters how the characters confront the mind flayer fanatics in {@adventure chapter 8|PaBTSO|8}."
+												"If the characters are routed from this room before acquiring the obelisk fragment, {@creature Qunbraxel|PaBTSO} or other servants of the fanatics immediately remove the obelisk fragment. Record if this happens, as it alters how the characters confront the mind flayer fanatics in {@area chapter 8|3c9|x}."
 											]
 										}
 									]
@@ -29046,7 +29045,7 @@
 							"page": 139,
 							"id": "31b",
 							"entries": [
-								"Shortly after the characters return to Phandalin, they come across a noisy crowd gathered at the recently repaired Shrine of Luck. You can use the Phandalin Alleys map (see {@adventure map 5.3|PaBTSO|5|Map 5.3: Phandalin Alleys} in {@adventure chapter 5|PaBTSO|5}) for this encounter.",
+								"Shortly after the characters return to Phandalin, they come across a noisy crowd gathered at the recently repaired Shrine of Luck. You can use the Phandalin Alleys map (see {@area map 5.3|4a3|x} in {@area chapter 5|196|x}) for this encounter.",
 								{
 									"type": "insetReadaloud",
 									"id": "31c",
@@ -29198,7 +29197,7 @@
 							"page": 141,
 							"id": "325",
 							"entries": [
-								"The characters aren't the first well-intentioned explorers to take this route. Centuries ago, the dwarf historian Thorgran Ironquill received a warning from his patron god, Dumathoin, that a mind flayer uprising was close at hand. Thorgran set aside his work and faked his death for the freedom to investigate without interference from hangers-on and well-meaning assistants (it is in Thorgran's tomb that the characters met {@creature Rivibiddel|PaBTSO} in {@adventure chapter 6|PaBTSO|6}).",
+								"The characters aren't the first well-intentioned explorers to take this route. Centuries ago, the dwarf historian Thorgran Ironquill received a warning from his patron god, Dumathoin, that a mind flayer uprising was close at hand. Thorgran set aside his work and faked his death for the freedom to investigate without interference from hangers-on and well-meaning assistants (it is in Thorgran's tomb that the characters met {@creature Rivibiddel|PaBTSO} in {@area chapter 6|223|x}).",
 								"Thorgran made detailed notes as he ventured toward Illithinoch, but he never reached the mind flayer stronghold. Thorgran's corpse is now a puppet for a mutated cloaker, as the characters will discover later in this chapter."
 							]
 						},
@@ -29208,7 +29207,7 @@
 							"page": 141,
 							"id": "326",
 							"entries": [
-								"{@adventure Map 7.1|PaBTSO|7|Map 7.1: Tunnels of the Deep} shows several locations along the way to Illithinoch. The following features are common in these areas.",
+								"{@area Map 7.1|4ab|x} shows several locations along the way to Illithinoch. The following features are common in these areas.",
 								{
 									"type": "entries",
 									"name": "Natural Tunnels",
@@ -31944,7 +31943,7 @@
 									"page": 147,
 									"id": "34b",
 									"entries": [
-										"The three fanatics are {@creature Chishinix|PaBTSO}, {@creature Hashutu|PaBTSO}, and {@creature Voalsh|PaBTSO} (see {@adventure chapter 8|PaBTSO|8} for their stat blocks). Each considers themself the group's leader and Ilvaash's secret favorite. Although most mind flayers reject the notion of having individual personalities, the fanatics have embraced their own unique qualities, each hoping to become Ilvaash's most beloved.",
+										"The three fanatics are {@creature Chishinix|PaBTSO}, {@creature Hashutu|PaBTSO}, and {@creature Voalsh|PaBTSO} (see {@area chapter 8|3c9|x} for their stat blocks). Each considers themself the group's leader and Ilvaash's secret favorite. Although most mind flayers reject the notion of having individual personalities, the fanatics have embraced their own unique qualities, each hoping to become Ilvaash's most beloved.",
 										{
 											"type": "entries",
 											"name": "Chishinix",
@@ -31980,7 +31979,7 @@
 									"page": 147,
 									"id": "34f",
 									"entries": [
-										"The fanatics aren't present when the characters arrive. They recently retreated through a gateway into the Far Realm, taking the Netherese obelisk pieces and Phandalin prisoners with them. The gateway closed behind them, but the characters can open the gateway again by exploring three Far Realm rifts around Illithinoch. (The rifts are in areas {@area X4|361|x}, {@area X5|364|x}, and {@area X10|374|x}, and they are further described in the \"{@area Far Realm Rifts|394|x}\" section later in this chapter.) The characters catch up to the fanatics in {@adventure chapter 8|PaBTSO|8}."
+										"The fanatics aren't present when the characters arrive. They recently retreated through a gateway into the Far Realm, taking the Netherese obelisk pieces and Phandalin prisoners with them. The gateway closed behind them, but the characters can open the gateway again by exploring three Far Realm rifts around Illithinoch. (The rifts are in areas {@area X4|361|x}, {@area X5|364|x}, and {@area X10|374|x}, and they are further described in the \"{@area Far Realm Rifts|394|x}\" section later in this chapter.) The characters catch up to the fanatics in {@area chapter 8|3c9|x}."
 									]
 								}
 							]
@@ -33482,11 +33481,11 @@
 												],
 												[
 													"4",
-													"A mind flayer wearing a scarlet robe with a high collar directs a battle in a long, descending hall lined with dwarven statues ({@area area T2|24b|x} of Talhundereth in {@adventure chapter 6|PaBTSO|6}). Mind flayers fight fiercely against dwarves."
+													"A mind flayer wearing a scarlet robe with a high collar directs a battle in a long, descending hall lined with dwarven statues ({@area area T2|24b|x} of Talhundereth in {@area chapter 6|223|x}). Mind flayers fight fiercely against dwarves."
 												],
 												[
 													"5",
-													"Three mind flayers sort through a bin of gems near a stone table. One selects the gem that contains this memory. (This scene takes place in {@area area P3|296|x} in the Crypt of the Talhund in {@adventure chapter 6|PaBTSO|6}.)"
+													"Three mind flayers sort through a bin of gems near a stone table. One selects the gem that contains this memory. (This scene takes place in {@area area P3|296|x} in the Crypt of the Talhund in {@area chapter 6|223|x}.)"
 												],
 												[
 													"6\u201319",
@@ -37191,7 +37190,7 @@
 											"page": 165,
 											"id": "3b8",
 											"entries": [
-												"A {@spell detect magic} spell or similar magic reveals an aura of divination magic on the unbroken eyepiece. A character who looks into the eyepiece sees the entirety of the miles-deep Briny Pool (see {@adventure chapter 8|PaBTSO|8}). The mind-shatteringly expansive view of the pool that birthed Ilvaash is dangerous. The viewer is targeted by a {@spell feeblemind} spell (save {@dc 18}). Regardless of the result of this saving throw, the viewer realizes that a tiny, dark hole at the pool's bottom is a powerful gate to a deeper place in the Far Realm. The character can also more easily navigate the Briny Pool, as described in chapter 8, although a creature affected with the {@spell feeblemind} spell must have the spell removed first.",
+												"A {@spell detect magic} spell or similar magic reveals an aura of divination magic on the unbroken eyepiece. A character who looks into the eyepiece sees the entirety of the miles-deep Briny Pool (see {@area chapter 8|3c9|x}). The mind-shatteringly expansive view of the pool that birthed Ilvaash is dangerous. The viewer is targeted by a {@spell feeblemind} spell (save {@dc 18}). Regardless of the result of this saving throw, the viewer realizes that a tiny, dark hole at the pool's bottom is a powerful gate to a deeper place in the Far Realm. The character can also more easily navigate the Briny Pool, as described in chapter 8, although a creature affected with the {@spell feeblemind} spell must have the spell removed first.",
 												"A {@spell dispel magic} spell ({@dc 18}) cast on the eyepiece causes the eyepiece to become inactive for 24 hours. Breaking off the eyepiece requires only a firm blow, which destroys its magic for good."
 											]
 										}
@@ -37730,7 +37729,7 @@
 					"id": "3c8",
 					"entries": [
 						"This chapter concludes with the characters opening the gateway to the Far Realm. They can now pursue the fanatics \"beyond a lightless star,\" into the bizarre heart of a godlet's realm. There, they'll face off with the fanatics and finally have an opportunity to stop the ritual and rescue the townsfolk from Phandalin.",
-						"The characters might want to return to Phandalin or press on through the gate in {@area area X16|38c|x}. In either case, their adventures continue in {@adventure chapter 8|PaBTSO|8}."
+						"The characters might want to return to Phandalin or press on through the gate in {@area area X16|38c|x}. In either case, their adventures continue in {@area chapter 8|3c9|x}."
 					]
 				}
 			]
@@ -37800,7 +37799,7 @@
 							"page": 169,
 							"id": "3ce",
 							"entries": [
-								"As the characters travel between Illithinoch and Phandalin, they can clear out any dangerous areas they missed in the \"{@area Journey through the Deep|324|x}\" section in {@adventure chapter 7|PaBTSO|7}. Continue to roll on the {@adventure Tunnel Encounters table|PaBTSO|7|Tunnel Encounters} in that chapter, as the route is never truly safe. However, since the characters have already faced several threats, roll every 2 hours of travel rather than every hour."
+								"As the characters travel between Illithinoch and Phandalin, they can clear out any dangerous areas they missed in the \"{@area Journey through the Deep|324|x}\" section in {@area chapter 7|317|x}. Continue to roll on the {@adventure Tunnel Encounters table|PaBTSO|7|Tunnel Encounters} in that chapter, as the route is never truly safe. However, since the characters have already faced several threats, roll every 2 hours of travel rather than every hour."
 							]
 						},
 						{
@@ -37940,7 +37939,7 @@
 											"page": 171,
 											"id": "3d8",
 											"entries": [
-												"Certain locations in the Briny Maze have a pair of activation rods protruding from the area's walls. Each of these rods carries a small magical charge. (The activation rods are shown on {@adventure map 8.1|PaBTSO|8|Map 8.1: Briny Maze}.)",
+												"Certain locations in the Briny Maze have a pair of activation rods protruding from the area's walls. Each of these rods carries a small magical charge. (The activation rods are shown on {@area map 8.1|4b2|x}.)",
 												"Depending on how far apart the activation rods in an area are, one or more characters might need to make a living chain between the rods. Everyone in a living chain must make a {@dc 15} Constitution saving throw (with disadvantage if the creature is wearing armor made of metal), taking 22 ({@dice 4d10}) lightning damage on a failed save, or half as much damage on a successful one. The linked rods then cause the mindgate to open. The Activation Rods table lists which rods open each mindgate.",
 												{
 													"type": "table",
@@ -41855,7 +41854,7 @@
 												"Several fleshy lumps in the floor rise like stalagmites to heights of two or three feet. A ball of viscera two feet across is pinned to a wide, flat wall with a large sword. A puddle of slime has leaked down the wall and onto the floor beneath the entrails."
 											]
 										},
-										"The viscera here is a dead {@creature intellect snare|PaBTSO} that once lurked in this area. (The characters might have fought an intellect snare in {@area Talhundereth|241|x} in {@adventure chapter 6|PaBTSO|6}.) The intellect snare ambushed the githyanki leader, {@creature Varakkta|PaBTSO}, but {@creature Varakkta|PaBTSO}'s lucky strike impaled the intellect snare on her greatsword, pinning it to the wall. {@creature Varakkta|PaBTSO} was blasted backward by the psychic combination of the intellect snare's death cries and the ruptured wall. Though {@creature Varakkta|PaBTSO} was reluctant to leave her valued greatsword behind, she elected for discretion and retreated to rejoin her followers.",
+										"The viscera here is a dead {@creature intellect snare|PaBTSO} that once lurked in this area. (The characters might have fought an intellect snare in {@area Talhundereth|241|x} in {@area chapter 6|223|x}.) The intellect snare ambushed the githyanki leader, {@creature Varakkta|PaBTSO}, but {@creature Varakkta|PaBTSO}'s lucky strike impaled the intellect snare on her greatsword, pinning it to the wall. {@creature Varakkta|PaBTSO} was blasted backward by the psychic combination of the intellect snare's death cries and the ruptured wall. Though {@creature Varakkta|PaBTSO} was reluctant to leave her valued greatsword behind, she elected for discretion and retreated to rejoin her followers.",
 										{
 											"type": "entries",
 											"name": "Greatsword",
@@ -42590,7 +42589,7 @@
 													]
 												},
 												"A {@creature purple worm} with a swimming speed of 50 feet lives in the pool. The worm's {@sense tremorsense|MM} allows it to detect other creatures in the fluid if it swims nearby.",
-												"If the characters are quick and careful, they can avoid the purple worm's notice. Each mile of descent, the characters must make a {@dc 14} Strength ({@skill Athletics}) check or a {@dc 14} Dexterity ({@skill Stealth}) check. A character who saw the Briny Pool through Golcuus's eyepiece in {@adventure chapter 7|PaBTSO|7} makes these checks with advantage. If a character fails this check, the purple worm detects them and swims near to attack. To play up the uncanny nature of the pool, you can describe how a failed check means a character bumps into a large lump that careens through the murky liquid, or the character gets disoriented by passing through a cloud of obscuring blood.",
+												"If the characters are quick and careful, they can avoid the purple worm's notice. Each mile of descent, the characters must make a {@dc 14} Strength ({@skill Athletics}) check or a {@dc 14} Dexterity ({@skill Stealth}) check. A character who saw the Briny Pool through Golcuus's eyepiece in {@area chapter 7|317|x} makes these checks with advantage. If a character fails this check, the purple worm detects them and swims near to attack. To play up the uncanny nature of the pool, you can describe how a failed check means a character bumps into a large lump that careens through the murky liquid, or the character gets disoriented by passing through a cloud of obscuring blood.",
 												"The worm prefers to make hit-and-run attacks, lunging from the darkness to swallow a creature and swim away. It doesn't stay in any fight for more than 2 rounds before swimming off."
 											]
 										}
@@ -42820,7 +42819,7 @@
 														{
 															"type": "item",
 															"name": "Obelisk Chunks",
-															"entry": "The mind flayers carried broken chunks of dark rock as their most precious items. Wramble counted how many obelisk fragments the mind flayers carried (from four to seven, based on the characters' successes in {@adventure chapter 6|PaBTSO|6}) and can tell them the exact number."
+															"entry": "The mind flayers carried broken chunks of dark rock as their most precious items. Wramble counted how many obelisk fragments the mind flayers carried (from four to seven, based on the characters' successes in {@area chapter 6|223|x}) and can tell them the exact number."
 														},
 														{
 															"type": "item",
@@ -46014,7 +46013,7 @@
 											"id": "486",
 											"entries": [
 												"The fanatics here have tied their life energy to the obelisk to empower the ritual. Damage to the obelisk therefore creates backlash that harms them. The obelisk has AC 17 and immunity to poison and psychic damage. The obelisk can't be directly destroyed and therefore doesn't have hit points.",
-												"When the obelisk would take damage, the nearest fanatic instead takes the damage. If the characters retrieved one or more obelisk fragments during {@adventure chapter 6|PaBTSO|6}, the fanatic takes twice as much damage as the obelisk. If the characters didn't retrieve any obelisk fragments, the fanatic takes the same amount of damage dealt to the obelisk. This backlash affects one fanatic each time the obelisk takes damage no matter where the fanatic is located, even if all the fanatics used {@spell plane shift} to leave the Far Realm.",
+												"When the obelisk would take damage, the nearest fanatic instead takes the damage. If the characters retrieved one or more obelisk fragments during {@area chapter 6|223|x}, the fanatic takes twice as much damage as the obelisk. If the characters didn't retrieve any obelisk fragments, the fanatic takes the same amount of damage dealt to the obelisk. This backlash affects one fanatic each time the obelisk takes damage no matter where the fanatic is located, even if all the fanatics used {@spell plane shift} to leave the Far Realm.",
 												"The fanatics don't know about this backlash until the first time it occurs. Once one of them experiences the backlash, the fanatics might struggle with one another to not be nearest to the obelisk."
 											]
 										},
@@ -46357,7 +46356,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4c4"
 				},
 				{
 					"type": "section",
@@ -46370,7 +46370,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4c5"
 				},
 				{
 					"type": "section",
@@ -46394,7 +46395,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4c6"
 				},
 				{
 					"type": "section",
@@ -46418,7 +46420,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4c7"
 				},
 				{
 					"type": "section",
@@ -46431,7 +46434,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4c8"
 				},
 				{
 					"type": "section",
@@ -46455,7 +46459,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4c9"
 				},
 				{
 					"type": "section",
@@ -46479,7 +46484,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4ca"
 				},
 				{
 					"type": "section",
@@ -46503,7 +46509,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4cc"
 				},
 				{
 					"type": "section",
@@ -46527,7 +46534,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4cd"
 				},
 				{
 					"type": "section",
@@ -46551,7 +46559,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4ce"
 				},
 				{
 					"type": "section",
@@ -46564,7 +46573,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4cf"
 				},
 				{
 					"type": "section",
@@ -46588,7 +46598,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d0"
 				},
 				{
 					"type": "section",
@@ -46612,7 +46623,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d1"
 				},
 				{
 					"type": "section",
@@ -46625,7 +46637,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d2"
 				},
 				{
 					"type": "section",
@@ -46649,7 +46662,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d3"
 				},
 				{
 					"type": "section",
@@ -46673,7 +46687,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d4"
 				},
 				{
 					"type": "section",
@@ -46697,7 +46712,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d5"
 				},
 				{
 					"type": "section",
@@ -46710,7 +46726,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d6"
 				},
 				{
 					"type": "section",
@@ -46734,7 +46751,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d7"
 				},
 				{
 					"type": "section",
@@ -46758,7 +46776,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d8"
 				},
 				{
 					"type": "section",
@@ -46782,7 +46801,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4d9"
 				},
 				{
 					"type": "section",
@@ -46806,7 +46826,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4da"
 				},
 				{
 					"type": "section",
@@ -46830,7 +46851,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4db"
 				},
 				{
 					"type": "section",
@@ -46843,7 +46865,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4dc"
 				},
 				{
 					"type": "section",
@@ -46867,7 +46890,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4dd"
 				},
 				{
 					"type": "section",
@@ -46891,7 +46915,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4de"
 				},
 				{
 					"type": "section",
@@ -46915,7 +46940,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4df"
 				},
 				{
 					"type": "section",
@@ -46939,7 +46965,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4e0"
 				},
 				{
 					"type": "section",
@@ -46963,7 +46990,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4e1"
 				},
 				{
 					"type": "section",
@@ -46976,7 +47004,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4e2"
 				},
 				{
 					"type": "section",
@@ -47000,7 +47029,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4e3"
 				},
 				{
 					"type": "section",
@@ -47024,7 +47054,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4e4"
 				},
 				{
 					"type": "section",
@@ -47048,7 +47079,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4e5"
 				},
 				{
 					"type": "section",
@@ -47072,7 +47104,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4e6"
 				},
 				{
 					"type": "section",
@@ -47096,7 +47129,8 @@
 							"source": "PaBTSO",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "4e7"
 				}
 			]
 		},

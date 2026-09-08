@@ -880,7 +880,8 @@
 			"page": 90,
 			"otherSources": [
 				{
-					"source": "ToD"
+					"source": "ToD",
+					"page": 185
 				}
 			],
 			"typicalSpeakers": [
@@ -1198,7 +1199,8 @@
 			"page": 93,
 			"otherSources": [
 				{
-					"source": "ToD"
+					"source": "ToD",
+					"page": 188
 				}
 			],
 			"script": "Draconic"

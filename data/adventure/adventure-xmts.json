@@ -57,7 +57,7 @@
 			"name": "Adventure Hooks",
 			"entries": [
 				"The characters are on a mission for the Order of the Five Sacraments to retrieve the Hierophant's Chalice from the Temple of Aclazotz, deep in the uncharted forests of Ixalan. In addition to the bargains they have struck with the church, each character has been offered 100 gp to retrieve the sacred item and bring it to a rendezvous point south of the island stronghold of Fort Durron.",
-				"The backgrounds provided on the {@adventure character sheets|XMtS|9} also provide motivations for the characters to come together as a party.",
+				"The backgrounds provided on the {@area character sheets|032|x} also provide motivations for the characters to come together as a party.",
 				"{@b Alante} hopes to gain favor with the Order of the Five Sacraments, a sect of the church that believes in establishing a trade relationship with the Sun Empire.",
 				"{@b Velisha} yearns to expel the unnatural forces that is rumored to reside in the Temple of Aclazotz.",
 				"{@b Rouxil} wants to bring an end to the conflict in this region of Ixalan by ensuring the Order of the Five Sacraments rises to power.",
@@ -70,7 +70,7 @@
 					"name": "Treasure",
 					"entries": [
 						"This adventure uses {@i Magic: The Gathering} cards to help build momentum toward adventure progression, and to reward interactive play.",
-						"You'll need a handful of Treasure token cards (found in Ixalan booster packs) and a number of cards detailing treasures from the Ixalan set. See \"{@adventure Appendix D: Hidden Plunder|XMtS|8}\" at the end of this adventure for the card list, then shuffle those non-token cards to make an item deck.",
+						"You'll need a handful of Treasure token cards (found in Ixalan booster packs) and a number of cards detailing treasures from the Ixalan set. See \"{@area Appendix D: Hidden Plunder|031|x}\" at the end of this adventure for the card list, then shuffle those non-token cards to make an item deck.",
 						"Whenever a player advances an objective, makes an important discovery, or has a good idea, give that player a Treasure token. A player cannot have more than one Treasure token for his or her character. Random encounters then provide an opportunity to uncover a treasure cache. When searching an area, players roll against each other to find treasure, allowing one player to redeem a Treasure token and draw from the item deck."
 					],
 					"id": "004"
@@ -124,7 +124,7 @@
 									"entries": [
 										"In one corner of the chamber, a padlocked lever stands next to a three-foot-square metal grate. If the lever is unlocked (either with the key carried by the guard or a successful {@dc 20} Dexterity check using {@item thieves' tools|phb}), it can be pulled to drop the grate open. This reveals the executioner's hatch\u2014a chute down which bodies are dumped into the ocean after they are drained of life by the vampires in the fort.",
 										"A character who succeeds on a {@dc 10} Intelligence ({@skill Investigation}) check notes that the slick walls of the chute offer no handholds. This makes it a straight drop into the ocean, and prevents anyone from getting back up this way. Characters who jump through the hatch take no damage when they hit the water, and can then easily swim to shore.",
-										"One hour after the characters escape, a new group of guards enters the executioner's block and sounds an alert (see \"{@adventure Conqueror's Foothold|XMtS|3|conqueror's foothold},\" below).",
+										"One hour after the characters escape, a new group of guards enters the executioner's block and sounds an alert (see \"{@area Conqueror's Foothold|00c|x},\" below).",
 										"Any character who succeeds on a {@dc 15} Wisdom ({@skill Perception} or {@skill Survival}) check notices a {@creature hunter shark} in the water. Any party member who takes damage during the fight with the guards attracts its attention and causes the shark to attack."
 									],
 									"id": "00b"
@@ -188,7 +188,7 @@
 							"type": "inset",
 							"name": "Exploring Ixalan",
 							"entries": [
-								"Traveling from Conqueror's Foothold to the Temple of Aclazotz takes three days by way of the beach or four days through the mountains. While moving through certain terrain ({@adventure Fort Leor and Fort Durron|XMtS|3|Fort Leor and Fort Durron}, {@adventure Primal Wellspring|XMtS|3|primal wellspring}, and {@adventure Uncharted Territory|XMtS|3|unclaimed territory}), random encounters might be triggered. Roll a {@dice d20} to check for an encounter once during the day and once during the night. If the result is 18 or higher by day, or 15 or higher at night, a random encounter occurs. Refer to the encounter tables in each region to determine what the adventurers meet, and reroll if the result doesn't make sense given the circumstances."
+								"Traveling from Conqueror's Foothold to the Temple of Aclazotz takes three days by way of the beach or four days through the mountains. While moving through certain terrain ({@area Fort Leor and Fort Durron|017|x}, {@area Primal Wellspring|01c|x}, and {@area Uncharted Territory|021|x}), random encounters might be triggered. Roll a {@dice d20} to check for an encounter once during the day and once during the night. If the result is 18 or higher by day, or 15 or higher at night, a random encounter occurs. Refer to the encounter tables in each region to determine what the adventurers meet, and reroll if the result doesn't make sense given the circumstances."
 							],
 							"id": "012"
 						},
@@ -639,7 +639,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "035"
 				},
 				{
 					"type": "section",
@@ -663,7 +664,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "036"
 				},
 				{
 					"type": "section",
@@ -687,7 +689,8 @@
 							"source": "PSX",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "037"
 				},
 				{
 					"type": "section",
@@ -711,7 +714,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "038"
 				},
 				{
 					"type": "section",
@@ -735,7 +739,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "039"
 				},
 				{
 					"type": "section",
@@ -759,7 +764,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "03a"
 				},
 				{
 					"type": "section",
@@ -783,7 +789,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "03b"
 				},
 				{
 					"type": "section",
@@ -807,7 +814,8 @@
 							"source": "PSX",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "03c"
 				},
 				{
 					"type": "section",
@@ -819,7 +827,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "03d"
 				},
 				{
 					"type": "section",
@@ -831,7 +840,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "03e"
 				},
 				{
 					"type": "section",
@@ -843,7 +853,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "03f"
 				},
 				{
 					"type": "section",
@@ -855,7 +866,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "040"
 				},
 				{
 					"type": "section",
@@ -879,7 +891,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "041"
 				},
 				{
 					"type": "section",
@@ -903,7 +916,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "042"
 				},
 				{
 					"type": "section",
@@ -927,7 +941,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "043"
 				},
 				{
 					"type": "section",
@@ -951,7 +966,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "044"
 				},
 				{
 					"type": "section",
@@ -975,7 +991,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "045"
 				},
 				{
 					"type": "section",
@@ -999,7 +1016,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "046"
 				},
 				{
 					"type": "section",
@@ -1023,7 +1041,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "047"
 				},
 				{
 					"type": "section",
@@ -1047,7 +1066,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "048"
 				},
 				{
 					"type": "section",
@@ -1071,7 +1091,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "049"
 				}
 			],
 			"id": "02e"

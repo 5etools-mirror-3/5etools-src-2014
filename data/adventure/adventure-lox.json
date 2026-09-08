@@ -49,10 +49,10 @@
 								"This adventure has four parts, each divided into three chapters. Each chapter is designed to be run as a single play experience lasting 2 to 3 hours, with the expectation that a group should be able to complete the adventure in twelve sessions of play.",
 								"Each chapter begins with an overview that gives you a sense of what is ahead for the heroes and recaps what has happened so far. There's no telling how a session will unfold, since the players have some control over the plot, but the text tries to give you enough information to run the various creatures and encounters. If the characters do something unexpected, improvise as best you can while gently steering them toward their main goal. Each chapter ends with a cliffhanger to set the stage for the next session, assuming things go as planned.",
 								"The four parts of the adventure are as follows:",
-								"{@adventure Part 1: Seeds of Destruction|LoX|1} chronicles the devastation wrought by the astral seeds on the characters' home world and the party's escape into Wildspace. After fleeing to the Rock of Bral, the characters seek out {@creature Commodore Krux|LoX}, a giff, hoping he can help them thwart the Xaryxian Empire's machinations and save the characters' world in the process.",
-								"{@adventure Part 2: Terrors of the Void|LoX|2} deals with the characters' journey to the edge of their Wildspace system, where they encounter {@creature Princess Xedalli|LoX} and learn the enormity of the task that lies before them. The characters head for Doomspace, where Krux plans to join a coalition of those that oppose the Xaryxian Empire.",
-								"{@adventure Part 3: Chaos in Doomspace|LoX|3} begins with the party's arrival in Doomspace, where the coalition they had intended to join turns out to be a bunch of quarreling factions. They must find a way to unite the factions before attacking the Xaryxian Empire.",
-								"{@adventure Part 4: Saviors of the Multiverse|LoX|4} describes Xaryxispace and the characters' climactic encounter with {@creature Prince Xeleth|LoX} and the armada under his command. Finally, the characters arrive at the imperial citadel, where they discover the true cost of saving their world and must decide the fate of Xaryxis and the Xaryxian Empire before making the long voyage home."
+								"{@area Part 1: Seeds of Destruction|00c|x} chronicles the devastation wrought by the astral seeds on the characters' home world and the party's escape into Wildspace. After fleeing to the Rock of Bral, the characters seek out {@creature Commodore Krux|LoX}, a giff, hoping he can help them thwart the Xaryxian Empire's machinations and save the characters' world in the process.",
+								"{@area Part 2: Terrors of the Void|052|x} deals with the characters' journey to the edge of their Wildspace system, where they encounter {@creature Princess Xedalli|LoX} and learn the enormity of the task that lies before them. The characters head for Doomspace, where Krux plans to join a coalition of those that oppose the Xaryxian Empire.",
+								"{@area Part 3: Chaos in Doomspace|0ad|x} begins with the party's arrival in Doomspace, where the coalition they had intended to join turns out to be a bunch of quarreling factions. They must find a way to unite the factions before attacking the Xaryxian Empire.",
+								"{@area Part 4: Saviors of the Multiverse|11d|x} describes Xaryxispace and the characters' climactic encounter with {@creature Prince Xeleth|LoX} and the armada under his command. Finally, the characters arrive at the imperial citadel, where they discover the true cost of saving their world and must decide the fate of Xaryxis and the Xaryxian Empire before making the long voyage home."
 							]
 						}
 					]
@@ -166,19 +166,19 @@
 									],
 									"rows": [
 										[
-											"{@adventure 1: Seeds of Destruction|LoX|1}",
+											"{@area 1: Seeds of Destruction|00c|x}",
 											"5th"
 										],
 										[
-											"{@adventure 2: Terrors of the Void|LoX|2}",
+											"{@area 2: Terrors of the Void|052|x}",
 											"6th"
 										],
 										[
-											"{@adventure 3: Chaos in Doomspace|LoX|3}",
+											"{@area 3: Chaos in Doomspace|0ad|x}",
 											"7th"
 										],
 										[
-											"{@adventure 4: Saviors of the Multiverse|LoX|4}",
+											"{@area 4: Saviors of the Multiverse|11d|x}",
 											"8th"
 										]
 									]

@@ -36,8 +36,9 @@ export class FontManager {
 	static async pFinalizeLazy () {
 		if (typeof window === "undefined") return {errors: []};
 
+		const fontMetas = Object.values(this._FONTS);
 		const results = await Promise.allSettled(
-			Object.values(this._FONTS)
+			fontMetas
 				.map(fontMeta => this._pLoadFont({fontMeta})),
 		);
 
@@ -45,8 +46,10 @@ export class FontManager {
 
 		return {
 			errors: results
-				.filter(({status}) => status === "rejected")
-				.map(({reason}, i) => ({message: `Font "${fontFaces[i].family}" failed to load!`, reason})),
+				.map(({status, reason}, i) => status === "rejected"
+					? {message: `Font "${fontMetas[i].fontId}" failed to load!`, reason}
+					: null)
+				.filter(Boolean),
 		};
 	}
 }

@@ -94,7 +94,7 @@
 										"This cramped, dark cabin might have been a cozy place when its owner was alive. Now an unmade bed stands near a cold fireplace, its mantle hung with the head of some snarling white beast with gray horns. On the other side of the room, a small table strewn with dirty dishes and set with a dwarf-sized chair stands before two empty shelves whose contents are scattered across the floor: kitchen utensils, dried foodstuffs, adventuring gear, and a few books."
 									]
 								},
-								"Any character who examines the mess in the cabin realizes that someone recently trashed the place while searching it. A successful {@dc 12} Intelligence ({@skill Investigation}) check reveals the intruder's footprints. Tulgi Lutan was the culprit, desperate for any clues that might help her cure the frigid woe that is killing her. Her tracks lead outside and back to her cabin (see \"{@adventure Tulgi's Cabin|FS|0|Tulgi's Cabin}\" below).",
+								"Any character who examines the mess in the cabin realizes that someone recently trashed the place while searching it. A successful {@dc 12} Intelligence ({@skill Investigation}) check reveals the intruder's footprints. Tulgi Lutan was the culprit, desperate for any clues that might help her cure the frigid woe that is killing her. Her tracks lead outside and back to her cabin (see \"{@area Tulgi's Cabin|862|x}\" below).",
 								{
 									"type": "entries",
 									"name": "Adventuring Equipment",
@@ -298,7 +298,7 @@
 					"id": "870",
 					"entries": [
 						"Characters local to Palebank Village or who have spent some time there know Croaker Cave. If all the characters are new arrivals to the village, any of the villagers can tell them about the cave and how to get there.",
-						"Croaker Cave gets its name from its resident giant ice frogs. Its entrance is on the shores of the Frigid Depths, due north of Palebank Village. As the characters draw close to the cave entrance, they see frequent signs of tracks where bandits have been coming and going. However, there are no signs of patrols or guards. A plume of smoke rises from the ground beyond the cave entrance, venting through a narrow natural chimney from {@adventure area C6|FS|0|C6. Hulil's Cavern}. The chimney is too small to be climbed, however, and the main cave entrance is the only entry point.",
+						"Croaker Cave gets its name from its resident giant ice frogs. Its entrance is on the shores of the Frigid Depths, due north of Palebank Village. As the characters draw close to the cave entrance, they see frequent signs of tracks where bandits have been coming and going. However, there are no signs of patrols or guards. A plume of smoke rises from the ground beyond the cave entrance, venting through a narrow natural chimney from {@area area C6|886|x}. The chimney is too small to be climbed, however, and the main cave entrance is the only entry point.",
 						"Knowing that the residents of Palebank Village avoid the cave and its dangerous frogs, {@creature Hulil Lutan|EGW} has made the place her base of operations. She and the Uttolot bandits she commands have domesticated the giant ice frogs that make the cave their home, using them as guard animals.",
 						{
 							"type": "gallery",
@@ -1559,7 +1559,7 @@
 							"page": 238,
 							"id": "871",
 							"entries": [
-								"With the exception of {@creature Old Croaker|EGW} (see {@adventure area C5|FS|0|C5. Old Croaker's Pool}), giant ice frogs are {@creature Giant Frog||giant frogs} with immunity to cold damage.",
+								"With the exception of {@creature Old Croaker|EGW} (see {@area area C5|884|x}), giant ice frogs are {@creature Giant Frog||giant frogs} with immunity to cold damage.",
 								"The blue-skinned frogs attack any creatures in the cave complex not escorted by bandits they recognize. Each fights until reduced to half its hit points or fewer, then flees. A character who succeeds on a {@dc 15} Wisdom ({@skill Animal Handling}) check as an action convinces one frog to not attack or to stop attacking. If the character or any of their allies attacks or harms the frog, it resumes combat.",
 								"The frogs spend much of their time resting in pools of murky, frigid water in Croaker Cave. A character who succeeds on a Wisdom ({@skill Perception}) check opposed by a frog's Dexterity ({@skill Stealth}) check notices a frog hiding in a pool. If a frog goes undetected, it attacks with surprise when a character comes within 5 feet of the pool."
 							]
@@ -1570,7 +1570,7 @@
 							"page": 238,
 							"id": "872",
 							"entries": [
-								"The bandits sent out with Hulil by the Uttolot family are all dwarves and elves. Up to ten bandits normally occupy Croaker Cave, but only three are currently present (in {@adventure area C2|FS|0|C2. Training Pool}). They use the {@creature bandit} stat block and have {@sense darkvision} out to a range of 60 feet. In addition, the dwarves have resistance to poison damage and have advantage on saving throws against poison; the elves have advantage on saving throws against being {@condition charmed} and immunity to magic that would put them to sleep",
+								"The bandits sent out with Hulil by the Uttolot family are all dwarves and elves. Up to ten bandits normally occupy Croaker Cave, but only three are currently present (in {@area area C2|87a|x}). They use the {@creature bandit} stat block and have {@sense darkvision} out to a range of 60 feet. In addition, the dwarves have resistance to poison damage and have advantage on saving throws against poison; the elves have advantage on saving throws against being {@condition charmed} and immunity to magic that would put them to sleep",
 								"Uttolot bandits attack any intruders on sight. Each fights until reduced to half its hit points or fewer, then flees the caves. If the characters capture an Uttolot bandit, they can learn the following information with a successful {@dc 10} Charisma ({@skill Intimidation}) check:",
 								{
 									"type": "list",
@@ -1612,7 +1612,7 @@
 									"page": 239,
 									"id": "876",
 									"entries": [
-										"The caverns contain no light sources, except in {@adventure area C6|FS|0|C6. Hulil's Cavern}, as the inhabitants of Croaker Cave rely on {@sense darkvision} to see."
+										"The caverns contain no light sources, except in {@area area C6|886|x}, as the inhabitants of Croaker Cave rely on {@sense darkvision} to see."
 									]
 								},
 								{
@@ -1715,7 +1715,7 @@
 										"Ten empty bedrolls are arranged in a circle around a cold fire pit at the center of this cavern. Chicken bones, empty wine and spirits bottles, and other food waste litters the floor."
 									]
 								},
-								"One of the bedrolls covers the opening of a 10-foot-deep pit trap. The trap can be spotted with a {@dc 10} Wisdom ({@skill Perception}) check. If not spotted, anyone walking across the bedroll falls into the pit, taking 3 ({@dice 1d6}) bludgeoning damage and landing {@condition prone}. A creature that falls into the pit makes enough noise that the bandits in {@adventure area C2|FS|0|C2. Training Pool} investigate.",
+								"One of the bedrolls covers the opening of a 10-foot-deep pit trap. The trap can be spotted with a {@dc 10} Wisdom ({@skill Perception}) check. If not spotted, anyone walking across the bedroll falls into the pit, taking 3 ({@dice 1d6}) bludgeoning damage and landing {@condition prone}. A creature that falls into the pit makes enough noise that the bandits in {@area area C2|87a|x} investigate.",
 								{
 									"type": "entries",
 									"name": "Treasure",
@@ -2126,7 +2126,7 @@
 									"page": 244,
 									"id": "8a8",
 									"entries": [
-										"The entrance to Salsvault is frozen shut. The characters can force the door open with a successful {@dc 15} Strength check or by dealing 10 bludgeoning or fire damage to the ice that seals the door. Unsealing the door with bludgeoning damage draws the attention of three suits of animated armor in area {@adventure S3|FS|0|S3. Animated Armor Laboratory}, which gather in {@adventure area S1|FS|0|S1. Entrance Chamber} and attack the characters as soon as they enter.",
+										"The entrance to Salsvault is frozen shut. The characters can force the door open with a successful {@dc 15} Strength check or by dealing 10 bludgeoning or fire damage to the ice that seals the door. Unsealing the door with bludgeoning damage draws the attention of three suits of animated armor in area {@area S3|8bc|x}, which gather in {@area area S1|8b6|x} and attack the characters as soon as they enter.",
 										{
 											"type": "gallery",
 											"images": [
@@ -2803,7 +2803,7 @@
 									"id": "8ab",
 									"entries": [
 										"Stone chests two feet on each side are built into the floors in several areas. A {@spell detect magic} spell reveals a faint aura of abjuration magic radiating from each chest. A chest has AC 17; 27 hit points; resistance to bludgeoning, piercing, and slashing damage; and immunity to poison and psychic damage.",
-										"If an area's description notes a locked chest, the chest's lock can be picked with a successful {@dc 15} Dexterity check using thieves' tools or forced open with a successful {@dc 18} Strength check. {@creature Ferol Sal|EGW} (see {@adventure area S17|FS|0|S17. Ferol's Laboratory}) carries a master key that locks or unlocks all chests in Salsvault."
+										"If an area's description notes a locked chest, the chest's lock can be picked with a successful {@dc 15} Dexterity check using thieves' tools or forced open with a successful {@dc 18} Strength check. {@creature Ferol Sal|EGW} (see {@area area S17|8e8|x}) carries a master key that locks or unlocks all chests in Salsvault."
 									]
 								},
 								{
@@ -2813,7 +2813,7 @@
 									"id": "8ac",
 									"entries": [
 										"Salsvault's heavy doors are made of black stone, and its walls are made of blue stone. A {@spell detect magic} spell reveals a faint aura of abjuration magic radiating from the doors and walls. Each door and each 10-foot section of wall has AC 17; 27 hit points; resistance to bludgeoning, piercing, and slashing damage; and immunity to poison and psychic damage.",
-										"If an area's description notes a locked door, the lock can be picked with a successful {@dc 15} Dexterity check using thieves' tools, or the door can be forced open with a successful {@dc 18} Strength check. {@creature Ferol Sal|EGW} (see {@adventure area S17|FS|0|S17. Ferol's Laboratory}) carries a master key that locks or unlocks all the doors in Salsvault."
+										"If an area's description notes a locked door, the lock can be picked with a successful {@dc 15} Dexterity check using thieves' tools, or the door can be forced open with a successful {@dc 18} Strength check. {@creature Ferol Sal|EGW} (see {@area area S17|8e8|x}) carries a master key that locks or unlocks all the doors in Salsvault."
 									]
 								},
 								{
@@ -2894,7 +2894,7 @@
 									"page": 245,
 									"id": "8b5",
 									"entries": [
-										"The humanoids working in Salsvault died when it crashed into Foren. Just before impact, {@creature Ferol Sal|EGW}, the necromancer in charge of Salsvault, released an experimental disease that caused any humanoids who died in the complex to return as undead. Most of those affected returned as zombies that attack intruders on sight and fight to the death. Ferol returned as a wight and has continued to work obsessively in his personal lab ({@adventure area S17|FS|0|S17. Ferol's Laboratory}) ever since. Because of the cold here, all the undead are relatively well preserved."
+										"The humanoids working in Salsvault died when it crashed into Foren. Just before impact, {@creature Ferol Sal|EGW}, the necromancer in charge of Salsvault, released an experimental disease that caused any humanoids who died in the complex to return as undead. Most of those affected returned as zombies that attack intruders on sight and fight to the death. Ferol returned as a wight and has continued to work obsessively in his personal lab ({@area area S17|8e8|x}) ever since. Because of the cold here, all the undead are relatively well preserved."
 									]
 								}
 							]
@@ -2913,14 +2913,14 @@
 									]
 								},
 								"The inscription is in an archaic version of Draconic that was spoken in ancient Aeor. It can be read by any character who can read Draconic with a few minutes of study, or by anyone with access to a {@spell comprehend languages} spell or similar magic. The message reads: \"Welcome to Salsvault! Visitors, please wait here for an escort, and DO NOT TOUCH ANYTHING WITHOUT PERMISSION.\"",
-								"If the characters make any noise louder than a whisper in this chamber, the suits of animated armor in {@adventure area S3|FS|0|S3. Animated Armor Laboratory} come to investigate.",
+								"If the characters make any noise louder than a whisper in this chamber, the suits of animated armor in {@area area S3|8bc|x} come to investigate.",
 								{
 									"type": "entries",
 									"name": "Locked Door",
 									"page": 246,
 									"id": "8b8",
 									"entries": [
-										"The door that leads to {@adventure area S4|FS|0|S4. Frigid Woe Laboratory} is locked (see \"{@adventure Salsvault Features|FS|0|Salsvault Features},\" at the beginning of this section)."
+										"The door that leads to {@area area S4|8c1|x} is locked (see \"{@area Salsvault Features|8a9|x},\" at the beginning of this section)."
 									]
 								},
 								{
@@ -2964,7 +2964,7 @@
 										"Pieces of rusty plate armor are scattered about this chamber amid the rubble of destroyed stone furniture. An anvil built into the floor stands in front of a cold furnace to the southwest. Across the room from the furnace, two humanoid feet stick out from a pile of rubble."
 									]
 								},
-								"Two suits of {@creature animated armor} normally stand guard in this chamber. If the armor didn't leave to investigate disturbances in {@adventure areas S1|FS|0|S1. Entrance Chamber} or S2, both suits are here when the characters arrive, and you can add the following:",
+								"Two suits of {@creature animated armor} normally stand guard in this chamber. If the armor didn't leave to investigate disturbances in {@area areas S1|8b6|x} or S2, both suits are here when the characters arrive, and you can add the following:",
 								{
 									"type": "insetReadaloud",
 									"id": "8be",
@@ -3013,9 +3013,9 @@
 									"page": 246,
 									"id": "8c3",
 									"entries": [
-										"These stone chests are locked (see \"{@adventure Salsvault Features|FS|0|Salsvault Features}\" at the beginning of this section) and magically trapped. When a creature makes a failed attempt to pick the chest's lock, or attacks or attempts to force the chest open, the chest shoots a beam of cold energy at the creature. The beam is {@hit 4} to hit and deals 4 ({@dice 1d8}) cold damage on a hit.",
+										"These stone chests are locked (see \"{@area Salsvault Features|8a9|x}\" at the beginning of this section) and magically trapped. When a creature makes a failed attempt to pick the chest's lock, or attacks or attempts to force the chest open, the chest shoots a beam of cold energy at the creature. The beam is {@hit 4} to hit and deals 4 ({@dice 1d8}) cold damage on a hit.",
 										"A character who searches the exterior of either chest and succeeds on a {@dc 13} Wisdom ({@skill Perception}) check finds an archaic Draconic word for \"ice\" carved in tiny letters near the hinges. With a successful {@dc 10} Intelligence ({@skill Arcana}) check, a character senses that the inscription is connected to a trap. Scratching out the inscription with a tool or a weapon causes the trap to stop functioning on that chest.",
-										"Each chest is packed with fine sand, within which are nestled two vials of frigid woe (see the \"{@adventure Vials of Frigid Woe|FS|0|Vials of Frigid Woe}\" sidebar earlier in this adventure)."
+										"Each chest is packed with fine sand, within which are nestled two vials of frigid woe (see the \"{@area Vials of Frigid Woe|890|x}\" sidebar earlier in this adventure)."
 									]
 								},
 								{
@@ -3024,7 +3024,7 @@
 									"page": 246,
 									"id": "8c4",
 									"entries": [
-										"A character who examines the lever notices spots of faded red paint on it with a successful {@dc 13} Wisdom ({@skill Perception}) check. As an action, a creature can pull the lever down, causing flames to shoot down from the ceiling in {@adventure area S5|FS|0|S5. Disease Storage}. Even with the door closed, a hiss can be heard in this area when the flames are active. A creature can use an action to push the lever back up, which shuts off the flames. See area S5 for more information on this hazard."
+										"A character who examines the lever notices spots of faded red paint on it with a successful {@dc 13} Wisdom ({@skill Perception}) check. As an action, a creature can pull the lever down, causing flames to shoot down from the ceiling in {@area area S5|8c7|x}. Even with the door closed, a hiss can be heard in this area when the flames are active. A creature can use an action to push the lever back up, which shuts off the flames. See area S5 for more information on this hazard."
 									]
 								},
 								{
@@ -3033,7 +3033,7 @@
 									"page": 246,
 									"id": "8c5",
 									"entries": [
-										"The doors from this area to {@adventure areas S1|FS|0|S1. Entrance Chamber} and S5 are locked. The door to area S5 is also trapped."
+										"The doors from this area to {@area areas S1|8b6|x} and S5 are locked. The door to area S5 is also trapped."
 									]
 								},
 								{
@@ -3042,7 +3042,7 @@
 									"page": 247,
 									"id": "8c6",
 									"entries": [
-										"A {@spell detect magic} spell reveals an aura of conjuration magic radiating from the locked door to area S5. When a creature makes a failed attempt to pick the door's lock, or attacks or attempts to force the door open, that creature is teleported into the middle of {@adventure area S15|FS|0|S15. Animated Weapon Storage}.",
+										"A {@spell detect magic} spell reveals an aura of conjuration magic radiating from the locked door to area S5. When a creature makes a failed attempt to pick the door's lock, or attacks or attempts to force the door open, that creature is teleported into the middle of {@area area S15|8e2|x}.",
 										"A character who searches the door and succeeds on a {@dc 13} Intelligence ({@skill Investigation}) check finds an archaic Draconic word for \"disappear\" carved in tiny letters near the foot of the door on both sides. With a successful {@dc 10} Intelligence ({@skill Arcana}) check, a character senses that the inscription is connected to a trap. Scratching out either inscription with a tool or a weapon causes the trap to stop functioning."
 									]
 								}
@@ -3078,7 +3078,7 @@
 									"page": 247,
 									"id": "8ca",
 									"entries": [
-										"Each chest is locked (see \"{@adventure Salsvault Features|FS|0|Salsvault Features}\" at the beginning of this section), packed with fine sand, and contains three vials of frigid woe (see the \"{@adventure Vials of Frigid Woe|FS|0|Vials of Frigid Woe}\" sidebar earlier in this adventure)."
+										"Each chest is locked (see \"{@area Salsvault Features|8a9|x}\" at the beginning of this section), packed with fine sand, and contains three vials of frigid woe (see the \"{@area Vials of Frigid Woe|890|x}\" sidebar earlier in this adventure)."
 									]
 								}
 							]
@@ -3113,7 +3113,7 @@
 										"Four unmade beds are built into the east and west walls here, each with a footlocker tucked beneath it."
 									]
 								},
-								"One of the footlockers holds an intact Aeorian robe (see \"{@adventure Salsvault Features|FS|0|Salsvault Features}\" at the beginning of this section)."
+								"One of the footlockers holds an intact Aeorian robe (see \"{@area Salsvault Features|8a9|x}\" at the beginning of this section)."
 							]
 						},
 						{
@@ -3131,7 +3131,7 @@
 									]
 								},
 								"The floor of this chamber is covered in rubble, making it {@quickref difficult terrain||3}. A {@creature rug of smothering} is hidden beneath the rubble. A character with a passive Wisdom ({@skill Perception}) score of 12 or higher notices the rug, but gets no hint that it is animated.",
-								"A search of the rubble and a successful {@dc 14} Wisdom ({@skill Perception}) check turns up an intact Aeorian robe (see \"{@adventure Salsvault Features|FS|0|Salsvault Features}\" at the beginning of this section)."
+								"A search of the rubble and a successful {@dc 14} Wisdom ({@skill Perception}) check turns up an intact Aeorian robe (see \"{@area Salsvault Features|8a9|x}\" at the beginning of this section)."
 							]
 						},
 						{
@@ -3273,7 +3273,7 @@
 										"Water ebbs and flows through a large opening along the east wall of this ruined library. Rotting parchments and waterlogged tomes are spread everywhere, fallen from cracked stone shelves."
 									]
 								},
-								"The water is deeper than it appears beneath the ruined books and parchments, with the floor along the eastern side of the room having collapsed to a depth of 15 feet. A {@creature giant octopus} hides here, having claimed this room as its lair. A character who succeeds on a Wisdom ({@skill Perception}) check opposed by the octopus's Dexterity ({@skill Stealth}) check notices the beast. See \"{@adventure Salsvault Features|FS|0|Salsvault Features},\" earlier in this section, for the effects of entering the water.",
+								"The water is deeper than it appears beneath the ruined books and parchments, with the floor along the eastern side of the room having collapsed to a depth of 15 feet. A {@creature giant octopus} hides here, having claimed this room as its lair. A character who succeeds on a Wisdom ({@skill Perception}) check opposed by the octopus's Dexterity ({@skill Stealth}) check notices the beast. See \"{@area Salsvault Features|8a9|x},\" earlier in this section, for the effects of entering the water.",
 								{
 									"type": "entries",
 									"name": "Treasure",
@@ -3374,8 +3374,8 @@
 									"id": "8ea",
 									"entries": [
 										"Ferol knows nothing of Exandria's history since Aeor's crash, and his memory of the distant past is almost as hazy. His transformation into a wight and the centuries of solitude since have driven him quite mad. He cares only about taking revenge on the gods\u2014who he incorrectly assumes are still active in Exandria. As a resident of Aeor, Ferol doesn't speak Common, though he can communicate in the archaic Draconic of Aeor, as well as an archaic form of Elven. Characters who speak Draconic or Elven can communicate with him, albeit slowly.",
-										"When Ferol notices the characters, he demands to know what they're doing in Salsvault. Any character who claims they have come to help Ferol with his work and succeeds on a Charisma ({@skill Deception}) check opposed by the wight's Wisdom ({@skill Insight}) check earns the undead's trust. The check is made with advantage if characters who found and were able to read the note in {@adventure area S10|FS|0|S10. Ferol Sal's Chamber} mention Ferol's plans to craft a god-killing disease.",
-										"If Ferol trusts the characters, he tells them to stay away from the locked golem lab ({@adventure area S16|FS|0|S16. Golem Laboratory}). If they ask about the cure for frigid woe, he tells them they can find it locked in a chest in what he calls the curative laboratory (area S18). A character who succeeds on a {@dc 15} Charisma ({@skill Persuasion}) check can convince Ferol to provide the key that safely unlocks the chest.",
+										"When Ferol notices the characters, he demands to know what they're doing in Salsvault. Any character who claims they have come to help Ferol with his work and succeeds on a Charisma ({@skill Deception}) check opposed by the wight's Wisdom ({@skill Insight}) check earns the undead's trust. The check is made with advantage if characters who found and were able to read the note in {@area area S10|8d3|x} mention Ferol's plans to craft a god-killing disease.",
+										"If Ferol trusts the characters, he tells them to stay away from the locked golem lab ({@area area S16|8e4|x}). If they ask about the cure for frigid woe, he tells them they can find it locked in a chest in what he calls the curative laboratory (area S18). A character who succeeds on a {@dc 15} Charisma ({@skill Persuasion}) check can convince Ferol to provide the key that safely unlocks the chest.",
 										"If the characters don't earn Ferol's trust, the wight attacks, fighting until destroyed."
 									]
 								},
@@ -3385,7 +3385,7 @@
 									"page": 249,
 									"id": "8eb",
 									"entries": [
-										"Ferol carries two keys: one that works all the doors in Salsvault and another that works all the chests built into the floor within the complex (see \"{@adventure Salsvault Features|FS|0|Salsvault Features}\")."
+										"Ferol carries two keys: one that works all the doors in Salsvault and another that works all the chests built into the floor within the complex (see \"{@area Salsvault Features|8a9|x}\")."
 									]
 								},
 								{
@@ -3421,7 +3421,7 @@
 										"A cold wind howls through the collapsed east wall of this huge chamber, whose far side is completely submerged under frigid seawater. A dense bed of kelp grows up from the submerged floor, obscuring any sight of what lies below. Broken glass and the remains of shattered tables cover the floor in the dry section of the room."
 									]
 								},
-								"Aeorian mages worked in this chamber to ensure that they could cure the diseases they created. Four {@creature Giant Crab||giant crabs} now lair here, hiding beneath the kelp in the 5-foot-deep water and attacking any creatures that intrude. A character with a passive Wisdom ({@skill Perception}) score of 14 or higher notices the crabs, which attack with surprise if not spotted. See \"{@adventure Salsvault Features|FS|0|Salsvault Features},\" at the beginning of this section, for what happens if characters enter the frigid water. Additionally, the kelp makes the water {@quickref difficult terrain||3} for creatures other than the giant crabs.",
+								"Aeorian mages worked in this chamber to ensure that they could cure the diseases they created. Four {@creature Giant Crab||giant crabs} now lair here, hiding beneath the kelp in the 5-foot-deep water and attacking any creatures that intrude. A character with a passive Wisdom ({@skill Perception}) score of 14 or higher notices the crabs, which attack with surprise if not spotted. See \"{@area Salsvault Features|8a9|x},\" at the beginning of this section, for what happens if characters enter the frigid water. Additionally, the kelp makes the water {@quickref difficult terrain||3} for creatures other than the giant crabs.",
 								{
 									"type": "entries",
 									"name": "Chest",
@@ -3446,7 +3446,7 @@
 									"page": 249,
 									"id": "8f2",
 									"entries": [
-										"The chest is packed with fine sand and contains twenty doses of frigid woe antidote (see \"{@book Eiselcross|EGW|4|Eiselcross}\" in chapter 3) and an {@item ersatz eye|XGE} (see {@book chapter 6|EGW|7|Ersatz Eye})."
+										"The chest is packed with fine sand and contains twenty doses of frigid woe antidote (see \"{@book Eiselcross|EGW|4|Eiselcross}\" in chapter 3) and an {@item ersatz eye|XGE}."
 									]
 								}
 							]

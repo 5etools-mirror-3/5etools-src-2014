@@ -16,8 +16,8 @@
 					"credit": "Klaus Pillon"
 				},
 				"Acquisitions Incorporated was founded in Seattle, Washington, in a time spoken of in only hushed tones: the year 2009. It first saw life as a podcast, which, at the time, was an unusual way to play Dungeons & Dragons. The intervening decade saw Acq Inc take on many forms\u2014streams, recorded content, comics, and, of course, live roleplaying shows. While these are all now completely normal ways to discover and enjoy D&D, back then, not so much. We just did it because it seemed like a cool idea, and ten years later, it seems like maybe we were right. Today, Acq Inc's adventures continue, dutifully chronicled online at acq-inc.com.",
-				"Our intention with Acquisitions Incorporated was to bring dark office comedy to a world of swords, sorcery, dungeons, and (dare we say) dragons. This book, created in concert with Wizards of the Coast, sets you up for success in your own fantasy-business endeavors. Chapter 1 provides an orientation for new franchise members, detailing how to start a game and play the Acquisitions Incorporated way. {@book Chapter 2|AI|1} explores the various positions within an Acq Inc franchise, introducing a variety of roles vital to an adventuring enterprise's success. {@book Chapter 3|AI|2} delves into backgrounds for Acq Inc franchise members, entrenching company goals at the core of their beings. In {@adventure Chapter 4|OoW|0}, all this comes together in an adventure taking characters from level 1 to 6, establishing a party's claim on a world they've begun to explore and strip-mine for profit.",
-				"Following these chapters, {@book appendix A|AI|4} presents stalwarts of the Acquisitions Incorporated world, founding members and characters from the company's ongoing adventures. {@book Appendix B|AI|4} details foes, from terrifying deep crows to infamous keg robots. {@book Appendices C|AI|6}, {@book D|AI|7}, and {@book E|AI|8} conclude this guide with a variety of Acq Inc tools and treasures, from vehicles like the {@vehicle battle balloon|AI} to the mighty {@item Orrery of the Wanderer|AI}.",
+				"Our intention with Acquisitions Incorporated was to bring dark office comedy to a world of swords, sorcery, dungeons, and (dare we say) dragons. This book, created in concert with Wizards of the Coast, sets you up for success in your own fantasy-business endeavors. Chapter 1 provides an orientation for new franchise members, detailing how to start a game and play the Acquisitions Incorporated way. {@area Chapter 2|009|x} explores the various positions within an Acq Inc franchise, introducing a variety of roles vital to an adventuring enterprise's success. {@area Chapter 3|0dc|x} delves into backgrounds for Acq Inc franchise members, entrenching company goals at the core of their beings. In {@adventure Chapter 4|OoW|0}, all this comes together in an adventure taking characters from level 1 to 6, establishing a party's claim on a world they've begun to explore and strip-mine for profit.",
+				"Following these chapters, {@area appendix A|16b|x} presents stalwarts of the Acquisitions Incorporated world, founding members and characters from the company's ongoing adventures. {@area Appendix B|16b|x} details foes, from terrifying deep crows to infamous keg robots. {@area Appendices C|1ae|x}, {@area D|1af|x}, and {@area E|1b0|x} conclude this guide with a variety of Acq Inc tools and treasures, from vehicles like the {@vehicle battle balloon|AI} to the mighty {@item Orrery of the Wanderer|AI}.",
 				"Many hands worked diligently throughout the process of creating the Acquisitions Incorporated campaign and this resulting book. If you put your ear very close to the pages, you will hear us whisper, \"thank you.\"",
 				{
 					"type": "section",
@@ -393,7 +393,7 @@
 					"name": "Franchise Advancement",
 					"page": 9,
 					"entries": [
-						"A license to operate an Acquisitions Incorporated franchise comes with nearly limitless benefits! When your party starts a franchise, you receive a region in which to operate, a franchise headquarters, and a majordomo to assist with basic headquarters needs. As your characters become accomplished adventurers (and continue to contribute to Head Office coffers), Acquisitions Incorporated helps your franchise gain even greater benefits! See the following {@book Franchise Advancement table|AI|1|Franchise Advancement} for a summary of what you get at each rank.",
+						"A license to operate an Acquisitions Incorporated franchise comes with nearly limitless benefits! When your party starts a franchise, you receive a region in which to operate, a franchise headquarters, and a majordomo to assist with basic headquarters needs. As your characters become accomplished adventurers (and continue to contribute to Head Office coffers), Acquisitions Incorporated helps your franchise gain even greater benefits! See the following {@area Franchise Advancement table|00a|x} for a summary of what you get at each rank.",
 						{
 							"type": "entries",
 							"name": "Franchise Rank",
@@ -833,7 +833,7 @@
 											"page": 15,
 											"entries": [
 												"A hot air balloon is lit by a magic furnace channeling elemental power. A galleon suspended below the balloon features a helm that controls the ship. The vessel can fly virtually anywhere, ignoring {@quickref difficult terrain||3}, but it is at risk from storms and strong winds. If the balloon takes significant damage, the ship could be forced to descend\u2014or might even crash.",
-												"({@book Appendix C|AI|6} features vehicle statistics for a typical battle balloon. For characters who choose this highly coveted feature for their headquarters, the DM can impose limitations on the ship's attacks and make changes to its statistics.)"
+												"({@area Appendix C|1ae|x} features vehicle statistics for a typical battle balloon. For characters who choose this highly coveted feature for their headquarters, the DM can impose limitations on the ship's attacks and make changes to its statistics.)"
 											],
 											"id": "02c"
 										},
@@ -858,7 +858,7 @@
 													"page": 15,
 													"entries": [
 														"Dungeons & Dragons offers a wide range of play styles, and works with many different types of campaign story. The {@book Dungeon Master's Guide|DMG} talks about some of the most common types of fantasy that can shape a D&D campaign, including a general sense of campaigns being high magic, low magic, or the D&D standard in between.",
-														"An Acquisitions Incorporated campaign has its own distinct feel, as talked about in {@book chapter 1|AI|0} of this book. Part of that feel comes from the substantial benefits that characters gain from franchise features and company positions\u2014mechanical boons, magic items, access to powerful spell effects, and more. These benefits are gained automatically, as a general reward for the characters' adventuring success driving franchise advancement. So it's important that everyone is aware how adding those built-in campaign benefits to the regular magic gained during adventuring will give the characters a boost in power.",
+														"An Acquisitions Incorporated campaign has its own distinct feel, as talked about in {@area chapter 1|000|x} of this book. Part of that feel comes from the substantial benefits that characters gain from franchise features and company positions\u2014mechanical boons, magic items, access to powerful spell effects, and more. These benefits are gained automatically, as a general reward for the characters' adventuring success driving franchise advancement. So it's important that everyone is aware how adding those built-in campaign benefits to the regular magic gained during adventuring will give the characters a boost in power.",
 														"For an Acquisitions Incorporated campaign meant to feel and play like standard D&D, the DM should consider creating a low-magic campaign, and letting the benefits of company positions and franchise features fill in the magical gaps. A standard campaign played with the rules in this book should be treated as a high magic campaign, with the DM and the players understanding that the difficulty of encounters and other tasks might need to be ramped up to offer a real challenge to the characters. Of course, nothing prevents anyone from playing a high magic campaign with the Acquisitions Incorporated rules. But DMs and players should all be aware that doing so will create extremely powerful characters\u2014who will no doubt attract extremely powerful enemies and threats as a matter of course."
 													],
 													"id": "02f"
@@ -1032,7 +1032,7 @@
 							"page": 17,
 							"entries": [
 								"Running an Acquisitions Incorporated franchise offers countless benefits to an adventuring party\u2014but those benefits aren't cheap. Operating the franchise, installing and maintaining franchise features, paying staff, creating merchandise with proper branding, settling legal issues, and more are all encompassed by the baseline cost for a franchise's headquarters, a multiplier from the franchise's rank, and the franchise party's business performance for the month.",
-								"If a franchise's costs leave a party low on cash, that's a sign that it's time to go adventuring. Alternatively, characters might use downtime to structure a leaner business or engage in non-adventuring activities to bring in more gold (see \"{@book Franchise Tasks and Downtime|AI|1|Franchise Tasks and Downtime}\" later in this chapter for more information). A franchise's majordomo handles these finances and makes all necessary payments to Head Office, suppliers, and other agents\u2014as long as sufficient funds are available.",
+								"If a franchise's costs leave a party low on cash, that's a sign that it's time to go adventuring. Alternatively, characters might use downtime to structure a leaner business or engage in non-adventuring activities to bring in more gold (see \"{@area Franchise Tasks and Downtime|09a|x}\" later in this chapter for more information). A franchise's majordomo handles these finances and makes all necessary payments to Head Office, suppliers, and other agents\u2014as long as sufficient funds are available.",
 								{
 									"type": "entries",
 									"name": "Baseline Costs",
@@ -1112,7 +1112,7 @@
 									"name": "Monthly Business Performance",
 									"page": 18,
 									"entries": [
-										"Each month, a franchise performs the running a franchise task, which can be found in the \"{@book Franchise Tasks and Downtime|AI|1|Franchise Tasks and Downtime}\" section later in this chapter. The result of this task is used to calculate the final monthly cost, and is deducted from the franchise's coffers."
+										"Each month, a franchise performs the running a franchise task, which can be found in the \"{@area Franchise Tasks and Downtime|09a|x}\" section later in this chapter. The result of this task is used to calculate the final monthly cost, and is deducted from the franchise's coffers."
 									],
 									"id": "043"
 								},
@@ -2431,8 +2431,8 @@
 									"name": "Construction Permits",
 									"page": 28,
 									"entries": [
-										"At rank 3, your knowledge of best practices for improving an Acquisitions Incorporated franchise results in a 20 percent reduction in your franchise's monthly costs (see \"{@book Franchise Costs|AI|1|Franchise Costs}\" earlier in this chapter, and \"{@book Franchise Tasks and Downtime|AI|1|Franchise Tasks and Downtime}\" later in this chapter).",
-										"In addition, choose one room in your franchise headquarters that belongs to you alone. That room gains one cosmetic feature, and the headquarters as a whole gains one secret feature over and above those gained normally through franchise advancement. See \"{@book Headquarters Features|AI|1|Headquarters Features}\" earlier in this chapter for more information."
+										"At rank 3, your knowledge of best practices for improving an Acquisitions Incorporated franchise results in a 20 percent reduction in your franchise's monthly costs (see \"{@area Franchise Costs|040|x}\" earlier in this chapter, and \"{@area Franchise Tasks and Downtime|09a|x}\" later in this chapter).",
+										"In addition, choose one room in your franchise headquarters that belongs to you alone. That room gains one cosmetic feature, and the headquarters as a whole gains one secret feature over and above those gained normally through franchise advancement. See \"{@area Headquarters Features|01b|x}\" earlier in this chapter for more information."
 									],
 									"id": "078"
 								},
@@ -2450,7 +2450,7 @@
 									"name": "Efficient Upgrades",
 									"page": 28,
 									"entries": [
-										"At rank 4, your knowledge of franchise lore and development yields further dividends. Your franchise headquarters gains one weapon feature and one cosmetic feature over and above those gained normally through franchise advancement. See \"{@book Headquarters Features|AI|1|Headquarters Features}\" earlier in this chapter."
+										"At rank 4, your knowledge of franchise lore and development yields further dividends. Your franchise headquarters gains one weapon feature and one cosmetic feature over and above those gained normally through franchise advancement. See \"{@area Headquarters Features|01b|x}\" earlier in this chapter."
 									],
 									"id": "07a"
 								},
@@ -3326,7 +3326,7 @@
 							"name": "Selecting Franchise Tasks",
 							"page": 35,
 							"entries": [
-								"Whether franchise tasks are undertaken during regular downtime or alongside other adventuring activities, a franchise's rank puts a hard limit on the number of tasks the franchise's staff can undertake. See the \"{@book Franchise Advancement|AI|1|Franchise Advancement}\" section earlier in this chapter. (This limit is only for franchise tasks undertaken by staff. The characters are free to undertake whatever downtime activities the DM allows, as normal.)",
+								"Whether franchise tasks are undertaken during regular downtime or alongside other adventuring activities, a franchise's rank puts a hard limit on the number of tasks the franchise's staff can undertake. See the \"{@area Franchise Advancement|00a|x}\" section earlier in this chapter. (This limit is only for franchise tasks undertaken by staff. The characters are free to undertake whatever downtime activities the DM allows, as normal.)",
 								"For each available franchise task slot, players can allocate one or more staff members to a chosen franchise task. Those tasks can include any of the downtime activities in the {@book Player's Handbook|PHB} or the {@book Dungeon Master's Guide|DMG}, the new and revised downtime activities in {@book Xanathar's Guide to Everything|XGE}, and the new activities in this section. When all of a franchise's task slots are filled, one of those tasks must be completed before staff can be allocated to a new franchise task. (The one exception to this rule is the running a franchise activity, presented later in this section. That activity must be performed by a franchise, but does not require that specific characters or staff members be allocated to it.)",
 								"Staff allocated to a franchise task are no longer available for other needs, including other franchise tasks. Any costs or resources associated with a franchise task must be provided by the franchise (which is to say, by the characters).",
 								"For example, a rank 2 franchise can undertake two concurrent franchise tasks. If the characters are setting out to explore the Swamp of Lingering Malaise, they might order their majordomo to send messages to various noble families while they're away, carrying out the sowing rumors activity from the {@book Dungeon Master's Guide|DMG}. The task follows the regular rules for that downtime activity, but is carried out by the majordomo. At the same time, the characters might send out another staff member to engage in the explore territory activity (a new activity detailed below).",
@@ -3345,7 +3345,7 @@
 							"name": "Making Task Checks",
 							"page": 35,
 							"entries": [
-								"When a franchise task requires an ability check, a staff member can use their own ability check modifier to determine success. (This modifier might depend on the staff member's statistics, if an NPC, or it might be based on the franchise's rank. See the \"{@book Franchise Advancement|AI|1|Franchise Advancement}\" section.) Alternatively, the staff member can use the check modifier of a character overseeing the task and giving the staff member direction. This can encourage the characters to develop closer relationships with franchise staff through roleplaying, and keeps the players involved in staff-focused franchise tasks."
+								"When a franchise task requires an ability check, a staff member can use their own ability check modifier to determine success. (This modifier might depend on the staff member's statistics, if an NPC, or it might be based on the franchise's rank. See the \"{@area Franchise Advancement|00a|x}\" section.) Alternatively, the staff member can use the check modifier of a character overseeing the task and giving the staff member direction. This can encourage the characters to develop closer relationships with franchise staff through roleplaying, and keeps the players involved in staff-focused franchise tasks."
 							],
 							"id": "09f"
 						},
@@ -3407,7 +3407,7 @@
 												"This section introduces the following new downtime activities, all of which can be used as franchise tasks in an Acquisitions Incorporated campaign: explore territory, franchise restructuring, headquarters modification, marketeering, philanthropic enterprise, running a franchise, scrutineering, shady business practice, schmoozing, team building.",
 												"Other downtime activities can be found in the following books:",
 												"{@book Player's Handbook|PHB} (chapter 8): {@book Crafting|PHB|8|Crafting}, {@book practicing a profession|PHB|8|Practicing a Profession}, {@book recuperating|PHB|8|Recuperating}, {@book research|PHB|8|Researching}, {@book training|PHB|8|Training}",
-												"{@book Dungeon Master's Guide|DMG} (chapter 6): {@book Building a stronghold|DMG|6|Building a Stronghold}, {@book carousing|DMG|6|Carousing}, {@book crafting a magic item|DMG|6|Crafting a Magic Item}, {@book gaining renown|DMG|6|Gaining Renown}, {@book performing sacred rites|DMG|6|Performing Sacred Rites}, {@book running a business|DMG|6|Running a Business}, {@book selling magic items|DMG|6|Selling Magic Items}, {@book sowing rumors|DMG|6|Sowing Rumors}, {@book training to gain levels|DMG|6|Training to Gain Levels}",
+												"{@book Dungeon Master's Guide|DMG} (chapter 6): {@variantrule Downtime Activity: Building a Stronghold|DMG|Building a stronghold}, {@variantrule Downtime Activity: Carousing|DMG|carousing}, {@variantrule Downtime Activity: Crafting a Magic Item|DMG|crafting a magic item}, {@variantrule Downtime Activity: Gaining Renown|DMG|gaining renown}, {@variantrule Downtime Activity: Performing Sacred Rites|DMG|performing sacred rites}, {@variantrule Downtime Activity: Running a Business|DMG|running a business}, {@variantrule Downtime Activity: Selling Magic Items|DMG|selling magic items}, {@variantrule Downtime Activity: Sowing Rumors|DMG|sowing rumors}, {@variantrule Downtime Activity: Training to Gain Levels|DMG|training to gain levels}",
 												"{@book Xanathar's Guide to Everything|XGE} (chapter 2): {@variantrule Downtime Activity: Buying a magic item|XGE|Buying a magic item}, {@variantrule Downtime Activity: carousing|XGE|carousing}, {@variantrule Downtime Activity: crafting an item|XGE|crafting an item}, {@variantrule Downtime Activity: crime|XGE|crime}, {@variantrule Downtime Activity: gambling|XGE|gambling}, {@variantrule Downtime Activity: pit fighting|XGE|pit fighting}, {@variantrule Downtime Activity: relaxation|XGE|relaxation}, {@variantrule Downtime Activity: religious service|XGE|religious service}, {@variantrule Downtime Activity: research|XGE|research}, {@variantrule Downtime Activity: scribing a spell scroll|XGE|scribing a spell scroll}, {@variantrule Downtime Activity: selling a magic item|XGE|selling a magic item}, {@variantrule Downtime Activity: training|XGE|training}, {@variantrule Downtime Activity: work|XGE|work}"
 											],
 											"id": "0a6"
@@ -3434,7 +3434,7 @@
 										"An easy way to focus on complications and rivals in a campaign is to think about who might be paying attention to a franchise's activities. For example, a successful philanthropic enterprise (one of the new activities in this section) could draw the attention of a noble who begins to question the reputation and honesty of the characters running the franchise. Or the party might launch a marketeering campaign (another new activity), only to discover that their branding has an accidental resemblance to the logo of an assassins' guild. Complications are an excellent way to develop rich interactions between the setting and the characters. In an Acquisitions Incorporated campaign, even the smallest actions can have unexpected (and, ideally, hilarious) consequences.",
 										"Rivals represent any of the factions and organizations that can come into play during an Acquisitions Incorporated campaign. Rivals don't have to be villains or mortal enemies of the characters, though. Other Acq Inc franchises all compete with the characters' franchise, seeking to expand their own reach and impress Head Office. Governments, merchants, guilds, religious institutions, and noble families can all take notice as a franchise grows in power. And outside the characters' immediate sphere of influence, factions such as Dran Enterprises and the Six work dark plots that might make the characters targets for assimilation or destruction. (The plots of the Six and the operations of Dran Enterprises both play a part in the adventure \"{@adventure The Orrery of the Wanderer|OoW|0},\" chapter 4 of this book.)",
 										"When a complication occurs during a downtime or franchise activity, the DM determines whether and how that complication connects to a rival. Certain complications might be caused by rivals, as when the orc army camping in the characters' territory is revealed to have been invited there by a competing franchise. Other complications might draw a rival in, as when a greedy noble decides they want a piece of the franchise's action.",
-										"Rival NPCs can be worked up using the rules in chapter 4, \"{@book Creating Nonplayer Characters|DMG|4}\" of the {@book Dungeon Master's Guide|DMG}, incorporating schemes, methods, and weaknesses. If you use {@book Xanathar's Guide to Everything|XGE} in your game, that book provides example rivals and talks about establishing a rival's goals, assets, and plans. See also the \"{@book Factions and Rivals|AI|2|Factions and Rivals}\" section in chapter 3 of this book for an introduction to some of the rival organizations that might appear in an Acquisitions Incorporated campaign."
+										"Rival NPCs can be worked up using the rules in chapter 4, \"{@book Creating Nonplayer Characters|DMG|4}\" of the {@book Dungeon Master's Guide|DMG}, incorporating schemes, methods, and weaknesses. If you use {@book Xanathar's Guide to Everything|XGE} in your game, that book provides example rivals and talks about establishing a rival's goals, assets, and plans. See also the \"{@area Factions and Rivals|165|x}\" section in chapter 3 of this book for an introduction to some of the rival organizations that might appear in an Acquisitions Incorporated campaign."
 									],
 									"id": "0a8"
 								},
@@ -3458,7 +3458,7 @@
 							"entries": [
 								"In addition to the downtime activities found in other books, characters and their franchise staff can undertake the new activities presented in this section, either as regular downtime activities or as franchise tasks that can be undertaken at any time. These activities reflect the central role of the franchise in an Acquisitions Incorporated campaign.",
 								"The length of time required for these new downtime or franchise activities varies, from a number of days to one workweek (5 days) or more. All the normal rules for downtime must be followed by the character or NPC undertaking the downtime or franchise activity, including spending 8 hours each day engaged in that activity for the day to count toward the activity's completion. The one exception to this rule is that any costs for a franchise activity are paid for by the characters, even if franchise staff are executing the task.",
-								"Some downtime and franchise activities alter a franchise's monthly costs. See the \"{@book Franchise Advancement|AI|1|Franchise Advancement}\" section earlier in this chapter for how to determine a franchise's base monthly costs, and see the \"{@book Running a Franchise|AI|1|Running a Franchise}\" section below for more information on how that activity modifies the base cost.",
+								"Some downtime and franchise activities alter a franchise's monthly costs. See the \"{@area Franchise Advancement|00a|x}\" section earlier in this chapter for how to determine a franchise's base monthly costs, and see the \"{@variantrule Downtime and Franchise Activity: Running a Franchise|AI|Running a Franchise}\" section below for more information on how that activity modifies the base cost.",
 								{
 									"type": "list",
 									"columns": 3,
@@ -7201,7 +7201,8 @@
 							"source": "AI",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0af"
 				},
 				{
 					"type": "section",
@@ -7225,7 +7226,8 @@
 							"source": "AI",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0b0"
 				},
 				{
 					"type": "section",
@@ -7249,7 +7251,8 @@
 							"source": "AI",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0b1"
 				},
 				{
 					"type": "section",
@@ -7273,7 +7276,8 @@
 							"source": "AI",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0b2"
 				},
 				{
 					"type": "section",
@@ -7297,7 +7301,8 @@
 							"source": "AI",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0b3"
 				},
 				{
 					"type": "section",
@@ -7321,7 +7326,8 @@
 							"source": "AI",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0b4"
 				},
 				{
 					"type": "section",

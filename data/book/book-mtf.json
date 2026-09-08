@@ -8652,9 +8652,9 @@
 			"entries": [
 				"This bestiary provides game statistics and lore for more than a hundred monsters suitable for any D&D campaign, including old favorites from past editions of the game as well as original creations. Among those returning to the fold are the berbalang, the iron cobra, the spirit troll, the meazel, and the vampiric mist, all of which trace their lineage back to the original Fiend Folio published in 1981.",
 				"Many of these monsters, old and new alike, are ideal for use with the earlier chapters of this book. For instance, the demons and devils presented here\u2014lesser varieties as well as the greatest of the demon lords and the archdevils\u2014can add even more chaos and savagery to a campaign based on the Blood War.",
-				"Similarly, you'll find a selection of specialized duergar to spice up a game that involves the characters in the struggle described in {@book chapter 3|MTF|2}.",
+				"Similarly, you'll find a selection of specialized duergar to spice up a game that involves the characters in the struggle described in {@area chapter 3|0c0|x}.",
 				"The ranks of the drow and the shadar-kai are swelled by the addition of special individuals that can add depth\u2014and danger\u2014to adventures that take heroes into the Underdark or the Shadowfell.",
-				"Or, if you're interested in exploring either side of the conflict between the gith that's portrayed in {@book chapter 4|MTF|3}, the bestiary has new versions of githyanki and githzerai that supplement the Monster Manual entries for those creatures.",
+				"Or, if you're interested in exploring either side of the conflict between the gith that's portrayed in {@area chapter 4|10c|x}, the bestiary has new versions of githyanki and githzerai that supplement the Monster Manual entries for those creatures.",
 				"This chapter is a continuation of the Monster Manual and adopts a similar presentation. If you are unfamiliar with the monster stat block format, read the introduction of the Monster Manual before proceeding further. It explains stat block terminology and gives rules for various monster traits\u2014information that isn't repeated here.",
 				"As with the monsters in the Monster Manual, we've tried to capture the essence of each creature and focus on those traits that make it unique or that encourage DMs to use it. You can do what you will with these monsters and change their lore to suit your game. Nothing we say here is meant to curtail your creativity.",
 				"The creatures in this bestiary are organized alphabetically. A few are grouped under a banner heading; for example, the \"Demons\" section contains stat blocks for various kinds of demons, which are presented alphabetically within that section.",
@@ -8827,7 +8827,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "197"
 				},
 				{
 					"type": "section",
@@ -8851,7 +8852,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "198"
 				},
 				{
 					"type": "section",
@@ -8875,7 +8877,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "199"
 				},
 				{
 					"type": "section",
@@ -8899,7 +8902,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19a"
 				},
 				{
 					"type": "section",
@@ -8923,7 +8927,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19b"
 				},
 				{
 					"type": "section",
@@ -8947,7 +8952,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19c"
 				},
 				{
 					"type": "section",
@@ -8971,7 +8977,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19d"
 				},
 				{
 					"type": "section",
@@ -9016,7 +9023,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19e"
 				},
 				{
 					"type": "section",
@@ -9040,7 +9048,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19f"
 				},
 				{
 					"type": "section",
@@ -9078,7 +9087,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a0"
 				},
 				{
 					"type": "section",
@@ -9172,7 +9182,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a1"
 				},
 				{
 					"type": "section",
@@ -9245,7 +9256,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a2"
 				},
 				{
 					"type": "section",
@@ -9276,7 +9288,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a3"
 				},
 				{
 					"type": "section",
@@ -9370,7 +9383,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a4"
 				},
 				{
 					"type": "section",
@@ -9429,7 +9443,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a5"
 				},
 				{
 					"type": "section",
@@ -9488,7 +9503,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a6"
 				},
 				{
 					"type": "section",
@@ -9568,7 +9584,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a7"
 				},
 				{
 					"type": "section",
@@ -9599,7 +9616,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a8"
 				},
 				{
 					"type": "section",
@@ -9644,7 +9662,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a9"
 				},
 				{
 					"type": "section",
@@ -9689,7 +9708,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1aa"
 				},
 				{
 					"type": "section",
@@ -9734,7 +9754,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1ab"
 				},
 				{
 					"type": "section",
@@ -9758,7 +9779,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1ac"
 				},
 				{
 					"type": "section",
@@ -9782,7 +9804,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1ad"
 				},
 				{
 					"type": "section",
@@ -9834,7 +9857,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1ae"
 				},
 				{
 					"type": "section",
@@ -9858,7 +9882,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1af"
 				},
 				{
 					"type": "section",
@@ -9882,7 +9907,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b0"
 				},
 				{
 					"type": "section",
@@ -9920,7 +9946,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b1"
 				},
 				{
 					"type": "section",
@@ -9944,7 +9971,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b2"
 				},
 				{
 					"type": "section",
@@ -9968,7 +9996,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b3"
 				},
 				{
 					"type": "section",
@@ -9992,7 +10021,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b4"
 				},
 				{
 					"type": "section",
@@ -10016,7 +10046,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b5"
 				},
 				{
 					"type": "section",
@@ -10054,7 +10085,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b6"
 				},
 				{
 					"type": "section",
@@ -10099,7 +10131,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b7"
 				},
 				{
 					"type": "section",
@@ -10123,7 +10156,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b8"
 				},
 				{
 					"type": "section",
@@ -10161,7 +10195,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1b9"
 				},
 				{
 					"type": "section",
@@ -10185,7 +10220,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1ba"
 				},
 				{
 					"type": "section",
@@ -10209,7 +10245,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1bb"
 				},
 				{
 					"type": "section",
@@ -10261,7 +10298,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1bc"
 				},
 				{
 					"type": "section",
@@ -10313,7 +10351,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1bd"
 				},
 				{
 					"type": "section",
@@ -10344,7 +10383,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1be"
 				},
 				{
 					"type": "section",
@@ -10368,7 +10408,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1bf"
 				},
 				{
 					"type": "section",
@@ -10392,7 +10433,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c0"
 				},
 				{
 					"type": "section",
@@ -10423,7 +10465,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c1"
 				},
 				{
 					"type": "section",
@@ -10454,7 +10497,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c2"
 				},
 				{
 					"type": "section",
@@ -10499,7 +10543,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c3"
 				},
 				{
 					"type": "section",
@@ -10523,7 +10568,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c4"
 				},
 				{
 					"type": "section",
@@ -10582,7 +10628,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c5"
 				}
 			],
 			"id": "194"

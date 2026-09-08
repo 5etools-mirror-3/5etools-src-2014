@@ -828,19 +828,27 @@ class AdventureBookTagCheck extends DataTesterBase {
 		"@b",
 	]);
 
+	_getTagMetas (str) {
+		return Renderer.splitByTags(str)
+			.filter(strPart => strPart?.startsWith("{@"))
+			.map(strPart => {
+				const [tag, text] = Renderer.splitFirstSpace(strPart.slice(1, -1));
+				return {tag, text, tagString: strPart};
+			});
+	};
+
+	_getAdventureBookTagMetas (str) {
+		return this._getTagMetas(str)
+			.filter(({tag}) => ["@adventure", "@book"].includes(tag));
+	}
+
+	_getAdventureBookDisplayTextSubTags (displayText) {
+		return this._getTagMetas(displayText)
+			.map(({tag}) => tag);
+	};
+
 	_checkString (str, {filePath}) {
-		const tagSplit = Renderer.splitByTags(str);
-
-		const len = tagSplit.length;
-		for (let i = 0; i < len; ++i) {
-			const str = tagSplit[i];
-
-			if (!str) continue;
-			if (!str.startsWith("{@")) continue;
-
-			const [tag, text] = Renderer.splitFirstSpace(str.slice(1, -1));
-			if (!["@adventure", "@book"].includes(tag)) continue;
-
+		for (const {tag, text, tagString} of this._getAdventureBookTagMetas(str)) {
 			const prop = tag.slice(1);
 
 			const message = getInvalidCorpusHeaderUidMessage({
@@ -857,19 +865,12 @@ class AdventureBookTagCheck extends DataTesterBase {
 
 			const {displayText} = UidUtil.unpackUidAdventureBook(text, {isLower: true});
 
-			if (!displayText.includes("{@")) return;
+			if (!displayText.includes("{@")) continue;
 
-			const tagSplitSub = Renderer.splitByTags(displayText);
-			for (let j = 0; j < len; ++j) {
-				const sSub = tagSplitSub[j];
-
-				if (!sSub) continue;
-				if (!sSub.startsWith("{@")) continue;
-
-				const [tagSub] = Renderer.splitFirstSpace(sSub.slice(1, -1));
+			for (const tagSub of this._getAdventureBookDisplayTextSubTags(displayText)) {
 				if (this.constructor._ALLOWED_SUB_TAGS.has(tagSub)) continue;
 
-				this._addMessage(`Link contained sub-tag "${tagSub}": ${str}\n`);
+				this._addMessage(`Link contained sub-tag "${tagSub}": ${tagString}\n`);
 			}
 		}
 	}
@@ -885,7 +886,7 @@ class AdventureBookTagCheck extends DataTesterBase {
 				const data = await DataLoader.pCacheAndGetHash(page, UrlUtil.getHashBuilder(page)({id}));
 				if (!data) {
 					const ptLinks = Object.entries(idTo)
-						.map(([id, arr]) => arr.map(({uid, filePath}) => `\t${prop} header UID "${uid}" in file ${filePath}`));
+						.flatMap(([, arr]) => arr.map(({uid, filePath}) => `\t${prop} header UID "${uid}" in file ${filePath}`));
 					this._addMessage(`Missing link${ptLinks.length === 1 ? "" : "s"}:\n${ptLinks.join("\n")}\n`);
 					continue;
 				}

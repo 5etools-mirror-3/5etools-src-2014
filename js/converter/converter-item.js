@@ -537,9 +537,9 @@ export class ConverterItem extends ConverterBase {
 	};
 
 	static _GENERIC_REQUIRES_LOOKUP_ARMOR = {
-		"light": ({styleHint}) => [{"type": styleHint === SITE_STYLE__ONE ? Parser.ITM_TYP__ODND_LIGHT_ARMOR : Parser.ITM_TYP__LIGHT_ARMOR}],
-		"medium": ({styleHint}) => [{"type": styleHint === SITE_STYLE__ONE ? Parser.ITM_TYP__ODND_MEDIUM_ARMOR : Parser.ITM_TYP__MEDIUM_ARMOR}],
-		"heavy": ({styleHint}) => [{"type": styleHint === SITE_STYLE__ONE ? Parser.ITM_TYP__ODND_HEAVY_ARMOR : Parser.ITM_TYP__HEAVY_ARMOR}],
+		"light": [{"type": Parser.ITM_TYP__LIGHT_ARMOR}],
+		"medium": [{"type": Parser.ITM_TYP__MEDIUM_ARMOR}],
+		"heavy": [{"type": Parser.ITM_TYP__HEAVY_ARMOR}],
 
 		// (Additionally populated during `init`)
 	};

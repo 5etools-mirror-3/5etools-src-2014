@@ -222,7 +222,7 @@
 									"page": 4,
 									"id": "00f",
 									"entries": [
-										"The Triboar Trail runs right through this abandoned town, which was sacked by barbarians years ago and now lies in ruins. A dirt road extending south of the town leads to a supposedly abandoned shrine dedicated to Savras (god of divination and fate). For more information on this location, see \"{@adventure Shrine of Savras|DIP|11}.\""
+										"The Triboar Trail runs right through this abandoned town, which was sacked by barbarians years ago and now lies in ruins. A dirt road extending south of the town leads to a supposedly abandoned shrine dedicated to Savras (god of divination and fate). For more information on this location, see \"{@area Shrine of Savras|174|x}.\""
 									]
 								},
 								{
@@ -481,7 +481,7 @@
 											"page": 6,
 											"id": "026",
 											"entries": [
-												"Any monster or NPC that is likely to be involved in combat requires game statistics so that the DM can run it effectively. These statistics are presented in a format called a stat block. You'll find the stat blocks needed for this adventure in the \"{@adventure Creatures|DIP|16}\" section."
+												"Any monster or NPC that is likely to be involved in combat requires game statistics so that the DM can run it effectively. These statistics are presented in a format called a stat block. You'll find the stat blocks needed for this adventure in the \"{@area Creatures|1de|x}\" section."
 											]
 										},
 										{
@@ -828,7 +828,7 @@
 									"page": 8,
 									"id": "02e",
 									"entries": [
-										"The shelves of this general store stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. Barthen's doesn't stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp. (For prices, see {@book the rulebook|PHB}.) Characters in need of weapons or armor are directed to the Lionshield Coster. Those looking to buy {@item Potion of Healing||potions of healing} are urged to visit Adabra Gwynn at {@adventure Umbrage Hill|DIP|13} (see the \"{@area Potions of Healing|035|x}\" sidebar).",
+										"The shelves of this general store stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. Barthen's doesn't stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp. (For prices, see {@book the rulebook|PHB}.) Characters in need of weapons or armor are directed to the Lionshield Coster. Those looking to buy {@item Potion of Healing||potions of healing} are urged to visit Adabra Gwynn at {@area Umbrage Hill|19f|x} (see the \"{@area Potions of Healing|035|x}\" sidebar).",
 										"The proprietor, Elmar Barthen, is a lean and balding human man of fifty years. He employs a couple of young clerks (Ander and Thistle) who help load and unload wagons, and who wait on customers when Barthen isn't around. Characters who engage Barthen, Ander, or Thistle in friendly conversation are told a tale. Roll a {@dice d6} and consult the Phandalin Tales table, or pick a tale the characters haven't heard yet."
 									]
 								},
@@ -881,7 +881,7 @@
 												],
 												[
 													"2",
-													"\"As the Triboar Trail runs east, it passes through the ruins of Conyberry, a town sacked by barbarians years ago. There's a ruined temple south of Conyberry where it's said the locals hid their gold.\" (If the characters visit the temple, see \"{@adventure Shrine of Savras|DIP|11}\" on page 38.)"
+													"\"As the Triboar Trail runs east, it passes through the ruins of Conyberry, a town sacked by barbarians years ago. There's a ruined temple south of Conyberry where it's said the locals hid their gold.\" (If the characters visit the temple, see \"{@area Shrine of Savras|174|x}\" on page 38.)"
 												],
 												[
 													"3",
@@ -889,11 +889,11 @@
 												],
 												[
 													"4",
-													"\"Falcon's Hunting Lodge is the only safe haven in Neverwinter Wood. It lies deep in the forest along a river's edge, and wealthy nobles venture there to hunt while under Falcon's protection. Falcon is a retired veteran of many wars, and it's said he'll offer free room and board to anyone who brings him a bottle of wine.\" (If the characters pay Falcon a visit, see \"{@adventure Falcon's Hunting Lodge|DIP|6}\" on page 24.)"
+													"\"Falcon's Hunting Lodge is the only safe haven in Neverwinter Wood. It lies deep in the forest along a river's edge, and wealthy nobles venture there to hunt while under Falcon's protection. Falcon is a retired veteran of many wars, and it's said he'll offer free room and board to anyone who brings him a bottle of wine.\" (If the characters pay Falcon a visit, see \"{@area Falcon's Hunting Lodge|0d4|x}\" on page 24.)"
 												],
 												[
 													"5",
-													"\"West of Phandalin, on the coast, is an old stone lighthouse. Ships are drawn to this gleaming tower like moths to a flame, and are doomed to crash upon its rocks. Their wrecks must be filled with treasure!\" (If the characters visit the lighthouse, see \"{@adventure Tower of Storms|DIP|12}\" on page 40.)"
+													"\"West of Phandalin, on the coast, is an old stone lighthouse. Ships are drawn to this gleaming tower like moths to a flame, and are doomed to crash upon its rocks. Their wrecks must be filled with treasure!\" (If the characters visit the lighthouse, see \"{@area Tower of Storms|186|x}\" on page 40.)"
 												],
 												[
 													"6",
@@ -927,7 +927,7 @@
 											"page": 9,
 											"id": "035",
 											"entries": [
-												"No place in Phandalin sells {@item Potion of Healing||potions of healing}. However, characters who wish to purchase one or more such potions can do so at the Umbrage Hill windmill, located a few miles south of Phandalin. The windmill is home to a midwife and acolyte of Chauntea (goddess of agriculture) named Adabra Gwynn. For more information on this location, see \"{@adventure Umbrage Hill|DIP|13}\"."
+												"No place in Phandalin sells {@item Potion of Healing||potions of healing}. However, characters who wish to purchase one or more such potions can do so at the Umbrage Hill windmill, located a few miles south of Phandalin. The windmill is home to a midwife and acolyte of Chauntea (goddess of agriculture) named Adabra Gwynn. For more information on this location, see \"{@area Umbrage Hill|19f|x}\"."
 											]
 										}
 									]
@@ -956,7 +956,7 @@
 											"page": 10,
 											"id": "038",
 											"entries": [
-												"This adventure encourages characters to explore locations marked on the DM's {@area map of the Sword Coast|00e|x}. When the characters embark on a journey to a location, flip to the section of this book that describes that location in detail. For example, if the players choose to undertake the Umbrage Hill Quest, go to the \"{@adventure Umbrage Hill|DIP|13}\" section. Each location includes an overview that briefly describes what characters can expect to find there. This overview is followed by information you'll need to run the encounters at that location.",
+												"This adventure encourages characters to explore locations marked on the DM's {@area map of the Sword Coast|00e|x}. When the characters embark on a journey to a location, flip to the section of this book that describes that location in detail. For example, if the players choose to undertake the Umbrage Hill Quest, go to the \"{@area Umbrage Hill|19f|x}\" section. Each location includes an overview that briefly describes what characters can expect to find there. This overview is followed by information you'll need to run the encounters at that location.",
 												{
 													"type": "entries",
 													"name": "Running Encounters",
@@ -964,7 +964,7 @@
 													"id": "039",
 													"entries": [
 														"This adventure describes what the characters see when they first arrive at a location, and what they'll discover as they explore it. The adventure also tells you how the location's inhabitants react to the characters' arrival.",
-														"No encounter has a predetermined outcome. For example, characters who explore {@adventure Umbrage Hill|DIP|13} are likely to encounter a {@creature manticore}. Although fighting the monster is always an option, characters might decide to negotiate with the manticore instead. Be flexible, particularly when dealing with intelligent monsters. If every encounter becomes a fight to the death, your players might get bored and miss out on some fun roleplaying opportunities. Whenever possible, reward players for being clever. For example, characters who disturb the ankhegs at the {@adventure Loggers' Camp|DIP|9} might be able to escape from the burrowing monsters by jumping in the nearby river. Similarly, characters who are willing to negotiate with the wererats in the {@adventure Mountain's Toe Gold Mine|DIP|10} might be able to forge a truce between the wererats and the miners, ending their conflict so that the mine can be reopened."
+														"No encounter has a predetermined outcome. For example, characters who explore {@area Umbrage Hill|19f|x} are likely to encounter a {@creature manticore}. Although fighting the monster is always an option, characters might decide to negotiate with the manticore instead. Be flexible, particularly when dealing with intelligent monsters. If every encounter becomes a fight to the death, your players might get bored and miss out on some fun roleplaying opportunities. Whenever possible, reward players for being clever. For example, characters who disturb the ankhegs at the {@area Loggers' Camp|144|x} might be able to escape from the burrowing monsters by jumping in the nearby river. Similarly, characters who are willing to negotiate with the wererats in the {@area Mountain's Toe Gold Mine|156|x} might be able to forge a truce between the wererats and the miners, ending their conflict so that the mine can be reopened."
 													]
 												}
 											]
@@ -987,9 +987,9 @@
 											"width": 849,
 											"height": 1000
 										},
-										"{@b Dwarven Excavation Quest}. \"Dwarf prospectors found ancient dwarven ruins in the mountains southwest of here, and have been working an archaeological dig seeking treasure and relics. They need to be warned that a white dragon has moved into the area. Take the warning to them, then return to Townmaster Harbin Wester to collect a reward of 50 gp.\" If the characters undertake this quest, see \"{@adventure Dwarven Excavation|DIP|5}.\"",
-										"{@b Gnomengarde Quest}. \"A clan of reclusive rock gnomes resides in a small network of caves in the mountains to the southeast. The gnomes of Gnomengarde are known for their magical inventions, and they might have something with which to defeat the dragon. Get whatever you can from them. If you bring back something useful and don't want to keep it for yourselves, Townmaster Harbin Wester will pay you 50 gp for it.\" If the characters undertake this quest, proceed with \"{@adventure Gnomengarde|DIP|7}.\"",
-										"{@b Umbrage Hill Quest}. \"The local midwife\u2014an acolyte of Chauntea named Adabra Gwynn\u2014lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming more common, it's not safe for her to be alone. Urge Adabra to return to Phandalin. Once she's safe, visit Townmaster Harbin Wester to claim a reward of 25 gp.\" If the characters undertake this quest, proceed with \"{@adventure Umbrage Hill|DIP|13}.\""
+										"{@b Dwarven Excavation Quest}. \"Dwarf prospectors found ancient dwarven ruins in the mountains southwest of here, and have been working an archaeological dig seeking treasure and relics. They need to be warned that a white dragon has moved into the area. Take the warning to them, then return to Townmaster Harbin Wester to collect a reward of 50 gp.\" If the characters undertake this quest, see \"{@area Dwarven Excavation|0ba|x}.\"",
+										"{@b Gnomengarde Quest}. \"A clan of reclusive rock gnomes resides in a small network of caves in the mountains to the southeast. The gnomes of Gnomengarde are known for their magical inventions, and they might have something with which to defeat the dragon. Get whatever you can from them. If you bring back something useful and don't want to keep it for yourselves, Townmaster Harbin Wester will pay you 50 gp for it.\" If the characters undertake this quest, proceed with \"{@area Gnomengarde|0f1|x}.\"",
+										"{@b Umbrage Hill Quest}. \"The local midwife\u2014an acolyte of Chauntea named Adabra Gwynn\u2014lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming more common, it's not safe for her to be alone. Urge Adabra to return to Phandalin. Once she's safe, visit Townmaster Harbin Wester to claim a reward of 25 gp.\" If the characters undertake this quest, proceed with \"{@area Umbrage Hill|19f|x}.\""
 									]
 								},
 								{
@@ -999,13 +999,13 @@
 									"id": "03b",
 									"entries": [
 										"After the characters complete two starting quests, the following three quests are added to the job board:",
-										"{@b Butterskull Ranch Quest}. \"Orcs have attacked Butterskull Ranch, five miles east of Conyberry along the Triboar Trail! Travel there with haste, assess the damage, and help any way you can. Ranch owner Alfonse \"Big Al\" Kalazorn is a retired sheriff who can reward you for your efforts. If he's dead, return to Townmaster Harbin Wester with proof of Kalazorn's demise to receive a reward of 100 gp.\" If the characters undertake this quest, proceed with \"{@adventure Butterskull Ranch|DIP|2}.\"",
-										"{@b Loggers' Camp Quest}. \"Deep in Neverwinter Wood, along the river that flows west toward Neverwinter, is a logging camp. Every two months, Phandalin delivers fresh supplies to the camp, which is run by the half-brother of Phandalin's townmaster, Harbin Wester. Barthen, the local provisioner, has prepared a new delivery. He needs someone to bear the supplies safely to the camp. Return to Harbin Wester with a notice of delivery signed by his half-brother, Tibor Wester, to claim your reward of 100 gp.\" If the characters undertake this quest, proceed with \"{@adventure Loggers' Camp|DIP|9}.\"",
-										"{@b Mountain's Toe Quest}. \"The Mountain's Toe Gold Mine lies fifteen miles northeast of Phandalin. The new overseer, {@creature Don-Jon Raskin|DIP}, just made the trip from Neverwinter to Phandalin and needs to be escorted to the mine. There's no telling what dangers lie between here and there. Once you deliver Raskin safe and sound, return to Townmaster Harbin Wester to collect a reward of 100 gp.\" If the characters undertake this quest, proceed with \"{@adventure Mountain's Toe Gold Mine|DIP|10}.\"",
+										"{@b Butterskull Ranch Quest}. \"Orcs have attacked Butterskull Ranch, five miles east of Conyberry along the Triboar Trail! Travel there with haste, assess the damage, and help any way you can. Ranch owner Alfonse \"Big Al\" Kalazorn is a retired sheriff who can reward you for your efforts. If he's dead, return to Townmaster Harbin Wester with proof of Kalazorn's demise to receive a reward of 100 gp.\" If the characters undertake this quest, proceed with \"{@area Butterskull Ranch|072|x}.\"",
+										"{@b Loggers' Camp Quest}. \"Deep in Neverwinter Wood, along the river that flows west toward Neverwinter, is a logging camp. Every two months, Phandalin delivers fresh supplies to the camp, which is run by the half-brother of Phandalin's townmaster, Harbin Wester. Barthen, the local provisioner, has prepared a new delivery. He needs someone to bear the supplies safely to the camp. Return to Harbin Wester with a notice of delivery signed by his half-brother, Tibor Wester, to claim your reward of 100 gp.\" If the characters undertake this quest, proceed with \"{@area Loggers' Camp|144|x}.\"",
+										"{@b Mountain's Toe Quest}. \"The Mountain's Toe Gold Mine lies fifteen miles northeast of Phandalin. The new overseer, {@creature Don-Jon Raskin|DIP}, just made the trip from Neverwinter to Phandalin and needs to be escorted to the mine. There's no telling what dangers lie between here and there. Once you deliver Raskin safe and sound, return to Townmaster Harbin Wester to collect a reward of 100 gp.\" If the characters undertake this quest, proceed with \"{@area Mountain's Toe Gold Mine|156|x}.\"",
 										"After the characters complete two follow-up quests, another three follow-up quests are added to the job board:",
-										"{@b Axeholm Quest}. \"Within a mountain fifteen miles south of Phandalin stands the ancient dwarven fortress of Axeholm, which has been sealed for years. If a dragon attack is imminent, the people of Phandalin might need to evacuate and take refuge in Axeholm. To that end, someone needs to open the fortress and make it safe for habitation. Once you accomplish these tasks, return to Townmaster Wester to collect a reward of 250 gp.\" If the characters undertake this quest, proceed with \"{@adventure Axeholm|DIP|1}.\"",
-										"{@b Dragon Barrow Quest}. \"The dragon that besets us is not the first to threaten this region. Between here and Neverwinter lies the barrow mound of a warrior whose magical dragon-slaying sword helped fell a green dragon terrorizing the High Road a century ago. Rumor has it the {@item dragon slayer} sword is buried there too. Retrieve it, and let the sword be its own reward!\" If the characters undertake this quest, proceed with \"{@adventure Dragon Barrow|DIP|4}.\"",
-										"{@b Woodland Manse Quest}. \"The orcs have fallen under the sway of evil spellcasters in Neverwinter Wood, and have been sighted in growing numbers near Falcon's Hunting Lodge. The spellcasters dwell in a ruined manse. Falcon needs someone to make a preemptive strike against it. Destroy the evil in the manse, then expect him to reward you.\" If the characters undertake this quest, run \"{@adventure Falcon's Hunting Lodge|DIP|6}\" followed by \"{@adventure Woodland Manse|DIP|14}.\""
+										"{@b Axeholm Quest}. \"Within a mountain fifteen miles south of Phandalin stands the ancient dwarven fortress of Axeholm, which has been sealed for years. If a dragon attack is imminent, the people of Phandalin might need to evacuate and take refuge in Axeholm. To that end, someone needs to open the fortress and make it safe for habitation. Once you accomplish these tasks, return to Townmaster Wester to collect a reward of 250 gp.\" If the characters undertake this quest, proceed with \"{@area Axeholm|03e|x}.\"",
+										"{@b Dragon Barrow Quest}. \"The dragon that besets us is not the first to threaten this region. Between here and Neverwinter lies the barrow mound of a warrior whose magical dragon-slaying sword helped fell a green dragon terrorizing the High Road a century ago. Rumor has it the {@item dragon slayer} sword is buried there too. Retrieve it, and let the sword be its own reward!\" If the characters undertake this quest, proceed with \"{@area Dragon Barrow|0a3|x}.\"",
+										"{@b Woodland Manse Quest}. \"The orcs have fallen under the sway of evil spellcasters in Neverwinter Wood, and have been sighted in growing numbers near Falcon's Hunting Lodge. The spellcasters dwell in a ruined manse. Falcon needs someone to make a preemptive strike against it. Destroy the evil in the manse, then expect him to reward you.\" If the characters undertake this quest, run \"{@area Falcon's Hunting Lodge|0d4|x}\" followed by \"{@area Woodland Manse|1a8|x}.\""
 									]
 								}
 							]
@@ -1046,11 +1046,11 @@
 									"rows": [
 										[
 											"1",
-											"{@adventure Axeholm|DIP|1}"
+											"{@area Axeholm|03e|x}"
 										],
 										[
 											"2",
-											"{@adventure Butterskull Ranch|DIP|2}"
+											"{@area Butterskull Ranch|072|x}"
 										],
 										[
 											"3",
@@ -1058,19 +1058,19 @@
 										],
 										[
 											"4",
-											"{@adventure Dragon Barrow|DIP|4}"
+											"{@area Dragon Barrow|0a3|x}"
 										],
 										[
 											"5",
-											"{@adventure Dwarven Excavation|DIP|5}"
+											"{@area Dwarven Excavation|0ba|x}"
 										],
 										[
 											"6",
-											"{@adventure Falcon's Hunting Lodge|DIP|6}"
+											"{@area Falcon's Hunting Lodge|0d4|x}"
 										],
 										[
 											"7",
-											"{@adventure Gnomengarde|DIP|7}"
+											"{@area Gnomengarde|0f1|x}"
 										],
 										[
 											"8",
@@ -1078,7 +1078,7 @@
 										],
 										[
 											"9",
-											"{@adventure Icespire Hold|DIP|8}"
+											"{@area Icespire Hold|114|x}"
 										],
 										[
 											"10",
@@ -1086,11 +1086,11 @@
 										],
 										[
 											"11",
-											"{@adventure Loggers' Camp|DIP|9}"
+											"{@area Loggers' Camp|144|x}"
 										],
 										[
 											"12",
-											"{@adventure Mountain's Toe Gold Mine|DIP|10}"
+											"{@area Mountain's Toe Gold Mine|156|x}"
 										],
 										[
 											"13",
@@ -1102,7 +1102,7 @@
 										],
 										[
 											"15",
-											"{@adventure Shrine of Savras|DIP|11}"
+											"{@area Shrine of Savras|174|x}"
 										],
 										[
 											"16",
@@ -1110,7 +1110,7 @@
 										],
 										[
 											"17",
-											"{@adventure Tower of Storms|DIP|12}"
+											"{@area Tower of Storms|186|x}"
 										],
 										[
 											"18",
@@ -1118,11 +1118,11 @@
 										],
 										[
 											"19",
-											"{@adventure Umbrage Hill|DIP|13}"
+											"{@area Umbrage Hill|19f|x}"
 										],
 										[
 											"20",
-											"{@adventure Woodland Manse|DIP|14}"
+											"{@area Woodland Manse|1a8|x}"
 										]
 									],
 									"colStyles": [
@@ -5837,7 +5837,7 @@
 			"id": "089",
 			"entries": [
 				"\"Circle of Thunder\" is balanced for characters of 6th level, though characters of 4th or 5th level can weather its challenges if they are cautious.",
-				"No quest leads the party to this location. However, characters who brave {@adventure Dragon Barrow|DIP|4} might come here with Xanth the {@creature centaur}, while those who raid the {@adventure Woodland Manse|DIP|14} might be led here by Grannoc's map. In the aftermath of the counterattack on Falcon's Hunting Lodge (see \"Counterattack!\" on page 47), characters can follow Gorthok's trail back to the Circle of Thunder, where that creature was summoned.",
+				"No quest leads the party to this location. However, characters who brave {@area Dragon Barrow|0a3|x} might come here with Xanth the {@creature centaur}, while those who raid the {@area Woodland Manse|1a8|x} might be led here by Grannoc's map. In the aftermath of the counterattack on Falcon's Hunting Lodge (see \"Counterattack!\" on page 47), characters can follow Gorthok's trail back to the Circle of Thunder, where that creature was summoned.",
 				{
 					"type": "section",
 					"name": "Location Overview",
@@ -5976,7 +5976,7 @@
 					"page": 19,
 					"id": "099",
 					"entries": [
-						"Characters coming from the {@adventure Woodland Manse|DIP|14} approach the Circle of Thunder from the south. Describe the location to the players as follows:",
+						"Characters coming from the {@area Woodland Manse|1a8|x} approach the Circle of Thunder from the south. Describe the location to the players as follows:",
 						{
 							"type": "insetReadaloud",
 							"id": "09a",
@@ -6983,7 +6983,7 @@
 										"\"Neverwinter Wood has become overrun with orcs in league with half-orc spellcasters. Deep in the forest, atop a cave-riddled hill, is a circle of standing stones where the evil half-orcs perform their dark rites.\""
 									]
 								},
-								"Xanth avoids Dragon Barrow and would like to see the evil half-orc spellcasters of Neverwinter Wood driven off or killed. He offers to guide characters to the {@adventure Circle of Thunder|DIP|3} if they wish to take on the half-orcs there, and is willing to wait until the characters are done exploring the barrow. The Circle of Thunder is roughly 40 miles away, deep within the forest.",
+								"Xanth avoids Dragon Barrow and would like to see the evil half-orc spellcasters of Neverwinter Wood driven off or killed. He offers to guide characters to the {@area Circle of Thunder|089|x} if they wish to take on the half-orcs there, and is willing to wait until the characters are done exploring the barrow. The Circle of Thunder is roughly 40 miles away, deep within the forest.",
 								{
 									"type": "inset",
 									"name": "Catacombs Features",
@@ -7048,7 +7048,7 @@
 							]
 						},
 						"Characters who climb to the top of the barrow and survey it notice its distinctive dragon-like shape with a successful {@dc 10} Wisdom ({@skill Insight}) check. The pale rocks resemble spikes protruding from the dragon's back.",
-						"At night, the {@creature Will-o'-Wisp||will-o'-wisps} in {@adventure area D2|DIP|4|D2. Will-o'-Wisps} emerge from the hill using their Incorporeal Movement and float above the barrow, hoping to attract prey with their lights. If they detect characters nearby, the will-o'-wisps turn {@condition invisible} and withdraw into the barrow.",
+						"At night, the {@creature Will-o'-Wisp||will-o'-wisps} in {@area area D2|0b1|x} emerge from the hill using their Incorporeal Movement and float above the barrow, hoping to attract prey with their lights. If they detect characters nearby, the will-o'-wisps turn {@condition invisible} and withdraw into the barrow.",
 						{
 							"type": "entries",
 							"name": "Barrow Locations",
@@ -13612,7 +13612,7 @@
 					"page": 30,
 					"id": "11c",
 					"entries": [
-						"Icespire Hold is so tucked away in the mountains that few people know of its existence, let alone anything about its history or current state. Characters might learn of it after experiencing a vision at the {@adventure Shrine of Savras|DIP|11}, or they might search for it on their own. In the latter case, let the players use the poster map of the Sword Coast to plot a search. Icespire Hold is marked on the DM's map ({@area below|124|x}). Characters spot Icespire Hold if they come within 1 hex of it.",
+						"Icespire Hold is so tucked away in the mountains that few people know of its existence, let alone anything about its history or current state. Characters might learn of it after experiencing a vision at the {@area Shrine of Savras|174|x}, or they might search for it on their own. In the latter case, let the players use the poster map of the Sword Coast to plot a search. Icespire Hold is marked on the DM's map ({@area below|124|x}). Characters spot Icespire Hold if they come within 1 hex of it.",
 						"If the characters are ready to confront the dragon but need help finding its lair, use one of the following hooks to get them to Icespire Hold:",
 						"{@b Captured Orc}. A dozen {@creature Orc||orcs} attack Phandalin. If the characters are not present during the attack, the townsfolk repel the orcs but suffer losses. One wounded orc is captured alive. This orc speaks Common and knows where the dragon's lair is. The characters can also capture an orc themselves and get the information they need from it.",
 						"{@b Tymora's Luck}. A sidekick or friendly NPC suggests that the characters pray for Tymora's blessing at the {@area Shrine of Luck|032|x}. If one or more characters do so, Tymora's blessing comes after a long rest when a mysterious, cloaked man arrives in town on a {@creature riding horse} to gather supplies for his companions. The man's name is Dobin Noreth, a neutral evil member of the Stone-Cold Reavers (see the {@area sidebar|128|x}). Both he and the horse know the way to the dragon's lair, having come from there. Dobin's steed is a retired, well-behaved race horse named Four-Leaf Clover."
@@ -16858,7 +16858,7 @@
 							]
 						},
 						"The ox (use the {@creature cow|VGM} stat block) is a reliable beast. Each full crate holds enough provisions to sustain twelve people for a month, as long as the supplies are supplemented with fish and fresh water from the camp.",
-						"If the characters tell Barthen that they intend to visit {@adventure Falcon's Hunting Lodge|DIP|6} on the way, Barthen suggests they buy a bottle of fine wine (10 gp) and give it to Falcon as a gift."
+						"If the characters tell Barthen that they intend to visit {@area Falcon's Hunting Lodge|0d4|x} on the way, Barthen suggests they buy a bottle of fine wine (10 gp) and give it to Falcon as a gift."
 					]
 				},
 				{
@@ -16883,7 +16883,7 @@
 										"About sixty feet ahead of you, a wild boar stands in a small clearing. The boar glares at you suspiciously."
 									]
 								},
-								"The boar is actually a female {@creature anchorite of Talos|DIP} in boar form. The anchorite, Drethna, attacks only in self-defense. If the characters circle around the boar or otherwise avoid a confrontation, they can continue on their way. If the boar is spared, it darts off to warn the anchorites at the {@adventure Woodland Manse|DIP|14} that strangers have entered the forest."
+								"The boar is actually a female {@creature anchorite of Talos|DIP} in boar form. The anchorite, Drethna, attacks only in self-defense. If the characters circle around the boar or otherwise avoid a confrontation, they can continue on their way. If the boar is spared, it darts off to warn the anchorites at the {@area Woodland Manse|1a8|x} that strangers have entered the forest."
 							]
 						}
 					]
@@ -16894,7 +16894,7 @@
 					"page": 34,
 					"id": "14c",
 					"entries": [
-						"If the characters follow the river from {@adventure Falcon's Hunting Lodge|DIP|6}, they arrive from the east. If they come straight from {@area Phandalin|02c|x}, they approach from the south. When they arrive, read the following boxed text aloud:",
+						"If the characters follow the river from {@area Falcon's Hunting Lodge|0d4|x}, they arrive from the east. If they come straight from {@area Phandalin|02c|x}, they approach from the south. When they arrive, read the following boxed text aloud:",
 						{
 							"type": "insetReadaloud",
 							"id": "14d",
@@ -19623,7 +19623,7 @@
 									"id": "167",
 									"entries": [
 										"Scattered about this cave are pickaxes, shovels, and other mining tools. The northeast section contains four {@creature Giant Rat||giant rats}. The southwest section contains {@creature Wererat||wererats} in human form: one male wererat for each party member (including {@creature Don-Jon Raskin|DIP} but not sidekicks) plus a female wererat named Zeleen Varnaster\u2014the leader of the Whiskered Gang. If Zeleen dies, another wererat takes over as leader as long as any of them survive.",
-										"The wererats invaded the mine after orcs pushed them out of their previous lair\u2014an old shrine near {@area Conyberry|00f|x} (see \"{@adventure Shrine of Savras|DIP|11}\"). The wererats say they'll go back to their old lair if the characters get rid of the orcs at the shrine, but this is a only a ploy. The wererats have no intention of abandoning the mine.",
+										"The wererats invaded the mine after orcs pushed them out of their previous lair\u2014an old shrine near {@area Conyberry|00f|x} (see \"{@area Shrine of Savras|174|x}\"). The wererats say they'll go back to their old lair if the characters get rid of the orcs at the shrine, but this is a only a ploy. The wererats have no intention of abandoning the mine.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -19746,7 +19746,7 @@
 			"page": 38,
 			"id": "174",
 			"entries": [
-				"\"Shrine of Savras\" is balanced for characters of 1st to 6th level. This location is not connected to any quest, though one of the entries in the Phandalin Tales table might lure adventurers here. Characters might also visit the shrine after hearing of it from the wererats in the {@adventure Mountain's Toe Gold Mine|DIP|10}.",
+				"\"Shrine of Savras\" is balanced for characters of 1st to 6th level. This location is not connected to any quest, though one of the entries in the Phandalin Tales table might lure adventurers here. Characters might also visit the shrine after hearing of it from the wererats in the {@area Mountain's Toe Gold Mine|156|x}.",
 				{
 					"type": "section",
 					"name": "Location Overview",
@@ -20579,7 +20579,7 @@
 												"Six stone pillars brace the vaulted ceiling of this temple, the floor of which is buried under a thick layer of dust. Also covered in dust are four humanoid skeletons in tattered priestly vestments, lying near a stone altar situated in an alcove under four narrow windows. Carved into the front of the altar is a humanoid eye."
 											]
 										},
-										"A {@spell detect magic} spell reveals an aura of divination magic around the altar. If Cryovain has been slain, nothing happens when a character touches the altar. Otherwise, any character touching the altar experiences a vision lasting 1 minute, during which time the character is {@condition incapacitated}. In the vision, the character floats through the roof of the shrine, soars toward {@adventure Icespire Hold|DIP|8}, and sees the {@creature Young White Dragon||white dragon} asleep on the fortress's rooftop. (The divination power of the altar is effectively telling the characters where they must go to defeat the dragon.) A character receives this vision only once. Nothing happens to a character who touches the altar a second time.",
+										"A {@spell detect magic} spell reveals an aura of divination magic around the altar. If Cryovain has been slain, nothing happens when a character touches the altar. Otherwise, any character touching the altar experiences a vision lasting 1 minute, during which time the character is {@condition incapacitated}. In the vision, the character floats through the roof of the shrine, soars toward {@area Icespire Hold|114|x}, and sees the {@creature Young White Dragon||white dragon} asleep on the fortress's rooftop. (The divination power of the altar is effectively telling the characters where they must go to defeat the dragon.) A character receives this vision only once. Nothing happens to a character who touches the altar a second time.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -22395,14 +22395,14 @@
 					"id": "1a9",
 					"entries": [
 						"Many years ago, a half-elf wizard interested in the exploration of ancient elven ruins built a stone house in Neverwinter Wood, not far from several ruins that piqued her interest. In the course of her explorations, the wizard disappeared, and the protective magical wards on her home expired. The house fell into disrepair, then eventually into ruin. Ivy has all but engulfed it in the years since.",
-						"Recently, a half-orc {@creature anchorite of Talos|DIP} named Grannoc took over the ruined house and planted seeds at the bottom of its well. From these seeds, a malignant tree grew to fill the well and began spawning evil plant monsters called blights (see \"{@area Blights|20a|x}\" in the {@adventure Creatures|DIP|16} chapter). The blights obey Grannoc, who uses them to defend his woodland manse and kill trespassers within the forest.",
+						"Recently, a half-orc {@creature anchorite of Talos|DIP} named Grannoc took over the ruined house and planted seeds at the bottom of its well. From these seeds, a malignant tree grew to fill the well and began spawning evil plant monsters called blights (see \"{@area Blights|20a|x}\" in the {@area Creatures|1de|x} chapter). The blights obey Grannoc, who uses them to defend his woodland manse and kill trespassers within the forest.",
 						{
 							"type": "entries",
 							"name": "Quest Goals",
 							"page": 44,
 							"id": "1aa",
 							"entries": [
-								"To complete the {@area Woodland Manse Quest|03b|x}, the adventurers must eradicate the evil dwelling in and around the manse. Their reward awaits them at {@adventure Falcon's Hunting Lodge|DIP|6}."
+								"To complete the {@area Woodland Manse Quest|03b|x}, the adventurers must eradicate the evil dwelling in and around the manse. Their reward awaits them at {@area Falcon's Hunting Lodge|0d4|x}."
 							]
 						}
 					]
@@ -22413,7 +22413,7 @@
 					"page": 44,
 					"id": "1ab",
 					"entries": [
-						"Characters who come here from {@adventure Falcon's Hunting Lodge|DIP|6} arrive from the west. Those coming from the {@adventure Circle of Thunder|DIP|3} arrive from the north.",
+						"Characters who come here from {@area Falcon's Hunting Lodge|0d4|x} arrive from the west. Those coming from the {@area Circle of Thunder|089|x} arrive from the north.",
 						{
 							"type": "inset",
 							"name": "Woodland Manse Features",
@@ -22476,7 +22476,7 @@
 								"Following a trail through the woods, you come to a foggy clearing, in the midst of which stands a crumbling two-story manse all but hidden beneath thorny ivy. The large house is set atop a six-foot-high stone foundation, and the main entrance has a balcony above it. Pumpkins grow wild in patches around the manse, with several wild boars feeding among them. The boars snort with contempt as you draw near."
 							]
 						},
-						"The trail heading north off the map leads to the {@adventure Circle of Thunder|DIP|3}. The trail heading west leads to {@adventure Falcon's Hunting Lodge|DIP|6}.",
+						"The trail heading north off the map leads to the {@area Circle of Thunder|089|x}. The trail heading west leads to {@area Falcon's Hunting Lodge|0d4|x}.",
 						{
 							"type": "entries",
 							"name": "Woodland Manse Locations",
@@ -24516,7 +24516,7 @@
 											"page": 46,
 											"id": "1c9",
 											"entries": [
-												"Grannoc has a map scrawled on the torn-off flap of a leather satchel. It shows Neverwinter Wood and marks the location of the {@adventure Circle of Thunder|DIP|3}."
+												"Grannoc has a map scrawled on the torn-off flap of a leather satchel. It shows Neverwinter Wood and marks the location of the {@area Circle of Thunder|089|x}."
 											]
 										}
 									]
@@ -24614,7 +24614,7 @@
 											]
 										},
 										"The wooden staircase that leads downstairs is trapped (see {@area area W3|1b8|x}).",
-										"The head mounted above the fireplace is that of an {@creature ankheg} (see \"{@area Ankheg|208|x}\" in the {@adventure Creatures|DIP|16} chapter for an illustration).",
+										"The head mounted above the fireplace is that of an {@creature ankheg} (see \"{@area Ankheg|208|x}\" in the {@area Creatures|1de|x} chapter for an illustration).",
 										"The hallway leading to {@area area W12|1ce|x} is dark. {@creature Stirge||Stirges} hang from the rafters here\u2014three stirges per party member, not including sidekicks (maximum twelve stirges). The hungry stirges attack any warm-blooded creature that enters the area."
 									]
 								},
@@ -24651,7 +24651,7 @@
 									"page": 47,
 									"id": "1d8",
 									"entries": [
-										"This room has been claimed by hostile {@creature Orc||orcs} in league with Grannoc. Four orcs are here, plus an additional orc for each character in the party, not including sidekicks. The orcs are sharpening their weapons in anticipation of an attack on {@adventure Falcon's Hunting Lodge|DIP|6}. The orcs have destroyed this room's once-fine furnishings, leaving nothing of value. A hole in the southwest corner of the floor leads to {@area area W9|1c4|x} below."
+										"This room has been claimed by hostile {@creature Orc||orcs} in league with Grannoc. Four orcs are here, plus an additional orc for each character in the party, not including sidekicks. The orcs are sharpening their weapons in anticipation of an attack on {@area Falcon's Hunting Lodge|0d4|x}. The orcs have destroyed this room's once-fine furnishings, leaving nothing of value. A hole in the southwest corner of the floor leads to {@area area W9|1c4|x} below."
 									]
 								}
 							]
@@ -24673,7 +24673,7 @@
 					"page": 47,
 					"id": "1da",
 					"entries": [
-						"The day after the characters attack the manse, dark clouds settle over Neverwinter Wood as the {@creature Anchorite of Talos|DIP|anchorites of Talos} stage a counterattack against {@adventure Falcon's Hunting Lodge|DIP|6}. {@creature Gorthok the Thunder Boar|DIP} smashes through the lodge's palisade, allowing twenty {@creature Orc||orcs} to storm the lodge.",
+						"The day after the characters attack the manse, dark clouds settle over Neverwinter Wood as the {@creature Anchorite of Talos|DIP|anchorites of Talos} stage a counterattack against {@area Falcon's Hunting Lodge|0d4|x}. {@creature Gorthok the Thunder Boar|DIP} smashes through the lodge's palisade, allowing twenty {@creature Orc||orcs} to storm the lodge.",
 						"If the characters aren't present when the lodge is attacked, Falcon and his servants flee on Falcon's riding horse and make their way to Phandalin, surrendering the lodge to the orcs."
 					]
 				}
@@ -25328,7 +25328,7 @@
 							"page": 56,
 							"id": "214",
 							"entries": [
-								"Adventurers encounter {@creature Falcon the Hunter|DIP} if they visit his {@adventure hunting lodge|DIP|6} in Neverwinter Wood.",
+								"Adventurers encounter {@creature Falcon the Hunter|DIP} if they visit his {@area hunting lodge|0d4|x} in Neverwinter Wood.",
 								{
 									"type": "image",
 									"href": {

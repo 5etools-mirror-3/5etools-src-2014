@@ -101,87 +101,87 @@
 											],
 											"rows": [
 												[
-													"{@adventure The Joy of Extradimensional Spaces|CM|2}",
+													"{@area The Joy of Extradimensional Spaces|03d|x}",
 													"1",
 													"A book leads characters on a quest to find a missing sage."
 												],
 												[
-													"{@adventure Mazfroth's Mighty Digressions|CM|3}",
+													"{@area Mazfroth's Mighty Digressions|084|x}",
 													"2",
 													"A monstrous revelation sheds light on a book merchant's scam."
 												],
 												[
-													"{@adventure Book of the Raven|CM|4}",
+													"{@area Book of the Raven|0bf|x}",
 													"3",
 													"A treasure map tucked inside a book beckons adventurers to a remote hilltop chalet occupied by a secret society that shuns visitors."
 												],
 												[
-													"{@adventure A Deep and Creeping Darkness|CM|5}",
+													"{@area A Deep and Creeping Darkness|11e|x}",
 													"4",
 													"A book describing a mining disaster prompts adventurers to search for a missing town."
 												],
 												[
-													"{@adventure Shemshime's Bedtime Rhyme|CM|6}",
+													"{@area Shemshime's Bedtime Rhyme|17e|x}",
 													"4",
 													"A catchy and contagious rhyme traces back to a sinister clockwork book."
 												],
 												[
-													"{@adventure The Price of Beauty|CM|7}",
+													"{@area The Price of Beauty|1f0|x}",
 													"5",
 													"A book about beauty shows the way to a secluded temple where beauty is only skin deep."
 												],
 												[
-													"{@adventure Book of Cylinders|CM|8}",
+													"{@area Book of Cylinders|24f|x}",
 													"6",
 													"Engraved cylinders contained within a book tell a gripping and portentous tale when rolled across wet clay."
 												],
 												[
-													"{@adventure Sarah of Yellowcrest Manor|CM|9}",
+													"{@area Sarah of Yellowcrest Manor|278|x}",
 													"7",
 													"A haunted book points a ghostly finger at the perpetrators of an unsolved mass killing in Waterdeep."
 												],
 												[
-													"{@adventure Lore of Lurue|CM|10}",
+													"{@area Lore of Lurue|2db|x}",
 													"8",
 													"Adventurers become immersed in a storybook conflict involving Lurue the Unicorn Queen and Malar the Beast Lord."
 												],
 												[
-													"{@adventure Kandlekeep Dekonstruktion|CM|11}",
+													"{@area Kandlekeep Dekonstruktion|304|x}",
 													"9",
 													"A stolen book leads adventurers to a tower in Candlekeep that is more than what it seems."
 												],
 												[
-													"{@adventure Zikran's Zephyrean Tome|CM|12}",
+													"{@area Zikran's Zephyrean Tome|360|x}",
 													"10",
 													"A djinni trapped in a book offers a {@spell wish} spell to adventurers who find a way to release him."
 												],
 												[
-													"{@adventure The Curious Tale of Wisteria Vale|CM|13}",
+													"{@area The Curious Tale of Wisteria Vale|39b|x}",
 													"11",
 													"A book holds the key to unlocking a bard's prison."
 												],
 												[
-													"{@adventure The Book of Inner Alchemy|CM|14}",
+													"{@area The Book of Inner Alchemy|3dc|x}",
 													"12",
 													"A search for the missing pages of a book puts adventurers in conflict with the monks of the Immortal Lotus."
 												],
 												[
-													"{@adventure The Canopic Being|CM|15}",
+													"{@area The Canopic Being|427|x}",
 													"13",
 													"A book brings several puzzling organ transplants to light."
 												],
 												[
-													"{@adventure The Scrivener's Tale|CM|16}",
+													"{@area The Scrivener's Tale|483|x}",
 													"14",
 													"A tome leaves its magical mark on the adventurers, dooming them unless they can find a way to remove it."
 												],
 												[
-													"{@adventure Alkazaar's Appendix|CM|17}",
+													"{@area Alkazaar's Appendix|4d7|x}",
 													"15",
 													"A book chronicles an unsolved mystery about a wandering stone golem in the desert."
 												],
 												[
-													"{@adventure Xanthoria|CM|18}",
+													"{@area Xanthoria|52a|x}",
 													"16",
 													"A fell grimoire helps adventurers end a fungal plague."
 												]
@@ -626,7 +626,7 @@
 									"id": "024",
 									"entries": [
 										"This three-story bunkhouse in the Court of Air provides seekers with a place to rest and store their gear. The rustic accommodations include both private rooms and common rooms. In addition to comfortable lodgings, the House of Rest offers guests peace and quiet. Noisy patrons are directed to the Hearth if they want to continue their revels.",
-										"The House of Rest can hold up to fifty guests comfortably. If more space is needed, extradimensional spaces are created using {@spell Mordenkainen's magnificent mansion} spells, the doorways to which are located at the ends of the upstairs hallways. Beneath the House of Rest is an extension of the library known as the Firefly Cellar (see \"{@adventure Shemshime's Bedtime Rhyme|CM|6}\" later in this book for details)."
+										"The House of Rest can hold up to fifty guests comfortably. If more space is needed, extradimensional spaces are created using {@spell Mordenkainen's magnificent mansion} spells, the doorways to which are located at the ends of the upstairs hallways. Beneath the House of Rest is an extension of the library known as the Firefly Cellar (see \"{@area Shemshime's Bedtime Rhyme|17e|x}\" later in this book for details)."
 									]
 								},
 								{
@@ -18157,8 +18157,8 @@
 							"page": 135,
 							"id": "355",
 							"entries": [
-								"If any of Stonky's skitterwidgets or their kiddywidget offspring were left to their own devices after the characters' excursion into the Barn Door, those constructs might become a problem for Candlekeep. Any pair of skitterwidgets\u2014including any left undestroyed in {@adventure area U6|CM|11|U6. Workshop}, which survive even if the Barn Door launches into space\u2014can mate and give birth to kiddywidgets. Those tiny constructs soon grow to be as big as their parents, and they can make kiddywidgets of their own in turn. If the construct population isn't culled, Candlekeep might one day be overrun by the creatures.",
-								"{@item Stonky's ring|CM} allows a character to control his original seven {@creature Skitterwidget|CM|skitterwidgets} (the four in {@area area U2|331|x} and the three in {@adventure area U6|CM|11|U6. Workshop}). No others, including the offspring of the original skitterwidgets, can be controlled using the ring. The Avowed permit skitterwidgets under the characters' control to remain in Candlekeep, but not in the Inner Ward. Stray skitterwidgets are eventually hunted down and destroyed."
+								"If any of Stonky's skitterwidgets or their kiddywidget offspring were left to their own devices after the characters' excursion into the Barn Door, those constructs might become a problem for Candlekeep. Any pair of skitterwidgets\u2014including any left undestroyed in {@area area U6|340|x}, which survive even if the Barn Door launches into space\u2014can mate and give birth to kiddywidgets. Those tiny constructs soon grow to be as big as their parents, and they can make kiddywidgets of their own in turn. If the construct population isn't culled, Candlekeep might one day be overrun by the creatures.",
+								"{@item Stonky's ring|CM} allows a character to control his original seven {@creature Skitterwidget|CM|skitterwidgets} (the four in {@area area U2|331|x} and the three in {@area area U6|340|x}). No others, including the offspring of the original skitterwidgets, can be controlled using the ring. The Avowed permit skitterwidgets under the characters' control to remain in Candlekeep, but not in the Inner Ward. Stray skitterwidgets are eventually hunted down and destroyed."
 							]
 						}
 					]
@@ -19913,7 +19913,7 @@
 									"page": 143,
 									"id": "381",
 									"entries": [
-										"The keep is haunted by the {@creature Cloud Giant Ghost|CM|ghosts of cloud giants} who perished long ago (see {@adventure the end of the adventure|CM|12} for the {@creature cloud giant ghost|CM} stat block). These ghosts are indifferent toward the characters until some action on the characters' part causes the ghosts to turn hostile. What actions cause the ghosts to turn hostile vary from one encounter to the next. Characters who are cautious can avoid combat with the ghosts by not doing anything to anger them."
+										"The keep is haunted by the {@creature Cloud Giant Ghost|CM|ghosts of cloud giants} who perished long ago (see {@area the end of the adventure|360|x} for the {@creature cloud giant ghost|CM} stat block). These ghosts are indifferent toward the characters until some action on the characters' part causes the ghosts to turn hostile. What actions cause the ghosts to turn hostile vary from one encounter to the next. Characters who are cautious can avoid combat with the ghosts by not doing anything to anger them."
 									]
 								}
 							]
@@ -22347,7 +22347,7 @@
 										"\"My apologies, seekers, but {@i The Book of Inner Alchemy} has been vandalized. This manual is said to grant untold power over life and death to anyone who can master its secrets... and last night, someone had the audacity to come into this sacred place and desecrate it!\""
 									]
 								},
-								"Though they might not understand the intricacies of the concepts in the book, the Avowed know that the stolen pages contain instructions for creating {@item gloves of soul catching|CM} (see the item's description {@adventure at the end of the adventure|CM|14}). They want the characters to retrieve the stolen pages so that, in addition to restoring the tome to its original state, a magic item of such power will never be created.",
+								"Though they might not understand the intricacies of the concepts in the book, the Avowed know that the stolen pages contain instructions for creating {@item gloves of soul catching|CM} (see the item's description {@area at the end of the adventure|3dc|x}). They want the characters to retrieve the stolen pages so that, in addition to restoring the tome to its original state, a magic item of such power will never be created.",
 								"The Avowed acolyte accompanies the characters to the Great Library to view where the attack and subsequent theft took place:",
 								{
 									"type": "insetReadaloud",
@@ -26619,7 +26619,7 @@
 					"entries": [
 						"Alkazaar was an adventurer of great renown. Tales proliferate about his daring and incredible discoveries across Faerûn. Knowing that the definitive collection of Alkazaar's adventures rests within the walls of Candlekeep is reason enough for an adventurer to seek out this legendary book and claim a cozy corner to read about the escapades of Alkazaar and his dungeon-delving companions. {@i Alkazaar's Thrilling Tales} is a hefty tome, but its smaller companion\u2014{@i Alkazaar's Appendix}\u2014contains the intriguing story of Alkazaar's one unfinished quest.",
 						"The Avowed in Candlekeep could bring {@i Alkazaar's Appendix} to the characters' attention and approach the characters (especially if the party has visited Candlekeep before) in hopes that they can complete Alkazaar's unfinished quest and perhaps procure for the library the fabled {@item Nether Scroll of Azumar|CM|Nether Scroll} that Alkazaar believed the golem once guarded.",
-						"Alternatively, an ogre named Little One (see the \"{@area Little One|029|x}\" sidebar in the \"{@adventure Candlekeep|CM|1}\" section earlier in this book) might approach the characters while they're relaxing in the Hearth and give them the books, thinking they might be intrigued by the tale of the lost golem.",
+						"Alternatively, an ogre named Little One (see the \"{@area Little One|029|x}\" sidebar in the \"{@area Candlekeep|008|x}\" section earlier in this book) might approach the characters while they're relaxing in the Hearth and give them the books, thinking they might be intrigued by the tale of the lost golem.",
 						{
 							"type": "entries",
 							"name": "Book Descriptions",
@@ -28705,7 +28705,7 @@
 										"Your guide does not return. Instead, you are greeted by a robed wood elf with brown hair and a plain face. In her hands, she holds a book so encrusted with lichen that its covers can barely be closed around its wrinkled pages. \"I believe you're looking for this,\" she says with a warm, bright smile. \"My name is Zelyth Lightleaf. I'm Candlekeep's foremost expert on this book and its author.\""
 									]
 								},
-								"A few months ago, Zelyth Lightleaf (neutral good wood elf {@creature sage|CM}; see the \"{@adventure Candlekeep|CM|1}\" section at {@area the front of the book|019|x} for her stat block) joined the Avowed, using the book as her entrance gift into the library. She found it in an abandoned satchel near a secluded cave system called the Lykortha Expanse, which is known among druids for its rare fungal growths. Zelyth assumed the book had been lost and took possession of it.",
+								"A few months ago, Zelyth Lightleaf (neutral good wood elf {@creature sage|CM}; see the \"{@area Candlekeep|008|x}\" section at {@area the front of the book|019|x} for her stat block) joined the Avowed, using the book as her entrance gift into the library. She found it in an abandoned satchel near a secluded cave system called the Lykortha Expanse, which is known among druids for its rare fungal growths. Zelyth assumed the book had been lost and took possession of it.",
 								"Quiet and unassuming, Zelyth concentrates on training new acolytes and tending to those in need, but she's aware of the fungal plague spreading like wildfire up and down the Sword Coast. She has been expecting someone to show up looking for the book.",
 								"Zelyth allows the characters to peruse the book and assures them it's safe to do so. (The lichen covering the book poses no danger.) She also shares the following information with the characters:",
 								{
@@ -31128,7 +31128,7 @@
 											"page": 222,
 											"id": "55e",
 											"entries": [
-												"Xanthoria's grove and the tunnel leading to it from {@adventure area L9|CM|18|L9. Cove of Experimentation} are warded against magical travel by creatures other than Xanthoria. Such creatures can't teleport into or out of this area or use planar travel to enter or leave it. Effects that allow teleportation or planar travel do function if the starting point and the destination are both within this area."
+												"Xanthoria's grove and the tunnel leading to it from {@area area L9|552|x} are warded against magical travel by creatures other than Xanthoria. Such creatures can't teleport into or out of this area or use planar travel to enter or leave it. Effects that allow teleportation or planar travel do function if the starting point and the destination are both within this area."
 											]
 										},
 										{

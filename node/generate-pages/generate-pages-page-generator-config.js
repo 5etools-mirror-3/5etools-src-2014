@@ -206,11 +206,7 @@ class _PageGeneratorLifegen extends PageGeneratorGeneric {
 		"lifegen",
 	];
 
-	_scriptsUtilsAdditional = [
-		"utils-generate.js",
-	];
-
-	_scripts = [
+	_scriptsModules = [
 		"lifegen.js",
 	];
 }
@@ -227,7 +223,6 @@ class _PageGeneratorLootgen extends PageGeneratorGeneric {
 	];
 
 	_scriptsUtilsAdditional = [
-		"utils-generate.js",
 		"filter-common.js",
 		"filter-items.js",
 		"filter-spells.js",

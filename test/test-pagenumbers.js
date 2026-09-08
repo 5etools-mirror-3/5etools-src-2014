@@ -89,8 +89,10 @@ const main = ({isModificationMode = false} = {}) => {
 					const data = json[prop];
 					if (!(data instanceof Array)) return;
 
-					const entsNoPage = data
-						.filter(ent => !isBlocklistedEntity({prop, ent}) && _isMissingPage({ent}));
+					const entsAllowed = data
+						.filter(ent => !isBlocklistedEntity({prop, ent}));
+					const entsNoPage = entsAllowed
+						.filter(ent => _isMissingPage({ent}));
 
 					if (entsNoPage.length && isModificationMode) {
 						console.log(`${file}:`);
@@ -111,6 +113,35 @@ const main = ({isModificationMode = false} = {}) => {
 							const page = rl.questionInt("  - Page = ");
 							if (page) {
 								it.page = page;
+								mods++;
+							}
+						});
+
+					const otherSourcesNoPageMetas = entsAllowed
+						.flatMap(ent => (ent.otherSources || [])
+							.map((otherSource, ix) => ({ent, otherSource, ix})))
+						.filter(({ent, otherSource}) => !isBlocklistedEntity({prop, ent: {...otherSource, name: ent.name}}))
+						.filter(({otherSource}) => _isMissingPage({ent: otherSource}));
+
+					if (otherSourcesNoPageMetas.length && isModificationMode) {
+						console.log(`${file}:`);
+						console.log(`\t${otherSourcesNoPageMetas.length} otherSources entr${otherSourcesNoPageMetas.length === 1 ? "y" : "ies"} missing page numbers`);
+					}
+
+					otherSourcesNoPageMetas
+						.forEach(({ent, otherSource, ix}) => {
+							const ident = `${prop.padEnd(20, " ")} ${otherSource.source.padEnd(32, " ")} ${ent.name.padEnd(48, " ")} "otherSources[${ix}]"`;
+
+							if (!isModificationMode) {
+								const list = (FILE_MAP[file] = FILE_MAP[file] || []);
+								list.push(ident);
+								return;
+							}
+
+							console.log(`  ${ident}`);
+							const page = rl.questionInt("  - Page = ");
+							if (page) {
+								otherSource.page = page;
 								mods++;
 							}
 						});

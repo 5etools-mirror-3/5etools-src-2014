@@ -54,7 +54,7 @@
 									"page": 4,
 									"id": "003",
 									"entries": [
-										"{@adventure The Lost City|QftIS|2} is an introductory adventure written to accompany the {@i Dungeons & Dragons Basic Set}. Lost in a desert, the characters stumble on the ruins of Cynidicea and its peculiar factions. Released in 1982, the adventure marks the first appearance of Zargon, a one-eyed elder evil once entombed beneath the Cynidicean ziggurat. The updated adventure is designed for 1st-level characters."
+										"{@area The Lost City|02b|x} is an introductory adventure written to accompany the {@i Dungeons & Dragons Basic Set}. Lost in a desert, the characters stumble on the ruins of Cynidicea and its peculiar factions. Released in 1982, the adventure marks the first appearance of Zargon, a one-eyed elder evil once entombed beneath the Cynidicean ziggurat. The updated adventure is designed for 1st-level characters."
 									]
 								},
 								{
@@ -63,7 +63,7 @@
 									"page": 4,
 									"id": "004",
 									"entries": [
-										"{@adventure When a Star Falls|QftIS|3} was the first adventure to bear a Union Jack flag on its cover in 1984. As with other adventures produced in the United Kingdom at the time, {@i When a Star Falls} has been praised for its crisp writing and strong plot, the events of which surround a fallen star and the groups that covet it. The updated adventure is designed for 4th-level characters."
+										"{@area When a Star Falls|13b|x} was the first adventure to bear a Union Jack flag on its cover in 1984. As with other adventures produced in the United Kingdom at the time, {@i When a Star Falls} has been praised for its crisp writing and strong plot, the events of which surround a fallen star and the groups that covet it. The updated adventure is designed for 4th-level characters."
 									]
 								},
 								{
@@ -72,7 +72,7 @@
 									"page": 4,
 									"id": "005",
 									"entries": [
-										"Inspired by the works of William Shakespeare, {@adventure Beyond the Crystal Cave|QftIS|4} takes characters to a timeless Feywild garden. A rarity for its time, the 1983 adventure emphasized noncombat encounters in an era of hack-and-slash dungeons. The updated adventure is designed for 6th-level characters."
+										"Inspired by the works of William Shakespeare, {@area Beyond the Crystal Cave|223|x} takes characters to a timeless Feywild garden. A rarity for its time, the 1983 adventure emphasized noncombat encounters in an era of hack-and-slash dungeons. The updated adventure is designed for 6th-level characters."
 									]
 								},
 								{
@@ -81,7 +81,7 @@
 									"page": 4,
 									"id": "006",
 									"entries": [
-										"{@adventure Pharaoh|QftIS|5} is the first adventure in the three-part {@i Desert of Desolation} series and was published in 1982. In this adventure, the ghost of a long-dead pharaoh beseeches the characters to delve his dangerous tomb and set his cursed soul free. The updated adventure is designed for 7th-level characters."
+										"{@area Pharaoh|2db|x} is the first adventure in the three-part {@i Desert of Desolation} series and was published in 1982. In this adventure, the ghost of a long-dead pharaoh beseeches the characters to delve his dangerous tomb and set his cursed soul free. The updated adventure is designed for 7th-level characters."
 									]
 								},
 								{
@@ -90,7 +90,7 @@
 									"page": 4,
 									"id": "007",
 									"entries": [
-										"{@adventure The Lost Caverns of Tsojcanth|QftIS|6} originally debuted under the title {@i The Lost Caverns of Tsojconth} as a tournament adventure for the 1976 Winter Con game convention. The full version of the adventure, which takes place in the former lair of the archmage Iggwilv, was published in 1982. The updated adventure is designed for 9th-level characters."
+										"{@area The Lost Caverns of Tsojcanth|3ce|x} originally debuted under the title {@i The Lost Caverns of Tsojconth} as a tournament adventure for the 1976 Winter Con game convention. The full version of the adventure, which takes place in the former lair of the archmage Iggwilv, was published in 1982. The updated adventure is designed for 9th-level characters."
 									]
 								},
 								{
@@ -99,7 +99,7 @@
 									"page": 4,
 									"id": "008",
 									"entries": [
-										"{@adventure Expedition to the Barrier Peaks|QftIS|7} threw fantasy gamers for a loop with its unexpected science fiction elements at the Origins game convention in 1976, where it first appeared as a tournament scenario. Used to introduce D&D players to the sci-fi game {@i Metamorphosis Alpha}, the adventure\u2014which involves a crashed spaceship, futuristic weaponry, and humorously malfunctioning robots\u2014became an instant classic. The updated adventure is designed for 11th-level characters."
+										"{@area Expedition to the Barrier Peaks|49a|x} threw fantasy gamers for a loop with its unexpected science fiction elements at the Origins game convention in 1976, where it first appeared as a tournament scenario. Used to introduce D&D players to the sci-fi game {@i Metamorphosis Alpha}, the adventure\u2014which involves a crashed spaceship, futuristic weaponry, and humorously malfunctioning robots\u2014became an instant classic. The updated adventure is designed for 11th-level characters."
 									]
 								}
 							]
@@ -111,7 +111,7 @@
 							"id": "009",
 							"entries": [
 								"The adventures in this book provide play across a broad range of levels. They can be strung together as a complete campaign using the Infinite Staircase to travel between them.",
-								"Starting with {@adventure The Lost City|QftIS|2}, guide your players through the adventures in the order presented in this book. Each one provides sufficient XP that, on completing the adventure, the characters should be high enough level to advance to the next quest. The adventures also present narrative milestones for {@book story-based level advancement|DMG|8|Level Advancement without XP} (see the {@book Dungeon Master's Guide|DMG}).",
+								"Starting with {@area The Lost City|02b|x}, guide your players through the adventures in the order presented in this book. Each one provides sufficient XP that, on completing the adventure, the characters should be high enough level to advance to the next quest. The adventures also present narrative milestones for {@book story-based level advancement|DMG|8|Level Advancement without XP} (see the {@book Dungeon Master's Guide|DMG}).",
 								"After each adventure, have the characters find a door to the Infinite Staircase. There, they cross paths with a cosmic quest-giver, the noble genie Nafas (detailed in {@area chapter 1|01c|x}), who sends them on their next journey. Because the staircase spans the multiverse, the adventures it can lead to are limitless, whether those tales come from this book or another."
 							]
 						},
@@ -710,7 +710,7 @@
 					"page": 12,
 					"id": "022",
 					"entries": [
-						"Nafas beckons weary travelers along the staircase to the Censer of Dreams, a bastion of respite in the continuous expanse. The Censer of Dreams is Nafas's lair. Regional effects for the palace are detailed in {@adventure appendix B|QftIS|9}.",
+						"Nafas beckons weary travelers along the staircase to the Censer of Dreams, a bastion of respite in the continuous expanse. The Censer of Dreams is Nafas's lair. Regional effects for the palace are detailed in {@area appendix B|5bf|x}.",
 						"Created by Nafas to shelter visitors from other planes, the Censer of Dreams is a testament to the noble genie's generosity and might. Many who stumble on the Infinite Staircase glimpse the djinni's luxurious residence at some point during their journeys. A nexus held aloft by dozens of branching staircases, the palace envelops its visitors in unimaginable comforts.",
 						"The Censer of Dreams is a wonder of aeolian architecture shaped by a being of pure wind. Massive, shutterless windows line the bulbous fortress, allowing the djinni and other flying creatures to flit through its airy halls unimpeded. Hewn from smooth marble and perfumed with floral fragrances, its grand chambers hum with the pleasing tones of magical chimes hung from lofty ceilings. Windcatchers rise from the top of the structure to capture the gusts that buffet the palace and the staircases around it at all hours. Suffused with the djinni's magic, these winds batter would-be invaders, sending them over the staircase's edge.",
 						{
@@ -901,7 +901,7 @@
 			"entries": [
 				"Lost in the desert, the last great remnant of a once-prosperous civilization rises from the dunes. Within this ziggurat await untold riches and the sunken city of Cynidicea\u2014along with unexpected challenges, deadly threats, and the fallen kingdom's desperate inhabitants.",
 				"Forsaken by the outside world, the Cynidiceans don elaborate masks and vie against each other in factions devoted to ancient gods. Meanwhile, an ageless evil of unknown origin lurks in the bowels of the dilapidated ziggurat. Called Zargon the Returner, the tentacled, one-eyed creature preys on the Cynidiceans even as they worship it as a god. To reclaim their former kingdom, the Cynidiceans must oust the eldritch abomination and its cultists.",
-				"\"The Lost City\" is designed for four to six 1st-level characters. If, on completing the adventure, you wish to extend it further, consult the \"{@adventure Extending the Adventure|QftIS|2|Extending the Adventure}\" section at the end of this chapter.",
+				"\"The Lost City\" is designed for four to six 1st-level characters. If, on completing the adventure, you wish to extend it further, consult the \"{@area Extending the Adventure|10d|x}\" section at the end of this chapter.",
 				{
 					"type": "image",
 					"href": {
@@ -1032,7 +1032,7 @@
 					"id": "032",
 					"entries": [
 						"\"The Lost City\" is a dungeon delve with a dose of intrigue. While in the desert, the characters discover a ruined ziggurat peeking over the dunes. Inside the monument, they encounter three bickering factions of Cynidiceans who seek to reinstate their once-proud kingdom. Characters can align with one or more factions, reaping the rewards of membership at the risk of ostracizing rival groups.",
-						"As the characters explore the ziggurat, they slowly uncover clues of the tragedy that befell Cynidicea and its people. While braving clever traps, evil cultists, and restless Undead, the characters might learn that Zargon, the one-eyed creature that caused Cynidicea's fall, still dwells beneath the monument. The party might even discover an entrance to the surviving Cynidiceans' underground city (see the \"{@adventure Extending the Adventure|QftIS|2|Extending the Adventure}\" section at the end of this adventure).",
+						"As the characters explore the ziggurat, they slowly uncover clues of the tragedy that befell Cynidicea and its people. While braving clever traps, evil cultists, and restless Undead, the characters might learn that Zargon, the one-eyed creature that caused Cynidicea's fall, still dwells beneath the monument. The party might even discover an entrance to the surviving Cynidiceans' underground city (see the \"{@area Extending the Adventure|10d|x}\" section at the end of this adventure).",
 						"The adventure concludes when the characters escape the ziggurat, either by returning to the desert or finding a door to the Infinite Staircase placed in a location of your choice.",
 						{
 							"type": "entries",
@@ -1058,7 +1058,7 @@
 										{
 											"type": "item",
 											"name": "Escaping the Ziggurat",
-											"entry": "The characters gain 1 level on completing the adventure, either by escaping the ziggurat or further exploring its depths (see the \"{@adventure Extending the Adventure|QftIS|2|Extending the Adventure}\" section)."
+											"entry": "The characters gain 1 level on completing the adventure, either by escaping the ziggurat or further exploring its depths (see the \"{@area Extending the Adventure|10d|x}\" section)."
 										}
 									]
 								},
@@ -7685,7 +7685,7 @@
 											"page": 50,
 											"id": "14b",
 											"entries": [
-												"Another corpse clutches a hastily drawn map of the Tegefed Mountains, marked with the locations of Cernant Valley and the Tower of the Heavens (see {@adventure map 3.1|QftIS|3|Map 3.1: Tegefed Mountains})."
+												"Another corpse clutches a hastily drawn map of the Tegefed Mountains, marked with the locations of Cernant Valley and the Tower of the Heavens (see {@area map 3.1|59e|x})."
 											]
 										}
 									]
@@ -8616,7 +8616,7 @@
 											"page": 55,
 											"id": "178",
 											"entries": [
-												"After 2 hours, Derwyth finishes her calculations. She tells the characters the shooting star fell in Therno Pass, a small region of the Tegefed Mountains inhabited by Aberrations called derro. All she knows about this group of derro is that they live underground, shun the light of day, and are feared for their ruthless attacks on nearby settlements. Derwyth marks the star's landing point on the characters' map; it corresponds with the location of the derro lair on {@adventure map 3.1|QftIS|3|Map 3.1: Tegefed Mountains}."
+												"After 2 hours, Derwyth finishes her calculations. She tells the characters the shooting star fell in Therno Pass, a small region of the Tegefed Mountains inhabited by Aberrations called derro. All she knows about this group of derro is that they live underground, shun the light of day, and are feared for their ruthless attacks on nearby settlements. Derwyth marks the star's landing point on the characters' map; it corresponds with the location of the derro lair on {@area map 3.1|59e|x}."
 											]
 										},
 										{
@@ -8666,7 +8666,7 @@
 											]
 										},
 										"The derro dug this 10-foot-deep ditch to get to the star. Only a broken pickaxe lies at the bottom of the ditch; the star is long gone.",
-										"Characters who survey the surrounding area easily notice two openings lower on the mountainside: a north-facing entrance of worked stone (to {@adventure area D1|QftIS|3|D1: Guardroom}) and a west-facing natural cave (to {@adventure area D2|QftIS|3|D2: Outer Cave})."
+										"Characters who survey the surrounding area easily notice two openings lower on the mountainside: a north-facing entrance of worked stone (to {@area area D1|180|x}) and a west-facing natural cave (to {@area area D2|183|x})."
 									]
 								}
 							]
@@ -9988,7 +9988,7 @@
 												"The walls of this rough-hewn chamber have been painted with broad, jagged lines of black and white. On the west side of the room, fragments of a black marble statue lie shattered on the floor. In the northeast corner of the room, four derro use hammers to clear rubble from a blocked passage. Four zombies accompany them, clawing mindlessly at the rubble."
 											]
 										},
-										"Four {@creature Derro Raider|QftIS|derro raiders} and four {@creature Zombie||zombies} attempt to clear a collapsed passage. They hope to eventually reach a tunnel leading down to the Underdark (see {@adventure area D10|QftIS|3|D10. Eastern Tunnel}) blocked by debris.",
+										"Four {@creature Derro Raider|QftIS|derro raiders} and four {@creature Zombie||zombies} attempt to clear a collapsed passage. They hope to eventually reach a tunnel leading down to the Underdark (see {@area area D10|19c|x}) blocked by debris.",
 										"The derro attack intruders on sight, eager to rob them. The zombies obey the derro's commands.",
 										{
 											"type": "entries",
@@ -10396,7 +10396,7 @@
 											"page": 60,
 											"id": "1a6",
 											"entries": [
-												"If Aspen trusts the party, she tasks them with a special quest. The derro have been dragging hunter corpses to their lair for an unknown purpose. Recently, the derro also pillaged one of the hunters' most precious trophies: a pair of large golden antlers. (The antlers can be found in {@adventure area D6|QftIS|3|D6: Stolen Goods} of the derro lair, which is detailed earlier in this adventure.)",
+												"If Aspen trusts the party, she tasks them with a special quest. The derro have been dragging hunter corpses to their lair for an unknown purpose. Recently, the derro also pillaged one of the hunters' most precious trophies: a pair of large golden antlers. (The antlers can be found in {@area area D6|18e|x} of the derro lair, which is detailed earlier in this adventure.)",
 												"If the characters learn what the derro do with the corpses and return the golden antlers to Therno Lake, Aspen gives the characters her pouch of pearls (see the \"Treasure\" section below)."
 											]
 										},
@@ -14512,7 +14512,7 @@
 							"page": 77,
 							"id": "225",
 							"entries": [
-								"If you're using {@creature Nafas|QftIS} as a patron, he summons the characters to the {@area Censer of Dreams|022|x} (detailed in {@adventure chapter 1|QftIS|1}), where he recounts the following wish:",
+								"If you're using {@creature Nafas|QftIS} as a patron, he summons the characters to the {@area Censer of Dreams|022|x} (detailed in {@area chapter 1|00c|x}), where he recounts the following wish:",
 								{
 									"type": "insetReadaloud",
 									"id": "226",
@@ -18933,7 +18933,7 @@
 							"page": 104,
 							"id": "2e0",
 							"entries": [
-								"If you're using {@creature Nafas|QftIS} as a patron, he summons the characters to the {@area Censer of Dreams|022|x} (detailed in {@adventure chapter 1|QftIS|1}), where he recounts the following wish:",
+								"If you're using {@creature Nafas|QftIS} as a patron, he summons the characters to the {@area Censer of Dreams|022|x} (detailed in {@area chapter 1|00c|x}), where he recounts the following wish:",
 								{
 									"type": "insetReadaloud",
 									"id": "2e1",
@@ -20871,7 +20871,7 @@
 									"page": 111,
 									"id": "31d",
 									"entries": [
-										"Sections of these hallways are filled with an orange mist (marked on {@adventure map 5.2|QftIS|5|Map 5.2: Maze of Mists}). The first time a character enters one of these misty areas, read or paraphrase the following text:",
+										"Sections of these hallways are filled with an orange mist (marked on {@area map 5.2|5a8|x}). The first time a character enters one of these misty areas, read or paraphrase the following text:",
 										{
 											"type": "insetReadaloud",
 											"id": "31e",
@@ -21598,7 +21598,7 @@
 												"Like a forest of narrow wooden poles, dozens of long spears protrude from holes in the floor toward this room's domed ceiling, which is encircled by a narrow ledge. The skeleton of a dwarf in chain mail is pinned to the ceiling. The dwarf's pack was ripped open by one of the spears, spilling a pile of jewels on the floor."
 											]
 										},
-										"Characters can pass through the room by hacking a path through the spears. The spears are easily felled, but doing so is noisy. Roll on the {@adventure Random Maze of Mist Encounters table|QftIS|5|Maze of Mists} (detailed earlier in this section) to determine what creatures arrive to investigate the noise.",
+										"Characters can pass through the room by hacking a path through the spears. The spears are easily felled, but doing so is noisy. Roll on the {@area Random Maze of Mist Encounters table|31a|x} (detailed earlier in this section) to determine what creatures arrive to investigate the noise.",
 										{
 											"type": "entries",
 											"name": "Secret Door",
@@ -25459,7 +25459,7 @@
 							"page": 129,
 							"id": "3d0",
 							"entries": [
-								"If you're using {@creature Nafas|QftIS} as a patron, he summons the characters to the {@area Censer of Dreams|022|x} (detailed in {@adventure chapter 1|QftIS|1}), where he recounts the following wish:",
+								"If you're using {@creature Nafas|QftIS} as a patron, he summons the characters to the {@area Censer of Dreams|022|x} (detailed in {@area chapter 1|00c|x}), where he recounts the following wish:",
 								{
 									"type": "insetReadaloud",
 									"id": "3d1",
@@ -30976,7 +30976,7 @@
 											]
 										},
 										"The boulders are obviously not a natural formation. Chossos (see {@area area L16|420|x}) piled them here to block the entrance to the greater caverns and prevent creatures that dwell there from taking him by surprise.",
-										"With 5 minutes of work, the characters can clear enough of the rocks to expose the tunnel beyond. There, a flight of nine hundred crudely shaped stone steps descends to {@area area G1|43e|x} of the {@adventure greater caverns|QftIS|6|Greater Caverns Features} (detailed later in this adventure).",
+										"With 5 minutes of work, the characters can clear enough of the rocks to expose the tunnel beyond. There, a flight of nine hundred crudely shaped stone steps descends to {@area area G1|43e|x} of the {@area greater caverns|43c|x} (detailed later in this adventure).",
 										{
 											"type": "entries",
 											"name": "Hollow Boulder",
@@ -37303,7 +37303,7 @@
 											]
 										},
 										"The remains of rotting mushrooms litter this chamber. Three {@creature Shambling Mound||shambling mounds} thrive amid the detritus. When the characters enter the cave, the creatures lurch out of the piles of filth and attack.",
-										"The stone giant in {@adventure area G14|QftIS|6|G14: Giant Lair} regularly tosses dead mushrooms in to feed the shambling mounds.",
+										"The stone giant in {@area area G14|47c|x} regularly tosses dead mushrooms in to feed the shambling mounds.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -37354,7 +37354,7 @@
 												"This cave is full of six-foot-tall mushrooms and other fungi growing in mounds of carefully spread compost."
 											]
 										},
-										"The fungus here is a food source for many of the greater caverns' creatures, including eight {@creature Shrieker||shriekers} that are currently feeding here. If the shriekers sound off, Zyzkathol and his giant beetles (see {@adventure area G14|QftIS|6|G14: Giant Lair}) come to investigate."
+										"The fungus here is a food source for many of the greater caverns' creatures, including eight {@creature Shrieker||shriekers} that are currently feeding here. If the shriekers sound off, Zyzkathol and his giant beetles (see {@area area G14|47c|x}) come to investigate."
 									]
 								},
 								{
@@ -38013,7 +38013,7 @@
 									"name": "Smoke grenade",
 									"tag": "item"
 								},
-								"Additional technological devices are provided in {@adventure appendix A|QftIS|8}. Many of these devices use {@item Energy Cell||energy cells} as ammunition or power sources. Energy cells found on the spaceship look like blue, coin-sized glass discs.",
+								"Additional technological devices are provided in {@area appendix A|598|x}. Many of these devices use {@item Energy Cell||energy cells} as ammunition or power sources. Energy cells found on the spaceship look like blue, coin-sized glass discs.",
 								"To simulate a character's ignorance about technology, determining how to use and reload these devices requires two successful Intelligence ({@skill Investigation}) checks (one to figure out how to use it, another to figure out how to load it). Each time a character makes a check, compare the result to the Figuring Out Alien Technology table. Consider having the item break if a character fails three or more times before taking a long rest.",
 								"A character who has seen an item used or has operated a similar item has advantage on checks made to determine how to use it.",
 								{
@@ -46780,7 +46780,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5c1"
 				},
 				{
 					"type": "section",
@@ -46804,7 +46805,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5c2"
 				},
 				{
 					"type": "section",
@@ -46828,7 +46830,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5c3"
 				},
 				{
 					"type": "section",
@@ -46852,7 +46855,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5c4"
 				},
 				{
 					"type": "section",
@@ -46876,7 +46880,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5c5"
 				},
 				{
 					"type": "section",
@@ -46900,7 +46905,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5c6"
 				},
 				{
 					"type": "section",
@@ -46924,7 +46930,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5c7"
 				},
 				{
 					"type": "section",
@@ -46948,7 +46955,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5c8"
 				},
 				{
 					"type": "section",
@@ -46972,7 +46980,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5c9"
 				},
 				{
 					"type": "section",
@@ -46996,7 +47005,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5ca"
 				},
 				{
 					"type": "section",
@@ -47020,7 +47030,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5cb"
 				},
 				{
 					"type": "section",
@@ -47044,7 +47055,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5cc"
 				},
 				{
 					"type": "section",
@@ -47068,7 +47080,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5cd"
 				},
 				{
 					"type": "section",
@@ -47092,7 +47105,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5ce"
 				},
 				{
 					"type": "section",
@@ -47116,7 +47130,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5cf"
 				},
 				{
 					"type": "section",
@@ -47140,7 +47155,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d0"
 				},
 				{
 					"type": "section",
@@ -47164,7 +47180,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d1"
 				},
 				{
 					"type": "section",
@@ -47188,7 +47205,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d2"
 				},
 				{
 					"type": "section",
@@ -47212,7 +47230,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d3"
 				},
 				{
 					"type": "section",
@@ -47236,7 +47255,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d4"
 				},
 				{
 					"type": "section",
@@ -47260,7 +47280,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d5"
 				},
 				{
 					"type": "section",
@@ -47284,7 +47305,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d6"
 				},
 				{
 					"type": "section",
@@ -47308,7 +47330,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d7"
 				},
 				{
 					"type": "section",
@@ -47332,7 +47355,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d8"
 				},
 				{
 					"type": "section",
@@ -47356,7 +47380,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5d9"
 				},
 				{
 					"type": "section",
@@ -47380,7 +47405,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5da"
 				},
 				{
 					"type": "section",
@@ -47404,7 +47430,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5db"
 				},
 				{
 					"type": "section",
@@ -47428,7 +47455,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5dc"
 				},
 				{
 					"type": "section",
@@ -47452,7 +47480,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5dd"
 				},
 				{
 					"type": "section",
@@ -47476,7 +47505,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5de"
 				},
 				{
 					"type": "section",
@@ -47500,7 +47530,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5df"
 				},
 				{
 					"type": "section",
@@ -47524,7 +47555,8 @@
 							"source": "QftIS",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5e0"
 				}
 			]
 		},

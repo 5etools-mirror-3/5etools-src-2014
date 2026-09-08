@@ -92,12 +92,12 @@
 												{
 													"type": "item",
 													"name": "Idiot",
-													"entry": "This card has been renamed Puzzle, inspiring the puzzles, riddles, and traps found in {@book chapter 4|BMT|3}."
+													"entry": "This card has been renamed Puzzle, inspiring the puzzles, riddles, and traps found in {@area chapter 4|038|x}."
 												},
 												{
 													"type": "item",
 													"name": "Vizier",
-													"entry": "This card has been renamed Sage, inspiring the character options, spells, and magic items in {@book chapter 7|BMT|6}."
+													"entry": "This card has been renamed Sage, inspiring the character options, spells, and magic items in {@area chapter 7|09a|x}."
 												}
 											]
 										}
@@ -121,11 +121,11 @@
 							"id": "009",
 							"entries": [
 								"The first five chapters provide tools for DMs:",
-								"{@book Chapter 1: Fool|BMT|0}. This chapter includes a history of the deck in D&D\u2014illustrating both the deck's importance and its ever-changing nature\u2014and a summary of the book's contents.",
-								"{@book Chapter 2: Key|BMT|1}. This vital chapter advises you on introducing the deck and using it in a campaign without breaking your game!",
-								"{@book Chapter 3: Balance|BMT|2}. Cards, including {@item Deck of Many Things||The Deck of Many Things} card set, can be used as a unique randomizer, generating nonplayer characters, personality traits, encounters, and more; this chapter shows you how.",
-								"{@book Chapter 4: Puzzle|BMT|3}. This chapter presents puzzles, riddles, and traps inspired by the deck as well as advice on how to use them in your campaign.",
-								"{@book Chapter 5: Gem|BMT|4}. The twenty-two new magic items in this chapter were each inspired by a card from the {@item Deck of Many Things}."
+								"{@area Chapter 1: Fool|000|x}. This chapter includes a history of the deck in D&D\u2014illustrating both the deck's importance and its ever-changing nature\u2014and a summary of the book's contents.",
+								"{@area Chapter 2: Key|010|x}. This vital chapter advises you on introducing the deck and using it in a campaign without breaking your game!",
+								"{@area Chapter 3: Balance|01a|x}. Cards, including {@item Deck of Many Things||The Deck of Many Things} card set, can be used as a unique randomizer, generating nonplayer characters, personality traits, encounters, and more; this chapter shows you how.",
+								"{@area Chapter 4: Puzzle|038|x}. This chapter presents puzzles, riddles, and traps inspired by the deck as well as advice on how to use them in your campaign.",
+								"{@area Chapter 5: Gem|064|x}. The twenty-two new magic items in this chapter were each inspired by a card from the {@item Deck of Many Things}."
 							]
 						},
 						{
@@ -135,10 +135,10 @@
 							"id": "00a",
 							"entries": [
 								"Next are four chapters of character-focused content:",
-								"{@book Chapter 6: Rogue|BMT|5}. This chapter provides advice and new magic items suited to bards, rangers, rogues, and other characters who prioritize their skills. The \"{@book Rogues' Gallery|BMT|5|Rogues' Gallery}\" section presents treacherous adversaries for when a player draws the Rogue card from the deck.",
-								"{@book Chapter 7: Sage|BMT|6}. This chapter focuses on sorcerers, warlocks, wizards, and other characters who wield arcane magic. It includes the new Cartomancer feat, new spells, and the {@item Deck of Many More Things|BMT}: the cards added to the {@item Deck of Many Things} over the centuries by mortal spellcasters.",
-								"{@book Chapter 8: Fates|BMT|7}. New backgrounds in this chapter describe characters whose lives have been transformed by the {@item Deck of Many Things} or a similar effect. This chapter also includes character creation advice and magic items appropriate for clerics, druids, paladins, and other characters with a connection to the divine.",
-								"{@book Chapter 9: Knight|BMT|8}. Characters who draw the Knight card gain the service of an ally; this chapter describes a new creature that answers that call. DMs can also find advice on integrating allies into an adventuring party. In addition, the chapter includes character creation advice and new magic items for barbarians, fighters, monks, and other combat specialists.",
+								"{@area Chapter 6: Rogue|089|x}. This chapter provides advice and new magic items suited to bards, rangers, rogues, and other characters who prioritize their skills. The \"{@area Rogues' Gallery|090|x}\" section presents treacherous adversaries for when a player draws the Rogue card from the deck.",
+								"{@area Chapter 7: Sage|09a|x}. This chapter focuses on sorcerers, warlocks, wizards, and other characters who wield arcane magic. It includes the new Cartomancer feat, new spells, and the {@item Deck of Many More Things|BMT}: the cards added to the {@item Deck of Many Things} over the centuries by mortal spellcasters.",
+								"{@area Chapter 8: Fates|0ed|x}. New backgrounds in this chapter describe characters whose lives have been transformed by the {@item Deck of Many Things} or a similar effect. This chapter also includes character creation advice and magic items appropriate for clerics, druids, paladins, and other characters with a connection to the divine.",
+								"{@area Chapter 9: Knight|118|x}. Characters who draw the Knight card gain the service of an ally; this chapter describes a new creature that answers that call. DMs can also find advice on integrating allies into an adventuring party. In addition, the chapter includes character creation advice and new magic items for barbarians, fighters, monks, and other combat specialists.",
 								{
 									"type": "image",
 									"href": {
@@ -159,10 +159,10 @@
 							"id": "00b",
 							"entries": [
 								"These four chapters are inspired by astrological phenomena:",
-								"{@book Chapter 10: Sun|BMT|9}. This chapter describes knights of the Solar Bastion, who monitor the deck and protect innocent people from its dangers.",
-								"{@book Chapter 11: Moon|BMT|10}. A ruthless thieves' guild called the Moonstalkers strikes from a hidden lair, but its leaders hide a terrible secret.",
-								"{@book Chapter 12: Comet|BMT|11}. A destructive comet called the All-Consuming Star travels on a wandering course through the multiverse. In its wake, it has spawned an apocalyptic cult bent on bringing an end to all space and time.",
-								"{@book Chapter 13: Star|BMT|12}. This chapter details the Sky of Many Things, a zodiac of twelve constellations that creates magical effects in the world as each constellation rises and falls."
+								"{@area Chapter 10: Sun|148|x}. This chapter describes knights of the Solar Bastion, who monitor the deck and protect innocent people from its dangers.",
+								"{@area Chapter 11: Moon|163|x}. A ruthless thieves' guild called the Moonstalkers strikes from a hidden lair, but its leaders hide a terrible secret.",
+								"{@area Chapter 12: Comet|18c|x}. A destructive comet called the All-Consuming Star travels on a wandering course through the multiverse. In its wake, it has spawned an apocalyptic cult bent on bringing an end to all space and time.",
+								"{@area Chapter 13: Star|1a6|x}. This chapter details the Sky of Many Things, a zodiac of twelve constellations that creates magical effects in the world as each constellation rises and falls."
 							]
 						},
 						{
@@ -172,11 +172,11 @@
 							"id": "00c",
 							"entries": [
 								"The next five chapters include adventure locations:",
-								"{@book Chapter 14: Jester|BMT|13}. A magical marketplace called the Seelie Market is carried through the sky by a moonstone dragon. Among its many vendors is a nilbog fortune teller who will read a character's future using his {@item Deck of Many Things} or let the character draw from it\u2014for a price.",
-								"{@book Chapter 15: Throne|BMT|14}. When a character draws the Throne card, they gain ownership of a small keep; this is that keep, but it's not empty!",
-								"{@book Chapter 16: Ruin|BMT|15}. Gardmore Abbey has collapsed into ruin, but its ancient towers and underground catacombs aren't entirely abandoned. At the summit lairs Mekkalath the dragon, and a {@item Deck of Many Things} waits in his hoard.",
-								"{@book Chapter 17: Donjon|BMT|16}. Victims of the Donjon card are imprisoned in an extradimensional sphere, their location all but impossible to discover. This chapter details that massive techno-magical prison, which is collapsing slowly into ruin.",
-								"{@book Chapter 18: Void|BMT|17}. Victims of the Void card have their souls whisked away to an unknown location, leaving their helpless bodies behind. This chapter reveals where their souls go and provides DMs with advice on handling sessions where a player might not be able to play their own character."
+								"{@area Chapter 14: Jester|1d1|x}. A magical marketplace called the Seelie Market is carried through the sky by a moonstone dragon. Among its many vendors is a nilbog fortune teller who will read a character's future using his {@item Deck of Many Things} or let the character draw from it\u2014for a price.",
+								"{@area Chapter 15: Throne|1f0|x}. When a character draws the Throne card, they gain ownership of a small keep; this is that keep, but it's not empty!",
+								"{@area Chapter 16: Ruin|220|x}. Gardmore Abbey has collapsed into ruin, but its ancient towers and underground catacombs aren't entirely abandoned. At the summit lairs Mekkalath the dragon, and a {@item Deck of Many Things} waits in his hoard.",
+								"{@area Chapter 17: Donjon|22b|x}. Victims of the Donjon card are imprisoned in an extradimensional sphere, their location all but impossible to discover. This chapter details that massive techno-magical prison, which is collapsing slowly into ruin.",
+								"{@area Chapter 18: Void|27f|x}. Victims of the Void card have their souls whisked away to an unknown location, leaving their helpless bodies behind. This chapter reveals where their souls go and provides DMs with advice on handling sessions where a player might not be able to play their own character."
 							]
 						},
 						{
@@ -186,10 +186,10 @@
 							"id": "00d",
 							"entries": [
 								"The final four chapters present new monsters and the two people responsible for the deck's creation:",
-								"{@book Chapter 19: Skull|BMT|18}. Drawing the Skull card summons an {@creature avatar of death|DMG}, and those it slays are cursed with undeath for as long as the deck exists. Over centuries, those undead have banded together to find and destroy all {@item Deck of Many Things||Decks of Many Things}.",
-								"{@book Chapter 20: Flames|BMT|19}. This chapter describes unique Fiends that can serve as antagonists in your campaign, even if no one in your game has drawn the Flames card to earn a devil's enmity.",
-								"{@book Chapter 21: Talons|BMT|20}. This chapter includes new monsters inspired or created by the deck.",
-								"{@book Chapter 22: Euryale|BMT|21}. The deck was created for {@creature Asteria|BMT}, a human warrior, and her sister-in-arms, the medusa {@creature Euryale|BMT}. Both still live, and they know more about the deck than anyone. This chapter chronicles their story."
+								"{@area Chapter 19: Skull|2d8|x}. Drawing the Skull card summons an {@creature avatar of death|DMG}, and those it slays are cursed with undeath for as long as the deck exists. Over centuries, those undead have banded together to find and destroy all {@item Deck of Many Things||Decks of Many Things}.",
+								"{@area Chapter 20: Flames|2ee|x}. This chapter describes unique Fiends that can serve as antagonists in your campaign, even if no one in your game has drawn the Flames card to earn a devil's enmity.",
+								"{@area Chapter 21: Talons|31e|x}. This chapter includes new monsters inspired or created by the deck.",
+								"{@area Chapter 22: Euryale|32c|x}. The deck was created for {@creature Asteria|BMT}, a human warrior, and her sister-in-arms, the medusa {@creature Euryale|BMT}. Both still live, and they know more about the deck than anyone. This chapter chronicles their story."
 							]
 						}
 					]
@@ -212,7 +212,7 @@
 							"height": 2207
 						},
 						"To use this book, you'll need the fifth edition core rulebooks ({@book Player's Handbook|PHB}, {@book Dungeon Master's Guide|DMG}, and {@book Monster Manual|MM}).",
-						"The adventure locations detailed in this book embrace the unpredictable nature of the {@item Deck of Many Things}. Most don't have a predetermined path for adventurers to take and aren't directed at characters of a particular level. Instead, they have multiple branching paths and a broad range of challenges. Some of the monsters encountered in a location might not be powerful enough to physically challenge the heroes, while other threats might be so dangerous that adventurers must retreat and gain 1 or more levels on some other quest before returning. If you use one of these adventure locations or campaign elements, make it your own. Change it to fit the unique expectations of your players, the requirements of your table, and your own taste. When a creature's name appears in {@b bold} type, that's a visual cue pointing you to its stat block. Most of the monsters mentioned in this book appear in the {@book Monster Manual|MM}, but {@i The Book of Many Things} introduces many new monsters; a complete list appears in {@book chapter 21|BMT|20}. Sometimes a monster mentioned in this book includes a suggestion for an alternative chosen from {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM}, which you can use instead if you have that book.",
+						"The adventure locations detailed in this book embrace the unpredictable nature of the {@item Deck of Many Things}. Most don't have a predetermined path for adventurers to take and aren't directed at characters of a particular level. Instead, they have multiple branching paths and a broad range of challenges. Some of the monsters encountered in a location might not be powerful enough to physically challenge the heroes, while other threats might be so dangerous that adventurers must retreat and gain 1 or more levels on some other quest before returning. If you use one of these adventure locations or campaign elements, make it your own. Change it to fit the unique expectations of your players, the requirements of your table, and your own taste. When a creature's name appears in {@b bold} type, that's a visual cue pointing you to its stat block. Most of the monsters mentioned in this book appear in the {@book Monster Manual|MM}, but {@i The Book of Many Things} introduces many new monsters; a complete list appears in {@area chapter 21|31e|x}. Sometimes a monster mentioned in this book includes a suggestion for an alternative chosen from {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM}, which you can use instead if you have that book.",
 						{
 							"type": "inset",
 							"id": "00f",
@@ -250,7 +250,7 @@
 					"page": 9,
 					"id": "011",
 					"entries": [
-						"The story of the {@item Deck of Many Things} began when a human woman named {@creature Asteria|BMT} bargained with Istus, a god of fate, to save the life of {@creature Euryale|BMT}, her dearest friend. As part of this bargain, Istus created a deck of twenty-two magical cards drawn from constellations in the night sky, and she used thirteen of these cards to change the destinies of {@creature Asteria|BMT} and {@creature Euryale|BMT}. These cards formed the first {@item Deck of Many Things}, an artifact with vast and unpredictable powers (the deck's origin is explored further in {@book chapter 22|BMT|21}).",
+						"The story of the {@item Deck of Many Things} began when a human woman named {@creature Asteria|BMT} bargained with Istus, a god of fate, to save the life of {@creature Euryale|BMT}, her dearest friend. As part of this bargain, Istus created a deck of twenty-two magical cards drawn from constellations in the night sky, and she used thirteen of these cards to change the destinies of {@creature Asteria|BMT} and {@creature Euryale|BMT}. These cards formed the first {@item Deck of Many Things}, an artifact with vast and unpredictable powers (the deck's origin is explored further in {@area chapter 22|32c|x}).",
 						{
 							"type": "image",
 							"href": {
@@ -263,7 +263,7 @@
 						},
 						"Thanks to the deck's divine origin and unusual nature, it soon manifested in myriad lesser forms throughout the multiverse. Some of these wondrous items had fewer cards\u2014typically only the thirteen cards used in Istus's reading for {@creature Asteria|BMT}. Occasionally a deck manifested as something else entirely: a circle of twenty-two doorways, or a die with twenty-two sides, each roll of which had the power to change an individual's destiny.",
 						"Soon those inspired by the deck sought to create their own magical cards. Most of these efforts resulted in entirely new magic items, such as the {@item Deck of Miscellany|BMT} or the {@item Deck of Wonder|BMT}. But occasionally, a legendary mage or a priest dedicated to the gods of fate and destiny succeeded in creating a new card that appeared alongside the {@item Deck of Many Things}, and that card replicated throughout the multiverse; these new cards make up the {@item Deck of Many More Things|BMT}.",
-						"{@i Decks of Many Things} have claimed many lives. Those who draw the Skull must fight an {@creature avatar of death|DMG}, and those slain by this avatar rise again as Undead, doomed to exist as long as the decks do. Over the centuries, these Undead gathered to form the Grim Harrow, a horde of merciless hunters traveling the multiverse on a quest to find and destroy every manifestation of the deck so they can end their doomed existence (see {@book chapter 19|BMT|18} for more on these beings). To combat these dangers, an angel founded the Solar Bastion (see {@book chapter 10|BMT|9}), a benevolent organization dedicated to protecting innocent people from the decks and the many dangers they pose.",
+						"{@i Decks of Many Things} have claimed many lives. Those who draw the Skull must fight an {@creature avatar of death|DMG}, and those slain by this avatar rise again as Undead, doomed to exist as long as the decks do. Over the centuries, these Undead gathered to form the Grim Harrow, a horde of merciless hunters traveling the multiverse on a quest to find and destroy every manifestation of the deck so they can end their doomed existence (see {@area chapter 19|2d8|x} for more on these beings). To combat these dangers, an angel founded the Solar Bastion (see {@area chapter 10|148|x}), a benevolent organization dedicated to protecting innocent people from the decks and the many dangers they pose.",
 						"The Grim Harrow and the Solar Bastion have learned much about the original deck over the centuries, but no one knows more about it than {@creature Asteria|BMT} herself, who still travels the multiverse living out the destiny foretold for her by Istus long ago.",
 						"But in your campaign, the deck might have a different story. Perhaps the {@item Deck of Many Things} already existed when Istus used it to read {@creature Asteria|BMT}'s future, and it has another origin entirely. Perhaps it was the creation of a powerful faerie trickster or made by gods of chance as a test for greedy mortals. Use the story that best suits your campaign.",
 						{
@@ -286,8 +286,8 @@
 					"id": "012",
 					"entries": [
 						"The power and unpredictability of a {@item Deck of Many Things} gives it the potential to wildly alter the course of campaigns. In an instant, characters could inherit a keep, shifting the campaign's focus to its defense and maintenance; a character could become separated from the rest of the party, trapped in an undetectable and unreachable prison; or characters could instantly perish. While some groups embrace such surprising twists, others prefer to avoid major campaign upsets.",
-						"This book provides tools to help you use the deck on your own terms. The following sections detail two ways to head off potential complications before the characters draw their first card. \"{@book Customizing Your Deck|BMT|1|Customizing Your Deck}\" suggests strategies for stacking the deck with only cards that will be fun for your group. Meanwhile, \"{@book The Deck as Narrative|BMT|1|The Deck as Narrative}\" discusses having cards foreshadow future events, rather than triggering instantaneous effects, so you can incorporate the effects into your campaign when the time is right.",
-						"The rest of this book also contains a wealth of advice and tools that address the challenges posed by specific cards. For example, the keep described in {@book chapter 15|BMT|14} is perfect for any character who draws the Throne card. The three powerful fiends found in {@book chapter 20|BMT|19} make ideal enemies for those who draw the Flames card. {@book Chapter 18|BMT|17} includes a full map of the Void's prison, as well as suggestions for working with players whose characters are imprisoned there. With these resources in hand, you'll be free to enjoy where the cards lead your characters.",
+						"This book provides tools to help you use the deck on your own terms. The following sections detail two ways to head off potential complications before the characters draw their first card. \"{@area Customizing Your Deck|013|x}\" suggests strategies for stacking the deck with only cards that will be fun for your group. Meanwhile, \"{@area The Deck as Narrative|014|x}\" discusses having cards foreshadow future events, rather than triggering instantaneous effects, so you can incorporate the effects into your campaign when the time is right.",
+						"The rest of this book also contains a wealth of advice and tools that address the challenges posed by specific cards. For example, the keep described in {@area chapter 15|1f0|x} is perfect for any character who draws the Throne card. The three powerful fiends found in {@area chapter 20|2ee|x} make ideal enemies for those who draw the Flames card. {@area Chapter 18|27f|x} includes a full map of the Void's prison, as well as suggestions for working with players whose characters are imprisoned there. With these resources in hand, you'll be free to enjoy where the cards lead your characters.",
 						{
 							"type": "entries",
 							"name": "Customizing Your Deck",
@@ -333,7 +333,7 @@
 							"entries": [
 								"Traditionally, the effects created by the {@item Deck of Many Things} are immediate. When a character draws the Knight card, a fighter immediately appears and offers their service, and a character who draws the Gem card might be literally showered with riches. While this suits some campaigns, you can take a more narrative approach to the deck by having cards foreshadow future events that occur at a time of your choosing. When you use the deck in this way, drawing from it is less like pulling the lever on a cosmic slot machine and more like allowing a character to select a new story for themself without being allowed to know that story ahead of time.",
 								"With this narrative approach to the {@item Deck of Many Things}, you decide how to weave the events triggered by cards into your campaign. For example, a character who draws the Knight card might meet a warrior along the side of the road, in a tavern, or even trapped in a dangerous dungeon; by freeing the warrior, the character earns the warrior's loyalty. A character who draws the Gem card might find a rich store of jewels in their next treasure hoard, or they might inherit great wealth when a relative dies. Many of the chapters in this book include advice to help you work the effects of their cards into your campaign story.",
-								"Using the deck's effects as events in your campaign poses an interesting question: is the deck predicting those events or causing them? If a character draws the Flames card, and soon after, minions of {@creature Aurnozci|BMT} (see {@book chapter 20|BMT|19|Aurnozci, the Caged Worm}) try to capture them, is this a direct result of drawing the card, or would the demons have attacked them anyway? {@i The Book of Many Things} doesn't answer this question; the answer is up to you and your players.",
+								"Using the deck's effects as events in your campaign poses an interesting question: is the deck predicting those events or causing them? If a character draws the Flames card, and soon after, minions of {@creature Aurnozci|BMT} (see {@area chapter 20|2ef|x}) try to capture them, is this a direct result of drawing the card, or would the demons have attacked them anyway? {@i The Book of Many Things} doesn't answer this question; the answer is up to you and your players.",
 								"When you take a narrative approach to the {@item Deck of Many Things}, don't put off card effects for too long. It's okay for players to wonder for a session or two exactly when and how the effects will manifest, and you can use that time to devise clever and memorable ways to interpret the effects and keep the players in suspense. For example, a beloved ally might come to hate a character who draws the Rogue card, and that ally might conceal their hatred for several sessions before revealing it in a moment of sudden treachery. But new stories soon crowd out the old, and players might not be impressed if a card takes too long to manifest."
 							]
 						}
@@ -346,9 +346,9 @@
 					"id": "015",
 					"entries": [
 						"This book provides several ways to introduce the {@item Deck of Many Things} to your campaign, depending on the interests of your players and the kind of story you want to tell.",
-						"The mysterious faerie market described in {@book chapter 14|BMT|13} is home to a nilbog fortune teller named {@creature Oddlewin|BMT} who uses a {@item Deck of Many Things} to read the future of his customers. This might be the first time that characters see the deck, and if they're willing to perform a service for {@creature Oddlewin|BMT}, he might let them draw from it. This is a good way to introduce the deck to low-level characters.",
-						"Heroes of a more adventurous bent might explore the ruins of Gardmore Abbey presented in {@book chapter 16|BMT|15}. The abbey has long been associated with the deck, since an ill-fated draw caused a massacre of both the knights who defended the site and the army that besieged them. Now the ruins are home to Mekkalath, a red dragon, and a {@item Deck of Many Things} lies in his hoard. Few adventurers are powerful enough to challenge Mekkalath directly, but where might is insufficient, guile and cunning can prevail.",
-						"Finally, the characters might simply be given a deck by someone who wants them to have it. {@creature Riffler|BMT|Rifflers}, mischievous fey, are obsessed with the decks and constantly move them through the multiverse in a vain effort to manipulate destiny and complete a master plan only they understand. Alternatively, {@creature Asteria|BMT} or {@creature Euryale|BMT}, detailed in {@book chapter 22|BMT|21}, might give a deck to characters desperate to change their destiny.",
+						"The mysterious faerie market described in {@area chapter 14|1d1|x} is home to a nilbog fortune teller named {@creature Oddlewin|BMT} who uses a {@item Deck of Many Things} to read the future of his customers. This might be the first time that characters see the deck, and if they're willing to perform a service for {@creature Oddlewin|BMT}, he might let them draw from it. This is a good way to introduce the deck to low-level characters.",
+						"Heroes of a more adventurous bent might explore the ruins of Gardmore Abbey presented in {@area chapter 16|220|x}. The abbey has long been associated with the deck, since an ill-fated draw caused a massacre of both the knights who defended the site and the army that besieged them. Now the ruins are home to Mekkalath, a red dragon, and a {@item Deck of Many Things} lies in his hoard. Few adventurers are powerful enough to challenge Mekkalath directly, but where might is insufficient, guile and cunning can prevail.",
+						"Finally, the characters might simply be given a deck by someone who wants them to have it. {@creature Riffler|BMT|Rifflers}, mischievous fey, are obsessed with the decks and constantly move them through the multiverse in a vain effort to manipulate destiny and complete a master plan only they understand. Alternatively, {@creature Asteria|BMT} or {@creature Euryale|BMT}, detailed in {@area chapter 22|32c|x}, might give a deck to characters desperate to change their destiny.",
 						{
 							"type": "quote",
 							"entries": [
@@ -454,7 +454,7 @@
 										{
 											"type": "item",
 											"name": "Knight",
-											"entry": "As an action, you can throw this card to an unoccupied space on the ground within 60 feet of yourself while speaking a command word, whereupon the card magically transforms into a {@creature deck defender|BMT} (see {@book chapter 9|BMT|8|Deck Defender} for its stat block) for up to 1 minute or until you use an action to speak the command word again, whereupon it transforms back into a card. The deck defender obeys your spoken commands. If you issue no commands, it takes the {@action Dodge} action and moves to avoid danger. The deck defender reverts to a card early if it drops to 0 hit points. Once this property is used, it can't be used again until the next dawn."
+											"entry": "As an action, you can throw this card to an unoccupied space on the ground within 60 feet of yourself while speaking a command word, whereupon the card magically transforms into a {@creature deck defender|BMT} (see {@area chapter 9|147|x} for its stat block) for up to 1 minute or until you use an action to speak the command word again, whereupon it transforms back into a card. The deck defender obeys your spoken commands. If you issue no commands, it takes the {@action Dodge} action and moves to avoid danger. The deck defender reverts to a card early if it drops to 0 hit points. Once this property is used, it can't be used again until the next dawn."
 										},
 										{
 											"type": "item",
@@ -639,7 +639,7 @@
 							"id": "01c",
 							"entries": [
 								"What Do the Cards Mean?",
-								"The \"{@book Card Sparks|BMT|2|Card Sparks}\" and \"{@book Journey Spread|BMT|2|Journey Spread}\" sections ask you to interpret cards based on their assigned meaning. The reference book that accompanies {@item Deck of Many Things||The Deck of Many Things} describes meanings for those cards, and the {@adventure Curse of Strahd|CoS} adventure summarizes the meanings of {@adventure tarokka cards|CoS|22}. Various books and websites explain the meanings of tarot cards."
+								"The \"{@area Card Sparks|01d|x}\" and \"{@area Journey Spread|023|x}\" sections ask you to interpret cards based on their assigned meaning. The reference book that accompanies {@item Deck of Many Things||The Deck of Many Things} describes meanings for those cards, and the {@adventure Curse of Strahd|CoS} adventure summarizes the meanings of {@adventure tarokka cards|CoS|22}. Various books and websites explain the meanings of tarot cards."
 							]
 						},
 						{
@@ -1154,7 +1154,7 @@
 								"Evolving your encounter deck fosters a sense of progress, creating a rough narrative arc as the adventurers explore an area. You can evolve the deck to make encounters progressively harder, or you can change the flavor of encounters, such as adding creatures from a particular environment.",
 								"One way to accomplish this is to build two encounter decks. Draw cards from the first encounter deck, and when you remove cards from that deck, replace those cards with an equal number of random cards from the second deck. This method is particularly effective if the second deck has a markedly different theme. You might start with an encounter deck featuring mostly dungeon scavengers, like {@creature Rat||rats} and {@creature Carrion Crawler||carrion crawlers}, then slowly add in cards from a deck made up of Undead creatures and cultists.",
 								"Alternatively, you can use special cards such as noncombat encounter cards to tell you when to begin shuffling in cards from the second deck. For example, adventurers exploring a sylvan woodland might encounter mostly elves and Fey, but you might include a noncombat encounter card representing the party's discovery of a scorched clearing. After that encounter, you can start shuffling in cards representing gnolls and {@creature Hyena||hyenas}\u2014the cause of the destruction.",
-								"If you have a goal card (see the \"{@book Special Cards|BMT|2|Special Cards}\" section above), you don't want the adventurers to reach the goal too early; don't put that card into the deck until the characters defeat one or more creatures from the second deck. At that point, shuffle the goal card into the second deck."
+								"If you have a goal card (see the \"{@area Special Cards|02f|x}\" section above), you don't want the adventurers to reach the goal too early; don't put that card into the deck until the characters defeat one or more creatures from the second deck. At that point, shuffle the goal card into the second deck."
 							]
 						},
 						{
@@ -1165,7 +1165,7 @@
 							"entries": [
 								"These sample decks, best suited for 4th- to 6th-level characters, feature monsters from the {@book Monster Manual|MM} and {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM}. If you don't have {@book Monsters of the Multiverse|MPMM}, omit those cards from the deck.",
 								"Entries with a multiplication sign indicate that the card represents multiple monsters. Monsters in the same group are assigned cards with the same face value (for example, all bandits are represented by king cards), but not all monsters with the same value are a group (the {@creature Owlbear||owlbears}, for example, hunt alone). This makes it easier to see when you've drawn multiple cards that form an encounter.",
-								"You can use these decks as examples for building your own. You can use them separately when the characters are traveling through suitable terrain, or you can combine them (see \"{@book Evolving the Encounter Deck|BMT|2|Evolving the Encounter Deck}\" above), so characters who are exploring a forest (using the forest encounter deck) slowly discover the vile demonic influence corrupting the place as you shuffle in cards from the corrupted lands encounter deck.",
+								"You can use these decks as examples for building your own. You can use them separately when the characters are traveling through suitable terrain, or you can combine them (see \"{@area Evolving the Encounter Deck|036|x}\" above), so characters who are exploring a forest (using the forest encounter deck) slowly discover the vile demonic influence corrupting the place as you shuffle in cards from the corrupted lands encounter deck.",
 								{
 									"type": "table",
 									"caption": "Forest Encounter Deck",
@@ -2390,292 +2390,292 @@
 								[
 									"{@item Antimagic Armor|BMT}",
 									"Very rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Armor of Fungal Spores|BMT}",
 									"Uncommon",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Armor of the Fallen|BMT}",
 									"Uncommon",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Armor of Weightlessness|BMT}",
 									"Uncommon",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Baleful Talon|BMT}",
 									"Very rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Blasted Goggles|BMT}",
 									"Uncommon",
-									"{@book 20|BMT|19}"
+									"{@area 20|2ee|x}"
 								],
 								[
 									"{@item Bloodrage Greataxe|BMT}",
 									"Uncommon",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Bloodseeker Ammunition|BMT}",
 									"Very rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Boomerang Shield|BMT}",
 									"Uncommon",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Bow of Conflagration|BMT}",
 									"Rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Bow of Melodies|BMT}",
 									"Very rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Breastplate of Balance|BMT}",
 									"Rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Card Sharp's Deck|BMT}",
 									"Uncommon",
-									"{@book 6|BMT|5}"
+									"{@area 6|089|x}"
 								],
 								[
 									"{@item Clockwork Armor|BMT}",
 									"Very rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Crown of Whirling Comets|BMT}",
 									"Very rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Deck of Dimensions|BMT}",
 									"Very rare",
-									"{@book 6|BMT|5}"
+									"{@area 6|089|x}"
 								],
 								[
 									"{@item Deck of Many More Things|BMT}",
 									"Legendary",
-									"{@book 7|BMT|6}"
+									"{@area 7|09a|x}"
 								],
 								[
 									"{@item Deck of Miscellany|BMT}",
 									"Uncommon",
-									"{@book 6|BMT|5}"
+									"{@area 6|089|x}"
 								],
 								[
 									"{@item Deck of Oracles|BMT}",
 									"Rare",
-									"{@book 8|BMT|7}"
+									"{@area 8|0ed|x}"
 								],
 								[
 									"{@item Deck of Wild Cards|BMT}",
 									"Very rare",
-									"{@book 6|BMT|5}"
+									"{@area 6|089|x}"
 								],
 								[
 									"{@item Deck of Wonder|BMT}",
 									"Uncommon",
-									"{@book 7|BMT|6}"
+									"{@area 7|09a|x}"
 								],
 								[
 									"{@item Donjon's Sundering Sphere|BMT}",
 									"Rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Dried Leech|BMT}",
 									"Uncommon",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Euryale's Aegis|BMT}",
 									"Legendary",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Fabulist Gem|BMT}",
 									"Uncommon",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Fate Cutter Shears|BMT}",
 									"Very rare",
-									"{@book 8|BMT|7}"
+									"{@area 8|0ed|x}"
 								],
 								[
 									"{@item +1 Fate Dealer's Deck|BMT|Fate Dealer's Deck}",
 									"Varies",
-									"{@book 8|BMT|7}"
+									"{@area 8|0ed|x}"
 								],
 								[
 									"{@item Feywrought Armor|BMT}",
 									"Rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Fool's Blade|BMT}",
 									"Very rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Forcebreaker Weapon|BMT}",
 									"Very rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Glimmering Moonbow|BMT}",
 									"Rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Gloomwrought Armor|BMT}",
 									"Rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Grasping Whip|BMT}",
 									"Rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Hammer of Runic Focus|BMT}",
 									"Very rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item House of Cards|BMT}",
 									"Uncommon",
-									"{@book 8|BMT|7}"
+									"{@area 8|0ed|x}"
 								],
 								[
 									"{@item Jester's Mask|BMT}",
 									"Legendary",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Plate of Knight's Fellowship|BMT}",
 									"Uncommon",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Ring of Puzzler's Wit|BMT}",
 									"Uncommon",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Rod of Hellish Flames|BMT}",
 									"Very rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Rogue's Mantle|BMT}",
 									"Rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Ruinous Flail|BMT}",
 									"Rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Sage's Signet|BMT}",
 									"Varies",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Shield of the Tortoise|BMT}",
 									"Uncommon",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Shrieking Greaves|BMT}",
 									"Rare",
-									"{@book 20|BMT|19}"
+									"{@area 20|2ee|x}"
 								],
 								[
 									"{@item Skull Helm|BMT}",
 									"Very rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Sling of Giant Felling|BMT}",
 									"Uncommon",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Spindle of Fate|BMT}",
 									"Legendary",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Starshot Crossbow|BMT}",
 									"Rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Stonemaker War Pick|BMT}",
 									"Very rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Sun Staff|BMT}",
 									"Rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Sword of the Planes|BMT}",
 									"Legendary",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Telescopic Transporter|BMT}",
 									"Legendary",
-									"{@book 13|BMT|12}"
+									"{@area 13|1a6|x}"
 								],
 								[
 									"{@item Tidecaller Trident|BMT}",
 									"Very rare",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item Voidwalker Armor|BMT}",
 									"Rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Warrior's Passkey|BMT}",
 									"Rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Weapon of Throne's Command|BMT}",
 									"Very rare",
-									"{@book 5|BMT|4}"
+									"{@area 5|064|x}"
 								],
 								[
 									"{@item Winged Ammunition|BMT}",
 									"Uncommon",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								],
 								[
 									"{@item +1 Wraps of Unarmed Prowess|BMT|Wraps of Unarmed Prowess}",
 									"Varies",
-									"{@book 9|BMT|8}"
+									"{@area 9|118|x}"
 								]
 							]
 						},
@@ -3704,7 +3704,7 @@
 												},
 												"entry": "Sun"
 											},
-											"Agents of the Solar Bastion (see {@book chapter 10|BMT|9}) once saved your life."
+											"Agents of the Solar Bastion (see {@area chapter 10|148|x}) once saved your life."
 										],
 										[
 											{
@@ -4787,7 +4787,7 @@
 							"page": 70,
 							"id": "139",
 							"entries": [
-								"The {@book Dungeon Master's Guide|DMG} details how the nonplayer character summoned by the Knight card of a {@item Deck of Many Things} appears. But as discussed in {@book chapter 2|BMT|1}, the cards of the {@item Deck of Many Things} can instead be interpreted as narrative directions that point the way to a future event. In this case, the Knight card could portend a friendly warrior whom the character will soon meet\u2014and who could become a loyal ally.",
+								"The {@book Dungeon Master's Guide|DMG} details how the nonplayer character summoned by the Knight card of a {@item Deck of Many Things} appears. But as discussed in {@area chapter 2|010|x}, the cards of the {@item Deck of Many Things} can instead be interpreted as narrative directions that point the way to a future event. In this case, the Knight card could portend a friendly warrior whom the character will soon meet\u2014and who could become a loyal ally.",
 								"When the Knight card is used as a narrative device in this way, the ally it brings isn't magically summoned or compelled to obey the characters; the deck has merely foretold the ally's imminent arrival. Consider what motivates this ally to accompany the party. This ally could be new or familiar to the characters, and the ally might be repaying a favor or pursuing goals of their own.",
 								"Several kinds of allies are described below, each with a different reason for accompanying the party. Guidance on when the ally might depart is also provided. An ally who befriends the characters might linger in the story long after the ally's personal goals have been accomplished (especially if the players enjoy that NPC). If you're using {@item Deck of Many Things||The Deck of Many Things} card set to foretell the future, boxed text for each ally provides dialogue a fortune teller might use to tell characters of the ally's imminent arrival.",
 								"Whatever type of ally you choose, the party should encounter this ally soon after drawing the card\u2014within a few days or even sooner.",
@@ -4979,12 +4979,12 @@
 												{
 													"type": "item",
 													"name": "Provide Aid and Counsel",
-													"entry": "When they find a {@item Deck of Many Things}, in the hands of hapless mortals, knights of the Solar Bastion do everything they can to warn and assist the deck's owners. They make sure the owners understand the rules of drawing cards, the wide range of possible effects, and the dangers of keeping a {@item Deck of Many Things} long enough to draw the Grim Harrow's attention (the Grim Harrow is detailed in {@book chapter 19|BMT|18})."
+													"entry": "When they find a {@item Deck of Many Things}, in the hands of hapless mortals, knights of the Solar Bastion do everything they can to warn and assist the deck's owners. They make sure the owners understand the rules of drawing cards, the wide range of possible effects, and the dangers of keeping a {@item Deck of Many Things} long enough to draw the Grim Harrow's attention (the Grim Harrow is detailed in {@area chapter 19|2d8|x})."
 												},
 												{
 													"type": "item",
 													"name": "Research the Deck of Many Things",
-													"entry": "When they aren't actively pursuing copies of the {@item Deck of Many Things}, knights of the Solar Bastion try to learn all they can about the origin and purpose of the cards. They know much of the deck's history (as described in {@book chapter 2|BMT|1|A Deck of Many Stories}), including multiple contradictory accounts of its creation. Sorting through the conflicting legends and determining the truth about the {@item Deck of Many Things} is a cherished goal, but not one that most members of the group have any real hope of achieving."
+													"entry": "When they aren't actively pursuing copies of the {@item Deck of Many Things}, knights of the Solar Bastion try to learn all they can about the origin and purpose of the cards. They know much of the deck's history (as described in {@area chapter 2|011|x}), including multiple contradictory accounts of its creation. Sorting through the conflicting legends and determining the truth about the {@item Deck of Many Things} is a cherished goal, but not one that most members of the group have any real hope of achieving."
 												},
 												{
 													"type": "item",
@@ -4994,17 +4994,17 @@
 												{
 													"type": "item",
 													"name": "Warn of the Grim Harrow",
-													"entry": "The Solar Bastion is on the lookout for the Grim Harrow: Undead that pursue Decks of Many Things across the multiverse (see {@book chapter 19|BMT|18}). Knights of the Solar Bastion try to reach those who come into possession of a deck before the Grim Harrow does, to warn them of the threat the Undead present. They also sometimes take action against the Grim Harrow, but they know they're no match for the leaders of that organization."
+													"entry": "The Solar Bastion is on the lookout for the Grim Harrow: Undead that pursue Decks of Many Things across the multiverse (see {@area chapter 19|2d8|x}). Knights of the Solar Bastion try to reach those who come into possession of a deck before the Grim Harrow does, to warn them of the threat the Undead present. They also sometimes take action against the Grim Harrow, but they know they're no match for the leaders of that organization."
 												},
 												{
 													"type": "item",
 													"name": "Find Asteria Again",
-													"entry": "Hilarion, the Solar Bastion's leader, encountered {@creature Asteria|BMT} (see {@book chapter 22|BMT|21|Asteria}) once when she infiltrated the organization's headquarters, and the angel managed to learn some of what {@creature Asteria|BMT} knows about the deck's origins. Convinced that she is key to learning the truth about the deck, the organization seeks {@creature Asteria|BMT} across the multiverse."
+													"entry": "Hilarion, the Solar Bastion's leader, encountered {@creature Asteria|BMT} (see {@area chapter 22|32e|x}) once when she infiltrated the organization's headquarters, and the angel managed to learn some of what {@creature Asteria|BMT} knows about the deck's origins. Convinced that she is key to learning the truth about the deck, the organization seeks {@creature Asteria|BMT} across the multiverse."
 												},
 												{
 													"type": "item",
 													"name": "Prevent the Deck's Misuse",
-													"entry": "As a rule, knights of the Solar Bastion don't use force to wrest Decks of Many Things from those who possess them. However, they may break this rule if they discern that a deck's owner plans to use it for an evil or destructive purpose. In particular, they oppose the efforts of the Heralds of the Comet (described in {@book chapter 12|BMT|11}), who seek to use the original {@item Deck of Many Things} to destroy the multiverse."
+													"entry": "As a rule, knights of the Solar Bastion don't use force to wrest Decks of Many Things from those who possess them. However, they may break this rule if they discern that a deck's owner plans to use it for an evil or destructive purpose. In particular, they oppose the efforts of the Heralds of the Comet (described in {@area chapter 12|18c|x}), who seek to use the original {@item Deck of Many Things} to destroy the multiverse."
 												}
 											]
 										}
@@ -5063,7 +5063,7 @@
 							"entries": [
 								"The {@creature Solar Bastion knight|BMT} presented here is an example member of the organization.",
 								"Customize this stat block to suit individual knights and differentiate them from each other. For example, knights who track the Grim Harrow through the multiverse might resemble rangers instead of paladins.",
-								"In addition, {@book Sir Jared|BMT|9|Sir Jared}, detailed at the end of the chapter, can serve as a model for knights with a lower challenge rating."
+								"In addition, {@area Sir Jared|162|x}, detailed at the end of the chapter, can serve as a model for knights with a lower challenge rating."
 							]
 						},
 						{
@@ -5802,12 +5802,12 @@
 										{
 											"type": "item",
 											"name": "Common Foes",
-											"entry": "The Heralds of the Comet (see {@book chapter 12|BMT|11}) identify both the characters and the Solar Bastion as threats and begin stirring up public sentiment against both groups. A knight of the Solar Bastion traveling through the area, Sir Howart, is thrown into jail and threatened with execution. Can the characters rescue him without harming villagers led astray by a malevolent cult?"
+											"entry": "The Heralds of the Comet (see {@area chapter 12|18c|x}) identify both the characters and the Solar Bastion as threats and begin stirring up public sentiment against both groups. A knight of the Solar Bastion traveling through the area, Sir Howart, is thrown into jail and threatened with execution. Can the characters rescue him without harming villagers led astray by a malevolent cult?"
 										},
 										{
 											"type": "item",
 											"name": "Haunted Riders",
-											"entry": "{@creature Sir Jared|BMT}, a knight of the Solar Bastion looking for signs of the Grim Harrow (see {@book chapter 19|BMT|18}), has come across a different threat: {@creature Skeleton||skeletons} or {@creature Wight||wights} riding {@creature Warhorse Skeleton||warhorse skeletons}. Jared recruits the characters to help protect the local populace from these haunted riders and follow the riders back to their lair."
+											"entry": "{@creature Sir Jared|BMT}, a knight of the Solar Bastion looking for signs of the Grim Harrow (see {@area chapter 19|2d8|x}), has come across a different threat: {@creature Skeleton||skeletons} or {@creature Wight||wights} riding {@creature Warhorse Skeleton||warhorse skeletons}. Jared recruits the characters to help protect the local populace from these haunted riders and follow the riders back to their lair."
 										},
 										{
 											"type": "item",
@@ -6014,7 +6014,7 @@
 												],
 												[
 													"4",
-													"Stay Ahead of the Grim Harrow. Riders of the Grim Harrow (see {@book chapter 19|BMT|18}) are terrorizing a village as they search for a {@item Deck of Many Things}. Figure out where they're going, and get there before they do!"
+													"Stay Ahead of the Grim Harrow. Riders of the Grim Harrow (see {@area chapter 19|2d8|x}) are terrorizing a village as they search for a {@item Deck of Many Things}. Figure out where they're going, and get there before they do!"
 												],
 												[
 													"5",
@@ -6022,7 +6022,7 @@
 												],
 												[
 													"6",
-													"Prevent Misuse. A {@creature Hierophant of the Comet|BMT|hierophant} of the Heralds of the Comet (see {@book chapter 12|BMT|11|Hierophant of the Comet}) has acquired a few cards from the original {@item Deck of Many Things}. Ensure the complete artifact doesn't fall into her hands."
+													"Prevent Misuse. A {@creature Hierophant of the Comet|BMT|hierophant} of the Heralds of the Comet (see {@area chapter 12|198|x}) has acquired a few cards from the original {@item Deck of Many Things}. Ensure the complete artifact doesn't fall into her hands."
 												],
 												[
 													"7",
@@ -6114,7 +6114,7 @@
 										"{@creature Boss Augustus|BMT|Augustus} is a hulking human werewolf of few words. He shares leadership of the guild with Boss Delour and has a knack for planning heists. Guild members consider him a brutal but fair leader. Some perceptive guild members\u2014like Kathra Bitterwind\u2014have noticed he's become more reclusive recently, and when he does appear, he's restless.",
 										"Augustus is a natural-born lycanthrope, born to {@creature werewolf} parents. His parents were slain by monster hunters when he was young, and he traveled from town to town for most of his life, fleeing whenever townsfolk discovered his true nature.",
 										"Delour and Pyrite accepted Augustus in a way he'd never experienced before. When the three of them created the Moonstalkers guild, Augustus relished his new life of crime. But over time, his passion has faded. The riches they gathered mean nothing to him now. The violence grates on him, and he no longer empathizes with Delour's fantasies of revenge. Instead, Augustus secretly longs to end his curse and integrate into society.",
-										"Only a {@spell Wish} spell can end Augustus's curse. He has ordered Wanewort, a {@creature night hag}, to find anyone with access to that spell and plans to offer anything in his power in exchange for undoing his curse. And if bargaining doesn't work, there's always blackmail. (See the \"{@book Using the Moonstalkers in Your Campaign|BMT|10|Using the Moonstalkers in Your Campaign}\" section later in this chapter for more details.)"
+										"Only a {@spell Wish} spell can end Augustus's curse. He has ordered Wanewort, a {@creature night hag}, to find anyone with access to that spell and plans to offer anything in his power in exchange for undoing his curse. And if bargaining doesn't work, there's always blackmail. (See the \"{@area Using the Moonstalkers in Your Campaign|187|x}\" section later in this chapter for more details.)"
 									]
 								},
 								{
@@ -6155,7 +6155,7 @@
 									"page": 84,
 									"id": "16b",
 									"entries": [
-										"Wanewort the {@creature night hag} performs rituals that help the guild pull off its schemes. She uses divination magic to scope out locations for future heists and casts illusions that disguise Moonstalker members. Occasionally she provides a member with a {@i Hag Eye} necklace, allowing her to see what they see so she can provide real-time guidance during a mission. She reports to the bosses, but they give her ample rein to pursue her own endeavors and delegate tasks to guild members. Wanewort has special lair actions she can use while in the Moonstalkers' guildhall (see {@book area 11|BMT|10|11: Wanewort's Den}).",
+										"Wanewort the {@creature night hag} performs rituals that help the guild pull off its schemes. She uses divination magic to scope out locations for future heists and casts illusions that disguise Moonstalker members. Occasionally she provides a member with a {@i Hag Eye} necklace, allowing her to see what they see so she can provide real-time guidance during a mission. She reports to the bosses, but they give her ample rein to pursue her own endeavors and delegate tasks to guild members. Wanewort has special lair actions she can use while in the Moonstalkers' guildhall (see {@area area 11|182|x}).",
 										"Wanewort has ten {@creature Imp||imps} as companions. They spend almost all their time in the form of house cats, not out of secrecy, but because Wanewort prefers them that way. Guild members never see her without one of these cats in her arms, twining around her legs, or following in her wake. She pampers these imp-cats like spoiled children.",
 										"Augustus has asked Wanewort to find someone who can cast the {@spell Wish} spell, but he hasn't told her why. She has developed a ritual that alerts her whenever someone draws the Moon card from a {@item Deck of Many Things}, anywhere in the world. She figures this is less dangerous than contacting spellcasters powerful enough to cast the {@spell Wish} spell."
 									]
@@ -7155,7 +7155,7 @@
 									"id": "17e",
 									"entries": [
 										"A magic hearth flickers with white, heatless flame on the south wall of this room. Paperwork full of notes and detailed schemes sits atop a desk, alongside a tiny portrait of Delour, Augustus, and Pyrite painted soon after the guild was founded.",
-										"{@creature Boss Delour|BMT} (see the {@book stat block|BMT|10|Boss Delour} earlier in this chapter) spends most of this time in this well-kept room. He keeps his key to {@book area 7|BMT|10|7: Icy Vault} beneath his pillow whenever it isn't on his person."
+										"{@creature Boss Delour|BMT} (see the {@area stat block|169|x} earlier in this chapter) spends most of this time in this well-kept room. He keeps his key to {@area area 7|17b|x} beneath his pillow whenever it isn't on his person."
 									]
 								},
 								{
@@ -7165,7 +7165,7 @@
 									"id": "17f",
 									"entries": [
 										"An owlbear rug stretches across this room's floor. Stuffed animal heads are mounted on the walls.",
-										"{@creature Boss Augustus|BMT} (see the {@book stat block|BMT|10|Boss Augustus} earlier in this chapter) passes much of his time in this impressive room. He keeps his key to {@book area 7|BMT|10|7: Icy Vault} and the key to his chest in the mouth of a mounted deer head whenever these keys aren't on his person.",
+										"{@creature Boss Augustus|BMT} (see the {@area stat block|168|x} earlier in this chapter) passes much of his time in this impressive room. He keeps his key to {@area area 7|17b|x} and the key to his chest in the mouth of a mounted deer head whenever these keys aren't on his person.",
 										{
 											"type": "entries",
 											"name": "Chest",
@@ -7380,7 +7380,7 @@
 							"width": 850,
 							"height": 1552
 						},
-						"The Heralds of the Comet is best suited for use as an antagonist in an adventure or a campaign. However, individual members aren't necessarily villains and might share short-term goals or friendly relationships with heroic characters. The \"{@book Adventure Hooks|BMT|11|Adventure Hooks}\" section in this chapter explores possibilities for how characters might interact with the cult.",
+						"The Heralds of the Comet is best suited for use as an antagonist in an adventure or a campaign. However, individual members aren't necessarily villains and might share short-term goals or friendly relationships with heroic characters. The \"{@area Adventure Hooks|1a0|x}\" section in this chapter explores possibilities for how characters might interact with the cult.",
 						{
 							"type": "entries",
 							"name": "Tenets",
@@ -7520,7 +7520,7 @@
 									"page": 90,
 									"id": "194",
 									"entries": [
-										"The Heralds of the Comet performs its rite of initiation once or twice per year, depending on the availability of would-be initiates and the appearance of a suitable omen of doom. When an omen appears (see the \"{@book Omens of Apocalypse|BMT|11|Omens of Apocalypse}\" section at the end of this chapter), the hierophants bring the aspirants deemed ready to a sanctum for initiation (see the \"{@book Sanctum of the Heralds|BMT|11|Sanctums of the Heralds}\" section).",
+										"The Heralds of the Comet performs its rite of initiation once or twice per year, depending on the availability of would-be initiates and the appearance of a suitable omen of doom. When an omen appears (see the \"{@area Omens of Apocalypse|1a3|x}\" section at the end of this chapter), the hierophants bring the aspirants deemed ready to a sanctum for initiation (see the \"{@area Sanctum of the Heralds|19b|x}\" section).",
 										"The rite takes place overnight. The aspirants, who are sleep deprived, hungry, and thirsty, are led through a series of experiences that narrate the group's version of the history of the multiverse, featuring imagery drawn from the cards of a {@item Deck of Many Things}. Through the course of this narrative, the initiates learn more of the group's secret teachings and the symbolism used in divinatory card readings. At the rite's conclusion, the initiates receive a vision of the All-Consuming Star.",
 										"As part of this initiation, new members of the Heralds of the Comet shed their old identities and take on new names. Initiates also donate all their possessions to the group, which uses its accumulated wealth to provide for the basic needs of its initiates, and they take solemn vows of secrecy that prohibit them from discussing their initiation rite or disclosing the arcana of the group to outsiders. In the symbolism of the {@item Deck of Many Things}, initiates are sometimes called Knights.",
 										"Initiates who participate in the rites together speak of themselves as a single \"brood\" and remain especially close-knit. This brood is the only family that remains to initiates. Broods are numbered in the group's annals, and in the formal context of rituals, an initiate might be identified by their new name and brood number: for example, \"Aphellis, Initiate of the Twenty-Sixth Brood.\""
@@ -8628,7 +8628,7 @@
 									],
 									"rows": [
 										[
-											"{@book Skull|BMT|12|Skull}",
+											"{@area Skull|1aa|x}",
 											"The Watcher",
 											"Midwinter",
 											"Onyx",
@@ -8637,7 +8637,7 @@
 											"Constitution"
 										],
 										[
-											"{@book Balance|BMT|12|Balance}",
+											"{@area Balance|1ac|x}",
 											"The Merchant",
 											"Late winter",
 											"Quartz",
@@ -8646,7 +8646,7 @@
 											"Intelligence"
 										],
 										[
-											"{@book Sage|BMT|12|Sage}",
+											"{@area Sage|1ae|x}",
 											"The Wise One",
 											"Early spring",
 											"Garnet",
@@ -8655,7 +8655,7 @@
 											"Intelligence"
 										],
 										[
-											"{@book Throne|BMT|12|Throne}",
+											"{@area Throne|1b0|x}",
 											"The Everlasting",
 											"Midspring",
 											"Ruby",
@@ -8664,7 +8664,7 @@
 											"Charisma"
 										],
 										[
-											"{@book Key|BMT|12|Key}",
+											"{@area Key|1b2|x}",
 											"The Child",
 											"Late spring",
 											"Opal",
@@ -8673,7 +8673,7 @@
 											"Wisdom"
 										],
 										[
-											"{@book Flames|BMT|12|Flames}",
+											"{@area Flames|1b4|x}",
 											"The Lovers",
 											"Early summer",
 											"Moonstone",
@@ -8682,7 +8682,7 @@
 											"Charisma"
 										],
 										[
-											"{@book Knight|BMT|12|Knight}",
+											"{@area Knight|1b6|x}",
 											"The Dragon Slayer",
 											"Midsummer",
 											"Diamond",
@@ -8691,7 +8691,7 @@
 											"Strength"
 										],
 										[
-											"{@book Euryale|BMT|12|Euryale}",
+											"{@area Euryale|1b8|x}",
 											"The Gardener",
 											"Late summer",
 											"Emerald",
@@ -8700,7 +8700,7 @@
 											"Wisdom"
 										],
 										[
-											"{@book Rogue|BMT|12|Rogue}",
+											"{@area Rogue|1ba|x}",
 											"Night's Edge",
 											"Early autumn",
 											"Jet",
@@ -8709,7 +8709,7 @@
 											"Dexterity"
 										],
 										[
-											"{@book Gem|BMT|12|Gem}",
+											"{@area Gem|1bc|x}",
 											"The Genie",
 											"Midautumn",
 											"Blue sapphire",
@@ -8718,7 +8718,7 @@
 											"Strength"
 										],
 										[
-											"{@book Talons|BMT|12|Talons}",
+											"{@area Talons|1be|x}",
 											"The Elder",
 											"Late autumn",
 											"Jade",
@@ -8727,7 +8727,7 @@
 											"Constitution"
 										],
 										[
-											"{@book Jester|BMT|12|Jester}",
+											"{@area Jester|1c0|x}",
 											"The Nilbog",
 											"Early winter",
 											"Pearl",
@@ -9388,7 +9388,7 @@
 											"page": 103,
 											"id": "1c9",
 											"entries": [
-												"Magical telescopes can see things an ordinary spyglass can't, from far-off worlds to incoming comets. Some astronomers, such as scholars of the Solar Bastion or the apocalyptic Heralds of the Comet, can use such telescopes to locate obscure wonders, like the Donjon Sphere. The Solar Bastion, Heralds of the Comet, and Donjon Sphere are detailed in {@book chapters 10|BMT|9}, {@book 12|BMT|11}, and {@book 17|BMT|16}, respectively."
+												"Magical telescopes can see things an ordinary spyglass can't, from far-off worlds to incoming comets. Some astronomers, such as scholars of the Solar Bastion or the apocalyptic Heralds of the Comet, can use such telescopes to locate obscure wonders, like the Donjon Sphere. The Solar Bastion, Heralds of the Comet, and Donjon Sphere are detailed in {@area chapters 10|148|x}, {@area 12|18c|x}, and {@area 17|22b|x}, respectively."
 											]
 										}
 									]
@@ -9502,7 +9502,7 @@
 											"page": 105,
 											"id": "1d0",
 											"entries": [
-												"A character who draws the Donjon card from the {@item Deck of Many Things} is whisked away to an extradimensional prison such as the Donjon Sphere, detailed in {@book chapter 17|BMT|16}. This remote dungeon drifts in the vast Astral Sea, so reaching it is no mean feat. However, a {@item Telescopic Transporter|BMT} is a ready\u2014if slightly unreliable\u2014means of reuniting the party. The Donjon Sphere holds one of these telescopes, so a character trapped there might use it to find a way home. At your discretion, the rest of the party could instead find a different {@i Telescopic Transporter} and use it to travel to the Donjon Sphere for a daring rescue mission."
+												"A character who draws the Donjon card from the {@item Deck of Many Things} is whisked away to an extradimensional prison such as the Donjon Sphere, detailed in {@area chapter 17|22b|x}. This remote dungeon drifts in the vast Astral Sea, so reaching it is no mean feat. However, a {@item Telescopic Transporter|BMT} is a ready\u2014if slightly unreliable\u2014means of reuniting the party. The Donjon Sphere holds one of these telescopes, so a character trapped there might use it to find a way home. At your discretion, the rest of the party could instead find a different {@i Telescopic Transporter} and use it to travel to the Donjon Sphere for a daring rescue mission."
 											]
 										}
 									]
@@ -9582,7 +9582,7 @@
 							"page": 106,
 							"id": "1d3",
 							"entries": [
-								"{@book Pazrodine|BMT|13|Moonstone Dragon}, a moonstone dragon with a peaceful demeanor, oversees Seelie Market. A consummate traveler, she is always searching for fey crossings, which she uses to travel between the Feywild and the Material Plane. {@filter Moonstone dragons|bestiary|source=FTD|search=moonstone} are detailed further in {@book Fizban's Treasury of Dragons|FTD}.",
+								"{@area Pazrodine|1ee|x}, a moonstone dragon with a peaceful demeanor, oversees Seelie Market. A consummate traveler, she is always searching for fey crossings, which she uses to travel between the Feywild and the Material Plane. {@filter Moonstone dragons|bestiary|source=FTD|search=moonstone} are detailed further in {@book Fizban's Treasury of Dragons|FTD}.",
 								"{@creature Pazrodine|BMT} never stays in one place for long, and she wants to see all the wonders the Feywild and Material Plane have to offer. Curious Fey asked to join her caravan, and before long, she had a menagerie of merchants accompanying her on her travels. {@creature Pazrodine|BMT} came to view these Fey merchants as her children. Their eager joy helps the dragon see the multiverse from new perspectives."
 							]
 						},
@@ -10433,7 +10433,7 @@
 									"page": 108,
 									"id": "1d7",
 									"entries": [
-										"Characters must give a lock of their hair to buy a fey fruit. The goblin vendors don't specify what they need the hair for, but they give the hair to Granny Goosefinger, the hag who runs the doll shop (see the {@book Antique Dolls|BMT|13|Antique Dolls} section), in exchange for jewelry."
+										"Characters must give a lock of their hair to buy a fey fruit. The goblin vendors don't specify what they need the hair for, but they give the hair to Granny Goosefinger, the hag who runs the doll shop (see the {@area Antique Dolls|1eb|x} section), in exchange for jewelry."
 									]
 								}
 							]
@@ -10572,7 +10572,7 @@
 										]
 									],
 									"footnotes": [
-										"*This spell appears in {@book chapter 7|BMT|6}."
+										"*This spell appears in {@area chapter 7|09a|x}."
 									]
 								},
 								"Each of Lavender's scrolls is no bigger than a human thumb. Thanks to her minuscule handwriting, characters will need a {@item magnifying glass|PHB} to read one. They can purchase a magnifying glass from the Antique Doll Emporium, and Lavender directs a character there if an adventurer comments on her small handwriting.",
@@ -10860,7 +10860,7 @@
 									],
 									"by": "Asteria"
 								},
-								"When Seelie Market lands, its vendors gather rocks, leaves, and sticks to make an enormous nest for {@creature Pazrodine|BMT}. (See the \"{@book Pazrodine|BMT|13|Pazrodine}\" section at the beginning of this chapter for more information about the dragon.) She rests here while the market operates.",
+								"When Seelie Market lands, its vendors gather rocks, leaves, and sticks to make an enormous nest for {@creature Pazrodine|BMT}. (See the \"{@area Pazrodine|1d3|x}\" section at the beginning of this chapter for more information about the dragon.) She rests here while the market operates.",
 								"{@creature Pazrodine|BMT} senses when theft occurs in Seelie Market. She makes her way to the perpetrators and neutralizes the situation nonviolently, usually by using her Dream Breath. Once troublemakers come to, {@creature Pazrodine|BMT} politely but firmly asks them to leave the market. Those who object are flown out in her clutches.",
 								"If anyone comes to visit {@creature Pazrodine|BMT} at her refuge, she greets them and happily answers their questions about the market. The dragon has a soothing voice and demeanor."
 							]
@@ -10936,7 +10936,7 @@
 												{
 													"type": "item",
 													"name": "Weaker Construct",
-													"entry": "The {@creature stone golem} in {@book area 4|BMT|14|4: Courtyard} can be replaced with a {@creature clay golem}, a {@creature shield guardian}, or another weaker Construct."
+													"entry": "The {@creature stone golem} in {@area area 4|206|x} can be replaced with a {@creature clay golem}, a {@creature shield guardian}, or another weaker Construct."
 												},
 												{
 													"type": "item",
@@ -11015,7 +11015,7 @@
 							"page": 115,
 							"id": "1f7",
 							"entries": [
-								"Gremorly's ritual forces any Humanoid who dies within the keep to return as a ghost that's unable to pass beyond the keep's walls. The ritual can be broken by disassembling, moving, or destroying all three ritual rods, which the necromancer placed in the armory ({@book area 3|BMT|14|3: Armory}), the kitchen ({@book area 7|BMT|14|7: Kitchen and Pantry}), and the observatory ({@book area 15|BMT|14|15: Observatory}). Each rod is protected by a {@spell Glyph of Warding}. Once the ghost trap is broken, all the ghosts in the keep can leave except Gremorly, who remains to haunt the observatory.",
+								"Gremorly's ritual forces any Humanoid who dies within the keep to return as a ghost that's unable to pass beyond the keep's walls. The ritual can be broken by disassembling, moving, or destroying all three ritual rods, which the necromancer placed in the armory ({@area area 3|204|x}), the kitchen ({@area area 7|20c|x}), and the observatory ({@area area 15|21c|x}). Each rod is protected by a {@spell Glyph of Warding}. Once the ghost trap is broken, all the ghosts in the keep can leave except Gremorly, who remains to haunt the observatory.",
 								{
 									"type": "entries",
 									"name": "Side Effects",
@@ -11031,7 +11031,7 @@
 									"page": 115,
 									"id": "1f9",
 									"entries": [
-										"Three groups of adventurers who dared to explore Harrowhall were killed by Gremorly and are now trapped in the keep. Fate's Devout are in the dining hall ({@book area 6|BMT|14|6: Dining Hall}), the Spellseekers are in the eastern bedrooms ({@book area 10|BMT|14|10: Eastern Bedrooms}), and the Gloved Hand are in the crypt ({@book area 14|BMT|14|14: Crypt}). Each group can be customized to fit your campaign; for example, Fate's Devout might serve a prominent deity of fate in your setting, the Spellseekers might be Red Wizards of Thay, and the Gloved Hand might be Harpers.",
+										"Three groups of adventurers who dared to explore Harrowhall were killed by Gremorly and are now trapped in the keep. Fate's Devout are in the dining hall ({@area area 6|20a|x}), the Spellseekers are in the eastern bedrooms ({@area area 10|213|x}), and the Gloved Hand are in the crypt ({@area area 14|21a|x}). Each group can be customized to fit your campaign; for example, Fate's Devout might serve a prominent deity of fate in your setting, the Spellseekers might be Red Wizards of Thay, and the Gloved Hand might be Harpers.",
 										"The ghosts all hide from Gremorly. Although they know of the necromancer and the presence of other ghosts, they have forgotten most of what they knew in life, recalling little beyond the mission that brought them to the keep. The ghosts aren't hostile and act as allies to characters willing to help them. Destroying the ghosts is difficult, as they remain on the Border Ethereal and can't affect\u2014or be affected by\u2014anything on the Material Plane. The ghosts defend themselves if the characters attack them."
 									]
 								}
@@ -11043,7 +11043,7 @@
 							"page": 116,
 							"id": "1fa",
 							"entries": [
-								"A {@creature behir} has made its nest in the keep's watchtower ({@book area 2|BMT|14|2: Watchtower}), but the monster hunts throughout the keep. Characters might spot it at any time, and it might test their strength in a brief encounter before retreating to attack again later. If the characters take their time and the adventure needs more excitement, the behir could attack and fight to the death.",
+								"A {@creature behir} has made its nest in the keep's watchtower ({@area area 2|203|x}), but the monster hunts throughout the keep. Characters might spot it at any time, and it might test their strength in a brief encounter before retreating to attack again later. If the characters take their time and the adventure needs more excitement, the behir could attack and fight to the death.",
 								"The behir knows the corridors of the keep so well that it can move through a 10-foot-wide space, as well as any door in the keep, without squeezing."
 							]
 						},
@@ -12223,7 +12223,7 @@
 									"page": 117,
 									"id": "209",
 									"entries": [
-										"This room is mostly empty. One outer wall has a stained-glass window. Stairs lead to the crypt below. If the characters haven't encountered the Gloved Hand ({@book area 14|BMT|14|14: Crypt}) yet, they hear the faint echo of an argument coming from below."
+										"This room is mostly empty. One outer wall has a stained-glass window. Stairs lead to the crypt below. If the characters haven't encountered the Gloved Hand ({@area area 14|21a|x}) yet, they hear the faint echo of an argument coming from below."
 									]
 								},
 								{
@@ -12241,10 +12241,10 @@
 											]
 										},
 										"In life, the three {@creature Ghost||ghosts} were an adventuring party known as Fate's Devout. Wielding divine magic, they traveled across the realm to carry out Istus's will. They came to this keep because they heard it was holy to Istus, but Gremorly killed them.",
-										"The ghosts are alarmed by the unholy magic gathering in the keep's chapel ({@book area 11|BMT|14|11: Chapel}), a side effect of Gremorly's ghost trap ritual being unsupervised for so long. They want to purify the chapel and escape the keep, but they're afraid of Gremorly. When the characters arrive, the ghosts are debating their next course of action, which is made difficult by the fact that the ghosts remember only the most recent events clearly.",
+										"The ghosts are alarmed by the unholy magic gathering in the keep's chapel ({@area area 11|215|x}), a side effect of Gremorly's ghost trap ritual being unsupervised for so long. They want to purify the chapel and escape the keep, but they're afraid of Gremorly. When the characters arrive, the ghosts are debating their next course of action, which is made difficult by the fact that the ghosts remember only the most recent events clearly.",
 										"The leader of Fate's Devout is Moira Stonehearth, who was a priest in life. The other members are Gunter Granitefist and Ragar Onyx. When the three notice the characters, Moira asks for aid. She tries to be warm and friendly, but her imprisonment in Harrowhall has damaged her memory. She explains that none of the ghosts can escape the keep or pass on due to a ritual performed by a powerful necromancer who lives here. Moira doesn't know Gremorly's name or that he is dead. She knows the keep holds other ghosts but knows nothing else about them.",
 										"Moira asks the characters to go 120with her and her companions to the chapel and defend them from the evil magic there while they attempt to reconsecrate it. She hopes reconsecrating the chapel to Istus will break the ritual and allow the ghosts to move on, but it won't. Moira can teach the consecration ritual to anyone who speaks Dwarvish, but she offers only if asked. Teaching the ritual takes an hour. See area 11 for more on performing the consecration ritual.",
-										"These dwarves know the location of the chapel ({@book area 11|BMT|14|11: Chapel}) and can lead the characters there if the characters agree to help. Otherwise, the ghosts won't leave the dining hall."
+										"These dwarves know the location of the chapel ({@area area 11|215|x}) and can lead the characters there if the characters agree to help. Otherwise, the ghosts won't leave the dining hall."
 									]
 								},
 								{
@@ -12260,7 +12260,7 @@
 											"page": 120,
 											"id": "20d",
 											"entries": [
-												"A second ritual rod, identical to the one in the armory ({@book area 3|BMT|14|3: Armory}), stands in the center of the kitchen. This rod is also protected by a {@spell Glyph of Warding}, but if triggered, the explosive runes deal cold damage instead of acid damage."
+												"A second ritual rod, identical to the one in the armory ({@area area 3|204|x}), stands in the center of the kitchen. This rod is also protected by a {@spell Glyph of Warding}, but if triggered, the explosive runes deal cold damage instead of acid damage."
 											]
 										},
 										{
@@ -12355,7 +12355,7 @@
 											"page": 120,
 											"id": "216",
 											"entries": [
-												"The corruption of this chapel persists even if Gremorly's ritual is broken. But the members of Fate's Devout\u2014the ghostly adventurers in the dining hall ({@book area 6|BMT|14|6: Dining Hall})\u2014know a ritual to purify the place. They tried it once but were attacked by \"unholy beings\" and fled. If the characters bring Fate's Devout back to the chapel, they'll try this ritual again, asking the characters to protect them from harm.",
+												"The corruption of this chapel persists even if Gremorly's ritual is broken. But the members of Fate's Devout\u2014the ghostly adventurers in the dining hall ({@area area 6|20a|x})\u2014know a ritual to purify the place. They tried it once but were attacked by \"unholy beings\" and fled. If the characters bring Fate's Devout back to the chapel, they'll try this ritual again, asking the characters to protect them from harm.",
 												"The three ghosts gather around the altar, chanting an ancient prayer in Dwarvish. They must stay on the Material Plane for the duration of the ritual. Shortly after the ghosts begin praying, three {@creature Shadow Demon||shadow demons} seep from the corners of the room. The demons attack the ghosts, but a demon that's attacked by a character shifts its focus to that character. When two shadow demons are killed, the remaining one flees. After 3 rounds, if all the ritual's participants are still chanting, the ritual succeeds, and the necromancy suffusing the chapel vanishes. If a ghost is reduced to 0 hit points, a character trained in the ritual can replace the fallen ghost, but the character must stand adjacent to the altar and use their action each round for the remainder of the ritual to chant the necessary incantations. If the ritual fails, surviving members of Fate's Devout can try again, but they might need further help from the characters, as three participants are required."
 											]
 										}
@@ -12384,7 +12384,7 @@
 											"page": 121,
 											"id": "219",
 											"entries": [
-												"Once the characters deal with the phase spiders, they\u2014or the Spellseekers from {@book area 10|BMT|14|10: Eastern Bedrooms}\u2014can search for Exploring Arcanum, a book from Gremorly's collection that includes the ritual he used to make his ghost trap. Characters can find the tome with 10 minutes of careful searching. The book explains how the ritual rods must be placed and how to safely move them; any character who reads this ritual can move or dismantle the ritual rods without triggering their {@spell Glyph of Warding||Glyphs of Warding}."
+												"Once the characters deal with the phase spiders, they\u2014or the Spellseekers from {@area area 10|213|x}\u2014can search for Exploring Arcanum, a book from Gremorly's collection that includes the ritual he used to make his ghost trap. Characters can find the tome with 10 minutes of careful searching. The book explains how the ritual rods must be placed and how to safely move them; any character who reads this ritual can move or dismantle the ritual rods without triggering their {@spell Glyph of Warding||Glyphs of Warding}."
 											]
 										}
 									]
@@ -12413,14 +12413,14 @@
 									"page": 121,
 									"id": "21c",
 									"entries": [
-										"This room has a domed glass ceiling and contains three large standing telescopes, each covered in dust. A large, round table in the middle of the room bears old, faded maps that depict the Sky of Many Things (see {@book chapter 13|BMT|12}). A staff leans against the table, and a book lies atop it (see the \"Treasure\" section below).",
+										"This room has a domed glass ceiling and contains three large standing telescopes, each covered in dust. A large, round table in the middle of the room bears old, faded maps that depict the Sky of Many Things (see {@area chapter 13|1a6|x}). A staff leans against the table, and a book lies atop it (see the \"Treasure\" section below).",
 										{
 											"type": "entries",
 											"name": "Ritual Rod",
 											"page": 121,
 											"id": "21d",
 											"entries": [
-												"A third ritual rod, identical to the one in the armory (see {@book area 3|BMT|14|3: Armory}), stands in the northwest corner of the room. This rod is also protected by a {@spell Glyph of Warding}, but if triggered, the explosive runes deal fire damage instead of acid damage.",
+												"A third ritual rod, identical to the one in the armory (see {@area area 3|204|x}), stands in the northwest corner of the room. This rod is also protected by a {@spell Glyph of Warding}, but if triggered, the explosive runes deal fire damage instead of acid damage.",
 												"{@creature Gremorly's ghost|BMT} (see the accompanying stat block) haunts the observatory. He appears as a translucent human figure wearing trousers, shoes, a long coat with wide sleeves, and a wizard's hat. He has a long beard and bushy eyebrows, and he carries a ghostly staff. Gremorly has forgotten the circumstances of his death and goes about his business as if he were still alive. He moves from one telescope to another, occasionally consulting the astronomical charts on the table or checking the ritual rod. He doesn't notice the characters unless they interact with him or the ritual rod. If the characters draw his attention, he snickers with glee. \"More fodder for my ghost army,\" he says, raising his staff. \"I hope you've made peace with your gods.\" Gremorly fights until he is destroyed."
 											]
 										},
@@ -12511,7 +12511,7 @@
 						"A thousand years ago, minotaurs built a temple to Bahamut and other gods of good under a towering hill. But a cult dedicated to the demon lord Baphomet infiltrated the temple, and its members gradually took over the temple's leadership. When the cultists revealed their worship of Baphomet, the minotaurs dedicated to Bahamut rose up to reclaim the temple. After a bloody conflict, the survivors fled, leaving the temple abandoned.",
 						"Hundreds of years later, monastic knights chose the hill for their order's home and began building a defensive structure atop the site. A massive wall surrounded much of the hill, leaving only its impassible western face unguarded. The knights built an abbey, a barrack, a memorial hall, and more at the summit of the hill, and dug catacombs in which to bury the order's honored dead. While excavating these catacombs, the knights discovered the minotaur temple. The captain of the order sealed the minotaur ruins to keep them secret.",
 						"As decades passed, a village grew within the fortress's outer wall, and the knights became a local power. They warred against wicked foes, including followers of the serpent god Zehir and an infamous hobgoblin warlord, whose infernal stronghold they sacked, carrying away many trophies\u2014including a {@item Deck of Many Things}. The legendary magic item was hidden in the vaults and warded with powerful spells to prevent its detection and theft.",
-						"But five hundred years ago, a vengeful army laid siege to the abbey. The outcome of the battle was still in doubt when the captain of the abbey, Havarr Nenlast, drew from the {@item Deck of Many Things} in an attempt to turn the tide. When he drew the Skull card, the terrifying Undead created by that card (see {@book chapter 19|BMT|18}) detected the deck at last. Within minutes, more Undead arrived at the abbey and began slaughtering everyone in their path. Havarr and the other knights of the abbey were killed, along with most of the invaders, and the deck was scattered.",
+						"But five hundred years ago, a vengeful army laid siege to the abbey. The outcome of the battle was still in doubt when the captain of the abbey, Havarr Nenlast, drew from the {@item Deck of Many Things} in an attempt to turn the tide. When he drew the Skull card, the terrifying Undead created by that card (see {@area chapter 19|2d8|x}) detected the deck at last. Within minutes, more Undead arrived at the abbey and began slaughtering everyone in their path. Havarr and the other knights of the abbey were killed, along with most of the invaders, and the deck was scattered.",
 						"Centuries passed. Refugees from the besieging army settled in the ruined village on the hill's lower slopes, but in time they returned home. Mekkalath, a {@creature young red dragon}, claimed the catacombs under the abbey as his lair. Adventurers reassembling the scattered deck killed a beholder trapped in the abbey's watchtower, but Mekkalath drove the adventurers off and seized the deck.",
 						"Eventually Mekkalath outgrew the vaults. Eager to show off his glory, he moved his hoard\u2014which now included a {@item Deck of Many Things}\u2014to the surface ruins. The hill was gradually transformed by his magical nature, birthing lava flows, plumes of flame, and clouds of smoke.",
 						"A short time ago, a comet streaked across the sky above the abbey, signifying fell portents. The comet's otherworldly energy brought the slain beholder back as a death tyrant and drew the attention of minotaur scholars hoping to uncover the ancient temple beneath the abbey. Individuals throughout the multiverse who seek a {@item Deck of Many Things} now look to the ruins of Gardmore Abbey."
@@ -13135,7 +13135,7 @@
 					"page": 124,
 					"id": "224",
 					"entries": [
-						"The ruined abbey is too expansive to be completely detailed here. Instead, an overview of each area summarizes the terrain and any threats to be found there. Create specific encounters based on the actions your characters take, using the monsters listed and adding additional ones as you think appropriate. Two maps are provided: {@book map 16.1|BMT|15|Map 16.1: Ruins of Gardmore Abbey}, an overview of the entire ruined abbey, and {@book map 16.2|BMT|15|Map 16.2: Dragon's Roost}, a more detailed map of Mekkalath's lair at the top of the hill.",
+						"The ruined abbey is too expansive to be completely detailed here. Instead, an overview of each area summarizes the terrain and any threats to be found there. Create specific encounters based on the actions your characters take, using the monsters listed and adding additional ones as you think appropriate. Two maps are provided: {@area map 16.1|077|x}, an overview of the entire ruined abbey, and {@area map 16.2|078|x}, a more detailed map of Mekkalath's lair at the top of the hill.",
 						{
 							"type": "entries",
 							"name": "Outer Wall, Abandoned Village, and Ruined Keep",
@@ -13399,17 +13399,17 @@
 												{
 													"type": "item",
 													"name": "Asteria's Aid",
-													"entry": "The famous paladin {@creature Asteria|BMT}, detailed in {@book chapter 22|BMT|21}, keeps track of each {@item Deck of Many Things} and those who've suffered from their many hazards. She approaches the party after a character draws the Donjon card and disappears. {@creature Asteria|BMT} knows the pain of losing a friend to unjust imprisonment and offers to help. She draws a replica of the teleportation circle inside the sphere. If the party can find someone able to cast the {@spell Teleport} spell, they can safely teleport into the sphere."
+													"entry": "The famous paladin {@creature Asteria|BMT}, detailed in {@area chapter 22|32c|x}, keeps track of each {@item Deck of Many Things} and those who've suffered from their many hazards. She approaches the party after a character draws the Donjon card and disappears. {@creature Asteria|BMT} knows the pain of losing a friend to unjust imprisonment and offers to help. She draws a replica of the teleportation circle inside the sphere. If the party can find someone able to cast the {@spell Teleport} spell, they can safely teleport into the sphere."
 												},
 												{
 													"type": "item",
 													"name": "Observatory Assistance",
-													"entry": "Scholars at a nearby observatory\u2014such as the one described in {@book chapter 13|BMT|12|Example Observatory}\u2014spot an unidentified celestial object drifting across the night sky with their telescope. The observatory calls for brave adventurers to use its teleportation device to investigate."
+													"entry": "Scholars at a nearby observatory\u2014such as the one described in {@area chapter 13|1c7|x}\u2014spot an unidentified celestial object drifting across the night sky with their telescope. The observatory calls for brave adventurers to use its teleportation device to investigate."
 												},
 												{
 													"type": "item",
 													"name": "Solar Bastion Rescue",
-													"entry": "Hilarion, the angelic leader of the Solar Bastion (see {@book chapter 10|BMT|9}), recently sent a trio of knights to investigate the Donjon Sphere, but the knights failed to return. After learning that one of the characters recently drew the Donjon card from a {@item Deck of Many Things}, Hilarion offers to transport the party to the sphere to save their friend\u2014and, hopefully, the missing knights."
+													"entry": "Hilarion, the angelic leader of the Solar Bastion (see {@area chapter 10|148|x}), recently sent a trio of knights to investigate the Donjon Sphere, but the knights failed to return. After learning that one of the characters recently drew the Donjon card from a {@item Deck of Many Things}, Hilarion offers to transport the party to the sphere to save their friend\u2014and, hopefully, the missing knights."
 												}
 											]
 										}
@@ -13423,7 +13423,7 @@
 							"page": 133,
 							"id": "22f",
 							"entries": [
-								"The Donjon Sphere's hollow interior is divided into several nested layers, as shown in {@book map 17.1|BMT|16|Map 17.1: Donjon Sphere}. A complex web of metal tunnels and gears, navigable only by the sphere's specially programmed detention drones, separates the layers.",
+								"The Donjon Sphere's hollow interior is divided into several nested layers, as shown in {@area map 17.1|08c|x}. A complex web of metal tunnels and gears, navigable only by the sphere's specially programmed detention drones, separates the layers.",
 								{
 									"type": "entries",
 									"name": "Outer Surface",
@@ -13459,7 +13459,7 @@
 									"page": 133,
 									"id": "233",
 									"entries": [
-										"The center of the Donjon Sphere is a massive molten ball created by the planar portal in {@book area 33|BMT|16|33: Portal Chamber} of the Donjon Core. This ball of fire generates power used throughout the sphere."
+										"The center of the Donjon Sphere is a massive molten ball created by the planar portal in {@area area 33|27d|x} of the Donjon Core. This ball of fire generates power used throughout the sphere."
 									]
 								}
 							]
@@ -13493,7 +13493,7 @@
 										{
 											"type": "item",
 											"name": "Simulacrum for a Session",
-											"entry": "When strange magic is at play, a figment of the separated character might appear. Maybe a clone from an alternate dimension offers to help the party rescue the missing character. Perhaps the Donjon Sphere's simulation chambers ({@book area 25|BMT|16|25: Simulation Chambers}) can be used to project a simulacrum of the imprisoned character."
+											"entry": "When strange magic is at play, a figment of the separated character might appear. Maybe a clone from an alternate dimension offers to help the party rescue the missing character. Perhaps the Donjon Sphere's simulation chambers ({@area area 25|271|x}) can be used to project a simulacrum of the imprisoned character."
 										},
 										{
 											"type": "item",
@@ -13502,7 +13502,7 @@
 										}
 									]
 								},
-								"More advice on this topic, and how to accommodate a player who suddenly can't play their usual character, can be found in {@book chapter 18|BMT|17}."
+								"More advice on this topic, and how to accommodate a player who suddenly can't play their usual character, can be found in {@area chapter 18|27f|x}."
 							]
 						},
 						{
@@ -13511,7 +13511,7 @@
 							"page": 134,
 							"id": "236",
 							"entries": [
-								"The \"{@book Donjon Core Locations|BMT|16|Donjon Core Locations}\" section later in this chapter includes a variety of areas where prisoners could be found; in particular, a trapped character is likely to be found in one of the stasis pods ({@book area 5|BMT|16|5: Stasis Pods}) or, if they resisted the detention drones, one of the isolation chambers ({@book area 20|BMT|16|20: Isolation Chambers}). Alternatively, the character might have escaped already and be found wandering in the sphere.",
+								"The \"{@area Donjon Core Locations|243|x}\" section later in this chapter includes a variety of areas where prisoners could be found; in particular, a trapped character is likely to be found in one of the stasis pods ({@area area 5|24a|x}) or, if they resisted the detention drones, one of the isolation chambers ({@area area 20|261|x}). Alternatively, the character might have escaped already and be found wandering in the sphere.",
 								"If it would better fit your group, a trapped character can mysteriously reappear after a few in-game hours or days, rejoining the party on their own. Those who return from the sphere in this way never remember how they escaped\u2014nor do they return wholly unchanged. Use the following curse, the Mark of the Donjon, to represent the transformation of a character who escapes the Donjon Sphere under mysterious circumstances.",
 								{
 									"type": "entries",
@@ -13599,8 +13599,8 @@
 									"height": 996
 								},
 								"As the Donjon Sphere drifts about the Astral Sea, its systems send mechanical scouts called detention drones to nearby worlds to acquire new captives. Detention drones are Constructs that follow their ancient programming mindlessly and unerringly.",
-								"A detention drone is hostile to creatures without key cards (see the \"{@book Doors and Key Cards|BMT|16|Doors and Key Cards}\" section) but indifferent to a creature with a key card and anyone accompanying them, unless attacked. Detention drones don't carry key cards and can't open locked doors, but they can travel through maintenance shafts (see the \"{@book Maintenance Shaft|BMT|16|Maintenance Shafts}\" section). After {@dice 2d4} days of service, a detention drone must spend 24 hours resting in a rewinding station (such as those in {@book area 7|BMT|16|7: Drone Containment}) before it can resume service.",
-								"Detention drones vary in size, strength, and shape, though most are shaped like some kind of mechanical animal or plant. You can use the game statistics for any Construct to represent a detention drone; see \"{@book Drone Patrols|BMT|16|Drone Patrols}\" below for suggestions. All detention drones have a flying speed of 30 feet, the ability to hover, and the following action option:",
+								"A detention drone is hostile to creatures without key cards (see the \"{@area Doors and Key Cards|23e|x}\" section) but indifferent to a creature with a key card and anyone accompanying them, unless attacked. Detention drones don't carry key cards and can't open locked doors, but they can travel through maintenance shafts (see the \"{@area Maintenance Shaft|242|x}\" section). After {@dice 2d4} days of service, a detention drone must spend 24 hours resting in a rewinding station (such as those in {@area area 7|24c|x}) before it can resume service.",
+								"Detention drones vary in size, strength, and shape, though most are shaped like some kind of mechanical animal or plant. You can use the game statistics for any Construct to represent a detention drone; see \"{@area Drone Patrols|23d|x}\" below for suggestions. All detention drones have a flying speed of 30 feet, the ability to hover, and the following action option:",
 								{
 									"type": "inset",
 									"id": "23b",
@@ -13723,7 +13723,7 @@
 							"page": 136,
 							"id": "242",
 							"entries": [
-								"Rectangular shafts, labeled {@book area 9|BMT|16|9: Maintenance Shaft} on map 17.2, allow detention drones to move throughout the sphere. Each shaft is protected by an iron grate, which has AC 19, 15 hit points, and immunity to poison and psychic damage. A detention drone within 10 feet of a grate can use an action to transmit a signal that shifts the grate aside. A drone that enters an open shaft can travel to any other shaft entrance in the Donjon core in {@dice 1d4} minutes.",
+								"Rectangular shafts, labeled {@area area 9|24e|x} on map 17.2, allow detention drones to move throughout the sphere. Each shaft is protected by an iron grate, which has AC 19, 15 hit points, and immunity to poison and psychic damage. A detention drone within 10 feet of a grate can use an action to transmit a signal that shifts the grate aside. A drone that enters an open shaft can travel to any other shaft entrance in the Donjon core in {@dice 1d4} minutes.",
 								"Any creature other than a detention drone that attempts to travel from one shaft entrance to another must make a {@dc 20} Wisdom ({@skill Survival}) check. On a failed check, the creature gets lost in the shafts for {@dice 2d4} hours before reemerging at a random shaft entrance in the Donjon core."
 							]
 						}
@@ -16055,7 +16055,7 @@
 							"entries": [
 								"At the center of this octagonal chamber's floor is a permanent teleportation circle etched in stone. Many newcomers to the sphere arrive via this circle, including creatures that draw the Donjon card from a {@item Deck of Many Things}. The teleportation circle can be used only to enter the sphere, not to leave it.",
 								"The door to the south has been punctured with a jagged hole big enough for Medium characters to squeeze through. Metallic rubble blocks the tunnel that leads north.",
-								"One round after the circle is activated, a drone patrol arrives from {@book area 7|BMT|16|7: Drone Containment} to escort any new arrivals to the stasis pods in {@book area 5|BMT|16|5: Stasis Pods}. Huge prisoners are taken to massive stasis pods in {@book area 18|BMT|16|18: Massive Stasis Pods} instead. Prisoners who put up an especially strong resistance might be taken directly to an isolation chamber in {@book area 20|BMT|16|20: Isolation Chambers}."
+								"One round after the circle is activated, a drone patrol arrives from {@area area 7|24c|x} to escort any new arrivals to the stasis pods in {@area area 5|24a|x}. Huge prisoners are taken to massive stasis pods in {@area area 18|25c|x} instead. Prisoners who put up an especially strong resistance might be taken directly to an isolation chamber in {@area area 20|261|x}."
 							]
 						},
 						{
@@ -16075,7 +16075,7 @@
 							"id": "246",
 							"entries": [
 								"The sphere's chief engineer used this chamber as an office, a workshop, and living quarters.",
-								"The metal drawers along the south wall contain books inscribed with complex diagrams and technical instructions written in Infernal. One thick tome, titled {@i Elevator Manual}, contains the glyph sequence to bypass the lock on the elevator in {@book area 19|BMT|16|19: Elevator Room}. Another manual, titled {@i Control Gems}, describes how the sphere's creators employed the slaad control gems in {@book area 32|BMT|16|32: Control Gems} to contain the power of the elemental portal in {@book area 33|BMT|16|33: Portal Chamber}.",
+								"The metal drawers along the south wall contain books inscribed with complex diagrams and technical instructions written in Infernal. One thick tome, titled {@i Elevator Manual}, contains the glyph sequence to bypass the lock on the elevator in {@area area 19|260|x}. Another manual, titled {@i Control Gems}, describes how the sphere's creators employed the slaad control gems in {@area area 32|27c|x} to contain the power of the elemental portal in {@area area 33|27d|x}.",
 								{
 									"type": "entries",
 									"id": "247",
@@ -16111,7 +16111,7 @@
 								"The doors to this chamber are red.",
 								"Nine massive metal containers fill this sterile chamber. Each contains ten coffin-like, crystalline stasis pods, which slide in or out of their container. Each stasis pod contains an {@condition unconscious} Humanoid prisoner in a state of magical suspended animation. Most of these prisoners are {@creature Commoner||commoners}, but if you want to introduce a particular NPC to help the party or serve as an antagonist, that individual could be trapped in one of these pods. A character who drew the Donjon card from a {@item Deck of Many Things} could also be trapped here.",
 								"A stasis pod can be unlatched only from the outside. Each stasis pod is big enough to hold a Large creature and has AC 11, 15 hit points, and immunity to poison and psychic damage. If a living creature is placed in a powered, closed stasis pod for 1 minute, the creature has the {@condition unconscious} condition and is in stasis. While in stasis, the creature doesn't require air, food, or drink, and it doesn't age. If the creature is removed from the stasis pod or the stasis pod's power is shut off, the creature regains consciousness after 1 minute or once it takes damage.",
-								"The pods in the southwest corner were ruined when an umber hulk burst from its malfunctioning stasis pod. It smashed the pods around it in a rage, then burrowed through the wall, creating {@book area 10|BMT|16|10: Umber Hulk Tunnel}."
+								"The pods in the southwest corner were ruined when an umber hulk burst from its malfunctioning stasis pod. It smashed the pods around it in a rage, then burrowed through the wall, creating {@area area 10|24f|x}."
 							]
 						},
 						{
@@ -16121,7 +16121,7 @@
 							"id": "24b",
 							"entries": [
 								"The door at this hall's north end is red.",
-								"A locked yellow hatch in the floor in an alcove off this hallway covers a ladder that connects to {@book area 31|BMT|16|31: Reconstructory} below. The hatch is a yellow door."
+								"A locked yellow hatch in the floor in an alcove off this hallway covers a ladder that connects to {@area area 31|27b|x} below. The hatch is a yellow door."
 							]
 						},
 						{
@@ -16150,7 +16150,7 @@
 							"page": 138,
 							"id": "24e",
 							"entries": [
-								"These access tunnels are used by detention drones to move throughout the sphere. See \"{@book Donjon Sphere Features|BMT|16|Donjon Sphere Features}\" for more information."
+								"These access tunnels are used by detention drones to move throughout the sphere. See \"{@area Donjon Sphere Features|238|x}\" for more information."
 							]
 						},
 						{
@@ -16159,7 +16159,7 @@
 							"page": 138,
 							"id": "24f",
 							"entries": [
-								"An umber hulk created this tunnel after freeing itself from a malfunctioning stasis pod in {@book area 5|BMT|16|5: Stasis Pods}. Protruding bits of metal and low ceilings make the tunnel {@book difficult terrain|PHB|8|Difficult Terrain}. To the south, the tunnel slopes upward to the Gilded Labyrinth."
+								"An umber hulk created this tunnel after freeing itself from a malfunctioning stasis pod in {@area area 5|24a|x}. Protruding bits of metal and low ceilings make the tunnel {@book difficult terrain|PHB|8|Difficult Terrain}. To the south, the tunnel slopes upward to the Gilded Labyrinth."
 							]
 						},
 						{
@@ -16168,7 +16168,7 @@
 							"page": 138,
 							"id": "250",
 							"entries": [
-								"The fine chairs, desks, and shelves that once furnished this spacious antechamber have all been torn to shreds. A character who searches for tracks and succeeds on a {@dc 10} Wisdom ({@skill Survival}) check finds large scrapes along the walls from the umber hulk that escaped {@book area 5|BMT|16|5: Stasis Pods}. The door in this chamber's north wall is red."
+								"The fine chairs, desks, and shelves that once furnished this spacious antechamber have all been torn to shreds. A character who searches for tracks and succeeds on a {@dc 10} Wisdom ({@skill Survival}) check finds large scrapes along the walls from the umber hulk that escaped {@area area 5|24a|x}. The door in this chamber's north wall is red."
 							]
 						},
 						{
@@ -16187,8 +16187,8 @@
 							"page": 138,
 							"id": "252",
 							"entries": [
-								"A closed portcullis divides this area from {@book area 6|BMT|16|6: Maintenance Hall}. The lever in {@book area 16|BMT|16|16: Observation Room} can raise the iron bars.",
-								"This hall was once a trap room featuring a balance beam that spanned a pit of grinding gears (see the {@trap Balance and Ruin|BMT} trap room in {@book chapter 4|BMT|3}). When a spelljamming ship from {@book area 23|BMT|16|23: Damselfly Bay} crashed into the eastern side of the hall, the trap was destroyed. The nonfunctional gears are {@book difficult terrain|PHB|8|Difficult Terrain}.",
+								"A closed portcullis divides this area from {@area area 6|24b|x}. The lever in {@area area 16|25a|x} can raise the iron bars.",
+								"This hall was once a trap room featuring a balance beam that spanned a pit of grinding gears (see the {@trap Balance and Ruin|BMT} trap room in {@area chapter 4|038|x}). When a spelljamming ship from {@area area 23|26f|x} crashed into the eastern side of the hall, the trap was destroyed. The nonfunctional gears are {@book difficult terrain|PHB|8|Difficult Terrain}.",
 								"A secret door is concealed in the northeast corner of this room."
 							]
 						},
@@ -16199,7 +16199,7 @@
 							"id": "253",
 							"entries": [
 								"Rubble and metal wreckage cover the ground of this ragged fissure. The ceiling is 20 feet high, and its magical light panels have been destroyed, leaving this area in darkness.",
-								"When escaped prisoners tried to fly the {@vehicle damselfly ship|AAG} in {@book area 23|BMT|16|23: Damselfly Bay} to safety, they crashed it midway through the launch bay, causing a chain of explosions that destroyed this area. A thick wall of debris, not shown on the map, blocks off the western half of the crash site.",
+								"When escaped prisoners tried to fly the {@vehicle damselfly ship|AAG} in {@area area 23|26f|x} to safety, they crashed it midway through the launch bay, causing a chain of explosions that destroyed this area. A thick wall of debris, not shown on the map, blocks off the western half of the crash site.",
 								{
 									"type": "entries",
 									"name": "14a: Damselfly Wreckage",
@@ -16215,7 +16215,7 @@
 									"page": 139,
 									"id": "255",
 									"entries": [
-										"Two {@creature Solar Bastion Knight|BMT|Solar Bastion knights} (see {@book chapter 10|BMT|9|Solar Bastion Knight}) set up camp here after losing a companion to a large drone patrol. These knights came to explore the Donjon Sphere and its connection to the {@item Deck of Many Things}. The knights are as follows:",
+										"Two {@creature Solar Bastion Knight|BMT|Solar Bastion knights} (see {@area chapter 10|150|x}) set up camp here after losing a companion to a large drone patrol. These knights came to explore the Donjon Sphere and its connection to the {@item Deck of Many Things}. The knights are as follows:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -16232,7 +16232,7 @@
 												}
 											]
 										},
-										"The knights are initially indifferent to the characters. If made friendly, they are willing to work with the party to escape the sphere. Emerist and Hielyo can tell the party about the secret doors between {@book areas 19|BMT|16|19: Elevator Room} and {@book 22a|BMT|16|22a: Communal Room}, though the knights don't know how to operate the elevator in area 19. They also offer the party a {@item Spell Scroll (1st Level)||Spell Scroll} of {@spell Comprehend Languages} and a {@item Chime of Opening} with 4 charges remaining. The {@item Chime of Opening} can be used to open key card\u2013locked doors like the {@spell Knock} spell, as described in the \"{@book Doors and Key Cards|BMT|16|Doors and Key Cards}\" section; when used this way, one use of the chime is equivalent to one casting of the {@spell Knock} spell."
+										"The knights are initially indifferent to the characters. If made friendly, they are willing to work with the party to escape the sphere. Emerist and Hielyo can tell the party about the secret doors between {@area areas 19|260|x} and {@area 22a|26a|x}, though the knights don't know how to operate the elevator in area 19. They also offer the party a {@item Spell Scroll (1st Level)||Spell Scroll} of {@spell Comprehend Languages} and a {@item Chime of Opening} with 4 charges remaining. The {@item Chime of Opening} can be used to open key card\u2013locked doors like the {@spell Knock} spell, as described in the \"{@area Doors and Key Cards|23e|x}\" section; when used this way, one use of the chime is equivalent to one casting of the {@spell Knock} spell."
 									]
 								},
 								{
@@ -16265,7 +16265,7 @@
 									"height": 2200
 								},
 								"Alien minerals and samples of rare ores line the shelves of this metallurgist's laboratory. An {@creature advanced detention drone|BMT} (use the {@creature shield guardian} stat block) stands in the room's corner. This Construct doesn't have a control amulet and can't be controlled like other shield guardians; it attacks any creature that enters the room without displaying a key card. It has the {@spell Confusion} spell stored.",
-								"A secret door in an alcove in this room's northeast corner leads to {@book area 17|BMT|16|17: Trash Disposal}.",
+								"A secret door in an alcove in this room's northeast corner leads to {@area area 17|25b|x}.",
 								{
 									"type": "entries",
 									"id": "258",
@@ -16289,7 +16289,7 @@
 							"page": 139,
 							"id": "25a",
 							"entries": [
-								"This room is reached by ascending stairs. The window in this chamber overlooks the trap room below. A lever on the south wall controls the portcullis north of {@book area 13|BMT|16|13: Ruined Trap Room}."
+								"This room is reached by ascending stairs. The window in this chamber overlooks the trap room below. A lever on the south wall controls the portcullis north of {@area area 13|252|x}."
 							]
 						},
 						{
@@ -16299,8 +16299,8 @@
 							"id": "25b",
 							"entries": [
 								"The eastern door to this chamber is blue.",
-								"Wide chutes along the edges of this room's floor connect to the crusher ({@book area 28|BMT|16|28: Crusher}), allowing for easy disposal of waste materials.",
-								"A {@creature flumph} named Bimbi hovers uncertainly, steeling itself to go down a chute to the crusher. It clutches a blue key card in its tentacles. Upon seeing the characters, Bimbi sighs with relief and explains it's searching for fresh brains to feed its friend, a mind flayer imprisoned in an isolation chamber ({@book area 20b|BMT|16|20b: Q'zar'ktan}). \"I used to find brains in the brain room,\" Bimbi burbles. \"But I knocked over some jars there, and the brains came to life!\" If the characters agree to clear the \"brain monsters\" out of {@book area 21|BMT|16|21: Brain Chamber}, the flumph gives them its key card."
+								"Wide chutes along the edges of this room's floor connect to the crusher ({@area area 28|277|x}), allowing for easy disposal of waste materials.",
+								"A {@creature flumph} named Bimbi hovers uncertainly, steeling itself to go down a chute to the crusher. It clutches a blue key card in its tentacles. Upon seeing the characters, Bimbi sighs with relief and explains it's searching for fresh brains to feed its friend, a mind flayer imprisoned in an isolation chamber ({@area area 20b|263|x}). \"I used to find brains in the brain room,\" Bimbi burbles. \"But I knocked over some jars there, and the brains came to life!\" If the characters agree to clear the \"brain monsters\" out of {@area area 21|266|x}, the flumph gives them its key card."
 							]
 						},
 						{
@@ -16316,7 +16316,7 @@
 									"page": 139,
 									"id": "25d",
 									"entries": [
-										"This room's western door has been destroyed. The corpse of an unarmed frost giant lies in a heap next to a smashed stasis pod. A character who succeeds on a {@dc 10} Wisdom ({@skill Survival}) check finds deep claw marks in the walls leading to area 18b, just like those in {@book area 11|BMT|16|11: Archive Antechamber}.",
+										"This room's western door has been destroyed. The corpse of an unarmed frost giant lies in a heap next to a smashed stasis pod. A character who succeeds on a {@dc 10} Wisdom ({@skill Survival}) check finds deep claw marks in the walls leading to area 18b, just like those in {@area area 11|250|x}.",
 										"A blue door is in the northeast corner."
 									]
 								},
@@ -16347,9 +16347,9 @@
 							"id": "260",
 							"entries": [
 								"The northern door to this chamber is yellow.",
-								"The round platform in the center of this room is a mechanical elevator, which connects to {@book area 27|BMT|16|27: Observatory} above and {@book area 32|BMT|16|32: Control Gems} below. A character who succeeds on a {@dc 20} Wisdom ({@skill Perception}) check spots a panel on the east wall that, when pushed, reveals a secret door.",
-								"A lever on the wall controls the elevator's operation. On the wall to the lever's right is a card slot. On the lever's opposite side protrudes a circular mechanism with three interlocking dials, each with a set of alien glyphs around the circumference. The lever won't budge unless a yellow key card is inserted into the card slot or the three dials are set to the correct sequence of glyphs. The sequence can be found in the tome {@i Elevator Manual} in {@book area 3|BMT|16|3: Engineer's Quarters}.",
-								"Once the elevator is activated, it takes 2 rounds for the elevator doors to close and 1 minute to reach area {@book 27|BMT|16|27: Observatory} or {@book 32|BMT|16|32: Control Gems}. After 5 minutes in either area, the elevator returns to this room.",
+								"The round platform in the center of this room is a mechanical elevator, which connects to {@area area 27|276|x} above and {@area area 32|27c|x} below. A character who succeeds on a {@dc 20} Wisdom ({@skill Perception}) check spots a panel on the east wall that, when pushed, reveals a secret door.",
+								"A lever on the wall controls the elevator's operation. On the wall to the lever's right is a card slot. On the lever's opposite side protrudes a circular mechanism with three interlocking dials, each with a set of alien glyphs around the circumference. The lever won't budge unless a yellow key card is inserted into the card slot or the three dials are set to the correct sequence of glyphs. The sequence can be found in the tome {@i Elevator Manual} in {@area area 3|246|x}.",
+								"Once the elevator is activated, it takes 2 rounds for the elevator doors to close and 1 minute to reach area {@area 27|276|x} or {@area 32|27c|x}. After 5 minutes in either area, the elevator returns to this room.",
 								"A secret door is hidden in the eastern wall."
 							]
 						},
@@ -16375,7 +16375,7 @@
 									"page": 140,
 									"id": "263",
 									"entries": [
-										"The {@creature mind flayer} in this room, named Q'zar'ktan, recently established a symbiotic relationship with Bimbi, the flumph in {@book area 17|BMT|16|17: Trash Disposal}. Bimbi brings Q'zar'ktan preserved brains to eat. In exchange, Q'zar'ktan allows the flumph to harmlessly siphon some of the mind flayer's mental energy. Q'zar'ktan, morose and resigned to its fate in this dungeon, is initially indifferent to characters. It tells them about its predicament and mentions that the flumph hasn't stopped by in a while."
+										"The {@creature mind flayer} in this room, named Q'zar'ktan, recently established a symbiotic relationship with Bimbi, the flumph in {@area area 17|25b|x}. Bimbi brings Q'zar'ktan preserved brains to eat. In exchange, Q'zar'ktan allows the flumph to harmlessly siphon some of the mind flayer's mental energy. Q'zar'ktan, morose and resigned to its fate in this dungeon, is initially indifferent to characters. It tells them about its predicament and mentions that the flumph hasn't stopped by in a while."
 									]
 								},
 								{
@@ -16417,7 +16417,7 @@
 							"entries": [
 								"The door to this chamber is red.",
 								"A strange, silver machine rests between a pair of metal chairs in the center of this room. Shelves lining the walls hold potion bottles and glass jars, many of which contain brains suspended in colorful liquid. Glassware on one shelf has been knocked over, covering the floor in broken glass.",
-								"Bimbi the flumph ({@book area 17|BMT|16|17: Trash Disposal}) accidentally spilled many of the jars here; the resulting alchemical stew mutated three of the brains in this room. The now-floating brains (use the {@creature grell} stat block) attack any creatures that enter the area.",
+								"Bimbi the flumph ({@area area 17|25b|x}) accidentally spilled many of the jars here; the resulting alchemical stew mutated three of the brains in this room. The now-floating brains (use the {@creature grell} stat block) attack any creatures that enter the area.",
 								"Two helmet-like contraptions, one per chair, dangle from silver cords attached to the machine in this room's center. When the machine is activated as an action while two creatures wear the helmets, the creatures instantly switch bodies (an unwilling creature can make a {@dc 18} Wisdom saving throw, causing the machine to fail on a successful saving throw). Each creature retains its personality and memories but exchanges all game statistics (its stat block or character sheet) with the other creature. Both creatures have the {@condition stunned} condition for 1 minute as they adjust to their new bodies.",
 								{
 									"type": "entries",
@@ -16442,7 +16442,7 @@
 							"page": 141,
 							"id": "269",
 							"entries": [
-								"These sparse living quarters contain desks, beds, and shelves. Red doors connect {@book areas 22b|BMT|16|22b: Oily Floor}, {@book 22c|BMT|16|22c: Glowing Orb}, and {@book 22d|BMT|16|22d: Prisoner's Remains} to area 22a and the hallway to the west.",
+								"These sparse living quarters contain desks, beds, and shelves. Red doors connect {@area areas 22b|26b|x}, {@area 22c|26c|x}, and {@area 22d|26d|x} to area 22a and the hallway to the west.",
 								{
 									"type": "entries",
 									"name": "22a: Communal Room",
@@ -16477,7 +16477,7 @@
 									"page": 141,
 									"id": "26d",
 									"entries": [
-										"Skeletal remains of an escaped prisoner lie in a corner of this chamber. Among the prisoner's gear are a suit of {@item leather armor|PHB}, a {@item morningstar|PHB}, a red key card, and a journal. The journal describes how the prisoner escaped {@book area 13|BMT|16|13: Ruined Trap Room} via a secret door and found some equipment in {@book area 16|BMT|16|16: Observation Room} before coming here."
+										"Skeletal remains of an escaped prisoner lie in a corner of this chamber. Among the prisoner's gear are a suit of {@item leather armor|PHB}, a {@item morningstar|PHB}, a red key card, and a journal. The journal describes how the prisoner escaped {@area area 13|252|x} via a secret door and found some equipment in {@area area 16|25a|x} before coming here."
 									]
 								},
 								{
@@ -16499,7 +16499,7 @@
 							"id": "26f",
 							"entries": [
 								"The door to this chamber is yellow.",
-								"A dragonfly-shaped spacecraft called a {@vehicle damselfly ship|AAG} was once docked here. Some prisoners attempted to use the ship to leave the Donjon Sphere, but they crashed during the launch. The wreckage of the damselfly ship is scattered about {@book area 14|BMT|16|14: Crash Site}."
+								"A dragonfly-shaped spacecraft called a {@vehicle damselfly ship|AAG} was once docked here. Some prisoners attempted to use the ship to leave the Donjon Sphere, but they crashed during the launch. The wreckage of the damselfly ship is scattered about {@area area 14|253|x}."
 							]
 						},
 						{
@@ -16518,14 +16518,14 @@
 							"page": 143,
 							"id": "271",
 							"entries": [
-								"The sphere's creators used these rooms to create simulations of the natural environments of prisoners. Normally large and empty, the rooms can be filled with whatever illusions the experimenter in {@book area 26|BMT|16|26: Observation Room} chooses. Windows look down on the two chambers from area 26, but those windows aren't visible from the simulation chambers. The two chambers are connected by a corridor that extends under area 26. The doors to this connecting corridor are blue.",
+								"The sphere's creators used these rooms to create simulations of the natural environments of prisoners. Normally large and empty, the rooms can be filled with whatever illusions the experimenter in {@area area 26|274|x} chooses. Windows look down on the two chambers from area 26, but those windows aren't visible from the simulation chambers. The two chambers are connected by a corridor that extends under area 26. The doors to this connecting corridor are blue.",
 								{
 									"type": "entries",
 									"name": "25a: Western Simulator",
 									"page": 143,
 									"id": "272",
 									"entries": [
-										"This simulation chamber contains four {@creature Mimic||mimics} trained to play along with whatever illusion magic is cast on the room from {@book area 26|BMT|16|26: Observation Room}. As long as the mimics have a scene to take part in, they cooperate peacefully, taking on the roles of whatever furniture, fixtures, or other domestic trappings best suit the illusion. If the room isn't affected by an illusion, the mimics assume the forms of two metal chairs, a table, and a bed."
+										"This simulation chamber contains four {@creature Mimic||mimics} trained to play along with whatever illusion magic is cast on the room from {@area area 26|274|x}. As long as the mimics have a scene to take part in, they cooperate peacefully, taking on the roles of whatever furniture, fixtures, or other domestic trappings best suit the illusion. If the room isn't affected by an illusion, the mimics assume the forms of two metal chairs, a table, and a bed."
 									]
 								},
 								{
@@ -16574,8 +16574,8 @@
 							"page": 143,
 							"id": "276",
 							"entries": [
-								"An alcove at one edge of this chamber holds a platform for the elevator to {@book area 19|BMT|16|19: Elevator Room}.",
-								"A massive telescope protrudes from the center of this room, its lens aimed through a hole in the ceiling that extends all the way through the Donjon Sphere. A complex array of levers that lines the telescope can rotate the Donjon Sphere to allow the telescope to change its field of view. This telescope is a {@item Telescopic Transporter|BMT} (see {@book chapter 13|BMT|12|Telescopic Transporter}). One or more characters could use it to escape the Donjon Sphere."
+								"An alcove at one edge of this chamber holds a platform for the elevator to {@area area 19|260|x}.",
+								"A massive telescope protrudes from the center of this room, its lens aimed through a hole in the ceiling that extends all the way through the Donjon Sphere. A complex array of levers that lines the telescope can rotate the Donjon Sphere to allow the telescope to change its field of view. This telescope is a {@item Telescopic Transporter|BMT} (see {@area chapter 13|1cf|x}). One or more characters could use it to escape the Donjon Sphere."
 							]
 						},
 						{
@@ -16584,14 +16584,14 @@
 							"page": 143,
 							"id": "277",
 							"entries": [
-								"Waste from {@book area 17|BMT|16|17: Trash Disposal} above arrives here to be pulverized by sloped grinding gears. Sufficiently ground-up materials fall through a screen to a conveyor belt that transfers them to the forge in {@book area 29|BMT|16|29: Forge}.",
+								"Waste from {@area area 17|25b|x} above arrives here to be pulverized by sloped grinding gears. Sufficiently ground-up materials fall through a screen to a conveyor belt that transfers them to the forge in {@area area 29|279|x}.",
 								"A creature that enters a space of crushing gears for the first time on a turn or starts its turn there takes 27 ({@dice 5d10}) bludgeoning damage.",
 								{
 									"type": "inset",
 									"id": "278",
 									"entries": [
 										"Conveyors",
-										"Conveyor belts connect {@book areas 28|BMT|16|28: Crusher}\u2013{@book 31|BMT|16|31: Reconstructory}, allowing the steady transfer of materials between parts of the inner core. Each round on initiative count 20 (losing ties), the conveyors move anything on them 40 feet in the direction indicated on {@book map 17.2|BMT|16|Map 17.2: Donjon Core}."
+										"Conveyor belts connect {@area areas 28|277|x}\u2013{@area 31|27b|x}, allowing the steady transfer of materials between parts of the inner core. Each round on initiative count 20 (losing ties), the conveyors move anything on them 40 feet in the direction indicated on {@area map 17.2|079|x}."
 									]
 								}
 							]
@@ -16624,7 +16624,7 @@
 							"id": "27b",
 							"entries": [
 								"The Donjon Sphere constantly repairs itself. New metal plates, iron bars, and other construction materials are fabricated in this automated factory. Finished materials are removed from here into the maintenance shaft network, where they're handled by detention drones.",
-								"A creature that ends its turn in this area must make a {@dc 15} Dexterity saving throw. Small and smaller creatures have advantage on this save. On a failed save, the creature takes 22 ({@dice 4d10}) slashing damage as automation moves it through the maintenance shaft network; the creature ends its turn inside a random maintenance shaft somewhere on {@book map 17.2|BMT|16|Map 17.2: Donjon Core} (DM's discretion)."
+								"A creature that ends its turn in this area must make a {@dc 15} Dexterity saving throw. Small and smaller creatures have advantage on this save. On a failed save, the creature takes 22 ({@dice 4d10}) slashing damage as automation moves it through the maintenance shaft network; the creature ends its turn inside a random maintenance shaft somewhere on {@area map 17.2|079|x} (DM's discretion)."
 							]
 						},
 						{
@@ -16633,7 +16633,7 @@
 							"page": 143,
 							"id": "27c",
 							"entries": [
-								"At each corner of this rectangular set of corridors is a circular room that contains a slaad control gem mounted in a filigreed contraption atop a metal pedestal. The gems control the planar portal in {@book area 33|BMT|16|33: Portal Chamber}, which in turn generates the Donjon Sphere's fiery power core. Opening off one of the corridors is a circular chamber that holds a platform for the elevator in {@book area 19|BMT|16|19: Elevator Room}.",
+								"At each corner of this rectangular set of corridors is a circular room that contains a slaad control gem mounted in a filigreed contraption atop a metal pedestal. The gems control the planar portal in {@area area 33|27d|x}, which in turn generates the Donjon Sphere's fiery power core. Opening off one of the corridors is a circular chamber that holds a platform for the elevator in {@area area 19|260|x}.",
 								"As an action, a character with thieves' tools can try to remove a control gem, doing so with a successful {@dc 17} Dexterity ({@skill Sleight of Hand}) check. Alternatively, a character can remove a gem by force, taking an action and making a {@dc 15} Strength ({@skill Athletics}) check. On a failed check, the pedestal unleashes an arc of lightning that deals 14 ({@dice 4d6}) lightning damage to the character who attempted to remove the gem.",
 								"For each control gem removed, the portal in area 33 becomes less stable, which in turn affects the sphere's power core. The lights throughout the facility start blinking, and the sphere fills with the sounds of hissing steam and groaning metal. These effects intensify with each control gem removed.",
 								"If two gems are removed, the power core at the heart of the Donjon Sphere implodes after {@dice 2d8} hours. This is reduced to {@dice 1d4} hours if three gems are removed, and to just {@dice 1d4} minutes if all four gems are removed. Replacing all four gems before the power core implodes resets the time limit.",
@@ -16712,16 +16712,16 @@
 										{
 											"type": "item",
 											"name": "Herald of the Comet",
-											"entry": "The temporary character is an agent of the Heralds of the Comet (see {@book chapter 12|BMT|11}), a group that seeks the original {@item Deck of Many Things} for its own purposes. While the leaders of this apocalyptic cult are nihilists intent on the destruction of the multiverse, many lower-ranking members believe the organization has altruistic intentions and works for the greater good. This particular herald seeks insight that might be found within the House of Cards."
+											"entry": "The temporary character is an agent of the Heralds of the Comet (see {@area chapter 12|18c|x}), a group that seeks the original {@item Deck of Many Things} for its own purposes. While the leaders of this apocalyptic cult are nihilists intent on the destruction of the multiverse, many lower-ranking members believe the organization has altruistic intentions and works for the greater good. This particular herald seeks insight that might be found within the House of Cards."
 										},
 										{
 											"type": "item",
 											"name": "Solar Bastion Agent",
-											"entry": "The temporary character is an agent of the Solar Bastion (see {@book chapter 10|BMT|9}) who has been tracking the party's {@item Deck of Many Things}. This character is eager to help recover the lost soul; after all, the Solar Bastion was founded in response to a mortal being imprisoned by the Void. The character understands some of the Void's workings and can assist in opening the way to the House of Cards."
+											"entry": "The temporary character is an agent of the Solar Bastion (see {@area chapter 10|148|x}) who has been tracking the party's {@item Deck of Many Things}. This character is eager to help recover the lost soul; after all, the Solar Bastion was founded in response to a mortal being imprisoned by the Void. The character understands some of the Void's workings and can assist in opening the way to the House of Cards."
 										}
 									]
 								},
-								"Making a new character takes time. Place an encounter with a {@item Deck of Many Things} at the end of a session so the player whose character has been imprisoned can make a temporary character between sessions. A player who is happy with an iconic combination of background and class might be able to put together a character during a short break with the help of online tools. If you need the new character immediately, you can turn to stat blocks; the {@creature bandit captain}, {@creature berserker}, {@creature cult fanatic}, {@creature knight}, {@creature priest}, and {@creature spy} are great places to start. In this book, consider the {@creature initiate of the comet|BMT} (see {@book chapter 12|BMT|11|Initiate of the Comet}) or {@creature Solar Bastion knight|BMT} (see {@book chapter 10|BMT|9|Solar Bastion Knight}).",
+								"Making a new character takes time. Place an encounter with a {@item Deck of Many Things} at the end of a session so the player whose character has been imprisoned can make a temporary character between sessions. A player who is happy with an iconic combination of background and class might be able to put together a character during a short break with the help of online tools. If you need the new character immediately, you can turn to stat blocks; the {@creature bandit captain}, {@creature berserker}, {@creature cult fanatic}, {@creature knight}, {@creature priest}, and {@creature spy} are great places to start. In this book, consider the {@creature initiate of the comet|BMT} (see {@area chapter 12|199|x}) or {@creature Solar Bastion knight|BMT} (see {@area chapter 10|150|x}).",
 								{
 									"type": "inset",
 									"id": "282",
@@ -16778,7 +16778,7 @@
 					"page": 145,
 					"id": "287",
 					"entries": [
-						"The {@item Deck of Many Things} creates the House of Cards\u2014this demiplane dungeon doesn't exist until the Void card is drawn. The soul of the character who draws the card is trapped in a porcelain mask that resembles that character's face. The mask waits in a bound void within the House of Cards ({@book area 23|BMT|17|23: Void}), where an entity from the Far Realm known as a {@creature breath drinker|BMT} preys on any who come to rescue the trapped soul.",
+						"The {@item Deck of Many Things} creates the House of Cards\u2014this demiplane dungeon doesn't exist until the Void card is drawn. The soul of the character who draws the card is trapped in a porcelain mask that resembles that character's face. The mask waits in a bound void within the House of Cards ({@area area 23|2d0|x}), where an entity from the Far Realm known as a {@creature breath drinker|BMT} preys on any who come to rescue the trapped soul.",
 						{
 							"type": "entries",
 							"name": "Entering and Leaving the House",
@@ -16793,7 +16793,7 @@
 										{
 											"type": "item",
 											"name": "Life Force",
-											"entry": "As an action, a creature touching the deck can command the House of Cards to open. The deck absorbs life energy, giving the creature 5 levels of {@condition exhaustion}. These levels can be distributed among up to five willing creatures touching the deck. Then each creature touching the deck is transported to {@book area 1|BMT|17|1: Entrance} of the House of Cards."
+											"entry": "As an action, a creature touching the deck can command the House of Cards to open. The deck absorbs life energy, giving the creature 5 levels of {@condition exhaustion}. These levels can be distributed among up to five willing creatures touching the deck. Then each creature touching the deck is transported to {@area area 1|28b|x} of the House of Cards."
 										},
 										{
 											"type": "item",
@@ -19825,7 +19825,7 @@
 											"page": 147,
 											"id": "28e",
 											"entries": [
-												"The entrance to the Void chamber ({@book area 23|BMT|17|23: Void}) is hidden in this room, beneath the Key card. A character who examines the glowing Key card and succeeds on a {@dc 22} Wisdom ({@skill Perception}) check discovers the card could swivel, but the card doesn't move. The only way to rotate the card and reveal what lies beneath it is to use the {@item Chime of Opening} from the Key room ({@book area 18|BMT|17|18: Key}) on it. This reveals the Void card beneath\u2014the only such card in the entire dungeon. A creature that steps onto the Void card is teleported to area 23."
+												"The entrance to the Void chamber ({@area area 23|2d0|x}) is hidden in this room, beneath the Key card. A character who examines the glowing Key card and succeeds on a {@dc 22} Wisdom ({@skill Perception}) check discovers the card could swivel, but the card doesn't move. The only way to rotate the card and reveal what lies beneath it is to use the {@item Chime of Opening} from the Key room ({@area area 18|2c3|x}) on it. This reveals the Void card beneath\u2014the only such card in the entire dungeon. A creature that steps onto the Void card is teleported to area 23."
 											]
 										}
 									]
@@ -19948,7 +19948,7 @@
 												"At the east end of the middle hall is a pedestal shaped like bird's talons clutching a polished silver orb. The east end of the northernmost hall is a door illustrating the Moon card, in the center of which is an exaggerated keyhole. A door to the west displays the Fool card."
 											]
 										},
-										"This room is a version of the {@trap Surface of the Sun|BMT} trap in {@book chapter 4|BMT|3}, but it differs from that trap in the following ways:",
+										"This room is a version of the {@trap Surface of the Sun|BMT} trap in {@area chapter 4|038|x}, but it differs from that trap in the following ways:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -19986,7 +19986,7 @@
 												"A portcullis in the north wall blocks a door bearing the image of the Donjon card. On the stone arch above the portcullis, a large glyph depicts a waxing crescent moon, its right edge illuminated by the faintest sliver of light. Next to the portcullis, a large iron lever juts from the floor."
 											]
 										},
-										"Like the Sun room ({@book area 4|BMT|17|4: Sun}), this chamber is an elaborate trap. It is based on the {@book Test of the Empty Moon trap|BMT|3|Test of the Empty Moon} from {@book chapter 4|BMT|3} with these differences:",
+										"Like the Sun room ({@area area 4|295|x}), this chamber is an elaborate trap. It is based on the {@trap Test of the Empty Moon|BMT|Test of the Empty Moon trap} from {@area chapter 4|038|x} with these differences:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -20070,7 +20070,7 @@
 												"A narrow wooden beam spans the length of this chamber, from the west door, which bears the image of the Star card, to the east door, which bears the image of the Talons card. The beam crosses a twenty-five-foot-deep pit filled with grinding, blood-stained gears. The walls are metal cards devoid of grip."
 											]
 										},
-										"Like the Sun and Moon rooms ({@book areas 4|BMT|17|4: Sun} and {@book 5|BMT|17|5: Moon}), this chamber is an elaborate trap. See the {@book Balance and Ruin trap|BMT|3|Balance and Ruin} in {@book chapter 4|BMT|3} for complete details. This trap differs from the one described there in the following ways:",
+										"Like the Sun and Moon rooms ({@area areas 4|295|x} and {@area 5|297|x}), this chamber is an elaborate trap. See the {@trap Balance and Ruin|BMT|Balance and Ruin trap} in {@area chapter 4|038|x} for complete details. This trap differs from the one described there in the following ways:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -20102,7 +20102,7 @@
 												"A swirling starlight glow hovers above the floor here. The door in the east wall is the Balance card, and the door in the west wall is the Rogue card. The chamber is colder than other areas you've visited in the House of Cards."
 											]
 										},
-										"The starlight glow is a conduit to a living star (see the \"{@creature Living Portent|BMT|Variant: Servants of Living Stars}\" sidebar in {@book chapter 21|BMT|20} for examples). A creature that spends 10 minutes concentrating on the glow can contact the star and ask it questions as if using the {@spell Contact Other Plane} spell, including all the risks associated with that spell. A character who examines the starlight glow and succeeds on a {@dc 18} Intelligence ({@skill Arcana}) check intuits its purpose and property.",
+										"The starlight glow is a conduit to a living star (see the \"{@creature Living Portent|BMT|Variant: Servants of Living Stars}\" sidebar in {@area chapter 21|31e|x} for examples). A creature that spends 10 minutes concentrating on the glow can contact the star and ask it questions as if using the {@spell Contact Other Plane} spell, including all the risks associated with that spell. A character who examines the starlight glow and succeeds on a {@dc 18} Intelligence ({@skill Arcana}) check intuits its purpose and property.",
 										{
 											"type": "entries",
 											"name": "Secret Door",
@@ -20154,7 +20154,7 @@
 											"page": 149,
 											"id": "2a8",
 											"entries": [
-												"A door to the south bears the face of the Jester. The east door shows the Donjon. A secret door in the north wall leads to the Star room ({@book area 9|BMT|17|9: Star}); it is easily visible if approached from the corridor to area 9."
+												"A door to the south bears the face of the Jester. The east door shows the Donjon. A secret door in the north wall leads to the Star room ({@area area 9|2a1|x}); it is easily visible if approached from the corridor to area 9."
 											]
 										}
 									]
@@ -20179,8 +20179,8 @@
 											"page": 150,
 											"id": "2ab",
 											"entries": [
-												"Bindle asks the characters a riddle of your creation or one from {@book chapter 4|BMT|3}. Alternatively, the characters can ask Bindle a riddle of their own. If the characters answer Bindle's riddle or ask one, Bindle is delighted and allows them to stay in his room. With Bindle's blessing, the characters can rest here whenever and for as long as they wish.",
-												"If the characters refuse to participate in Bindle's riddle game, he flees and brings some of the dungeon's other inhabitants (such as the {@creature Talon Beast|BMT|talon beasts} in {@book area 7|BMT|17|7: Talons} or the {@creature Spy||spies} in {@book area 15|BMT|17|15: Rogue}) here to attack them."
+												"Bindle asks the characters a riddle of your creation or one from {@area chapter 4|038|x}. Alternatively, the characters can ask Bindle a riddle of their own. If the characters answer Bindle's riddle or ask one, Bindle is delighted and allows them to stay in his room. With Bindle's blessing, the characters can rest here whenever and for as long as they wish.",
+												"If the characters refuse to participate in Bindle's riddle game, he flees and brings some of the dungeon's other inhabitants (such as the {@creature Talon Beast|BMT|talon beasts} in {@area area 7|29d|x} or the {@creature Spy||spies} in {@area area 15|2b9|x}) here to attack them."
 											]
 										},
 										{
@@ -20189,7 +20189,7 @@
 											"page": 150,
 											"id": "2ac",
 											"entries": [
-												"If the characters continue to trade riddles with Bindle, answering at least one of his own while also asking one or more, the nonmagical Jester card he gave them gains a magical property (see the \"{@book Effects of Single Cards|BMT|1|Effects for Single Cards}\" section in {@book chapter 2|BMT|1})."
+												"If the characters continue to trade riddles with Bindle, answering at least one of his own while also asking one or more, the nonmagical Jester card he gave them gains a magical property (see the \"{@area Effects of Single Cards|018|x}\" section in {@area chapter 2|010|x})."
 											]
 										},
 										{
@@ -20223,7 +20223,7 @@
 											"page": 150,
 											"id": "2b0",
 											"entries": [
-												"A secret door in the north wall leads to the Jester room ({@book area 11|BMT|17|11: Jester}) and is easily visible from this side."
+												"A secret door in the north wall leads to the Jester room ({@area area 11|2a9|x}) and is easily visible from this side."
 											]
 										},
 										{
@@ -20341,7 +20341,7 @@
 											"page": 151,
 											"id": "2be",
 											"entries": [
-												"There are two secret doors: one behind the throne, which leads to {@book area 15|BMT|17|15: Rogue}, and one in the south wall, which leads to area 17. The door behind the throne is easily visible when approached from the corridor to area 15."
+												"There are two secret doors: one behind the throne, which leads to {@area area 15|2b9|x}, and one in the south wall, which leads to area 17. The door behind the throne is easily visible when approached from the corridor to area 15."
 											]
 										}
 									]
@@ -20359,7 +20359,7 @@
 												"A stone pedestal in the center of the room holds a bloodstained basin. A simple copper knife with a razor edge rests on the side of the basin. Words are inscribed on the basin's rim."
 											]
 										},
-										"This room has the only path to the Key room ({@book area 18|BMT|17|18: Key}), and it also provides a way to reach the Knight room ({@book area 19|BMT|17|19: Knight}) without passing through the Flames room ({@book area 20|BMT|17|20: Flames}).",
+										"This room has the only path to the Key room ({@area area 18|2c3|x}), and it also provides a way to reach the Knight room ({@area area 19|2c6|x}) without passing through the Flames room ({@area area 20|2c9|x}).",
 										{
 											"type": "entries",
 											"name": "Secret Doors",
@@ -20376,7 +20376,7 @@
 											"id": "2c2",
 											"entries": [
 												"The inscription on the basin reads, \"Once for reward, twice for compassion, thrice for salvation.\" A character cut by the copper knife who bleeds into the basin takes 7 ({@dice 2d6}) necrotic damage, and their hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the character finishes a long rest. This effect is a property of the basin; the knife is nonmagical.",
-												"After a character bleeds into the basin, the secret door leading north to the Throne room ({@book area 16|BMT|17|16: Throne}) is revealed by a glowing outline. Repeating the bleeding process within 10 minutes, whether by the same creature or a different one, reveals the secret door to area 19. If repeated again, it reveals the secret door to area 18."
+												"After a character bleeds into the basin, the secret door leading north to the Throne room ({@area area 16|2bc|x}) is revealed by a glowing outline. Repeating the bleeding process within 10 minutes, whether by the same creature or a different one, reveals the secret door to area 19. If repeated again, it reveals the secret door to area 18."
 											]
 										}
 									]
@@ -20401,7 +20401,7 @@
 											"page": 151,
 											"id": "2c5",
 											"entries": [
-												"The object above the pedestal is a {@item Chime of Opening}. It is inscribed with a small key and the following phrase in Common: \"At the beginning, I open the end.\" When a character carrying the chime moves toward {@book area 1|BMT|17|1: Entrance}, they hear a faint ringing that grows louder the closer they get to the Key card depicted in that room. Once they're in area 1, anyone in that room can hear the sound."
+												"The object above the pedestal is a {@item Chime of Opening}. It is inscribed with a small key and the following phrase in Common: \"At the beginning, I open the end.\" When a character carrying the chime moves toward {@area area 1|28b|x}, they hear a faint ringing that grows louder the closer they get to the Key card depicted in that room. Once they're in area 1, anyone in that room can hear the sound."
 											]
 										}
 									]
@@ -20427,7 +20427,7 @@
 											"page": 152,
 											"id": "2c8",
 											"entries": [
-												"A secret door to the north leads to the Puzzle room ({@book area 17|BMT|17|17: Puzzle}). This door is easily visible when approached from the corridor to area 17."
+												"A secret door to the north leads to the Puzzle room ({@area area 17|2bf|x}). This door is easily visible when approached from the corridor to area 17."
 											]
 										}
 									]
@@ -20447,7 +20447,7 @@
 											]
 										},
 										"The reader is Avalion, a {@creature glabrezu} in human shape. He greets the characters amiably and offers the hospitality of his study, inquiring about their business. Whether or not they're forthcoming, Avalion knows they're here for a soul, which he offers to help them find.",
-										"If the adventurers agree to his help, Avalion selects one willing character to receive the {@reward Charm of the Flames|BMT}, marking that character's skin with an infernal rune. If the character whose soul has been lost is adventuring with the party, Avalion selects that character. So long as the character has the charm, Avalion knows their location and can communicate telepathically with them. He then directs the characters to the Puzzle room ({@book area 17|BMT|17|17: Puzzle}), telling them \"the key can be found from there.\" If the adventurers already have the {@item Chime of Opening} from {@book area 18|BMT|17|18: Key}, he laughs and says, \"You already have everything you need.\"",
+										"If the adventurers agree to his help, Avalion selects one willing character to receive the {@reward Charm of the Flames|BMT}, marking that character's skin with an infernal rune. If the character whose soul has been lost is adventuring with the party, Avalion selects that character. So long as the character has the charm, Avalion knows their location and can communicate telepathically with them. He then directs the characters to the Puzzle room ({@area area 17|2bf|x}), telling them \"the key can be found from there.\" If the adventurers already have the {@item Chime of Opening} from {@area area 18|2c3|x}, he laughs and says, \"You already have everything you need.\"",
 										"If the characters try to leave without agreeing to his help, he politely informs them he can't allow that and urges them to reconsider. If they continue trying to leave\u2014or if the adventurers penetrate his disguise and take action against him\u2014he assumes his true form and attacks."
 									]
 								},
@@ -20464,7 +20464,7 @@
 												"A snake-haired woman in a flowing robe stands at the center of the room, scowling. She is surrounded by similar visages on the Euryale cards around the walls, while a door to the north displays the Comet card. \"Oh good, heroes,\" she sneers, the final word dripping with contempt. \"Shall we get this over with?\""
 											]
 										},
-										"The {@creature medusa} here answers to the name {@creature Euryale|BMT}, and though she expects to be attacked, she doesn't initiate battle. This isn't the same {@creature Euryale|BMT} described in {@book chapter 22|BMT|21}. If the characters refrain from attacking and show her courtesy or at least respect, she lets them pass unharmed.",
+										"The {@creature medusa} here answers to the name {@creature Euryale|BMT}, and though she expects to be attacked, she doesn't initiate battle. This isn't the same {@creature Euryale|BMT} described in {@area chapter 22|32c|x}. If the characters refrain from attacking and show her courtesy or at least respect, she lets them pass unharmed.",
 										{
 											"type": "entries",
 											"name": "Dying Curse",
@@ -20498,7 +20498,7 @@
 									"page": 152,
 									"id": "2d0",
 									"entries": [
-										"The only way to reach this chamber is to teleport here from {@book area 1|BMT|17|1: Entrance}.",
+										"The only way to reach this chamber is to teleport here from {@area area 1|28b|x}.",
 										{
 											"type": "inset",
 											"id": "2d1",
@@ -20506,7 +20506,7 @@
 												"A swirling veil of faint, silvery mist encircles an otherwise empty, silent, dark void. A single spot of gleaming light hangs in the center of the space in the form of a white, porcelain mask shot through with golden cracks that resemble veins."
 											]
 										},
-										"This room is the heart of the House of Cards. The mask contains the soul of the character who drew the Void card. The mask is guarded by a {@creature breath drinker|BMT} (see the accompanying {@book stat block|BMT|17|Breath Drinker}). The breath drinker has the {@condition invisible} condition when the characters arrive and attacks as soon as they approach the mask. The breath drinker focuses its attacks on anyone trying to claim the mask, grappling and dragging them away as it feasts on their soul.",
+										"This room is the heart of the House of Cards. The mask contains the soul of the character who drew the Void card. The mask is guarded by a {@creature breath drinker|BMT} (see the accompanying {@area stat block|2d7|x}). The breath drinker has the {@condition invisible} condition when the characters arrive and attacks as soon as they approach the mask. The breath drinker focuses its attacks on anyone trying to claim the mask, grappling and dragging them away as it feasts on their soul.",
 										{
 											"type": "entries",
 											"name": "Gravity",
@@ -20617,8 +20617,8 @@
 							"id": "2da",
 							"entries": [
 								"The Grim Harrow's primary purpose is to destroy all copies of the {@item Deck of Many Things}. Its members believe destroying the decks will end the doom that binds them to an Undead existence, allowing all the victims of the avatar of death to truly die at last. This thesis, however, can be proven only by the final destruction of all the decks\u2014a nigh impossible task since the decks manifest on worlds throughout the infinite multiverse.",
-								"The Grim Harrow seeks any information regarding decks, those who've had a deck, and those who know the decks' secrets. These foul menaces are wary of agents of the Solar Bastion (see {@book chapter 10|BMT|9}), as well as {@creature Riffler|BMT|rifflers}, strange Fey who are drawn to the decks. Members of the Grim Harrow search for tools that might help them in their mission, including powerful magic items, rare spells, and depositories of ancient lore.",
-								"Since making the Gardens of Decay their home, the creatures of the Grim Harrow can leave it only for limited periods (see the \"{@book Gardens of Decay|BMT|18|Gardens of Decay}\" section later in this chapter for more information), so they seek out ordinary mortals or unusual extraplanar allies to be their agents on other worlds. The leaders of the Grim Harrow\u2014fearsome Undead called grim champions\u2014select privileged servants to leave the gardens on harrowing hunts or other key missions. Between hunts, most members of the Grim Harrow wallow in misery within the gardens, tormented by their own hateful existence."
+								"The Grim Harrow seeks any information regarding decks, those who've had a deck, and those who know the decks' secrets. These foul menaces are wary of agents of the Solar Bastion (see {@area chapter 10|148|x}), as well as {@creature Riffler|BMT|rifflers}, strange Fey who are drawn to the decks. Members of the Grim Harrow search for tools that might help them in their mission, including powerful magic items, rare spells, and depositories of ancient lore.",
+								"Since making the Gardens of Decay their home, the creatures of the Grim Harrow can leave it only for limited periods (see the \"{@area Gardens of Decay|2dd|x}\" section later in this chapter for more information), so they seek out ordinary mortals or unusual extraplanar allies to be their agents on other worlds. The leaders of the Grim Harrow\u2014fearsome Undead called grim champions\u2014select privileged servants to leave the gardens on harrowing hunts or other key missions. Between hunts, most members of the Grim Harrow wallow in misery within the gardens, tormented by their own hateful existence."
 							]
 						},
 						{
@@ -20650,10 +20650,10 @@
 									"width": 1700,
 									"height": 1110
 								},
-								"The Grim Harrow keeps a close eye on the planar portals contained in a glass tower within the Gardens of Decay known as Death's Aperture (see the \"{@book Glass Arboretum|BMT|18|Glass Arboretum}\" section below). The Grim Harrow travels via Death's Aperture while pursuing a {@item Deck of Many Things} or the organization's other interests. These missions are known as harrowing hunts, or simply hunts.",
+								"The Grim Harrow keeps a close eye on the planar portals contained in a glass tower within the Gardens of Decay known as Death's Aperture (see the \"{@area Glass Arboretum|2e0|x}\" section below). The Grim Harrow travels via Death's Aperture while pursuing a {@item Deck of Many Things} or the organization's other interests. These missions are known as harrowing hunts, or simply hunts.",
 								"The leader of a hunt is handpicked by one of the grim champions and is usually the most powerful Undead on the hunt, although sometimes a weak but clever Undead is given command over powerful but less intelligent ones. On rare occasions\u2014usually when the Skull card has been drawn and the Grim Harrow has a chance to destroy a copy of the {@item Deck of Many Things}\u2014one of the grim champions leads the hunt themself.",
-								"The leader of the hunt rides a mount\u2014typically a {@creature warhorse skeleton} or {@creature nightmare}, but sometimes a more unusual creature. The hunt is also served by flocks of {@creature Harrow Hawk|BMT|harrow hawks} that function as spies and messengers, along with {@creature Harrow Hound|BMT|harrow hounds} (this {@book stat block|BMT|18|Harrow Hound} appears later in this chapter) who find and track prey.",
-								"Once the hunt begins, the Undead move as quickly as possible to complete their mission. If a {@item Deck of Many Things} is present, the hunt tries to kill whoever has it, then destroy the deck or, failing that, return the deck to the Gardens of Decay. If the deck isn't the immediate object of the hunt, the members of the hunt spread out, seeking anyone who might've encountered the deck. After centuries of activity, the Grim Harrow has visited many worlds throughout the multiverse and has contacts and agents everywhere. Many of these informers don't know who or what the Grim Harrow really is; they know only that the hunters are terrifying and will kill anyone in their way. Hunters seeking the deck periodically reestablish their authority over these contacts through fear or bribery, collecting any intelligence they have concerning the {@item Deck of Many Things} and related topics, such as the Solar Bastion (see {@book chapter 10|BMT|9}), Heralds of the Comet (see {@book chapter 12|BMT|11}), and {@creature Riffler|BMT|rifflers}.",
+								"The leader of the hunt rides a mount\u2014typically a {@creature warhorse skeleton} or {@creature nightmare}, but sometimes a more unusual creature. The hunt is also served by flocks of {@creature Harrow Hawk|BMT|harrow hawks} that function as spies and messengers, along with {@creature Harrow Hound|BMT|harrow hounds} (this {@area stat block|2ed|x} appears later in this chapter) who find and track prey.",
+								"Once the hunt begins, the Undead move as quickly as possible to complete their mission. If a {@item Deck of Many Things} is present, the hunt tries to kill whoever has it, then destroy the deck or, failing that, return the deck to the Gardens of Decay. If the deck isn't the immediate object of the hunt, the members of the hunt spread out, seeking anyone who might've encountered the deck. After centuries of activity, the Grim Harrow has visited many worlds throughout the multiverse and has contacts and agents everywhere. Many of these informers don't know who or what the Grim Harrow really is; they know only that the hunters are terrifying and will kill anyone in their way. Hunters seeking the deck periodically reestablish their authority over these contacts through fear or bribery, collecting any intelligence they have concerning the {@item Deck of Many Things} and related topics, such as the Solar Bastion (see {@area chapter 10|148|x}), Heralds of the Comet (see {@area chapter 12|18c|x}), and {@creature Riffler|BMT|rifflers}.",
 								"Because the Undead are bound to the Gardens of Decay, the hunt must end after 24 hours. At that time, any Undead on the hunt vanish, reappearing in the Gardens of Decay. There, they report to the grim champions and await the next hunt."
 							]
 						}
@@ -21204,7 +21204,7 @@
 											"id": "2e3",
 											"entries": [
 												"At the center of Mothwing Grove stands a wide banyan tree swaddled in the pale vines of a strangler fig. This tree is an ancient entity named Magtubo. (Use the {@creature treant} stat block for Magtubo, but its type is Undead instead of Plant.) Magtubo has lived in the Gardens of Decay since before the Grim Harrow came; it remembers the faerie forest that used to be here, which it once tended. If anyone asks, Magtubo tells the story of the Grim Harrow's arrival and slaughter of the Fey that dwelled here, but otherwise the tree remains silent, avoiding the notice of the grim champions.",
-												"When not leading a hunting party, Jyn Corvis, the {@creature Grim Champion of Desolation|BMT} (this {@book stat block|BMT|18|Grim Champion of Desolation} appears later in this chapter), can usually be found lounging among Magtubo's roots, planning the Grim Harrow's next moves."
+												"When not leading a hunting party, Jyn Corvis, the {@creature Grim Champion of Desolation|BMT} (this {@area stat block|2eb|x} appears later in this chapter), can usually be found lounging among Magtubo's roots, planning the Grim Harrow's next moves."
 											]
 										}
 									]
@@ -21215,7 +21215,7 @@
 									"page": 158,
 									"id": "2e4",
 									"entries": [
-										"Scarlet Mire is a putrid swamp soaked in unspeakable violence. It was here that the blink dogs that dwelled within the Gardens of Delight were slaughtered, and where they rose again as Undead {@creature Harrow Hound|BMT|harrow hounds} (this {@book stat block|BMT|18|Harrow Hound} appears later in this chapter). Rancid red sludge bathes the land, and the cloying, metallic taste of blood suffuses the air.",
+										"Scarlet Mire is a putrid swamp soaked in unspeakable violence. It was here that the blink dogs that dwelled within the Gardens of Delight were slaughtered, and where they rose again as Undead {@creature Harrow Hound|BMT|harrow hounds} (this {@area stat block|2ed|x} appears later in this chapter). Rancid red sludge bathes the land, and the cloying, metallic taste of blood suffuses the air.",
 										"In addition to the demiplane's standard features, Scarlet Mire has the following feature:",
 										{
 											"type": "list",
@@ -21235,7 +21235,7 @@
 											"page": 158,
 											"id": "2e5",
 											"entries": [
-												"The jagged prow of a half-sunken galleon juts from the heart of the marsh. Scrawled lettering on the ship's side reveals its name as the Rowena. Wynemar Brack, the {@creature Grim Champion of Bloodshed|BMT} (this {@book stat block|BMT|18|Grim Champion of Bloodshed} appears later in this chapter) captured this ship on a hunt centuries ago and hoped to sail it through the Astral Sea, escaping the demiplane's pull, but the demiplane's magic brought the entire ship back instead. Wynemar holds court here, attended by her first mate, a {@creature death knight} named Lord Gallien, along with other lieutenants and lesser Undead."
+												"The jagged prow of a half-sunken galleon juts from the heart of the marsh. Scrawled lettering on the ship's side reveals its name as the Rowena. Wynemar Brack, the {@creature Grim Champion of Bloodshed|BMT} (this {@area stat block|2ea|x} appears later in this chapter) captured this ship on a hunt centuries ago and hoped to sail it through the Astral Sea, escaping the demiplane's pull, but the demiplane's magic brought the entire ship back instead. Wynemar holds court here, attended by her first mate, a {@creature death knight} named Lord Gallien, along with other lieutenants and lesser Undead."
 											]
 										}
 									]
@@ -21267,7 +21267,7 @@
 											"id": "2e7",
 											"entries": [
 												"A ramshackle farmhouse known as the House of Rot stands atop a squat hill in the center of Withered Vineyard. Sickly blue paint peels off the farmhouse's moldering wood walls, and the holes in its slate roof are knitted over with cobwebs. Inside, the bones of Humanoids litter the floor, picked clean by worms.",
-												"The House of Rot serves as the home of Aleron, the {@creature Grim Champion of Pestilence|BMT} (this {@book stat block|BMT|18|Grim Champion of Pestilence} appears later in this chapter). Twin {@creature Banshee||banshees} named Alegara and Melisma watch over the house in Aleron's absence. They welcome visitors, sizing them up as potential meals while offering trays of rotting appetizers and cups of moldy tea."
+												"The House of Rot serves as the home of Aleron, the {@creature Grim Champion of Pestilence|BMT} (this {@area stat block|2ec|x} appears later in this chapter). Twin {@creature Banshee||banshees} named Alegara and Melisma watch over the house in Aleron's absence. They welcome visitors, sizing them up as potential meals while offering trays of rotting appetizers and cups of moldy tea."
 											]
 										}
 									]
@@ -21290,7 +21290,7 @@
 								{
 									"type": "item",
 									"name": "Countdown",
-									"entry": "Laurel, a young woman who recently inherited her father's merchant wagon, finds a {@item Deck of Many Things} among the wagon's contents. She travels the roads trying to sell her father's goods, ignorant of the dangers the deck attracts. {@creature Sir Jared|BMT|Jared}, a knight of the Solar Bastion (see {@book chapter 10|BMT|9|Sir Jared}), enlists the characters to find Laurel before the Grim Harrow does. When the adventurers reach her, however, they learn she has sold the deck, and a harrowing hunt has already begun."
+									"entry": "Laurel, a young woman who recently inherited her father's merchant wagon, finds a {@item Deck of Many Things} among the wagon's contents. She travels the roads trying to sell her father's goods, ignorant of the dangers the deck attracts. {@creature Sir Jared|BMT|Jared}, a knight of the Solar Bastion (see {@area chapter 10|162|x}), enlists the characters to find Laurel before the Grim Harrow does. When the adventurers reach her, however, they learn she has sold the deck, and a harrowing hunt has already begun."
 								},
 								{
 									"type": "item",
@@ -21317,7 +21317,7 @@
 								{
 									"type": "item",
 									"name": "Redemption",
-									"entry": "{@creature Asteria|BMT} (see {@book chapter 22|BMT|21|Asteria}) believes the Grim Champion of Desolation might be someone she knew from her youth, and if she's right, she's certain that person can be returned to the path of good. {@creature Asteria|BMT} asks the adventurers to infiltrate the Gardens of Decay to learn that champion's true identity. If the champion is who {@creature Asteria|BMT} suspects, {@creature Asteria|BMT} wants the characters to bring the champion out of the garden to a place where she can confront the champion."
+									"entry": "{@creature Asteria|BMT} (see {@area chapter 22|32e|x}) believes the Grim Champion of Desolation might be someone she knew from her youth, and if she's right, she's certain that person can be returned to the path of good. {@creature Asteria|BMT} asks the adventurers to infiltrate the Gardens of Decay to learn that champion's true identity. If the champion is who {@creature Asteria|BMT} suspects, {@creature Asteria|BMT} wants the characters to bring the champion out of the garden to a place where she can confront the champion."
 								},
 								{
 									"type": "item",
@@ -22147,7 +22147,7 @@
 							"page": 173,
 							"id": "30e",
 							"entries": [
-								"{@creature Malaxxix|BMT} is a powerful and violent brute, an ideal enemy for a deadly high-level combat encounter anywhere in the multiverse. The best way to presage such a confrontation is to present the party with one or more of {@creature Malaxxix|BMT}'s custom-made cursed items, exposing characters to the curse of {@creature Malaxxix|BMT}. {@book Sample cursed items|BMT|19|Cursed Magic Items} and rules for the {@book curse of Malaxxix|BMT|19|Curse of Malaxxix} are included below.",
+								"{@creature Malaxxix|BMT} is a powerful and violent brute, an ideal enemy for a deadly high-level combat encounter anywhere in the multiverse. The best way to presage such a confrontation is to present the party with one or more of {@creature Malaxxix|BMT}'s custom-made cursed items, exposing characters to the curse of {@creature Malaxxix|BMT}. {@area Sample cursed items|319|x} and rules for the {@area curse of Malaxxix|315|x} are included below.",
 								"{@creature Malaxxix|BMT}'s creations appear at fortuitous times. A character might find one days after some great misfortune, such as after wronging a powerful hag or drawing the Flames card from a {@item Deck of Many Things}. Of course, you can also place such a cursed item in your next dungeon or among an otherwise unremarkable treasure hoard.",
 								"Once a character attunes to one of {@creature Malaxxix|BMT}'s cursed items, that character becomes afflicted with the yugoloth's curse. {@creature Malaxxix|BMT} can spy upon any creature so afflicted and can teleport to a cursed creature at will. {@creature Malaxxix|BMT} typically reserves this attention for creatures it believes might advance its goal of locating the {@i Books of Keeping}.",
 								"It could be some time before {@creature Malaxxix|BMT} presents itself to the party. Beforehand, {@creature Malaxxix|BMT} is likely to craft additional cursed items for the party to find on their adventures, then watch in delight as the characters squirm under the weight of their unholy armaments. Only once {@creature Malaxxix|BMT} has tired of the characters does it teleport to the characters' location, attempt to slay the buffoonish mortals, and reclaim the treasures."
@@ -22265,211 +22265,211 @@
 									"1/4",
 									"{@creature Minotaur archaeologist|BMT}",
 									"Humanoid",
-									"{@book 16|BMT|15}"
+									"{@area 16|220|x}"
 								],
 								[
 									"1/2",
 									"{@creature Aspirant of the Comet|BMT}",
 									"Humanoid",
-									"{@book 12|BMT|11}"
+									"{@area 12|18c|x}"
 								],
 								[
 									"1",
 									"{@creature Harrow hawk|BMT}",
 									"Undead",
-									"{@book 21|BMT|20}"
+									"{@area 21|31e|x}"
 								],
 								[
 									"2",
 									"{@creature Minotaur infiltrator|BMT}",
 									"Humanoid",
-									"{@book 16|BMT|15}"
+									"{@area 16|220|x}"
 								],
 								[
 									"2",
 									"{@creature Oddlewin|BMT}",
 									"Fey",
-									"{@book 14|BMT|13}"
+									"{@area 14|1d1|x}"
 								],
 								[
 									"3",
 									"{@creature Brusipha|BMT}",
 									"Humanoid",
-									"{@book 16|BMT|15}"
+									"{@area 16|220|x}"
 								],
 								[
 									"3",
 									"{@creature Harrow hound|BMT}",
 									"Undead",
-									"{@book 19|BMT|18}"
+									"{@area 19|2d8|x}"
 								],
 								[
 									"3",
 									"{@creature Living portent|BMT}",
 									"Celestial",
-									"{@book 21|BMT|20}"
+									"{@area 21|31e|x}"
 								],
 								[
 									"4",
 									"{@creature Fate hag|BMT}",
 									"Fey",
-									"{@book 21|BMT|20}"
+									"{@area 21|31e|x}"
 								],
 								[
 									"4",
 									"{@creature Initiate of the Comet|BMT}",
 									"Humanoid",
-									"{@book 12|BMT|11}"
+									"{@area 12|18c|x}"
 								],
 								[
 									"4",
 									"{@creature Werevulture|BMT}",
 									"Fiend",
-									"{@book 21|BMT|20}"
+									"{@area 21|31e|x}"
 								],
 								[
 									"5",
 									"{@creature Ambitious assassin|BMT}",
 									"Humanoid",
-									"{@book 6|BMT|5}"
+									"{@area 6|089|x}"
 								],
 								[
 									"5",
 									"{@creature Riffler|BMT}",
 									"Fey",
-									"{@book 21|BMT|20}"
+									"{@area 21|31e|x}"
 								],
 								[
 									"5",
 									"{@creature Ruin spider|BMT}",
 									"Monstrosity",
-									"{@book 21|BMT|20}"
+									"{@area 21|31e|x}"
 								],
 								[
 									"5",
 									"{@creature Sir Jared|BMT}",
 									"Humanoid",
-									"{@book 10|BMT|9}"
+									"{@area 10|148|x}"
 								],
 								[
 									"7",
 									"{@creature Talon beast|BMT}",
 									"Monstrosity",
-									"{@book 21|BMT|20}"
+									"{@area 21|31e|x}"
 								],
 								[
 									"9",
 									"{@creature Boss Augustus|BMT}",
 									"Monstrosity",
-									"{@book 11|BMT|10}"
+									"{@area 11|163|x}"
 								],
 								[
 									"9",
 									"{@creature Boss Delour|BMT}",
 									"Monstrosity",
-									"{@book 11|BMT|10}"
+									"{@area 11|163|x}"
 								],
 								[
 									"9",
 									"{@creature Gremorly's ghost|BMT}",
 									"Undead",
-									"{@book 15|BMT|14}"
+									"{@area 15|1f0|x}"
 								],
 								[
 									"9",
 									"{@creature Solar Bastion knight|BMT}",
 									"Humanoid",
-									"{@book 10|BMT|9}"
+									"{@area 10|148|x}"
 								],
 								[
 									"11",
 									"{@creature Enchanting infiltrator|BMT}",
 									"Fey",
-									"{@book 6|BMT|5}"
+									"{@area 6|089|x}"
 								],
 								[
 									"11",
 									"{@creature Hierophant of the Comet|BMT}",
 									"Humanoid",
-									"{@book 12|BMT|11}"
+									"{@area 12|18c|x}"
 								],
 								[
 									"14",
 									"{@creature Breath drinker|BMT}",
 									"Aberration",
-									"{@book 18|BMT|17}"
+									"{@area 18|27f|x}"
 								],
 								[
 									"14",
 									"{@creature Hulgaz|BMT}",
 									"Fiend",
-									"{@book 20|BMT|19}"
+									"{@area 20|2ee|x}"
 								],
 								[
 									"15",
 									"{@creature Grim Champion of Pestilence|BMT}",
 									"Undead",
-									"{@book 19|BMT|18}"
+									"{@area 19|2d8|x}"
 								],
 								[
 									"17",
 									"{@creature Hierophant medusa|BMT}",
 									"Monstrosity",
-									"{@book 21|BMT|20}"
+									"{@area 21|31e|x}"
 								],
 								[
 									"17",
 									"{@creature Otherworldly corrupter|BMT}",
 									"Aberration",
-									"{@book 6|BMT|5}"
+									"{@area 6|089|x}"
 								],
 								[
 									"18",
 									"{@creature Asteria|BMT}",
 									"Humanoid",
-									"{@book 22|BMT|21}"
+									"{@area 22|32c|x}"
 								],
 								[
 									"18",
 									"{@creature Euryale|BMT}",
 									"Monstrosity",
-									"{@book 22|BMT|21}"
+									"{@area 22|32c|x}"
 								],
 								[
 									"18",
 									"{@creature Malaxxix|BMT}",
 									"Fiend",
-									"{@book 20|BMT|19}"
+									"{@area 20|2ee|x}"
 								],
 								[
 									"20",
 									"{@creature Grim Champion of Bloodshed|BMT}",
 									"Undead",
-									"{@book 19|BMT|18}"
+									"{@area 19|2d8|x}"
 								],
 								[
 									"21",
 									"{@creature Pazrodine|BMT}",
 									"Dragon",
-									"{@book 14|BMT|13}"
+									"{@area 14|1d1|x}"
 								],
 								[
 									"21",
 									"{@creature Veiled presence|BMT}",
 									"Celestial",
-									"{@book 6|BMT|5}"
+									"{@area 6|089|x}"
 								],
 								[
 									"22",
 									"{@creature Aurnozci|BMT}",
 									"Fiend",
-									"{@book 20|BMT|19}"
+									"{@area 20|2ee|x}"
 								],
 								[
 									"25",
 									"{@creature Grim Champion of Desolation|BMT}",
 									"Undead",
-									"{@book 19|BMT|18}"
+									"{@area 19|2d8|x}"
 								]
 							]
 						}
@@ -22540,14 +22540,14 @@
 								},
 								"Though she now travels alone, {@creature Asteria|BMT} still draws much of her power from her bond with {@creature Euryale|BMT}. {@creature Asteria|BMT} is foremost a protector and warrior, traveling the multiverse to uproot injustice, defend innocents, and inspire hope. She believes everyone deserves a chance to write their own story on their own terms, and her deeds have inspired countless heroic tales.",
 								"Even after so many years, {@creature Asteria|BMT} maintains a joyous wanderlust and passion for discovery. She's as likely to be found climbing trees or poring over arcane texts as she is brandishing her sword in battle. Anyone who engages {@creature Asteria|BMT} in conversation about her interests finds her an overflowing font of information. But she also retains her stubborn streak and quickly repudiates anyone who tries to order her around.",
-								"{@creature Asteria|BMT} hasn't aged since Istus drew her future from the first {@item Deck of Many Things}. She doesn't know why this is but surmises her life is tied to that deck; so long as it continues to exist, so will she. She has no way to prove this hypothesis, but she nevertheless opposes groups like the Grim Harrow (see {@book chapter 19|BMT|18}) that seek to destroy the {@item Deck of Many Things}.",
+								"{@creature Asteria|BMT} hasn't aged since Istus drew her future from the first {@item Deck of Many Things}. She doesn't know why this is but surmises her life is tied to that deck; so long as it continues to exist, so will she. She has no way to prove this hypothesis, but she nevertheless opposes groups like the Grim Harrow (see {@area chapter 19|2d8|x}) that seek to destroy the {@item Deck of Many Things}.",
 								{
 									"type": "entries",
 									"name": "Adventure Hooks",
 									"page": 187,
 									"id": "32f",
 									"entries": [
-										"{@creature Asteria|BMT} knows more about {@i Decks of Many Things} than anyone else alive. She has encountered many factions that concern themselves with the decks, defeating hierophants of the Heralds of the Comet (see {@book chapter 12|BMT|11}), dueling undead champions from the Grim Harrow, and infiltrating the Solar Bastion (see {@book chapter 10|BMT|9}) before Hilarion discovered her. {@creature Asteria|BMT} is driven to protect innocent people who accidentally stumble across decks from their many dangers\u2014especially from the curse imposed by the {@creature Euryale|BMT} card, which {@creature Asteria|BMT} resents as a defamation of her devoted friend. For this and many other reasons, {@creature Asteria|BMT} tracks down the decks\u2014and information on them\u2014wherever they can be found.",
+										"{@creature Asteria|BMT} knows more about {@i Decks of Many Things} than anyone else alive. She has encountered many factions that concern themselves with the decks, defeating hierophants of the Heralds of the Comet (see {@area chapter 12|18c|x}), dueling undead champions from the Grim Harrow, and infiltrating the Solar Bastion (see {@area chapter 10|148|x}) before Hilarion discovered her. {@creature Asteria|BMT} is driven to protect innocent people who accidentally stumble across decks from their many dangers\u2014especially from the curse imposed by the {@creature Euryale|BMT} card, which {@creature Asteria|BMT} resents as a defamation of her devoted friend. For this and many other reasons, {@creature Asteria|BMT} tracks down the decks\u2014and information on them\u2014wherever they can be found.",
 										"Beyond her knowledge of {@i Decks of Many Things}, {@creature Asteria|BMT} is an avid researcher into all things magical, making her an excellent knowledge source. She finds arcane magic particularly interesting. As an altruistic and heroic figure, {@creature Asteria|BMT} also makes a fine patron for adventuring groups that align with her values. The following adventure hooks can introduce {@creature Asteria|BMT} into your campaign:",
 										{
 											"type": "list",
@@ -22585,7 +22585,7 @@
 									"width": 850,
 									"height": 1169
 								},
-								"When she retired from adventuring, {@creature Euryale|BMT} relocated to {@book Cair Ophidian|BMT|21|Cair Ophidian}, a small hideaway in the Outlands detailed later in this chapter. There, {@creature Euryale|BMT} embraced the quiet life of a gardener, and she spends her time tending to the plants she's cultivated around her home. However, should {@creature Asteria|BMT} call for her aid, {@creature Euryale|BMT} would venture across the multiverse without hesitation, battling tooth and nail to protect her sister.",
+								"When she retired from adventuring, {@creature Euryale|BMT} relocated to {@area Cair Ophidian|332|x}, a small hideaway in the Outlands detailed later in this chapter. There, {@creature Euryale|BMT} embraced the quiet life of a gardener, and she spends her time tending to the plants she's cultivated around her home. However, should {@creature Asteria|BMT} call for her aid, {@creature Euryale|BMT} would venture across the multiverse without hesitation, battling tooth and nail to protect her sister.",
 								"{@creature Euryale|BMT} has the petrifying gaze and venomous snaky hair of other medusas. But as an ancient and powerful druid, {@creature Euryale|BMT} often adopts the form of a hulking serpent when threatened. She has attained precise control over her petrifying gaze, rendering her immune to its effects and allowing her to use it while not in her medusa guise. Despite her alarming appearance in serpent form, {@creature Euryale|BMT} remains a healer and caretaker at heart.",
 								{
 									"type": "entries",

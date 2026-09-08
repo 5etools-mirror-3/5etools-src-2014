@@ -23,7 +23,7 @@
 					"id": "001",
 					"entries": [
 						"To run this adventure, you need the D&D fifth edition core rulebooks: the {@book Player's Handbook|PHB}, {@book Dungeon Master's Guide|DMG}, and {@book Monster Manual|MM}. The {@book Sword Coast Adventurer's Guide|SCAG} is helpful but not necessary.",
-						"The {@book Monster Manual|MM} contains stat blocks for most of the creatures found in this adventure. All the necessary stat blocks are included there or in {@adventure appendix A|DC|9}. When a creature's name appears in {@b bold} type, that's a visual cue for you to look up the creature's stat block in the {@book Monster Manual|MM}, unless the adventure's text instead refers you to the monster appendix in this adventure.",
+						"The {@book Monster Manual|MM} contains stat blocks for most of the creatures found in this adventure. All the necessary stat blocks are included there or in {@area appendix A|12c|x}. When a creature's name appears in {@b bold} type, that's a visual cue for you to look up the creature's stat block in the {@book Monster Manual|MM}, unless the adventure's text instead refers you to the monster appendix in this adventure.",
 						"Spells and equipment mentioned in the adventure are described in the {@book Player's Handbook|PHB}. Magic items are described in the {@book Dungeon Master's Guide|DMG}.",
 						{
 							"type": "insetReadaloud",
@@ -180,7 +180,7 @@
 							"name": "Leilon",
 							"id": "00b",
 							"entries": [
-								"This small town along the High Road has just rebuilt itself after being abandoned for years. It serves as the starting location for the adventure. For more information, see \"{@adventure Welcome to Leilon|DC|1}.\""
+								"This small town along the High Road has just rebuilt itself after being abandoned for years. It serves as the starting location for the adventure. For more information, see \"{@area Welcome to Leilon|017|x}.\""
 							]
 						},
 						{
@@ -188,7 +188,7 @@
 							"name": "Mere of Dead Men",
 							"id": "00c",
 							"entries": [
-								"Travelers on the High Road, which skirts the mere to the east, must resist being lured into the cold and desolate waters. Many have perished in the mere, drawn by tales of ruined castles half-sunk in the mire. The Mere of Dead Men contains the tomb of the dracolich Chardansearavitriol, which is now the headquarters of the cult of Myrkul. For more information on this location, see \"{@adventure Ebondeath's Mausoleum|DC|3}.\""
+								"Travelers on the High Road, which skirts the mere to the east, must resist being lured into the cold and desolate waters. Many have perished in the mere, drawn by tales of ruined castles half-sunk in the mire. The Mere of Dead Men contains the tomb of the dracolich Chardansearavitriol, which is now the headquarters of the cult of Myrkul. For more information on this location, see \"{@area Ebondeath's Mausoleum|051|x}.\""
 							]
 						},
 						{
@@ -296,7 +296,7 @@
 				"Leilon was once a mining town that sold copper, nickel, and silver to Waterdeep. It was also a small port where merchants sometimes offloaded goods on barges (since most proper ships cannot traverse the town's shallow mud flats) to be transported to cities all over the Sword Coast.",
 				"Two hundred years ago, the wizard Thalivar made his home here and raised a tower at the town center to conduct his mystical studies. The House of Thalivar was topped with a planar beacon that lured creatures from other planes into the structure and trapped them there. After Thalivar mysteriously disappeared, the people of Leilon were content to leave his tower and the monsters within alone.",
 				"The Spellplague, a divine phenomenon that twisted Faerûn's magic, corrupted the tower's defenses. The creatures sealed within were freed to attack Leilon, and the magic of the planar beacon was redirected back into the Material Plane, causing humanoids who looked upon it to become paralyzed. Leilon was quickly overrun and subsequently abandoned and has remained that way for more than a century.",
-				"The first action the soldiery of Neverwinter took in Leilon was to destroy the planar beacon inside the House of Thalivar. The mage Gallio Elibro has now rebuilt the beacon and begun his own studies into the Ethereal Plane. See \"{@adventure Thalivar's Beacon|DC|7}\" for more information.",
+				"The first action the soldiery of Neverwinter took in Leilon was to destroy the planar beacon inside the House of Thalivar. The mage Gallio Elibro has now rebuilt the beacon and begun his own studies into the Ethereal Plane. See \"{@area Thalivar's Beacon|106|x}\" for more information.",
 				"Before its fall, Leilon was defended by a loosely organized group of adventurers called the Swords of Leilon. When the House of Thalivar released its monsters, the Swords fought to cover the escape of the townsfolk. They died and became ghosts bound to Leilon's ruins. They now watch the rebuilding of the town with caution, hoping that the reconstructed tower does not bring similar disaster.",
 				"When you are ready for the adventure to get underway, show the Leilon map to the players and read the following boxed text aloud:",
 				{
@@ -893,7 +893,7 @@
 										],
 										[
 											"3",
-											"\"There are a couple of fancy pleasure barges anchored just off the marsh. City folk no doubt, but why they've stopped here is anybody's guess. Strange thing is, the crew have only been seen out at night.\" (If the characters investigate the site, see \"{@adventure Icingdeath and Twinkle|DC|4}.\")"
+											"\"There are a couple of fancy pleasure barges anchored just off the marsh. City folk no doubt, but why they've stopped here is anybody's guess. Strange thing is, the crew have only been seen out at night.\" (If the characters investigate the site, see \"{@area Icingdeath and Twinkle|06d|x}.\")"
 										],
 										[
 											"4",
@@ -905,7 +905,7 @@
 										],
 										[
 											"6",
-											"\"Crazy Gallio has been locked up in his tower for weeks now. The sergeant says he doesn't let anyone up to the top floor anymore, and strange lights have been seen from his windows at night.\"(If the characters investigate the site, see \"{@adventure Thalivar's Beacon|DC|7}.\")"
+											"\"Crazy Gallio has been locked up in his tower for weeks now. The sergeant says he doesn't let anyone up to the top floor anymore, and strange lights have been seen from his windows at night.\"(If the characters investigate the site, see \"{@area Thalivar's Beacon|106|x}.\")"
 										]
 									]
 								}
@@ -931,7 +931,7 @@
 									"name": "Adventure Locations",
 									"id": "02f",
 									"entries": [
-										"This adventure encourages characters to explore locations marked on the DM's map of the Sword Coast. When the characters embark on a journey to a location, use the section of this adventure that describes that location in detail. For instance, if the players choose to undertake the Dumathoin's Gulch Quest, go to the \"{@adventure Dumathoin's Gulch|DC|2}\" section. Each location includes an overview that briefly describes what the characters can expect to find there. This overview is followed by information you'll need to run the encounters at that location."
+										"This adventure encourages characters to explore locations marked on the DM's map of the Sword Coast. When the characters embark on a journey to a location, use the section of this adventure that describes that location in detail. For instance, if the players choose to undertake the Dumathoin's Gulch Quest, go to the \"{@area Dumathoin's Gulch|039|x}\" section. Each location includes an overview that briefly describes what the characters can expect to find there. This overview is followed by information you'll need to run the encounters at that location."
 									]
 								},
 								{
@@ -947,7 +947,7 @@
 									"name": "Gulch Quest",
 									"id": "031",
 									"entries": [
-										"\"Leilon is threatened with invasion from several cults, one of which has an ancient dragon in its employ. The gnomes of Gnomengarde have offered to supply a magical weapon to drive off this beast should it trouble the town. Meet the gnomes at Dumathoin's Gulch, collect the weapon, and return to Leilon.\" If the characters undertake this quest, see \"{@adventure Dumathoin's Gulch|DC|2}.\""
+										"\"Leilon is threatened with invasion from several cults, one of which has an ancient dragon in its employ. The gnomes of Gnomengarde have offered to supply a magical weapon to drive off this beast should it trouble the town. Meet the gnomes at Dumathoin's Gulch, collect the weapon, and return to Leilon.\" If the characters undertake this quest, see \"{@area Dumathoin's Gulch|039|x}.\""
 									]
 								},
 								{
@@ -955,7 +955,7 @@
 									"name": "Icingdeath and Twinkle Quest",
 									"id": "032",
 									"entries": [
-										"\"Two rival factions vie for control of the High Road: the cult of Talos, god of storms, and the cult of Myrkul, god of death. An emissary representing the Sword Coast's merchants would like you to sail to Neverwinter to petition Lord Neverember for troops to protect the road. The emissary's ships are anchored in a bay near Leilon, and the town council offers a reward of 1,500 gp for successfully negotiating aid.\" If the characters undertake this quest, see \"{@adventure Icingdeath and Twinkle|DC|4}.\""
+										"\"Two rival factions vie for control of the High Road: the cult of Talos, god of storms, and the cult of Myrkul, god of death. An emissary representing the Sword Coast's merchants would like you to sail to Neverwinter to petition Lord Neverember for troops to protect the road. The emissary's ships are anchored in a bay near Leilon, and the town council offers a reward of 1,500 gp for successfully negotiating aid.\" If the characters undertake this quest, see \"{@area Icingdeath and Twinkle|06d|x}.\""
 									]
 								},
 								{
@@ -963,7 +963,7 @@
 									"name": "Thalivar's Beacon Quest",
 									"id": "033",
 									"entries": [
-										"\"Leilon's wizard, Gallio Elibro, has recently rebuilt the planar beacon atop his tower and is using it to trap and study creatures from across the planes.Gallio has called for your help taming these beasts to defend the town against invasion.\" If the characters undertake this quest, see \"{@adventure Thalivar's Beacon|DC|7}.\""
+										"\"Leilon's wizard, Gallio Elibro, has recently rebuilt the planar beacon atop his tower and is using it to trap and study creatures from across the planes.Gallio has called for your help taming these beasts to defend the town against invasion.\" If the characters undertake this quest, see \"{@area Thalivar's Beacon|106|x}.\""
 									]
 								},
 								{
@@ -971,7 +971,7 @@
 									"name": "Leilon Besieged Quest",
 									"id": "034",
 									"entries": [
-										"There is no job board notice for this quest. Instead, it happens automatically after the players have completed two of the three starting quests. At this point, the rival cults launch their attack on the town to seize the House of Thalivar and steal the {@item ruinstone|DC}. When the characters undertake this quest, see \"{@adventure Leilon Besieged|DC|5}.\" When this quest becomes active, remove the third starting quest from the quest board."
+										"There is no job board notice for this quest. Instead, it happens automatically after the players have completed two of the three starting quests. At this point, the rival cults launch their attack on the town to seize the House of Thalivar and steal the {@item ruinstone|DC}. When the characters undertake this quest, see \"{@area Leilon Besieged|0a6|x}.\" When this quest becomes active, remove the third starting quest from the quest board."
 									]
 								},
 								{
@@ -987,7 +987,7 @@
 									"name": "Storm Lord's Hideout Quest",
 									"id": "036",
 									"entries": [
-										"\"Seek out the undead galleon stolen by Fheralai Stormsworn, leader of the cult of Talos. Sink it to the bottom of the Sea of Swords, and then return to Neverwinter to collect a reward of 8,000 gp.\" If the characters undertake this quest, see \"{@adventure Storm Lord's Hideout|DC|6}.\""
+										"\"Seek out the undead galleon stolen by Fheralai Stormsworn, leader of the cult of Talos. Sink it to the bottom of the Sea of Swords, and then return to Neverwinter to collect a reward of 8,000 gp.\" If the characters undertake this quest, see \"{@area Storm Lord's Hideout|0e1|x}.\""
 									]
 								},
 								{
@@ -995,7 +995,7 @@
 									"name": "Ebondeath's Mausoleum Quest",
 									"id": "037",
 									"entries": [
-										"\"The dread mage Ularan Mortus, leader of the cult of Myrkul, has roused the spirit of the undead dragon {@creature Ebondeath|DC}. Seek out {@creature Ebondeath|DC}'s mausoleum in the Mere of Dead Men, destroy the dragon's spirit, and then return to Neverwinter to collect a reward of 8,000 gp.\" If the characters undertake this quest, see \"{@adventure Ebondeath's Mausoleum|DC|3}.\""
+										"\"The dread mage Ularan Mortus, leader of the cult of Myrkul, has roused the spirit of the undead dragon {@creature Ebondeath|DC}. Seek out {@creature Ebondeath|DC}'s mausoleum in the Mere of Dead Men, destroy the dragon's spirit, and then return to Neverwinter to collect a reward of 8,000 gp.\" If the characters undertake this quest, see \"{@area Ebondeath's Mausoleum|051|x}.\""
 									]
 								}
 							]
@@ -1207,7 +1207,7 @@
 											"name": "Boneclaw",
 											"id": "04b",
 											"entries": [
-												"Near the top of the gulch, a {@creature boneclaw|MTF} (see {@adventure appendix A|DC|9}) is hiding among the shadowy trees. As the characters move into the gulch, it rushes from its hiding place and attacks. If there are five or more characters in the party, including sidekicks, a second boneclaw accompanies the first.",
+												"Near the top of the gulch, a {@creature boneclaw|MTF} (see {@area appendix A|12c|x}) is hiding among the shadowy trees. As the characters move into the gulch, it rushes from its hiding place and attacks. If there are five or more characters in the party, including sidekicks, a second boneclaw accompanies the first.",
 												"Boneclaws can teleport using their Shadow Jump feature, giving them access to most areas of the gulch\u2014and possibly bringing anyone they are grappling with them! You can use this ability to trigger other aspects of the encounter ahead of time, which could complicate things, but also provide some memorable moments."
 											]
 										},
@@ -1216,7 +1216,7 @@
 											"name": "Sword Wraith Platoon",
 											"id": "04c",
 											"entries": [
-												"When an adventurer enters the circle of moon runes, the bits of bone, armor, and weapons fly together to form an undead platoon. The platoon is led by a {@creature sword wraith commander|MTF} plus one {@creature sword wraith warrior|MTF} per character, including sidekicks (see {@adventure appendix A|DC|9}).",
+												"When an adventurer enters the circle of moon runes, the bits of bone, armor, and weapons fly together to form an undead platoon. The platoon is led by a {@creature sword wraith commander|MTF} plus one {@creature sword wraith warrior|MTF} per character, including sidekicks (see {@area appendix A|12c|x}).",
 												"The moonstone's magic temporarily {@condition incapacitated} the undead here, but the life force of the adventurers brings them back. They immediately return to their mission: kill everything in the area and recover the {@item Gnomengarde grenade|DC} for their master Ularan Mortus.",
 												{
 													"type": "inset",
@@ -1238,7 +1238,7 @@
 							"name": "Guardian of the Gulch",
 							"id": "04e",
 							"entries": [
-								"When the dwarves abandoned their mine, a particularly devout priest of Dumathoin called Sister Silvergranite insisted that she stay behind to guard the buried dead. She lived a hermit's life until she finally passed on herself. Dumathoin blessed her and transformed her spirit into an {@creature eidolon|MTF} (see {@adventure appendix A|DC|9}).",
+								"When the dwarves abandoned their mine, a particularly devout priest of Dumathoin called Sister Silvergranite insisted that she stay behind to guard the buried dead. She lived a hermit's life until she finally passed on herself. Dumathoin blessed her and transformed her spirit into an {@creature eidolon|MTF} (see {@area appendix A|12c|x}).",
 								"Sister Silvergranite remained here, even as the mine collapsed and became a gulch, exposed to the sky. When called upon to defend the area, she inhabits the large moonstone statue, which acts as her {@creature sacred statue|MTF}. While exposed to the sky, the statue gains a fly speed of 25 feet.",
 								"When characters enter the inner circle of moon runes, Sister Silvergranite emerges from the moonstone to assess the situation, then withdraws and animates her sacred statue. She attacks the nearest creature, either living or undead, but ignores the gnomes. If the statue is destroyed, the eidolon emerges from the moonstone, appearing as a ghostly dwarf dressed in holy raiments of Dumathoin. If any adventurers took control of the sacred statue during the battle, the eidolon allows the party to leave unharmed. If not, a successful {@dc 15} Charisma ({@skill Persuasion}) check is required to convince Sister Silvergranite that the characters mean no harm and are only here to protect the gnomes."
 							]
@@ -1268,7 +1268,7 @@
 					"entries": [
 						"Over a thousand years ago, the black dragon Chardansearavitriol, commonly known as {@creature Ebondeath|DC}, settled in the Mere of Dead Men, making his lair in the ruined citadel of Uthtower. {@creature Ebondeath|DC} became a dracolich and was worshiped by the Cult of the Dragon until the death god Myrkul's influence waned across Faerûn and the dragon's bones turned to dust.",
 						"With Myrkul's return to the pantheon, his worshipers have quested across the seas to rekindle {@creature Ebondeath|DC}'s spirit. Led by the death priest Ularan Mortus, they unearthed the dragon's mausoleum and awakened its slumbering soul, binding it to the unwilling body of the ancient green dragon Claugiyliamatar. Ularan Mortus hoped to use the dragon to capture the {@item ruinstone|DC}, an artifact of great power. While they remain on the Sword Coast, Ularan Mortus and his cultists have claimed {@creature Ebondeath|DC}'s mausoleum as their headquarters in the area.",
-						"Following the \"{@adventure Leilon Besieged|DC|5}\" quest, {@creature Ebondeath|DC} returns to the mausoleum: either in spirit form without the artifact, or in Claugiyliamatar's body if it succeeded in stealing the {@item ruinstone|DC}. In response, Lord Protector Neverember of Neverwinter offers the characters a purse of 8,000 gp to end the threat posed by the dragon.",
+						"Following the \"{@area Leilon Besieged|0a6|x}\" quest, {@creature Ebondeath|DC} returns to the mausoleum: either in spirit form without the artifact, or in Claugiyliamatar's body if it succeeded in stealing the {@item ruinstone|DC}. In response, Lord Protector Neverember of Neverwinter offers the characters a purse of 8,000 gp to end the threat posed by the dragon.",
 						{
 							"type": "entries",
 							"name": "Quest Goals",
@@ -2803,7 +2803,7 @@
 									"name": "E4. High Priest's Chamber",
 									"id": "061",
 									"entries": [
-										"This chamber is used by Ularan Mortus and contains his backpack, bedroll, and a casket of treasures. Two giants' skulls are mounted to the wall. If Ularan Mortus survived the \"{@adventure Leilon Besieged|DC|5}\" quest, he is present here. Ularan Mortus has the statistics of a {@creature war priest|VGM}. If {@creature Ebondeath|DC} recovered the {@item ruinstone|DC} from Leilon, Ularan Mortus wields it in battle here (see the \"Using the Ruinstone\" sidebar).",
+										"This chamber is used by Ularan Mortus and contains his backpack, bedroll, and a casket of treasures. Two giants' skulls are mounted to the wall. If Ularan Mortus survived the \"{@area Leilon Besieged|0a6|x}\" quest, he is present here. Ularan Mortus has the statistics of a {@creature war priest|VGM}. If {@creature Ebondeath|DC} recovered the {@item ruinstone|DC} from Leilon, Ularan Mortus wields it in battle here (see the \"Using the Ruinstone\" sidebar).",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -2815,7 +2815,7 @@
 													"name": "Using the Ruinstone",
 													"id": "063",
 													"entries": [
-														"Once per day as a bonus action, a villain can activate the {@item ruinstone|DC} to undo one deed they have performed. The possibilities here are broad, but in combat it's simplest to allow them the opportunity to \"rewind\" one action and take it again, or to reroll a failed saving throw (if it can still take actions). Each use of the artifact has a terrible side effect: someone known to the wielder is also erased from reality. After the villain uses the {@item ruinstone|DC}, roll a {@dice d20}: on a 5\u201320, one of their allies disintegrates, on an 1\u20134, one of the player characters disintegrates. If a creature bound its soul to the {@item ruinstone|DC} in the \"{@adventure Thalivar's Beacon|DC|7}\" quest, the artifact explodes when used and the creature who is bound to it disintegrates."
+														"Once per day as a bonus action, a villain can activate the {@item ruinstone|DC} to undo one deed they have performed. The possibilities here are broad, but in combat it's simplest to allow them the opportunity to \"rewind\" one action and take it again, or to reroll a failed saving throw (if it can still take actions). Each use of the artifact has a terrible side effect: someone known to the wielder is also erased from reality. After the villain uses the {@item ruinstone|DC}, roll a {@dice d20}: on a 5\u201320, one of their allies disintegrates, on an 1\u20134, one of the player characters disintegrates. If a creature bound its soul to the {@item ruinstone|DC} in the \"{@area Thalivar's Beacon|106|x}\" quest, the artifact explodes when used and the creature who is bound to it disintegrates."
 													]
 												}
 											]
@@ -2870,7 +2870,7 @@
 												"To the north, an arched hallway plunges into the dark. As you approach, a hollow voice booms from beyond: \"Who dares disturb the rest of Chardansearavitriol the {@creature Ebondeath|DC}?\""
 											]
 										},
-										"The characters now face {@creature Ebondeath|DC}. If the dragon fled Leilon in spirit form (see the \"{@adventure Leilon Besieged|DC|5}\" quest), the party faces a spectral version of the dragon. This has the statistics a {@creature ghost}, with the following important modifications:",
+										"The characters now face {@creature Ebondeath|DC}. If the dragon fled Leilon in spirit form (see the \"{@area Leilon Besieged|0a6|x}\" quest), the party faces a spectral version of the dragon. This has the statistics a {@creature ghost}, with the following important modifications:",
 										{
 											"type": "list",
 											"items": [
@@ -2880,7 +2880,7 @@
 											]
 										},
 										"{@creature Ebondeath|DC} uses its possession ability to jump between party members and turn them against each other. It fights to the end to protect its resting place.",
-										"If {@creature Ebondeath|DC} left the \"{@adventure Leilon Besieged|DC|5}\" quest in {@creature Claugiyliamatar|SKT|Claugiyliamatar's} body, the party is now in trouble. {@creature Ebondeath|DC} has the statistics of {@creature Claugiyliamatar|SKT}, except his breath weapon deals necrotic damage instead of poison damage due to {@creature Ebondeath|DC}'s possession. If the characters slay the dragon, they must then also face the ghost within!"
+										"If {@creature Ebondeath|DC} left the \"{@area Leilon Besieged|0a6|x}\" quest in {@creature Claugiyliamatar|SKT|Claugiyliamatar's} body, the party is now in trouble. {@creature Ebondeath|DC} has the statistics of {@creature Claugiyliamatar|SKT}, except his breath weapon deals necrotic damage instead of poison damage due to {@creature Ebondeath|DC}'s possession. If the characters slay the dragon, they must then also face the ghost within!"
 									]
 								},
 								{
@@ -2906,7 +2906,7 @@
 							"name": "Conclusion",
 							"id": "06c",
 							"entries": [
-								"Characters who destroy {@creature Ebondeath|DC}'s spirit can report their success to the authorities in Neverwinter, who award them a purse of 8,000 gp. If this is the final quest, their adventure ends here (see \"{@adventure Ending the Adventure|DC|8}\" for more information)."
+								"Characters who destroy {@creature Ebondeath|DC}'s spirit can report their success to the authorities in Neverwinter, who award them a purse of 8,000 gp. If this is the final quest, their adventure ends here (see \"{@area Ending the Adventure|12b|x}\" for more information)."
 							]
 						}
 					]
@@ -4737,7 +4737,7 @@
 										{
 											"type": "list",
 											"items": [
-												"A captain, Galas Windrage, a female chaotic evil {@creature war priest|VGM} of Talos (see {@adventure appendix A|DC|9}).",
+												"A captain, Galas Windrage, a female chaotic evil {@creature war priest|VGM} of Talos (see {@area appendix A|12c|x}).",
 												"Forty sailors (chaotic evil {@creature Cultist||cultists}).",
 												"Ten chaotic evil {@creature Berserker||berserkers} who attempt to board enemy vessels and kill the crew."
 											]
@@ -4908,7 +4908,7 @@
 											"name": "Defenders",
 											"id": "0af",
 											"entries": [
-												"Leilon is defended by just over 200 {@creature Commoner||commoners}, {@creature Guard||guards}, and guard {@creature Veteran||veterans}. If the players negotiated reinforcements in the \"{@adventure Icingdeath and Twinkle|DC|4}\" quest, an additional 300 {@creature Guard||guards}, {@creature Knight||knights}, and {@creature Scout||scouts} are also present."
+												"Leilon is defended by just over 200 {@creature Commoner||commoners}, {@creature Guard||guards}, and guard {@creature Veteran||veterans}. If the players negotiated reinforcements in the \"{@area Icingdeath and Twinkle|06d|x}\" quest, an additional 300 {@creature Guard||guards}, {@creature Knight||knights}, and {@creature Scout||scouts} are also present."
 											]
 										},
 										{
@@ -4916,7 +4916,7 @@
 											"name": "Cult of Talos",
 											"id": "0b0",
 											"entries": [
-												"The {@creature war priest|VGM} Fheralai Stormsworn besieges Leilon with an army of 400 {@creature Cultist||cultists}, cult {@creature Priest||priests}, and {@creature Anchorite of Talos|DIP|anchorites of Talos}. Her elite warriors are {@creature Blackguard|VGM|blackguards} or {@creature Half-Blue Dragon Gladiator|RoT|half-blue dragon gladiators} (see {@adventure appendix A|DC|9})."
+												"The {@creature war priest|VGM} Fheralai Stormsworn besieges Leilon with an army of 400 {@creature Cultist||cultists}, cult {@creature Priest||priests}, and {@creature Anchorite of Talos|DIP|anchorites of Talos}. Her elite warriors are {@creature Blackguard|VGM|blackguards} or {@creature Half-Blue Dragon Gladiator|RoT|half-blue dragon gladiators} (see {@area appendix A|12c|x})."
 											]
 										},
 										{
@@ -4924,7 +4924,7 @@
 											"name": "Cult of Myrkul",
 											"id": "0b1",
 											"entries": [
-												"The god Myrkul has performed a miracle to awaken the undead from the Mere of Dead Men and gifted them to his {@creature war priest|VGM} Ularan Mortus. In total, just over 800 {@creature Ghoul||ghouls}, {@creature Ghast||ghasts}, and {@creature Zombie||zombies} bow to his command, with a handful of {@creature Boneclaw|MTF|boneclaws} and {@creature Greater Zombie|TftYP|greater zombies} at the head (see {@adventure appendix A|DC|9}). His greatest weapon is the ancient green dragon {@creature Claugiyliamatar|SKT}, who is possessed by the unholy spirit of the dracolich {@creature Ebondeath|DC}."
+												"The god Myrkul has performed a miracle to awaken the undead from the Mere of Dead Men and gifted them to his {@creature war priest|VGM} Ularan Mortus. In total, just over 800 {@creature Ghoul||ghouls}, {@creature Ghast||ghasts}, and {@creature Zombie||zombies} bow to his command, with a handful of {@creature Boneclaw|MTF|boneclaws} and {@creature Greater Zombie|TftYP|greater zombies} at the head (see {@area appendix A|12c|x}). His greatest weapon is the ancient green dragon {@creature Claugiyliamatar|SKT}, who is possessed by the unholy spirit of the dracolich {@creature Ebondeath|DC}."
 											]
 										}
 									]
@@ -5079,7 +5079,7 @@
 											]
 										},
 										"To triumph in this encounter, the characters must hold the line against an ever-growing horde of undead. The palisade is soon breached, so it doesn't matter whether the party faces their foes on the ramparts or inside the town: more undead are always coming!",
-										"In the first round, the players face three {@creature Ghast||ghasts} per character, including sidekicks. At start of each new round thereafter, two more ghasts per character enter the fray. To prevail, the party must hold out for 8 rounds without retreating (or 5 rounds if they successfully completed the \"{@adventure Icingdeath and Twinkle|DC|4}\" quest). After this time, allied reinforcements rally to secure the palisade in this section and drive back the undead.",
+										"In the first round, the players face three {@creature Ghast||ghasts} per character, including sidekicks. At start of each new round thereafter, two more ghasts per character enter the fray. To prevail, the party must hold out for 8 rounds without retreating (or 5 rounds if they successfully completed the \"{@area Icingdeath and Twinkle|06d|x}\" quest). After this time, allied reinforcements rally to secure the palisade in this section and drive back the undead.",
 										{
 											"type": "list",
 											"items": [
@@ -5127,7 +5127,7 @@
 											]
 										},
 										"The {@creature Anchorite of Talos|DIP|anchorites of Talos} are using a battering ram to demolish the burning gate. Each time they spot a defender on the wall, the barbarians hurl {@spell Lightning Bolt||lightning bolts} at them. The players have one minute to act before the gate is destroyed and the barbarians pour through. A large force of anchorites is pressing at the gates, numbering at least a hundred. Use your judgement to resolve any plans that the players devise and award them appropriately (see \"{@area Narrative Combat|0aa|x}\").",
-										"If the gate is demolished, the players must hold the line alongside the defenders. In the first round, the players face two {@creature Anchorite of Talos|DIP|anchorites of Talos} for every character in the party, including sidekicks. At the start of every round thereafter, one additional anchorite joins the conflict for every character in the party. To prevail, the party must hold out for 8 rounds without retreating (or 5 rounds if they successfully completed the \"{@adventure Icingdeath and Twinkle|DC|4}\" quest). After this time, allied reinforcements rally to secure the palisade in this section and drive back the cultists. Regardless of how the characters fare, they hear screams from the quayside: the undead have overrun the docks!",
+										"If the gate is demolished, the players must hold the line alongside the defenders. In the first round, the players face two {@creature Anchorite of Talos|DIP|anchorites of Talos} for every character in the party, including sidekicks. At the start of every round thereafter, one additional anchorite joins the conflict for every character in the party. To prevail, the party must hold out for 8 rounds without retreating (or 5 rounds if they successfully completed the \"{@area Icingdeath and Twinkle|06d|x}\" quest). After this time, allied reinforcements rally to secure the palisade in this section and drive back the cultists. Regardless of how the characters fare, they hear screams from the quayside: the undead have overrun the docks!",
 										{
 											"type": "list",
 											"items": [
@@ -5473,7 +5473,7 @@
 							"name": "Conclusion",
 							"id": "0e0",
 							"entries": [
-								"If the characters survive and save Leilon, they become heroes of the town. The councilors raise statues in the characters' honor, though they remain fearful of the rising cult activity in the area. In time, Lord Neverember asks the characters to stamp out these threats once and for all by striking at the cults' headquarters. This unlocks the final two quests: \"{@adventure Ebondeath's Mausoleum|DC|3}\" and \"{@adventure Storm Lord's Hideout|DC|6}.\"",
+								"If the characters survive and save Leilon, they become heroes of the town. The councilors raise statues in the characters' honor, though they remain fearful of the rising cult activity in the area. In time, Lord Neverember asks the characters to stamp out these threats once and for all by striking at the cults' headquarters. This unlocks the final two quests: \"{@area Ebondeath's Mausoleum|051|x}\" and \"{@area Storm Lord's Hideout|0e1|x}.\"",
 								"If {@creature Claugiyliamatar|SKT} surrendered, she ends up indebted to the characters. The old wyrm is evil and untrustworthy, but a dragon's oath is still worth something. At your discretion, the characters could call upon Old Gnawbone's aid in their coming adventures.",
 								"Finally, an odd thing happens as the characters return to town. During the clean-up, the characters discover that nobody in town has ever heard of Aubrey's Peculiarities Shoppe\u2014perhaps it was crushed by the dragon and nobody seems to care, or the characters mention seeing Aubrey fighting atop the tower and nobody remembers who he is. Visiting the site of his store, they see that the building was never actually restored from its ancient state. All that remains in the rubble is the dusty triptych of the Swords of Leilon\u2014only now, the third member of the group, Aubrey himself, is visible in the portrait."
 							]
@@ -5507,9 +5507,9 @@
 						{
 							"type": "list",
 							"items": [
-								"Characters who played the \"{@adventure Icingdeath and Twinkle|DC|4}\" quest can call on either captain to help them. For a cut of 20% of the 8,000 gp reward, the captain offers the services of his ship and crew.",
+								"Characters who played the \"{@area Icingdeath and Twinkle|06d|x}\" quest can call on either captain to help them. For a cut of 20% of the 8,000 gp reward, the captain offers the services of his ship and crew.",
 								"The characters can hire or buy a ship from the shipyards of Neverwinter. {@book chapter 5|DMG|5} of the {@book Dungeon Master's Guide|DMG} contains rules for maritime vessels and a breakdown of their costs.",
-								"Characters who spared the green dragon Claugiyliamatar in the \"{@adventure Leilon Besieged|DC|5}\" quest could compel her to fly them out to sea. She refuses to fight on their behalf but gladly transports the party to repay her debt.",
+								"Characters who spared the green dragon Claugiyliamatar in the \"{@area Leilon Besieged|0a6|x}\" quest could compel her to fly them out to sea. She refuses to fight on their behalf but gladly transports the party to repay her debt.",
 								"Spells such as wind walk or polymorph can grant flight for a limited duration."
 							]
 						},
@@ -5519,7 +5519,7 @@
 							"name": "Roc Patrol",
 							"id": "0e4",
 							"entries": [
-								"As the weather worsens, a {@creature roc} swoops down from the storm clouds above. On its back, a half-orc {@creature blackguard|VGM} (see {@adventure appendix A|DC|9}) named Kata Ironhide spits threats at the party. Kata is a loyal cultist of Talos and has orders to scare away potential threats to the galleon. During combat, the roc tries to snatch opponents into the air and drop them (creatures hitting the surface of the water from lower than 50 feet take half the normal falling damage). If Kata or her roc lose more than half of their hit points, they attempt to flee back to the galleon."
+								"As the weather worsens, a {@creature roc} swoops down from the storm clouds above. On its back, a half-orc {@creature blackguard|VGM} (see {@area appendix A|12c|x}) named Kata Ironhide spits threats at the party. Kata is a loyal cultist of Talos and has orders to scare away potential threats to the galleon. During combat, the roc tries to snatch opponents into the air and drop them (creatures hitting the surface of the water from lower than 50 feet take half the normal falling damage). If Kata or her roc lose more than half of their hit points, they attempt to flee back to the galleon."
 							]
 						},
 						{
@@ -5527,7 +5527,7 @@
 							"name": "Tornado",
 							"id": "0e5",
 							"entries": [
-								"When the party nears the galleon, the cultists call upon Talos to ravage the intruders with a tornado. Before the twister appears, high winds savage the party: if traveling by ship, the characters must take action to avoid getting damaged by the storm (see the \"{@adventure Icingdeath and Twinkle|DC|4}\" quest for examples). At the height of the storm, the characters see a tornado bearing down on them. Ask each player how they mean to evade this threat. If traveling by ship, whoever is steering the vessel needs to succeed on three consecutive {@dc 18} Dexterity checks using proficiency with water vehicles (other actions taken to aid the escape may grant advantage at your discretion). On a failure of two consecutive sailing checks the ship is swept up by the tornado and destroyed: all creatures onboard take 44 ({@dice 8d10}) bludgeoning damage and are tossed into the sea."
+								"When the party nears the galleon, the cultists call upon Talos to ravage the intruders with a tornado. Before the twister appears, high winds savage the party: if traveling by ship, the characters must take action to avoid getting damaged by the storm (see the \"{@area Icingdeath and Twinkle|06d|x}\" quest for examples). At the height of the storm, the characters see a tornado bearing down on them. Ask each player how they mean to evade this threat. If traveling by ship, whoever is steering the vessel needs to succeed on three consecutive {@dc 18} Dexterity checks using proficiency with water vehicles (other actions taken to aid the escape may grant advantage at your discretion). On a failure of two consecutive sailing checks the ship is swept up by the tornado and destroyed: all creatures onboard take 44 ({@dice 8d10}) bludgeoning damage and are tossed into the sea."
 							]
 						}
 					]
@@ -5553,7 +5553,7 @@
 							"name": "Death Knight's Soul",
 							"id": "0e8",
 							"entries": [
-								"The soul of the death knight Emberlost is bound into the dreadnaught's bones. As a sentient, undead creature, Emberlost can see and talk through the skeletal figurehead ({@adventure area D2|DC|6|D2. Upper Deck}), his own corpse below deck ({@adventure area D17|DC|6|D17. Flooded Hold}), or the hellfire orb mounted on the mainmast ({@adventure area D3|DC|6|D3. Hellfire Orb}). The death knight has Wisdom ({@skill Perception}) modifier of +3 and a passive Wisdom ({@skill Perception}) of 13.",
+								"The soul of the death knight Emberlost is bound into the dreadnaught's bones. As a sentient, undead creature, Emberlost can see and talk through the skeletal figurehead ({@area area D2|0ef|x}), his own corpse below deck ({@area area D17|102|x}), or the hellfire orb mounted on the mainmast ({@area area D3|0f0|x}). The death knight has Wisdom ({@skill Perception}) modifier of +3 and a passive Wisdom ({@skill Perception}) of 13.",
 								{
 									"type": "inset",
 									"name": "Dreadnaught Features",
@@ -6762,7 +6762,7 @@
 									"name": "D1. Skeletal Figurehead",
 									"id": "0ee",
 									"entries": [
-										"The animated skeleton of a stone giant is lashed to the ship's bow. This creature has the statistics of a {@creature giant skeleton|TftYP} (see {@adventure appendix A|DC|9}) that cannot move and uses the following attack in place of a scimitar:",
+										"The animated skeleton of a stone giant is lashed to the ship's bow. This creature has the statistics of a {@creature giant skeleton|TftYP} (see {@area appendix A|12c|x}) that cannot move and uses the following attack in place of a scimitar:",
 										"{@b Halberd}. {@atk mw} {@hit 8} to hit, reach 20 ft., one target. {@i Hit}: 21 ({@dice 3d10 + 5}) slashing damage.",
 										"Once per day, the skeleton can use its action to unleash a {@spell lightning bolt} from its halberd, as though cast using a 5th-level spell slot.",
 										"The evil spirit of the death knight can see and speak through the skeletal figurehead (see \"{@area Death Knight's Soul|0e8|x}\")."
@@ -6823,7 +6823,7 @@
 									"id": "0f4",
 									"entries": [
 										"This cabin belongs to Fheralai Stormsworn. Bearskin throws cover the floor and the walls are decorated with the mounted, charred heads of her enemies.",
-										"If Fheralai survived the \"{@adventure Leilon Besieged|DC|5}\" quest, the defeated {@creature war priest|VGM} is found kneeling in here, praying to Talos through the dregs of a bottle of rum. Having failed her mission, the champion begs her deity's forgiveness. Fheralai has no fear of death but is terrified of failing Talos: if the characters enter her cabin, she chooses to drunkenly unload the details of her plight rather than fight them. Did she not honor her god with chaos and ruin? Were her conquests not glorious? Fheralai begs the party for advice on how she should confess her failures to her god: if they ridicule her or show defiance, she throws herself at them in a fight to the death. Players who negotiate get to see first-hand how Talos responds to their advice (see \"{@area Rise of the Storm Lord|103|x}\").",
+										"If Fheralai survived the \"{@area Leilon Besieged|0a6|x}\" quest, the defeated {@creature war priest|VGM} is found kneeling in here, praying to Talos through the dregs of a bottle of rum. Having failed her mission, the champion begs her deity's forgiveness. Fheralai has no fear of death but is terrified of failing Talos: if the characters enter her cabin, she chooses to drunkenly unload the details of her plight rather than fight them. Did she not honor her god with chaos and ruin? Were her conquests not glorious? Fheralai begs the party for advice on how she should confess her failures to her god: if they ridicule her or show defiance, she throws herself at them in a fight to the death. Players who negotiate get to see first-hand how Talos responds to their advice (see \"{@area Rise of the Storm Lord|103|x}\").",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -6873,7 +6873,7 @@
 									"id": "0fa",
 									"entries": [
 										"String hammocks are strung up here like cobwebs. Due to the awkwardness of this space, any Medium or larger creature fighting in here counts as squeezing into a smaller space (see \"{@book Creature Size|PHB|9|Creature Size}\" in chapter 9 of the {@book Player's Handbook|PHB}).",
-										"This area, including cabins {@adventure D15|DC|6|D15. Prisoner Cell} and {@adventure D16|DC|6|D16. Armory}, is guarded by the last of Fheralai's cultists. The players encounter one {@creature blackguard|VGM} plus two {@creature Anchorite of Talos|DIP|anchorites of Talos} for every character in the party, including sidekicks. The cultists fight to the death."
+										"This area, including cabins {@area D15|100|x} and {@area D16|101|x}, is guarded by the last of Fheralai's cultists. The players encounter one {@creature blackguard|VGM} plus two {@creature Anchorite of Talos|DIP|anchorites of Talos} for every character in the party, including sidekicks. The cultists fight to the death."
 									]
 								},
 								{
@@ -6965,7 +6965,7 @@
 							"name": "Conclusion",
 							"id": "105",
 							"entries": [
-								"Characters who make it back to shore can report the sinking of the ship to the authorities in Neverwinter, who award them their purse of 8,000 gp. If this is the last follow-up quest they've played, their adventure ends here (see \"{@adventure Ending the Adventure|DC|8}\" for more information)."
+								"Characters who make it back to shore can report the sinking of the ship to the authorities in Neverwinter, who award them their purse of 8,000 gp. If this is the last follow-up quest they've played, their adventure ends here (see \"{@area Ending the Adventure|12b|x}\" for more information)."
 							]
 						}
 					]
@@ -7858,7 +7858,7 @@
 											"name": "Dimensional Cells",
 											"id": "121",
 											"entries": [
-												"Eight barred cells line the chamber's walls. While the beacon turns, creatures held inside these cells are prevented from taking any form of extradimensional movement, including teleportation or travel to another plane of existence.Bending the bars of a cell requires success on a {@dc 25} Strength check. The cell doors spring open automatically if the beacon is disabled. Two {@condition paralyzed} {@creature Star Spawn Mangler|MTF|star spawn manglers} (see {@adventure appendix A|DC|9}) occupy the cells when the characters first enter the tower."
+												"Eight barred cells line the chamber's walls. While the beacon turns, creatures held inside these cells are prevented from taking any form of extradimensional movement, including teleportation or travel to another plane of existence.Bending the bars of a cell requires success on a {@dc 25} Strength check. The cell doors spring open automatically if the beacon is disabled. Two {@condition paralyzed} {@creature Star Spawn Mangler|MTF|star spawn manglers} (see {@area appendix A|12c|x}) occupy the cells when the characters first enter the tower."
 											]
 										}
 									]
@@ -7868,7 +7868,7 @@
 									"name": "B14. Ethereal Spire",
 									"id": "122",
 									"entries": [
-										"Thalivar built this spire long ago, but it collapsed when the town fell into ruin. Its lingering form remains on the Border Ethereal, where it appears as any other structure from the Material Plane: ghostly and immaterial. A group of four {@creature Star Spawn Mangler|MTF|star spawn manglers} (see {@adventure appendix A|DC|9}) lurk in the mists surrounding this chamber and attack anyone who enters.",
+										"Thalivar built this spire long ago, but it collapsed when the town fell into ruin. Its lingering form remains on the Border Ethereal, where it appears as any other structure from the Material Plane: ghostly and immaterial. A group of four {@creature Star Spawn Mangler|MTF|star spawn manglers} (see {@area appendix A|12c|x}) lurk in the mists surrounding this chamber and attack anyone who enters.",
 										"The only object of interest here is the {@item ruinstone|DC} a fiery red crystal the size of a human palm, which is clasped in the maw of a snake-shaped pedestal. The pedestal is enchanted and only releases its prize if a long-forgotten command word is spoken. Any creature that touches the {@item ruinstone|DC} or strikes the pedestal with a melee weapon must make a {@dc 18} Constitution saving throw or fall {@condition unconscious} for 1 hour. This magical backlash also disables the planar beacon.The pedestal has AC 10, 50 hit points, a damage threshold of 10, and immunity to poison and psychic damage.",
 										{
 											"type": "inset",
@@ -8004,7 +8004,8 @@
 							"source": "mtf",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "137"
 				},
 				{
 					"type": "section",
@@ -8028,7 +8029,8 @@
 							"source": "DIP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "138"
 				},
 				{
 					"type": "section",
@@ -8052,7 +8054,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "139"
 				},
 				{
 					"type": "section",
@@ -8076,7 +8079,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "13a"
 				},
 				{
 					"type": "section",
@@ -8100,7 +8104,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17d"
 				}
 			]
 		},

@@ -577,13 +577,13 @@
 							],
 							"id": "020"
 						},
-						"The party has fallen into {@adventure area 1|TftYP-THSoT|1|1. The Vault of Chicomoztoc} of the dungeon, which is where play begins.",
+						"The party has fallen into {@area area 1|02d|x} of the dungeon, which is where play begins.",
 						{
 							"type": "entries",
 							"name": "The Ruins of the Shrine",
 							"page": 61,
 							"entries": [
-								"{@adventure Map 3.1|TftYP-THSoT|1|Map 3.1: The Hidden Shrine of Tamoachan} shows the layout of the shrine, and later sections of this adventure describe what can be found there."
+								"{@area Map 3.1|171|x} shows the layout of the shrine, and later sections of this adventure describe what can be found there."
 							],
 							"id": "021"
 						},
@@ -628,9 +628,9 @@
 											"name": "Poisonous Gas",
 											"page": 61,
 											"entries": [
-												"The lower levels of the ruins, including the rooms and passages of encounter {@adventure areas 1|TftYP-THSoT|1|1. The Vault of Chicomoztoc} through {@adventure 38|TftYP-THSoT|1|38. Barred Pit}, are filled with poisonous gas. The gas is an amber color, and its area is {@quickref Vision and Light||2||lightly obscured}. Anyone can tell that the gas is irritating, but it takes a successful {@dc 15} Intelligence ({@skill Nature}) check to discern the gas's toxicity. Flames in the gas sputter and glow redly, and any attempt to use natural means to ignite a fire has only a 50 percent chance of success. Fire used as a light source has an effective radius only half normal.",
+												"The lower levels of the ruins, including the rooms and passages of encounter {@area areas 1|02d|x} through {@area 38|0fd|x}, are filled with poisonous gas. The gas is an amber color, and its area is {@quickref Vision and Light||2||lightly obscured}. Anyone can tell that the gas is irritating, but it takes a successful {@dc 15} Intelligence ({@skill Nature}) check to discern the gas's toxicity. Flames in the gas sputter and glow redly, and any attempt to use natural means to ignite a fire has only a 50 percent chance of success. Fire used as a light source has an effective radius only half normal.",
 												"A creature takes 3 ({@dice 1d6}) poison damage every hour it spends in the gas. The gas is light, so it accumulates closer to the ceiling. Inhabitants of the dungeon have immunity to the poisonous effect of the gas.",
-												"The gas rises up and out of the ruins if the doors to {@adventure area 39|TftYP-THSoT|1|39. Chamber of the Second Sun} are opened. It takes one month for the lower levels to clear completely. If the doors are closed again, the lower chambers refill with gas in two weeks."
+												"The gas rises up and out of the ruins if the doors to {@area area 39|102|x} are opened. It takes one month for the lower levels to clear completely. If the doors are closed again, the lower chambers refill with gas in two weeks."
 											],
 											"id": "027"
 										},
@@ -2967,7 +2967,7 @@
 											"name": "Pressure Plate",
 											"page": 66,
 											"entries": [
-												"There is a pressure plate halfway down the hallway that triggers a trap when weight equivalent to that of three or four humanoids is on it. See \"{@adventure The Ruins: General Features|TftYP-THSoT|1|The Ruins: General Features}\" at the beginning of the adventure for details about pressure plates.",
+												"There is a pressure plate halfway down the hallway that triggers a trap when weight equivalent to that of three or four humanoids is on it. See \"{@area The Ruins: General Features|022|x}\" at the beginning of the adventure for details about pressure plates.",
 												"If the trap triggers, several of the logs swing out from either wall and buffet the party. Those in the plate's area when the trap triggers take 7 ({@dice 2d6}) bludgeoning damage and are pushed 5 feet down the slope toward the double doors. Once they swing out, the stone logs don't swing back and thus effectively block the passage, since they bar the way from ceiling to floor with only a 6-inch gap remaining between the logs."
 											],
 											"id": "03e"
@@ -3009,7 +3009,7 @@
 											"name": "Guardian",
 											"page": 66,
 											"entries": [
-												"The creature at the base of the boulder is a {@creature giant crayfish|TftYP} (see {@adventure appendix B|TftYP-THSoT|3}). If it is approached, it will advance waving its claws in an aggressive manner and speak. If any member of the party can understand Olman, an ancient language, the crayfish will be heard to say, \"Who is this? Who dares to enter the chamber of the guardian? You had better go, or I will have to discharge my sacred duty! Be off with you before I lose my temper!\"",
+												"The creature at the base of the boulder is a {@creature giant crayfish|TftYP} (see {@area appendix B|143|x}). If it is approached, it will advance waving its claws in an aggressive manner and speak. If any member of the party can understand Olman, an ancient language, the crayfish will be heard to say, \"Who is this? Who dares to enter the chamber of the guardian? You had better go, or I will have to discharge my sacred duty! Be off with you before I lose my temper!\"",
 												"If the party retreats, the crayfish will not follow, but will take to marching back and forth in front of the boulder and will continue to threaten the party if they approach again. If the crayfish is attacked, it will immediately call forth its companion."
 											],
 											"id": "043"
@@ -3019,7 +3019,7 @@
 											"name": "Creature",
 											"page": 66,
 											"entries": [
-												"The boulder is in reality a huge shell inhabited by {@creature Kalka-Kylla|TftYP} (see {@adventure appendix B|TftYP-THSoT|3}), a giant hermit crab. The bamboo staff is one of its legs; a successful {@dc 15} Intelligence ({@skill Nature}) check enables a character to discern this fact and get a hint as to {@creature Kalka-Kylla|TftYP}'s nature before the crab moves.",
+												"The boulder is in reality a huge shell inhabited by {@creature Kalka-Kylla|TftYP} (see {@area appendix B|143|x}), a giant hermit crab. The bamboo staff is one of its legs; a successful {@dc 15} Intelligence ({@skill Nature}) check enables a character to discern this fact and get a hint as to {@creature Kalka-Kylla|TftYP}'s nature before the crab moves.",
 												"When the characters enter the room, {@creature Kalka-Kylla|TftYP} is asleep and will not awaken unless the crayfish is attacked. Once it is awake, it may attack or bargain. It speaks Olman.",
 												"The crab can be reasoned with, if the party doesn't attack it and can come to terms with it. The crab denies any knowledge of this place, stating that it was brought into these warrens when very young. If asked for directions, it first sends the party to the rubble-filled staircase to the east, and then, if asked a second time, it sends the party to the west."
 											],
@@ -3142,7 +3142,7 @@
 							"page": 67,
 							"entries": [
 								"(Tloh-kays Poh-poh-LOH-kahs, master of the outsiders)",
-								"Once the stone entrance block ({@adventure area 5|TftYP-THSoT|1|5. Tomb Stone and Wet Lime}) is pushed out of the way, the characters have enough space to get past it.",
+								"Once the stone entrance block ({@area area 5|04b|x}) is pushed out of the way, the characters have enough space to get past it.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -3407,7 +3407,7 @@
 											"name": "Creature",
 											"page": 71,
 											"entries": [
-												"The phosphorescent glow on the eastern wall is actually a giant slug named {@creature Tecuziztecatl|TftYP} (see {@adventure appendix B|TftYP-THSoT|3}), the Lord of Snails. {@creature Tecuziztecatl|TftYP} (Tay-COO-zeez-tay-COT-el) is highly intelligent and quite the boaster. In ancient lore it was considered to be related to the moon, a fact of which it is quite proud. During combat the slug will detail, in Olman, what it has in store for the characters and how hopeless their situation is.",
+												"The phosphorescent glow on the eastern wall is actually a giant slug named {@creature Tecuziztecatl|TftYP} (see {@area appendix B|143|x}), the Lord of Snails. {@creature Tecuziztecatl|TftYP} (Tay-COO-zeez-tay-COT-el) is highly intelligent and quite the boaster. In ancient lore it was considered to be related to the moon, a fact of which it is quite proud. During combat the slug will detail, in Olman, what it has in store for the characters and how hopeless their situation is.",
 												"If it begins to lose the combat, the slug will either \"surrender\" and after bargaining agree to help the party, or else it will flee and conceal itself in the moat. If the characters allow themselves to be helped, the slug will precede them to the north side of the moat and stretch its body across the gap, making it appear to be solid ground. Those who step on the slug without taking precautions will plunge into the moat.",
 												"The slug will lead the party toward the Tomb of Hurakan (area 12) and instruct them to open the door. Once the door is open, {@creature Tecuziztecatl|TftYP} will flee from the party and hide in the bottom of the moat."
 											],
@@ -3418,7 +3418,7 @@
 											"name": "Eastern Alcove",
 											"page": 71,
 											"entries": [
-												"The eastern fountain has a small amount of concentrated lime solution near the bottom (dealing damage as the lime in {@adventure area 5|TftYP-THSoT|1|5. Tomb Stone and Wet Lime}). It looks like cloudy water. A small amulet lies beneath the caked lime. The amulet (worth 65 gp) is made of brass and chrysoprase, engraved with the words \"Lord of Snails.\" It is possible to use the amulet as a bargaining tool with the giant slug, which will accept it in return for allowing the characters passage to the Tomb of Hurakan.",
+												"The eastern fountain has a small amount of concentrated lime solution near the bottom (dealing damage as the lime in {@area area 5|04b|x}). It looks like cloudy water. A small amulet lies beneath the caked lime. The amulet (worth 65 gp) is made of brass and chrysoprase, engraved with the words \"Lord of Snails.\" It is possible to use the amulet as a bargaining tool with the giant slug, which will accept it in return for allowing the characters passage to the Tomb of Hurakan.",
 												"In the southeast corner of the eastern alcove, a {@creature swarm of rats} nests in the rubbish. The swarm is made up of diseased giant rats."
 											],
 											"id": "09d"
@@ -3513,8 +3513,8 @@
 											"name": "Creatures",
 											"page": 72,
 											"entries": [
-												"The young woman is actually a {@creature nereid|TftYP} (see {@adventure appendix B|TftYP-THSoT|3}) named Dasa Zotz. Whether startled or not, eventually the nereid surfaces and a silvery laugh is heard. This creature is an agent of Zotzilaha. Unlike most other nereids, she is chaotic evil in alignment, and she speaks Olman instead of Common. She possesses an insidious and clever mind, concealed beneath her alien beauty and seeming naiveté. She retreats from close combat and conceals herself in the water.",
-												"The nereid has a pet named Chac, a {@creature giant lightning eel|TftYP} (see {@adventure appendix B|TftYP-THSoT|3}). If she calls to Chac for aid, she does so on her turn when she uses Water Lash. The waters begin to heave and boil, and the watery form of a human with an elephantine head, wearing an elaborate headdress and holding a trident, rises up. The eel comes near the surface and strikes when the watery \"god\" levels its trident at a character."
+												"The young woman is actually a {@creature nereid|TftYP} (see {@area appendix B|143|x}) named Dasa Zotz. Whether startled or not, eventually the nereid surfaces and a silvery laugh is heard. This creature is an agent of Zotzilaha. Unlike most other nereids, she is chaotic evil in alignment, and she speaks Olman instead of Common. She possesses an insidious and clever mind, concealed beneath her alien beauty and seeming naiveté. She retreats from close combat and conceals herself in the water.",
+												"The nereid has a pet named Chac, a {@creature giant lightning eel|TftYP} (see {@area appendix B|143|x}). If she calls to Chac for aid, she does so on her turn when she uses Water Lash. The waters begin to heave and boil, and the watery form of a human with an elephantine head, wearing an elaborate headdress and holding a trident, rises up. The eel comes near the surface and strikes when the watery \"god\" levels its trident at a character."
 											],
 											"id": "0a8"
 										},
@@ -3557,8 +3557,8 @@
 									],
 									"id": "0ac"
 								},
-								"The hallway extends only 5 feet beyond the arch. The western wall is a cleverly painted mural designed to give the illusion of depth and reality, and the obscuring effect of the poison gas contributes to this impression. If characters attempt to go in this direction, they walk straight into the wall unless someone succeeds on a {@dc 15} Wisdom ({@skill Perception}) check. The space beyond the arch immediately in front of the mural is where creatures arrive after being teleported from the south end of {@adventure area 32|TftYP-THSoT|1|32. The Portal to Death}.",
-								"To either side of the arch is a 5-foot-deep niche. A character who steps into either niche triggers a pressure plate (see \"{@adventure The Ruins: General Features|TftYP-THSoT|1|The Ruins: General Features}\" at the beginning of the adventure) that releases a set of horizontal bars\u2014closing off the archway and trapping the interloper.",
+								"The hallway extends only 5 feet beyond the arch. The western wall is a cleverly painted mural designed to give the illusion of depth and reality, and the obscuring effect of the poison gas contributes to this impression. If characters attempt to go in this direction, they walk straight into the wall unless someone succeeds on a {@dc 15} Wisdom ({@skill Perception}) check. The space beyond the arch immediately in front of the mural is where creatures arrive after being teleported from the south end of {@area area 32|0d2|x}.",
+								"To either side of the arch is a 5-foot-deep niche. A character who steps into either niche triggers a pressure plate (see \"{@area The Ruins: General Features|022|x}\" at the beginning of the adventure) that releases a set of horizontal bars\u2014closing off the archway and trapping the interloper.",
 								"The character can instead take 10 minutes to remove the plate from the floor, requiring the same sort of check as for an attempt to block the plate from moving. A failed check in this case means another 10 minutes of work is required, followed by another check.",
 								{
 									"type": "entries",
@@ -3641,7 +3641,7 @@
 									"name": "Treasure",
 									"page": 73,
 									"entries": [
-										"The golden circlet is a {@item bracelet of rock magic|TftYP} (see {@adventure appendix A|TftYP-THSoT|2}) that was originally a ring, an earring, or some other piece of stone giant jewelry."
+										"The golden circlet is a {@item bracelet of rock magic|TftYP} (see {@area appendix A|142|x}) that was originally a ring, an earring, or some other piece of stone giant jewelry."
 									],
 									"id": "066"
 								}
@@ -3772,7 +3772,7 @@
 									"name": "Treasure",
 									"page": 74,
 									"entries": [
-										"The stuccoed dome is a cairn. It is a weak construction and can be broken into in 1 minute, using any bludgeoning instruments. If the characters work in concert, the time can be divided among multiple workers. Inside are six sets of worthless bones and six jade bead pectorals, worth 50 gp each. In a dusty corner is a pendant made of silver and turquoise, which is an {@item amulet of protection from turning|TftYP} (see {@adventure appendix A|TftYP-THSoT|2}). In the center of the floor of this cairn is a bronze and chrysoprase lamp set into the stucco, worth 15 gp."
+										"The stuccoed dome is a cairn. It is a weak construction and can be broken into in 1 minute, using any bludgeoning instruments. If the characters work in concert, the time can be divided among multiple workers. Inside are six sets of worthless bones and six jade bead pectorals, worth 50 gp each. In a dusty corner is a pendant made of silver and turquoise, which is an {@item amulet of protection from turning|TftYP} (see {@area appendix A|142|x}). In the center of the floor of this cairn is a bronze and chrysoprase lamp set into the stucco, worth 15 gp."
 									],
 									"id": "076"
 								},
@@ -3869,7 +3869,7 @@
 									"name": "Creatures",
 									"page": 75,
 									"entries": [
-										"The two bodies are {@creature Martial Arts Adept|VGM|martial arts adepts} (see {@adventure appendix B|TftYP-THSoT|3}) in suspended animation. The male is named Cipactonal (See-PAK-ton-al), and the female is Oxomoco (Oks-OH-mo-koh). They used the potion that the flask once contained to feign their death. If either is disturbed, they both instantly awaken and stand. Oxomoco says, first in Olman and then in an ancient dialect of Common, \"You have broken our glorious sleep; for this you must atone.\"",
+										"The two bodies are {@creature Martial Arts Adept|VGM|martial arts adepts} (see {@area appendix B|143|x}) in suspended animation. The male is named Cipactonal (See-PAK-ton-al), and the female is Oxomoco (Oks-OH-mo-koh). They used the potion that the flask once contained to feign their death. If either is disturbed, they both instantly awaken and stand. Oxomoco says, first in Olman and then in an ancient dialect of Common, \"You have broken our glorious sleep; for this you must atone.\"",
 										"The two then assume fighting stances, and if either is threatened or harmed, they attack. If the party negotiates, the two demand payment of 500 gp or one uncommon or rare magic item. If they aren't paid, the monks attack.",
 										"If the monks are questioned about the ruins, they know nothing to tell, except that they can translate the message on the western wall. They will not leave their chambers."
 									],
@@ -3902,7 +3902,7 @@
 							],
 							"id": "083"
 						},
-						"The bobbing light is a {@creature will-o'-wisp}. It will attempt to lure the party into a trap, then use Consume Life on a victim. The creature will lead parties coming from the west toward and then into the north\u2013south corridor. Characters approaching from the north, who might already be familiar with the will-o'-wisp (see {@adventure area 24|TftYP-THSoT|1|24. Sandbox}), will be led on a zigzag route through the passages toward {@adventure area 19|TftYP-THSoT|1|19. Silver Coffer}."
+						"The bobbing light is a {@creature will-o'-wisp}. It will attempt to lure the party into a trap, then use Consume Life on a victim. The creature will lead parties coming from the west toward and then into the north\u2013south corridor. Characters approaching from the north, who might already be familiar with the will-o'-wisp (see {@area area 24|087|x}), will be led on a zigzag route through the passages toward {@area area 19|06c|x}."
 					],
 					"id": "082"
 				},
@@ -3947,7 +3947,7 @@
 									"name": "Pressure Plate",
 									"page": 76,
 									"entries": [
-										"The 10-foot-square section of floor marked on the map is the location of a pressure plate (see \"{@adventure The Ruins: General Features|TftYP-THSoT|1|The Ruins: General Features}\" at the beginning of the adventure). If an amount of weight equivalent to that of three or four humanoids is placed on it, the trap described below is triggered."
+										"The 10-foot-square section of floor marked on the map is the location of a pressure plate (see \"{@area The Ruins: General Features|022|x}\" at the beginning of the adventure). If an amount of weight equivalent to that of three or four humanoids is placed on it, the trap described below is triggered."
 									],
 									"id": "089"
 								},
@@ -3969,7 +3969,7 @@
 									"name": "Creature",
 									"page": 76,
 									"entries": [
-										"As soon as the sand begins flowing, the {@creature will-o'-wisp} that frequents this part of the ruins (see {@adventure area 23|TftYP-THSoT|1|23. Light Ahead}), if it remains alive, moves through one of the doors into the trapped area. It harries those who are having the most success at escaping the trap."
+										"As soon as the sand begins flowing, the {@creature will-o'-wisp} that frequents this part of the ruins (see {@area area 23|082|x}), if it remains alive, moves through one of the doors into the trapped area. It harries those who are having the most success at escaping the trap."
 									],
 									"id": "08b"
 								}
@@ -4024,7 +4024,7 @@
 					"name": "The First Tier",
 					"page": 77,
 					"entries": [
-						"Ascending either of the routes out of the lower chambers brings the characters to the first tier of the temple proper. The following locations are identified on {@adventure map 3.1.|TftYP-THSoT|1|Map 3.1: The Hidden Shrine of Tamoachan}",
+						"Ascending either of the routes out of the lower chambers brings the characters to the first tier of the temple proper. The following locations are identified on {@area map 3.1.|171|x}",
 						{
 							"type": "entries",
 							"name": "26. Ramp",
@@ -4063,7 +4063,7 @@
 											"name": "Pressure Plate",
 											"page": 77,
 											"entries": [
-												"The 10-foot square indicated on the map is the location of a pressure plate (see \"{@adventure The Ruins: General Features|TftYP-THSoT|1|The Ruins: General Features}\" at the beginning of the adventure). If more than 30 pounds is placed on the plate, the trap described below triggers.",
+												"The 10-foot square indicated on the map is the location of a pressure plate (see \"{@area The Ruins: General Features|022|x}\" at the beginning of the adventure). If more than 30 pounds is placed on the plate, the trap described below triggers.",
 												"If the characters detect the presence of this plate, they can remove it from the floor with 10 minutes of work and a successful check as for an attempt to block the plate from moving. A failed check means another 10 minutes of work is required, followed by another check."
 											],
 											"id": "0b7"
@@ -4074,7 +4074,7 @@
 											"page": 77,
 											"entries": [
 												"A millstone, concealed in the wall behind a layer of stucco, lies at the top of the steps. No nonmagical means can detect the hidden stone. If the trap is triggered, the mechanism pushes the millstone through the wall and sends it rolling down the stairs. When this occurs, anyone who has a passive Perception score of 14 or lower is {@status surprised}. Everyone rolls initiative, including the stone, which has a +10 bonus to the roll. On its turn, the stone moves 60 feet. Anyone in its path must succeed on a {@dc 15} Dexterity saving throw or take 27 ({@dice 5d10}) bludgeoning damage and have a 50 percent chance to drop anything carried in hand. A character whose saving throw fails by 5 or more takes maximum damage, is knocked {@condition prone}, and drops anything held in hand. Dropped objects take damage from hitting the stone and end up somewhere on the stairs.",
-												"The stone ultimately crashes into the doors to {@adventure area 25|TftYP-THSoT|1|25. The Nest of the Warriors}, breaking them open and destroying them. If beetles remain in the room, some or all of them come into the stairway agitated and looking for a fight."
+												"The stone ultimately crashes into the doors to {@area area 25|08c|x}, breaking them open and destroying them. If beetles remain in the room, some or all of them come into the stairway agitated and looking for a fight."
 											],
 											"id": "0b8"
 										}
@@ -4207,7 +4207,7 @@
 											"name": "Spoils of Victory",
 											"page": 78,
 											"entries": [
-												"If the characters win, the ball becomes inert. The sound of triumphant drums erupts briefly, then the area goes silent. The southern goal goes dark, but the northern goal continues to glow orange. {@skill Investigation} reveals that a small panel has opened in the back of the depression. Within the space beyond is a pouch made of fish skin that holds ten pink pearls (worth 20 gp each), a topaz and shell necklace (worth 50 gp), and a whistle made of an eagle's bone with feather decoration, which is an {@item eagle whistle|TftYP} (see {@adventure appendix A|TftYP-THSoT|2})."
+												"If the characters win, the ball becomes inert. The sound of triumphant drums erupts briefly, then the area goes silent. The southern goal goes dark, but the northern goal continues to glow orange. {@skill Investigation} reveals that a small panel has opened in the back of the depression. Within the space beyond is a pouch made of fish skin that holds ten pink pearls (worth 20 gp each), a topaz and shell necklace (worth 50 gp), and a whistle made of an eagle's bone with feather decoration, which is an {@item eagle whistle|TftYP} (see {@area appendix A|142|x})."
 											],
 											"id": "0c6"
 										}
@@ -4250,7 +4250,7 @@
 											"name": "Creature",
 											"page": 79,
 											"entries": [
-												"The statue is a {@condition petrified} {@creature werejaguar|TftYP} (use the {@creature weretiger} statistics). If the altar is molested or any of the room's contents are abused, the {@creature werejaguar|TftYP} becomes aware and seizes the first opportunity to attack with surprise. It can turn to flesh as a bonus action and then transform into cat shape, dropping its spear. (The magic on the creature renders it strongly related to earth and stone with regard to the curse on the {@item bracelet of rock magic|TftYP}, described in {@adventure appendix A|TftYP-THSoT|2}). Its first choice of targets is always the weakest member of the party. If the {@creature werejaguar|TftYP} is reduced to 0 hit points, it reverts to human form and becomes {@condition petrified} again.",
+												"The statue is a {@condition petrified} {@creature werejaguar|TftYP} (use the {@creature weretiger} statistics). If the altar is molested or any of the room's contents are abused, the {@creature werejaguar|TftYP} becomes aware and seizes the first opportunity to attack with surprise. It can turn to flesh as a bonus action and then transform into cat shape, dropping its spear. (The magic on the creature renders it strongly related to earth and stone with regard to the curse on the {@item bracelet of rock magic|TftYP}, described in {@area appendix A|142|x}). Its first choice of targets is always the weakest member of the party. If the {@creature werejaguar|TftYP} is reduced to 0 hit points, it reverts to human form and becomes {@condition petrified} again.",
 												"The {@creature werejaguar|TftYP}'s heart has been removed by magical surgery and is hidden in the head of the stuffed tiger (hinted at by the scars on man and tiger). Therefore, the cat-man might take damage or even die, but unless its heart is destroyed, it is reborn again whole in one day's time. If the lycanthrope's heart (AC 10, 2 hit points) is destroyed, the creature dies and turns to dust."
 											],
 											"id": "0ca"
@@ -4349,7 +4349,7 @@
 											"name": "Northern Door",
 											"page": 80,
 											"entries": [
-												"Even after the bar is removed, the false door will not open. It appears to open outward, but when a character pushes against it, three arms spring out from the lintel and surround the character. Spotting these arms among the entwined serpents in the lintel requires a successful {@dc 20} Wisdom ({@skill Perception}) check. The arms are treated as a pressure plate (see \"{@adventure The Ruins: General Features|TftYP-THSoT|1|The Ruins: General Features}\" at the beginning of the adventure) if a character attempts to jam them in place to keep them from moving.",
+												"Even after the bar is removed, the false door will not open. It appears to open outward, but when a character pushes against it, three arms spring out from the lintel and surround the character. Spotting these arms among the entwined serpents in the lintel requires a successful {@dc 20} Wisdom ({@skill Perception}) check. The arms are treated as a pressure plate (see \"{@area The Ruins: General Features|022|x}\" at the beginning of the adventure) if a character attempts to jam them in place to keep them from moving.",
 												"A character caught in the trap can wriggle free only with a successful {@dc 20} Dexterity ({@skill Acrobatics}) check. Otherwise, unconfined characters can attempt to free a victim. The combined effort of two characters with a total Strength of 30 or higher is needed to pry back each arm, taking 1 round to move each one.",
 												"After a victim has been trapped for 5 rounds, the cover to a 5-foot-square pit starts to drop open. The pit is lined with spikes. The cover fully opens in 2 rounds, at which point the arms swiftly spring back into the lintel, releasing any victims to plummet into the 15-foot-deep pit. A fall into the pit deals 11 ({@dice 2d10}) bludgeoning damage. The spikes are hard rubber wrapped around balsa wood, placed for artistic effect."
 											],
@@ -4360,7 +4360,7 @@
 											"name": "Southern Door",
 											"page": 80,
 											"entries": [
-												"The image on the southern door is the infinity symbol, representing the dual-god, the supreme god of creation. The door isn't latched, but it is stuck shut. A {@spell detect magic} spell cast on it reveals that an aura of conjuration magic emanates from beyond the door. It takes a successful {@dc 20} Strength ({@skill Athletics}) check to bash the door open. If a creature does so, the door gives way suddenly, dumping the gate-crasher into a narrow space ahead. Any creature that enters this space is teleported to the west end of {@adventure area 15|TftYP-THSoT|1|15. The Great Hall}, just outside the painted mural on the wall."
+												"The image on the southern door is the infinity symbol, representing the dual-god, the supreme god of creation. The door isn't latched, but it is stuck shut. A {@spell detect magic} spell cast on it reveals that an aura of conjuration magic emanates from beyond the door. It takes a successful {@dc 20} Strength ({@skill Athletics}) check to bash the door open. If a creature does so, the door gives way suddenly, dumping the gate-crasher into a narrow space ahead. Any creature that enters this space is teleported to the west end of {@area area 15|0ab|x}, just outside the painted mural on the wall."
 											],
 											"id": "0d7"
 										},
@@ -4507,7 +4507,7 @@
 											"name": "Treasure",
 											"page": 82,
 											"entries": [
-												"The items at the corpse's feet include an agate carved in the shape of a heart (worth 15 gp) that is actually a {@item stone of ill luck|TftYP} (see {@adventure appendix A|TftYP-THSoT|2}), a miniature gold llama (worth 50 gp), a ring of polished pink granite (worth 10 gp), and a silver plaque bearing the face of the sun (15 gp)."
+												"The items at the corpse's feet include an agate carved in the shape of a heart (worth 15 gp) that is actually a {@item stone of ill luck|TftYP} (see {@area appendix A|142|x}), a miniature gold llama (worth 50 gp), a ring of polished pink granite (worth 10 gp), and a silver plaque bearing the face of the sun (15 gp)."
 											],
 											"id": "0e7"
 										}
@@ -4537,7 +4537,7 @@
 											"name": "Pressure Plate",
 											"page": 82,
 											"entries": [
-												"Near the midpoint of this corridor is a 10-foot-square pressure plate (see \"{@adventure The Ruins: General Features|TftYP-THSoT|1|The Ruins: General Features}\" at the beginning of the adventure) that triggers if more than 30 pounds is placed on it."
+												"Near the midpoint of this corridor is a 10-foot-square pressure plate (see \"{@area The Ruins: General Features|022|x}\" at the beginning of the adventure) that triggers if more than 30 pounds is placed on it."
 											],
 											"id": "0eb"
 										},
@@ -4743,7 +4743,7 @@
 											"name": "Hazard",
 											"page": 84,
 											"entries": [
-												"The bushes growing in the pit are carnivorous {@creature Thorn Slinger|TftYP|thorn slingers} (see {@adventure appendix B|TftYP-THSoT|3}). Each plant lies beneath one of the bronze bars and casts its projectiles directly upward against anyone attempting to traverse the bars. A creature balancing on a bar when it is hit by thorns must make a Dexterity saving throw with a DC of 6 + the damage taken. If the saving throw fails by 4 or less, the creature falls {@condition prone}, catching itself on the bar. (To stand up on the bar afterward, a character must make a Dexterity check as if attempting to move on the bars.) If the saving throw fails by 5 or more, the character falls in the pit.",
+												"The bushes growing in the pit are carnivorous {@creature Thorn Slinger|TftYP|thorn slingers} (see {@area appendix B|143|x}). Each plant lies beneath one of the bronze bars and casts its projectiles directly upward against anyone attempting to traverse the bars. A creature balancing on a bar when it is hit by thorns must make a Dexterity saving throw with a DC of 6 + the damage taken. If the saving throw fails by 4 or less, the creature falls {@condition prone}, catching itself on the bar. (To stand up on the bar afterward, a character must make a Dexterity check as if attempting to move on the bars.) If the saving throw fails by 5 or more, the character falls in the pit.",
 												"Someone who falls into the pit always comes down on a bush, cushioning the impact. The fall deals only 3 ({@dice 1d6}) bludgeoning damage, but the character lands on a plant's adhesive blossoms."
 											],
 											"id": "101"
@@ -4766,7 +4766,7 @@
 									],
 									"id": "103"
 								},
-								"There is no poison gas in the room, or in any of the upper areas ({@adventure 40|TftYP-THSoT|1|40. Dragon Breath} and higher), because the gas escapes out the hole in the ceiling. The floor is strewn with rubble, so it is {@quickref difficult terrain||3}. Larger rubble piles are 1 to 4 feet high. Any loud noise (such as an explosion, shouting, or fighting) causes a minor cave-in: at the start of each creature's next turn after the noise, that creature is subjected to an attack from falling rocks and earth ({@hit 5} to hit, dealing 3 ({@dice 1d6}) bludgeoning damage on a hit).",
+								"There is no poison gas in the room, or in any of the upper areas ({@area 40|10a|x} and higher), because the gas escapes out the hole in the ceiling. The floor is strewn with rubble, so it is {@quickref difficult terrain||3}. Larger rubble piles are 1 to 4 feet high. Any loud noise (such as an explosion, shouting, or fighting) causes a minor cave-in: at the start of each creature's next turn after the noise, that creature is subjected to an attack from falling rocks and earth ({@hit 5} to hit, dealing 3 ({@dice 1d6}) bludgeoning damage on a hit).",
 								{
 									"type": "entries",
 									"entries": [
@@ -4821,7 +4821,7 @@
 					"name": "The Second Tier",
 					"page": 85,
 					"entries": [
-						"The staircase at area 40 provides access to the second tier of the temple. The following locations are identified on {@adventure map 3.1.|TftYP-THSoT|1|Map 3.1: The Hidden Shrine of Tamoachan}",
+						"The staircase at area 40 provides access to the second tier of the temple. The following locations are identified on {@area map 3.1.|171|x}",
 						{
 							"type": "entries",
 							"name": "40. Dragon Breath",
@@ -4844,7 +4844,7 @@
 									"width": 833,
 									"height": 1000
 								},
-								"The second 10-foot square along these stairs is warded by magic like that of a {@spell glyph of warding} spell (save {@dc 17}). If the glyph is triggered, nothing happens until a creature moves onto the uppermost 5 feet of the stairs. When that occurs, a stone statue of a dragon, hidden in the secret room at the top of the stairs (see the \"Second Tier\" portion of the {@adventure map|TftYP-THSoT|1|Map 3.1: The Hidden Shrine of Tamoachan}), pops out and rolls forward to the head of the steps. The statue has the statistics, defenses, and traits of a {@creature stone golem}, but it has no action options. As soon as it stops after emerging, it opens its mouth and breathes a gust of steam 30 feet long and 10 feet wide. Those in the area must make a {@dc 15} Constitution saving throw, taking 7 ({@dice 2d4 + 2}) fire damage on a failed save, or half as much damage on a successful one.",
+								"The second 10-foot square along these stairs is warded by magic like that of a {@spell glyph of warding} spell (save {@dc 17}). If the glyph is triggered, nothing happens until a creature moves onto the uppermost 5 feet of the stairs. When that occurs, a stone statue of a dragon, hidden in the secret room at the top of the stairs (see the \"Second Tier\" portion of the {@area map|171|x}), pops out and rolls forward to the head of the steps. The statue has the statistics, defenses, and traits of a {@creature stone golem}, but it has no action options. As soon as it stops after emerging, it opens its mouth and breathes a gust of steam 30 feet long and 10 feet wide. Those in the area must make a {@dc 15} Constitution saving throw, taking 7 ({@dice 2d4 + 2}) fire damage on a failed save, or half as much damage on a successful one.",
 								"Thereafter, the statue breathes the next three times someone moves into or through the warded area. After four breaths, the statue retreats to its room and the door closes. (The statue's resting place is connected to a hot water geyser in the bedrock, through which it replenishes itself.)",
 								{
 									"type": "entries",
@@ -5085,7 +5085,7 @@
 									"name": "Special Treasure",
 									"page": 87,
 									"entries": [
-										"If the couatl and the characters are on good terms at the end of the encounter, the couatl provides them with special treasures: a {@item balance of harmony|TftYP} (see {@adventure appendix A|TftYP-THSoT|2}) and the gems needed to operate it, a {@item mirror of the past|TftYP} (see {@adventure appendix A|TftYP-THSoT|2}), and a {@item periapt of wound closure}.",
+										"If the couatl and the characters are on good terms at the end of the encounter, the couatl provides them with special treasures: a {@item balance of harmony|TftYP} (see {@area appendix A|142|x}) and the gems needed to operate it, a {@item mirror of the past|TftYP} (see {@area appendix A|142|x}), and a {@item periapt of wound closure}.",
 										"In addition, if the characters ask, the couatl might be willing to use its spells to help the party. It has been imprisoned a long time and doesn't know anything about the ruins. It returns to the celestial planes after giving the characters their rewards."
 									],
 									"id": "126"
@@ -5219,7 +5219,7 @@
 									],
 									"id": "134"
 								},
-								"The light in the ceiling comes from the walls of a chute that glows in the dark. The chimney can be reached by someone who climbs on the shoulders of another character, but to enter it, the character must brace back and legs against opposite walls because there are no protuberances to hold onto. The steeply inclined passage beyond is full of cobwebs and leads eventually to {@adventure area 48|TftYP-THSoT|1|48. Hound of the Bat}.",
+								"The light in the ceiling comes from the walls of a chute that glows in the dark. The chimney can be reached by someone who climbs on the shoulders of another character, but to enter it, the character must brace back and legs against opposite walls because there are no protuberances to hold onto. The steeply inclined passage beyond is full of cobwebs and leads eventually to {@area area 48|14b|x}.",
 								"Each section of the diorama in this room has a magical aspect that affects any creatures that walk into the region. If the effect isn't instantaneous and isn't related to a spell, it can be dispelled with {@spell dispel magic} cast as a 5th-level spell (or at a level stated in the effect). A creature on which a region's effect is dispelled is immune to the effect for 1 minute.",
 								"The two paths are free of magical effects. If characters veer off the paths, either unwittingly or with the intent of exploring, apply the effects described below according to the areas they enter. Unless otherwise noted, creatures can leave an area whenever they desire, by either moving onto one of the paths or into an adjacent area.",
 								{
@@ -5366,7 +5366,7 @@
 											"name": "Creature",
 											"page": 89,
 											"entries": [
-												"In a web-covered opening in the wall of the steeply inclined chute, 30 feet above the where the lower end meets the ceiling of {@adventure area 45|TftYP-THSoT|1|45. Mictlan}, lurks a {@creature giant spider}. The spider's lair is 10 feet long, 4 feet wide, and 4 feet tall. A character must succeed on a {@dc 17} Wisdom ({@skill Perception}) check to notice the tunnel or its occupant before the spider attacks. If the spider paralyzes its prey, it retreats into its lair with the prey to feed."
+												"In a web-covered opening in the wall of the steeply inclined chute, 30 feet above the where the lower end meets the ceiling of {@area area 45|133|x}, lurks a {@creature giant spider}. The spider's lair is 10 feet long, 4 feet wide, and 4 feet tall. A character must succeed on a {@dc 17} Wisdom ({@skill Perception}) check to notice the tunnel or its occupant before the spider attacks. If the spider paralyzes its prey, it retreats into its lair with the prey to feed."
 											],
 											"id": "147"
 										},
@@ -5403,7 +5403,7 @@
 					"name": "The Third Tier",
 					"page": 90,
 					"entries": [
-						"The tunnel that leads up from {@adventure area 45|TftYP-THSoT|1|45. Mictlan} opens onto the third tier of the temple. The following locations are identified on {@adventure map 3.1.|TftYP-THSoT|1|Map 3.1: The Hidden Shrine of Tamoachan}",
+						"The tunnel that leads up from {@area area 45|133|x} opens onto the third tier of the temple. The following locations are identified on {@area map 3.1.|171|x}",
 						{
 							"type": "entries",
 							"name": "48. Hound of the Bat",
@@ -5435,7 +5435,7 @@
 											"name": "Treasure",
 											"page": 90,
 											"entries": [
-												"The \"crayfish\" is nothing more than the shed shell of a long-expired resident of the fountain. Beneath it is a platinum key and chain (worth 20 gp). The key unlocks the portcullis that blocks the exit in {@adventure area 53|TftYP-THSoT|1|53. The Valve}."
+												"The \"crayfish\" is nothing more than the shed shell of a long-expired resident of the fountain. Beneath it is a platinum key and chain (worth 20 gp). The key unlocks the portcullis that blocks the exit in {@area area 53|160|x}."
 											],
 											"id": "14f"
 										}
@@ -5476,7 +5476,7 @@
 											"name": "Creature",
 											"page": 90,
 											"entries": [
-												"The centaur figure is the mummified remains of a sacred offspring of Chitza-Atlan, the guardian of the gateway to the underworld. This guardian has two functions: to prevent any but the dead from entering these ruins, and to keep those creatures in the ruins confined there. Thus, if any character tries to exit this room by any door other than the one entered from, the {@creature centaur mummy|TftYP} (see {@adventure appendix B|TftYP-THSoT|3}) animates and attacks the characters. The mummy will also defend itself if attacked. A word or a pass from Zotzilaha will gain free passage."
+												"The centaur figure is the mummified remains of a sacred offspring of Chitza-Atlan, the guardian of the gateway to the underworld. This guardian has two functions: to prevent any but the dead from entering these ruins, and to keep those creatures in the ruins confined there. Thus, if any character tries to exit this room by any door other than the one entered from, the {@creature centaur mummy|TftYP} (see {@area appendix B|143|x}) animates and attacks the characters. The mummy will also defend itself if attacked. A word or a pass from Zotzilaha will gain free passage."
 											],
 											"id": "153"
 										},
@@ -5621,7 +5621,7 @@
 											"name": "Easy Way Out",
 											"page": 92,
 											"entries": [
-												"If the characters search the walls beside the portcullis, a keyhole can be discovered. The key from {@adventure room 48|TftYP-THSoT|1|48. Hound of the Bat} fits the lock, enabling the portcullis to be opened like a gate."
+												"If the characters search the walls beside the portcullis, a keyhole can be discovered. The key from {@area room 48|14b|x} fits the lock, enabling the portcullis to be opened like a gate."
 											],
 											"id": "164"
 										},
@@ -5648,7 +5648,7 @@
 					"name": "Temple Grounds",
 					"page": 92,
 					"entries": [
-						"The inset on {@adventure map 3.1|TftYP-THSoT|1|Map 3.1: The Hidden Shrine of Tamoachan} depicts what is left of the shrine at ground level.",
+						"The inset on {@area map 3.1|171|x} depicts what is left of the shrine at ground level.",
 						{
 							"type": "entries",
 							"name": "54. Temple Ruin",
@@ -5688,7 +5688,7 @@
 											"name": "Trapdoor Entrance",
 											"page": 92,
 											"entries": [
-												"If the characters begin their investigations of the hidden shrine by arriving at the temple, they need to find a way in. One route is by way of a trapdoor in the floor about 10 feet in front of the altar. A character can discover the seam of the door with a successful {@dc 15} Wisdom ({@skill Perception}) check. Any creature that walks across the top of the door has a 1-in-12 chance of triggering it, for the mechanism is old, and long disuse has made it unreliable. Any skilled character's reasonable attempt to keep the door from opening works. Forcing the door to stay open requires a successful {@dc 10} Strength ({@skill Athletics}) check. The trapdoor opens onto a slide that emerges above the pit in {@adventure area 53|TftYP-THSoT|1|53. The Valve}. Anyone who slides down the tunnel to the hidden hatch at the other end is dumped into that room."
+												"If the characters begin their investigations of the hidden shrine by arriving at the temple, they need to find a way in. One route is by way of a trapdoor in the floor about 10 feet in front of the altar. A character can discover the seam of the door with a successful {@dc 15} Wisdom ({@skill Perception}) check. Any creature that walks across the top of the door has a 1-in-12 chance of triggering it, for the mechanism is old, and long disuse has made it unreliable. Any skilled character's reasonable attempt to keep the door from opening works. Forcing the door to stay open requires a successful {@dc 10} Strength ({@skill Athletics}) check. The trapdoor opens onto a slide that emerges above the pit in {@area area 53|160|x}. Anyone who slides down the tunnel to the hidden hatch at the other end is dumped into that room."
 											],
 											"id": "16c"
 										},
@@ -5950,7 +5950,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17d"
 				},
 				{
 					"type": "section",
@@ -5974,7 +5975,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17e"
 				},
 				{
 					"type": "section",
@@ -5998,7 +6000,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "17f"
 				},
 				{
 					"type": "section",
@@ -6022,7 +6025,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "180"
 				},
 				{
 					"type": "section",
@@ -6046,7 +6050,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "181"
 				},
 				{
 					"type": "section",
@@ -6070,7 +6075,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "182"
 				},
 				{
 					"type": "section",
@@ -6094,7 +6100,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "183"
 				},
 				{
 					"type": "section",
@@ -6118,7 +6125,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "184"
 				},
 				{
 					"type": "section",
@@ -6142,7 +6150,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "185"
 				},
 				{
 					"type": "section",
@@ -6166,7 +6175,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "186"
 				},
 				{
 					"type": "section",
@@ -6190,7 +6200,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "187"
 				},
 				{
 					"type": "section",
@@ -6203,7 +6214,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "188"
 				},
 				{
 					"type": "section",
@@ -6227,7 +6239,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "189"
 				},
 				{
 					"type": "section",
@@ -6240,7 +6253,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18a"
 				},
 				{
 					"type": "section",
@@ -6264,7 +6278,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18b"
 				},
 				{
 					"type": "section",
@@ -6277,7 +6292,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18c"
 				},
 				{
 					"type": "section",
@@ -6301,7 +6317,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18d"
 				},
 				{
 					"type": "section",
@@ -6325,7 +6342,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18e"
 				},
 				{
 					"type": "section",
@@ -6338,7 +6356,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "18f"
 				},
 				{
 					"type": "section",
@@ -6351,7 +6370,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "190"
 				},
 				{
 					"type": "section",
@@ -6375,7 +6395,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "191"
 				},
 				{
 					"type": "section",
@@ -6399,7 +6420,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "192"
 				},
 				{
 					"type": "section",
@@ -6423,7 +6445,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "193"
 				},
 				{
 					"type": "section",
@@ -6447,7 +6470,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "194"
 				},
 				{
 					"type": "section",
@@ -6471,7 +6495,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "195"
 				},
 				{
 					"type": "section",
@@ -6484,7 +6509,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "196"
 				},
 				{
 					"type": "section",
@@ -6508,7 +6534,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "197"
 				},
 				{
 					"type": "section",
@@ -6521,7 +6548,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "198"
 				},
 				{
 					"type": "section",
@@ -6545,7 +6573,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "199"
 				},
 				{
 					"type": "section",
@@ -6569,7 +6598,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19a"
 				},
 				{
 					"type": "section",
@@ -6593,7 +6623,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19b"
 				},
 				{
 					"type": "section",
@@ -6617,7 +6648,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19c"
 				},
 				{
 					"type": "section",
@@ -6630,7 +6662,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19d"
 				},
 				{
 					"type": "section",
@@ -6643,7 +6676,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19e"
 				},
 				{
 					"type": "section",
@@ -6656,7 +6690,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "19f"
 				},
 				{
 					"type": "section",
@@ -6680,7 +6715,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a0"
 				},
 				{
 					"type": "section",
@@ -6704,7 +6740,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a1"
 				},
 				{
 					"type": "section",
@@ -6717,7 +6754,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a2"
 				},
 				{
 					"type": "section",
@@ -6741,7 +6779,8 @@
 							"source": "TftYP",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1a3"
 				}
 			],
 			"id": "143"

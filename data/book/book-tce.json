@@ -14,10 +14,10 @@
 					"page": 4,
 					"id": "001",
 					"entries": [
-						"{@book Chapter 1|TCE|1} brims with new features and subclasses for the classes in the {@book Player's Handbook|PHB}, and it presents the artificer class, a master of magical invention. The chapter also offers feats for groups that use them.",
-						"{@book Chapter 2|TCE|2} contains patrons who can become one of the driving forces behind your group's adventures.",
-						"{@book Chapter 3|TCE|3} sparkles with new magical options, including spells, magical spellbooks, artifacts, and magic-infused tattoos\u2014available for both player characters and monsters to use.",
-						"{@book Chapter 4|TCE|4} holds various rules that a DM may incorporate into a campaign, including rules on sidekicks who level up with the player characters and on supernatural environments. The chapter ends with a collection of puzzles ready to be deployed in any adventure that the DM would like to spice up with some puzzling."
+						"{@area Chapter 1|010|x} brims with new features and subclasses for the classes in the {@book Player's Handbook|PHB}, and it presents the artificer class, a master of magical invention. The chapter also offers feats for groups that use them.",
+						"{@area Chapter 2|1de|x} contains patrons who can become one of the driving forces behind your group's adventures.",
+						"{@area Chapter 3|237|x} sparkles with new magical options, including spells, magical spellbooks, artifacts, and magic-infused tattoos\u2014available for both player characters and monsters to use.",
+						"{@area Chapter 4|340|x} holds various rules that a DM may incorporate into a campaign, including rules on sidekicks who level up with the player characters and on supernatural environments. The chapter ends with a collection of puzzles ready to be deployed in any adventure that the DM would like to spice up with some puzzling."
 					]
 				},
 				{
@@ -181,9 +181,9 @@
 					"items": [
 						"A way to customize your character's origin by changing some of your racial traits",
 						"Guidance on changing your subclass",
-						"{@book The artificer class|TCE|1|Artificer}, a master of magical invention",
+						"{@area The artificer class|01b|x}, a master of magical invention",
 						"Class features and subclasses for every class in the {@book Player's Handbook|PHB}",
-						"{@book Feats|TCE|1|Feats} for anyone who uses that optional rule"
+						"{@area Feats|1ce|x} for anyone who uses that optional rule"
 					]
 				},
 				{
@@ -5812,7 +5812,7 @@
 												"Are any of the characters related to each other?",
 												"What keeps the characters together as a party?",
 												"What does each character like most about every other member of the adventuring party?",
-												"Does the group have a patron? See chapter 2, \"{@book Group Patrons|TCE|2}\" for patron examples."
+												"Does the group have a patron? See chapter 2, \"{@area Group Patrons|1de|x}\" for patron examples."
 											]
 										},
 										"If the players are having trouble coming up with a story for how their characters met, they may choose an option from the Party Origin table or let a {@dice d6} roll choose it for them. You should spend part of session zero helping the players flesh out the details. For example, if the characters came together to overcome a common foe, the identity of this enemy needs to be determined. If a funeral gathered the group, the identity of the deceased and each character's relationship to them will need to be fleshed out.",

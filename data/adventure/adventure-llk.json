@@ -98,7 +98,7 @@
 									"page": 3,
 									"id": "00a",
 									"entries": [
-										"Give your players an adventure hook, assign them a guide (see \"{@adventure Part 1: Mission to the Barrier Peaks|LLK|1}\"), and start them at {@area C1|032}, overlooking the bone devil's monastery. Then as above, replace the treasury's brain in a jar with Kwalish for an exciting conclusion."
+										"Give your players an adventure hook, assign them a guide (see \"{@area Part 1: Mission to the Barrier Peaks|013|x}\"), and start them at {@area C1|032}, overlooking the bone devil's monastery. Then as above, replace the treasury's brain in a jar with Kwalish for an exciting conclusion."
 									]
 								}
 							]
@@ -177,7 +177,7 @@
 							"id": "012",
 							"entries": [
 								"The characters are hired by a gnome sage known as the Cartophile for a mission of exploration, as he seeks to complete a failed expedition to Daoine Gloine undertaken by his ancestors. The characters must find their way to the lost city hidden within the Barrier Peaks, then return with its location.",
-								"Alternatively, the characters might hear rumors of Kwalish's legendary {@item Powered Armor|LLK} (see {@adventure appendix D|LLK|7}), and embark on a mission to find it. Or you might have them discover a set of {@item Powered Armor|LLK} in a previous adventure, leaving them needing to find a way to access it\u2014or to free an NPC currently trapped inside it. Either way, finding Kwalish's lost laboratory is the key."
+								"Alternatively, the characters might hear rumors of Kwalish's legendary {@item Powered Armor|LLK} (see {@area appendix D|0d4|x}), and embark on a mission to find it. Or you might have them discover a set of {@item Powered Armor|LLK} in a previous adventure, leaving them needing to find a way to access it\u2014or to free an NPC currently trapped inside it. Either way, finding Kwalish's lost laboratory is the key."
 							]
 						}
 					]
@@ -250,7 +250,7 @@
 											"page": 5,
 											"id": "018",
 											"entries": [
-												"Originally native to an area near the Barrier Peaks, Ctenmiir has much experience with the initial route into the mountains, and can provide warnings of early encounters through the fey woods and foothills (see \"{@area Reaching the Peaks|028|x},\" below, and {@adventure appendix A|LLK|4}). The vampire's coffin can also serve as a makeshift {@item Apparatus of Kwalish} at your determination, making it easier for characters to explore Daoine Gloine\u2014though Ctenmiir will need to first be released. The coffin can also be used as protective shelter against adversaries, including a freed Ctenmiir."
+												"Originally native to an area near the Barrier Peaks, Ctenmiir has much experience with the initial route into the mountains, and can provide warnings of early encounters through the fey woods and foothills (see \"{@area Reaching the Peaks|028|x},\" below, and {@area appendix A|0b7|x}). The vampire's coffin can also serve as a makeshift {@item Apparatus of Kwalish} at your determination, making it easier for characters to explore Daoine Gloine\u2014though Ctenmiir will need to first be released. The coffin can also be used as protective shelter against adversaries, including a freed Ctenmiir."
 											]
 										},
 										{
@@ -281,7 +281,7 @@
 									"id": "01b",
 									"entries": [
 										"{@i CN male tiefling bard/rogue}",
-										"The Cartophile's first choice to join the characters' expedition, Garret is an untrustworthy bon vivant and magpie. His mapmaking skills are first rate, though, and the Cartophile trusts him to accurately detail the route to Daoine Gloine and sketch images of things discovered along the way. Garret claims that his infernal lineage goes back to Levistus (see {@book Mordenkainen's Tome of Foes|MTF}), and he keeps his horns adorned with rings, coins and other charms, some of which he claims are powerful magic items ready to be called on. See {@adventure appendix C|LLK|6} for Garret's stat block.",
+										"The Cartophile's first choice to join the characters' expedition, Garret is an untrustworthy bon vivant and magpie. His mapmaking skills are first rate, though, and the Cartophile trusts him to accurately detail the route to Daoine Gloine and sketch images of things discovered along the way. Garret claims that his infernal lineage goes back to Levistus (see {@book Mordenkainen's Tome of Foes|MTF}), and he keeps his horns adorned with rings, coins and other charms, some of which he claims are powerful magic items ready to be called on. See {@area appendix C|0d3|x} for Garret's stat block.",
 										{
 											"type": "image",
 											"href": {
@@ -387,7 +387,7 @@
 											"credit": "Maxx Marshall"
 										},
 										"She also claims past tutelage by Thingizzard, a witch dwelling in the fens near White Plume Mountain. In addition to her work for the Cartophile, Mary is eager to accompany the expedition so that she might search the Barrier Peaks for rare ingredients for her potions.",
-										"Mary strikes an eerie, witch-like figure, surrounded always by swirling magical-mechanical trinkets of her own devising. She is often seen shuffling a {@item Deck of Several Things|LLK}, and will try to quietly tempt party members to draw a card. (See {@adventure appendix D|LLK|7} for more information on the deck, and its distinct connections to the adventure.) Mary is always accompanied by her familiar, a glowing-eyed cat. See {@adventure appendix C|LLK|6} for Mary's stat block.",
+										"Mary strikes an eerie, witch-like figure, surrounded always by swirling magical-mechanical trinkets of her own devising. She is often seen shuffling a {@item Deck of Several Things|LLK}, and will try to quietly tempt party members to draw a card. (See {@area appendix D|0d4|x} for more information on the deck, and its distinct connections to the adventure.) Mary is always accompanied by her familiar, a glowing-eyed cat. See {@area appendix C|0d3|x} for Mary's stat block.",
 										{
 											"type": "entries",
 											"name": "Value to the Party",
@@ -428,7 +428,7 @@
 					"id": "027",
 					"entries": [
 						"Countless legends have arisen regarding the mysterious Barrier Peaks, and those tales circulate constantly among adventurers, explorers, and bards. Rumors specific to Kwalish and his lost expedition are more difficult to come by. But for each day spent talking to knowledgeable travelers, a character can attempt a {@dc 12} Charisma ({@skill Persuasion}) check. If the check succeeds, roll percentile dice and consult the table below to determine what the character learns. False rumors are in {@i italics}.",
-						"Also see {@adventure appendix F|LLK|8} for even more potential rumors of the Barrier Peaks.",
+						"Also see {@area appendix F|0d5|x} for even more potential rumors of the Barrier Peaks.",
 						{
 							"type": "table",
 							"caption": "Barrier Peaks Rumors",
@@ -495,7 +495,7 @@
 					"page": 7,
 					"id": "028",
 					"entries": [
-						"The Cartophile's maps and notes guide the characters from their starting location into the Barrier Peaks, leading them as far as a series of caverns that Kwalish's original expedition believed would provide a shortcut to Daoine Gloine. From wherever the characters start, it takes a journey of several weeks to reach the foothills of the peaks. You might consider adding a few wilderness encounters along the way, especially within the thick band of woods that surrounds the pass leading up and into the mountains, and which is infused with elements of the Feywild. See {@adventure appendix A|LLK|4}, \"Random Encounters,\" for more information.",
+						"The Cartophile's maps and notes guide the characters from their starting location into the Barrier Peaks, leading them as far as a series of caverns that Kwalish's original expedition believed would provide a shortcut to Daoine Gloine. From wherever the characters start, it takes a journey of several weeks to reach the foothills of the peaks. You might consider adding a few wilderness encounters along the way, especially within the thick band of woods that surrounds the pass leading up and into the mountains, and which is infused with elements of the Feywild. See {@area appendix A|0b7|x}, \"Random Encounters,\" for more information.",
 						"If you don't want to incorporate random encounters into the journey to the Barrier Peaks, read the following:",
 						{
 							"type": "insetReadaloud",
@@ -525,7 +525,7 @@
 			"id": "02b",
 			"entries": [
 				"The known route of Kwalish's original expedition ends at the series of tunnels leading into the Barrier Peaks, with no sense of how that long-lost company proceeded. However, recent carvings have been etched into these tunnels in thieves' cant and Infernal, marking the route to the monastery for new recruits. The markings can be spotted with a successful {@dc 12} Wisdom ({@skill Perception}) check, and list the names of individual outlaws that have passed through. They also make reference to something called \"the Monastery of the Distressed Body\" and its \"Grand Master,\" who supposedly offers shelter and protection to all those who submit to their authority.",
-				"Additional symbols also mark out the correct route through the labyrinthine tunnels to area C1. If those markings are deciphered with a successful {@dc 12} Intelligence ({@skill Investigation}) check, the characters can traverse the tunnels in a few hours. Otherwise, it takes a day or more to reach the cliff edge, and the characters face a greater number of potential random encounters as a prelude to arriving at the monastery. See {@adventure appendix A|LLK|4} for more information.",
+				"Additional symbols also mark out the correct route through the labyrinthine tunnels to area C1. If those markings are deciphered with a successful {@dc 12} Intelligence ({@skill Investigation}) check, the characters can traverse the tunnels in a few hours. Otherwise, it takes a day or more to reach the cliff edge, and the characters face a greater number of potential random encounters as a prelude to arriving at the monastery. See {@area appendix A|0b7|x} for more information.",
 				{
 					"type": "inset",
 					"name": "Scaling Options",
@@ -1345,7 +1345,7 @@
 											"id": "038",
 											"entries": [
 												"Instead of asking a traditional riddle that the characters must solve, the enhanced sphinx demands that they ask a question that it cannot answer. This could be a riddle, a secret, a logical contradiction, or any other question\u2014but the sphinx warns the characters that with all the knowledge it has collected throughout the years, it knows the answer to every question. If it fails to answer, the characters are allowed to cross to the island without paying the toll.",
-												"With its enhanced knowledge, the sphinx can correctly answer almost any question. To simulate this around the table, you might challenge the players to stump you as the DM with a riddle or trivia question. This might be something inherent to their characters' own knowledge, or something completely outside the context of the game. If this is a question pertaining to the real world, you might tell the players in advance that you'll make use of the Internet with a 30-second time limit to mimic the sphinx's vast knowledge base. If this is a game-world question, you can instead let the sphinx attempt a {@dc 15} Intelligence check to answer the question, with advantage on the check (and look for further options in {@adventure appendix B|LLK|5}).",
+												"With its enhanced knowledge, the sphinx can correctly answer almost any question. To simulate this around the table, you might challenge the players to stump you as the DM with a riddle or trivia question. This might be something inherent to their characters' own knowledge, or something completely outside the context of the game. If this is a question pertaining to the real world, you might tell the players in advance that you'll make use of the Internet with a 30-second time limit to mimic the sphinx's vast knowledge base. If this is a game-world question, you can instead let the sphinx attempt a {@dc 15} Intelligence check to answer the question, with advantage on the check (and look for further options in {@area appendix B|0bb|x}).",
 												"Each time the enhanced sphinx successfully answers a question, it demands that the characters pay the toll to cross: either one character's Intelligence score permanently decreases by 1, or two characters each have another ability score of their choice permanently decrease by 1. This toll is magically extracted immediately, and manifests as another of the sphinx's mechanical {@item Ioun stone|LLK}-like devices. This curse can be removed only by a {@spell remove curse} spell cast by an 18th-level spellcaster, by defeating the enhanced sphinx in combat, or through mechanisms found in Kwalish's lab in Daoine Gloine (see area O7)."
 											]
 										},
@@ -1364,7 +1364,7 @@
 											"page": 11,
 											"id": "03a",
 											"entries": [
-												"If the sphinx is defeated in combat, most of its mechanical {@item Ioun Stone|LLK|Ioun stones} shatter, reversing the effects of the sphinx's tolls on all characters. Additionally, two {@item Ioun Stone|LLK|Ioun stones} survive and can be claimed. (If she is with the party, {@creature Mary Greymalkin|LLK} covets these magical-mechanical devices, and turns against the characters if doing so helps her claim them.) Choose these two unique stones from the new examples in {@adventure appendix D|LLK|7}."
+												"If the sphinx is defeated in combat, most of its mechanical {@item Ioun Stone|LLK|Ioun stones} shatter, reversing the effects of the sphinx's tolls on all characters. Additionally, two {@item Ioun Stone|LLK|Ioun stones} survive and can be claimed. (If she is with the party, {@creature Mary Greymalkin|LLK} covets these magical-mechanical devices, and turns against the characters if doing so helps her claim them.) Choose these two unique stones from the new examples in {@area appendix D|0d4|x}."
 											]
 										}
 									]
@@ -1745,7 +1745,7 @@
 										"This area is lined with boxlike metal cells, all built of the same strange materials seen elsewhere in the monastery. Most of the cells are empty, but shouts and a sound of creatures hammering on locked doors are heard from a few."
 									]
 								},
-								"Any prisoners not working in the engine room or mining the ore fed to the engines (see \"{@area Cavern Encounters|0b9|x}\" in {@adventure appendix A|LLK|4}) are kept here, as are any prisoners that are sick or injured but still able to move under their own power. As well, a group of prisoners deemed too dangerous to work but too valuable to kill have been designated \"immured ones\" and incarcerated here, where the monks attempt to break their wills and return them to servitude.",
+								"Any prisoners not working in the engine room or mining the ore fed to the engines (see \"{@area Cavern Encounters|0b9|x}\" in {@area appendix A|0b7|x}) are kept here, as are any prisoners that are sick or injured but still able to move under their own power. As well, a group of prisoners deemed too dangerous to work but too valuable to kill have been designated \"immured ones\" and incarcerated here, where the monks attempt to break their wills and return them to servitude.",
 								{
 									"type": "entries",
 									"id": "063",
@@ -1825,7 +1825,7 @@
 											"page": 16,
 											"id": "06b",
 											"entries": [
-												"Any inspection or a successful {@dc 12} Wisdom ({@skill Perception}) check reveals that the leather-clad figure on the floor is actually a suit of {@item Leather Golem Armor|LLK}. See {@adventure appendix D|LLK|7} for more information."
+												"Any inspection or a successful {@dc 12} Wisdom ({@skill Perception}) check reveals that the leather-clad figure on the floor is actually a suit of {@item Leather Golem Armor|LLK}. See {@area appendix D|0d4|x} for more information."
 											]
 										},
 										{
@@ -2069,8 +2069,8 @@
 														"515 cp, 11,215 sp, 1,925 gp, and 85 pp stored in various containers and coffers",
 														"425 tiny gemstones worth 1 gp each, 44 small gemstones worth 10 gp each, 15 small gemstones worth 50 gp each, and a {@item black pearl} worth 500 gp",
 														"Three {@item Potion of Healing||potions of healing}, one {@item elixir of health}, and a {@item Manual of Flesh Golems||manual of golems (flesh)}.",
-														"An ornate wooden case carved with images of air and water elementals locked in furious battle, within which is a {@item Galder's Bubble Pipe|LLK|Galder's Bubble Pipe} (see {@adventure appendix D|LLK|7}).",
-														"A suit of {@item Heward's Hireling Armor|LLK|Heward's Hireling Armor} (see {@adventure appendix D|LLK|7}).",
+														"An ornate wooden case carved with images of air and water elementals locked in furious battle, within which is a {@item Galder's Bubble Pipe|LLK|Galder's Bubble Pipe} (see {@area appendix D|0d4|x}).",
+														"A suit of {@item Heward's Hireling Armor|LLK|Heward's Hireling Armor} (see {@area appendix D|0d4|x}).",
 														"Components of value to tinkers, inventors, or artificers, worth 1,500 gp",
 														"Kwalish's lab notes, worth 2,000 gp from the Cartophile or any other sage"
 													]
@@ -2113,7 +2113,7 @@
 			"id": "082",
 			"entries": [
 				"When Kwalish found it, the legendary lost city of Daoine Gloine was already an isolated mountain settlement. After he took over, the inventor set about closing off any and all routes to the site. As such, as the characters follow the notes found in Kwalish's journal, they find that the narrow mountain passes begin to tighten around them the closer they come to the location where the city is said to be. Many of the passes, tunnels, and trails the characters follow are deliberately blocked off with rockslides and other unexplained disasters. The need to circumnavigate such areas accounts for much of the travel time to the city, unless the characters have arranged an alternative method of travel.",
-				"No matter how the characters are traveling, you might consider a few encounters within the mountain passes of the Barrier Peaks as a prelude to arriving at Daoine Gloine. See {@adventure appendix A|LLK|4} for more information.",
+				"No matter how the characters are traveling, you might consider a few encounters within the mountain passes of the Barrier Peaks as a prelude to arriving at Daoine Gloine. See {@area appendix A|0b7|x} for more information.",
 				{
 					"type": "section",
 					"name": "Daoine Gloine",
@@ -3005,7 +3005,7 @@
 												{
 													"type": "list",
 													"items": [
-														"{@item Spell Scroll||Spell scrolls} of {@spell animate dead}, {@i flock of familiars} (see {@adventure appendix E|LLK|7}), and {@spell greater restoration}.",
+														"{@item Spell Scroll||Spell scrolls} of {@spell animate dead}, {@i flock of familiars} (see {@area appendix E|0d4|x}), and {@spell greater restoration}.",
 														"One of Kwalish's completed experiments\u2014a set of clockwork-enhanced footwear that act as {@item Boots of Striding and Springing}",
 														"A collection of tiny glass statues of creatures, including a pseudodragon, an imp, and several will-o'-wisps, as well as several glass statues of hearts and brains\u2014all vitrified creatures and once-living organs. The collection is worth 2,000 gp, but is very fragile."
 													]
@@ -3197,7 +3197,7 @@
 											"entries": [
 												"The suit of armor at the end of the room is clearly the focus of the lab's current experimentation, connected to various pieces of equipment by more silver wire recognizable as a form of astral cord. If the characters end the adventure on friendly terms with Kwalish, he indicates that although the {@i powered armor} is still being researched, it requires a test subject. He is thus willing to loan the armor to any character, provided they use it as their sole suit of armor and report back to him periodically so as to gauge its efficacy.",
 												"A character who accepts this offer automatically falls under the effect of a high-level {@spell geas} spell, with instructions to report back to Kwalish at least once every three levels, and to return the {@i powered armor} to the inventor if they ever desire to wear some other armor instead.",
-												"If Kwalish is missing (see the \"{@area Meeting Kwalish|0aa|x}\" section below), a character can simply don the armor themselves. However, this might lead to its own complications. See {@adventure appendix B|LLK|5} and {@adventure appendix D|LLK|7} for more information."
+												"If Kwalish is missing (see the \"{@area Meeting Kwalish|0aa|x}\" section below), a character can simply don the armor themselves. However, this might lead to its own complications. See {@area appendix B|0bb|x} and {@area appendix D|0d4|x} for more information."
 											]
 										},
 										{
@@ -3214,9 +3214,9 @@
 														"A pouch of diamond dust worth 1,750 gp",
 														"Numerous rare books worth a total of 500 gp",
 														"A {@item Manual of Iron Golems||manual of golems (iron)}",
-														"A {@item Spell Scroll} of {@spell Galder's Speedy Courier|LLK|Galder's speedy courier} (see {@adventure appendix E|LLK|7})",
+														"A {@item Spell Scroll} of {@spell Galder's Speedy Courier|LLK|Galder's speedy courier} (see {@area appendix E|0d4|x})",
 														"Several of Kwalish's completed experiments whose mechanical effects reproduce the magic of certain magic items: a {@item Folding Boat}, {@item Wings of Flying}, and a {@item Bag of Tricks||bag of tricks (tan)}",
-														"Kwalish's {@item Powered Armor|LLK} (see {@adventure appendix B|LLK|5} and {@adventure appendix D|LLK|7})"
+														"Kwalish's {@item Powered Armor|LLK} (see {@area appendix B|0bb|x} and {@area appendix D|0d4|x})"
 													]
 												},
 												"The \"{@book Alien Technology|DMG|9|Alien Technology}\" section in chapter 9 of the {@book Dungeon Master's Guide|DMG} talks about how futuristic devices are often powered by energy cells. The force pikes found in the monastery, as well as the {@i powered armor} to be found in Kwalish's lab in part 3 of the adventure, are two such devices. Alongside countless dead energy cells spread across this area, the characters also find {@dice 1d6} charged cells, each holding 20 charges and useful for the {@i powered armor}.",
@@ -3339,7 +3339,7 @@
 									"page": 27,
 									"id": "0ad",
 									"entries": [
-										"Kwalish is missing, trapped in stasis inside his own {@i powered armor}. The characters must first discover him there by making a close-up investigation of the armor, then find a way to access its controls. This can be accomplished with a successful {@dc 16} Intelligence ({@skill Arcana}) check or Dexterity check made with thieves' tools or tinker's tools. Alternatively, characters who experiment with tools found throughout the lab can access the armor's controls given enough time. Even after accessing the controls, though, no one can approach the armor without setting off its automatic defenses. See the \"{@adventure Powered Armor Options|LLK|7}\" sidebar in {@adventure appendix D|LLK|7}.",
+										"Kwalish is missing, trapped in stasis inside his own {@i powered armor}. The characters must first discover him there by making a close-up investigation of the armor, then find a way to access its controls. This can be accomplished with a successful {@dc 16} Intelligence ({@skill Arcana}) check or Dexterity check made with thieves' tools or tinker's tools. Alternatively, characters who experiment with tools found throughout the lab can access the armor's controls given enough time. Even after accessing the controls, though, no one can approach the armor without setting off its automatic defenses. See the \"{@area Powered Armor Options|0d4|x}\" sidebar in {@area appendix D|0d4|x}.",
 										"Once he is freed, Kwalish is as grateful as he is able to express, and willing to listen to the characters' requests. This has the same outcome as above, but assume that negotiations are automatically successful and only one character needs to offer up a piece of their soul."
 									]
 								},
@@ -3496,7 +3496,7 @@
 								],
 								[
 									"2",
-									"The path leads into a lonely grove that serves as the grave of a former dryad queen. If appropriate respects are paid, the characters have a {@chance 50} chance to receive a supernatural gift (see {@book chapter 7|DMG|7|Supernatural Gifts} of the {@book Dungeon Master's Guide|DMG})\u2014a charm that allows a character to cast the {@spell Galder's Tower|LLK|Galder's tower} spell (see {@adventure appendix E|LLK|7}) once as an action."
+									"The path leads into a lonely grove that serves as the grave of a former dryad queen. If appropriate respects are paid, the characters have a {@chance 50} chance to receive a supernatural gift (see {@book chapter 7|DMG|7|Supernatural Gifts} of the {@book Dungeon Master's Guide|DMG})\u2014a charm that allows a character to cast the {@spell Galder's Tower|LLK|Galder's tower} spell (see {@area appendix E|0d4|x}) once as an action."
 								],
 								[
 									"3",
@@ -3846,7 +3846,7 @@
 					"id": "0d2",
 					"entries": [
 						"The legendary arcane inventor is presented as an obsessed, distracted, but basically benign figure in the adventure. However, you might choose to present him as a much more sinister villain. Instead of preserving the brains of his fallen comrades in the hope of one day reviving them, Kwalish might have worked with the sphinx to arrange their deaths in order to harvest their brains for his research. Any of the brains in jars in the Monastery of the Distressed Body can detail those events.",
-						"Likewise, instead of flooding Daoine Gloine with ooze in order to save himself from the city's evil cultists, Kwalish might simply have wished to drive away the population and seal off the city for his own use. Descendants of Daoine Gloine's original inhabitants met on the way to the city (see {@adventure appendix A|LLK|4}) can detail these events, as can any revived statues, or even the medusa if the characters use {@spell speak with dead} after ending her threat for good.",
+						"Likewise, instead of flooding Daoine Gloine with ooze in order to save himself from the city's evil cultists, Kwalish might simply have wished to drive away the population and seal off the city for his own use. Descendants of Daoine Gloine's original inhabitants met on the way to the city (see {@area appendix A|0b7|x}) can detail these events, as can any revived statues, or even the medusa if the characters use {@spell speak with dead} after ending her threat for good.",
 						"If used as a villain, Kwalish should be presented as a final opponent to overcome in his laboratory. Any knowledge required to complete the party's quest can then be found within his journals and personal notes."
 					]
 				}
@@ -3972,7 +3972,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0dd"
 				},
 				{
 					"type": "section",
@@ -3996,7 +3997,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0de"
 				},
 				{
 					"type": "section",
@@ -4020,7 +4022,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0df"
 				},
 				{
 					"type": "section",
@@ -4033,7 +4036,8 @@
 							"source": "LLK",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e0"
 				},
 				{
 					"type": "section",
@@ -4046,7 +4050,8 @@
 							"source": "LLK",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e1"
 				},
 				{
 					"type": "section",
@@ -4070,7 +4075,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e2"
 				},
 				{
 					"type": "section",
@@ -4094,7 +4100,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e3"
 				},
 				{
 					"type": "section",
@@ -4118,7 +4125,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e4"
 				},
 				{
 					"type": "section",
@@ -4142,7 +4150,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e5"
 				},
 				{
 					"type": "section",
@@ -4166,7 +4175,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e6"
 				},
 				{
 					"type": "section",
@@ -4190,7 +4200,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e7"
 				},
 				{
 					"type": "section",
@@ -4203,7 +4214,8 @@
 							"source": "LLK",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e8"
 				},
 				{
 					"type": "section",
@@ -4227,7 +4239,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0e9"
 				},
 				{
 					"type": "section",
@@ -4251,7 +4264,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ea"
 				},
 				{
 					"type": "section",
@@ -4275,7 +4289,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0eb"
 				},
 				{
 					"type": "section",
@@ -4299,7 +4314,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ec"
 				},
 				{
 					"type": "section",
@@ -4323,7 +4339,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ed"
 				},
 				{
 					"type": "section",
@@ -4336,7 +4353,8 @@
 							"source": "LLK",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ee"
 				},
 				{
 					"type": "section",
@@ -4360,7 +4378,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ef"
 				},
 				{
 					"type": "section",
@@ -4384,7 +4403,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f0"
 				},
 				{
 					"type": "section",
@@ -4408,7 +4428,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f1"
 				},
 				{
 					"type": "section",
@@ -4432,7 +4453,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f2"
 				},
 				{
 					"type": "section",
@@ -4445,7 +4467,8 @@
 							"source": "LLK",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f3"
 				},
 				{
 					"type": "section",
@@ -4469,7 +4492,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f4"
 				},
 				{
 					"type": "section",
@@ -4493,7 +4517,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f5"
 				},
 				{
 					"type": "section",
@@ -4517,7 +4542,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f6"
 				},
 				{
 					"type": "section",
@@ -4541,7 +4567,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f7"
 				},
 				{
 					"type": "section",
@@ -4565,7 +4592,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f8"
 				},
 				{
 					"type": "section",
@@ -4589,7 +4617,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f9"
 				},
 				{
 					"type": "section",
@@ -4613,7 +4642,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fa"
 				},
 				{
 					"type": "section",
@@ -4637,7 +4667,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fb"
 				},
 				{
 					"type": "section",
@@ -4661,7 +4692,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fc"
 				},
 				{
 					"type": "section",
@@ -4685,7 +4717,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fd"
 				},
 				{
 					"type": "section",
@@ -4709,7 +4742,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0fe"
 				},
 				{
 					"type": "section",
@@ -4733,7 +4767,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0ff"
 				},
 				{
 					"type": "section",
@@ -4757,7 +4792,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "100"
 				},
 				{
 					"type": "section",
@@ -4781,7 +4817,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "101"
 				},
 				{
 					"type": "section",
@@ -4805,7 +4842,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "102"
 				},
 				{
 					"type": "section",
@@ -4829,7 +4867,8 @@
 							"tag": "creature",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "103"
 				}
 			]
 		},

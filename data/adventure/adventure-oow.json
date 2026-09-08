@@ -126,12 +126,12 @@
 								{
 									"type": "list",
 									"items": [
-										"{@adventure Episode 1: Right Place, Wrong Heroes|OoW|1}",
-										"{@adventure Episode 2: Fun in Phandalin|OoW|2}",
-										"{@adventure Episode 3: Darkness at the Lighthouse|OoW|3}",
-										"{@adventure Episode 4: Dran Enterprises|OoW|4}",
-										"{@adventure Episode 5: Hide and Seek|OoW|5}",
-										"{@adventure Episode 6: Showdown with the Six|OoW|6}"
+										"{@area Episode 1: Right Place, Wrong Heroes|00a|x}",
+										"{@area Episode 2: Fun in Phandalin|076|x}",
+										"{@area Episode 3: Darkness at the Lighthouse|121|x}",
+										"{@area Episode 4: Dran Enterprises|1a6|x}",
+										"{@area Episode 5: Hide and Seek|206|x}",
+										"{@area Episode 6: Showdown with the Six|2a9|x}"
 									],
 									"columns": 3
 								}
@@ -322,7 +322,7 @@
 										},
 										"The other members of the crew hide in adjacent alleyways or on the rooftop of a nearby building. They enter the fray if the characters don't surrender their valuables immediately.",
 										"If the adventurers defeat the crew and study {@creature Jelayne|OoW}, a successful {@dc 10} Intelligence ({@skill Arcana} or {@skill Religion}) check confirms that she was raised as undead by a unique ritual that allowed her to keep her intellect and ability to speak. This has no bearing on the encounter, but sets up the existence of such rituals as foreshadowing for later events. See the \"{@area A Horse is a Corpse, of Course|088|x}\" section and \"{@area The Magic of Convenience|08e|x}\" sidebar in episode 2 for more information.",
-										"The work of the gnome archmage Hoobur Gran'Shoop is a constant presence in episodes 2 and 3 of the adventure, even before his actual appearance toward the end of {@adventure episode 3|OoW|0}. Savvy players might note that the undead minions Hoobur creates to harry the party don't follow the standard rules by which a spellcaster character might create undead. Likewise, some of the creatures working for Hoobur do so in ways that aren't covered by {@spell dominate monster}.",
+										"The work of the gnome archmage Hoobur Gran'Shoop is a constant presence in episodes 2 and 3 of the adventure, even before his actual appearance toward the end of {@area episode 3|000|x}. Savvy players might note that the undead minions Hoobur creates to harry the party don't follow the standard rules by which a spellcaster character might create undead. Likewise, some of the creatures working for Hoobur do so in ways that aren't covered by {@spell dominate monster}.",
 										"If the characters develop a strong interest in creating undead horses or summoning will-o'-wisps to their service, you can decide to reveal the \"unique rituals\" Hoobur knows, which can show up as treasure in the adventure or be something that the characters can learn through research. Otherwise, just assume that like many classic villains, Hoobur Gran'Shoop has access to whatever magic is necessary to advance the plot in the most interesting way.",
 										{
 											"type": "entries",
@@ -1582,7 +1582,7 @@
 									"page": 97,
 									"id": "073",
 									"entries": [
-										"If the players helped Dabshabah, they might want to check up on the wyrmling. Helping her fully heal up and regain the use of her fire breath and sleep breath might require research or a customized use of the recuperating downtime activity (both from the {@book Player's Handbook|PHB}.) If the characters want to arrange for someone else to watch over the young dragon, finding a suitable guardian might require research. Or the characters might decide to sow positive rumors in the area where the dragon wants to settle (using the {@book sowing rumors|DMG|6|Sowing Rumors} activity from the {@book Dungeon Master's Guide|DMG}), hoping to get the locals used to the idea."
+										"If the players helped Dabshabah, they might want to check up on the wyrmling. Helping her fully heal up and regain the use of her fire breath and sleep breath might require research or a customized use of the recuperating downtime activity (both from the {@book Player's Handbook|PHB}.) If the characters want to arrange for someone else to watch over the young dragon, finding a suitable guardian might require research. Or the characters might decide to sow positive rumors in the area where the dragon wants to settle (using the {@variantrule Downtime Activity: Sowing Rumors|DMG|sowing rumors} activity from the {@book Dungeon Master's Guide|DMG}), hoping to get the locals used to the idea."
 									]
 								},
 								{
@@ -1605,7 +1605,7 @@
 					"page": 97,
 					"id": "075",
 					"entries": [
-						"With contracts in hand and downtime done, the characters can make the trek from Waterdeep to Phandalin. {@adventure Episode 2|OoW|2} of this adventure details that trip and the new mysteries the characters encounter as they arrive in town, attempt to sort out what happened to the previous franchise\u2014and start to build their own franchise as the newest members of Acquisitions Incorporated!"
+						"With contracts in hand and downtime done, the characters can make the trek from Waterdeep to Phandalin. {@area Episode 2|076|x} of this adventure details that trip and the new mysteries the characters encounter as they arrive in town, attempt to sort out what happened to the previous franchise\u2014and start to build their own franchise as the newest members of Acquisitions Incorporated!"
 					]
 				}
 			]
@@ -1852,7 +1852,7 @@
 												"{@i I, with this beaming, attract and repel}.",
 												"{@i Ignore me, and you are lost, one way or another}.",
 												"{@i What am I}?",
-												"The answer is a lighthouse\u2014a foreshadowing on behalf of fate of where the characters will go in {@adventure episode 3|OoW|3}."
+												"The answer is a lighthouse\u2014a foreshadowing on behalf of fate of where the characters will go in {@area episode 3|121|x}."
 											]
 										},
 										{
@@ -1933,7 +1933,7 @@
 													"page": 101,
 													"id": "08e",
 													"entries": [
-														"The work of the gnome archmage Hoobur Gran'Shoop is a constant presence in episodes 2 and 3 of the adventure, even before his actual appearance toward the end of {@adventure episode 3|OoW|3}. Savvy players might note that the undead minions Hoobur creates to harry the party don't follow the standard rules by which a spellcaster character might create undead. Likewise, some of the creatures working for Hoobur do so in ways that aren't covered by {@spell dominate monster}.",
+														"The work of the gnome archmage Hoobur Gran'Shoop is a constant presence in episodes 2 and 3 of the adventure, even before his actual appearance toward the end of {@area episode 3|121|x}. Savvy players might note that the undead minions Hoobur creates to harry the party don't follow the standard rules by which a spellcaster character might create undead. Likewise, some of the creatures working for Hoobur do so in ways that aren't covered by {@spell dominate monster}.",
 														"If the characters develop a strong interest in creating undead horses or summoning will-o'-wisps to their service, you can decide to reveal the \"unique rituals\" Hoobur knows, which can show up as treasure in the adventure or be something that the characters can learn through research. Otherwise, just assume that like many classic villains, Hoobur Gran'Shoop has access to whatever magic is necessary to advance the plot in the most interesting way."
 													]
 												}
@@ -2338,7 +2338,7 @@
 					"page": 102,
 					"id": "096",
 					"entries": [
-						"Just over a year ago, operatives of the Six came across one of the components of the {@item Orrery of the Wanderer|AI}\u2014the {@item far gear|AI}. Quickly realizing the potential power in the component and the orrery it was a part of, they began to scour the Sword Coast for information regarding the artifact. A month ago, their intelligence-gathering resources turned up word that two Acquisitions Incorporated franchises\u2014including the newly minted Phandalin franchise\u2014had been scrutineering for lore about mysterious magic clockwork devices. Wanting to determine what Acquisitions Incorporated might know about the orrery, the leaders of the Six put a plan into motion. (The second franchise was based on the Sword Coast between Neverwinter and Luskan. Its fate will be discovered by the characters in {@adventure episode 3|OoW|3}.)",
+						"Just over a year ago, operatives of the Six came across one of the components of the {@item Orrery of the Wanderer|AI}\u2014the {@item far gear|AI}. Quickly realizing the potential power in the component and the orrery it was a part of, they began to scour the Sword Coast for information regarding the artifact. A month ago, their intelligence-gathering resources turned up word that two Acquisitions Incorporated franchises\u2014including the newly minted Phandalin franchise\u2014had been scrutineering for lore about mysterious magic clockwork devices. Wanting to determine what Acquisitions Incorporated might know about the orrery, the leaders of the Six put a plan into motion. (The second franchise was based on the Sword Coast between Neverwinter and Luskan. Its fate will be discovered by the characters in {@area episode 3|121|x}.)",
 						"The Six set up an agent in Phandalin\u2014Ditch Fundi, who first raised and now runs Phandalin's new Temple of the Coin Maiden. Using Ditch's intelligence on the activities of the Company of the Golden Mongoose, the Six confirmed that the franchise held an orrery component called the {@item timepiece of travel|AI}\u2014and that Acq Inc head office was so far in the dark about their discovery. So the Six hired a number of agents\u2014including archmage Hoobur Gran'Shoop\u2014to attack both franchises.",
 						"Hoobur's forces snuck into Phandalin and razed Tresendar Manor to the ground. However, the Six operatives were unable to find the {@item timepiece of travel|AI}. Knowing that one of the franchisees had teleported away from the fight, the agents assumed that the orrery component was gone. Unknown to them, the timepiece stayed behind, and remains in the possession of the survivor still buried alive in the rubble.",
 						"Only two of the townsfolk have any information regarding the attack on Tresendar Manor. Ditch Fundi, a charlatan priest of Waukeen and agent of the Six, was installed in Phandalin a month ago to watch the franchise's activities and set up the attack. At the same time, Sister Garaele of Tymora works for Dran Enterprises, and has previously fed much information on the Fellowship of the Golden Mongoose to her bosses. She knows no details of the attack, assuming that the Golden Mongoose adventurers either blew themselves up or summoned a monster they couldn't control. But she knows that Dran Enterprises is sending a team to clean up the mess and claim the manor. For more on these two, see the \"People of Phandalin\" section."
@@ -2862,7 +2862,7 @@
 												"Older humanoid remains were the source of the jackals' meal. However, no intact corpses can be found among the rubble."
 											]
 										},
-										"Additionally, the walls of the still-standing structures bear a mark in chalk\u2014a double-\"D\" insignia. This is the sigil of Dran Enterprises. As adventurers familiar with the operations of Acquisitions Incorporated, all the characters recognize the mark of Acq Inc's greatest rival organization. (The marks have been scribed by the archmage Hoobur Gran'Shoop, who is charged by the Six with ensuring that Dran Enterprises takes the blame for the attack on the Acq Inc franchise at Phandalin. More on Hoobur will be revealed in {@adventure episode 3|OoW|3}.)",
+										"Additionally, the walls of the still-standing structures bear a mark in chalk\u2014a double-\"D\" insignia. This is the sigil of Dran Enterprises. As adventurers familiar with the operations of Acquisitions Incorporated, all the characters recognize the mark of Acq Inc's greatest rival organization. (The marks have been scribed by the archmage Hoobur Gran'Shoop, who is charged by the Six with ensuring that Dran Enterprises takes the blame for the attack on the Acq Inc franchise at Phandalin. More on Hoobur will be revealed in {@area episode 3|121|x}.)",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -6030,7 +6030,7 @@
 									"page": 135,
 									"id": "1a0",
 									"entries": [
-										"Making use of scrutineering, research, carousing, or schmoozing during downtime can all yield up hints confirming that Dran Enterprises has a secret headquarters in the city of Luskan\u2014and adding rumors suggesting that the organization has recently been engaging in conduct even more secretive than usual. Such activities can also preview some of the information on Luskan presented in {@adventure episode 4|OoW|4}."
+										"Making use of scrutineering, research, carousing, or schmoozing during downtime can all yield up hints confirming that Dran Enterprises has a secret headquarters in the city of Luskan\u2014and adding rumors suggesting that the organization has recently been engaging in conduct even more secretive than usual. Such activities can also preview some of the information on Luskan presented in {@area episode 4|1a6|x}."
 									]
 								},
 								{
@@ -7352,7 +7352,7 @@
 									"id": "204",
 									"entries": [
 										"Characters or staff engaging in the research, marketeering, or scrutineering activities can uncover all kinds of connections to the dwarven Clan Horn and its fabled fortress. The characters might connect with customers or allies who know of caravans that make regular runs to the enclave, or who have heard rumors about local nobles or mages who have left relics there to be safeguarded.",
-										"The carousing activity can bring the characters into closer contact with merchants or nobles connected to Horn Enclave. One of those is a company called Dhargun Ironworks, who are sending a caravan to the enclave within the next month for the unlikely purpose of celebrating a wedding. {@adventure Episode 5|OoW|5} has much more information on the Dhargun wedding\u2014and the unique opportunity it offers for the characters to gain access to the enclave.",
+										"The carousing activity can bring the characters into closer contact with merchants or nobles connected to Horn Enclave. One of those is a company called Dhargun Ironworks, who are sending a caravan to the enclave within the next month for the unlikely purpose of celebrating a wedding. {@area Episode 5|206|x} has much more information on the Dhargun wedding\u2014and the unique opportunity it offers for the characters to gain access to the enclave.",
 										"You can use the following guidelines to give the characters a quick overview of Horn Enclave. And as they learn about the enclave, they'll also discover its storied and problematic (for them) connections to Acquisitions Incorporated:",
 										{
 											"type": "list",
@@ -8574,7 +8574,7 @@
 											"page": 168,
 											"id": "272",
 											"entries": [
-												"The airship with the needle disengages once the needle has been successfully deployed or destroyed. As it departs the scene, the characters spot a smirking goblin with one pale eye looking out at them through a porthole. {@creature Splugoth the Returned|AI} laughs at or curses the characters, as appropriate to the success or failure of his agents in retrieving the characters' orrery components. In a worst-case scenario in which the characters come after him, Splugoth points his airship at the ground, where it crashes in 2 rounds. During that time, he drinks a {@item potion of invisibility} and jumps overboard wearing a {@item ring of feather falling}. The characters get another chance at Splugoth in {@adventure episode 6|OoW|6}."
+												"The airship with the needle disengages once the needle has been successfully deployed or destroyed. As it departs the scene, the characters spot a smirking goblin with one pale eye looking out at them through a porthole. {@creature Splugoth the Returned|AI} laughs at or curses the characters, as appropriate to the success or failure of his agents in retrieving the characters' orrery components. In a worst-case scenario in which the characters come after him, Splugoth points his airship at the ground, where it crashes in 2 rounds. During that time, he drinks a {@item potion of invisibility} and jumps overboard wearing a {@item ring of feather falling}. The characters get another chance at Splugoth in {@area episode 6|2a9|x}."
 											]
 										}
 									]
@@ -9535,7 +9535,7 @@
 										"The details of the portalometer are left to the imaginations of the players (including coming up with a better name if they like). The detector might take the form of a magical receptacle allowing one or more orrery components to function as a compass, a divination window tapping into planar disruptions to show brief glimpses of possible locations, or any other device channeling suitable magic.",
 										"If you really want to dig deep, you could experiment with the idea that the orrery's power gives it a kind of consciousness (or you could even make it a sentient magic item, as detailed in {@book chapter 7|DMG|7} of the {@book Dungeon Master's Guide|DMG}.) In that scenario, the orrery's consciousness might be what the portalometer taps into. Or the orrery components possessed by the Six might begin to call to the components held by the characters, as the artifact seeks to be made whole once more.",
 										"The time necessary to locate the ritual site is left to your determination. If the characters are anxious to cut to the chase, you can have a successfully created portalometer lead them straight to the site. In a pinch, you could even say that any orrery components the characters still possess become attuned to the ritual as Splugoth prepares it, allowing the characters to triangulate the ritual site's location. For more build up, you can set up a search involving side treks, which might cover the length and breadth of the Sword Coast as the characters make use of their mobile franchise headquarters.",
-										"These side trek missions might tie in to improving the magic of the portalometer and involving tracking down lore or components. Or the characters could discover several possible locations for the Six's ritual, then investigate and eliminate false leads before finding the real site. One such side trek is detailed in \"{@area The Moon Glade|2b0|x}\" in {@adventure episode 6|OoW|6}, and you can add similar events as you wish."
+										"These side trek missions might tie in to improving the magic of the portalometer and involving tracking down lore or components. Or the characters could discover several possible locations for the Six's ritual, then investigate and eliminate false leads before finding the real site. One such side trek is detailed in \"{@area The Moon Glade|2b0|x}\" in {@area episode 6|2a9|x}, and you can add similar events as you wish."
 									]
 								},
 								{
@@ -9608,7 +9608,7 @@
 					"height": 1000,
 					"credit": "Klaus Pillon"
 				},
-				"The characters (now 6th level) have learned that the {@item Orrery of the Wanderer|AI} channels magic even more powerful than intended by its creator, the lich Lottie. As such, Lottie broke the orrery into parts and scattered those parts far and wide, hoping that no one would discover their secret. But the enigmatic group known as the Six has collected at least one orrery component (perhaps more, depending on events in {@adventure episode 5|OoW|5}), and its agents now attempt to use those components to open a portal to the Far Realm.",
+				"The characters (now 6th level) have learned that the {@item Orrery of the Wanderer|AI} channels magic even more powerful than intended by its creator, the lich Lottie. As such, Lottie broke the orrery into parts and scattered those parts far and wide, hoping that no one would discover their secret. But the enigmatic group known as the Six has collected at least one orrery component (perhaps more, depending on events in {@area episode 5|206|x}), and its agents now attempt to use those components to open a portal to the Far Realm.",
 				"After a suitable amount of questing and research, the characters locate the ritual site, which they learn is in the small town of Red Larch. That settlement is the childhood home of Omin Dran and the stomping grounds of the Acquisitions Incorporated franchise known as the \"C\" Team, whose members have recently gone missing.",
 				"The characters speed toward Red Larch, where they find foes allied with the Six guarding the Dran & Courtier inn. That otherwise quiet establishment has always possessed unusual magical qualities, but these have been warped by the slowly opening portal to the Far Realm. The characters can interact with the local townsfolk, learning that the members of the \"C\" Team entered the inn but have not returned. Likewise, the inn's co-owner and proprietor, Propha Dran, has not been seen since the planar strangeness suffusing the inn started.",
 				"When the characters enter, the Dran & Courtier appears normal at first. But opening any of its interior doors causes the entire site to transform under the watchful eye of an agent of the Six known as the Keymaster. A nightmare version of the Dran & Courtier is revealed, filled with aberrant horrors. Defeating the horrors of this incarnation of the inn returns the characters to the actual inn.",
@@ -9623,7 +9623,7 @@
 					"page": 177,
 					"id": "2aa",
 					"entries": [
-						"In the course of locating the ritual site (see \"{@area Franchise Downtime|2a1|x}\" in {@adventure episode 5|OoW|5}), the characters might travel to any number of locations, either to confirm that those locations are not the ritual site or to gain additional information or magic useful in the search for the real site. If you want to set up a prolonged search for the site, any of the following iconic locations along the Sword Coast might make an interesting stop for the characters. Each location offers the potential to gain information regarding sites known for planar disturbances or strange magic, or to seek lore and materials to refine the operation of the characters' portalometer.",
+						"In the course of locating the ritual site (see \"{@area Franchise Downtime|2a1|x}\" in {@area episode 5|206|x}), the characters might travel to any number of locations, either to confirm that those locations are not the ritual site or to gain additional information or magic useful in the search for the real site. If you want to set up a prolonged search for the site, any of the following iconic locations along the Sword Coast might make an interesting stop for the characters. Each location offers the potential to gain information regarding sites known for planar disturbances or strange magic, or to seek lore and materials to refine the operation of the characters' portalometer.",
 						{
 							"type": "entries",
 							"id": "2ab",
@@ -9653,8 +9653,8 @@
 									"page": 178,
 									"id": "2ae",
 									"entries": [
-										"Depending on how much time the characters spent in Neverwinter in {@adventure episode 3|OoW|3}, they might have heard tales of how the Spellplague (the great magical devastation that tore across Faerûn more than a century ago) tore a large chasm through the city. This chasm (helpfully known as \"the Chasm\") has since been sealed, but pockets of blue spellfire and the warping effects of planar energy can often still be seen in the area.",
-										"The characters can make use of contacts from {@adventure episode 3|OoW|3} to determine that agents of the Six appeared recently in Neverwinter and were rumored to have been researching the magic of the Chasm. Tracking down any agents who remain might allow the characters to gain hints regarding the ritual's location. You might also decide that these Six agents have been warped by the latent energy of the Chasm, making them formidable and unpredictable foes.",
+										"Depending on how much time the characters spent in Neverwinter in {@area episode 3|121|x}, they might have heard tales of how the Spellplague (the great magical devastation that tore across Faerûn more than a century ago) tore a large chasm through the city. This chasm (helpfully known as \"the Chasm\") has since been sealed, but pockets of blue spellfire and the warping effects of planar energy can often still be seen in the area.",
+										"The characters can make use of contacts from {@area episode 3|121|x} to determine that agents of the Six appeared recently in Neverwinter and were rumored to have been researching the magic of the Chasm. Tracking down any agents who remain might allow the characters to gain hints regarding the ritual's location. You might also decide that these Six agents have been warped by the latent energy of the Chasm, making them formidable and unpredictable foes.",
 										"More information on {@book Neverwinter|SCAG|2|Neverwinter} can be found in the {@book Sword Coast Adventurer's Guide|SCAG}."
 									]
 								},
@@ -11325,7 +11325,7 @@
 								"If the characters were successful in giving relationship advice to Raah the ancient deep crow, it might ask for (or, you know, demand) their assistance to locate and assess potential mates, involving combat or matchmaking as you determine.",
 								"Acquisitions Incorporated has been working to open a franchise in Luskan, and the characters' experience in that city makes them the perfect people to lead the operation. Because they're totally on the best of terms with Dran Enterprises!",
 								"Lottie the lich calls in her favor of not killing the party to hire the characters as troubleshooters. She might need someone to help her out with difficulties in her expansive business operations, or to take care of rivals trying to shoehorn their way into the Greypeaks casino trade. Sure, she's evil. But is she really \"evil\"? It's a fine line.",
-								"When the characters left the bodies of the dwarf wedding party at the end of {@adventure episode 5|OoW|5}, the dwarves immediately understood that they'd been possessed. Through divination magic or incriminating evidence accidentally left in the caravan on the way out of Horn Enclave, Clans Thunderwind and Dhargun know that the characters were the ones responsible. Clan Dhargun might want to hire the characters as operatives for their business operations or engage in commercial agreements with the franchise on the basis of the characters' extraordinarily clever ruse. Clan Thunderwind might want them all dead.",
+								"When the characters left the bodies of the dwarf wedding party at the end of {@area episode 5|206|x}, the dwarves immediately understood that they'd been possessed. Through divination magic or incriminating evidence accidentally left in the caravan on the way out of Horn Enclave, Clans Thunderwind and Dhargun know that the characters were the ones responsible. Clan Dhargun might want to hire the characters as operatives for their business operations or engage in commercial agreements with the franchise on the basis of the characters' extraordinarily clever ruse. Clan Thunderwind might want them all dead.",
 								"If the characters didn't defeat him, evil archmage-for-hire Hoobur Gran'Shoop is still out there somewhere. The crazed gnome might be spoiling for revenge. Or he might have forgotten all about the characters, only to accidentally cross their paths again on completely unrelated business. Seriously, he's a little out of it.",
 								"As word of their triumph over the Six spreads, characters returning to Waterdeep for business will be sought out by Otis Adalgrim, who wants them to meet the Blackstaff, Vajra Safahr. The characters could be asked to join the Gray Hands, and might have an opportunity to work with Force Grey\u2014an elite group of specialist adventurers drawn from the Gray Hands.",
 								"Rumors begin to spread of purple-and-black versions of famous Acquisitions Incorporated members robbing treasure vaults up and down the Sword Coast. That can't be real, right?"

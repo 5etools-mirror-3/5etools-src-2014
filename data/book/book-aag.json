@@ -38,9 +38,9 @@
 					"id": "002",
 					"entries": [
 						"Most of the {@i Astral Adventurer's Guide} is designed to be shared with players. Think of this book's chapters as a primer for creating characters and running adventures in the uncharted void that surrounds each of the worlds of the Material Plane:",
-						"{@book Chapter 1|AAG|1} contains new material for players, including two backgrounds and six race options.",
-						"{@book Chapter 2|AAG|2} gives players and DMs rules for spelljamming as well as statistics and illustrations for various spelljamming vessels. The chapter also includes a few spells and magic items that are popular among astral voyagers.",
-						"{@book Chapter 3|AAG|3} describes the Rock of Bral, a city built on an asteroid, which you can use as a port of call or a campaign hub. You can situate it anywhere in Wildspace or the Astral Sea."
+						"{@area Chapter 1|004|x} contains new material for players, including two backgrounds and six race options.",
+						"{@area Chapter 2|053|x} gives players and DMs rules for spelljamming as well as statistics and illustrations for various spelljamming vessels. The chapter also includes a few spells and magic items that are popular among astral voyagers.",
+						"{@area Chapter 3|0d7|x} describes the Rock of Bral, a city built on an asteroid, which you can use as a port of call or a campaign hub. You can situate it anywhere in Wildspace or the Astral Sea."
 					]
 				},
 				{
@@ -61,7 +61,7 @@
 							"credit": "Justin Girard"
 						},
 						"{@adventure Light of Xaryxis|LoX}, the adventure included in this product, begins on a world of your choice but quickly moves into Wildspace after the characters board a ship that turns out to be a spelljamming vessel. The First Adventure table offers alternative ways to launch a D&D campaign set mostly on the Astral Plane.",
-						"If you choose to start your campaign on the Rock of Bral ({@book see chapter 3|AAG|3}), work with your players to determine which characters have lived in the city long enough to know it well.",
+						"If you choose to start your campaign on the Rock of Bral ({@area see chapter 3|0d7|x}), work with your players to determine which characters have lived in the city long enough to know it well.",
 						{
 							"type": "table",
 							"caption": "First Adventure",
@@ -100,7 +100,7 @@
 								],
 								[
 									"7",
-									"A {@creature hadozee explorer|BAM} (see {@book Boo's Astral Menagerie|BAM}) needs the characters' help to slay a white {@creature kindori|BAM} (see {@book Boo's Astral Menagerie|BAM}) that keeps attacking her {@vehicle flying fish ship|AAG} (see {@book chapter 2|AAG|2|Flying Fish Ship}). The hadozee can't tell whether the kindori is mean-spirited or amorous. Perhaps it has mistaken the ship for a rival\u2014or a mate!"
+									"A {@creature hadozee explorer|BAM} (see {@book Boo's Astral Menagerie|BAM}) needs the characters' help to slay a white {@creature kindori|BAM} (see {@book Boo's Astral Menagerie|BAM}) that keeps attacking her {@vehicle flying fish ship|AAG}. The hadozee can't tell whether the kindori is mean-spirited or amorous. Perhaps it has mistaken the ship for a rival\u2014or a mate!"
 								],
 								[
 									"8",
@@ -374,7 +374,7 @@
 									"entries": [
 										"The envelope of breathable air that forms around an object extends out from its surface a distance equal to the longest dimension of its form. For example, a spherical planet 5,000 miles in diameter has an air envelope 15,000 miles in diameter, with the planet at the center of it. An air envelope need not be spherical; for example, a block of wood 1 foot by 2 feet by 3 feet is surrounded by a more-or-less rectangular envelope of air 3 feet by 6 feet by 9 feet.",
 										"The air envelope around a spelljamming ship typically has an ovoid shape. {@book Diagram 2.1|AAG|2|Diagram 2.1: Air Envelope and Gravity Plane} shows the air envelope that surrounds a {@vehicle nautiloid|AAG} that has a keel length of 180 feet. It extends 180 feet from the ship in all directions.",
-										"The air envelope around a habitable planet or moon is called an atmosphere. An atmosphere is a special kind of air envelope that replenishes itself constantly. A creature or an object can refresh its air envelope by entering the atmosphere of a planet or moon (see \"{@book Overlapping Air Envelopes|AAG|2|Overlapping Air Envelopes}\" below).",
+										"The air envelope around a habitable planet or moon is called an atmosphere. An atmosphere is a special kind of air envelope that replenishes itself constantly. A creature or an object can refresh its air envelope by entering the atmosphere of a planet or moon (see \"{@area Overlapping Air Envelopes|05d|x}\" below).",
 										{
 											"type": "inset",
 											"name": "Fire in Wildspace",
@@ -519,7 +519,7 @@
 							"page": 21,
 							"id": "067",
 							"entries": [
-								"The Astral Sea not only has gravity (see \"{@book Gravity Planes|AAG|2|Gravity Planes}\" above) but also breathable, comfortable air. But is the air real, or does this heavenly realm merely trick creatures into thinking they're breathing? In the Astral Sea, one can never be certain. All that really matters is that a creature can survive indefinitely in the Astral Sea, never aging and never feeling hunger or thirst.",
+								"The Astral Sea not only has gravity (see \"{@area Gravity Planes|05e|x}\" above) but also breathable, comfortable air. But is the air real, or does this heavenly realm merely trick creatures into thinking they're breathing? In the Astral Sea, one can never be certain. All that really matters is that a creature can survive indefinitely in the Astral Sea, never aging and never feeling hunger or thirst.",
 								{
 									"type": "inset",
 									"name": "Tracking Time in Wildspace",
@@ -919,7 +919,7 @@
 			"page": 59,
 			"id": "0d7",
 			"entries": [
-				"Bral is a city built on an asteroid. Its inhabitants, who hail from many worlds, typically refer to Bral as the Rock. There is no other place quite like it in Wildspace. This chapter provides an overview of the asteroid city, which can serve as a hub for campaigns set in Wildspace. The accompanying {@book poster map|AAG|5} shows the topside and underside of the Rock of Bral, which are described later in this chapter.",
+				"Bral is a city built on an asteroid. Its inhabitants, who hail from many worlds, typically refer to Bral as the Rock. There is no other place quite like it in Wildspace. This chapter provides an overview of the asteroid city, which can serve as a hub for campaigns set in Wildspace. The accompanying {@area poster map|006|x} shows the topside and underside of the Rock of Bral, which are described later in this chapter.",
 				{
 					"type": "image",
 					"href": {
@@ -1025,7 +1025,7 @@
 										{
 											"type": "item",
 											"name": "The Juggler",
-											"entry": "This chaotic good elf oversees a network of swindlers and minstrels. Her real name is Kiria Evensong, and she runs the {@book Juggler's Folk Guildhouse|AAG|3|Juggler's Folk Guildhouse} (described later in the chapter)."
+											"entry": "This chaotic good elf oversees a network of swindlers and minstrels. Her real name is Kiria Evensong, and she runs the {@area Juggler's Folk Guildhouse|0ef|x} (described later in the chapter)."
 										},
 										{
 											"type": "item",
@@ -1047,7 +1047,7 @@
 						"The Rock of Bral is roughly 1 mile long and half that in width and depth, oriented front to back, with a leading edge and a trailing edge. A gravity plane bisects the length of the Rock, separating it into a topside and an underside.",
 						"The city of Bral is spread across the topside. On the trailing edge rises the High City, which includes the royal palace of Starhaven and its grounds, the noble estates, and Lake Bral. From there, the geography of Bral slopes down toward the Middle City, the financial and mercantile heart of the city. At the leading edge of the Rock is the Low City, an area populated by folk of modest means and the businesses they patronize. New arrivals at Bral typically disembark at the Low City's docks.",
 						"The underside of the Rock is off limits to the general population and not part of the city per se. It is where Bral's military forces are based. Most of the ground on the underside is used to grow crops to feed the populace. These fields are tended by convicted criminals who are housed in barracks and guarded by soldiers.",
-						"The interior of the Rock, which stretches half a mile from the surface of the topside to the surface of the underside, contains a network of caverns and tunnels. Built by pirates and smugglers, this dungeon is home to one of the city's underbarons (see {@book Underbarons|AAG|3|Underbarons} above) and is frequently used for clandestine meetings.",
+						"The interior of the Rock, which stretches half a mile from the surface of the topside to the surface of the underside, contains a network of caverns and tunnels. Built by pirates and smugglers, this dungeon is home to one of the city's underbarons (see {@area Underbarons|0df|x} above) and is frequently used for clandestine meetings.",
 						{
 							"type": "entries",
 							"name": "High City",

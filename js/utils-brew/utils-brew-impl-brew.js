@@ -18,6 +18,7 @@ export class BrewUtil2_ extends BrewUtil2Base {
 	_PATH_LOCAL_DIR = "homebrew";
 	_PATH_LOCAL_INDEX = VeCt.JSON_BREW_INDEX;
 
+	ID = "homebrew";
 	IS_EDITABLE = true;
 	PAGE_MANAGE = UrlUtil.PG_MANAGE_BREW;
 	URL_REPO_DEFAULT = VeCt.URL_BREW;

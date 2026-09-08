@@ -20,6 +20,7 @@ export class BrewUtil2Base {
 	_PATH_LOCAL_DIR;
 	_PATH_LOCAL_INDEX;
 
+	ID;
 	IS_EDITABLE;
 	PAGE_MANAGE;
 	URL_REPO_DEFAULT;

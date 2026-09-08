@@ -98,12 +98,12 @@
 						"In the worlds of Dungeons & Dragons, the story of the giants is a tragic one that echoes this whole range of fantasy and myth. Begotten by the mighty god Annam, who intended them to rule the worlds with wisdom as well as might, giants have fallen far short of the lofty destiny their progenitor imagined for them. Now supplanted by myriad smaller peoples of the worlds, giants live apart in remote steadings, undersea palaces, subterranean realms, and flying citadels.",
 						"{@i Bigby Presents: Glory of the Giants} explores giants' role in D&D and their realms across the worlds. It delves into the history of the giants and details the places where they live in isolation, as well as the ruins they left behind in their decline. Our guide in this exploration is the wizard Bigby, a former apprentice of Mordenkainen and creator of the spell {@spell Bigby's hand}. Though he began his career determined to use magic to dominate and control others, he eventually changed his ways and has worked hard to make amends for his past villainy. One factor that influenced his change of heart was Bigby's recurring encounters with Diancastra, a demigod revered by many giants. Throughout this book, we see glimpses into the relationship between these two mighty figures of legend.",
 						"This introduction presents a portion of the saga of Diancastra. The saga is a window into important aspects of giants' life and thought, and it introduces themes that reappear throughout the book: Annam's retreat from his children, the giants' fall from grace, and the hope some giants hold for a future restoration of their ancient glory.",
-						"{@book Chapter 1|BGG|1} introduces giant-themed options for adventurers, including a subclass that allows characters to tap into the magic of giants (the Path of the Giant barbarian), two giant-related backgrounds (the giant foundling and the rune carver), and a wide selection of feats. The chapter also includes roleplaying suggestions to help you connect a character of any class to the grandeur of giants.",
-						"{@book Chapter 2|BGG|2} offers advice and tables to help Dungeon Masters use giants in play. It covers roleplaying tips, an overview of the hierarchical structure of the ordning and giants' religion, and ideas about giants' organizations and societies.",
-						"{@book Chapter 3|BGG|3} presents tools to help Dungeon Masters build encounters, adventures, and whole campaigns around giants. The chapter includes tables you can use to populate the giants' enclaves presented in chapter 4.",
-						"{@book Chapter 4|BGG|4} discusses the places where giants dwell: the remote enclaves and secret hideaways where they cling to the remnants of their ancient glory. Maps are a centerpiece of the chapter, presenting a range of sites steeped in giants' supernatural power that you can drop into any campaign.",
-						"{@book Chapter 5|BGG|5} details the treasures characters might find as they deal with giants or explore giants' hidden realms. These treasures range from the contents of a wandering giant's bag to the mightiest relics of giants' ancient civilization. The chapter includes more than two dozen new magic items.",
-						"{@book Chapter 6|BGG|6} provides stat blocks and lore for a tremendous variety of giants. The chapter includes new giant kinds (such as the {@book death giant|BGG|6|Death Giants}) and new variations on the giants found in the {@book Monster Manual|MM}. A range of other enormous creatures, from towering dinosaurs to magical giant geese, can help DMs populate a giant-sized environment.",
+						"{@area Chapter 1|014|x} introduces giant-themed options for adventurers, including a subclass that allows characters to tap into the magic of giants (the Path of the Giant barbarian), two giant-related backgrounds (the giant foundling and the rune carver), and a wide selection of feats. The chapter also includes roleplaying suggestions to help you connect a character of any class to the grandeur of giants.",
+						"{@area Chapter 2|044|x} offers advice and tables to help Dungeon Masters use giants in play. It covers roleplaying tips, an overview of the hierarchical structure of the ordning and giants' religion, and ideas about giants' organizations and societies.",
+						"{@area Chapter 3|083|x} presents tools to help Dungeon Masters build encounters, adventures, and whole campaigns around giants. The chapter includes tables you can use to populate the giants' enclaves presented in chapter 4.",
+						"{@area Chapter 4|0bb|x} discusses the places where giants dwell: the remote enclaves and secret hideaways where they cling to the remnants of their ancient glory. Maps are a centerpiece of the chapter, presenting a range of sites steeped in giants' supernatural power that you can drop into any campaign.",
+						"{@area Chapter 5|151|x} details the treasures characters might find as they deal with giants or explore giants' hidden realms. These treasures range from the contents of a wandering giant's bag to the mightiest relics of giants' ancient civilization. The chapter includes more than two dozen new magic items.",
+						"{@area Chapter 6|1aa|x} provides stat blocks and lore for a tremendous variety of giants. The chapter includes new giant kinds (such as the {@area death giant|16d|x}) and new variations on the giants found in the {@book Monster Manual|MM}. A range of other enormous creatures, from towering dinosaurs to magical giant geese, can help DMs populate a giant-sized environment.",
 						{
 							"type": "quote",
 							"entries": [
@@ -174,14 +174,14 @@
 											"page": 7,
 											"id": "007",
 											"entries": [
-												"Once cloud giants, death giants (introduced in {@book chapter 6|BGG|6|Death Giants} of this book) technically have the same rank in the ordning as the other descendants of Memnor. However, by turning away from the gods of their ancestors to serve the Raven Queen, they have abdicated their place in the ordning.",
+												"Once cloud giants, death giants (introduced in {@area chapter 6|16d|x} of this book) technically have the same rank in the ordning as the other descendants of Memnor. However, by turning away from the gods of their ancestors to serve the Raven Queen, they have abdicated their place in the ordning.",
 												{
 													"type": "inset",
 													"id": "008",
 													"entries": [
 														"The Many Meanings of \"Giant\"",
 														"The word \"giant\" has multiple meanings in English and in the rules of D&D, opening the possibility of some confusion.",
-														"As a rule, when this book talks about \"giants,\" it refers to the various creatures that include \"giant\" in their name\u2014specifically, the giants found in the {@book Monster Manual|MM}\u2014{@creature Cloud Giant||cloud giants}, {@creature Fire Giant||fire giants}, {@creature Frost Giant||frost giants}, {@creature Hill Giant||hill giants}, {@creature Stone Giant||stone giants}, and {@creature Storm Giant||storm giants}\u2014as well as the death giants that appear in {@book chapter 6|BGG|6|Death Giants} of this book. These giants are the focus of this book, so it's safe to assume that's what is meant when you see the word \"giant\" and it's not capitalized or otherwise qualified.",
+														"As a rule, when this book talks about \"giants,\" it refers to the various creatures that include \"giant\" in their name\u2014specifically, the giants found in the {@book Monster Manual|MM}\u2014{@creature Cloud Giant||cloud giants}, {@creature Fire Giant||fire giants}, {@creature Frost Giant||frost giants}, {@creature Hill Giant||hill giants}, {@creature Stone Giant||stone giants}, and {@creature Storm Giant||storm giants}\u2014as well as the death giants that appear in {@area chapter 6|16d|x} of this book. These giants are the focus of this book, so it's safe to assume that's what is meant when you see the word \"giant\" and it's not capitalized or otherwise qualified.",
 														"\"Giant\" is also a creature type in the D&D rules, and as such, it's capitalized whenever it's used. This book usually refers to \"creatures of the Giant type\" to make sure it's very clear what is being talked about. All the giants are creatures of the Giant type, as are {@creature Cyclops||cyclopes}, {@creature Ettin||ettins}, {@creature Fomorian||fomorians}, {@creature Ogre||ogres}, and {@creature Troll||trolls}. But that latter group of creatures is not the focus of this book.",
 														"\"Giant\" (capitalized) is also the name of the language spoken by most creatures of the Giant type (as well as a few other creatures, such as hags). References to the language throughout this book typically refer to \"the Giant language\" or \"Giant runes,\" so there should be no confusion between the language and the creature type."
 													]
@@ -203,7 +203,7 @@
 											"page": 7,
 											"id": "00a",
 											"entries": [
-												"The monstrous god Vaprak is connected to Annam in some myths, though he is never regarded as a proper son of Annam. The Dwarvish Saga of Gnarldan Steelshield describes how Vaprak arose from Annam's blood when it was spilled on one of the worlds he tended, and the {@creature Troll||trolls} in turn arose from Vaprak's blood shed in a similar manner. The fensirs introduced in {@book chapter 6|BGG|6|Fensirs} of this book are descended from trolls. {@creature Ogre||Ogres} are sometimes described as descendants of Vaprak, giving them a distant and distorted connection to Annam. {@creature Oni} are often said to be distantly related to ogres, but at this point they are more fiendish than Giant."
+												"The monstrous god Vaprak is connected to Annam in some myths, though he is never regarded as a proper son of Annam. The Dwarvish Saga of Gnarldan Steelshield describes how Vaprak arose from Annam's blood when it was spilled on one of the worlds he tended, and the {@creature Troll||trolls} in turn arose from Vaprak's blood shed in a similar manner. The fensirs introduced in {@area chapter 6|172|x} of this book are descended from trolls. {@creature Ogre||Ogres} are sometimes described as descendants of Vaprak, giving them a distant and distorted connection to Annam. {@creature Oni} are often said to be distantly related to ogres, but at this point they are more fiendish than Giant."
 											]
 										},
 										{
@@ -232,7 +232,7 @@
 									"page": 8,
 									"id": "00d",
 									"entries": [
-										"In addition to all these creatures classed as Giants, two Humanoid kinds also claim distant kinship to Annam's heirs. {@book Goliaths|BGG|6|Goliath Giant-Kin} and {@book firbolgs|BGG|6|Firbolgs} appear in {@book chapter 6|BGG|6} of this book and also appear as character races in {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM}. Their connection to Annam is undoubtedly distant, but some individuals among both peoples hold giants in high regard and even worship the divine children of Annam\u2014especially his daughters."
+										"In addition to all these creatures classed as Giants, two Humanoid kinds also claim distant kinship to Annam's heirs. {@area Goliaths|186|x} and {@area firbolgs|173|x} appear in {@area chapter 6|1aa|x} of this book and also appear as character races in {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM}. Their connection to Annam is undoubtedly distant, but some individuals among both peoples hold giants in high regard and even worship the divine children of Annam\u2014especially his daughters."
 									]
 								}
 							]
@@ -547,10 +547,10 @@
 				"Most adventurers have heard tales of giants and their ilk. But for some adventurers, their connection to giants runs deeper than fanciful stories.",
 				"This chapter is for any D&D character who aspires to forge a link to the mighty giants. From sources of havoc-wreaking power to the artful study of rune magic, from boons that imbue an individual with giant-like might to fantastic tales that can shape an adventurer's entire life\u2014giants can make both big and small impacts on a character's story.",
 				"The following sections present a variety of options for creating characters with ties to giants:",
-				"\"{@book Subclass Option|BGG|1|Subclass Option}\" allows barbarians to explore ties to the nature of giants.",
-				"\"{@book Backgrounds|BGG|1|Backgrounds}\" presents two new backgrounds: the giant foundling and the rune carver. These backgrounds represent formative years spent studying and living among giants, and they grant access to feats that represent that experience.",
-				"\"{@book Big Heroes, Big Stories|BGG|1|Big Heroes, Big Stories}\" includes inspiration for narratively connecting characters to giants, regardless of their class or background.",
-				"\"{@book Feats|BGG|1|Feats}\" provides options for players who wish to link their characters to giants and primordial magic.",
+				"\"{@area Subclass Option|015|x}\" allows barbarians to explore ties to the nature of giants.",
+				"\"{@area Backgrounds|01c|x}\" presents two new backgrounds: the giant foundling and the rune carver. These backgrounds represent formative years spent studying and living among giants, and they grant access to feats that represent that experience.",
+				"\"{@area Big Heroes, Big Stories|028|x}\" includes inspiration for narratively connecting characters to giants, regardless of their class or background.",
+				"\"{@area Feats|03a|x}\" provides options for players who wish to link their characters to giants and primordial magic.",
 				{
 					"type": "image",
 					"href": {
@@ -673,7 +673,7 @@
 									"page": 15,
 									"id": "02d",
 									"entries": [
-										"You might have learned magic, martial techniques, or other secrets from studying giants, either ancient or living. Your character might strive to unearth and record more of the ancient history of giants or to learn more of their present ways. This could be a matter of personal motivation, but it also might explain some of your class features or magic. A bard of the {@class Bard||College of Lore|Lore} might focus on the study of giants, a {@class Fighter||Rune Knight|Rune Knight|TCE} fighter (from {@book Tasha's Cauldron of Everything|TCE}) might use the magic of Giant runes, or a paladin's Sacred Oath could involve allegiance to the tenets of a philosophy or organization of giants (such as those described in {@book chapter 2|BGG|2})."
+										"You might have learned magic, martial techniques, or other secrets from studying giants, either ancient or living. Your character might strive to unearth and record more of the ancient history of giants or to learn more of their present ways. This could be a matter of personal motivation, but it also might explain some of your class features or magic. A bard of the {@class Bard||College of Lore|Lore} might focus on the study of giants, a {@class Fighter||Rune Knight|Rune Knight|TCE} fighter (from {@book Tasha's Cauldron of Everything|TCE}) might use the magic of Giant runes, or a paladin's Sacred Oath could involve allegiance to the tenets of a philosophy or organization of giants (such as those described in {@area chapter 2|044|x})."
 									]
 								},
 								{
@@ -691,7 +691,7 @@
 									"page": 15,
 									"id": "02f",
 									"entries": [
-										"Your character might worship one of the gods described in {@book chapter 2|BGG|2|Gods and Religion}. If you were reared by giants, they might have taught you their faith. Perhaps one of those gods called you to fulfill a specific purpose. Alternatively, you could worship one of the so-called \"interloper gods\" (also described in {@book chapter 2|BGG|2|Interloper Gods}) who often take an interest in giants, or one of those entities might be your warlock's Otherworldly Patron."
+										"Your character might worship one of the gods described in {@area chapter 2|04e|x}. If you were reared by giants, they might have taught you their faith. Perhaps one of those gods called you to fulfill a specific purpose. Alternatively, you could worship one of the so-called \"interloper gods\" (also described in {@area chapter 2|065|x}) who often take an interest in giants, or one of those entities might be your warlock's Otherworldly Patron."
 									]
 								},
 								{
@@ -700,7 +700,7 @@
 									"page": 15,
 									"id": "030",
 									"entries": [
-										"Perhaps you had a giant as a mentor or a financial benefactor who taught you your profession or your class or provided you with your starting equipment. If you have a continuing obligation to this giant, see \"{@book Giant Patrons|BGG|3|Giant Patrons}\" in {@book chapter 3|BGG|3} for additional inspiration."
+										"Perhaps you had a giant as a mentor or a financial benefactor who taught you your profession or your class or provided you with your starting equipment. If you have a continuing obligation to this giant, see \"{@area Giant Patrons|0a4|x}\" in {@area chapter 3|083|x} for additional inspiration."
 									]
 								},
 								{
@@ -1023,11 +1023,11 @@
 					"by": "Bigby"
 				},
 				"Intended for the Dungeon Master, this chapter explores key aspects of giants' life and society. The ideas and tables included here should inspire you as you prepare to use giants in your D&D game. This material is divided into five main sections:",
-				"\"{@book Roleplaying Giants|BGG|2|Roleplaying Giants}\" discusses how to bring giants to life during your game.",
-				"\"{@book The Ordning|BGG|2|The Ordning}\" explores the relationships among and within different giant kinds, with a focus on the ordning's role in driving adventures.",
-				"\"{@book Gods and Religion|BGG|2|Gods and Religion}\" describes a pantheon of gods consisting of Annam the All-Father and his children. It also discusses various \"interlopers\" that vie for the worship of giants in Annam's absence.",
-				"\"{@book Social Structures|BGG|2|Social Structures}\" explores various models of giant societies and the relationships between giants and other kinds of creatures.",
-				"\"{@book Organizations|BGG|2|Organizations}\" details organizations that unite giants across the lines of the ordning, bringing them together around common goals and beliefs.",
+				"\"{@area Roleplaying Giants|045|x}\" discusses how to bring giants to life during your game.",
+				"\"{@area The Ordning|04b|x}\" explores the relationships among and within different giant kinds, with a focus on the ordning's role in driving adventures.",
+				"\"{@area Gods and Religion|04e|x}\" describes a pantheon of gods consisting of Annam the All-Father and his children. It also discusses various \"interlopers\" that vie for the worship of giants in Annam's absence.",
+				"\"{@area Social Structures|074|x}\" explores various models of giant societies and the relationships between giants and other kinds of creatures.",
+				"\"{@area Organizations|07c|x}\" details organizations that unite giants across the lines of the ordning, bringing them together around common goals and beliefs.",
 				"As with the rest of this book, this chapter focuses on the main families of giants described in the {@book Monster Manual|MM}, but much of this advice can also be applied to other creatures of the Giant type.",
 				{
 					"type": "image",
@@ -1696,7 +1696,7 @@
 								"Some giants reject the ordning, in part or entirely. This rejection most commonly takes one of three forms.",
 								"First are giants who hold themselves to a different standard than the one their kind traditionally values. These are often giants whose ranking within their kind is low. For example, a contemplative cloud giant might pursue knowledge rather than wealth, or a weak frost giant might trade in secrets and blackmail to hold onto some measure of power. These giants might avoid the company of their own kind to escape the expectations and customs attached to the ordning. In addition, devotees of Annam's daughters\u2014Hiatea, Iallanis, and Diancastra\u2014tend to push against the strict definitions of the ordning as a matter of principle.",
 								"Second, a few giants take a revolutionary stance meant to upset the ordning. A mighty frost giant warrior, not content to rule only frost giants and lesser creatures, could attempt to subjugate fire or cloud giants. Such revolutionaries often aim to impose their own kind's understanding of the ordning on all kinds of giants, so a master artisan among the fire giants might attempt to claim a higher place than storm giants who lack the same crafting skill. These efforts rarely have any lasting impact, but some have managed to upset the ordning at a local level for a few centuries. Because their sense of the ordning relies on physical power and military strength, frost giants are the most likely to impose their standards on other giants. Along similar lines, sometimes giants measure themselves by the standards of a different kind of giant and try to break from the ordning by exceeding those standards. A strong stone giant, for example, might try to claim a place within the frost giants' ordning.",
-								"Third, giants who turn from the worship of Annam's children to other powers (as described under \"{@book Gods and Religion|BGG|2|Gods and Religion}\" later in this chapter) also reject the ordning. In some cases, as in the hierarchical cults of Elemental Evil, the new religion replaces the giants' ordning with a different structure that offers the same sense of order, purpose, and meaning. Such cults place giants at a higher position than the giants would otherwise enjoy in the ordning.",
+								"Third, giants who turn from the worship of Annam's children to other powers (as described under \"{@area Gods and Religion|04e|x}\" later in this chapter) also reject the ordning. In some cases, as in the hierarchical cults of Elemental Evil, the new religion replaces the giants' ordning with a different structure that offers the same sense of order, purpose, and meaning. Such cults place giants at a higher position than the giants would otherwise enjoy in the ordning.",
 								"When giants join the cults of demon lords, they reject the entire concept of the ordning\u2014the idea that there is any kind of order to the multiverse at all, which is the literal meaning of the word {@i ordning} in the Giant tongue. These giants reject meaning, status, and hierarchy in favor of chaos and destruction.",
 								"The Rejecting the Ordning table offers adventure hooks inspired by these ideas, illustrating how giants' attitudes toward the ordning can impact characters and the lives of Humanoids who live near them.",
 								{
@@ -1867,7 +1867,7 @@
 									"page": 27,
 									"id": "050",
 									"entries": [
-										"Annam is a complicated figure, depicted in a variety of ways in myths told across countless worlds of the Material Plane. These stories have been altered in the telling over the course of thousands of years. In some myths, he is the creator of worlds, and other gods merely populated the worlds Annam made with peoples of their own creation. Such myths often describe an ancient era when giants were the only people inhabiting the worlds, or giants shared the worlds with dragons. In other myths, Annam worked with other gods to create worlds together. {@i Diancastra's Saga}, told in part in the {@book introduction|BGG|0|Diancastra's Saga} to this book, describes Annam gathering the shattered fragments of the First World (the original creation of Bahamut and Tiamat) and spreading them across the Material Plane to create countless worlds. Still other myths describe Annam as a sleeping god whose dreams formed the substance of reality and allowed other gods to create within it.",
+										"Annam is a complicated figure, depicted in a variety of ways in myths told across countless worlds of the Material Plane. These stories have been altered in the telling over the course of thousands of years. In some myths, he is the creator of worlds, and other gods merely populated the worlds Annam made with peoples of their own creation. Such myths often describe an ancient era when giants were the only people inhabiting the worlds, or giants shared the worlds with dragons. In other myths, Annam worked with other gods to create worlds together. {@i Diancastra's Saga}, told in part in the {@area introduction|000|x} to this book, describes Annam gathering the shattered fragments of the First World (the original creation of Bahamut and Tiamat) and spreading them across the Material Plane to create countless worlds. Still other myths describe Annam as a sleeping god whose dreams formed the substance of reality and allowed other gods to create within it.",
 										"Annam is often described as an all-knowing god whose deep learning, profound meditations, and expansive philosophy offer endless wisdom for his descendants to study. Occasionally, he's more of a trickster figure whose escapades across the worlds are greeted with uproarious laughter and serve as cautionary tales.",
 										"Giants on most worlds agree that Annam is no longer active in the affairs of giants in the Material Plane. Some say he despaired over his quarreling children. Others believe he lost hope in his descendants when their ancient empires fell into ruin. Some claim he was weakened after a long battle against his brother, Memnor (who is more commonly described as one of Annam's sons), and was forced to withdraw from the world until he regained his strength. Other dubious tales suggest he fled the Material Plane to escape the consequences of some misadventure.",
 										{
@@ -1927,7 +1927,7 @@
 									"page": 29,
 									"id": "055",
 									"entries": [
-										"Hiatea is Annam's second child, after Stronmaus, and the companionship and friendly rivalry between these two oldest children are the focus of many myths. In these stories, Hiatea is both a protective figure who keeps watch over the hearths and fields of giants, blessing their agriculture and their family lives, and a wild huntress who wields the power of nature as a weapon of destruction as well as a source of bounty. Some myths suggest her mother hid her among firbolgs after her birth, where Hiatea focused on strengthening communities. Then, when she learned of her true parentage, she pursued arduous quests as a hunter and monster slayer to prove her worth to her father. (It's possible that {@i Diancastra's Saga}, excerpted in the {@book introduction|BGG|0|Diancastra's Saga} to this book, alludes to this story when Annam compares Diancastra's deeds to Hiatea's.) Another myth suggests Stronmaus taunted Hiatea for remaining aloof from a bitter war against dragons, spurring her to prove herself a valiant warrior as well as a champion of peaceful giants.",
+										"Hiatea is Annam's second child, after Stronmaus, and the companionship and friendly rivalry between these two oldest children are the focus of many myths. In these stories, Hiatea is both a protective figure who keeps watch over the hearths and fields of giants, blessing their agriculture and their family lives, and a wild huntress who wields the power of nature as a weapon of destruction as well as a source of bounty. Some myths suggest her mother hid her among firbolgs after her birth, where Hiatea focused on strengthening communities. Then, when she learned of her true parentage, she pursued arduous quests as a hunter and monster slayer to prove her worth to her father. (It's possible that {@i Diancastra's Saga}, excerpted in the {@area introduction|000|x} to this book, alludes to this story when Annam compares Diancastra's deeds to Hiatea's.) Another myth suggests Stronmaus taunted Hiatea for remaining aloof from a bitter war against dragons, spurring her to prove herself a valiant warrior as well as a champion of peaceful giants.",
 										{
 											"type": "entries",
 											"name": "Priests and Rites",
@@ -2105,7 +2105,7 @@
 											"page": 31,
 											"id": "068",
 											"entries": [
-												"As described in the {@book Monster Manual|MM}, Baphomet the Horned King encourages his followers to embrace their fundamentally bestial nature. Giants who delight in the frenzy of battle and bloodshed are easily lured to the demon lord's service. Stone giants who feel stifled and repressed by their society sometimes break free in dramatic fashion by embracing Baphomet's creed (see the {@creature stalker of Baphomet|BGG} in {@book chapter 6|BGG|6|Stalker of Baphomet})."
+												"As described in the {@book Monster Manual|MM}, Baphomet the Horned King encourages his followers to embrace their fundamentally bestial nature. Giants who delight in the frenzy of battle and bloodshed are easily lured to the demon lord's service. Stone giants who feel stifled and repressed by their society sometimes break free in dramatic fashion by embracing Baphomet's creed (see the {@creature stalker of Baphomet|BGG} in {@area chapter 6|198|x})."
 											]
 										},
 										{
@@ -2114,7 +2114,7 @@
 											"page": 31,
 											"id": "069",
 											"entries": [
-												"Demogorgon has few followers among the giants of the ordning, but ettins often recognize a kindred spirit in the two-headed demon lord. The {@creature echo of Demogorgon|BGG} in {@book chapter 6|BGG|6|Echo of Demogorgon} is an ettin cultist who has received Demogorgon's hideous gifts."
+												"Demogorgon has few followers among the giants of the ordning, but ettins often recognize a kindred spirit in the two-headed demon lord. The {@creature echo of Demogorgon|BGG} in {@area chapter 6|170|x} is an ettin cultist who has received Demogorgon's hideous gifts."
 											]
 										},
 										{
@@ -2123,7 +2123,7 @@
 											"page": 31,
 											"id": "06a",
 											"entries": [
-												"Though he is not terribly important in the Abyss, the demon lord Kostchtchie is revered by many giants, particularly frost giants. Part of his appeal is his willingness (when bribed with bloody offerings) to inspire his worshipers with ferocity and bloodlust. More than any other demon lord, what he offers his followers\u2014raw strength and fury in battle\u2014appeals directly to the values shared by many frost giants, making him appear as an exemplar of the giants' ideals. The {@creature fury of Kostchtchie|BGG} in {@book chapter 6|BGG|6|Fury of Kostchtchie} is an example of a frost giant whose devotion to the demon lord has brought great and terrible rewards. ({@creature Kostchtchie|BGDIA} is described in {@adventure Baldur's Gate: Descent into Avernus|BGDIA}.)"
+												"Though he is not terribly important in the Abyss, the demon lord Kostchtchie is revered by many giants, particularly frost giants. Part of his appeal is his willingness (when bribed with bloody offerings) to inspire his worshipers with ferocity and bloodlust. More than any other demon lord, what he offers his followers\u2014raw strength and fury in battle\u2014appeals directly to the values shared by many frost giants, making him appear as an exemplar of the giants' ideals. The {@creature fury of Kostchtchie|BGG} in {@area chapter 6|17d|x} is an example of a frost giant whose devotion to the demon lord has brought great and terrible rewards. ({@creature Kostchtchie|BGDIA} is described in {@adventure Baldur's Gate: Descent into Avernus|BGDIA}.)"
 											]
 										},
 										{
@@ -2132,7 +2132,7 @@
 											"page": 31,
 											"id": "06b",
 											"entries": [
-												"Gnolls, ghouls, and some hill giants share two strange commonalities: insatiable hunger and a tendency to serve the demon lord Yeenoghu. Sometimes a hill giant who delights in senseless slaughter turns to the Beast of Butchery for help in achieving more senseless slaughter. Occasionally, an indiscriminately hungry hill giant consumes some item of unspeakable corruption and takes on a fiendish nature, falling under Yeenoghu's sway. In either case, the result is a horrible monster with a gullet akin to the bottomless Abyss itself (see the {@creature maw of Yeenoghu|BGG} in {@book chapter 6|BGG|6|Maw of Yeenoghu})."
+												"Gnolls, ghouls, and some hill giants share two strange commonalities: insatiable hunger and a tendency to serve the demon lord Yeenoghu. Sometimes a hill giant who delights in senseless slaughter turns to the Beast of Butchery for help in achieving more senseless slaughter. Occasionally, an indiscriminately hungry hill giant consumes some item of unspeakable corruption and takes on a fiendish nature, falling under Yeenoghu's sway. In either case, the result is a horrible monster with a gullet akin to the bottomless Abyss itself (see the {@creature maw of Yeenoghu|BGG} in {@area chapter 6|18a|x})."
 											]
 										}
 									]
@@ -2155,8 +2155,8 @@
 											"height": 1098
 										},
 										"Another popular avenue for giants who turn from the gods of the Ordning derives from giants' close ties to the Elemental Planes. The nameless horror called the Elder Elemental Eye perverts natural elements, limiting them to their most destructive aspects in a way that appeals to giants who are disposed toward evil. More than most members of individual Elemental Evil cults, giants see the big picture of the four cults working toward the common goal of elemental cataclysm. Some giants even worship the Elder Elemental Eye directly rather than serving one of the subordinate cults.",
-										"As described earlier in this chapter (see \"{@book Rejecting the Ordning|BGG|2|Rejecting the Ordning}\"), membership in the cults of Elemental Evil replaces the ordning with a different hierarchy\u2014one in which giants gravitate toward the top. Giants who worship Elemental Evil alongside smaller peoples offer welcome physical (and sometimes magical) power to these cults, making them an even more significant force in the world. Intelligent and charismatic giants might enter positions of leadership in an elemental cult, while less cunning giants might become lieutenants or personal bodyguards of cult leaders.",
-										"Examples of giants serving each of the Elemental Evil cults appear in {@book chapter 6|BGG|6}.",
+										"As described earlier in this chapter (see \"{@area Rejecting the Ordning|04c|x}\"), membership in the cults of Elemental Evil replaces the ordning with a different hierarchy\u2014one in which giants gravitate toward the top. Giants who worship Elemental Evil alongside smaller peoples offer welcome physical (and sometimes magical) power to these cults, making them an even more significant force in the world. Intelligent and charismatic giants might enter positions of leadership in an elemental cult, while less cunning giants might become lieutenants or personal bodyguards of cult leaders.",
+										"Examples of giants serving each of the Elemental Evil cults appear in {@area chapter 6|1aa|x}.",
 										{
 											"type": "entries",
 											"name": "Cult of Evil Earth",
@@ -2211,7 +2211,7 @@
 									"id": "072",
 									"entries": [
 										"Like other peoples, giants may choose to give their service and devotion to many different gods, not just the children of Annam or particular cults. On some worlds, the gods of the Ordning are unknown (perhaps forgotten) or known by different names. There, giants might have their own gods or worship the same gods other peoples do.",
-										"Giants might also turn from their traditional gods to serve devils, {@creature Kraken||krakens}, Great Old Ones, archfey, or other powerful ancient beings. {@book Chapter 6|BGG|6} includes examples of several such giants: the {@creature fire hellion|BGG}, the {@creature storm herald|BGG}, and the {@creature fomorian warlock of the dark|BGG}."
+										"Giants might also turn from their traditional gods to serve devils, {@creature Kraken||krakens}, Great Old Ones, archfey, or other powerful ancient beings. {@area Chapter 6|1aa|x} includes examples of several such giants: the {@creature fire hellion|BGG}, the {@creature storm herald|BGG}, and the {@creature fomorian warlock of the dark|BGG}."
 									]
 								}
 							]
@@ -2371,7 +2371,7 @@
 					"id": "074",
 					"entries": [
 						"Though giants are not numerous on most worlds (at least compared to various Humanoid peoples), they are generally social creatures who prefer to live with others of their own kind. They also keep appropriately sized animals as pets and beasts of burden, and they often share their living space with smaller people.",
-						"As you create an encounter, adventure, or campaign involving giants, you can use these models to help you decide how many giants are present in an area and what other creatures might live alongside them. You can use the various tables in \"{@book Giantkind Encounters|BGG|3|Giantkind Encounters}\" (in {@book chapter 3|BGG|3}) to flesh out the details of encounters with these giants.",
+						"As you create an encounter, adventure, or campaign involving giants, you can use these models to help you decide how many giants are present in an area and what other creatures might live alongside them. You can use the various tables in \"{@area Giantkind Encounters|08a|x}\" (in {@area chapter 3|083|x}) to flesh out the details of encounters with these giants.",
 						{
 							"type": "inset",
 							"id": "075",
@@ -2560,7 +2560,7 @@
 							"page": 37,
 							"id": "079",
 							"entries": [
-								"Most giants live in family groups, typically four to six adult giants from multiple generations and one or two younger giants. The work of hunting, gathering, or cultivating food, as well as other household tasks, is divided among family members according to their abilities. These groups often include at least one member with exceptional abilities, such as the magic-wielding giants found in {@book chapter 6|BGG|6}. Giant families almost always include companion animals as described in the {@book Monster Manual|MM} and shown on the tables in \"{@book Giantkind Encounters|BGG|3|Giantkind Encounters}\" in {@book chapter 3|BGG|3}.",
+								"Most giants live in family groups, typically four to six adult giants from multiple generations and one or two younger giants. The work of hunting, gathering, or cultivating food, as well as other household tasks, is divided among family members according to their abilities. These groups often include at least one member with exceptional abilities, such as the magic-wielding giants found in {@area chapter 6|1aa|x}. Giant families almost always include companion animals as described in the {@book Monster Manual|MM} and shown on the tables in \"{@area Giantkind Encounters|08a|x}\" in {@area chapter 3|083|x}.",
 								"The Families table provides adventure hooks involving a family group of giants and its associated creatures.",
 								{
 									"type": "table",
@@ -2610,7 +2610,7 @@
 							"entries": [
 								"Giants live in larger groups when circumstances allow it. Such circumstances might include an abundant food supply, a charismatic or powerful leader who can unite multiple families, or a dangerous environment where the giants benefit from greater numbers. In these situations, two or three family groups might dwell together in some kind of stronghold, often accompanied by companion animals and Humanoid allies.",
 								"The total population of a steading typically includes eight to twelve adult giants, including a leader, and three to five younger giants. Sometimes a few ettins or ogres and as many as two dozen Humanoids might live alongside the giants. Animal companions, elementals, and even a dragon might also dwell in a giant steading.",
-								"Any of the locations described in {@book chapter 4|BGG|4} might serve as a giant steading, and you can use the tables in {@book chapter 3|BGG|3} to help you populate the site. The Steadings table suggests adventure hooks you might use to bring characters to such a place.",
+								"Any of the locations described in {@area chapter 4|0bb|x} might serve as a giant steading, and you can use the tables in {@area chapter 3|083|x} to help you populate the site. The Steadings table suggests adventure hooks you might use to bring characters to such a place.",
 								{
 									"type": "table",
 									"caption": "Steadings",
@@ -2837,7 +2837,7 @@
 										}
 									]
 								},
-								"Knights of the Stewards of the Eternal Throne are mostly giants (predominantly cloud and storm giants), but some orders have been known to accept goliaths, firbolgs, and members of other peoples into their ranks. ({@race Goliath|MPMM|Goliaths} and {@race Firbolg|MPMM|firbolgs} appear as character races in {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM}, and examples of these peoples appear in {@book chapter 6|BGG|6} of this book.)",
+								"Knights of the Stewards of the Eternal Throne are mostly giants (predominantly cloud and storm giants), but some orders have been known to accept goliaths, firbolgs, and members of other peoples into their ranks. ({@race Goliath|MPMM|Goliaths} and {@race Firbolg|MPMM|firbolgs} appear as character races in {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM}, and examples of these peoples appear in {@area chapter 6|1aa|x} of this book.)",
 								"The principle of peace leads the knights to cooperate with other peoples, especially with beings they regard as near equals in age and importance, including dwarves, elves, and dragons. If a fundamental sin of the ancient giants was warring with these folk in the early years of the world, then cooperation with them is essential to undoing that sin and charting a new course for giantkind and other peoples. As part of this commitment, the stewards honor not just the gods of the giants, but also the gods revered by these other folk.",
 								"Each chapter of the Stewards of the Eternal Throne has a stronghold that is intended as a living embodiment of its central principles. These strongholds are mighty fortresses meant to withstand whatever evils might besiege them. They are bastions of peace and equality where diverse peoples can live together under the leadership, protection, and tutelage of giants\u2014as Annam intended.",
 								{
@@ -2983,9 +2983,9 @@
 					"by": "Bigby"
 				},
 				"This chapter, intended for the Dungeon Master, is full of tables and inspiration you can use to build encounters, adventures, and entire worlds and campaigns that give giants a properly giant-sized role. The chapter has three parts:",
-				"\"{@book Encounters|BGG|3|Encounters}\" provides tools to help you build encounters involving giants and the creatures that frequently accompany them. You can use the tables in this section to populate the giant-themed locations in {@book chapter 4|BGG|4} or any other encounter.",
-				"\"{@book Adventures|BGG|3|Adventures}\" includes adventure hooks and other tools you can use to craft an adventure involving giants and their worlds.",
-				"\"{@book Campaigns|BGG|3|Campaigns}\" helps you establish the role of giants in your game world and place these mighty peoples\u2014past or present\u2014in the forefront of your campaign.",
+				"\"{@area Encounters|084|x}\" provides tools to help you build encounters involving giants and the creatures that frequently accompany them. You can use the tables in this section to populate the giant-themed locations in {@area chapter 4|0bb|x} or any other encounter.",
+				"\"{@area Adventures|09c|x}\" includes adventure hooks and other tools you can use to craft an adventure involving giants and their worlds.",
+				"\"{@area Campaigns|0ab|x}\" helps you establish the role of giants in your game world and place these mighty peoples\u2014past or present\u2014in the forefront of your campaign.",
 				{
 					"type": "image",
 					"href": {
@@ -3003,7 +3003,7 @@
 					"id": "084",
 					"entries": [
 						"Giants are social creatures, often living together in families or bands, or accompanied by smaller followers. Even when they live in isolation, they often keep pets or servants. While an encounter might consist of a single giant, more typical encounters include a mix of one or more giants with other creatures.",
-						"This section is loaded with inspiration to help you create such encounters, whether you're planning a single encounter or populating a giant-filled enclave. The tables are broken into two categories: \"{@book Giantkind Encounters|BGG|3|Giantkind Encounters}\" and \"{@book Connected Creatures|BGG|3|Connected Creatures}.\" The first includes tables for each of the six main families of giants, plus death giants and fomorians. The second covers a variety of other creatures often found alongside giants, including other creatures of the Giant type.",
+						"This section is loaded with inspiration to help you create such encounters, whether you're planning a single encounter or populating a giant-filled enclave. The tables are broken into two categories: \"{@area Giantkind Encounters|08a|x}\" and \"{@area Connected Creatures|094|x}.\" The first includes tables for each of the six main families of giants, plus death giants and fomorians. The second covers a variety of other creatures often found alongside giants, including other creatures of the Giant type.",
 						{
 							"type": "entries",
 							"name": "Using the Tables",
@@ -3059,7 +3059,7 @@
 									"page": 43,
 									"id": "088",
 									"entries": [
-										"Each table entry presents a short description of the creatures in an encounter and what they're doing. Use these ideas as inspiration to fit the encounter into the location you're populating. If that context doesn't make sense for the situation you're building, consider using the context to inspire the creature's general motivation. For example, if you roll a 12 on the {@book Cloud Giant Encounters table|BGG|3|Cloud Giant Encounters}, it might not make sense for a cloud giant to be searching for the {@book Misty Vale|BGG|4|Misty Vale} (an enclave described in {@book chapter 4|BGG|4}) in that particular location. You might decide there is a clue to the vale's location in this place, or you can simply treat the giant's search for the Misty Vale as an overarching goal, regardless of what the giant is doing when the encounter occurs. That choice can influence how you roleplay the giant if the characters engage in conversation."
+										"Each table entry presents a short description of the creatures in an encounter and what they're doing. Use these ideas as inspiration to fit the encounter into the location you're populating. If that context doesn't make sense for the situation you're building, consider using the context to inspire the creature's general motivation. For example, if you roll a 12 on the {@area Cloud Giant Encounters table|08c|x}, it might not make sense for a cloud giant to be searching for the {@area Misty Vale|11f|x} (an enclave described in {@area chapter 4|0bb|x}) in that particular location. You might decide there is a clue to the vale's location in this place, or you can simply treat the giant's search for the Misty Vale as an overarching goal, regardless of what the giant is doing when the encounter occurs. That choice can influence how you roleplay the giant if the characters engage in conversation."
 									]
 								},
 								{
@@ -3106,7 +3106,7 @@
 							"page": 44,
 							"id": "08a",
 							"entries": [
-								"This section includes encounter tables themed around each of the six kinds of giants in the {@book Monster Manual|MM}, plus {@book death giants|BGG|6|Death Giants} (found in {@book chapter 6|BGG|6}) and {@book fomorians|BGG|6|Fomorians}. Each table includes giants as well as creatures that might be found in or around the homes of giants, including those commonly associated with giants as pets (such as {@creature Spotted Lion|BGG|spotted lions} for {@creature Cloud Giant||cloud giants} and {@creature Dire Wolf||dire wolves} for {@creature Hill Giant||hill giants}).",
+								"This section includes encounter tables themed around each of the six kinds of giants in the {@book Monster Manual|MM}, plus {@area death giants|16d|x} (found in {@area chapter 6|1aa|x}) and {@area fomorians|179|x}. Each table includes giants as well as creatures that might be found in or around the homes of giants, including those commonly associated with giants as pets (such as {@creature Spotted Lion|BGG|spotted lions} for {@creature Cloud Giant||cloud giants} and {@creature Dire Wolf||dire wolves} for {@creature Hill Giant||hill giants}).",
 								{
 									"type": "inset",
 									"id": "08b",
@@ -3127,35 +3127,35 @@
 											"rows": [
 												[
 													"1",
-													"{@book Cloud Giant Encounters|BGG|3|Cloud Giant Encounters}"
+													"{@area Cloud Giant Encounters|08c|x}"
 												],
 												[
 													"2",
-													"{@book Death Giant Encounters|BGG|3|Death Giant Encounters}"
+													"{@area Death Giant Encounters|08d|x}"
 												],
 												[
 													"3",
-													"{@book Fire Giant Encounters|BGG|3|Fire Giant Encounters}"
+													"{@area Fire Giant Encounters|08e|x}"
 												],
 												[
 													"4",
-													"{@book Fomorian Encounters|BGG|3|Fomorian Encounters}"
+													"{@area Fomorian Encounters|08f|x}"
 												],
 												[
 													"5",
-													"{@book Frost Giant Encounters|BGG|3|Frost Giant Encounters}"
+													"{@area Frost Giant Encounters|090|x}"
 												],
 												[
 													"6",
-													"{@book Hill Giant Encounters|BGG|3|Hill Giant Encounters}"
+													"{@area Hill Giant Encounters|091|x}"
 												],
 												[
 													"7",
-													"{@book Stone Giant Encounters|BGG|3|Stone Giant Encounters}"
+													"{@area Stone Giant Encounters|092|x}"
 												],
 												[
 													"8",
-													"{@book Storm Giant Encounters|BGG|3|Storm Giant Encounters}"
+													"{@area Storm Giant Encounters|093|x}"
 												]
 											]
 										}
@@ -3300,7 +3300,7 @@
 							"page": 48,
 							"id": "094",
 							"entries": [
-								"The encounter tables in this section include a variety of monsters grouped according to themes that might flavor a giant enclave or encounter. Combined with the encounters from the \"{@book Giantkind Encounters|BGG|3|Giantkind Encounters}\" section, you can create a series of events with a distinctive flavor.",
+								"The encounter tables in this section include a variety of monsters grouped according to themes that might flavor a giant enclave or encounter. Combined with the encounters from the \"{@area Giantkind Encounters|08a|x}\" section, you can create a series of events with a distinctive flavor.",
 								{
 									"type": "entries",
 									"name": "Dinosaur World Encounters",
@@ -3341,7 +3341,7 @@
 									"page": 49,
 									"id": "096",
 									"entries": [
-										"Use the four Elemental Encounters tables to populate areas suffused with the elemental and magical nature of giants or places where the Elemental Planes break into the Material Plane. The creatures on these tables might be connected to the cults of Elemental Evil (described in {@book chapter 2|BGG|2|Elemental Evil}). Magical conduits might draw creatures from the Elemental Planes and disgorge them within powerful storms, deep chasms, tumultuous wildfires, or ocean maelstroms. Elemental forces might also come to the world to oppose their elemental rivals from opposite planes: air versus earth or fire versus water.",
+										"Use the four Elemental Encounters tables to populate areas suffused with the elemental and magical nature of giants or places where the Elemental Planes break into the Material Plane. The creatures on these tables might be connected to the cults of Elemental Evil (described in {@area chapter 2|06c|x}). Magical conduits might draw creatures from the Elemental Planes and disgorge them within powerful storms, deep chasms, tumultuous wildfires, or ocean maelstroms. Elemental forces might also come to the world to oppose their elemental rivals from opposite planes: air versus earth or fire versus water.",
 										"The elemental forces of air are most commonly connected with {@creature Cloud Giant||cloud} and {@creature Storm Giant||storm giants}. Those of earth are typically associated with {@creature Hill Giant||hill} and {@creature Stone Giant||stone giants}. Elemental fire is closely tied to {@creature Fire Giant||fire giants}, and elemental water is typically connected to {@creature Cloud Giant||cloud} and {@creature Frost Giant||frost giants}.",
 										"The Elemental Water Encounters table can be useful in any aquatic environment, not just one where the Plane of Water extends its reach. An ancient giant enclave sunken in some great catastrophe or a storm giant retreat beneath the sea is an appropriate locale for these encounters.",
 										{
@@ -3387,7 +3387,7 @@
 									"page": 52,
 									"id": "097",
 									"entries": [
-										"Use the Fiendish Incursion Encounters table for situations where giants have turned from the gods of the Ordning to serve fiends (as described in {@book chapter 2|BGG|2|Interloper Gods}), where the ancient magic of long-fallen realms of giants opened portals to the Lower Planes (either intentionally or by accident), where magic runes have gone horribly awry and unleashed fiendish corruption into the world, or where fiends seek powerful allies to aid their schemes among mortals.",
+										"Use the Fiendish Incursion Encounters table for situations where giants have turned from the gods of the Ordning to serve fiends (as described in {@area chapter 2|065|x}), where the ancient magic of long-fallen realms of giants opened portals to the Lower Planes (either intentionally or by accident), where magic runes have gone horribly awry and unleashed fiendish corruption into the world, or where fiends seek powerful allies to aid their schemes among mortals.",
 										{
 											"type": "quote",
 											"entries": [
@@ -3488,8 +3488,8 @@
 									"page": 54,
 									"id": "09b",
 									"entries": [
-										"The Megafauna World Encounters table suggests encounters with gigantic animals that might appear in a \"lost world\" where long-forgotten versions of modern animals still thrive. It could also reflect a world where not only giants but everything\u2014from domestic animals to plant life\u2014is vastly oversized (see \"{@book Into the Giant Realms|BGG|3|Into the Giant Realms}\" in the \"{@book Adventure Models|BGG|3|Adventure Models}\" section later in this chapter).",
-										"As with the dinosaurs on the {@book Dinosaur World Encounters table|BGG|3|Dinosaur World Encounters}, you can add a variety of trappings to the animals encountered here to reflect the nature of the giants who care for them.",
+										"The Megafauna World Encounters table suggests encounters with gigantic animals that might appear in a \"lost world\" where long-forgotten versions of modern animals still thrive. It could also reflect a world where not only giants but everything\u2014from domestic animals to plant life\u2014is vastly oversized (see \"{@area Into the Giant Realms|0a2|x}\" in the \"{@area Adventure Models|09d|x}\" section later in this chapter).",
+										"As with the dinosaurs on the {@area Dinosaur World Encounters table|095|x}, you can add a variety of trappings to the animals encountered here to reflect the nature of the giants who care for them.",
 										{
 											"type": "statblock",
 											"name": "Megafauna World Encounters",
@@ -3509,8 +3509,8 @@
 					"id": "09c",
 					"entries": [
 						"Giants often appear in adventures that aren't about giants, serving as powerful enemies or allies to adventurers. This section offers inspiration if you want to make giants or the realms they inhabit a central element of an adventure. This section has two parts:",
-						"\"{@book Adventure Models|BGG|3|Adventure Models}\" outlines five categories of adventures to help you think about the role you want giants to play.",
-						"\"{@book Giant Patrons|BGG|3|Giant Patrons}\" explores various roles a giant might adopt as a patron for an adventuring party and the missions the giant might assign.",
+						"\"{@area Adventure Models|09d|x}\" outlines five categories of adventures to help you think about the role you want giants to play.",
+						"\"{@area Giant Patrons|0a4|x}\" explores various roles a giant might adopt as a patron for an adventuring party and the missions the giant might assign.",
 						{
 							"type": "entries",
 							"name": "Adventure Models",
@@ -3525,7 +3525,7 @@
 									"id": "09e",
 									"entries": [
 										"Three of D&D's earliest published adventures featured giants as the primary opponents: {@i Steading of the Hill Giant Chief}, {@i The Glacial Rift of the Frost Giant Jarl}, and {@i Hall of the Fire Giant King}. (They were originally published in 1978, compiled together as {@i Against the Giants} in 1981, and reprinted multiple times in the decades since, most recently in 2017's {@adventure Tales from the Yawning Portal|TftYP-ATG}.) The premise of these adventures is simple: \"giants have been raiding civilized lands,\" so adventurers are assembled \"to punish the miscreant giants.\" The adventurers fight their way up the ordning until their final confrontation with the fire giant king\u2014and the revelation that the giants are merely pawns in the schemes of some sinister drow.",
-										"An adventure focused on giants as adversaries could involve a sustained battle against giants of a single kind (as each of the individual adventures in {@adventure Against the Giants|TftYP-ATG} did), or it could involve progression through groups of different kinds of giants (as {@i Against the Giants} pitted characters against hill, frost, and fire giants in sequence). Alternatively, an adventure could involve giants of different kinds working together, perhaps united as members of a religious order or some other kind of organization that crosses the divide of giant kinds (see \"{@book Gods and Religion|BGG|2|Gods and Religion}\" and \"{@book Organizations|BGG|2|Organizations},\" both in {@book chapter 2|BGG|2}).",
+										"An adventure focused on giants as adversaries could involve a sustained battle against giants of a single kind (as each of the individual adventures in {@adventure Against the Giants|TftYP-ATG} did), or it could involve progression through groups of different kinds of giants (as {@i Against the Giants} pitted characters against hill, frost, and fire giants in sequence). Alternatively, an adventure could involve giants of different kinds working together, perhaps united as members of a religious order or some other kind of organization that crosses the divide of giant kinds (see \"{@area Gods and Religion|04e|x}\" and \"{@area Organizations|07c|x},\" both in {@area chapter 2|044|x}).",
 										"The Against the Giants table offers suggestions for adventure hooks you can use to build an adventure following this theme.",
 										{
 											"type": "quote",
@@ -3588,7 +3588,7 @@
 									"page": 56,
 									"id": "09f",
 									"entries": [
-										"Sometimes giants are background elements to an adventure that has more to do with the impact of the giants' actions on the world than it does with the giants themselves. These adventures might be disaster stories, where characters might help bystanders escape. The source of the disaster might be a conflict between two giants (or two groups of giants), a clash between a giant and another powerful monster (such as a dragon, a dinosaur, a {@creature purple worm}, or the {@creature tarrasque}), or the stirring of a truly colossal giant (such as the {@book scions of giants' gods|BGG|6|Scions of Giants' Gods} described in {@book chapter 6|BGG|6}). An adventure might also challenge characters to drive the giants (and other forces of destruction) away from settled lands.",
+										"Sometimes giants are background elements to an adventure that has more to do with the impact of the giants' actions on the world than it does with the giants themselves. These adventures might be disaster stories, where characters might help bystanders escape. The source of the disaster might be a conflict between two giants (or two groups of giants), a clash between a giant and another powerful monster (such as a dragon, a dinosaur, a {@creature purple worm}, or the {@creature tarrasque}), or the stirring of a truly colossal giant (such as the {@area scions of giants' gods|18f|x} described in {@area chapter 6|1aa|x}). An adventure might also challenge characters to drive the giants (and other forces of destruction) away from settled lands.",
 										"The giant in a scenario like this need not be the villain. A {@creature storm giant} wrestling a {@creature kraken} to keep the creature from destroying a coastal city might still cause accidental devastation. A giant might look for heroes to take care of bystanders while the giant deals with (or holds back) the greater threat.",
 										"The Clash of Titans table provides a sampling of adventure hooks you can use to build an adventure along these lines.",
 										{
@@ -3617,7 +3617,7 @@
 												],
 												[
 													"4",
-													"A group of giants (perhaps members of the Stewards of the Eternal Throne, described in {@book chapter 2|BGG|2|Stewards of the Eternal Throne}) warns a city that the {@creature tarrasque} is approaching and asks for heroes to evacuate the city while the giants hold the monster at bay."
+													"A group of giants (perhaps members of the Stewards of the Eternal Throne, described in {@area chapter 2|07f|x}) warns a city that the {@creature tarrasque} is approaching and asks for heroes to evacuate the city while the giants hold the monster at bay."
 												],
 												[
 													"5",
@@ -3625,7 +3625,7 @@
 												],
 												[
 													"6",
-													"After slumbering for centuries, a {@creature scion of Grolantor|BGG} (described in {@book chapter 6)|BGG|6|Hill Scion}, begins to stir. The residents of the farming village built on the sleeping giant's back seek help evacuating."
+													"After slumbering for centuries, a {@creature scion of Grolantor|BGG} (described in {@area chapter 6)|190|x}, begins to stir. The residents of the farming village built on the sleeping giant's back seek help evacuating."
 												]
 											]
 										},
@@ -3656,8 +3656,8 @@
 											"by": "Diancastra"
 										},
 										"In the world of Eberron, the continent of Xen'drik is the ancestral home of giants and the location of their ancient empire. The continent is littered with the cyclopean ruins of this forgotten civilization, and now scholars and treasure hunters mount expeditions to plunder the ruins and unearth the secrets of the giants. On other worlds, the ruins of ancient giants' civilizations might not be as numerous or well known, but you can still build adventures that lead characters to explore the realms of past giants.",
-										"An expedition into giants' ruins might involve a confrontation with giants, or it might mean facing whatever monsters have taken up residence in the ruins in the centuries since the giants abandoned them. In Xen'drik, living giants still inhabit some of their ancient ruins, though they have fallen far from the height of their civilization. Ruins might be inhabited by the once-giant hulks or Undead giants that appear in {@book chapter 6|BGG|6}, by Constructs crafted by giants, or by any kind of creature that has taken shelter in the ruins\u2014potentially including enormous creatures, such as dragons, that appreciate the roomy chambers crafted by ancient giants.",
-										"You can use the Delve into the Past table to inspire adventures leading characters into ancient giant ruins. You can also use the locations in {@book chapter 4|BGG|4} as destinations for these adventures; each of those locations includes its own suggested adventure hooks that you can use instead, or combine with the ones here, as inspiration strikes you.",
+										"An expedition into giants' ruins might involve a confrontation with giants, or it might mean facing whatever monsters have taken up residence in the ruins in the centuries since the giants abandoned them. In Xen'drik, living giants still inhabit some of their ancient ruins, though they have fallen far from the height of their civilization. Ruins might be inhabited by the once-giant hulks or Undead giants that appear in {@area chapter 6|1aa|x}, by Constructs crafted by giants, or by any kind of creature that has taken shelter in the ruins\u2014potentially including enormous creatures, such as dragons, that appreciate the roomy chambers crafted by ancient giants.",
+										"You can use the Delve into the Past table to inspire adventures leading characters into ancient giant ruins. You can also use the locations in {@area chapter 4|0bb|x} as destinations for these adventures; each of those locations includes its own suggested adventure hooks that you can use instead, or combine with the ones here, as inspiration strikes you.",
 										{
 											"type": "table",
 											"caption": "Delve into the Past",
@@ -3840,27 +3840,27 @@
 									],
 									"rows": [
 										[
-											"{@book Boss|BGG|3|Boss}",
+											"{@area Boss|0a5|x}",
 											"Criminal Syndicate"
 										],
 										[
-											"{@book Financier|BGG|3|Financier}",
+											"{@area Financier|0a6|x}",
 											"Aristocrat"
 										],
 										[
-											"{@book Seer|BGG|3|Seer}",
+											"{@area Seer|0a7|x}",
 											"Ancient Being"
 										],
 										[
-											"{@book Sovereign|BGG|3|Sovereign}",
+											"{@area Sovereign|0a8|x}",
 											"Sovereign"
 										],
 										[
-											"{@book Tutor|BGG|3|Tutor}",
+											"{@area Tutor|0a9|x}",
 											"Academy"
 										],
 										[
-											"{@book Warleader|BGG|3|Warleader}",
+											"{@area Warleader|0aa|x}",
 											"Military Force"
 										]
 									]
@@ -4091,7 +4091,7 @@
 											"rows": [
 												[
 													"1",
-													"Capture and document the elemental hulks (see {@book chapter 6|BGG|6}) or other creatures that inhabit a remote valley, island, or cavern."
+													"Capture and document the elemental hulks (see {@area chapter 6|1aa|x}) or other creatures that inhabit a remote valley, island, or cavern."
 												],
 												[
 													"2",
@@ -4216,8 +4216,8 @@
 									"entries": [
 										"You can also build a campaign that puts the focus on the world inhabited by the giants of old, which might or might not include a significant number of living giants. The core idea of such a campaign might be that giants dominate the history of the world, so they are responsible for all the ancient sites, magic, and treasures that populate your adventures.",
 										"A campaign built on this idea might have a post-apocalyptic feel, as Humanoids spread and begin to explore the ruins of a world destroyed by giants. Or the giants' empires might be an ancient mystery, totally forgotten in the modern world until an ancient site and its treasures are discovered and history is rewritten.",
-										"The dungeons and ruins adventurers explore might all be places built by giants. Some might instead be strongholds built by giants' enemies, such as underground fortresses where dwarves sheltered against giants' attacks. If exploring giant-sized dungeons is the norm, characters are likely prepared for climbing huge stairs and navigating other challenges of giant-sized locations (see {@book chapter 4|BGG|4}).",
-										"D&D worlds often assume some magic items (especially artifacts) were created in ancient times using long-forgotten techniques. You might decide such items in your campaign were made either by giants or by those who warred against giants. Magic items made by giants might magically adjust to fit smaller peoples, or skilled artisans might have learned techniques to alter these items. {@book Chapter 5|BGG|5} offers more information and suggestions concerning magic items and other treasures crafted by giants."
+										"The dungeons and ruins adventurers explore might all be places built by giants. Some might instead be strongholds built by giants' enemies, such as underground fortresses where dwarves sheltered against giants' attacks. If exploring giant-sized dungeons is the norm, characters are likely prepared for climbing huge stairs and navigating other challenges of giant-sized locations (see {@area chapter 4|0bb|x}).",
+										"D&D worlds often assume some magic items (especially artifacts) were created in ancient times using long-forgotten techniques. You might decide such items in your campaign were made either by giants or by those who warred against giants. Magic items made by giants might magically adjust to fit smaller peoples, or skilled artisans might have learned techniques to alter these items. {@area Chapter 5|151|x} offers more information and suggestions concerning magic items and other treasures crafted by giants."
 									]
 								}
 							]
@@ -4264,7 +4264,7 @@
 										],
 										[
 											"6",
-											"One of the giants' organizations described in {@book chapter 2|BGG|2|Organizations} is founded or comes to this world for the first time."
+											"One of the giants' organizations described in {@area chapter 2|07c|x} is founded or comes to this world for the first time."
 										],
 										[
 											"7",
@@ -4320,10 +4320,10 @@
 											"width": 850,
 											"height": 2226
 										},
-										"You might also decide to create a campaign where the conflicts among the ancients, like the Thousand-Year War between giants and dragons in the Forgotten Realms, are not a matter of ancient history but a present reality. You could build an entire campaign in the shadow of such a conflict, which is basically taking the ideas described under \"{@book Clash of Titans|BGG|3|Clash of Titans}\" earlier in this chapter and extending them through many adventures.",
+										"You might also decide to create a campaign where the conflicts among the ancients, like the Thousand-Year War between giants and dragons in the Forgotten Realms, are not a matter of ancient history but a present reality. You could build an entire campaign in the shadow of such a conflict, which is basically taking the ideas described under \"{@area Clash of Titans|09f|x}\" earlier in this chapter and extending them through many adventures.",
 										"The war might not be a simple two-sided conflict between giants and dragons. Perhaps elves, dwarves, good giants, and metallic dragons joined forces against a two-pronged assault from evil giants and chromatic dragons. Or war might be raging between dragons and elves while giants strive to protect smaller peoples from the fallout.",
 										"Other peoples and monsters might be involved. The war might be a largely subterranean clash between stone giants and mind flayers while dwarves and drow seek to escape the earth-shaking and cavern-collapsing aftershocks of battles. Or storm giants might combat krakens and other nightmares of the deep while coastal cities and merchant ships struggle to endure devastating storms and tidal waves.",
-										"The Thousand-Year War in the Forgotten Realms lasted a thousand years for good reason: neither giants nor dragons were ever particularly numerous, and actual skirmishes between giants and dragons were rare. For this reason, you could run a campaign where battles between the warring parties are isolated events along the lines of the world-shaking events described in \"{@book Campaign Events|BGG|3|Campaign Events}.\" You might begin the campaign with one such battle, have the adventurers spend months or even years dealing with the aftereffects of the cataclysmic battle, then send your campaign in a new direction with a second battle. Maybe a third, truly cataclysmic battle\u2014in which the adventurers are now high enough level to participate in the combat and turn it in favor of one side or the other\u2014brings the campaign to a close."
+										"The Thousand-Year War in the Forgotten Realms lasted a thousand years for good reason: neither giants nor dragons were ever particularly numerous, and actual skirmishes between giants and dragons were rare. For this reason, you could run a campaign where battles between the warring parties are isolated events along the lines of the world-shaking events described in \"{@area Campaign Events|0af|x}.\" You might begin the campaign with one such battle, have the adventurers spend months or even years dealing with the aftereffects of the cataclysmic battle, then send your campaign in a new direction with a second battle. Maybe a third, truly cataclysmic battle\u2014in which the adventurers are now high enough level to participate in the combat and turn it in favor of one side or the other\u2014brings the campaign to a close."
 									]
 								}
 							]
@@ -4334,7 +4334,7 @@
 							"page": 65,
 							"id": "0b3",
 							"entries": [
-								"Another approach to making giants a significant part of your campaign is to feature them in the mythology of your world. {@book Scions of giants' gods|BGG|6|Scions of Giants' Gods} (see {@book chapter 6|BGG|6}) might feature prominently in these myths, as these examples illustrate.",
+								"Another approach to making giants a significant part of your campaign is to feature them in the mythology of your world. {@area Scions of giants' gods|18f|x} (see {@area chapter 6|1aa|x}) might feature prominently in these myths, as these examples illustrate.",
 								{
 									"type": "entries",
 									"name": "Ancient Advocates",
@@ -4368,7 +4368,7 @@
 									"page": 65,
 									"id": "0b7",
 									"entries": [
-										"Six scions of giants' gods literally hold the world together. Perhaps they're responsible for holding the continents above the ocean surface or supporting the dome of the sky, or they might keep the world together through magical means. In any case, if these titans were killed, the world would dissolve into the Elemental Chaos. ({@book Giants of the Worldroot Circle|BGG|2|Worldroot Circle}, described in {@book chapter 2|BGG|2}, might be responsible for protecting these scions.)"
+										"Six scions of giants' gods literally hold the world together. Perhaps they're responsible for holding the continents above the ocean surface or supporting the dome of the sky, or they might keep the world together through magical means. In any case, if these titans were killed, the world would dissolve into the Elemental Chaos. ({@area Giants of the Worldroot Circle|081|x}, described in {@area chapter 2|044|x}, might be responsible for protecting these scions.)"
 									]
 								},
 								{
@@ -4424,24 +4424,24 @@
 					"type": "list",
 					"columns": 3,
 					"items": [
-						"{@book Annam's Cradle|BGG|4|Annam's Cradle}",
-						"{@book Ashen Grotto|BGG|4|Ashen Grotto}",
-						"{@book Dreamer's Reach|BGG|4|Dreamer's Reach}",
-						"{@book Endless Rockslide|BGG|4|Endless Rockslide}",
-						"{@book Forest Crystal|BGG|4|Forest Crystal}",
-						"{@book Forsaken Deep|BGG|4|Forsaken Deep}",
-						"{@book Gale's Eye Tower|BGG|4|Gale's Eye Tower}",
-						"{@book Grolantor's Larder|BGG|4|Grolantor's Larder}",
-						"{@book Hiatea's Hearth|BGG|4|Hiatea's Hearth}",
-						"{@book Horizon's Edge|BGG|4|Horizon's Edge}",
-						"{@book Howling Iceberg|BGG|4|Howling Iceberg}",
-						"{@book Karontor's Hold|BGG|4|Karontor's Hold}",
-						"{@book Misty Vale|BGG|4|Misty Vale}",
-						"{@book Runic Circle|BGG|4|Runic Circle}",
-						"{@book Singing Sands|BGG|4|Singing Sands}",
-						"{@book Star Forge|BGG|4|Star Forge}",
-						"{@book Thundering Observatory|BGG|4|Thundering Observatory}",
-						"{@book Worldroot Sapling|BGG|4|Worldroot Sapling}"
+						"{@area Annam's Cradle|0be|x}",
+						"{@area Ashen Grotto|0c5|x}",
+						"{@area Dreamer's Reach|0cd|x}",
+						"{@area Endless Rockslide|0d6|x}",
+						"{@area Forest Crystal|0df|x}",
+						"{@area Forsaken Deep|0e7|x}",
+						"{@area Gale's Eye Tower|0ef|x}",
+						"{@area Grolantor's Larder|0f7|x}",
+						"{@area Hiatea's Hearth|100|x}",
+						"{@area Horizon's Edge|109|x}",
+						"{@area Howling Iceberg|111|x}",
+						"{@area Karontor's Hold|118|x}",
+						"{@area Misty Vale|11f|x}",
+						"{@area Runic Circle|126|x}",
+						"{@area Singing Sands|12e|x}",
+						"{@area Star Forge|137|x}",
+						"{@area Thundering Observatory|140|x}",
+						"{@area Worldroot Sapling|149|x}"
 					]
 				},
 				{
@@ -4460,7 +4460,7 @@
 					"page": 67,
 					"id": "0bc",
 					"entries": [
-						"Each of the locations in this chapter is a blank slate; you can decide who lives there, what they want, and how they interact with visitors. Each location includes a selection of adventure hooks that might attract characters to the enclave or give them a reason to draw on its magic. The adventure hooks also suggest specific creatures or encounter tables appearing in the \"{@book Encounters|BGG|3|Encounters}\" section in {@book chapter 3|BGG|3}. And several of these hooks point to other enclaves, creating paths to string locations together into larger adventures.",
+						"Each of the locations in this chapter is a blank slate; you can decide who lives there, what they want, and how they interact with visitors. Each location includes a selection of adventure hooks that might attract characters to the enclave or give them a reason to draw on its magic. The adventure hooks also suggest specific creatures or encounter tables appearing in the \"{@area Encounters|084|x}\" section in {@area chapter 3|083|x}. And several of these hooks point to other enclaves, creating paths to string locations together into larger adventures.",
 						"When developing these enclaves into adventure sites, let your imagination run wild. Mix and match different encounter tables to see what can arise. Consider how randomly determining the attitude of the creatures generated can shift the tone of a story. If a hostile giant is the driving force behind an adventure seed, how does the adventure change if that giant is indifferent or even friendly to the characters?",
 						{
 							"type": "entries",
@@ -4637,7 +4637,7 @@
 									"page": 68,
 									"id": "0c2",
 									"entries": [
-										"A great pillar of rock reaching to the cavern's ceiling is the {@condition petrified} body of a primordial giant. The figure's arm stretches up, breaching the cavern ceiling, and its fingers emerge on the surface above as {@book Dreamer's Reach|BGG|4|Dreamer's Reach} (in this chapter). The sleeping primordial's nightmares might take the form of creatures from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} or the {@book Giant Necropolis Encounters table|BGG|3|Giant Necropolis Encounters} in {@book chapter 3|BGG|3}, and they crawl down the petrified form to terrorize the inhabitants of the cavern below. Or they could climb to the surface at Dreamer's Reach, leading the characters into Annam's Cradle to find their source.",
+										"A great pillar of rock reaching to the cavern's ceiling is the {@condition petrified} body of a primordial giant. The figure's arm stretches up, breaching the cavern ceiling, and its fingers emerge on the surface above as {@area Dreamer's Reach|0cd|x} (in this chapter). The sleeping primordial's nightmares might take the form of creatures from the {@area Fiendish Incursion Encounters table|097|x} or the {@area Giant Necropolis Encounters table|09a|x} in {@area chapter 3|083|x}, and they crawl down the petrified form to terrorize the inhabitants of the cavern below. Or they could climb to the surface at Dreamer's Reach, leading the characters into Annam's Cradle to find their source.",
 										"The nightmares might be a once-in-a-lifetime disaster, making the adventure a matter of waiting them out and defending against the creatures that terrorize the area. Alternatively, they might recur regularly, leading characters to seek a way to end the cycle by soothing the slumbering titan's nightmares, which might require climbing its mountainous form and carving the Giant rune for \"friend\" into its forehead."
 									]
 								},
@@ -4647,7 +4647,7 @@
 									"page": 68,
 									"id": "0c3",
 									"entries": [
-										"A distraught giant child lost their pet and begs for help retrieving it before it comes to harm. The child leads the characters into the jungle, where they find a menacing {@creature allosaurus}. Before any hostilities erupt, the child delightedly shouts, \"Fluffy!\" The allosaurus wags its tail and rolls on its back for belly rubs. However, creatures from the {@book Giant Kin Encounters table|BGG|3|Giant Kin Encounters} in {@book chapter 3|BGG|3} have been hunting the dinosaur and close in for the kill."
+										"A distraught giant child lost their pet and begs for help retrieving it before it comes to harm. The child leads the characters into the jungle, where they find a menacing {@creature allosaurus}. Before any hostilities erupt, the child delightedly shouts, \"Fluffy!\" The allosaurus wags its tail and rolls on its back for belly rubs. However, creatures from the {@area Giant Kin Encounters table|099|x} in {@area chapter 3|083|x} have been hunting the dinosaur and close in for the kill."
 									]
 								},
 								{
@@ -4656,7 +4656,7 @@
 									"page": 68,
 									"id": "0c4",
 									"entries": [
-										"A cursed ruler's failing health can be cured only by water taken from the cavern's central waterfall. But {@creature Hill Giant||hill giants} of especially immense stature led by a {@creature hill giant avalancher|BGG} (see {@book chapter 6|BGG|6|Hill Giant Avalancher}) venerate and guzzle the waters. They violently defend the waterfall with beasts of war from the {@book Megafauna World Encounters|BGG|3|Megafauna World Encounters} or {@book Dinosaur World Encounters table|BGG|3|Dinosaur World Encounters} in {@book chapter 3|BGG|3}."
+										"A cursed ruler's failing health can be cured only by water taken from the cavern's central waterfall. But {@creature Hill Giant||hill giants} of especially immense stature led by a {@creature hill giant avalancher|BGG} (see {@area chapter 6|188|x}) venerate and guzzle the waters. They violently defend the waterfall with beasts of war from the {@area Megafauna World Encounters|09b|x} or {@area Dinosaur World Encounters table|095|x} in {@area chapter 3|083|x}."
 									]
 								}
 							]
@@ -4803,7 +4803,7 @@
 									"page": 70,
 									"id": "0c9",
 									"entries": [
-										"Giants who wish to inter their dead in the Ashen Grotto ask the characters to help them remove a rival faction claiming it for themselves. The friendly giants respect the grotto's traditions and refuse to shed another giant's blood within, but the rivals no longer hold to tradition and seek to plunder the grotto's treasures and power. Use your choice of {@book Giantkind Encounters tables|BGG|3|Giantkind Encounters} in {@book chapter 3|BGG|3} for the rivals."
+										"Giants who wish to inter their dead in the Ashen Grotto ask the characters to help them remove a rival faction claiming it for themselves. The friendly giants respect the grotto's traditions and refuse to shed another giant's blood within, but the rivals no longer hold to tradition and seek to plunder the grotto's treasures and power. Use your choice of {@area Giantkind Encounters tables|08a|x} in {@area chapter 3|083|x} for the rivals."
 									]
 								},
 								{
@@ -4812,7 +4812,7 @@
 									"page": 70,
 									"id": "0ca",
 									"entries": [
-										"A token in one of the most ancient burials is inscribed with the last surviving copy of a key rune. In the ages since its creation, the rune has become corrupted. It still functions, but it creates tears in the planar fabric. Creatures from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} (see {@book chapter 3|BGG|3}) defend the rune. If this rune is inscribed in the {@book Runic Circle|BGG|4|Runic Circle}, it opens a gateway to {@book Horizon's Edge|BGG|4|Horizon's Edge} (both in this chapter)."
+										"A token in one of the most ancient burials is inscribed with the last surviving copy of a key rune. In the ages since its creation, the rune has become corrupted. It still functions, but it creates tears in the planar fabric. Creatures from the {@area Fiendish Incursion Encounters table|097|x} (see {@area chapter 3|083|x}) defend the rune. If this rune is inscribed in the {@area Runic Circle|126|x}, it opens a gateway to {@area Horizon's Edge|109|x} (both in this chapter)."
 									]
 								},
 								{
@@ -4821,7 +4821,7 @@
 									"page": 70,
 									"id": "0cb",
 									"entries": [
-										"A {@creature storm giant} asks the characters to retrieve an ancestor's bone from the Coral Pool, since she is forbidden to enter the grotto. She promises them a {@item javelin of lightning} if they retrieve the bone, which she intends to use to make a more powerful item. A {@creature behir} agent of a rival storm giant and creatures from the {@book Storm Giant Encounters table|BGG|3|Storm Giant Encounters} (see {@book chapter 3|BGG|3}) try to steal the bone first."
+										"A {@creature storm giant} asks the characters to retrieve an ancestor's bone from the Coral Pool, since she is forbidden to enter the grotto. She promises them a {@item javelin of lightning} if they retrieve the bone, which she intends to use to make a more powerful item. A {@creature behir} agent of a rival storm giant and creatures from the {@area Storm Giant Encounters table|093|x} (see {@area chapter 3|083|x}) try to steal the bone first."
 									]
 								},
 								{
@@ -4830,7 +4830,7 @@
 									"page": 70,
 									"id": "0cc",
 									"entries": [
-										"Fleeing from a horde comprising hundreds of {@creature Zombie||zombies} (as well as creatures from the {@book Death Giant Encounters|BGG|3|Death Giant Encounters} or {@book Giant Necropolis Encounters table|BGG|3|Giant Necropolis Encounters} in {@book chapter 3|BGG|3}), villagers took sanctuary in the grotto but are now trapped and running out of supplies. Adventurers must disperse the horde by killing the {@creature death giant shrouded one|BGG} (see {@book chapter 6|BGG|6|Death Giant Shrouded One}) who created it or clear a path for the villagers to escape."
+										"Fleeing from a horde comprising hundreds of {@creature Zombie||zombies} (as well as creatures from the {@area Death Giant Encounters|08d|x} or {@area Giant Necropolis Encounters table|09a|x} in {@area chapter 3|083|x}), villagers took sanctuary in the grotto but are now trapped and running out of supplies. Adventurers must disperse the horde by killing the {@creature death giant shrouded one|BGG} who created it or clear a path for the villagers to escape."
 									]
 								}
 							]
@@ -4928,7 +4928,7 @@
 									"page": 72,
 									"id": "0d1",
 									"entries": [
-										"A {@creature cloud giant} has taken control of Dreamer's Reach, searching for the answer to a riddle that leads to the {@book Misty Vale|BGG|4|Misty Vale} (in this chapter). The giant has hired and tricked creatures from the {@book Giant Kin Encounters table|BGG|3|Giant Kin Encounters} (see {@book chapter 3|BGG|3}) to defend the site."
+										"A {@creature cloud giant} has taken control of Dreamer's Reach, searching for the answer to a riddle that leads to the {@area Misty Vale|11f|x} (in this chapter). The giant has hired and tricked creatures from the {@area Giant Kin Encounters table|099|x} (see {@area chapter 3|083|x}) to defend the site."
 									]
 								},
 								{
@@ -4937,7 +4937,7 @@
 									"page": 72,
 									"id": "0d2",
 									"entries": [
-										"Many people suffer repeating, terrible dreams every night. A {@creature Night Hag||coven of night hags} uses dozens of people at Dreamer's Reach as channels to send the nightmares. The hags use creatures from the {@book Hill Giant Encounters table|BGG|3|Hill Giant Encounters} (see {@book chapter 3|BGG|3}) as bodyguards."
+										"Many people suffer repeating, terrible dreams every night. A {@creature Night Hag||coven of night hags} uses dozens of people at Dreamer's Reach as channels to send the nightmares. The hags use creatures from the {@area Hill Giant Encounters table|091|x} (see {@area chapter 3|083|x}) as bodyguards."
 									]
 								},
 								{
@@ -4946,7 +4946,7 @@
 									"page": 72,
 									"id": "0d3",
 									"entries": [
-										"A monarch is locked in nightmare-filled slumber that magic has failed to end. Characters must use Dreamer's Reach to enter the sleeper's nightmares and end them from within. Dream entities oppose the effort, taking the forms of creatures from the dreamer's life and from the {@book Fiendish Incursion Encounters|BGG|3|Fiendish Incursion Encounters} and {@book Giant Necropolis Encounters|BGG|3|Giant Necropolis Encounters} tables in {@book chapter 3|BGG|3}."
+										"A monarch is locked in nightmare-filled slumber that magic has failed to end. Characters must use Dreamer's Reach to enter the sleeper's nightmares and end them from within. Dream entities oppose the effort, taking the forms of creatures from the dreamer's life and from the {@area Fiendish Incursion Encounters|097|x} and {@area Giant Necropolis Encounters|09a|x} tables in {@area chapter 3|083|x}."
 									]
 								},
 								{
@@ -4955,7 +4955,7 @@
 									"page": 72,
 									"id": "0d4",
 									"entries": [
-										"A character who rests at Dreamer's Reach dreams of a brilliant star falling from the sky. Images of the dream persist upon waking and lead the character to a distinctive mountain. There, the character can use the {@book Star Forge|BGG|4|Star Forge} (in this chapter) to create a sentient magic item if they gather the proper materials and defeat creatures from the {@book Giant Construct Encounters table|BGG|3|Giant Construct Encounters} (see {@book chapter 3|BGG|3}) at the forge."
+										"A character who rests at Dreamer's Reach dreams of a brilliant star falling from the sky. Images of the dream persist upon waking and lead the character to a distinctive mountain. There, the character can use the {@area Star Forge|137|x} (in this chapter) to create a sentient magic item if they gather the proper materials and defeat creatures from the {@area Giant Construct Encounters table|098|x} (see {@area chapter 3|083|x}) at the forge."
 									]
 								},
 								{
@@ -4964,7 +4964,7 @@
 									"page": 72,
 									"id": "0d5",
 									"entries": [
-										"A missing patrol's trail leads to Dreamer's Reach. The primordial's dreams charmed the patrol to join a group of {@creature Stone Giant||stone giants} who seek omens from the dream world. The patrol refuses to leave, and the giants and creatures from the {@book Stone Giant Encounters table|BGG|3|Stone Giant Encounters} (see {@book chapter 3|BGG|3}) fight to keep the patrol here if necessary."
+										"A missing patrol's trail leads to Dreamer's Reach. The primordial's dreams charmed the patrol to join a group of {@creature Stone Giant||stone giants} who seek omens from the dream world. The patrol refuses to leave, and the giants and creatures from the {@area Stone Giant Encounters table|092|x} (see {@area chapter 3|083|x}) fight to keep the patrol here if necessary."
 									]
 								}
 							]
@@ -5063,7 +5063,7 @@
 									"page": 74,
 									"id": "0da",
 									"entries": [
-										"Runes harnessing the elemental power of the Endless Rockslide hold the key to a {@creature Mage||mage's} research. The mage offers a {@item Manual of Clay Golems||manual of golems (clay)} in exchange for help in overcoming guardians from the {@book Giant Construct Encounters table|BGG|3|Giant Construct Encounters} (see {@book chapter 3|BGG|3})."
+										"Runes harnessing the elemental power of the Endless Rockslide hold the key to a {@creature Mage||mage's} research. The mage offers a {@item Manual of Clay Golems||manual of golems (clay)} in exchange for help in overcoming guardians from the {@area Giant Construct Encounters table|098|x} (see {@area chapter 3|083|x})."
 									]
 								},
 								{
@@ -5072,7 +5072,7 @@
 									"page": 74,
 									"id": "0db",
 									"entries": [
-										"Stone giant artisans find inspiration in the Endless Rockslide and create beautiful works from its material, but a {@creature fomorian warlock of the dark|BGG} curses the crafts to bring misfortune. The stone giants ask the characters to find the fomorian and end the curse before they're overwhelmed with creatures drawn from the {@book Fomorian Encounters|BGG|3|Fomorian Encounters} and {@book Giant Kin Encounters|BGG|3|Giant Kin Encounters} tables in {@book chapter 3|BGG|3}."
+										"Stone giant artisans find inspiration in the Endless Rockslide and create beautiful works from its material, but a {@creature fomorian warlock of the dark|BGG} curses the crafts to bring misfortune. The stone giants ask the characters to find the fomorian and end the curse before they're overwhelmed with creatures drawn from the {@area Fomorian Encounters|08f|x} and {@area Giant Kin Encounters|099|x} tables in {@area chapter 3|083|x}."
 									]
 								},
 								{
@@ -5081,7 +5081,7 @@
 									"page": 74,
 									"id": "0dc",
 									"entries": [
-										"A {@creature frost giant} loves to hunt dangerous creatures. She intends to divert the Endless Rockslide and use its force to break open a rock formation sealing off {@book Annam's Cradle|BGG|4|Annam's Cradle} (in this chapter). Opening the path frees beasts from the {@book Megafauna World Encounters table|BGG|3|Megafauna World Encounters} (see {@book chapter 3|BGG|3}), which then threaten a settlement of deep gnomes and duergar."
+										"A {@creature frost giant} loves to hunt dangerous creatures. She intends to divert the Endless Rockslide and use its force to break open a rock formation sealing off {@area Annam's Cradle|0be|x} (in this chapter). Opening the path frees beasts from the {@area Megafauna World Encounters table|09b|x} (see {@area chapter 3|083|x}), which then threaten a settlement of deep gnomes and duergar."
 									]
 								},
 								{
@@ -5090,7 +5090,7 @@
 									"page": 74,
 									"id": "0dd",
 									"entries": [
-										"Hungry creatures from the {@table Elemental Earth Encounters|BGG} table (see {@book chapter 3|BGG|3}) swarm from the Endless Rockslide, driving out the fire giants working there. The giants offer a bounty of metal craft and gems in exchange for help retaking the site."
+										"Hungry creatures from the {@table Elemental Earth Encounters|BGG} table (see {@area chapter 3|083|x}) swarm from the Endless Rockslide, driving out the fire giants working there. The giants offer a bounty of metal craft and gems in exchange for help retaking the site."
 									]
 								},
 								{
@@ -5099,7 +5099,7 @@
 									"page": 74,
 									"id": "0de",
 									"entries": [
-										"A {@creature djinni} assaults the Endless Rockslide to disrupt the plans of her {@creature dao} rival. Each genie asks the characters to side against the other. The characters face threats from the {@table Elemental Earth Encounters|BGG} or {@table Elemental Air Encounters|BGG} in {@book chapter 3|BGG|3} as appropriate."
+										"A {@creature djinni} assaults the Endless Rockslide to disrupt the plans of her {@creature dao} rival. Each genie asks the characters to side against the other. The characters face threats from the {@table Elemental Earth Encounters|BGG} or {@table Elemental Air Encounters|BGG} in {@area chapter 3|083|x} as appropriate."
 									]
 								}
 							]
@@ -5207,7 +5207,7 @@
 									"page": 75,
 									"id": "0e3",
 									"entries": [
-										"A {@creature young green dragon} who lairs near the crystal approaches the characters and requests their aid. The minions of a rival dragon (creatures from the {@book Giant Kin Encounters table|BGG|3|Giant Kin Encounters} in {@book chapter 3|BGG|3}) seek to destroy the crystal. The rival, a {@creature young black dragon}, wishes to reclaim the swamp hidden by the crystal's magic because the swamp belonged to the dragon's ancestor."
+										"A {@creature young green dragon} who lairs near the crystal approaches the characters and requests their aid. The minions of a rival dragon (creatures from the {@area Giant Kin Encounters table|099|x} in {@area chapter 3|083|x}) seek to destroy the crystal. The rival, a {@creature young black dragon}, wishes to reclaim the swamp hidden by the crystal's magic because the swamp belonged to the dragon's ancestor."
 									]
 								},
 								{
@@ -5216,7 +5216,7 @@
 									"page": 75,
 									"id": "0e4",
 									"entries": [
-										"Creatures from the {@book Cloud Giant Encounters table|BGG|3|Cloud Giant Encounters} (see {@book chapter 3|BGG|3}) assault the crystal, causing kobolds who live in the treetop huts to seek assistance. A {@creature cloud giant destiny gambler|BGG} (see {@book chapter 6|BGG|6|Cloud Giant Destiny Gambler}) seeks to reconnect the crystal with others of its kind, including the remains of one that is now the {@book Singing Sands|BGG|4|Singing Sands} (in this chapter). If the cloud giant is successful, the reestablished network of crystals could allow the giant to reshape great portions of the world."
+										"Creatures from the {@area Cloud Giant Encounters table|08c|x} (see {@area chapter 3|083|x}) assault the crystal, causing kobolds who live in the treetop huts to seek assistance. A {@creature cloud giant destiny gambler|BGG} (see {@area chapter 6|16b|x}) seeks to reconnect the crystal with others of its kind, including the remains of one that is now the {@area Singing Sands|12e|x} (in this chapter). If the cloud giant is successful, the reestablished network of crystals could allow the giant to reshape great portions of the world."
 									]
 								},
 								{
@@ -5225,7 +5225,7 @@
 									"page": 75,
 									"id": "0e5",
 									"entries": [
-										"A virulent plague ravages the countryside. The only cure is a specific mushroom, but all accounts speak of it growing in a swamp that doesn't exist. The characters must use the Forest Crystal to reveal the swamp hidden beneath the magical forest. Then they must battle creatures from the {@book Giant Necropolis Encounters table|BGG|3|Giant Necropolis Encounters} (see {@book chapter 3|BGG|3}) under the command of a {@creature mummy lord} to claim the cure."
+										"A virulent plague ravages the countryside. The only cure is a specific mushroom, but all accounts speak of it growing in a swamp that doesn't exist. The characters must use the Forest Crystal to reveal the swamp hidden beneath the magical forest. Then they must battle creatures from the {@area Giant Necropolis Encounters table|09a|x} (see {@area chapter 3|083|x}) under the command of a {@creature mummy lord} to claim the cure."
 									]
 								},
 								{
@@ -5234,7 +5234,7 @@
 									"page": 75,
 									"id": "0e6",
 									"entries": [
-										"A circle of {@creature Druid||druids} uses ancient magic to amplify the crystal's power, spreading its land-warping influence. The crystal's growing shroud threatens to engulf a nearby city whose ruler has been hostile to the druids in the past. Creatures from the {@book Megafauna World Encounters table|BGG|3|Megafauna World Encounters} in {@book chapter 3|BGG|3} spontaneously arise in the city and wreak havoc as the settlement transforms."
+										"A circle of {@creature Druid||druids} uses ancient magic to amplify the crystal's power, spreading its land-warping influence. The crystal's growing shroud threatens to engulf a nearby city whose ruler has been hostile to the druids in the past. Creatures from the {@area Megafauna World Encounters table|09b|x} in {@area chapter 3|083|x} spontaneously arise in the city and wreak havoc as the settlement transforms."
 									]
 								}
 							]
@@ -5369,7 +5369,7 @@
 									"page": 78,
 									"id": "0eb",
 									"entries": [
-										"Restless spirits of the storm giants who died in the Forsaken Deep create a perpetual necrotic storm on the ocean surface above. To stop it, the characters must brave creatures from the {@table Elemental Water Encounters|BGG} and {@book Giant Necropolis Encounters|BGG|3|Giant Necropolis Encounters} tables (see {@book chapter 3|BGG|3}), retrieve the giants' remains from the deep, and inter them in the {@book Ashen Grotto|BGG|4|Ashen Grotto} (in this chapter)."
+										"Restless spirits of the storm giants who died in the Forsaken Deep create a perpetual necrotic storm on the ocean surface above. To stop it, the characters must brave creatures from the {@table Elemental Water Encounters|BGG} and {@area Giant Necropolis Encounters|09a|x} tables (see {@area chapter 3|083|x}), retrieve the giants' remains from the deep, and inter them in the {@area Ashen Grotto|0c5|x} (in this chapter)."
 									]
 								},
 								{
@@ -5378,7 +5378,7 @@
 									"page": 78,
 									"id": "0ec",
 									"entries": [
-										"The lightning archives hold the key to gaining control of the apparatus contained in the {@book Thundering Observatory|BGG|4|Thundering Observatory} (in this chapter). A {@creature death giant reaper|BGG} (see {@book chapter 6|BGG|6|Death Giant Reaper}) claims the deep with minions from the {@book Death Giant Encounters table|BGG|3|Death Giant Encounters} in {@book chapter 3|BGG|3}, but the giant might trade this knowledge if the characters capture a {@creature marid} thief and dispatch the marid's minions from the {@table Elemental Water Encounters|BGG} (see {@book chapter 3|BGG|3})."
+										"The lightning archives hold the key to gaining control of the apparatus contained in the {@area Thundering Observatory|140|x} (in this chapter). A {@creature death giant reaper|BGG} claims the deep with minions from the {@area Death Giant Encounters table|08d|x} in {@area chapter 3|083|x}, but the giant might trade this knowledge if the characters capture a {@creature marid} thief and dispatch the marid's minions from the {@table Elemental Water Encounters|BGG} (see {@area chapter 3|083|x})."
 									]
 								},
 								{
@@ -5387,7 +5387,7 @@
 									"page": 78,
 									"id": "0ed",
 									"entries": [
-										"An {@creature empyrean} daughter of Stronmaus seeks worthy heroes to lead into the Forsaken Deep. She hopes to earn a place at her father's side by proving herself in the depths against her wicked brother and his minions from the {@book Fiendish Incursion Encounters|BGG|3|Fiendish Incursion Encounters} and {@book Storm Giant Encounters|BGG|3|Storm Giant Encounters} tables (see {@book chapter 3|BGG|3}), and she promises Stronmaus's blessing to those who help her."
+										"An {@creature empyrean} daughter of Stronmaus seeks worthy heroes to lead into the Forsaken Deep. She hopes to earn a place at her father's side by proving herself in the depths against her wicked brother and his minions from the {@area Fiendish Incursion Encounters|097|x} and {@area Storm Giant Encounters|093|x} tables (see {@area chapter 3|083|x}), and she promises Stronmaus's blessing to those who help her."
 									]
 								},
 								{
@@ -5396,7 +5396,7 @@
 									"page": 78,
 									"id": "0ee",
 									"entries": [
-										"A shadow-corrupted {@creature kraken} lairs in the deep, steeping in the mingled planar energies there. It menaces ships over its waters, dragging sailors down to become {@creature Shadow||shadows}, {@creature Ghoul||ghouls}, and creatures from the {@table Elemental Water Encounters|BGG} (see {@book chapter 3|BGG|3})."
+										"A shadow-corrupted {@creature kraken} lairs in the deep, steeping in the mingled planar energies there. It menaces ships over its waters, dragging sailors down to become {@creature Shadow||shadows}, {@creature Ghoul||ghouls}, and creatures from the {@table Elemental Water Encounters|BGG} (see {@area chapter 3|083|x})."
 									]
 								}
 							]
@@ -5504,7 +5504,7 @@
 									"page": 80,
 									"id": "0f3",
 									"entries": [
-										"A group of {@creature aarakocra} controls the tower, flying it across the countryside and assaulting servants of the cults of Elemental Evil. They have recruited creatures from the {@table Elemental Air Encounters|BGG} table in {@book chapter 3|BGG|3} to aid their campaign. The aarakocra know a secret method to stabilize the Labyrinth Funnel so it can be used safely as a portal."
+										"A group of {@creature aarakocra} controls the tower, flying it across the countryside and assaulting servants of the cults of Elemental Evil. They have recruited creatures from the {@table Elemental Air Encounters|BGG} table in {@area chapter 3|083|x} to aid their campaign. The aarakocra know a secret method to stabilize the Labyrinth Funnel so it can be used safely as a portal."
 									]
 								},
 								{
@@ -5513,7 +5513,7 @@
 									"page": 80,
 									"id": "0f4",
 									"entries": [
-										"{@creature Frost giant} raiders are subverting the Labyrinth Funnel to connect to the {@book Howling Iceberg|BGG|4|Howling Iceberg} (in this chapter). They manipulate the winds to bring the iceberg to the tower's location, but as a side effect, the perpetual storm grows more intense and ravages the surrounding countryside. Creatures from the {@book Frost Giant Encounters table|BGG|3|Frost Giant Encounters} (see {@book chapter 3|BGG|3}) defend the tower while the giants work."
+										"{@creature Frost giant} raiders are subverting the Labyrinth Funnel to connect to the {@area Howling Iceberg|111|x} (in this chapter). They manipulate the winds to bring the iceberg to the tower's location, but as a side effect, the perpetual storm grows more intense and ravages the surrounding countryside. Creatures from the {@area Frost Giant Encounters table|090|x} (see {@area chapter 3|083|x}) defend the tower while the giants work."
 									]
 								},
 								{
@@ -5522,7 +5522,7 @@
 									"page": 80,
 									"id": "0f5",
 									"entries": [
-										"An {@creature adult silver dragon} took control of the tower when it drifted into her territory, and she is using its power to drive other beings from her domain. Towns in the area desperately call for help as endless storms assail them and an onslaught of creatures from the {@table Elemental Air Encounters|BGG} (see {@book chapter 3|BGG|3}) terrorizes the region."
+										"An {@creature adult silver dragon} took control of the tower when it drifted into her territory, and she is using its power to drive other beings from her domain. Towns in the area desperately call for help as endless storms assail them and an onslaught of creatures from the {@table Elemental Air Encounters|BGG} (see {@area chapter 3|083|x}) terrorizes the region."
 									]
 								},
 								{
@@ -5531,7 +5531,7 @@
 									"page": 80,
 									"id": "0f6",
 									"entries": [
-										"An artifact cursed by the cosmic touch of chaos can be cleansed in the Labyrinth Funnel, thanks to the funnel's connection to Aaqa. But when the artifact is brought into the tower, it temporarily corrupts the Labyrinth Funnel. Demons from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} (see {@book chapter 3|BGG|3}) appear in waves to thwart attempts to cleanse the artifact."
+										"An artifact cursed by the cosmic touch of chaos can be cleansed in the Labyrinth Funnel, thanks to the funnel's connection to Aaqa. But when the artifact is brought into the tower, it temporarily corrupts the Labyrinth Funnel. Demons from the {@area Fiendish Incursion Encounters table|097|x} (see {@area chapter 3|083|x}) appear in waves to thwart attempts to cleanse the artifact."
 									]
 								}
 							]
@@ -5639,7 +5639,7 @@
 									"page": 82,
 									"id": "0fb",
 									"entries": [
-										"A war-torn country's farmland was razed and burned. The farmers need seeds and plant cuttings from Grolantor's Larder to replant their fields, but monsters from the {@book Dinosaur World Encounters|BGG|3|Dinosaur World Encounters} or {@book Megafauna World Encounters table|BGG|3|Megafauna World Encounters} (see {@book chapter 3|BGG|3}) inhabit the grove and view intruders as food."
+										"A war-torn country's farmland was razed and burned. The farmers need seeds and plant cuttings from Grolantor's Larder to replant their fields, but monsters from the {@area Dinosaur World Encounters|095|x} or {@area Megafauna World Encounters table|09b|x} (see {@area chapter 3|083|x}) inhabit the grove and view intruders as food."
 									]
 								},
 								{
@@ -5648,7 +5648,7 @@
 									"page": 82,
 									"id": "0fc",
 									"entries": [
-										"The hill giant leader occupying Grolantor's Larder wants a delicacy from {@book Karontor's Hold|BGG|4|Karontor's Hold} (in this chapter). He uncharacteristically offers to share wondrous food from the larder to anyone who manages to slay an {@creature aboleth} living in flooded tunnels beneath the castle and return with its meat. Creatures from the {@book Fomorian Encounters table|BGG|3|Fomorian Encounters} (see {@book chapter 3|BGG|3}) stand in the adventurers' way."
+										"The hill giant leader occupying Grolantor's Larder wants a delicacy from {@area Karontor's Hold|118|x} (in this chapter). He uncharacteristically offers to share wondrous food from the larder to anyone who manages to slay an {@creature aboleth} living in flooded tunnels beneath the castle and return with its meat. Creatures from the {@area Fomorian Encounters table|08f|x} (see {@area chapter 3|083|x}) stand in the adventurers' way."
 									]
 								},
 								{
@@ -5657,7 +5657,7 @@
 									"page": 82,
 									"id": "0fd",
 									"entries": [
-										"{@creature Hill giant} cultists led by a {@creature maw of Yeenoghu|BGG} (see {@book chapter 6|BGG|6|Maw of Yeenoghu}) raid settlements close to the grove, capturing townsfolk to be the main course in a massive feast ritual. Giants, {@creature Gnoll||gnolls} and creatures from the {@book Hill Giant Encounters table|BGG|3|Hill Giant Encounters} (see {@book chapter 3|BGG|3}) stand between the captives and freedom."
+										"{@creature Hill giant} cultists led by a {@creature maw of Yeenoghu|BGG} (see {@area chapter 6|18a|x}) raid settlements close to the grove, capturing townsfolk to be the main course in a massive feast ritual. Giants, {@creature Gnoll||gnolls} and creatures from the {@area Hill Giant Encounters table|091|x} (see {@area chapter 3|083|x}) stand between the captives and freedom."
 									]
 								},
 								{
@@ -5666,7 +5666,7 @@
 									"page": 82,
 									"id": "0fe",
 									"entries": [
-										"The characters travel with refugees fleeing from disaster. The survivors are exhausted and starving when they stumble upon the grove. The {@creature unicorn} who watches the grove and her {@creature centaur} subjects will shelter the refugees if the characters agree to slay a nearby pride of {@creature Displacer Beast||displacer beasts} and creatures from the {@table Elemental Earth Encounters|BGG} table (see {@book chapter 3|BGG|3})."
+										"The characters travel with refugees fleeing from disaster. The survivors are exhausted and starving when they stumble upon the grove. The {@creature unicorn} who watches the grove and her {@creature centaur} subjects will shelter the refugees if the characters agree to slay a nearby pride of {@creature Displacer Beast||displacer beasts} and creatures from the {@table Elemental Earth Encounters|BGG} table (see {@area chapter 3|083|x})."
 									]
 								},
 								{
@@ -5675,7 +5675,7 @@
 									"page": 82,
 									"id": "0ff",
 									"entries": [
-										"A noble seeks adventurers to find and return her son, who vanished while traveling. His route passed by Grolantor's Larder, where the missing man became entranced by the sumptuous feast. {@creature Satyr||Satyrs} and creatures from the {@book Cloud Giant Encounters table|BGG|3|Cloud Giant Encounters} in {@book chapter 3|BGG|3} entice the characters to join the feast permanently."
+										"A noble seeks adventurers to find and return her son, who vanished while traveling. His route passed by Grolantor's Larder, where the missing man became entranced by the sumptuous feast. {@creature Satyr||Satyrs} and creatures from the {@area Cloud Giant Encounters table|08c|x} in {@area chapter 3|083|x} entice the characters to join the feast permanently."
 									]
 								}
 							]
@@ -5810,7 +5810,7 @@
 									"page": 84,
 									"id": "104",
 									"entries": [
-										"An {@creature efreeti} who claimed the throne has fought off several attempts to wrest Hiatea's Hearth away. In studying the hall's history, the efreeti realized the truth of the hall's curse. She is desperate to escape her fate and offers a handsome reward, including a suit of {@item Armor of Fire Resistance||plate armor of resistance (fire)}, to anyone who helps her survive the impending assault of creatures from the {@book Storm Giant Encounters table|BGG|3|Storm Giant Encounters} in {@book chapter 3|BGG|3}."
+										"An {@creature efreeti} who claimed the throne has fought off several attempts to wrest Hiatea's Hearth away. In studying the hall's history, the efreeti realized the truth of the hall's curse. She is desperate to escape her fate and offers a handsome reward, including a suit of {@item Armor of Fire Resistance||plate armor of resistance (fire)}, to anyone who helps her survive the impending assault of creatures from the {@area Storm Giant Encounters table|093|x} in {@area chapter 3|083|x}."
 									]
 								},
 								{
@@ -5819,7 +5819,7 @@
 									"page": 84,
 									"id": "105",
 									"entries": [
-										"Creatures from the {@book Giant Kin Encounters table|BGG|3|Giant Kin Encounters} (see {@book chapter 3|BGG|3}) have taken control of the hall but are plagued by restless spirits. The {@creature Ghost||ghosts} and {@creature Wraith||wraiths} of defeated foes, along with creatures from the {@book Giant Necropolis Encounters table|BGG|3|Giant Necropolis Encounters} (see {@book chapter 3|BGG|3}), refuse to rest in peace."
+										"Creatures from the {@area Giant Kin Encounters table|099|x} (see {@area chapter 3|083|x}) have taken control of the hall but are plagued by restless spirits. The {@creature Ghost||ghosts} and {@creature Wraith||wraiths} of defeated foes, along with creatures from the {@area Giant Necropolis Encounters table|09a|x} (see {@area chapter 3|083|x}), refuse to rest in peace."
 									]
 								},
 								{
@@ -5828,7 +5828,7 @@
 									"page": 84,
 									"id": "106",
 									"entries": [
-										"Two rival factions of giant kin vie to claim the throne. An {@creature ettin} and a {@creature fensir skirmisher|BGG} each entice the characters to side with them and their followers from the {@book Giant Kin Encounters table|BGG|3|Giant Kin Encounters} (see {@book chapter 3|BGG|3}) to break the stalemate, offering treasure and aid in the characters' endeavors."
+										"Two rival factions of giant kin vie to claim the throne. An {@creature ettin} and a {@creature fensir skirmisher|BGG} each entice the characters to side with them and their followers from the {@area Giant Kin Encounters table|099|x} (see {@area chapter 3|083|x}) to break the stalemate, offering treasure and aid in the characters' endeavors."
 									]
 								},
 								{
@@ -5837,7 +5837,7 @@
 									"page": 84,
 									"id": "107",
 									"entries": [
-										"A {@creature bone devil} knows the power of Hiatea's Hearth and is tempting a {@creature fire giant} to claim the throne, but the giant's wife knows the throne's curse will mean her love's certain doom. She begs adventurers to help her thwart the devil's designs, because she can't take on the devil's minions (from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} in {@book chapter 3|BGG|3}) alone."
+										"A {@creature bone devil} knows the power of Hiatea's Hearth and is tempting a {@creature fire giant} to claim the throne, but the giant's wife knows the throne's curse will mean her love's certain doom. She begs adventurers to help her thwart the devil's designs, because she can't take on the devil's minions (from the {@area Fiendish Incursion Encounters table|097|x} in {@area chapter 3|083|x}) alone."
 									]
 								},
 								{
@@ -5846,7 +5846,7 @@
 									"page": 84,
 									"id": "108",
 									"entries": [
-										"The {@creature stone giant} thane who controls Hiatea's Hearth fears their dynasty ending and seeks an alliance with the giants at the {@book Endless Rockslide|BGG|4|Endless Rockslide} (in this chapter), but the giants there are plotting the thane's downfall. Choose any of the {@book encounter tables|BGG|3|Encounters} in {@book chapter 3|BGG|3} to determine who controls the Endless Rockslide."
+										"The {@creature stone giant} thane who controls Hiatea's Hearth fears their dynasty ending and seeks an alliance with the giants at the {@area Endless Rockslide|0d6|x} (in this chapter), but the giants there are plotting the thane's downfall. Choose any of the {@area encounter tables|084|x} in {@area chapter 3|083|x} to determine who controls the Endless Rockslide."
 									]
 								}
 							]
@@ -5952,7 +5952,7 @@
 									"page": 86,
 									"id": "10e",
 									"entries": [
-										"Archaeologists hire the characters to help operate a {@item Horizon puzzle cube|BGG} (see the \"{@area Entering Horizon's Edge|10c|x}\" sidebar) and protect them from any hazards in the demiplane. Creatures from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} in {@book chapter 3|BGG|3} are trapped in the realm and attack the expedition, seeking a means of escape."
+										"Archaeologists hire the characters to help operate a {@item Horizon puzzle cube|BGG} (see the \"{@area Entering Horizon's Edge|10c|x}\" sidebar) and protect them from any hazards in the demiplane. Creatures from the {@area Fiendish Incursion Encounters table|097|x} in {@area chapter 3|083|x} are trapped in the realm and attack the expedition, seeking a means of escape."
 									]
 								},
 								{
@@ -5961,7 +5961,7 @@
 									"page": 86,
 									"id": "10f",
 									"entries": [
-										"Pieces of a broken magic item found in the demiplane and guarded by creatures from the {@book Giant Construct Encounters table|BGG|3|Giant Construct Encounters} (see {@book chapter 3|BGG|3}) still hold lingering traces of magic. Every attempt to repair the item fails. A platinum tablet refers to the {@book Star Forge|BGG|4|Star Forge} (in this chapter) as the place where the item was created and suggests the forge is the only place it can be repaired."
+										"Pieces of a broken magic item found in the demiplane and guarded by creatures from the {@area Giant Construct Encounters table|098|x} (see {@area chapter 3|083|x}) still hold lingering traces of magic. Every attempt to repair the item fails. A platinum tablet refers to the {@area Star Forge|137|x} (in this chapter) as the place where the item was created and suggests the forge is the only place it can be repaired."
 									]
 								},
 								{
@@ -5970,7 +5970,7 @@
 									"page": 86,
 									"id": "110",
 									"entries": [
-										"A storm giant learned the ancient giants' empire collapsed due to demonic corruption, and she vowed to destroy every remnant of that corruption. She offers fantastic rewards to heroes who will venture to Horizon's Edge and rid it of creatures from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} in {@book chapter 3|BGG|3}."
+										"A storm giant learned the ancient giants' empire collapsed due to demonic corruption, and she vowed to destroy every remnant of that corruption. She offers fantastic rewards to heroes who will venture to Horizon's Edge and rid it of creatures from the {@area Fiendish Incursion Encounters table|097|x} in {@area chapter 3|083|x}."
 									]
 								}
 							]
@@ -6137,7 +6137,7 @@
 									"page": 88,
 									"id": "115",
 									"entries": [
-										"A horde of {@creature merrow} and {@creature sahuagin} use the iceberg to raid coastal settlements and shipping lanes, commanding creatures from the {@table Elemental Air Encounters|BGG} and {@table Elemental Water Encounters|BGG} tables in {@book chapter 3|BGG|3}."
+										"A horde of {@creature merrow} and {@creature sahuagin} use the iceberg to raid coastal settlements and shipping lanes, commanding creatures from the {@table Elemental Air Encounters|BGG} and {@table Elemental Water Encounters|BGG} tables in {@area chapter 3|083|x}."
 									]
 								},
 								{
@@ -6146,7 +6146,7 @@
 									"page": 88,
 									"id": "116",
 									"entries": [
-										"A pair of {@creature Remorhaz||remorhazes} and creatures from the {@book Frost Giant Encounters table|BGG|3|Frost Giant Encounters} leave the iceberg when it drifts ashore, hunting local animals and people. They drag many captives to the iceberg to store for future meals."
+										"A pair of {@creature Remorhaz||remorhazes} and creatures from the {@area Frost Giant Encounters table|090|x} leave the iceberg when it drifts ashore, hunting local animals and people. They drag many captives to the iceberg to store for future meals."
 									]
 								},
 								{
@@ -6155,7 +6155,7 @@
 									"page": 88,
 									"id": "117",
 									"entries": [
-										"A {@creature death slaad} leading other slaadi emerges from the portal to Pandemonium. Along with creatures from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} (see {@book chapter 3|BGG|3}), all driven wild by the winds, they maraud nearby settlements."
+										"A {@creature death slaad} leading other slaadi emerges from the portal to Pandemonium. Along with creatures from the {@area Fiendish Incursion Encounters table|097|x} (see {@area chapter 3|083|x}), all driven wild by the winds, they maraud nearby settlements."
 									]
 								}
 							]
@@ -6289,7 +6289,7 @@
 									"page": 90,
 									"id": "11c",
 									"entries": [
-										"A {@creature fomorian deep crawler|BGG} lurking in the hold has designs on the {@book Forest Crystal|BGG|4|Forest Crystal} (in this chapter), seeking to corrupt it and use its magic to spread the Far Realm intrusion. While some of its minions\u2014creatures from the {@book Fomorian Encounters table|BGG|3|Fomorian Encounters} (see {@book chapter 3|BGG|3})\u2014defend Karontor's Hold, others carry cursed objects into the forest to infuse their corruption into the crystal. If these minions are successful, the Forest Crystal becomes an extension of the Far Realm's intrusion."
+										"A {@creature fomorian deep crawler|BGG} lurking in the hold has designs on the {@area Forest Crystal|0df|x} (in this chapter), seeking to corrupt it and use its magic to spread the Far Realm intrusion. While some of its minions\u2014creatures from the {@area Fomorian Encounters table|08f|x} (see {@area chapter 3|083|x})\u2014defend Karontor's Hold, others carry cursed objects into the forest to infuse their corruption into the crystal. If these minions are successful, the Forest Crystal becomes an extension of the Far Realm's intrusion."
 									]
 								},
 								{
@@ -6298,7 +6298,7 @@
 									"page": 90,
 									"id": "11d",
 									"entries": [
-										"A {@creature storm giant} who sought to cleanse the Far Realm corruption from the keep has succumbed to the corruption and now gathers creatures from the {@book Giant Kin Encounters table|BGG|3|Giant Kin Encounters} in {@book chapter 3|BGG|3} to unleash on surrounding settlements. The giant can be cleansed of Far Realm influence by the {@spell remove curse} or {@spell greater restoration} spell, but only if the spell is cast while the giant has the {@condition incapacitated} condition and the caster succeeds on a {@dc 20} ability check using the caster's spellcasting ability."
+										"A {@creature storm giant} who sought to cleanse the Far Realm corruption from the keep has succumbed to the corruption and now gathers creatures from the {@area Giant Kin Encounters table|099|x} in {@area chapter 3|083|x} to unleash on surrounding settlements. The giant can be cleansed of Far Realm influence by the {@spell remove curse} or {@spell greater restoration} spell, but only if the spell is cast while the giant has the {@condition incapacitated} condition and the caster succeeds on a {@dc 20} ability check using the caster's spellcasting ability."
 									]
 								},
 								{
@@ -6307,7 +6307,7 @@
 									"page": 90,
 									"id": "11e",
 									"entries": [
-										"A colony of {@creature Mind Flayer||mind flayers} flooded the well room with brine, and they are collecting brains to feed a nascent {@creature elder brain|MPMM}. They send dominated creatures from the {@book Hill Giant Encounters table|BGG|3|Hill Giant Encounters} in {@book chapter 3|BGG|3} to fetch victims. An ally of the characters survives the assault and asks the characters for help."
+										"A colony of {@creature Mind Flayer||mind flayers} flooded the well room with brine, and they are collecting brains to feed a nascent {@creature elder brain|MPMM}. They send dominated creatures from the {@area Hill Giant Encounters table|091|x} in {@area chapter 3|083|x} to fetch victims. An ally of the characters survives the assault and asks the characters for help."
 									]
 								}
 							]
@@ -6390,7 +6390,7 @@
 										{
 											"type": "item",
 											"name": "Guardian",
-											"entry": "A creature known as \"the guardian\" is the only being that can control the Misty Vale's movements and connections among worlds. The guardian's exact form is unknown and changes from encounter to encounter, but its alignment is always chaotic neutral, its Intelligence is at least 16, and it speaks both Common and Giant. You can roll on any {@book encounter table|BGG|3|Encounters} in {@book chapter 3|BGG|3} to determine the guardian's current form. If the guardian dies, it re-forms in a new guise at the next dawn. A creature can convince the guardian to grant safe passage to virtually any location on the Material Plane by one of three methods: answering a riddle posed by the guardian, offering a valuable gift such as a magic item or a secret to the guardian, or verbal argument. The last option requires a successful {@dc 25} Charisma ({@skill Persuasion}) check."
+											"entry": "A creature known as \"the guardian\" is the only being that can control the Misty Vale's movements and connections among worlds. The guardian's exact form is unknown and changes from encounter to encounter, but its alignment is always chaotic neutral, its Intelligence is at least 16, and it speaks both Common and Giant. You can roll on any {@area encounter table|084|x} in {@area chapter 3|083|x} to determine the guardian's current form. If the guardian dies, it re-forms in a new guise at the next dawn. A creature can convince the guardian to grant safe passage to virtually any location on the Material Plane by one of three methods: answering a riddle posed by the guardian, offering a valuable gift such as a magic item or a secret to the guardian, or verbal argument. The last option requires a successful {@dc 25} Charisma ({@skill Persuasion}) check."
 										},
 										{
 											"type": "item",
@@ -6419,7 +6419,7 @@
 									"page": 92,
 									"id": "123",
 									"entries": [
-										"A community of {@creature Commoner||commoners} living in the vale offers the characters hospitality, perhaps while the characters are traveling and lost in fog. If the characters spend the night in the village, they find the valley connected to a different place in the morning, and the villagers have transformed into murderous creatures from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} in {@book chapter 3|BGG|3}."
+										"A community of {@creature Commoner||commoners} living in the vale offers the characters hospitality, perhaps while the characters are traveling and lost in fog. If the characters spend the night in the village, they find the valley connected to a different place in the morning, and the villagers have transformed into murderous creatures from the {@area Fiendish Incursion Encounters table|097|x} in {@area chapter 3|083|x}."
 									]
 								},
 								{
@@ -6428,7 +6428,7 @@
 									"page": 92,
 									"id": "124",
 									"entries": [
-										"The guardian of the vale (appearing as an {@creature androsphinx}) demands a golden apple from {@book Grolantor's Larder|BGG|4|Grolantor's Larder} (in this chapter) in exchange for safe passage to a destination of the characters' choice. At the larder, a {@creature hill giant avalancher|BGG} (see {@book chapter 6|BGG|6|Hill Giant Avalancher}) hoards three golden apples, which act as {@item Potion of Heroism||potions of heroism}, and leads a band from the {@book Hill Giant Encounters table|BGG|3|Hill Giant Encounters} in {@book chapter 3|BGG|3}."
+										"The guardian of the vale (appearing as an {@creature androsphinx}) demands a golden apple from {@area Grolantor's Larder|0f7|x} (in this chapter) in exchange for safe passage to a destination of the characters' choice. At the larder, a {@creature hill giant avalancher|BGG} (see {@area chapter 6|188|x}) hoards three golden apples, which act as {@item Potion of Heroism||potions of heroism}, and leads a band from the {@area Hill Giant Encounters table|091|x} in {@area chapter 3|083|x}."
 									]
 								},
 								{
@@ -6437,7 +6437,7 @@
 									"page": 92,
 									"id": "125",
 									"entries": [
-										"Hill giant raiders stumbled into answering the guardian's riddle by coincidentally having the answer in one of their bags\u2014a live sheep\u2014and they now raid targets through the valley's mists. Creatures from the {@book Hill Giant Encounters table|BGG|3|Hill Giant Encounters} (see {@book chapter 3|BGG|3}) appear in places they shouldn't, raid for food and treasure, and then vanish into the valley."
+										"Hill giant raiders stumbled into answering the guardian's riddle by coincidentally having the answer in one of their bags\u2014a live sheep\u2014and they now raid targets through the valley's mists. Creatures from the {@area Hill Giant Encounters table|091|x} (see {@area chapter 3|083|x}) appear in places they shouldn't, raid for food and treasure, and then vanish into the valley."
 									]
 								}
 							]
@@ -6549,7 +6549,7 @@
 									"page": 94,
 									"id": "12b",
 									"entries": [
-										"Creatures from another world appear in the circle during a stellar conjunction, then attack the surrounding area. The invaders might be creatures from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} or {@book Dinosaur World Encounters table|BGG|3|Dinosaur World Encounters} in {@book chapter 3|BGG|3}, or they could be other creatures of your choice. Waves of invaders appear throughout the night, unless the characters can activate the proper sequences of runes and star carvings to sever the invaders' connection to the circle."
+										"Creatures from another world appear in the circle during a stellar conjunction, then attack the surrounding area. The invaders might be creatures from the {@area Fiendish Incursion Encounters table|097|x} or {@area Dinosaur World Encounters table|095|x} in {@area chapter 3|083|x}, or they could be other creatures of your choice. Waves of invaders appear throughout the night, unless the characters can activate the proper sequences of runes and star carvings to sever the invaders' connection to the circle."
 									]
 								},
 								{
@@ -6558,7 +6558,7 @@
 									"page": 94,
 									"id": "12c",
 									"entries": [
-										"Characters in search of a crucial secret at the circle find the sequence of star charts they need is damaged. The only place the charts still exist is in the {@book Forsaken Deep|BGG|4|Forsaken Deep} (in this chapter), in recorded storm giant prophecies. {@creature Mind Flayer||Mind flayers} and their dominated minions from the {@book Fomorian Encounters table|BGG|3|Fomorian Encounters} (see {@book chapter 3|BGG|3}) race the characters to the prize."
+										"Characters in search of a crucial secret at the circle find the sequence of star charts they need is damaged. The only place the charts still exist is in the {@area Forsaken Deep|0e7|x} (in this chapter), in recorded storm giant prophecies. {@creature Mind Flayer||Mind flayers} and their dominated minions from the {@area Fomorian Encounters table|08f|x} (see {@area chapter 3|083|x}) race the characters to the prize."
 									]
 								},
 								{
@@ -6567,7 +6567,7 @@
 									"page": 94,
 									"id": "12d",
 									"entries": [
-										"A {@creature fire giant} shipwright is studying the records in the circle with her apprentices and minions from the {@book Fire Giant Encounters table|BGG|3|Fire Giant Encounters} (see {@book chapter 3|BGG|3}), puzzling out the secret of creating the flying ships used by the civilization that built the circle. She demands tribute in the form of magical metal treasure to allow the characters to access the circle. She also accepts a fragment from the core of a supposedly inert {@creature runic colossus|BGG} (see {@book chapter 6|BGG|6|Runic Colossus})."
+										"A {@creature fire giant} shipwright is studying the records in the circle with her apprentices and minions from the {@area Fire Giant Encounters table|08e|x} (see {@area chapter 3|083|x}), puzzling out the secret of creating the flying ships used by the civilization that built the circle. She demands tribute in the form of magical metal treasure to allow the characters to access the circle. She also accepts a fragment from the core of a supposedly inert {@creature runic colossus|BGG} (see {@area chapter 6|18e|x})."
 									]
 								}
 							]
@@ -6581,7 +6581,7 @@
 					"id": "12e",
 					"entries": [
 						"A patch of glittering, powdered crystal melodically chimes as the desert wind blows it in small, rolling dunes. The Singing Sands shine like diamonds in the harsh desert sun, soaking up light and heat as their lonely song echoes through the wastes. At night the song goes quiet, and the sands rise into a solid memory of a simple, giant-created fort.",
-						"The Singing Sands were once a single object, a massive crystal created by a lost empire of giants (similar to the {@book Forest Crystal|BGG|4|Forest Crystal} in this chapter). The crystal's function is lost to time, but it was part of a network of such devices and was protected by a small fortress. The sand takes on the fortress' shape at night, crystallizing into the memory of its former home.",
+						"The Singing Sands were once a single object, a massive crystal created by a lost empire of giants (similar to the {@area Forest Crystal|0df|x} in this chapter). The crystal's function is lost to time, but it was part of a network of such devices and was protected by a small fortress. The sand takes on the fortress' shape at night, crystallizing into the memory of its former home.",
 						{
 							"type": "quote",
 							"entries": [
@@ -6668,7 +6668,7 @@
 									"page": 96,
 									"id": "132",
 									"entries": [
-										"{@creature Goliath giant-kin|BGG} escort a nervous {@creature stone giant rockspeaker|BGG} (both in {@book chapter 6|BGG|6}) who needs to commune with his dreams within the crystal sand fortress at night. While he does, creatures from the {@book Fiendish Incursion Encounters|BGG|3|Fiendish Incursion Encounters} and {@table Elemental Earth Encounters|BGG} tables in {@book chapter 3|BGG|3} manifest from the sand and attack."
+										"{@creature Goliath giant-kin|BGG} escort a nervous {@creature stone giant rockspeaker|BGG} (both in {@area chapter 6|1aa|x}) who needs to commune with his dreams within the crystal sand fortress at night. While he does, creatures from the {@area Fiendish Incursion Encounters|097|x} and {@table Elemental Earth Encounters|BGG} tables in {@area chapter 3|083|x} manifest from the sand and attack."
 									]
 								},
 								{
@@ -6677,7 +6677,7 @@
 									"page": 96,
 									"id": "133",
 									"entries": [
-										"A flock of {@creature Giant Vulture||giant vultures} follows the Singing Sands through the day, circling over creatures who investigate it. After dark, creatures from the {@book Giant Necropolis Encounters table|BGG|3|Giant Necropolis Encounters} (see {@book chapter 3|BGG|3}) burst from the sand and attack anyone in the fortress. The vultures pick off stragglers and feast on the fallen. The creatures that emerge from the sand come from a lost city that holds an intact crystal like the one the Singing Sands once was, and the magical connection between the crystals endures."
+										"A flock of {@creature Giant Vulture||giant vultures} follows the Singing Sands through the day, circling over creatures who investigate it. After dark, creatures from the {@area Giant Necropolis Encounters table|09a|x} (see {@area chapter 3|083|x}) burst from the sand and attack anyone in the fortress. The vultures pick off stragglers and feast on the fallen. The creatures that emerge from the sand come from a lost city that holds an intact crystal like the one the Singing Sands once was, and the magical connection between the crystals endures."
 									]
 								},
 								{
@@ -6686,7 +6686,7 @@
 									"page": 96,
 									"id": "134",
 									"entries": [
-										"Settlements along a fertile river in the desert are attacked by {@creature Purple Worm||purple worms} made of crystalline sand. Tales told by the locals lead to the Singing Sands, where hostile creatures from the {@book Megafauna World Encounters tables|BGG|3|Megafauna World Encounters} (see {@book chapter 3|BGG|3}) appear, but the creatures are made of sand."
+										"Settlements along a fertile river in the desert are attacked by {@creature Purple Worm||purple worms} made of crystalline sand. Tales told by the locals lead to the Singing Sands, where hostile creatures from the {@area Megafauna World Encounters tables|09b|x} (see {@area chapter 3|083|x}) appear, but the creatures are made of sand."
 									]
 								},
 								{
@@ -6704,7 +6704,7 @@
 									"page": 96,
 									"id": "136",
 									"entries": [
-										"A {@creature cloud giant} in an airship seeks the Singing Sands, claiming the desert was once the seat of a powerful empire of giants. The giant wants the characters to distract creatures from the {@table Elemental Fire Encounters|BGG} (see {@book chapter 3|BGG|3}) defending the sand. The giant hopes to use the sand to create a compass to locate {@book Gale's Eye Tower|BGG|4|Gale's Eye Tower} (in this chapter)."
+										"A {@creature cloud giant} in an airship seeks the Singing Sands, claiming the desert was once the seat of a powerful empire of giants. The giant wants the characters to distract creatures from the {@table Elemental Fire Encounters|BGG} (see {@area chapter 3|083|x}) defending the sand. The giant hopes to use the sand to create a compass to locate {@area Gale's Eye Tower|0ef|x} (in this chapter)."
 									]
 								}
 							]
@@ -6833,7 +6833,7 @@
 									"page": 98,
 									"id": "13b",
 									"entries": [
-										"Thieves damaged the Giant runes stabilizing the Star Forge, and the fallen star at the forge's heart is regaining its former magnitude. As the star's power grows, frequent earthquakes release creatures from the {@table Elemental Earth Encounters|BGG} and {@table Elemental Fire Encounters|BGG} tables (see {@book chapter 3|BGG|3}) into the surrounding area. Unless the runes are repaired, the star threatens to consume the region\u2014or perhaps the whole world."
+										"Thieves damaged the Giant runes stabilizing the Star Forge, and the fallen star at the forge's heart is regaining its former magnitude. As the star's power grows, frequent earthquakes release creatures from the {@table Elemental Earth Encounters|BGG} and {@table Elemental Fire Encounters|BGG} tables (see {@area chapter 3|083|x}) into the surrounding area. Unless the runes are repaired, the star threatens to consume the region\u2014or perhaps the whole world."
 									]
 								},
 								{
@@ -6842,7 +6842,7 @@
 									"page": 98,
 									"id": "13c",
 									"entries": [
-										"A dwarf smith hopes to use the Star Forge to create a crown that will end a war of succession in their clan, but they need protection to reach the forge and finish their work. The forge is protected by an {@creature iron golem} fueled by radiant energy and other creatures from the {@book Giant Construct Encounters table|BGG|3|Giant Construct Encounters} in {@book chapter 3|BGG|3}."
+										"A dwarf smith hopes to use the Star Forge to create a crown that will end a war of succession in their clan, but they need protection to reach the forge and finish their work. The forge is protected by an {@creature iron golem} fueled by radiant energy and other creatures from the {@area Giant Construct Encounters table|098|x} in {@area chapter 3|083|x}."
 									]
 								},
 								{
@@ -6851,7 +6851,7 @@
 									"page": 98,
 									"id": "13d",
 									"entries": [
-										"A voice whispers into a character's dreams, leading the character toward the Star Forge. The voice offers instructions for creating a fantastic magic item, but creatures from the {@book Giant Necropolis Encounters table|BGG|3|Giant Necropolis Encounters} (see {@book chapter 3|BGG|3}) desperately oppose the work."
+										"A voice whispers into a character's dreams, leading the character toward the Star Forge. The voice offers instructions for creating a fantastic magic item, but creatures from the {@area Giant Necropolis Encounters table|09a|x} (see {@area chapter 3|083|x}) desperately oppose the work."
 									]
 								},
 								{
@@ -6860,7 +6860,7 @@
 									"page": 98,
 									"id": "13e",
 									"entries": [
-										"A {@creature fire giant} forge master is close to creating their greatest work, a {@creature runic colossus|BGG} (see {@book chapter 6|BGG|6|Runic Colossus}), but they lack a crucial component. If the characters find the {@book Singing Sands|BGG|4|Singing Sands} (in this chapter), evade or destroy the sand's guardians from the {@book Giant Construct Encounters table|BGG|3|Giant Construct Encounters} (see {@book chapter 3|BGG|3}), and fill a vial with the magical sand, the giant helps them create a sentient magic item."
+										"A {@creature fire giant} forge master is close to creating their greatest work, a {@creature runic colossus|BGG} (see {@area chapter 6|18e|x}), but they lack a crucial component. If the characters find the {@area Singing Sands|12e|x} (in this chapter), evade or destroy the sand's guardians from the {@area Giant Construct Encounters table|098|x} (see {@area chapter 3|083|x}), and fill a vial with the magical sand, the giant helps them create a sentient magic item."
 									]
 								},
 								{
@@ -6869,7 +6869,7 @@
 									"page": 98,
 									"id": "13f",
 									"entries": [
-										"An {@creature azer} begs the characters for help. Other azers at the Star Forge are forced to work for an {@creature aboleth} that claims to be a scion of a living star, Hadar the Dark Hunger. The azers' work supplies the aboleth's minions from the {@book Fomorian Encounters table|BGG|3|Fomorian Encounters} (see {@book chapter 3|BGG|3}) with formidable weapons and armor."
+										"An {@creature azer} begs the characters for help. Other azers at the Star Forge are forced to work for an {@creature aboleth} that claims to be a scion of a living star, Hadar the Dark Hunger. The azers' work supplies the aboleth's minions from the {@area Fomorian Encounters table|08f|x} (see {@area chapter 3|083|x}) with formidable weapons and armor."
 									]
 								}
 							]
@@ -6967,7 +6967,7 @@
 									"page": 100,
 									"id": "144",
 									"entries": [
-										"Factions consisting of creatures from the {@book encounter tables|BGG|3|Giantkind Encounters} for two kinds of giants in {@book chapter 3|BGG|3} have damaged the observatory in their struggle for control of the site, and its energy is building toward an overload. To stop the imminent explosion, the characters must negotiate with or get through the fighting creatures to repair the control console."
+										"Factions consisting of creatures from the {@area encounter tables|08a|x} for two kinds of giants in {@area chapter 3|083|x} have damaged the observatory in their struggle for control of the site, and its energy is building toward an overload. To stop the imminent explosion, the characters must negotiate with or get through the fighting creatures to repair the control console."
 									]
 								},
 								{
@@ -6976,7 +6976,7 @@
 									"page": 100,
 									"id": "145",
 									"entries": [
-										"{@creature Goliath giant-kin|BGG} (see {@book chapter 6|BGG|6|Goliath Giant-Kin}) who live on one of the nearby mountains are at war with creatures from the {@book Giant Kin Encounters table|BGG|3|Giant Kin Encounters} in {@book chapter 3|BGG|3}. On the brink of destruction, the goliaths hope the observatory they have seen from afar can tip the scales in their favor, and they hire adventurers to secure it."
+										"{@creature Goliath giant-kin|BGG} (see {@area chapter 6|186|x}) who live on one of the nearby mountains are at war with creatures from the {@area Giant Kin Encounters table|099|x} in {@area chapter 3|083|x}. On the brink of destruction, the goliaths hope the observatory they have seen from afar can tip the scales in their favor, and they hire adventurers to secure it."
 									]
 								},
 								{
@@ -6985,7 +6985,7 @@
 									"page": 100,
 									"id": "146",
 									"entries": [
-										"A {@creature storm giant} offers the characters a stunning reward if the characters can use the {@book Star Forge|BGG|4|Star Forge} (in this chapter) to build him a machine component. Once they do, an {@creature adult gold dragon} warns them the giant intends to use the component to activate the Thundering Observatory as a doomsday weapon."
+										"A {@creature storm giant} offers the characters a stunning reward if the characters can use the {@area Star Forge|137|x} (in this chapter) to build him a machine component. Once they do, an {@creature adult gold dragon} warns them the giant intends to use the component to activate the Thundering Observatory as a doomsday weapon."
 									]
 								},
 								{
@@ -6994,7 +6994,7 @@
 									"page": 100,
 									"id": "147",
 									"entries": [
-										"A {@creature frost giant} plans to use the observatory's Death Ray to destroy her rivals in {@book Hiatea's Hearth|BGG|4|Hiatea's Hearth} (in this chapter). The current ruler of Hiatea's Hearth has learned of the giant's plan and implores the characters to thwart it. Creatures from the {@book Frost Giant Encounters|BGG|3|Frost Giant Encounters} and {@table Elemental Air Encounters|BGG} tables (see {@book chapter 3|BGG|3}) defend the observatory."
+										"A {@creature frost giant} plans to use the observatory's Death Ray to destroy her rivals in {@area Hiatea's Hearth|100|x} (in this chapter). The current ruler of Hiatea's Hearth has learned of the giant's plan and implores the characters to thwart it. Creatures from the {@area Frost Giant Encounters|090|x} and {@table Elemental Air Encounters|BGG} tables (see {@area chapter 3|083|x}) defend the observatory."
 									]
 								},
 								{
@@ -7003,7 +7003,7 @@
 									"page": 100,
 									"id": "148",
 									"entries": [
-										"A rock gnome {@creature mage} has pieced together accounts from ancient sites leading to the observatory. Creatures from the {@book Giant Construct Encounters table|BGG|3|Giant Construct Encounters} in {@book chapter 3|BGG|3}, fueled by magical lightning, deny entrance to the turret when the characters escort the gnome there to study."
+										"A rock gnome {@creature mage} has pieced together accounts from ancient sites leading to the observatory. Creatures from the {@area Giant Construct Encounters table|098|x} in {@area chapter 3|083|x}, fueled by magical lightning, deny entrance to the turret when the characters escort the gnome there to study."
 									]
 								}
 							]
@@ -7017,7 +7017,7 @@
 					"id": "149",
 					"entries": [
 						"In a remote corner of the world, immense, thorny tree roots twist across the barren ground. In the center of this desolate tangle, an enormous sapling gleams with the green of fresh growth, clearly a young tree despite its prodigious size. This is the Worldroot Sapling, a spark of defiant life amid the remnants of dead plants and ashen ground.",
-						"The sapling is a seedling from the world tree Yggdrasil, planted and nurtured by an enigmatic group of giants called the Worldroot Circle (described in {@book chapter 2|BGG|2|Worldroot Circle}). Some tales speak of the world tree stretching through every plane and world of the multiverse, while others say wicked dragons long ago gnawed on and poisoned the great tree. Whatever the fate of Yggdrasil, the Worldroot Sapling stands as a symbol of hope and the perseverance of life. The life energy of the sapling suffuses the ground in the clearing, and the light it sheds soothes weariness and eases pain.",
+						"The sapling is a seedling from the world tree Yggdrasil, planted and nurtured by an enigmatic group of giants called the Worldroot Circle (described in {@area chapter 2|081|x}). Some tales speak of the world tree stretching through every plane and world of the multiverse, while others say wicked dragons long ago gnawed on and poisoned the great tree. Whatever the fate of Yggdrasil, the Worldroot Sapling stands as a symbol of hope and the perseverance of life. The life energy of the sapling suffuses the ground in the clearing, and the light it sheds soothes weariness and eases pain.",
 						{
 							"type": "entries",
 							"name": "Worldroot Sapling Features",
@@ -7105,7 +7105,7 @@
 									"page": 102,
 									"id": "14d",
 									"entries": [
-										"Cloud giants of the Worldroot Circle defend the sapling against ravenous Undead who wish to feed on the tree's life energy. The giants send an urgent, magical call for help. {@creature Wraith||Wraiths}, {@creature vampire spawn}, and creatures from the {@book Giant Necropolis Encounters table|BGG|3|Giant Necropolis Encounters} in {@book chapter 3|BGG|3} assault the sapling."
+										"Cloud giants of the Worldroot Circle defend the sapling against ravenous Undead who wish to feed on the tree's life energy. The giants send an urgent, magical call for help. {@creature Wraith||Wraiths}, {@creature vampire spawn}, and creatures from the {@area Giant Necropolis Encounters table|09a|x} in {@area chapter 3|083|x} assault the sapling."
 									]
 								},
 								{
@@ -7114,7 +7114,7 @@
 									"page": 102,
 									"id": "14e",
 									"entries": [
-										"A venerable sage is desperate to escape the looming threat of death. Becoming Undead is odious to them, and their search to extend their life led them to the Worldroot Sapling. The sage hires the characters to destroy or disable the thorn-covered versions of creatures from the {@book Giant Construct Encounters table|BGG|3|Giant Construct Encounters} (see {@book chapter 3|BGG|3}) who guard the sapling against all intruders."
+										"A venerable sage is desperate to escape the looming threat of death. Becoming Undead is odious to them, and their search to extend their life led them to the Worldroot Sapling. The sage hires the characters to destroy or disable the thorn-covered versions of creatures from the {@area Giant Construct Encounters table|098|x} (see {@area chapter 3|083|x}) who guard the sapling against all intruders."
 									]
 								},
 								{
@@ -7123,7 +7123,7 @@
 									"page": 102,
 									"id": "14f",
 									"entries": [
-										"A {@creature stone giant of Evil Earth|BGG} (see {@book chapter 6|BGG|6|Stone Giant of Evil Earth}) and the giant's evil minions from the {@table Elemental Earth Encounters|BGG} table in {@book chapter 3|BGG|3} have taken control of the Worldroot Sapling. The cultists are pouring corrupt earth elemental energy into the sapling, twisting it to create a {@creature gargantua|BGG} (see {@book chapter 6|BGG|6|Gargantua}). A {@creature stone giant} seer begs the characters to help her thwart the cult."
+										"A {@creature stone giant of Evil Earth|BGG} (see {@area chapter 6|199|x}) and the giant's evil minions from the {@table Elemental Earth Encounters|BGG} table in {@area chapter 3|083|x} have taken control of the Worldroot Sapling. The cultists are pouring corrupt earth elemental energy into the sapling, twisting it to create a {@creature gargantua|BGG} (see {@area chapter 6|17e|x}). A {@creature stone giant} seer begs the characters to help her thwart the cult."
 									]
 								},
 								{
@@ -7132,7 +7132,7 @@
 									"page": 102,
 									"id": "150",
 									"entries": [
-										"A group of {@creature Firbolg Primeval Warden|BGG|firbolg primeval wardens} seek to reconnect the {@book Forest Crystal|BGG|4|Forest Crystal} and {@book Singing Sands|BGG|4|Singing Sands} (both in this chapter) to a magical network that once spanned the world. The firbolgs believe they can use the network created by an ancient civilization of giants to channel the sapling's life energy to revitalize devastated regions of the world. They need help carrying cuttings of the sapling to the two sites. Along the way, the characters must deal with creatures from the {@book Fiendish Incursion Encounters table|BGG|3|Fiendish Incursion Encounters} at the Singing Sands and with tyrannical giants from the {@book Storm Giant Encounters table|BGG|3|Storm Giant Encounters} at the Forest Crystal (both tables are in {@book chapter 3|BGG|3})."
+										"A group of {@creature Firbolg Primeval Warden|BGG|firbolg primeval wardens} seek to reconnect the {@area Forest Crystal|0df|x} and {@area Singing Sands|12e|x} (both in this chapter) to a magical network that once spanned the world. The firbolgs believe they can use the network created by an ancient civilization of giants to channel the sapling's life energy to revitalize devastated regions of the world. They need help carrying cuttings of the sapling to the two sites. Along the way, the characters must deal with creatures from the {@area Fiendish Incursion Encounters table|097|x} at the Singing Sands and with tyrannical giants from the {@area Storm Giant Encounters table|093|x} at the Forest Crystal (both tables are in {@area chapter 3|083|x})."
 									]
 								}
 							]
@@ -7155,9 +7155,9 @@
 					"by": "Bigby"
 				},
 				"Giants collect an eclectic assortment of treasures and trinkets over the course of their long life spans. This chapter, intended for the Dungeon Master, explores treasures intrepid adventurers might find during their encounters with giants, focusing on the six main families of giants described in the {@book Monster Manual|MM}. This chapter contains the following sections:",
-				"\"{@book Giant Bags|BGG|5|Giant Bags}\" provides tables you can use to determine the contents\u2014both valuable and mundane\u2014of a roaming giant's bag.",
-				"\"{@book Relics of Giant Realms|BGG|5|Relics of Giant Realms}\" details the variety of valuable treasures left by ancient giants' civilizations.",
-				"\"{@book Magic Items|BGG|5|Magic Items}\" presents new magic items associated with giants, their legends, and their magic runes.",
+				"\"{@area Giant Bags|152|x}\" provides tables you can use to determine the contents\u2014both valuable and mundane\u2014of a roaming giant's bag.",
+				"\"{@area Relics of Giant Realms|15f|x}\" details the variety of valuable treasures left by ancient giants' civilizations.",
+				"\"{@area Magic Items|164|x}\" presents new magic items associated with giants, their legends, and their magic runes.",
 				{
 					"type": "image",
 					"href": {
@@ -7175,7 +7175,7 @@
 					"id": "152",
 					"entries": [
 						"Giants on the move carry colossal bags containing miscellaneous items collected over many years. Giant bags are strange repositories of unusual mementos, titanic tools, and giant-sized portions of food and drink. This section provides guidance for determining the contents of the bag of a giant of any kind.",
-						"Each of the lists in this section includes coinage (replacing the {@book Individual Treasure tables|DMG|7|Treasure Tables} in the {@book Dungeon Master's Guide|DMG}), boulders for throwing, and a number of other nonmagical items determined by rolling on another table. These items can include valuable objects, as well as food, tools, and curiosities. At your discretion, any giant bag might also contain a {@creature bag jelly|BGG} (described in {@book chapter 6|BGG|6|Bag Jelly}).",
+						"Each of the lists in this section includes coinage (replacing the {@book Individual Treasure tables|DMG|7|Treasure Tables} in the {@book Dungeon Master's Guide|DMG}), boulders for throwing, and a number of other nonmagical items determined by rolling on another table. These items can include valuable objects, as well as food, tools, and curiosities. At your discretion, any giant bag might also contain a {@creature bag jelly|BGG} (described in {@area chapter 6|043|x}).",
 						{
 							"type": "entries",
 							"name": "Cloud Giant Bags",
@@ -8165,47 +8165,47 @@
 						{
 							"type": "item",
 							"name": "Extended Family",
-							"entry": "This chapter introduces {@book death giants|BGG|6|Death Giants}, {@book fensirs|BGG|6|Fensirs} from the Outer Planes, and the monstrous {@book gargantuas|BGG|6|Gargantua}, as well as primordial {@book scions of the giant gods|BGG|6|Scions of Giants' Gods}."
+							"entry": "This chapter introduces {@area death giants|16d|x}, {@area fensirs|172|x} from the Outer Planes, and the monstrous {@area gargantuas|17e|x}, as well as primordial {@area scions of the giant gods|18f|x}."
 						},
 						{
 							"type": "item",
 							"name": "Magic-Using Giants",
-							"entry": "Each of the giants of the ordning has new variants in this chapter. The {@book cloud giant destiny gambler|BGG|6|Cloud Giant Destiny Gambler}, {@book fire giant forgecaller|BGG|6|Fire Giant Forgecaller}, {@book frost giant ice shaper|BGG|6|Frost Giant Ice Shaper}, {@book hill giant avalancher|BGG|6|Hill Giant Avalancher}, {@book stone giant rockspeaker|BGG|6|Stone Giant Rockspeaker}, and {@book storm giant tempest caller|BGG|6|Storm Giant Tempest Caller} all wield the traditional rune magic of their kind. They are joined by the {@book death giant shrouded one|BGG|6|Death Giant Shrouded One} and the {@book fomorian warlock of the dark|BGG|6|Fomorian Warlock of the Dark}, giants outside the ordning that nevertheless wield rune magic."
+							"entry": "Each of the giants of the ordning has new variants in this chapter. The {@area cloud giant destiny gambler|16b|x}, {@area fire giant forgecaller|175|x}, {@area frost giant ice shaper|17a|x}, {@area hill giant avalancher|188|x}, {@area stone giant rockspeaker|19a|x}, and {@area storm giant tempest caller|19c|x} all wield the traditional rune magic of their kind. They are joined by the {@creature death giant shrouded one|BGG} and the {@creature fomorian warlock of the dark|BGG}, giants outside the ordning that nevertheless wield rune magic."
 						},
 						{
 							"type": "item",
 							"name": "Giant Cultists",
-							"entry": "Other variations include giants that follow the cults of \"interloper gods.\" Some of these are Fiends transformed by their devotion to demon lords or archdevils, including the {@book echo of Demogorgon|BGG|6|Echo of Demogorgon}, the {@book fire hellion|BGG|6|Fire Hellion}, the {@book fury of Kostchtchie|BGG|6|Fury of Kostchtchie}, the {@book maw of Yeenoghu|BGG|6|Maw of Yeenoghu}, and the {@book stalker of Baphomet|BGG|6|Stalker of Baphomet}. Others are cultists of Elemental Evil: a {@book cloud giant of Evil Air|BGG|6|Cloud Giant of Evil Air}, a {@book fire giant of Evil Fire|BGG|6|Fire Giant of Evil Fire}, a {@book frost giant of Evil Water|BGG|6|Frost Giant of Evil Water}, and a {@book stone giant of Evil Earth|BGG|6|Stone Giant of Evil Earth}. The {@book fomorian deep crawler|BGG|6|Fomorian Deep Crawler} and the {@book storm herald|BGG|6|Storm Herald}\u2014a storm giant transformed into a monstrous Aberration\u2014round out this category."
+							"entry": "Other variations include giants that follow the cults of \"interloper gods.\" Some of these are Fiends transformed by their devotion to demon lords or archdevils, including the {@area echo of Demogorgon|170|x}, the {@area fire hellion|177|x}, the {@area fury of Kostchtchie|17d|x}, the {@area maw of Yeenoghu|18a|x}, and the {@area stalker of Baphomet|198|x}. Others are cultists of Elemental Evil: a {@area cloud giant of Evil Air|16c|x}, a {@area fire giant of Evil Fire|176|x}, a {@area frost giant of Evil Water|17b|x}, and a {@area stone giant of Evil Earth|199|x}. The {@creature fomorian deep crawler|BGG} and the {@area storm herald|19d|x}\u2014a storm giant transformed into a monstrous Aberration\u2014round out this category."
 						},
 						{
 							"type": "item",
 							"name": "Other Giant Variations",
-							"entry": "The unfallen form of fomorians is here, along with a variant ettin (the {@book ettin ceremorph|BGG|6|Ettin Ceremorph}) and two versions of trolls (the {@book troll amalgam|BGG|6|Troll Amalgam} and the {@book troll mutate|BGG|6|Troll Mutate})."
+							"entry": "The unfallen form of fomorians is here, along with a variant ettin (the {@area ettin ceremorph|171|x}) and two versions of trolls (the {@creature troll amalgam|BGG} and the {@creature troll mutate|BGG})."
 						},
 						{
 							"type": "item",
 							"name": "Elemental Hulks",
-							"entry": "Withered branches of the giant family tree, the elemental hulks ({@book cinder|BGG|6|Cinder Hulk}, {@book dust|BGG|6|Dust Hulk}, {@book lightning|BGG|6|Lightning Hulk}, {@book mist|BGG|6|Mist Hulk}, {@book mud|BGG|6|Mud Hulk}, and {@book rime hulks|BGG|6|Rime Hulk}) are Elemental creatures descended from giants."
+							"entry": "Withered branches of the giant family tree, the elemental hulks ({@area cinder|16a|x}, {@area dust|16f|x}, {@area lightning|189|x}, {@area mist|18b|x}, {@area mud|18c|x}, and {@area rime hulks|18d|x}) are Elemental creatures descended from giants."
 						},
 						{
 							"type": "item",
 							"name": "Undead Giants",
-							"entry": "Undead forms of the giants of the ordning appear in this chapter: {@book barrowghasts|BGG|6|Barrowghast}, {@book cairnwights|BGG|6|Cairnwight}, {@book firegaunts|BGG|6|Firegaunt}, {@book frostmourns|BGG|6|Frostmourn}, {@book spectral clouds|BGG|6|Spectral Cloud}, and {@book tempest spirits|BGG|6|Tempest Spirit}."
+							"entry": "Undead forms of the giants of the ordning appear in this chapter: {@area barrowghasts|168|x}, {@area cairnwights|169|x}, {@area firegaunts|174|x}, {@area frostmourns|17c|x}, {@area spectral clouds|196|x}, and {@area tempest spirits|19e|x}."
 						},
 						{
 							"type": "item",
 							"name": "Gigantic Animals",
-							"entry": "Dinosaurs and other enormous creatures are often found in giants' enclaves. These include four Gargantuan {@book dinosaurs|BGG|6|Dinosaurs} ({@book aerosaur|BGG|6|Aerosaur}, {@book altisaur|BGG|6|Altisaur}, {@book ceratops|BGG|6|Ceratops}, and {@book regisaur|BGG|6|Regisaur}), {@book giant geese|BGG|6|Giant Goose}, {@book giant lynxes|BGG|6|Giant Lynx}, {@book giant oxen|BGG|6|Giant Ox}, {@book giant rams|BGG|6|Giant Ram}, {@book giant ticks|BGG|6|Giant Tick}, {@book gigants|BGG|6|Gigant}, {@book grinning cats|BGG|6|Grinning Cat}, {@book spotted lions|BGG|6|Spotted Lion}, {@book storm crabs|BGG|6|Storm Crab}, and {@book titanotheres|BGG|6|Titanothere}."
+							"entry": "Dinosaurs and other enormous creatures are often found in giants' enclaves. These include four Gargantuan {@area dinosaurs|16e|x} ({@creature aerosaur|BGG}, {@creature altisaur|BGG}, {@creature ceratops|BGG}, and {@creature regisaur|BGG}), {@area giant geese|180|x}, {@area giant lynxes|181|x}, {@area giant oxen|182|x}, {@area giant rams|183|x}, {@area giant ticks|184|x}, {@area gigants|185|x}, {@area grinning cats|187|x}, {@area spotted lions|197|x}, {@area storm crabs|19b|x}, and {@area titanotheres|19f|x}."
 						},
 						{
 							"type": "item",
 							"name": "Humanoid Giant Kin",
-							"entry": "{@book Firbolgs|BGG|6|Firbolgs} and {@book goliaths|BGG|6|Goliath Giant-Kin} appear here in a few different varieties."
+							"entry": "{@area Firbolgs|173|x} and {@area goliaths|186|x} appear here in a few different varieties."
 						},
 						{
 							"type": "item",
 							"name": "Others",
-							"entry": "Two enormous Constructs appear here (the {@book flesh colossus|BGG|6|Flesh Colossus} and the {@book runic colossus|BGG|6|Runic Colossus}), as well as an Ooze that lives in giants' bags\u2014the aptly named {@book bag jelly|BGG|6|Bag Jelly}."
+							"entry": "Two enormous Constructs appear here (the {@area flesh colossus|178|x} and the {@area runic colossus|18e|x}), as well as an Ooze that lives in giants' bags\u2014the aptly named {@area bag jelly|043|x}."
 						}
 					]
 				},
@@ -8326,7 +8326,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "043"
 						},
 						{
 							"type": "section",
@@ -8350,7 +8351,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "168"
 						},
 						{
 							"type": "section",
@@ -8374,7 +8376,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "169"
 						},
 						{
 							"type": "section",
@@ -8398,7 +8401,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "16a"
 						},
 						{
 							"type": "section",
@@ -8422,7 +8426,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "16b"
 						},
 						{
 							"type": "section",
@@ -8446,7 +8451,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "16c"
 						},
 						{
 							"type": "section",
@@ -8477,7 +8483,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "16d"
 						},
 						{
 							"type": "section",
@@ -8522,7 +8529,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "16e"
 						},
 						{
 							"type": "section",
@@ -8546,7 +8554,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "16f"
 						},
 						{
 							"type": "section",
@@ -8570,7 +8579,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "170"
 						},
 						{
 							"type": "section",
@@ -8594,7 +8604,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "171"
 						},
 						{
 							"type": "section",
@@ -8625,7 +8636,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "172"
 						},
 						{
 							"type": "section",
@@ -8656,7 +8668,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "173"
 						},
 						{
 							"type": "section",
@@ -8680,7 +8693,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "174"
 						},
 						{
 							"type": "section",
@@ -8704,7 +8718,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "175"
 						},
 						{
 							"type": "section",
@@ -8717,7 +8732,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "176"
 						},
 						{
 							"type": "section",
@@ -8741,7 +8757,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "177"
 						},
 						{
 							"type": "section",
@@ -8765,7 +8782,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "178"
 						},
 						{
 							"type": "section",
@@ -8803,7 +8821,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "179"
 						},
 						{
 							"type": "section",
@@ -8827,7 +8846,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "17a"
 						},
 						{
 							"type": "section",
@@ -8840,7 +8860,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "17b"
 						},
 						{
 							"type": "section",
@@ -8864,7 +8885,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "17c"
 						},
 						{
 							"type": "section",
@@ -8888,7 +8910,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "17d"
 						},
 						{
 							"type": "section",
@@ -8912,7 +8935,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "17e"
 						},
 						{
 							"type": "section",
@@ -8925,7 +8949,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "17f"
 						},
 						{
 							"type": "section",
@@ -8949,7 +8974,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "180"
 						},
 						{
 							"type": "section",
@@ -8973,7 +8999,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "181"
 						},
 						{
 							"type": "section",
@@ -8997,7 +9024,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "182"
 						},
 						{
 							"type": "section",
@@ -9021,7 +9049,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "183"
 						},
 						{
 							"type": "section",
@@ -9045,7 +9074,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "184"
 						},
 						{
 							"type": "section",
@@ -9069,7 +9099,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "185"
 						},
 						{
 							"type": "section",
@@ -9093,7 +9124,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "186"
 						},
 						{
 							"type": "section",
@@ -9117,7 +9149,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "187"
 						},
 						{
 							"type": "section",
@@ -9141,7 +9174,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "188"
 						},
 						{
 							"type": "section",
@@ -9165,7 +9199,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "189"
 						},
 						{
 							"type": "section",
@@ -9189,7 +9224,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "18a"
 						},
 						{
 							"type": "section",
@@ -9213,7 +9249,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "18b"
 						},
 						{
 							"type": "section",
@@ -9237,7 +9274,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "18c"
 						},
 						{
 							"type": "section",
@@ -9261,7 +9299,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "18d"
 						},
 						{
 							"type": "section",
@@ -9285,7 +9324,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "18e"
 						},
 						{
 							"type": "entries",
@@ -9320,7 +9360,8 @@
 											"source": "BGG",
 											"style": "narrow"
 										}
-									]
+									],
+									"id": "190"
 								},
 								{
 									"type": "section",
@@ -9351,7 +9392,8 @@
 											"source": "BGG",
 											"style": "narrow"
 										}
-									]
+									],
+									"id": "191"
 								},
 								{
 									"type": "section",
@@ -9382,7 +9424,8 @@
 											"source": "BGG",
 											"style": "narrow"
 										}
-									]
+									],
+									"id": "192"
 								},
 								{
 									"type": "section",
@@ -9413,7 +9456,8 @@
 											"source": "BGG",
 											"style": "narrow"
 										}
-									]
+									],
+									"id": "193"
 								},
 								{
 									"type": "section",
@@ -9444,7 +9488,8 @@
 											"source": "BGG",
 											"style": "narrow"
 										}
-									]
+									],
+									"id": "194"
 								},
 								{
 									"type": "section",
@@ -9475,9 +9520,11 @@
 											"source": "BGG",
 											"style": "narrow"
 										}
-									]
+									],
+									"id": "195"
 								}
-							]
+							],
+							"id": "18f"
 						},
 						{
 							"type": "section",
@@ -9501,7 +9548,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "196"
 						},
 						{
 							"type": "section",
@@ -9525,7 +9573,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "197"
 						},
 						{
 							"type": "section",
@@ -9549,7 +9598,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "198"
 						},
 						{
 							"type": "section",
@@ -9573,7 +9623,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "199"
 						},
 						{
 							"type": "section",
@@ -9597,7 +9648,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "19a"
 						},
 						{
 							"type": "section",
@@ -9621,7 +9673,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "19b"
 						},
 						{
 							"type": "section",
@@ -9645,7 +9698,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "19c"
 						},
 						{
 							"type": "section",
@@ -9669,7 +9723,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "19d"
 						},
 						{
 							"type": "section",
@@ -9693,7 +9748,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "19e"
 						},
 						{
 							"type": "section",
@@ -9717,7 +9773,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "19f"
 						},
 						{
 							"type": "section",
@@ -9748,7 +9805,8 @@
 									"source": "BGG",
 									"style": "narrow"
 								}
-							]
+							],
+							"id": "1a0"
 						}
 					]
 				},
@@ -9758,7 +9816,7 @@
 					"page": 188,
 					"id": "1fb",
 					"entries": [
-						"This section contains three guides to help you find your way to the right giant (or giant-related creature) for an encounter. First, \"{@book Giants by Kind|BGG|6|Giants by Kind}\" presents seven tables indexing the creatures in this chapter and creatures of the Giant type from other sources. Then \"{@book Challenge Ratings|BGG|6|Challenge Ratings}\" presents a table organizing the creatures in this chapter by their challenge rating, and \"{@book Creature Types|BGG|6|Creature Types}\" lists creatures in this chapter by type.",
+						"This section contains three guides to help you find your way to the right giant (or giant-related creature) for an encounter. First, \"{@area Giants by Kind|1fc|x}\" presents seven tables indexing the creatures in this chapter and creatures of the Giant type from other sources. Then \"{@area Challenge Ratings|1fd|x}\" presents a table organizing the creatures in this chapter by their challenge rating, and \"{@area Creature Types|1fe|x}\" lists creatures in this chapter by type.",
 						{
 							"type": "entries",
 							"name": "Giants by Kind",
@@ -10784,7 +10842,7 @@
 			"page": 192,
 			"id": "20c",
 			"entries": [
-				"This book is full of seeds you can use to craft adventures involving giants and the realms they inhabit. Tables (and text) in chapters {@book 2|BGG|2}, {@book 3|BGG|3}, and {@book 4|BGG|4} present giants as patrons, rivals, or adversaries, or suggest reasons why characters might venture to locations constructed or occupied by giants. The adventure hooks are spread throughout these three chapters because they're intended to complement the information presented in each chapter. For example, if you get excited as you're reading about the giant pantheon and decide you want to build an adventure that features these gods, a table is right there to spark your imagination.",
+				"This book is full of seeds you can use to craft adventures involving giants and the realms they inhabit. Tables (and text) in chapters {@area 2|044|x}, {@area 3|083|x}, and {@area 4|0bb|x} present giants as patrons, rivals, or adversaries, or suggest reasons why characters might venture to locations constructed or occupied by giants. The adventure hooks are spread throughout these three chapters because they're intended to complement the information presented in each chapter. For example, if you get excited as you're reading about the giant pantheon and decide you want to build an adventure that features these gods, a table is right there to spark your imagination.",
 				"If you're unsure where to start, you can use the Adventure Hooks table here to help you decide.",
 				{
 					"type": "table",
@@ -10800,183 +10858,183 @@
 					"rows": [
 						[
 							"01\u201302",
-							"{@book Cloud Giant Wealth|BGG|2|Cloud Giant Wealth} (chapter 2, \"{@book The Ordning|BGG|2|The Ordning}\")"
+							"{@book Cloud Giant Wealth|BGG|2|Cloud Giant Wealth} (chapter 2, \"{@area The Ordning|04b|x}\")"
 						],
 						[
 							"03\u201304",
-							"{@book Fire Giant Skill|BGG|2|Fire Giant Skill} (chapter 2, \"{@book The Ordning|BGG|2|The Ordning}\")"
+							"{@book Fire Giant Skill|BGG|2|Fire Giant Skill} (chapter 2, \"{@area The Ordning|04b|x}\")"
 						],
 						[
 							"05\u201306",
-							"{@book Frost Giant Might|BGG|2|Frost Giant Might} (chapter 2, \"{@book The Ordning|BGG|2|The Ordning}\")"
+							"{@book Frost Giant Might|BGG|2|Frost Giant Might} (chapter 2, \"{@area The Ordning|04b|x}\")"
 						],
 						[
 							"07\u201308",
-							"{@book Stone Giant Artistry|BGG|2|Stone Giant Artistry} (chapter 2, \"{@book The Ordning|BGG|2|The Ordning}\")"
+							"{@book Stone Giant Artistry|BGG|2|Stone Giant Artistry} (chapter 2, \"{@area The Ordning|04b|x}\")"
 						],
 						[
 							"09\u201311",
-							"{@book Rejecting the Ordning|BGG|2|Rejecting the Ordning} (chapter 2, \"{@book The Ordning|BGG|2|The Ordning}\")"
+							"{@area Rejecting the Ordning|04c|x} (chapter 2, \"{@area The Ordning|04b|x}\")"
 						],
 						[
 							"12\u201314",
-							"{@book Annam's Children Adventures|BGG|2|Annam's Children Adventures} (chapter 2, \"{@book Gods and Religion|BGG|2|Gods and Religion}\")"
+							"{@book Annam's Children Adventures|BGG|2|Annam's Children Adventures} (chapter 2, \"{@area Gods and Religion|04e|x}\")"
 						],
 						[
 							"15\u201317",
-							"{@book Interloper Gods Adventures|BGG|2|Interloper Gods Adventures} (chapter 2, \"{@book Gods and Religion|BGG|2|Gods and Religion}\")"
+							"{@book Interloper Gods Adventures|BGG|2|Interloper Gods Adventures} (chapter 2, \"{@area Gods and Religion|04e|x}\")"
 						],
 						[
 							"18\u201320",
-							"{@book Recluses|BGG|2|Recluses} (chapter 2, \"{@book Social Structures|BGG|2|Social Structures}\")"
+							"{@book Recluses|BGG|2|Recluses} (chapter 2, \"{@area Social Structures|074|x}\")"
 						],
 						[
 							"21\u201323",
-							"{@book Exiles|BGG|2|Exiles} (chapter 2, \"{@book Social Structures|BGG|2|Social Structures}\")"
+							"{@book Exiles|BGG|2|Exiles} (chapter 2, \"{@area Social Structures|074|x}\")"
 						],
 						[
 							"24\u201325",
-							"{@book Bands|BGG|2|Bands} (chapter 2, \"{@book Social Structures|BGG|2|Social Structures}\")"
+							"{@book Bands|BGG|2|Bands} (chapter 2, \"{@area Social Structures|074|x}\")"
 						],
 						[
 							"26\u201327",
-							"{@book Families|BGG|2|Families} (chapter 2, \"{@book Social Structures|BGG|2|Social Structures}\")"
+							"{@book Families|BGG|2|Families} (chapter 2, \"{@area Social Structures|074|x}\")"
 						],
 						[
 							"28\u201329",
-							"{@book Steadings|BGG|2|Steadings} (chapter 2, \"{@book Social Structures|BGG|2|Social Structures}\")"
+							"{@book Steadings|BGG|2|Steadings} (chapter 2, \"{@area Social Structures|074|x}\")"
 						],
 						[
 							"30\u201331",
-							"{@book Settlements|BGG|2|Settlements} (chapter 2, \"{@book Social Structures|BGG|2|Social Structures}\")"
+							"{@book Settlements|BGG|2|Settlements} (chapter 2, \"{@area Social Structures|074|x}\")"
 						],
 						[
 							"32\u201333",
-							"{@book Hidden Rune Adventures|BGG|2|Hidden Rune Adventures} (chapter 2, \"{@book Organizations|BGG|2|Organizations}\")"
+							"{@area Hidden Rune Adventures|07e|x} (chapter 2, \"{@area Organizations|07c|x}\")"
 						],
 						[
 							"34\u201335",
-							"{@book Eternal Throne Adventures|BGG|2|Eternal Throne Adventures} (chapter 2, \"{@book Organizations|BGG|2|Organizations}\")"
+							"{@area Eternal Throne Adventures|080|x} (chapter 2, \"{@area Organizations|07c|x}\")"
 						],
 						[
 							"36\u201337",
-							"{@book Worldroot Circle Adventures|BGG|2|Worldroot Circle Adventures} (chapter 2, \"{@book Organizations|BGG|2|Organizations}\")"
+							"{@area Worldroot Circle Adventures|082|x} (chapter 2, \"{@area Organizations|07c|x}\")"
 						],
 						[
 							"38\u201340",
-							"{@book Against the Giants|BGG|3|Against the Giants} (chapter 3, \"{@book Adventure Models|BGG|3|Adventure Models}\")"
+							"{@area Against the Giants|09e|x} (chapter 3, \"{@area Adventure Models|09d|x}\")"
 						],
 						[
 							"41\u201343",
-							"{@book Clash of Titans|BGG|3|Clash of Titans} (chapter 3, \"{@book Adventure Models|BGG|3|Adventure Models}\")"
+							"{@area Clash of Titans|09f|x} (chapter 3, \"{@area Adventure Models|09d|x}\")"
 						],
 						[
 							"44\u201346",
-							"{@book Delve into the Past|BGG|3|Delve into the Past} (chapter 3, \"{@book Adventure Models|BGG|3|Adventure Models}\")"
+							"{@area Delve into the Past|0a0|x} (chapter 3, \"{@area Adventure Models|09d|x}\")"
 						],
 						[
 							"47\u201349",
-							"{@book Giant-Sized Schemes|BGG|3|Giant-Sized Schemes} (chapter 3, \"{@book Adventure Models|BGG|3|Adventure Models}\")"
+							"{@area Giant-Sized Schemes|0a1|x} (chapter 3, \"{@area Adventure Models|09d|x}\")"
 						],
 						[
 							"50\u201352",
-							"{@book Into the Giant Realms|BGG|3|Into the Giant Realms} (chapter 3, \"{@book Adventure Models|BGG|3|Adventure Models}\")"
+							"{@area Into the Giant Realms|0a2|x} (chapter 3, \"{@area Adventure Models|09d|x}\")"
 						],
 						[
 							"53\u201354",
-							"{@book Boss Assignments|BGG|3|Boss Assignments} (chapter 3, \"{@book Giant Patrons|BGG|3|Giant Patrons}\")"
+							"{@book Boss Assignments|BGG|3|Boss Assignments} (chapter 3, \"{@area Giant Patrons|0a4|x}\")"
 						],
 						[
 							"55\u201356",
-							"{@book Financier Assignments|BGG|3|Financier Assignments} (chapter 3, \"{@book Giant Patrons|BGG|3|Giant Patrons}\")"
+							"{@book Financier Assignments|BGG|3|Financier Assignments} (chapter 3, \"{@area Giant Patrons|0a4|x}\")"
 						],
 						[
 							"57\u201358",
-							"{@book Seer Assignments|BGG|3|Seer Assignments} (chapter 3, \"{@book Giant Patrons|BGG|3|Giant Patrons}\")"
+							"{@book Seer Assignments|BGG|3|Seer Assignments} (chapter 3, \"{@area Giant Patrons|0a4|x}\")"
 						],
 						[
 							"59\u201360",
-							"{@book Sovereign Assignments|BGG|3|Sovereign Assignments} (chapter 3, \"{@book Giant Patrons|BGG|3|Giant Patrons}\")"
+							"{@book Sovereign Assignments|BGG|3|Sovereign Assignments} (chapter 3, \"{@area Giant Patrons|0a4|x}\")"
 						],
 						[
 							"61\u201362",
-							"{@book Tutor Assignments|BGG|3|Tutor Assignments} (chapter 3, \"{@book Giant Patrons|BGG|3|Giant Patrons}\")"
+							"{@book Tutor Assignments|BGG|3|Tutor Assignments} (chapter 3, \"{@area Giant Patrons|0a4|x}\")"
 						],
 						[
 							"63\u201364",
-							"{@book Warleader Assignments|BGG|3|Warleader Assignments} (chapter 3, \"{@book Giant Patrons|BGG|3|Giant Patrons}\")"
+							"{@book Warleader Assignments|BGG|3|Warleader Assignments} (chapter 3, \"{@area Giant Patrons|0a4|x}\")"
 						],
 						[
 							"65\u201366",
-							"{@book Annam's Cradle Adventures|BGG|4|Annam's Cradle Adventures} ({@book chapter 4|BGG|4|Annam's Cradle})"
+							"{@area Annam's Cradle Adventures|0c1|x} ({@area chapter 4|0be|x})"
 						],
 						[
 							"67\u201368",
-							"{@book Ashen Grotto Adventures|BGG|4|Ashen Grotto Adventures} ({@book chapter 4|BGG|4|Ashen Grotto})"
+							"{@area Ashen Grotto Adventures|0c8|x} ({@area chapter 4|0c5|x})"
 						],
 						[
 							"69\u201370",
-							"{@book Dreamer's Reach Adventures|BGG|4|Dreamer's Reach Adventures} ({@book chapter 4|BGG|4|Dreamer's Reach})"
+							"{@area Dreamer's Reach Adventures|0d0|x} ({@area chapter 4|0cd|x})"
 						],
 						[
 							"71\u201372",
-							"{@book Endless Rockslide Adventures|BGG|4|Endless Rockslide Adventures} ({@book chapter 4|BGG|4|Endless Rockslide})"
+							"{@area Endless Rockslide Adventures|0d9|x} ({@area chapter 4|0d6|x})"
 						],
 						[
 							"73\u201374",
-							"{@book Forest Crystal Adventures|BGG|4|Forest Crystal Adventures} ({@book chapter 4|BGG|4|Forest Crystal})"
+							"{@area Forest Crystal Adventures|0e2|x} ({@area chapter 4|0df|x})"
 						],
 						[
 							"75\u201376",
-							"{@book Forsaken Deep Adventures|BGG|4|Forsaken Deep Adventures} ({@book chapter 4|BGG|4|Forsaken Deep})"
+							"{@area Forsaken Deep Adventures|0ea|x} ({@area chapter 4|0e7|x})"
 						],
 						[
 							"77\u201378",
-							"{@book Gale's Eye Tower Adventures|BGG|4|Gale's Eye Tower Adventures} ({@book chapter 4|BGG|4|Gale's Eye Tower})"
+							"{@area Gale's Eye Tower Adventures|0f2|x} ({@area chapter 4|0ef|x})"
 						],
 						[
 							"79\u201380",
-							"{@book Grolantor's Larder Adventures|BGG|4|Grolantor's Larder Adventures} ({@book chapter 4|BGG|4|Grolantor's Larder})"
+							"{@area Grolantor's Larder Adventures|0fa|x} ({@area chapter 4|0f7|x})"
 						],
 						[
 							"81\u201382",
-							"{@book Hiatea's Hearth Adventures|BGG|4|Hiatea's Hearth Adventures} ({@book chapter 4|BGG|4|Hiatea's Hearth})"
+							"{@area Hiatea's Hearth Adventures|103|x} ({@area chapter 4|100|x})"
 						],
 						[
 							"83\u201384",
-							"{@book Horizon's Edge Adventures|BGG|4|Horizon's Edge Adventures} ({@book chapter 4|BGG|4|Horizon's Edge})"
+							"{@area Horizon's Edge Adventures|10d|x} ({@area chapter 4|109|x})"
 						],
 						[
 							"85\u201386",
-							"{@book Howling Iceberg Adventures|BGG|4|Howling Iceberg Adventures} ({@book chapter 4|BGG|4|Howling Iceberg})"
+							"{@area Howling Iceberg Adventures|114|x} ({@area chapter 4|111|x})"
 						],
 						[
 							"87\u201388",
-							"{@book Karontor's Hold Adventures|BGG|4|Karontor's Hold Adventures} ({@book chapter 4|BGG|4|Karontor's Hold})"
+							"{@area Karontor's Hold Adventures|11b|x} ({@area chapter 4|118|x})"
 						],
 						[
 							"89\u201390",
-							"{@book Misty Vale Adventures|BGG|4|Misty Vale Adventures} ({@book chapter 4|BGG|4|Misty Vale})"
+							"{@area Misty Vale Adventures|122|x} ({@area chapter 4|11f|x})"
 						],
 						[
 							"91\u201392",
-							"{@book Runic Circle Adventures|BGG|4|Runic Circle Adventures} ({@book chapter 4|BGG|4|Runic Circle})"
+							"{@area Runic Circle Adventures|129|x} ({@area chapter 4|126|x})"
 						],
 						[
 							"93\u201394",
-							"{@book Singing Sands Adventures|BGG|4|Singing Sands Adventures} ({@book chapter 4|BGG|4|Singing Sands})"
+							"{@area Singing Sands Adventures|131|x} ({@area chapter 4|12e|x})"
 						],
 						[
 							"95\u201396",
-							"{@book Star Forge Adventures|BGG|4|Star Forge Adventures} ({@book chapter 4|BGG|4|Star Forge})"
+							"{@area Star Forge Adventures|13a|x} ({@area chapter 4|137|x})"
 						],
 						[
 							"97\u201398",
-							"{@book Thundering Observatory Adventures|BGG|4|Thundering Observatory Adventures} ({@book chapter 4|BGG|4|Thundering Observatory})"
+							"{@area Thundering Observatory Adventures|143|x} ({@area chapter 4|140|x})"
 						],
 						[
 							"99\u201300",
-							"{@book Worldroot Sapling Adventures|BGG|4|Worldroot Sapling Adventures} ({@book chapter 4|BGG|4|Worldroot Sapling})"
+							"{@area Worldroot Sapling Adventures|14c|x} ({@area chapter 4|149|x})"
 						]
 					]
 				}

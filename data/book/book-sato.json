@@ -68,7 +68,7 @@
 							"id": "002",
 							"entries": [
 								"Mimirs: Guides to the Planes",
-								"{@item Mimir|SatO|Mimirs}\u2014magical, skull-shaped, fact-collecting devices\u2014will accompany you through this product. These magic items are detailed in {@book chapter 1|SatO|1} of this book, and they offer details about remarkable realms and candid snippets from residents of the planes. The various {@item mimir|SatO} images that appear in these books denote recorded quotes that include widely agreed-upon facts and the personal\u2014though perhaps inaccurate\u2014opinions of the attributed planar travelers. Use these insights to inform your understanding of the planes or as quotes to share via {@item Mimir|SatO|mimirs} in your game."
+								"{@item Mimir|SatO|Mimirs}\u2014magical, skull-shaped, fact-collecting devices\u2014will accompany you through this product. These magic items are detailed in {@area chapter 1|008|x} of this book, and they offer details about remarkable realms and candid snippets from residents of the planes. The various {@item mimir|SatO} images that appear in these books denote recorded quotes that include widely agreed-upon facts and the personal\u2014though perhaps inaccurate\u2014opinions of the attributed planar travelers. Use these insights to inform your understanding of the planes or as quotes to share via {@item Mimir|SatO|mimirs} in your game."
 							]
 						}
 					]
@@ -82,9 +82,9 @@
 						"This book is a gateway to adventures across the multiverse, with a focus on two thresholds to the planes: Sigil, also called the City of Doors, and the Outlands, which acts as the hub of the Outer Planes. Consult the {@book Dungeon Master's Guide|DMG} for {@book general details|DMG|2|The Planes} about the planes and their organization.",
 						"DMs can determine how much of this book they want to share with their players. Characters native to a Material Plane world might know nothing of the details herein, while experienced planar explorers could know everything in this book.",
 						"This introduction presents an overview of information vital to all who wander the planes.",
-						"{@book Chapter 1|SatO|1} provides players with details on how to create characters suited to a Planescape campaign. It presents the Gate Warden and Planar Philosopher backgrounds, feats inspired by the planes, and a collection of spells and magic items appropriate for planar travelers.",
-						"{@book Chapter 2|SatO|2} introduces the mind-boggling city of Sigil, the enigmatic Lady of Pain, and various other city inhabitants.",
-						"{@book Chapter 3|SatO|3} presents the Outlands, a neutral plane at the center of the Great Wheel, along with details on the gate-towns\u2014communities at the thresholds to the Outer Planes\u2014and other incredible realms.",
+						"{@area Chapter 1|008|x} provides players with details on how to create characters suited to a Planescape campaign. It presents the Gate Warden and Planar Philosopher backgrounds, feats inspired by the planes, and a collection of spells and magic items appropriate for planar travelers.",
+						"{@area Chapter 2|02b|x} introduces the mind-boggling city of Sigil, the enigmatic Lady of Pain, and various other city inhabitants.",
+						"{@area Chapter 3|0da|x} presents the Outlands, a neutral plane at the center of the Great Wheel, along with details on the gate-towns\u2014communities at the thresholds to the Outer Planes\u2014and other incredible realms.",
 						{
 							"type": "image",
 							"href": {
@@ -272,7 +272,7 @@
 					"page": 12,
 					"id": "01e",
 					"entries": [
-						"Magic on the planes largely functions as it does in other D&D settings, though some exceptions exist in Sigil (see {@book chapter 2|SatO|2}). The following sections present spells and magic items the DM can provide for planar travelers.",
+						"Magic on the planes largely functions as it does in other D&D settings, though some exceptions exist in Sigil (see {@area chapter 2|02b|x}). The following sections present spells and magic items the DM can provide for planar travelers.",
 						{
 							"type": "entries",
 							"name": "Spells",
@@ -393,7 +393,7 @@
 							"page": 15,
 							"id": "02e",
 							"entries": [
-								"Included with this product is a {@book poster map of Sigil|SatO|2}. The city's ever-changing nature and its myriad portals render concepts like distance, size, and travel time irrelevant. How long it takes to get from point to point in Sigil is up to the DM. Prominent sites of interest are noted on the map, but countless other locations fill the city's ever-shifting streets, which the DM can detail."
+								"Included with this product is a {@area poster map of Sigil|02b|x}. The city's ever-changing nature and its myriad portals render concepts like distance, size, and travel time irrelevant. How long it takes to get from point to point in Sigil is up to the DM. Prominent sites of interest are noted on the map, but countless other locations fill the city's ever-shifting streets, which the DM can detail."
 							]
 						},
 						{
@@ -509,7 +509,7 @@
 							"entries": [
 								"Neither port nor proximity dictates trade in the City of Doors, granting its merchants and artisans access to the planes and their wondrous offerings. Woodcarvers whittle toys from golden trees toppled in Arborea, blacksmiths forge weapons from infernal ingots, and tavern chefs cook halfling recipes passed down on worlds of the Material Plane. With enough time, connections, and coin, one can find anything in Sigil's markets.",
 								"A dizzying array of coinage flows through Sigil. It doesn't matter where a coin was minted\u2014if it's made of precious metal and the weight is right, the money is usually good. However, some traders are particular about the currencies they accept. An {@creature efreeti} merchant selling instruments from the City of Brass might accept only rainbow sapphires from the Elemental Plane of Earth. Perhaps a {@creature night hag} hawking rare spell components refuses all currency but fresh {@creature Larva|DMG|larvae} from Hades, while a {@creature bone devil} might siphon years off the buyer's life as payment for a diabolical blade.",
-								"Buyers can find goods of every shape, size, and sort in one of Sigil's many marketplaces, the largest of which is the Great Bazaar (see the \"{@book Market Ward|SatO|2|Market Ward}\" section later in this chapter), though individual businesses lie scattered among the wards."
+								"Buyers can find goods of every shape, size, and sort in one of Sigil's many marketplaces, the largest of which is the Great Bazaar (see the \"{@area Market Ward|0bf|x}\" section later in this chapter), though individual businesses lie scattered among the wards."
 							]
 						},
 						{
@@ -529,7 +529,7 @@
 							"id": "036",
 							"entries": [
 								"Knowing where to look for something one needs is made challenging by Sigil's prodigious sprawl. Without the aid of magic or in-depth knowledge of portals within the city and their destinations, navigating the Cage is a dizzying affair.",
-								"Fortunately, two services exist throughout Sigil to help travelers find their way: sedan chairs and touts. Visitors to the Clerks' Ward can also hire the cabs of {@book Tea Street Transit|SatO|2|Tea Street Transit} (see the \"{@book Clerks' Ward|SatO|2|Clerks' Ward}\" section).",
+								"Fortunately, two services exist throughout Sigil to help travelers find their way: sedan chairs and touts. Visitors to the Clerks' Ward can also hire the cabs of {@area Tea Street Transit|080|x} (see the \"{@area Clerks' Ward|072|x}\" section).",
 								{
 									"type": "entries",
 									"name": "Sedan Chairs",
@@ -537,7 +537,7 @@
 									"id": "037",
 									"entries": [
 										"Sedan chairs are comfortable chairs carried by burly types, Humanoid or otherwise. Sedan chairs act as a citywide taxi service, lingering near civic buildings, municipal hubs, and marketplaces.",
-										"A typical sedan chair ride costs 1 sp per passenger and can carry two Medium or smaller creatures to a destination in Sigil, but there are some places they simply won't go\u2014like {@book Undersigil|SatO|2|Undersigil} or unsafe parts of the {@book Hive Ward|SatO|2|Hive Ward}. Heavier chairs that ferry larger customers or groups exist, carried by brawny creatures such as {@creature Ogre||ogres} or {@creature Umber Hulk||umber hulks}. These deluxe chairs cost more, a minimum of 1 gp per passenger, and those who carry them might be willing to travel to dangerous areas of the city for an extra fee."
+										"A typical sedan chair ride costs 1 sp per passenger and can carry two Medium or smaller creatures to a destination in Sigil, but there are some places they simply won't go\u2014like {@area Undersigil|0ce|x} or unsafe parts of the {@area Hive Ward|082|x}. Heavier chairs that ferry larger customers or groups exist, carried by brawny creatures such as {@creature Ogre||ogres} or {@creature Umber Hulk||umber hulks}. These deluxe chairs cost more, a minimum of 1 gp per passenger, and those who carry them might be willing to travel to dangerous areas of the city for an extra fee."
 									]
 								},
 								{
@@ -690,7 +690,7 @@
 							"id": "041",
 							"entries": [
 								"You can create portals quickly by choosing or rolling on the Planar Portals table. First, decide whether the portal's destination resides in Sigil or on another plane. Then, roll on the table twice: once to generate a portal anchor\u2014the physical location in Sigil where the portal exists\u2014and again for a destination and its thematically related portal keys.",
-								"Sigil destinations appear in the \"{@book Sigil Gazetteer|SatO|2|Sigil Gazetteer}\" section later in this chapter. The {@book planes of existence|DMG|2|The Planes} are detailed in the {@book Dungeon Master's Guide|DMG}.",
+								"Sigil destinations appear in the \"{@area Sigil Gazetteer|071|x}\" section later in this chapter. The {@book planes of existence|DMG|2|The Planes} are detailed in the {@book Dungeon Master's Guide|DMG}.",
 								{
 									"type": "table",
 									"caption": "Planar Portals",
@@ -725,189 +725,189 @@
 										[
 											"01\u201303",
 											"Carved wooden arch",
-											"{@book Bottle and Jug|SatO|2|Bottle and Jug}",
+											"{@area Bottle and Jug|085|x}",
 											"{@book Ysgard|DMG|2|Ysgard}",
 											"Stein, war horn"
 										],
 										[
 											"04\u201306",
 											"Revolving door",
-											"{@book Face of Gith|SatO|2|Face of Gith}",
+											"{@area Face of Gith|0b5|x}",
 											"{@book Limbo|DMG|2|Limbo}",
 											"Melting ice, red slaad egg"
 										],
 										[
 											"07\u201309",
 											"Shattered window",
-											"{@book Nowhere|SatO|2|Nowhere}",
+											"{@area Nowhere|0d3|x}",
 											"{@book Pandemonium|DMG|2|Pandemonium}",
 											"Brick from an infirmary, tattered paper fan"
 										],
 										[
 											"10\u201312",
 											"Sewer pipe",
-											"{@book Infinite Well|SatO|2|Infinite Well}",
+											"{@area Infinite Well|0a9|x}",
 											"{@book The Abyss|DMG|2|The Abyss}",
 											"Celestial blood, demon ichor"
 										],
 										[
 											"13\u201315",
 											"Cell door",
-											"{@book Prison|SatO|2|Prison}",
+											"{@area Prison|0aa|x}",
 											"{@book Carceri|DMG|2|Carceri}",
 											"Broken key, length of chain"
 										],
 										[
 											"16\u201318",
 											"Open grave",
-											"{@book Dead Nations|SatO|2|Dead Nations}",
+											"{@area Dead Nations|0d0|x}",
 											"{@book Hades|DMG|2|Hades}",
 											"Faceless mask, scrap of gray cloth"
 										],
 										[
 											"19\u201321",
 											"Trapdoor",
-											"{@book Grease Pit|SatO|2|Grease Pit}",
+											"{@area Grease Pit|08b|x}",
 											"{@book Gehenna|DMG|2|Gehenna}",
 											"Bloody knife, lava rock"
 										],
 										[
 											"22\u201324",
 											"Furnace door",
-											"{@book Bank of Abbathor|SatO|2|Bank of Abbathor Inc.}",
+											"{@area Bank of Abbathor|0c2|x}",
 											"{@book The Nine Hells|DMG|2|The Nine Hells}",
 											"Pinch of sulfur, signed contract"
 										],
 										[
 											"25\u201327",
 											"Iron gate",
-											"{@book Armory|SatO|2|Armory}",
+											"{@area Armory|099|x}",
 											"{@book Acheron|DMG|2|Acheron}",
 											"Broken blade, medal"
 										],
 										[
 											"28\u201330",
 											"Clock tower face",
-											"{@book High Courts|SatO|2|High Courts}",
+											"{@area High Courts|0a6|x}",
 											"{@book Mechanus|DMG|2|Mechanus}",
 											"Metal cog, perfectly balanced scales"
 										],
 										[
 											"31\u201333",
 											"Razorvine trellis",
-											"{@book Great Foundry|SatO|2|Great Foundry}",
+											"{@area Great Foundry|0b6|x}",
 											"{@book Arcadia|DMG|2|Arcadia}",
 											"Rune-inscribed ingot, sprig of grapes"
 										],
 										[
 											"34\u201336",
 											"Temple window",
-											"{@book Heart's Fire|SatO|2|Heart's Fire}",
+											"{@area Heart's Fire|0a5|x}",
 											"{@book Mount Celestia|DMG|2|Mount Celestia}",
 											"Angel feather, holy water"
 										],
 										[
 											"37\u201339",
 											"Ornate mirror",
-											"{@book Hall of Speakers|SatO|2|Hall of Speakers}",
+											"{@area Hall of Speakers|07d|x}",
 											"{@book Bytopia|DMG|2|Bytopia}",
 											"Garden trowel, pair of twins"
 										],
 										[
 											"40\u201342",
 											"Reflecting pool",
-											"{@book Gatehouse|SatO|2|Gatehouse}",
+											"{@area Gatehouse|088|x}",
 											"{@book Elysium|DMG|2|Elysium}",
 											"Tears of joy, white lily"
 										],
 										[
 											"43\u201345",
 											"Stable gate",
-											"{@book Flame Pits|SatO|2|Flame Pits}",
+											"{@area Flame Pits|0c5|x}",
 											"{@book The Beastlands|DMG|2|The Beastlands}",
 											"Animal tooth, fresh wildflower"
 										],
 										[
 											"46\u201348",
 											"Garden arch",
-											"{@book Civic Festhall|SatO|2|Civic Festhall}",
+											"{@area Civic Festhall|075|x}",
 											"{@book Arborea|DMG|2|Arborea}",
 											"Boisterous laughter, pinprick from a thorn"
 										],
 										[
 											"49\u201358",
 											"Courtyard gate",
-											"{@book Fortune's Wheel|SatO|2|Fortune's Wheel}",
+											"{@area Fortune's Wheel|0a1|x}",
 											"{@book The Outlands|DMG|2|The Outlands and Sigil}",
 											"Stone from the Spire, spoked wheel"
 										],
 										[
 											"59\u201363",
 											"Bedroom closet",
-											"{@book Planar Energy Cooperative|SatO|2|Planar Energy Cooperative}",
+											"{@area Planar Energy Cooperative|0cd|x}",
 											"{@book Ethereal Plane|DMG|2|Ethereal Plane}",
 											"Burial shroud, phase spider mandible"
 										],
 										[
 											"64\u201368",
 											"Skylight",
-											"{@book Shattered Temple|SatO|2|Shattered Temple}",
+											"{@area Shattered Temple|0bb|x}",
 											"{@book Astral Plane|DMG|2|Astral Plane}",
 											"Scrap of githyanki armor, silver sphere"
 										],
 										[
 											"69\u201371",
 											"Chimney",
-											"{@book Great Bazaar|SatO|2|Great Bazaar}",
+											"{@area Great Bazaar|0c7|x}",
 											"{@book Elemental Plane of Air|DMG|2|Plane of Air}",
 											"Incense smoke, silken scarf"
 										],
 										[
 											"72\u201374",
 											"Cellar door",
-											"{@book Tower Sorcerous|SatO|2|Tower Sorcerous}",
+											"{@area Tower Sorcerous|081|x}",
 											"{@book Elemental Plane of Earth|DMG|2|Plane of Earth}",
 											"Granite cube, metal ore"
 										],
 										[
 											"75\u201377",
 											"Blazing hearth",
-											"{@book Smoldering Corpse Bar|SatO|2|Smoldering Corpse Bar}",
+											"{@area Smoldering Corpse Bar|093|x}",
 											"{@book Elemental Plane of Fire|DMG|2|Plane of Fire}",
 											"Brass brazier, burning coal"
 										],
 										[
 											"78\u201380",
 											"Crumbling well",
-											"{@book The Ditch|SatO|2|The Ditch}",
+											"{@area The Ditch|0b3|x}",
 											"{@book Elemental Plane of Water|DMG|2|Plane of Water}",
 											"Pearl, pure water"
 										],
 										[
 											"81\u201390",
 											"Mausoleum entrance",
-											"{@book Mortuary|SatO|2|Mortuary}",
+											"{@area Mortuary|08d|x}",
 											"{@book Shadowfell|DMG|2|Shadowfell}",
 											"Grave dirt, mourner's veil"
 										],
 										[
 											"91\u201394",
 											"Yew wardrobe",
-											"{@book Parted Veil|SatO|2|Parted Veil}",
+											"{@area Parted Veil|0b9|x}",
 											"{@book Feywild|DMG|2|Feywild}",
 											"Book of limericks, toadstool"
 										],
 										[
 											"95\u201398",
 											"Human-shaped hole",
-											"{@book Gastrognome|SatO|2|Gastrognome}",
+											"{@area Gastrognome|0c6|x}",
 											"{@book Far Realm|DMG|2|The Far Realm}",
 											"Alien fossil, bezoar"
 										],
 										[
 											"99\u201300",
 											"Inn room door",
-											"{@book Ubiquitous Wayfarer|SatO|2|Ubiquitous Wayfarer}",
+											"{@area Ubiquitous Wayfarer|0be|x}",
 											"{@book Material Plane|DMG|2|Known Worlds of the Material Plane}",
 											"Childhood toy, map scroll"
 										]
@@ -1001,7 +1001,7 @@
 					"entries": [
 						"On the Outer Planes, belief shapes reality. Cosmic concepts such as law and chaos can imbue true believers with newfound power, and when enough creatures unite under one ideology, their beliefs can remold the planes themselves. In Sigil, this power rests with the factions, like-minded philosophers guided by cosmic truths about the multiverse and its workings. Their philosophies are often associated with a plane or realm.",
 						"Factions control aspects of civic existence in Sigil, governing the day-to-day needs of a thriving metropolis, such as entertainment or law enforcement. Despite their influence within the city, factions have been erased from the city in the past, and current factions tread carefully to avoid that fate for themselves. They actively recruit new members from citizenry, travelers, and even the ranks of other factions. In the meantime, they vie for power in the Cage in a way that doesn't upset Sigil's order or provoke the Lady of Pain.",
-						"Factions are led by individuals known as factols. These leaders embody their groups' philosophies and serve different roles depending on their factions' needs. Factols and their delegates also represent their factions in a council that debates and passes laws in the {@book Hall of Speakers|SatO|2|Hall of Speakers} (see the \"{@book Clerks' Ward|SatO|2|Clerks' Ward}\" section later in this chapter). Most factions also have a physical headquarters in Sigil where they carry out aspects of civic governance. Within these areas, both geographical and influential, dedicated midranking faction members called factotums act as officers, furthering the interests of their factions within the city as clerks, squad leaders, and tutors. Factotums also keep an eye out for promising recruits to their philosophy.",
+						"Factions are led by individuals known as factols. These leaders embody their groups' philosophies and serve different roles depending on their factions' needs. Factols and their delegates also represent their factions in a council that debates and passes laws in the {@area Hall of Speakers|07d|x} (see the \"{@area Clerks' Ward|072|x}\" section later in this chapter). Most factions also have a physical headquarters in Sigil where they carry out aspects of civic governance. Within these areas, both geographical and influential, dedicated midranking faction members called factotums act as officers, furthering the interests of their factions within the city as clerks, squad leaders, and tutors. Factotums also keep an eye out for promising recruits to their philosophy.",
 						{
 							"type": "entries",
 							"name": "Ascendant Factions",
@@ -1029,7 +1029,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Shattered Temple|SatO|2|Shattered Temple}"
+													"entry": "{@area Shattered Temple|0bb|x}"
 												},
 												{
 													"type": "item",
@@ -1102,7 +1102,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Gatehouse|SatO|2|Gatehouse}"
+													"entry": "{@area Gatehouse|088|x}"
 												},
 												{
 													"type": "item",
@@ -1174,7 +1174,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Armory|SatO|2|Armory}"
+													"entry": "{@area Armory|099|x}"
 												},
 												{
 													"type": "item",
@@ -1247,7 +1247,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Hall of Records|SatO|2|Hall of Records}"
+													"entry": "{@area Hall of Records|07a|x}"
 												},
 												{
 													"type": "item",
@@ -1319,7 +1319,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book High Courts|SatO|2|High Courts}"
+													"entry": "{@area High Courts|0a6|x}"
 												},
 												{
 													"type": "item",
@@ -1391,7 +1391,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Various warehouses|SatO|2|Hive Ward}"
+													"entry": "{@area Various warehouses|082|x}"
 												},
 												{
 													"type": "item",
@@ -1464,7 +1464,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Barracks|SatO|2|Barracks}"
+													"entry": "{@area Barracks|09d|x}"
 												},
 												{
 													"type": "item",
@@ -1537,7 +1537,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Mortuary|SatO|2|Mortuary}"
+													"entry": "{@area Mortuary|08d|x}"
 												},
 												{
 													"type": "item",
@@ -1610,7 +1610,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Prison|SatO|2|Prison}"
+													"entry": "{@area Prison|0aa|x}"
 												},
 												{
 													"type": "item",
@@ -1683,7 +1683,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Great Foundry|SatO|2|Great Foundry}"
+													"entry": "{@area Great Foundry|0b6|x}"
 												},
 												{
 													"type": "item",
@@ -1756,7 +1756,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Civic Festhall|SatO|2|Civic Festhall}"
+													"entry": "{@area Civic Festhall|075|x}"
 												},
 												{
 													"type": "item",
@@ -1829,7 +1829,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Great Gymnasium|SatO|2|Great Gymnasium}"
+													"entry": "{@area Great Gymnasium|0ca|x}"
 												},
 												{
 													"type": "item",
@@ -1910,7 +1910,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Great Bazaar|SatO|2|Great Bazaar}"
+													"entry": "{@area Great Bazaar|0c7|x}"
 												},
 												{
 													"type": "item",
@@ -1951,7 +1951,7 @@
 												{
 													"type": "item",
 													"name": "Headquarters:",
-													"entry": "{@book Tower Sorcerous|SatO|2|Tower Sorcerous}"
+													"entry": "{@area Tower Sorcerous|081|x}"
 												},
 												{
 													"type": "item",
@@ -1970,7 +1970,7 @@
 												}
 											]
 										},
-										"The Incanterium was a faction thought dead when its headquarters, the Tower Sorcerous in the {@book Clerks' Ward|SatO|2|Clerks' Ward}, vanished along with all known Incantifers. Most thought the tower was banished to the Mazes, but it has since returned, rematerializing in the vacant lot where it once stood, bringing with it the return of the Incantifers. Members of the Incanterium siphon magic from items, spells, and those who wield them to lengthen their own lifespans. They believe that by absorbing magic and mastering its rules, one can rewrite reality."
+										"The Incanterium was a faction thought dead when its headquarters, the Tower Sorcerous in the {@area Clerks' Ward|072|x}, vanished along with all known Incantifers. Most thought the tower was banished to the Mazes, but it has since returned, rematerializing in the vacant lot where it once stood, bringing with it the return of the Incantifers. Members of the Incanterium siphon magic from items, spells, and those who wield them to lengthen their own lifespans. They believe that by absorbing magic and mastering its rules, one can rewrite reality."
 									]
 								},
 								{
@@ -2024,7 +2024,7 @@
 					"page": 29,
 					"id": "071",
 					"entries": [
-						"The City of Doors is divided into wards that are as varied as their inhabitants, from the polished heights of the bureaucratic {@book Clerks' Ward|SatO|2|Clerks' Ward} to the musty anarchy of {@book Undersigil|SatO|2|Undersigil}, the city's forsaken warrens. Each ward contains one or more faction headquarters: grand buildings where Sigil's philosophers convene and divide the city's functions. Establishments near one of these hubs tend to align with the faction's character. Shops clustered around the {@book Civic Festhall|SatO|2|Civic Festhall}, for example, cater to the pleasure-seeking tendencies of the Society of Sensation\u2014wine shops, concert halls, and vendors hawking one-and-done novelties.",
+						"The City of Doors is divided into wards that are as varied as their inhabitants, from the polished heights of the bureaucratic {@area Clerks' Ward|072|x} to the musty anarchy of {@area Undersigil|0ce|x}, the city's forsaken warrens. Each ward contains one or more faction headquarters: grand buildings where Sigil's philosophers convene and divide the city's functions. Establishments near one of these hubs tend to align with the faction's character. Shops clustered around the {@area Civic Festhall|075|x}, for example, cater to the pleasure-seeking tendencies of the Society of Sensation\u2014wine shops, concert halls, and vendors hawking one-and-done novelties.",
 						"The Sigil Wards table outlines each of the wards and the ascendant factions that headquarter within them, as well as six minor factions, which are marked with an asterisk (*).",
 						{
 							"type": "table",
@@ -2039,28 +2039,28 @@
 							],
 							"rows": [
 								[
-									"{@book Clerks' Ward|SatO|2|Clerks' Ward}",
-									"{@book Fated|SatO|2|Fated}, {@book Incanterium|SatO|2|Incanterium},* {@book Society of Sensation|SatO|2|Society of Sensation}"
+									"{@area Clerks' Ward|072|x}",
+									"{@area Fated|052|x}, {@area Incanterium|06f|x},* {@area Society of Sensation|067|x}"
 								],
 								[
-									"{@book Hive Ward|SatO|2|Hive Ward}",
-									"{@book Bleak Cabal|SatO|2|Bleak Cabal}, {@book Hands of Havoc|SatO|2|Hands of Havoc}, {@book Heralds of Dust|SatO|2|Heralds of Dust}"
+									"{@area Hive Ward|082|x}",
+									"{@area Bleak Cabal|04c|x}, {@area Hands of Havoc|058|x}, {@area Heralds of Dust|05e|x}"
 								],
 								[
-									"{@book Lady's Ward|SatO|2|Lady's Ward}",
-									"{@book Doomguard|SatO|2|Doomguard}, {@book Fraternity of Order|SatO|2|Fraternity of Order}, {@book Harmonium|SatO|2|Harmonium}, {@book Mercykillers|SatO|2|Mercykillers}"
+									"{@area Lady's Ward|096|x}",
+									"{@area Doomguard|04f|x}, {@area Fraternity of Order|055|x}, {@area Harmonium|05b|x}, {@area Mercykillers|061|x}"
 								],
 								[
-									"{@book Lower Ward|SatO|2|Lower Ward}",
-									"{@book Athar|SatO|2|Athar}, {@book Ring Givers|SatO|2|Ring Givers},* {@book Mind's Eye|SatO|2|Mind's Eye}"
+									"{@area Lower Ward|0af|x}",
+									"{@area Athar|049|x}, {@area Ring Givers|070|x},* {@area Mind's Eye|064|x}"
 								],
 								[
-									"{@book Market Ward|SatO|2|Market Ward}",
-									"{@book Free League|SatO|2|Free League},* {@book Transcendent Order|SatO|2|Transcendent Order}"
+									"{@area Market Ward|0bf|x}",
+									"{@area Free League|06e|x},* {@area Transcendent Order|06a|x}"
 								],
 								[
-									"{@book Undersigil|SatO|2|Undersigil}",
-									"Coterie of Cakes,* Revolutionary League,* Undivided* (see the \"{@book Undersigil|SatO|2|Undersigil}\" section later in this chapter for these factions)"
+									"{@area Undersigil|0ce|x}",
+									"Coterie of Cakes,* Revolutionary League,* Undivided* (see the \"{@area Undersigil|0ce|x}\" section later in this chapter for these factions)"
 								]
 							]
 						},
@@ -2082,7 +2082,7 @@
 								{
 									"type": "item",
 									"name": "Locations",
-									"entry": "A sampling of the ward's notable sites, including any faction headquarters, are provided here. Locations mentioned in these sections are designated on the {@book poster map of Sigil|SatO|2}."
+									"entry": "A sampling of the ward's notable sites, including any faction headquarters, are provided here. Locations mentioned in these sections are designated on the {@area poster map of Sigil|02b|x}."
 								},
 								{
 									"type": "item",
@@ -2136,12 +2136,12 @@
 												{
 													"type": "item",
 													"name": "Incanterium",
-													"entry": "Long thought to have been banished to the Mazes by the Lady of Pain along with their base of operations, members of the Incanterium are slowly trickling back into the Cage. Called \"mage drinkers\" by the few who remember them, the aged Incantifers siphon magic to sustain their ancient power. Disturbed residents murmur about the Incanterium's newly returned tower (see the \"{@book Tower Sorcerous|SatO|2|Tower Sorcerous}\" section). Rumor has it Duke Rowan Darkwood pays handsomely for information about his reclusive neighbors and their fortress."
+													"entry": "Long thought to have been banished to the Mazes by the Lady of Pain along with their base of operations, members of the Incanterium are slowly trickling back into the Cage. Called \"mage drinkers\" by the few who remember them, the aged Incantifers siphon magic to sustain their ancient power. Disturbed residents murmur about the Incanterium's newly returned tower (see the \"{@area Tower Sorcerous|081|x}\" section). Rumor has it Duke Rowan Darkwood pays handsomely for information about his reclusive neighbors and their fortress."
 												},
 												{
 													"type": "item",
 													"name": "Society of Sensation",
-													"entry": "Sensates pepper Sigil's otherwise drab streets with entertainment, tempting pedestrians with curiosity and excitement. All of Sigil is a stage to the Society of Sensation, but the greatest attraction is the {@book Civic Festhall|SatO|2|Civic Festhall}. Factol Erin Montgomery weaves masterful arguments in the {@book Hall of Speakers|SatO|2|Hall of Speakers}, where she sways naysayers with one guiding principle: they might not recall what you said, but they always remember how you made them feel."
+													"entry": "Sensates pepper Sigil's otherwise drab streets with entertainment, tempting pedestrians with curiosity and excitement. All of Sigil is a stage to the Society of Sensation, but the greatest attraction is the {@area Civic Festhall|075|x}. Factol Erin Montgomery weaves masterful arguments in the {@area Hall of Speakers|07d|x}, where she sways naysayers with one guiding principle: they might not recall what you said, but they always remember how you made them feel."
 												}
 											]
 										}
@@ -2244,7 +2244,7 @@
 									"page": 31,
 									"id": "078",
 									"entries": [
-										"Sensates quench their thirst at the Greengage, a humble cider shop across the street from the Civic Festhall that's popular among gnomes, halflings, and anyone else who can tolerate its four-foot ceilings. To stay in business, the establishment's owner, a chipper {@creature sprite} named Clea Appleblossom, updates its menu daily. Clea sends adventurers to gather supplies from the {@book Market Ward|SatO|2|Market Ward} or, for especially rare ingredients, the Outer Planes."
+										"Sensates quench their thirst at the Greengage, a humble cider shop across the street from the Civic Festhall that's popular among gnomes, halflings, and anyone else who can tolerate its four-foot ceilings. To stay in business, the establishment's owner, a chipper {@creature sprite} named Clea Appleblossom, updates its menu daily. Clea sends adventurers to gather supplies from the {@area Market Ward|0bf|x} or, for especially rare ingredients, the Outer Planes."
 									]
 								},
 								{
@@ -2462,7 +2462,7 @@
 									"id": "086",
 									"entries": [
 										"Fell, a {@creature dabus|MPP} (see {@book Morte's Planar Parade|MPP}), runs a tattoo parlor in the Hive. From a distance, he looks like any other of his kind\u2014a lean, purple-skinned figure in flowing robes, his horns protruding from a voluminous tuft of white hair atop his head. Shunned by the Lady of Pain and ostracized by his kin for declaring himself a priest of Aoskar, the dead god of portals, Fell now walks on the ground instead of floating above it. However, some of the dabus's magic remains, evident in the indelible designs he weaves into his visual rebuses.",
-										"Fell's Tattoos is a modest, oblong shack down the street from the {@book Smoldering Corpse Bar|SatO|2|Smoldering Corpse Bar} (detailed below). A pearl lightning bolt above the door marks the parlor's entrance. Inside, the quiet artist lets his handiwork speak for itself. Fell nods and smiles at his clients, producing wispy images that hang in the air and adjusting the shapes to their liking. The dabus applies each tattoo with a wave of his hand, wafting the design toward the client's skin where it grafts itself in vibrant ink.",
+										"Fell's Tattoos is a modest, oblong shack down the street from the {@area Smoldering Corpse Bar|093|x} (detailed below). A pearl lightning bolt above the door marks the parlor's entrance. Inside, the quiet artist lets his handiwork speak for itself. Fell nods and smiles at his clients, producing wispy images that hang in the air and adjusting the shapes to their liking. The dabus applies each tattoo with a wave of his hand, wafting the design toward the client's skin where it grafts itself in vibrant ink.",
 										{
 											"type": "entries",
 											"name": "Magic Tattoos",
@@ -2489,7 +2489,7 @@
 											"id": "089",
 											"entries": [
 												"Members of the Bleak Cabal find solace in existence by relieving the burdens of others. Bleakers in the Gatehouse restore creatures warped by demon ichor, research and remove complex curses, and comfort those who have glimpsed otherworldly horrors of sinister realms.",
-												"Althax Darkfleece ({@creature bariaur wanderer|MPP} with an Intelligence of 17; see {@book Morte's Planar Parade|MPP}), serves as the Gatehouse's resident expert on the negative effects of planar magic. Hailing from the gate-town of {@book Bedlam|SatO|3|Bedlam} (detailed in {@book chapter 3|SatO|3} of this book), Althax is a wise and compassionate academic who keeps unreasonable hours. To aid her ongoing research, she occasionally hires adventurers to investigate locations suffused with planar magic\u2014or collect samples from the planes themselves."
+												"Althax Darkfleece ({@creature bariaur wanderer|MPP} with an Intelligence of 17; see {@book Morte's Planar Parade|MPP}), serves as the Gatehouse's resident expert on the negative effects of planar magic. Hailing from the gate-town of {@area Bedlam|0ec|x} (detailed in {@area chapter 3|0da|x} of this book), Althax is a wise and compassionate academic who keeps unreasonable hours. To aid her ongoing research, she occasionally hires adventurers to investigate locations suffused with planar magic\u2014or collect samples from the planes themselves."
 											]
 										}
 									]
@@ -2666,7 +2666,7 @@
 									"id": "090",
 									"entries": [
 										"In the Cage, rat catching is a family business. Over the years, Parakk Pest has become a household name in the City of Doors. The tiered shack stands out from the rest of the ward thanks to the giant rat skull that sits atop its roof. Generations of exterminators follow in the footsteps of its githzerai founder, Parakk\u2014whose name means both \"servant\" and \"master.\" They adopt both his name and the duties that come with it. The githzerai eradicators, individually referred to as Parakks, service every ward in Sigil and are easily identified by their bright-pink skullcaps.",
-										"Sigil is a delicate ecosystem, and {@creature Cranium Rat Squeaker|MPP|cranium rats} play an important role in it. But while individual cranium rats are mostly harmless, swarms can rapidly become local menaces. The largest of these is the Us, a hyper-intelligent hivemind based in {@book Undersigil|SatO|2|Undersigil} (detailed later in this chapter). When cranium rat populations grow to dangerous sizes, the Parakks step in to cull their numbers. However, some conspiracy theorists claim the ratcatchers secretly serve the rats, collecting rodents to add to the horde.",
+										"Sigil is a delicate ecosystem, and {@creature Cranium Rat Squeaker|MPP|cranium rats} play an important role in it. But while individual cranium rats are mostly harmless, swarms can rapidly become local menaces. The largest of these is the Us, a hyper-intelligent hivemind based in {@area Undersigil|0ce|x} (detailed later in this chapter). When cranium rat populations grow to dangerous sizes, the Parakks step in to cull their numbers. However, some conspiracy theorists claim the ratcatchers secretly serve the rats, collecting rodents to add to the horde.",
 										"Particularly malignant infestations call for outside help. In such cases, Parakk Pest offers as much as 1 gp for a single cranium rat tail and larger sums to clear out entire swarms."
 									]
 								},
@@ -2676,7 +2676,7 @@
 									"page": 38,
 									"id": "091",
 									"entries": [
-										"A sliver of tightly clustered buildings stands between the orderly {@book Clerks' Ward|SatO|2|Clerks' Ward} and the chaos of the Hive. Named for its granular, red cobblestone streets, the Sandstone Strip shelters charlatans and scoundrels who take care of their own, along with anyone else burned by administrative backlash from Sigil's more powerful residents. When bureaucrats abuse their stations, the ward's rank and file rely on adventurers to even the scales and ensure Sigil's laws apply to all its citizens, not just those at the bottom."
+										"A sliver of tightly clustered buildings stands between the orderly {@area Clerks' Ward|072|x} and the chaos of the Hive. Named for its granular, red cobblestone streets, the Sandstone Strip shelters charlatans and scoundrels who take care of their own, along with anyone else burned by administrative backlash from Sigil's more powerful residents. When bureaucrats abuse their stations, the ward's rank and file rely on adventurers to even the scales and ensure Sigil's laws apply to all its citizens, not just those at the bottom."
 									]
 								},
 								{
@@ -2685,7 +2685,7 @@
 									"page": 38,
 									"id": "092",
 									"entries": [
-										"The Slags were just another part of the Hive until a portal to the front lines of the Blood War, the eternal conflict between devils and demons, opened in the middle of the neighborhood. For weeks, weapons of war tore through the fragile shacks, reducing them to smoldering piles of rubble, and demons massacred anything with a pulse. Save for a few stragglers, the portal and its invaders are long gone, but their devastation remains. Scavengers scour the ashen wasteland for infernal supply caches, clashing with enforcers on the lookout for fugitives. Repeated calls for reconstruction go ignored in the {@book Hall of Speakers|SatO|2|Hall of Speakers}.",
+										"The Slags were just another part of the Hive until a portal to the front lines of the Blood War, the eternal conflict between devils and demons, opened in the middle of the neighborhood. For weeks, weapons of war tore through the fragile shacks, reducing them to smoldering piles of rubble, and demons massacred anything with a pulse. Save for a few stragglers, the portal and its invaders are long gone, but their devastation remains. Scavengers scour the ashen wasteland for infernal supply caches, clashing with enforcers on the lookout for fugitives. Repeated calls for reconstruction go ignored in the {@area Hall of Speakers|07d|x}.",
 										{
 											"type": "quote",
 											"entries": [
@@ -2733,7 +2733,7 @@
 								"Distinguished and elegant, the Lady's Ward is home to the city's movers and shakers. The regal edifices of the Lady's Ward epitomize the wealth and influence of their inhabitants. Intrigue and treachery abound, blanketed behind the sumptuous veils of high society: masked balls, gambling houses, and private banquets. The Lady of Pain doesn't reside in the ward that bears her name, but power does\u2014the power to influence, administer, and evade the rule of law.",
 								"Despite its luxuries and breathtaking vistas, the Lady's Ward is quieter than other wards, its solemn streets frequented by members of the Fraternity of Order, the Harmonium, and the Mercykillers. Immovable monuments to order, these factions' imposing headquarters tower over the city blocks they occupy, surrounded by a smattering of smaller buildings that support their cycle of enforcement, adjudication, and punishment. Residents of other wards rarely visit the Lady's Ward without official business.",
 								"Fortunes are won and lost in the gambling houses of the Lady's Ward, where secret crime lords mingle with judges and off-duty guards. Greased palms lead to flimsy sentences and sudden pardons; such corruption goes ignored in the upper echelons of Sigil in favor of persecuting petty crimes elsewhere in the ward.",
-								"As if to balance its corruption, the Lady's Ward contains over half of Sigil's temples. Deities from every pantheon find worshipers in the City of Doors. No temples to the Lady of Pain exist in the ward; to construct one is an offense worthy of banishment to {@book the Mazes|SatO|2|The Mazes}.",
+								"As if to balance its corruption, the Lady's Ward contains over half of Sigil's temples. Deities from every pantheon find worshipers in the City of Doors. No temples to the Lady of Pain exist in the ward; to construct one is an offense worthy of banishment to {@area the Mazes|044|x}.",
 								{
 									"type": "quote",
 									"entries": [
@@ -2776,7 +2776,7 @@
 												{
 													"type": "item",
 													"name": "Mercykillers",
-													"entry": "When the Fraternity of Order deems a citizen guilty of a crime, the Mercykillers carry out the punishment. Citizens give these emotionless executioners a wide berth, fearful of obstructing justice and becoming the next target. Though most of their work occurs in the {@book Prison|SatO|2|Prison}, members of the faction regularly mete out discipline in public for all to see."
+													"entry": "When the Fraternity of Order deems a citizen guilty of a crime, the Mercykillers carry out the punishment. Citizens give these emotionless executioners a wide berth, fearful of obstructing justice and becoming the next target. Though most of their work occurs in the {@area Prison|0aa|x}, members of the faction regularly mete out discipline in public for all to see."
 												}
 											]
 										}
@@ -3194,7 +3194,7 @@
 												{
 													"type": "item",
 													"name": "Ring Givers",
-													"entry": "An up-and-coming faction, the Ring Givers are still finding their place in Sigil. Having recently sold their previous headquarters, a sprawling palace in the affluent {@book Lady's Ward|SatO|2|Lady's Ward}, this philanthropic faction now gathers in the Lower Ward, where it provides charity to industrious folk in communal spaces, factories, and warehouses."
+													"entry": "An up-and-coming faction, the Ring Givers are still finding their place in Sigil. Having recently sold their previous headquarters, a sprawling palace in the affluent {@area Lady's Ward|096|x}, this philanthropic faction now gathers in the Lower Ward, where it provides charity to industrious folk in communal spaces, factories, and warehouses."
 												}
 											]
 										},
@@ -3226,7 +3226,7 @@
 									"page": 47,
 									"id": "0b2",
 									"entries": [
-										"Along the banks of the Ditch (detailed below), a fire-gutted building conceals a gaping hole into the ground with a single ladder leading down into darkness. Here lies the Bones of the Night, a cavern complex home to the Master of Bones: Lothar the Old (neutral, human {@creature priest}). From the catacombs of {@book Undersigil|SatO|2|Undersigil} (detailed later in this chapter), Lothar gathers a macabre collection of skulls from various creatures, organizing them into a library of sorts. Ossuaries riddle the walls of his bizarre exhibit, their ledges richly decorated with grave goods paid to the departed.",
+										"Along the banks of the Ditch (detailed below), a fire-gutted building conceals a gaping hole into the ground with a single ladder leading down into darkness. Here lies the Bones of the Night, a cavern complex home to the Master of Bones: Lothar the Old (neutral, human {@creature priest}). From the catacombs of {@area Undersigil|0ce|x} (detailed later in this chapter), Lothar gathers a macabre collection of skulls from various creatures, organizing them into a library of sorts. Ossuaries riddle the walls of his bizarre exhibit, their ledges richly decorated with grave goods paid to the departed.",
 										"The Master of Bones uses necromancy to commune with the skulls in his collection and draw on their shared knowledge. For a fee, Lothar can cast the {@spell speak with dead} spell on any of his skulls, asking questions on the clients' behalf. He also trades and purchases new skulls. His prices range from 1 gp for a person who knew a single valuable story to upward of 10,000 gp for the skull of a factol or the high priest of a dead god.",
 										"The library is well guarded. Lothar is a capable combatant in his own right and can animate a host of skulls in his collection as {@creature Flameskull||flameskulls}. To combat larger threats, the Master of Bones relies on a ghoul-shaped {@creature stone golem} that answers to his command."
 									]
@@ -3366,7 +3366,7 @@
 											"page": 50,
 											"id": "0ba",
 											"entries": [
-												"Kesto maintains a vast collection of scrolls and spellbooks. He allows wizards to copy spells from them at the cost listed in the Spells for Sale table. Spells marked with an asterisk (*) appear in {@book chapter 1|SatO|1|Spells} of this book. He can have any of these scribed as a {@item spell scroll} for twice the listed cost for this service.",
+												"Kesto maintains a vast collection of scrolls and spellbooks. He allows wizards to copy spells from them at the cost listed in the Spells for Sale table. Spells marked with an asterisk (*) appear in {@area chapter 1|01f|x} of this book. He can have any of these scribed as a {@item spell scroll} for twice the listed cost for this service.",
 												{
 													"type": "table",
 													"caption": "Spells for Sale",
@@ -3559,7 +3559,7 @@
 									"id": "0c5",
 									"entries": [
 										"Creatures of every kind take a soak in the Flame Pits, a planar bathhouse whose pools swirl with bubbling acid, molten lava, and liquid shadow. Unicorns, bariaurs, and various Fiends get their hooves trimmed in grooming rooms, and galeb duhr sigh as they settle into boiling tubs of mud. Patrons dry off in front of warm vents tied to windy desert realms or the chilling gales of Pandemonium.",
-										"The baths are run by Laril Zazzkos, a {@creature githzerai uniter|MPP} (see {@book Morte's Planar Parade|MPP}), and her staff of rough-scrubbing mephits. Abrasive as a wiry brush, the eagle-eyed githzerai spends her days berating patrons who fail to observe the bathhouse's strict \"no running\" policy or warning those who get too close to the wrong tubs\u2014an occasionally fatal mistake. At heart, Laril is a rebel. Many of the tubs in her bathhouse have false bottoms for harboring fugitives or smuggling contraband. At least one of her tubs hides a passage into the depths of {@book Undersigil|SatO|2|Undersigil} (detailed later in this chapter)."
+										"The baths are run by Laril Zazzkos, a {@creature githzerai uniter|MPP} (see {@book Morte's Planar Parade|MPP}), and her staff of rough-scrubbing mephits. Abrasive as a wiry brush, the eagle-eyed githzerai spends her days berating patrons who fail to observe the bathhouse's strict \"no running\" policy or warning those who get too close to the wrong tubs\u2014an occasionally fatal mistake. At heart, Laril is a rebel. Many of the tubs in her bathhouse have false bottoms for harboring fugitives or smuggling contraband. At least one of her tubs hides a passage into the depths of {@area Undersigil|0ce|x} (detailed later in this chapter)."
 									]
 								},
 								{
@@ -3578,7 +3578,7 @@
 									"id": "0c7",
 									"entries": [
 										"The chief attraction of the ward is the Great Bazaar, a vast plaza of shops where anything and everything can be found. Boisterous throngs of shoppers crowd its bustling avenues at all hours, doing business with vendors from every corner of the multiverse.",
-										"The Great Bazaar is a cosmopolitan sampling of the planes and the goods they have to offer. Though more scandalous merchandise typically finds its way to the {@book Gatehouse Night Market|SatO|2|Gatehouse Night Market} (see the \"{@book Hive Ward|SatO|2|Hive Ward}\" section), the bazaar has anything a traveler could want, so long as they can find it in the open market's constant commotion. Scents collide in the winding stalls: warm, right-angled bread loaves prepared fresh by modron bakers; spotted mushrooms hocked by bullywug grocers; and perfumed holy water sold by winged Celestials. Vibrant produce dangles from the leafy awnings of living plant stalls, and masterwork armors forged from rare metals bear insignias from blacksmiths on other worlds.",
+										"The Great Bazaar is a cosmopolitan sampling of the planes and the goods they have to offer. Though more scandalous merchandise typically finds its way to the {@area Gatehouse Night Market|08a|x} (see the \"{@area Hive Ward|082|x}\" section), the bazaar has anything a traveler could want, so long as they can find it in the open market's constant commotion. Scents collide in the winding stalls: warm, right-angled bread loaves prepared fresh by modron bakers; spotted mushrooms hocked by bullywug grocers; and perfumed holy water sold by winged Celestials. Vibrant produce dangles from the leafy awnings of living plant stalls, and masterwork armors forged from rare metals bear insignias from blacksmiths on other worlds.",
 										{
 											"type": "entries",
 											"name": "Free League Presence",
@@ -3879,7 +3879,7 @@
 										],
 										[
 											"2",
-											"A barrister begs the characters to serve as witnesses during a trial in the {@book High Courts|SatO|2|High Courts}, but the characters have no memory of witnessing a crime."
+											"A barrister begs the characters to serve as witnesses during a trial in the {@area High Courts|0a6|x}, but the characters have no memory of witnessing a crime."
 										],
 										[
 											"3",
@@ -3957,7 +3957,7 @@
 										],
 										[
 											"3",
-											"A faction leader hires the characters as bodyguards for an important city event at the {@book Hall of Speakers|SatO|2|Hall of Speakers}."
+											"A faction leader hires the characters as bodyguards for an important city event at the {@area Hall of Speakers|07d|x}."
 										],
 										[
 											"4",
@@ -3965,7 +3965,7 @@
 										],
 										[
 											"5",
-											"A factotum secretly offers the characters a hefty reward to break someone out of the {@book Prison|SatO|2|Prison}."
+											"A factotum secretly offers the characters a hefty reward to break someone out of the {@area Prison|0aa|x}."
 										],
 										[
 											"6",
@@ -4000,11 +4000,11 @@
 										],
 										[
 											"2",
-											"Waves of arcane blackouts sweep across Sigil. During these events, magic items have their effects suppressed, spells behave unpredictably, and portals cease to function. The {@book Incanterium|SatO|2|Incanterium} is to blame."
+											"Waves of arcane blackouts sweep across Sigil. During these events, magic items have their effects suppressed, spells behave unpredictably, and portals cease to function. The {@area Incanterium|06f|x} is to blame."
 										],
 										[
 											"3",
-											"Without warning, the Lady of Pain sends two-thirds of Sigil's population to {@book the Mazes|SatO|2|The Mazes}. It's up to the characters to figure out why."
+											"Without warning, the Lady of Pain sends two-thirds of Sigil's population to {@area the Mazes|044|x}. It's up to the characters to figure out why."
 										],
 										[
 											"4",
@@ -4012,11 +4012,11 @@
 										],
 										[
 											"5",
-											"A portal to the front lines of the Blood War opens in the {@book Lower Ward|SatO|2|Lower Ward}, bringing the conflict to the city."
+											"A portal to the front lines of the Blood War opens in the {@area Lower Ward|0af|x}, bringing the conflict to the city."
 										],
 										[
 											"6",
-											"Dozens of dead factions unite in {@book Undersigil|SatO|2|Undersigil}. They mount an uprising on the surface and attempt to oust several factions."
+											"Dozens of dead factions unite in {@area Undersigil|0ce|x}. They mount an uprising on the surface and attempt to oust several factions."
 										],
 										[
 											"7",
@@ -4090,7 +4090,7 @@
 							"page": 61,
 							"id": "0dd",
 							"entries": [
-								"Bartering is common in the vast and varied realms of the Outlands. When money exchanges hands, it often takes the form of a lodestar\u2014a weakly magnetic, cobalt coin stamped on both sides with a five-point star. Minted in the gate-town of {@book Tradegate|SatO|3|Tradegate} (detailed later in this chapter), a lodestar is valued at 1 gp elsewhere."
+								"Bartering is common in the vast and varied realms of the Outlands. When money exchanges hands, it often takes the form of a lodestar\u2014a weakly magnetic, cobalt coin stamped on both sides with a five-point star. Minted in the gate-town of {@area Tradegate|15d|x} (detailed later in this chapter), a lodestar is valued at 1 gp elsewhere."
 							]
 						},
 						{
@@ -4126,7 +4126,7 @@
 							"page": 61,
 							"id": "0e1",
 							"entries": [
-								"The {@book poster map|SatO|2} included with this product depicts the Outlands and some of the locations found on the plane. Distances in the Outlands are impossible to gauge, fluctuating along with travel times as determined by the DM. The map displays pictorial impressions of locations that only hint at their arrangement and distances from one another, making no claims about the wondrous sites that might lie between them. A journey in the Outlands could take minutes or days, leading to a popular saying among locals: \"It takes as long as it takes.\""
+								"The {@area poster map|02b|x} included with this product depicts the Outlands and some of the locations found on the plane. Distances in the Outlands are impossible to gauge, fluctuating along with travel times as determined by the DM. The map displays pictorial impressions of locations that only hint at their arrangement and distances from one another, making no claims about the wondrous sites that might lie between them. A journey in the Outlands could take minutes or days, leading to a popular saying among locals: \"It takes as long as it takes.\""
 							]
 						}
 					]
@@ -4458,7 +4458,7 @@
 												],
 												[
 													"2",
-													"Each night, a {@creature darkweaver|MPP} (see {@book Morte's Planar Parade|MPP}) snatches a resident of Midtown and drags them into the {@book Wailing Hollows|SatO|3|Wailing Hollows}. Gatekeeper Cirrus calls for the creature's capture or extermination."
+													"Each night, a {@creature darkweaver|MPP} (see {@book Morte's Planar Parade|MPP}) snatches a resident of Midtown and drags them into the {@area Wailing Hollows|0f2|x}. Gatekeeper Cirrus calls for the creature's capture or extermination."
 												],
 												[
 													"3",
@@ -4626,7 +4626,7 @@
 												],
 												[
 													"2",
-													"A disgraced {@creature githzerai uniter|MPP} (see {@book Morte's Planar Parade|MPP}) in the {@book Traitor's Gate|SatO|3|Traitor's Gate} pays the characters to free Tovus Gilaf from the burgomaster's estate."
+													"A disgraced {@creature githzerai uniter|MPP} (see {@book Morte's Planar Parade|MPP}) in the {@area Traitor's Gate|0fc|x} pays the characters to free Tovus Gilaf from the burgomaster's estate."
 												],
 												[
 													"3",
@@ -4801,15 +4801,15 @@
 												],
 												[
 													"2",
-													"The Lightcaller holds a peace banquet in {@book Solrise Tower|SatO|3|Solrise Tower}, inviting powerful devils and demons in hopes of ending the Blood War. A {@creature solar} requests the characters attend in case things turn ugly."
+													"The Lightcaller holds a peace banquet in {@area Solrise Tower|106|x}, inviting powerful devils and demons in hopes of ending the Blood War. A {@creature solar} requests the characters attend in case things turn ugly."
 												],
 												[
 													"3",
-													"A {@creature green hag} poisons Ecstasy's orchards daily at twilight, outside the jurisdiction of either monarch. After a string of illnesses at {@book Revelhome|SatO|3|Revelhome}, Madame Millani hires the characters to investigate."
+													"A {@creature green hag} poisons Ecstasy's orchards daily at twilight, outside the jurisdiction of either monarch. After a string of illnesses at {@area Revelhome|105|x}, Madame Millani hires the characters to investigate."
 												],
 												[
 													"4",
-													"Three evenings have passed since the gates of {@book Moondark Tower|SatO|3|Moondark Tower} last opened. An owl-like {@creature avoral guardinal|MPP} (see {@book Morte's Planar Parade|MPP}) night merchant asks the party to solve the mystery."
+													"Three evenings have passed since the gates of {@area Moondark Tower|103|x} last opened. An owl-like {@creature avoral guardinal|MPP} (see {@book Morte's Planar Parade|MPP}) night merchant asks the party to solve the mystery."
 												]
 											]
 										}
@@ -4974,11 +4974,11 @@
 												],
 												[
 													"3",
-													"Allowed into the {@book forum|SatO|3|Forum} on an ancient contract, a silver-tongued {@creature pit fiend} invites Excelsior's orators to debate the worth of a soul. An angel asks the characters to take the podium."
+													"Allowed into the {@area forum|10d|x} on an ancient contract, a silver-tongued {@creature pit fiend} invites Excelsior's orators to debate the worth of a soul. An angel asks the characters to take the podium."
 												],
 												[
 													"4",
-													"The faith of a divine champion ({@creature gladiator}) begins to waver in the {@book Chandelier|SatO|3|Chandelier}, causing their cloud keep to shudder. A {@creature lantern archon|MPP} (see {@book Morte's Planar Parade|MPP}) asks the characters to erase the warrior's doubt before their fortress falls from the sky."
+													"The faith of a divine champion ({@creature gladiator}) begins to waver in the {@area Chandelier|10c|x}, causing their cloud keep to shudder. A {@creature lantern archon|MPP} (see {@book Morte's Planar Parade|MPP}) asks the characters to erase the warrior's doubt before their fortress falls from the sky."
 												]
 											]
 										}
@@ -5140,7 +5140,7 @@
 												],
 												[
 													"2",
-													"Commanded by a general in Rigus, a {@creature hobgoblin warlord} attempts to capture {@book Camp Greenbriar|SatO|3|Camp Greenbriar} and convert it into a logging camp."
+													"Commanded by a general in Rigus, a {@creature hobgoblin warlord} attempts to capture {@area Camp Greenbriar|115|x} and convert it into a logging camp."
 												],
 												[
 													"3",
@@ -5179,7 +5179,7 @@
 										}
 									]
 								},
-								"Fortitude is a place of ordered beauty. Identical trees line its polished boulevards in neat rows, and each uniformly trimmed blade of grass in its public parks glistens with a single drop of morning dew. Fastened to Arcadia, a plane of law and virtue, Fortitude combines the rigidity of {@book Automata|SatO|3|Automata} with the puritanical attitudes of {@book Excelsior|SatO|3|Excelsior}, creating a pressure chamber of homogeneous moral rectitude.",
+								"Fortitude is a place of ordered beauty. Identical trees line its polished boulevards in neat rows, and each uniformly trimmed blade of grass in its public parks glistens with a single drop of morning dew. Fastened to Arcadia, a plane of law and virtue, Fortitude combines the rigidity of {@area Automata|0e3|x} with the puritanical attitudes of {@area Excelsior|108|x}, creating a pressure chamber of homogeneous moral rectitude.",
 								"The gate-town's residents are charitable people who pursue purity to a fault. At first, locals appear perfectly benign\u2014smiling, hospitable folk in immaculate attire who look after their fold\u2014but their veils of compassion slowly betray their obsessive natures. Townsfolk fixate on flaws, in themselves and in their surroundings, believing that abnormality is the precursor to evil. They fret over their appearances, chasing impossible standards of beauty and grace. Wracked by contempt, they smother what makes them truly unique, like gardeners pruning unsightly branches from their own personalities.",
 								{
 									"type": "quote",
@@ -5307,7 +5307,7 @@
 												],
 												[
 													"2",
-													"After a series of guilty admissions, {@creature Black Pudding||black puddings} begin to slither from the {@book Pavilion of Purity|SatO|3|Pavilion of Purity} at night, slaying their confessors one by one. The Spotless Seven hires the party to scrub the black puddings from the town."
+													"After a series of guilty admissions, {@creature Black Pudding||black puddings} begin to slither from the {@area Pavilion of Purity|120|x} at night, slaying their confessors one by one. The Spotless Seven hires the party to scrub the black puddings from the town."
 												],
 												[
 													"3",
@@ -5479,11 +5479,11 @@
 												],
 												[
 													"3",
-													"A {@creature frost giant} jarl learns of the entrance to the World Tree within {@book Serpent's Rise|SatO|3|Serpent's Rise}. Rather than attack Glorium, he sets out to find the root and use it to conquer untold worlds."
+													"A {@creature frost giant} jarl learns of the entrance to the World Tree within {@area Serpent's Rise|129|x}. Rather than attack Glorium, he sets out to find the root and use it to conquer untold worlds."
 												],
 												[
 													"4",
-													"A {@creature sea hag} in the {@book Sacred Well|SatO|3|Sacred Well} tells one of the characters they will die at the hand of Gzemnid in five days."
+													"A {@creature sea hag} in the {@area Sacred Well|128|x} tells one of the characters they will die at the hand of Gzemnid in five days."
 												]
 											]
 										}
@@ -5629,7 +5629,7 @@
 											"rows": [
 												[
 													"1",
-													"The party is caught red-handed after a mean-spirited {@creature goblin} makeup artist ambushes them with a splash of magic paint. Two {@creature Beholder||beholders} demand the characters perform at the {@book Gallows|SatO|3|Gallows} or be disintegrated where they stand."
+													"The party is caught red-handed after a mean-spirited {@creature goblin} makeup artist ambushes them with a splash of magic paint. Two {@creature Beholder||beholders} demand the characters perform at the {@area Gallows|130|x} or be disintegrated where they stand."
 												],
 												[
 													"2",
@@ -5809,7 +5809,7 @@
 												],
 												[
 													"3",
-													"Armed with a forked spear, the vindictive Martari Mayhem (lawful evil, tiefling {@creature gladiator}) plans to storm {@book Blightsteel Keep|SatO|3|Blightsteel Keep}. At the {@book Razed Altar|SatO|3|Razed Altar}, she hires the characters to infiltrate the stronghold and report on its defenses."
+													"Armed with a forked spear, the vindictive Martari Mayhem (lawful evil, tiefling {@creature gladiator}) plans to storm {@area Blightsteel Keep|138|x}. At the {@area Razed Altar|13a|x}, she hires the characters to infiltrate the stronghold and report on its defenses."
 												],
 												[
 													"4",
@@ -5962,7 +5962,7 @@
 												],
 												[
 													"2",
-													"Commanded by a fallen angel (lawful evil {@creature planetar}) who runs a rival tavern, a gaggle of {@creature Imp||imps} begins vandalizing the {@book Bleeding Horn|SatO|3|Bleeding Horn}. The {@creature ice devil} Sparax pays characters to deal with the situation."
+													"Commanded by a fallen angel (lawful evil {@creature planetar}) who runs a rival tavern, a gaggle of {@creature Imp||imps} begins vandalizing the {@area Bleeding Horn|140|x}. The {@creature ice devil} Sparax pays characters to deal with the situation."
 												],
 												[
 													"3",
@@ -6116,19 +6116,19 @@
 											"rows": [
 												[
 													"1",
-													"The {@creature arcanaloth} Fetchtatter pays the characters to steal an infernal war machine from {@book Ribcage|SatO|3|Ribcage} so it can be sold to a general in Rigus."
+													"The {@creature arcanaloth} Fetchtatter pays the characters to steal an infernal war machine from {@area Ribcage|13c|x} so it can be sold to a general in Rigus."
 												],
 												[
 													"2",
-													"The avatar of an evil deity of war (use the {@creature planar incarnate|MPP} stat block from {@book Morte's Planar Parade|MPP}) emerges from the {@book Lion's Gate|SatO|3|Gate} to destroy Rigus."
+													"The avatar of an evil deity of war (use the {@creature planar incarnate|MPP} stat block from {@book Morte's Planar Parade|MPP}) emerges from the {@area Lion's Gate|0e4|x} to destroy Rigus."
 												],
 												[
 													"3",
-													"A {@creature mummy lord} in the {@book Crown|SatO|3|Crown} commands General Braahg to implement an outdated strategy. Risking treason, the hobgoblin hires the characters to lay his superior to rest."
+													"A {@creature mummy lord} in the {@area Crown|149|x} commands General Braahg to implement an outdated strategy. Risking treason, the hobgoblin hires the characters to lay his superior to rest."
 												],
 												[
 													"4",
-													"The {@creature ghost} of a fallen warrior asks the party to investigate why their name isn't on the {@book Final Procession|SatO|3|Final Procession}. The culprit is a petty Crown General who took credit for the warrior's heroism."
+													"The {@creature ghost} of a fallen warrior asks the party to investigate why their name isn't on the {@area Final Procession|14a|x}. The culprit is a petty Crown General who took credit for the warrior's heroism."
 												]
 											]
 										}
@@ -6280,7 +6280,7 @@
 											"rows": [
 												[
 													"1",
-													"A {@creature vampire} bachelorette invites the characters to a costumed ball at the {@book Yearning Timbers|SatO|3|Yearning Timbers}, hoping to enlist their help in choosing her next partner."
+													"A {@creature vampire} bachelorette invites the characters to a costumed ball at the {@area Yearning Timbers|152|x}, hoping to enlist their help in choosing her next partner."
 												],
 												[
 													"2",
@@ -6399,7 +6399,7 @@
 									"page": 88,
 									"id": "159",
 									"entries": [
-										"Headquartered in the city of Sigil, the {@book Bank of Abbathor|SatO|2|Bank of Abbathor Inc.} (detailed in {@book chapter 2|SatO|2}) services customers across the planes. Account holders can visit a branch of the respected financial institution in the Outlands, just spireward of the bridge in Upper Dohin, but they might not like what they see.",
+										"Headquartered in the city of Sigil, the {@area Bank of Abbathor|0c2|x} (detailed in {@area chapter 2|02b|x}) services customers across the planes. Account holders can visit a branch of the respected financial institution in the Outlands, just spireward of the bridge in Upper Dohin, but they might not like what they see.",
 										"The Bank of Abbathor in Torch is a cesspool of white-collar crime. Fraud, money laundering, and forgery run rampant within the once-shining branch, whose crumbling roof collapsed long ago. Pummeled and melted by fiery rockslides, the statue of Abbathor in the lobby is hardly recognizable. The bank's original tellers are gone, replaced by profiteers who skim a few coins off every transaction. They don't keep their ill-gotten gains for long, however. The branch gets robbed at least once a week."
 									]
 								},
@@ -6454,7 +6454,7 @@
 												],
 												[
 													"3",
-													"The {@book Bank of Abbathor|SatO|3|Bank of Abbathor} hires the characters as security. The very same day, two {@creature Maelephant|MPP|maelephants} (see {@book Morte's Planar Parade|MPP}) attempt to rob the bank."
+													"The {@area Bank of Abbathor|159|x} hires the characters as security. The very same day, two {@creature Maelephant|MPP|maelephants} (see {@book Morte's Planar Parade|MPP}) attempt to rob the bank."
 												],
 												[
 													"4",
@@ -6606,7 +6606,7 @@
 											"rows": [
 												[
 													"1",
-													"While the characters are shopping, several hostile {@creature xorn} attack the {@book Trademill Mint|SatO|3|Trademill Mint}."
+													"While the characters are shopping, several hostile {@creature xorn} attack the {@area Trademill Mint|163|x}."
 												],
 												[
 													"2",
@@ -6614,11 +6614,11 @@
 												],
 												[
 													"3",
-													"Melvin Manyroads (chaotic good, gnome {@creature mage}) asks the characters to help map one of the many sites in the Outlands (see the \"{@book Other Realms|SatO|3|Other Realms}\" section later in this chapter)."
+													"Melvin Manyroads (chaotic good, gnome {@creature mage}) asks the characters to help map one of the many sites in the Outlands (see the \"{@area Other Realms|16d|x}\" section later in this chapter)."
 												],
 												[
 													"4",
-													"A local beekeeper wants to sell a special planar honey in the {@book Everything Emporium|SatO|3|Everything Emporium}. To help her get started, the beekeeper asks the characters to capture {@dice 1d10} live {@creature Sunfly|MPP|sunflies} (see {@book Morte's Planar Parade|MPP})."
+													"A local beekeeper wants to sell a special planar honey in the {@area Everything Emporium|161|x}. To help her get started, the beekeeper asks the characters to capture {@dice 1d10} live {@creature Sunfly|MPP|sunflies} (see {@book Morte's Planar Parade|MPP})."
 												]
 											]
 										}
@@ -6720,7 +6720,7 @@
 									"id": "169",
 									"entries": [
 										"Recently, a unit of modrons from the far end of the Outlands set out to establish a degree of order in Xaos. The modrons' solution was a lawful outpost: a polished brass polygon called the Cube. However, the gate-town gradually corrupted the outpost, which collapsed in on its occupants. Now, the Cube exists in a constant state of flux, an undulating, four-dimensional mass of repeating fractals and micrified contours. Those who enter the Cube are rarely seen again, and the few creatures that claim to have been inside the structure describe it as a hostile realm of mathematical impossibilities, a clockwork house of horrors.",
-										"Some residents speculate the Cube is alive\u2014a hovering, sapient Construct that feeds on Xaos's disorderly residents. Periodically, {@book Automata|SatO|3|Automata} deploys modrons to recover the lost unit, but they are swallowed just the same, absorbed into the belly of a massive, mechanical beast."
+										"Some residents speculate the Cube is alive\u2014a hovering, sapient Construct that feeds on Xaos's disorderly residents. Periodically, {@area Automata|0e3|x} deploys modrons to recover the lost unit, but they are swallowed just the same, absorbed into the belly of a massive, mechanical beast."
 									]
 								},
 								{
@@ -6764,7 +6764,7 @@
 											"rows": [
 												[
 													"1",
-													"A team of four {@creature Quadrone||quadrones} recruits the party on a rescue mission into the {@book Cube|SatO|3|The Cube}."
+													"A team of four {@creature Quadrone||quadrones} recruits the party on a rescue mission into the {@area Cube|169|x}."
 												],
 												[
 													"2",
@@ -6799,7 +6799,7 @@
 							"page": 94,
 							"id": "16e",
 							"entries": [
-								"The spies of Ilsensine report to the Caverns of Thought, a hostile realm of alien tunnels deep beneath the Outlands. Cold and calculating, Ilsensine is a divine entity revered among illithids. Ilsensine's infinite tentacles pervade the otherworldly caverns, worming their way into untold worlds. {@creature Eater of Knowledge|MPP|Eaters of knowledge} (see {@book Morte's Planar Parade|MPP}), along with {@creature Mind Flayer||mind flayers} and their thralls, protect the hive mind, which intersects with {@book Gzemnid's Realm|SatO|3|Gzemnid's Realm} (detailed below).",
+								"The spies of Ilsensine report to the Caverns of Thought, a hostile realm of alien tunnels deep beneath the Outlands. Cold and calculating, Ilsensine is a divine entity revered among illithids. Ilsensine's infinite tentacles pervade the otherworldly caverns, worming their way into untold worlds. {@creature Eater of Knowledge|MPP|Eaters of knowledge} (see {@book Morte's Planar Parade|MPP}), along with {@creature Mind Flayer||mind flayers} and their thralls, protect the hive mind, which intersects with {@area Gzemnid's Realm|173|x} (detailed below).",
 								"The Great Brain rarely entertains visitors. However, creatures who aspire to slay or supplant gods sometimes find themselves in Ilsensine's service, hoping to learn a fraction of the coveted secrets the deity has pried from the minds of the multiverse."
 							]
 						},
@@ -6839,7 +6839,7 @@
 							"page": 94,
 							"id": "171",
 							"entries": [
-								"Just spireward of {@book Ecstasy|SatO|3|Ecstasy} lies the Flowering Hill, a kaleidoscopic orchard and the divine realm of Sheela Peryroyl, the halfling god of agriculture. Vibrant wildflowers sprout behind every step taken in this agrarian community of sturdy fences and mossy hill homes. Halfling farmers live carefree lives in the Flowering Hill, tending to quaint but fertile plots, far from the hustle and bustle of busier locales and their dangers. Harvests are plenty, so feasts are a regular occurrence, hosted by the god and open to any nature lover with an empty belly and a tale to tell."
+								"Just spireward of {@area Ecstasy|0fe|x} lies the Flowering Hill, a kaleidoscopic orchard and the divine realm of Sheela Peryroyl, the halfling god of agriculture. Vibrant wildflowers sprout behind every step taken in this agrarian community of sturdy fences and mossy hill homes. Halfling farmers live carefree lives in the Flowering Hill, tending to quaint but fertile plots, far from the hustle and bustle of busier locales and their dangers. Harvests are plenty, so feasts are a regular occurrence, hosted by the god and open to any nature lover with an empty belly and a tale to tell."
 							]
 						},
 						{
@@ -6848,7 +6848,7 @@
 							"page": 94,
 							"id": "172",
 							"entries": [
-								"Creatures who wish to travel from {@book Ribcage|SatO|3|Ribcage} to {@book Rigus|SatO|3|Rigus} on foot must traverse the Great Pass, a bulwark of rugged mountains that mirror the unforgiving gate-towns they border. Choked by dust and volcanic ash, the jagged peaks conceal the lairs of demoted devils and remote camps of soldiers who deserted the infinite conflict on {@book Acheron|DMG|2|Acheron}. Their names besmirched, the renegades prey on travelers seeking the pitiless homes the soldiers abandoned."
+								"Creatures who wish to travel from {@area Ribcage|13c|x} to {@area Rigus|144|x} on foot must traverse the Great Pass, a bulwark of rugged mountains that mirror the unforgiving gate-towns they border. Choked by dust and volcanic ash, the jagged peaks conceal the lairs of demoted devils and remote camps of soldiers who deserted the infinite conflict on {@book Acheron|DMG|2|Acheron}. Their names besmirched, the renegades prey on travelers seeking the pitiless homes the soldiers abandoned."
 							]
 						},
 						{
@@ -6858,7 +6858,7 @@
 							"id": "173",
 							"entries": [
 								"Tall, spindly mountains rise and curl above the noxious realm of Gzemnid the Gas Giant, the beholder god of deception, fumes, and fog. The offspring of the Great Mother\u2014the eldritch matriarch from which all beholders descend\u2014Gzemnid lurks within a deadly network of smooth tunnels, obscured by toxic clouds and laced with traps and illusions. {@creature Beholder||Beholders} prowl the gaseous labyrinth, furthering their god's duplicitous schemes.",
-								"Gzemnid's Realm is connected to the {@book Caverns of Thought|SatO|3|Caverns of Thought}. The beholder god enjoys a tenuous alliance with Ilsensine, whose servants and aberrant thoughts haunt the depths of the subterranean maze."
+								"Gzemnid's Realm is connected to the {@area Caverns of Thought|16e|x}. The beholder god enjoys a tenuous alliance with Ilsensine, whose servants and aberrant thoughts haunt the depths of the subterranean maze."
 							]
 						},
 						{
@@ -6895,7 +6895,7 @@
 							"page": 95,
 							"id": "177",
 							"entries": [
-								"Hammers ring out in Moradin's Anvil, a dwarven mining city tucked under the icy mountains spireward of {@book Glorium|SatO|3|Glorium}. The realm is divided among three dwarven deities: Dugmaren Brightmantle, god of invention and discovery; Dumathoin, god of exploration and buried secrets; and Vergadain, god of luck and wealth.",
+								"Hammers ring out in Moradin's Anvil, a dwarven mining city tucked under the icy mountains spireward of {@area Glorium|122|x}. The realm is divided among three dwarven deities: Dugmaren Brightmantle, god of invention and discovery; Dumathoin, god of exploration and buried secrets; and Vergadain, god of luck and wealth.",
 								"Impeccable smiths, the dwarves of Moradin's Anvil produce some of the best armor and weapons in the Outlands. They regularly trade with the people of Ironridge, a small surface settlement nestled in less perilous peaks near Glorium."
 							]
 						},
@@ -6915,7 +6915,7 @@
 							"page": 96,
 							"id": "179",
 							"entries": [
-								"The River Ma'at is a snaking waterway that flows spireward of the gate-towns from {@book Torch|SatO|3|Torch} to {@book Excelsior|SatO|3|Excelsior}. Boathouses float atop its gentle waters, and gnome-operated paddle steamers chug along the river's length, ferrying travelers between realms for a few lodestars. Stilt houses rise from the river's flooded banks, marshy expanses widened by countless tributaries and surges from other planes.",
+								"The River Ma'at is a snaking waterway that flows spireward of the gate-towns from {@area Torch|154|x} to {@area Excelsior|108|x}. Boathouses float atop its gentle waters, and gnome-operated paddle steamers chug along the river's length, ferrying travelers between realms for a few lodestars. Stilt houses rise from the river's flooded banks, marshy expanses widened by countless tributaries and surges from other planes.",
 								"The River Ma'at is a delicate aquatic ecosystem molded by the wondrous creatures that inhabit it. Wild {@creature Unicorn||unicorns} drink from sparkling streams, {@creature Sea Hag||sea hags} plot in dank river caves, and the river splits into branching sections of rapids near the dens of sleeping {@creature Hydra||hydras}."
 							]
 						},
@@ -6944,7 +6944,7 @@
 							"page": 96,
 							"id": "17c",
 							"entries": [
-								"Outside the gate-towns, Thebestys is one of the largest settlements in the Outlands. Deserts and marshes compete for dominance around the walled city, situated near the banks of the {@book River Ma'at|SatO|3|River Ma'at}. Founded by a god of learning, Thebestys draws sages and scholars with the promise of knowledge, for its library is said to hold the answer to any question one could ask. However, finding answers within the endless repository can prove futile\u2014some creatures die of old age in between its bookshelves only to continue their hunt as petitioners. More often, planar powers of knowledge come to Thebestys to throw down with one another in academic debates, hoping to assert a single truth for all of history."
+								"Outside the gate-towns, Thebestys is one of the largest settlements in the Outlands. Deserts and marshes compete for dominance around the walled city, situated near the banks of the {@area River Ma'at|179|x}. Founded by a god of learning, Thebestys draws sages and scholars with the promise of knowledge, for its library is said to hold the answer to any question one could ask. However, finding answers within the endless repository can prove futile\u2014some creatures die of old age in between its bookshelves only to continue their hunt as petitioners. More often, planar powers of knowledge come to Thebestys to throw down with one another in academic debates, hoping to assert a single truth for all of history."
 							]
 						},
 						{
@@ -6953,7 +6953,7 @@
 							"page": 96,
 							"id": "17d",
 							"entries": [
-								"The bony pillars from which the gate-town of {@book Ribcage|SatO|3|Ribcage} derives its name stem from the Vale of the Spine, a narrow valley of towering, curved mountains rumored to be the corpse of some ancient titan. Dried-up bones and rusted infernal scrap, eroded by acid rain and hellish temperatures, litter the barren vale. As one moves spireward, the landscape gradually gives way to dusty plains."
+								"The bony pillars from which the gate-town of {@area Ribcage|13c|x} derives its name stem from the Vale of the Spine, a narrow valley of towering, curved mountains rumored to be the corpse of some ancient titan. Dried-up bones and rusted infernal scrap, eroded by acid rain and hellish temperatures, litter the barren vale. As one moves spireward, the landscape gradually gives way to dusty plains."
 							]
 						},
 						{

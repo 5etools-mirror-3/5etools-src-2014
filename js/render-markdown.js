@@ -1004,7 +1004,7 @@ class _RenderCompactMarkdownBestiaryImplBase {
 
 	_getCommonMdParts_sizeTypeAlignment ({mon, renderer, opts}) {
 		const monTypes = Parser.monTypeToFullObj(mon.type);
-		const sepTypeAlignment = monTypes.asText.asText.includes(",") ? "; " : ", ";
+		const sepTypeAlignment = monTypes.asText.includes(",") ? "; " : ", ";
 		return `>*${mon.level ? `${Parser.getOrdinalForm(mon.level)}-level ` : ""}${Renderer.utils.getRenderedSize(mon.size)} ${monTypes.asText}${mon.alignment ? `${sepTypeAlignment}${mon.alignmentPrefix ? RendererMarkdown.get().render(mon.alignmentPrefix) : ""}${Parser.alignmentListToFull(mon.alignment).toTitleCase()}` : ""}*`;
 	}
 

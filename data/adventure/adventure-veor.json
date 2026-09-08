@@ -112,7 +112,7 @@
 							"id": "00b",
 							"entries": [
 								"When the Dark Powers divulged Vecna's plan to Kas, the powers also whispered that Lady Alustriel Silverhand was marshaling allies to stop the lich. Kas didn't relish the thought of facing the might of one of the multiverse's most powerful good-aligned spellcasters, so the warlord devised a plot to trick Alustriel into helping him defeat Vecna.",
-								"With the help of spies, Kas learned that Alustriel intended to summon two powerful friends to oppose Vecna: the wizards Tasha and Mordenkainen. (For more information about {@area Alustriel|558|x}, {@area Tasha|568|x}, and {@area Mordenkainen|563|x}, see {@adventure appendix B|VEoR|13}.)",
+								"With the help of spies, Kas learned that Alustriel intended to summon two powerful friends to oppose Vecna: the wizards Tasha and Mordenkainen. (For more information about {@area Alustriel|558|x}, {@area Tasha|568|x}, and {@area Mordenkainen|563|x}, see {@area appendix B|554|x}.)",
 								"Kas knows Tasha only by reputation, and he holds a grudging respect for the daughter of Baba Yaga. Kas is more familiar with Mordenkainen, as the two have clashed on Oerth in the past.",
 								"Kas disguised himself as Mordenkainen using the {@item Crown of Lies|VEoR} and received Alustriel's summons to her sanctum in Sigil, the City of Doors. Throughout this adventure, the real Mordenkainen is traveling the multiverse, unaware of Kas's impersonation.",
 								"When Kas arrives in the sanctum, he realizes that Alustriel plans to combine her magic with Tasha's and Mordenkainen's to craft a {@spell Wish} spell to thwart Vecna. Alustriel intends to dispel the collective power of the secrets Vecna gathered, rendering the lich's Ritual of Remaking useless.",
@@ -134,7 +134,7 @@
 							"page": 8,
 							"id": "00d",
 							"entries": [
-								"When the spellcasters' {@spell Wish} spell goes awry in chapter 2 of this adventure, the player characters are shunted to the sanctum in Sigil. Kas doesn't expect this development, but the characters are the perfect patsies. Kas planned to retrieve the pieces of the {@item Rod of Seven Parts|VEoR} himself, but now he sends the characters to do so. Kas plans to use the rod to free the demon lord Miska the Wolf-Spider, his ally against Vecna, though he falsely claims that the rod is the key to stopping Vecna. (Read more about Kas's plan in {@adventure chapters 2|VEoR|2} and {@adventure 9|VEoR|9}.)",
+								"When the spellcasters' {@spell Wish} spell goes awry in chapter 2 of this adventure, the player characters are shunted to the sanctum in Sigil. Kas doesn't expect this development, but the characters are the perfect patsies. Kas planned to retrieve the pieces of the {@item Rod of Seven Parts|VEoR} himself, but now he sends the characters to do so. Kas plans to use the rod to free the demon lord Miska the Wolf-Spider, his ally against Vecna, though he falsely claims that the rod is the key to stopping Vecna. (Read more about Kas's plan in {@area chapters 2|0c1|x} and {@area 9|462|x}.)",
 								{
 									"type": "entries",
 									"name": "The Rod's Pieces",
@@ -163,49 +163,49 @@
 											"rows": [
 												[
 													"First",
-													"{@adventure 2|VEoR|2}",
+													"{@area 2|0c1|x}",
 													"Underdark, Toril",
 													"Forgotten Realms",
 													"A covert base of Lolth worshipers"
 												],
 												[
 													"Second",
-													"{@adventure 3|VEoR|3}",
+													"{@area 3|135|x}",
 													"Astral Sea",
 													"Spelljammer",
 													"Near the wreckage of a spelljamming ship"
 												],
 												[
 													"Third",
-													"{@adventure 4|VEoR|4}",
+													"{@area 4|19a|x}",
 													"Mournland",
 													"Eberron",
 													"The control room of a deactivated colossus"
 												],
 												[
 													"Fourth",
-													"{@adventure 5|VEoR|5}",
+													"{@area 5|217|x}",
 													"Death House, Barovia",
 													"Ravenloft",
 													"The house's dungeon"
 												],
 												[
 													"Fifth",
-													"{@adventure 6|VEoR|6}",
+													"{@area 6|2c0|x}",
 													"Northern Dargaard Mountains, Krynn",
 													"Dragonlance",
 													"The Three Moons Vault's upper level"
 												],
 												[
 													"Sixth",
-													"{@adventure 7|VEoR|7}",
+													"{@area 7|36f|x}",
 													"Isle of Serpents, Oerth",
 													"Greyhawk",
 													"The Tomb of Wayward Souls"
 												],
 												[
 													"Seventh",
-													"{@adventure 8|VEoR|8}",
+													"{@area 8|3ef|x}",
 													"Avernus, Nine Hells",
 													"Planescape",
 													"The Red Belvedere casino"
@@ -232,17 +232,17 @@
 								{
 									"type": "item",
 									"name": "Discovering Vecna's Activity",
-									"entry": "In {@adventure chapter 1|VEoR|1}, the characters stumble upon a cult of Vecna performing a ritual to extract secrets. When the characters clash with the cult, they become linked to the lich, which sets them on the path to discover Vecna's plot to remake the multiverse."
+									"entry": "In {@area chapter 1|02e|x}, the characters stumble upon a cult of Vecna performing a ritual to extract secrets. When the characters clash with the cult, they become linked to the lich, which sets them on the path to discover Vecna's plot to remake the multiverse."
 								},
 								{
 									"type": "item",
 									"name": "Seeking the Rod",
-									"entry": "In {@adventure chapter 2|VEoR|2}, the characters' link to Vecna shunts them to Sigil when powerful spellcasters botch a {@spell Wish} spell to stop the lich. The characters are asked to retrieve the pieces of the {@item Rod of Seven Parts|VEoR}, as detailed in chapters 2 through 8."
+									"entry": "In {@area chapter 2|0c1|x}, the characters' link to Vecna shunts them to Sigil when powerful spellcasters botch a {@spell Wish} spell to stop the lich. The characters are asked to retrieve the pieces of the {@item Rod of Seven Parts|VEoR}, as detailed in chapters 2 through 8."
 								},
 								{
 									"type": "item",
 									"name": "Stopping the Ritual of Remaking",
-									"entry": "In {@adventure chapter 9|VEoR|9}, \"Mordenkainen\" reveals himself as Kas in disguise. Kas steals the reassembled rod and heads to the plane of Pandemonium to co-opt Vecna's ritual. The characters can chase and confront Kas, but they must stop the Ritual of Remaking from being completed."
+									"entry": "In {@area chapter 9|462|x}, \"Mordenkainen\" reveals himself as Kas in disguise. Kas steals the reassembled rod and heads to the plane of Pandemonium to co-opt Vecna's ritual. The characters can chase and confront Kas, but they must stop the Ritual of Remaking from being completed."
 								}
 							]
 						},
@@ -252,7 +252,7 @@
 							"page": 10,
 							"id": "015",
 							"entries": [
-								"{@adventure Chapter 1|VEoR|1} takes place in Neverwinter, a city on the Sword Coast on the world of Toril. The characters are investigating the disappearance of high-ranking nobles in Neverwinter when they stumble upon a cult of Vecna. The characters stop the cult from performing a ritual to steal a kidnap victim's secrets. In so doing, they are shunted to Evernight, a gloomy version of Neverwinter in the Shadowfell, and receive Vecna's Link, which ties their fate to that of the lich-god."
+								"{@area Chapter 1|02e|x} takes place in Neverwinter, a city on the Sword Coast on the world of Toril. The characters are investigating the disappearance of high-ranking nobles in Neverwinter when they stumble upon a cult of Vecna. The characters stop the cult from performing a ritual to steal a kidnap victim's secrets. In so doing, they are shunted to Evernight, a gloomy version of Neverwinter in the Shadowfell, and receive Vecna's Link, which ties their fate to that of the lich-god."
 							]
 						},
 						{
@@ -261,7 +261,7 @@
 							"page": 10,
 							"id": "016",
 							"entries": [
-								"The first part of {@adventure chapter 2|VEoR|2} takes place in a secret sanctum in Sigil, the City of Doors. The second part takes place in the Underdark on Toril. When two powerful spellcasters and an impostor try to cast a {@spell Wish} spell to stop Vecna's plot, the botched spell latches on to Vecna's Link and pulls the characters to the trio's location. Lady Alustriel Silverhand, Tasha, and Mordenkainen (secretly Kas) are baffled by this development, but Mordenkainen pretends to improvise a plan to stop Vecna. He falsely claims that the {@item Rod of Seven Parts|VEoR}, a powerful artifact, might be the only way to stop Vecna now. He knows the location of the first piece, which is in a covert base for Lolth operatives, and sends the characters after it. Each rod piece will point the way to the next piece, and all pieces are in different locations in multiverse.",
+								"The first part of {@area chapter 2|0c1|x} takes place in a secret sanctum in Sigil, the City of Doors. The second part takes place in the Underdark on Toril. When two powerful spellcasters and an impostor try to cast a {@spell Wish} spell to stop Vecna's plot, the botched spell latches on to Vecna's Link and pulls the characters to the trio's location. Lady Alustriel Silverhand, Tasha, and Mordenkainen (secretly Kas) are baffled by this development, but Mordenkainen pretends to improvise a plan to stop Vecna. He falsely claims that the {@item Rod of Seven Parts|VEoR}, a powerful artifact, might be the only way to stop Vecna now. He knows the location of the first piece, which is in a covert base for Lolth operatives, and sends the characters after it. Each rod piece will point the way to the next piece, and all pieces are in different locations in multiverse.",
 								{
 									"type": "image",
 									"href": {
@@ -281,7 +281,7 @@
 							"page": 10,
 							"id": "017",
 							"entries": [
-								"{@adventure Chapter 3|VEoR|3} takes place on the Astral Plane. The characters learn that the second rod piece is in the wreckage of a spelljamming ship called the {@i Lambent Zenith}. The ship was carrying the piece when it crashed into a dying god's body adrift on the Astral Sea. The characters soon discover that a dragon-like creature devoured the piece and retreated into the heart of the god. The characters must confront the creature and retrieve the rod piece."
+								"{@area Chapter 3|135|x} takes place on the Astral Plane. The characters learn that the second rod piece is in the wreckage of a spelljamming ship called the {@i Lambent Zenith}. The ship was carrying the piece when it crashed into a dying god's body adrift on the Astral Sea. The characters soon discover that a dragon-like creature devoured the piece and retreated into the heart of the god. The characters must confront the creature and retrieve the rod piece."
 							]
 						},
 						{
@@ -290,7 +290,7 @@
 							"page": 10,
 							"id": "018",
 							"entries": [
-								"{@adventure Chapter 4|VEoR|4} takes place on the continent of Khorvaire in the world of Eberron. The characters learn that the third rod piece is located in the Mournland, a magical wasteland. Eventually, the characters discover that the piece is located within an enormous, deactivated construct called Landro. The characters must navigate this colossus and retrieve the rod piece from Landro's engine room."
+								"{@area Chapter 4|19a|x} takes place on the continent of Khorvaire in the world of Eberron. The characters learn that the third rod piece is located in the Mournland, a magical wasteland. Eventually, the characters discover that the piece is located within an enormous, deactivated construct called Landro. The characters must navigate this colossus and retrieve the rod piece from Landro's engine room."
 							]
 						},
 						{
@@ -299,7 +299,7 @@
 							"page": 11,
 							"id": "019",
 							"entries": [
-								"{@adventure Chapter 5|VEoR|5} takes place in Barovia, a Domain of Dread. The characters learn that the fourth rod piece was taken to a haunted residence called Death House. Cultists and the infamous vampire lord Strahd von Zarovich hope to obtain the rod piece themselves, and the characters must thwart all threats before they can claim the piece."
+								"{@area Chapter 5|217|x} takes place in Barovia, a Domain of Dread. The characters learn that the fourth rod piece was taken to a haunted residence called Death House. Cultists and the infamous vampire lord Strahd von Zarovich hope to obtain the rod piece themselves, and the characters must thwart all threats before they can claim the piece."
 							]
 						},
 						{
@@ -308,7 +308,7 @@
 							"page": 11,
 							"id": "01a",
 							"entries": [
-								"{@adventure Chapter 6|VEoR|6} takes place on the world of Krynn. The characters believe the fifth rod piece is inside a gigantic tree, but with the help of good-aligned werewolves, they learn that an evil group loyal to the mighty warlord Lord Soth took the piece to a complex called Three Moons Vault. The characters must infiltrate the complex and retrieve the rod piece, perhaps freeing a resistance leader in the process."
+								"{@area Chapter 6|2c0|x} takes place on the world of Krynn. The characters believe the fifth rod piece is inside a gigantic tree, but with the help of good-aligned werewolves, they learn that an evil group loyal to the mighty warlord Lord Soth took the piece to a complex called Three Moons Vault. The characters must infiltrate the complex and retrieve the rod piece, perhaps freeing a resistance leader in the process."
 							]
 						},
 						{
@@ -317,7 +317,7 @@
 							"page": 11,
 							"id": "01b",
 							"entries": [
-								"{@adventure Chapter 7|VEoR|7} takes place on the Isle of Serpents on the world of Oerth. The characters learn that the sixth rod piece is in the crypt vault of the Tomb of Wayward Souls, a dungeon created by the lich Acererak. The characters must defeat a false lich that calls himself Rerak\u2014a less-powerful version of the Acererak\u2014before they can claim the rod piece."
+								"{@area Chapter 7|36f|x} takes place on the Isle of Serpents on the world of Oerth. The characters learn that the sixth rod piece is in the crypt vault of the Tomb of Wayward Souls, a dungeon created by the lich Acererak. The characters must defeat a false lich that calls himself Rerak\u2014a less-powerful version of the Acererak\u2014before they can claim the rod piece."
 							]
 						},
 						{
@@ -326,7 +326,7 @@
 							"page": 11,
 							"id": "01c",
 							"entries": [
-								"{@adventure Chapter 8|VEoR|8} takes place near the dragon god Tiamat's lair in Avernus, the first layer of the Nine Hells. The characters learn Tiamat obtained the seventh rod piece and stashed it somewhere near her lair. The characters discover that the rod piece is inside a casino called the Red Belvedere. They must infiltrate a members-only section and either defeat a champion of Tiamat or convince the champion to surrender the rod piece."
+								"{@area Chapter 8|3ef|x} takes place near the dragon god Tiamat's lair in Avernus, the first layer of the Nine Hells. The characters learn Tiamat obtained the seventh rod piece and stashed it somewhere near her lair. The characters discover that the rod piece is inside a casino called the Red Belvedere. They must infiltrate a members-only section and either defeat a champion of Tiamat or convince the champion to surrender the rod piece."
 							]
 						},
 						{
@@ -335,7 +335,7 @@
 							"page": 11,
 							"id": "01d",
 							"entries": [
-								"{@adventure Chapter 9|VEoR|9} starts in Sigil and continues in Pandesmos, the first layer of the chaotic plane of Pandemonium. The rest of the adventure takes place on that plane. With all pieces of the {@item Rod of Seven Parts|VEoR} retrieved, the characters must allow the spellcasters to examine the rod\u2014or so \"Mordenkainen\" claims. The archmage reveals himself as Kas and uses the rod to subdue Alustriel and Tasha. Kas flees to Pandemonium to free Miska the Wolf-Spider and usurp Vecna's ritual. The characters must race to Pandemonium in pursuit of Kas, who has discovered where Vecna's ritual is taking place."
+								"{@area Chapter 9|462|x} starts in Sigil and continues in Pandesmos, the first layer of the chaotic plane of Pandemonium. The rest of the adventure takes place on that plane. With all pieces of the {@item Rod of Seven Parts|VEoR} retrieved, the characters must allow the spellcasters to examine the rod\u2014or so \"Mordenkainen\" claims. The archmage reveals himself as Kas and uses the rod to subdue Alustriel and Tasha. Kas flees to Pandemonium to free Miska the Wolf-Spider and usurp Vecna's ritual. The characters must race to Pandemonium in pursuit of Kas, who has discovered where Vecna's ritual is taking place."
 							]
 						},
 						{
@@ -344,7 +344,7 @@
 							"page": 12,
 							"id": "01e",
 							"entries": [
-								"In {@adventure chapter 10|VEoR|10}, the characters follow Kas through Pandemonium toward the Ruinous Sea, an ocean of swirling, impassable, chaotic magic. On the coast, a battle rages between the demonic forces of Kas, who is attempting to free Miska the Wolf-Spider from his prison in the nearby Ruinous Citadel, and the demon-god Lolth, who is allied with Vecna. The characters can manipulate the battle, or they can race straight to Kas, who eventually reveals the location of Vecna's ritual."
+								"In {@area chapter 10|481|x}, the characters follow Kas through Pandemonium toward the Ruinous Sea, an ocean of swirling, impassable, chaotic magic. On the coast, a battle rages between the demonic forces of Kas, who is attempting to free Miska the Wolf-Spider from his prison in the nearby Ruinous Citadel, and the demon-god Lolth, who is allied with Vecna. The characters can manipulate the battle, or they can race straight to Kas, who eventually reveals the location of Vecna's ritual."
 							]
 						},
 						{
@@ -353,7 +353,7 @@
 							"page": 12,
 							"id": "01f",
 							"entries": [
-								"In {@adventure chapter 11|VEoR|11}, the characters must descend into the Cave of Shattered Reflection, where Vecna weaves his Ritual of Remaking. The ritual is nearing its end, and the lich-god has created several demiplanes that offer glimpses of the multiverse he is creating. The characters must navigate these demiplanes to find the key to entering Vecna's ritual chamber. Once inside, the characters must stop the ritual, which has left the lich-god in a weakened state."
+								"In {@area chapter 11|4d8|x}, the characters must descend into the Cave of Shattered Reflection, where Vecna weaves his Ritual of Remaking. The ritual is nearing its end, and the lich-god has created several demiplanes that offer glimpses of the multiverse he is creating. The characters must navigate these demiplanes to find the key to entering Vecna's ritual chamber. Once inside, the characters must stop the ritual, which has left the lich-god in a weakened state."
 							]
 						}
 					]
@@ -384,7 +384,7 @@
 								"Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive at a location or under specific circumstances, as described in the text."
 							]
 						},
-						"The {@book Monster Manual|MM} contains stat blocks for most of the creatures encountered in this adventure. The remaining stat blocks can be found in {@adventure appendix A|VEoR|12} or {@adventure B|VEoR|13}, as indicated in the text, or in the encounters in which they appear.",
+						"The {@book Monster Manual|MM} contains stat blocks for most of the creatures encountered in this adventure. The remaining stat blocks can be found in {@area appendix A|523|x} or {@area B|554|x}, as indicated in the text, or in the encounters in which they appear.",
 						"When a creature's name appears in {@b bold} type, that's a visual clue pointing you to its stat block as a way of saying, \"Hey, DM, you better get this creature's stat block ready. You're going to need it.\"",
 						"Spells and equipment mentioned in the adventure are described in the {@book Player's Handbook|PHB}. Magic items not described in the adventure's text are described in the {@book Dungeon Master's Guide|DMG}.",
 						{
@@ -401,7 +401,7 @@
 									"id": "023",
 									"entries": [
 										"Maps that appear in this book are for the DM only. As the characters explore locations on a given map, you can redraw portions of the map on graph paper, an erasable mat, or another surface to help your players visualize locations with unusual shapes or features. Your hand-drawn maps needn't be faithful to the originals, and you can alter a map's features as you see fit. Nor do your maps need to be painstakingly rendered. Omit details that aren't readily visible (such as secret doors and other hidden features) until the characters detect and interact with them. For example, locked doors are indicated on the maps with dots, but you need not include this detail in your hand-drawn maps.",
-										"One of the maps within shows the sanctum in Sigil that serves as the characters' home base for most of this adventure. This map is further described in {@adventure chapter 2|VEoR|2|Map 2.1: The Sanctum}, but don't share information with the players that their characters wouldn't know. For example, the characters wouldn't know which magic items Alustriel keeps in {@area area S3|0da|x} of the sanctum unless they examine that area carefully. The map shows the sanctum as it is before the characters arrive."
+										"One of the maps within shows the sanctum in Sigil that serves as the characters' home base for most of this adventure. This map is further described in {@area chapter 2|537|x}, but don't share information with the players that their characters wouldn't know. For example, the characters wouldn't know which magic items Alustriel keeps in {@area area S3|0da|x} of the sanctum unless they examine that area carefully. The map shows the sanctum as it is before the characters arrive."
 									]
 								}
 							]
@@ -423,7 +423,7 @@
 					"page": 12,
 					"id": "025",
 					"entries": [
-						"Before starting this adventure, consider spending your first game session helping your players create characters. This adventure recommends 10th-level characters to start, so make sure your players have appropriately leveled characters before play begins. {@adventure Chapter 1|VEoR|1} provides instructions for starting this adventure with 7th-, 8th-, 9th-, or 11th-level characters.",
+						"Before starting this adventure, consider spending your first game session helping your players create characters. This adventure recommends 10th-level characters to start, so make sure your players have appropriately leveled characters before play begins. {@area Chapter 1|02e|x} provides instructions for starting this adventure with 7th-, 8th-, 9th-, or 11th-level characters.",
 						{
 							"type": "entries",
 							"name": "Existing Characters",
@@ -442,7 +442,7 @@
 							"id": "027",
 							"entries": [
 								"Players might create a 10th-level character from scratch for this adventure. For ease of introduction, the character might be from Neverwinter or somewhere else nearby.",
-								"If one or more of your players want to create characters from more distant lands, use the suggestions provided in the previous section for why the characters are now in Neverwinter. If they don't already have one, the characters need a reason for Lord Neverember to request their help in {@adventure chapter 1|VEoR|1}, even if it's simply because their heroics are widely known.",
+								"If one or more of your players want to create characters from more distant lands, use the suggestions provided in the previous section for why the characters are now in Neverwinter. If they don't already have one, the characters need a reason for Lord Neverember to request their help in {@area chapter 1|02e|x}, even if it's simply because their heroics are widely known.",
 								"Regardless, 10th-level characters have already had long careers and earned their abilities through experience. These characters have likely accomplished impressive deeds, so encourage your players to describe how the characters reached 10th level.",
 								"The 10th-Level Backstories table contains sample backstories for new characters. Roll on the table or pick your favorite option when working with your players to determine their characters' backstories.",
 								{
@@ -515,7 +515,7 @@
 										],
 										[
 											"5",
-											"The character is an expert at retrieving kidnapped individuals, even those on other planes of existence. The family of one of the kidnapped nobles in {@adventure chapter 1|VEoR|1} reached out to the Harpers, who recommended the character's services. The family promised a high price for the character to come to Neverwinter and look for the missing loved one."
+											"The character is an expert at retrieving kidnapped individuals, even those on other planes of existence. The family of one of the kidnapped nobles in {@area chapter 1|02e|x} reached out to the Harpers, who recommended the character's services. The family promised a high price for the character to come to Neverwinter and look for the missing loved one."
 										],
 										[
 											"6",
@@ -544,8 +544,8 @@
 							"width": 1700,
 							"height": 1169
 						},
-						"Vecna uses stolen secrets to power his ritual to remake the multiverse. When the characters stumble on the cult of Vecna, whose members are trying to extract secrets from a captive, they gain access to magic fueled by powerful secrets. The characters can spend secrets like currency once they receive Vecna's Link in {@adventure chapter 1|VEoR|1}.",
-						"Throughout the adventure, the characters can learn many secrets. Each chapter's beginning includes a \"Power of Secrets\" section that lists each secret that can be used with these rules. The Secrets Tracker in {@adventure appendix C|VEoR|14} helps you keep track of secrets the characters have learned. The Secrets Tracker includes spoilers, so keep it hidden from the players.",
+						"Vecna uses stolen secrets to power his ritual to remake the multiverse. When the characters stumble on the cult of Vecna, whose members are trying to extract secrets from a captive, they gain access to magic fueled by powerful secrets. The characters can spend secrets like currency once they receive Vecna's Link in {@area chapter 1|02e|x}.",
+						"Throughout the adventure, the characters can learn many secrets. Each chapter's beginning includes a \"Power of Secrets\" section that lists each secret that can be used with these rules. The Secrets Tracker in {@area appendix C|56e|x} helps you keep track of secrets the characters have learned. The Secrets Tracker includes spoilers, so keep it hidden from the players.",
 						{
 							"type": "entries",
 							"name": "Learning Secrets",
@@ -559,7 +559,7 @@
 									"page": 14,
 									"id": "02a",
 									"entries": [
-										"A character can magically spend a secret like currency, revealing it to the multiverse to gain a momentary boon. To do this, the character must use an action to whisper the secret into the wind. The secret is then gone from the minds of every character in the party. There is one exception; if the characters spend the secret they learn from Kas in {@adventure chapter 10|VEoR|10} about Vecna's location, they still know where the lich-god weaves his ritual.",
+										"A character can magically spend a secret like currency, revealing it to the multiverse to gain a momentary boon. To do this, the character must use an action to whisper the secret into the wind. The secret is then gone from the minds of every character in the party. There is one exception; if the characters spend the secret they learn from Kas in {@area chapter 10|481|x} about Vecna's location, they still know where the lich-god weaves his ritual.",
 										"When a character spends a secret, every character in the party gains advantage on {@dice d20} rolls for 1 minute.",
 										"The characters might hear the information from the secret again, but they can't spend a secret more than once. If the characters share a secret with a nonplayer character, that secret immediately loses its power and counts as revealed. It remains in the minds of every character in the party, but the characters gain no benefit from revealing the secret."
 									]
@@ -570,7 +570,7 @@
 									"page": 15,
 									"id": "02b",
 									"entries": [
-										"When the characters confront Vecna in the Cave of Shattered Reflection in chapter 11, they can use any number of secrets they've kept to help thwart the lich-god's Ritual of Remaking. See {@adventure chapter 11|VEoR|11} for more details about how secrets the characters kept can affect their confrontation with Vecna."
+										"When the characters confront Vecna in the Cave of Shattered Reflection in chapter 11, they can use any number of secrets they've kept to help thwart the lich-god's Ritual of Remaking. See {@area chapter 11|4d8|x} for more details about how secrets the characters kept can affect their confrontation with Vecna."
 									]
 								}
 							]
@@ -615,109 +615,109 @@
 									"1",
 									"{@creature Warforged warrior|VEoR}",
 									"Construct",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"5",
 									"{@creature Night scavver|BAM}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"5",
 									"{@creature Kakkuu spyder-fiend|VEoR}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"6",
 									"{@creature Black rose bearer|VEoR}",
 									"Undead",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"6",
 									"{@creature Moonlight guardian|VEoR}",
 									"Construct",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"6",
 									"{@creature Priest of Osybus|VRGR}",
 									"Humanoid",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"7",
 									"{@creature Blade scout|VEoR}",
 									"Construct",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"7",
 									"{@creature Lost sorrowsworn|MPMM}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"8",
 									"{@creature Bone roc|VEoR}",
 									"Undead",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"8",
 									"{@creature Inquisitor of the Tome|VRGR}",
 									"Humanoid",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"8",
 									"{@creature Star angler|VEoR}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"8",
 									"{@creature Whirling chandelier|VEoR}",
 									"Construct",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"9",
 									"{@creature Blade lieutenant|VEoR}",
 									"Construct",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"9",
 									"{@creature Lonely sorrowsworn|MPMM}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"9",
 									"{@creature Necromancer wizard|MPMM}",
 									"Humanoid",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"10",
 									"{@creature Eye monger|BAM}",
 									"Aberration",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"10",
 									"{@creature Mirror shade|VEoR}",
 									"Undead",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"11",
 									"{@creature Degloth|VEoR}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"11",
@@ -729,157 +729,157 @@
 									"11",
 									"{@creature Spiderdragon|VEoR}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"11",
 									"{@creature Vlazok|VEoR}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"12",
 									"{@creature Blazebear|VEoR}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"12",
 									"{@creature Granite juggernaut|VEoR}",
 									"Construct",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"13",
 									"{@creature Deadbark dryad|VEoR}",
 									"Fey",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"13",
 									"{@creature Adult lunar dragon|BAM}",
 									"Dragon",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"13",
 									"{@creature Phisarazu spyder-fiend|VEoR}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"14",
 									"{@creature Cadaver collector|MPMM}",
 									"Construct",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"14",
 									"{@creature Hazvongel|VEoR}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"15",
 									"{@creature Green abishai|MPMM}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"15",
 									"{@creature Borthak|VEoR}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"15",
 									"{@creature Deathwolf|VEoR}",
 									"Undead",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"15",
 									"{@creature Relentless impaler|VEoR}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"15",
 									"{@creature Strahd, Master of Death House|VEoR}",
 									"Undead",
-									"{@adventure B|VEoR|13}"
+									"{@area B|554|x}"
 								],
 								[
 									"17",
 									"{@creature Blue abishai|MPMM}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"17",
 									"{@creature Hertilod|VEoR}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"17",
 									"{@creature Quavilithku spyder-fiend|VEoR}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"18",
 									"{@creature Citadel spider|VEoR}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"18",
 									"{@creature Cosmic horror|BAM}",
 									"Aberration",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"19",
 									"{@creature Red abishai|MPMM}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"19",
 									"{@creature Raklupis spyder-fiend|VEoR}",
 									"Fiend",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"19",
 									"{@creature Lord Soth|DSotDQ}",
 									"Undead",
-									"{@adventure B|VEoR|13}"
+									"{@area B|554|x}"
 								],
 								[
 									"19",
 									"{@creature Tasha the Witch|VEoR}",
 									"Humanoid",
-									"{@adventure B|VEoR|13}"
+									"{@area B|554|x}"
 								],
 								[
 									"21",
 									"{@creature Astral dreadnought|MPMM}",
 									"Monstrosity",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"21",
 									"{@creature False lich|VEoR}",
 									"Undead",
-									"{@adventure A|VEoR|12}"
+									"{@area A|523|x}"
 								],
 								[
 									"21",
 									"{@creature Alustriel Silverhand|VEoR}",
 									"Humanoid",
-									"{@adventure B|VEoR|13}"
+									"{@area B|554|x}"
 								],
 								[
 									"22",
@@ -891,7 +891,7 @@
 									"23",
 									"{@creature Kas the Betrayer|VEoR}",
 									"Undead",
-									"{@adventure B|VEoR|13}"
+									"{@area B|554|x}"
 								],
 								[
 									"23",
@@ -903,13 +903,13 @@
 									"24",
 									"{@creature Miska the Wolf-Spider|VEoR}",
 									"Fiend",
-									"{@adventure B|VEoR|13}"
+									"{@area B|554|x}"
 								],
 								[
 									"26",
 									"{@creature Vecna the Archlich|VEoR}",
 									"Undead",
-									"{@adventure B|VEoR|13}"
+									"{@area B|554|x}"
 								]
 							]
 						}
@@ -936,7 +936,7 @@
 				},
 				"As the adventure begins, the characters are established heroes currently in the city of Neverwinter on the Sword Coast. Several calamities have battered Neverwinter in the recent past. The greatest was the eruption of nearby Mount Hotenow, which nearly destroyed the city forty years ago, though most of the damage has since been repaired.",
 				"Neverwinter is ruled by its Lord Protector, Dagult Neverember. Rising to power through a tenuous claim of descendance from one of Neverwinter's past heroes, Lord Neverember has nevertheless provided stable leadership.",
-				"Unknown to the authorities, a cult of Vecna operates in the catacombs beneath Neverwinter's sprawling Neverdeath Graveyard. Cult members have been kidnapping city residents who carry significant secrets, draining their knowledge and their souls in a fell ritual and passing the collected secrets to Vecna as he gathers power for his {@area Ritual of Remaking|002|x}. (See the {@adventure introduction|VEoR|0} for more information about Vecna's plot.) In the process, the kidnap victims become creatures robbed of their knowledge and volition.",
+				"Unknown to the authorities, a cult of Vecna operates in the catacombs beneath Neverwinter's sprawling Neverdeath Graveyard. Cult members have been kidnapping city residents who carry significant secrets, draining their knowledge and their souls in a fell ritual and passing the collected secrets to Vecna as he gathers power for his {@area Ritual of Remaking|002|x}. (See the {@area introduction|000|x} for more information about Vecna's plot.) In the process, the kidnap victims become creatures robbed of their knowledge and volition.",
 				{
 					"type": "section",
 					"name": "Running This Chapter",
@@ -959,7 +959,7 @@
 							"page": 17,
 							"id": "031",
 							"entries": [
-								"The characters can learn three secrets in this chapter applicable to the {@area Power of Secrets|028|x} rules found in this book's {@adventure introduction|VEoR|0}. These secrets are tied to three NPCs whom the characters encounter in the Neverdeath Catacombs:",
+								"The characters can learn three secrets in this chapter applicable to the {@area Power of Secrets|028|x} rules found in this book's {@area introduction|000|x}. These secrets are tied to three NPCs whom the characters encounter in the Neverdeath Catacombs:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -2123,7 +2123,7 @@
 											"id": "04e",
 											"entries": [
 												"Sarcelle's psychic explorations showed her a glimpse of a dreadful future. She saw the desiccated figure of a man levitating off the ground, gathering evil energy around himself in glowing wisps. The desiccated man then screamed and the energy exploded, causing something terrible to happen. This vision terrified Sarcelle. A character who interacts with Sarcelle and succeeds on a {@dc 14} Wisdom ({@skill Insight}) check realizes that something is bothering the sorcerer. If asked about what's upsetting her, Sarcelle shares her vision.",
-												"Learning of Sarcelle's vision counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules found in this book's {@adventure introduction|VEoR|0}."
+												"Learning of Sarcelle's vision counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules found in this book's {@area introduction|000|x}."
 											]
 										}
 									]
@@ -2394,7 +2394,7 @@
 												"Umberto knows that cultists of Vecna are his kidnappers, as he's one of Neverwinter's preeminent experts on Vecna's history. He initially keeps his expertise from the characters lest they think he's in league with the cult.",
 												"To keep his mind off of the nightmare of his capture and imprisonment, Umberto focuses on complaining about the poor cuisine. If the characters free Umberto and share some tasty food with him, he reveals his expertise in Vecna's history. Umberto especially likes food created with or by magic, such as berries from the {@spell Goodberry} spell.",
 												"If Umberto reveals his role as a historian of Vecna, it's all he can talk about. He discusses his latest clandestine research project: the ancient rivalry between Vecna and his treacherous lieutenant, the vampire Kas. The historian has kept this research to himself so other scholars don't beat him to publication; Umberto knows he's a slow writer. The gnome's chattering should be endearing rather than irritating, and you can use Umberto to impart basic history about Vecna and Kas as described in the {@area introduction|004|x}.",
-												"Learning about Umberto's secret research topic counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+												"Learning about Umberto's secret research topic counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 											]
 										}
 									]
@@ -2678,7 +2678,7 @@
 											"entries": [
 												"Indrina collected information from skilled genealogists and assembled proof that Lord Neverember isn't descended from Neverwinter's great hero, Lord Nasher Alagondar, as he claims. Indrina assumes Lord Neverember wants to silence her for what she's discovered.",
 												"If the characters admit to working for Lord Neverember, Indrina doesn't reveal what she knows. A character who asks why Indrina is here without revealing who hired the characters can attempt a {@dc 18} Charisma ({@skill Persuasion}) check, with advantage if Indrina is given perfume or otherwise removed from the cell's offensive smell. On a success, Indrina reveals her secret knowledge.",
-												"Learning Indrina's discovery counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}. Lord Neverember casually dismisses Indrina's accusation if it's later brought to his attention, insisting that the woman can't prove anything."
+												"Learning Indrina's discovery counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}. Lord Neverember casually dismisses Indrina's accusation if it's later brought to his attention, insisting that the woman can't prove anything."
 											]
 										}
 									]
@@ -2794,7 +2794,7 @@
 											"width": 850,
 											"height": 2302
 										},
-										"The cult's leader is a neutral evil, human {@creature necromancer wizard|MPMM} (see {@adventure appendix A|VEoR|12}) named Jerot Galgin. A loyal {@creature nothic} assistant named Maszundrin never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.",
+										"The cult's leader is a neutral evil, human {@creature necromancer wizard|MPMM} (see {@area appendix A|523|x}) named Jerot Galgin. A loyal {@creature nothic} assistant named Maszundrin never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.",
 										"Jerot is an aristocrat who has lived his entire life in Neverwinter. He has built his deep faith in Vecna and vast necromantic knowledge over many years, right under the noses of his peers. He's engaging in this current research while his friends and family believe him to be on an extended trip to Waterdeep. Jerot considers his secret life as a cult leader, or the \"Thought of Vecna,\" to be yet another way to honor his evil patron.",
 										"Jerot is refining the ritual occurring in the Sacrifice Gallery (area C26) and is too focused on his work to be distracted by combat elsewhere in the catacombs. He trusts his minions to handle any trouble. If intruders reach Jerot's personal chamber, he commands the {@creature nothic} to enter melee while he fights from a distance, summoning Undead defenders if the nothic falls. Jerot fears exposure more than anything else and thus fights to the death.",
 										{
@@ -3668,7 +3668,7 @@
 												"Two stone coffins in this room have been broken open, littering the floor with rubble and dust. A creature with too many arms and spikes in place of hands taps at the room's walls."
 											]
 										},
-										"The Dolindar siblings buried here were warped into two {@creature lost sorrowsworn|MPMM} (see {@adventure appendix A|VEoR|12}). A visible sorrowsworn shrieks in rage and attacks anyone she can see. A second sorrowsworn is resting inside one of the broken coffins, initially out of sight but quick to join his sibling in a fight. The sorrowsworn fight until destroyed.",
+										"The Dolindar siblings buried here were warped into two {@creature lost sorrowsworn|MPMM} (see {@area appendix A|523|x}). A visible sorrowsworn shrieks in rage and attacks anyone she can see. A second sorrowsworn is resting inside one of the broken coffins, initially out of sight but quick to join his sibling in a fight. The sorrowsworn fight until destroyed.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -3766,7 +3766,7 @@
 												"On the far side of this room rests a stone coffin. Between the door and the coffin, the floor is studded with a sharp metal blades. A person-shaped figure with elongated arms lurks near the coffin."
 											]
 										},
-										"Isolation warped the matriarch of the Dolindar family, Kevetta, into a {@creature lonely sorrowsworn|MPMM} (see {@adventure appendix A|VEoR|12}). She remains near her coffin and uses her harpoon arms to attack anyone who enters the room. She fights until destroyed but doesn't pursue foes who flee.",
+										"Isolation warped the matriarch of the Dolindar family, Kevetta, into a {@creature lonely sorrowsworn|MPMM} (see {@area appendix A|523|x}). She remains near her coffin and uses her harpoon arms to attack anyone who enters the room. She fights until destroyed but doesn't pursue foes who flee.",
 										{
 											"type": "entries",
 											"name": "Blades",
@@ -3859,7 +3859,7 @@
 							"page": 37,
 							"id": "0c4",
 							"entries": [
-								"The characters can learn two secrets in this chapter or later that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@adventure introduction|VEoR|0}:",
+								"The characters can learn two secrets in this chapter or later that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@area introduction|000|x}:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -4602,7 +4602,7 @@
 							"page": 42,
 							"id": "0e1",
 							"entries": [
-								"More than seven centuries old, Lady {@creature Alustriel Silverhand|VEoR} is beloved throughout Faerûn for her kindliness and for using her incredible spellcasting power to protect the innocent. Alustriel is an immortal daughter of Mystra, a god of magic, and is a chaotic good, human wizard. Alustriel served as High Mage of Silverymoon, battled demons on the Outer Planes, and prevented the lich Larloch from ascending to godhood. She has seen the rise and fall of evil powers, though Vecna's plot troubles her greatly. More about Alustriel, including her stat block, appears in {@adventure appendix B|VEoR|13}."
+								"More than seven centuries old, Lady {@creature Alustriel Silverhand|VEoR} is beloved throughout Faerûn for her kindliness and for using her incredible spellcasting power to protect the innocent. Alustriel is an immortal daughter of Mystra, a god of magic, and is a chaotic good, human wizard. Alustriel served as High Mage of Silverymoon, battled demons on the Outer Planes, and prevented the lich Larloch from ascending to godhood. She has seen the rise and fall of evil powers, though Vecna's plot troubles her greatly. More about Alustriel, including her stat block, appears in {@area appendix B|554|x}."
 							]
 						},
 						{
@@ -4620,7 +4620,7 @@
 							"page": 42,
 							"id": "0e3",
 							"entries": [
-								"{@creature Tasha the Witch|VEoR|Tasha} is a chaotic neutral archmage from Oerth, a renowned demonologist, and the adopted daughter of Baba Yaga. Tasha is widely considered the multiverse's foremost authority on the Abyss, having authored the fabled {@item Demonomicon of Iggwilv|TCE}. Although Tasha's motives are fickle, Alustriel has found Tasha an unparalleled ally when their interests align, as Tasha can access and influence places where even the daughter of Mystra dares not tread. The version of Tasha who answers Alustriel's summons is from the past, before Tasha became Iggwilv the Witch Queen. More about Tasha, including her stat block, can be found in {@adventure appendix B|VEoR|13}.",
+								"{@creature Tasha the Witch|VEoR|Tasha} is a chaotic neutral archmage from Oerth, a renowned demonologist, and the adopted daughter of Baba Yaga. Tasha is widely considered the multiverse's foremost authority on the Abyss, having authored the fabled {@item Demonomicon of Iggwilv|TCE}. Although Tasha's motives are fickle, Alustriel has found Tasha an unparalleled ally when their interests align, as Tasha can access and influence places where even the daughter of Mystra dares not tread. The version of Tasha who answers Alustriel's summons is from the past, before Tasha became Iggwilv the Witch Queen. More about Tasha, including her stat block, can be found in {@area appendix B|554|x}.",
 								{
 									"type": "image",
 									"href": {
@@ -4642,7 +4642,7 @@
 					"page": 42,
 					"id": "0e4",
 					"entries": [
-						"The vampire warlord {@creature Kas the Betrayer|VEoR|Kas} maintains his masquerade as Mordenkainen, likely fooling the characters until the events of {@adventure chapter 9|VEoR|9}. The blood feud between Kas and Vecna stretches back centuries to a time when Kas served as Vecna's first lieutenant. More about Kas, including his stat block, appears in {@adventure appendix B|VEoR|13}.",
+						"The vampire warlord {@creature Kas the Betrayer|VEoR|Kas} maintains his masquerade as Mordenkainen, likely fooling the characters until the events of {@area chapter 9|462|x}. The blood feud between Kas and Vecna stretches back centuries to a time when Kas served as Vecna's first lieutenant. More about Kas, including his stat block, appears in {@area appendix B|554|x}.",
 						{
 							"type": "entries",
 							"name": "Manipulation in Motion",
@@ -4658,7 +4658,7 @@
 									"page": 42,
 									"id": "0e6",
 									"entries": [
-										"While disguised as Mordenkainen, Kas never lets his guard down or removes the {@item Crown of Lies|VEoR}. Occasionally during this adventure, Mordenkainen is absent from the sanctum. During these interludes, the vampire warlord travels to other realms and eventually deduces where Vecna plans to enact the multiverse-unraveling ritual. This sets into motion the betrayal that takes place in {@adventure chapter 9|VEoR|9}."
+										"While disguised as Mordenkainen, Kas never lets his guard down or removes the {@item Crown of Lies|VEoR}. Occasionally during this adventure, Mordenkainen is absent from the sanctum. During these interludes, the vampire warlord travels to other realms and eventually deduces where Vecna plans to enact the multiverse-unraveling ritual. This sets into motion the betrayal that takes place in {@area chapter 9|462|x}."
 									]
 								},
 								{
@@ -4677,7 +4677,7 @@
 											"page": 43,
 											"id": "0e8",
 											"entries": [
-												"If the characters find out at any point in this adventure that Mordenkainen is Kas in disguise, it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+												"If the characters find out at any point in this adventure that Mordenkainen is Kas in disguise, it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 											]
 										}
 									]
@@ -4699,15 +4699,15 @@
 											"width": 850,
 											"height": 1525
 										},
-										"Although it's unlikely, the characters might become suspicious of Mordenkainen and question him. The characters could investigate the wizard's activities outside the Sigil sanctum, or they might find the strange personal items in Mordenkainen's {@item Bag of Holding}. If the characters put sufficient effort into their investigations, consider allowing them to discover before {@adventure chapter 9|VEoR|9} that Mordenkainen is an impostor.",
+										"Although it's unlikely, the characters might become suspicious of Mordenkainen and question him. The characters could investigate the wizard's activities outside the Sigil sanctum, or they might find the strange personal items in Mordenkainen's {@item Bag of Holding}. If the characters put sufficient effort into their investigations, consider allowing them to discover before {@area chapter 9|462|x} that Mordenkainen is an impostor.",
 										{
 											"type": "entries",
 											"name": "Kas Defeats the Characters",
 											"page": 43,
 											"id": "0ea",
 											"entries": [
-												"If the characters confront Kas before chapter 9, allow the battle to play out using the stat block for {@creature Kas the Betrayer|VEoR|Kas} in {@adventure appendix B|VEoR|13}. If Kas defeats the characters, he kills them and absconds to Pandemonium. Alustriel has the clerics of Silverymoon bring the characters back to life, apologetic for not discovering Kas's ruse and angry she was duped. Alustriel suspects Kas knows where Vecna weaves his ritual and encourages the characters to follow the vampire to Pandemonium when they can.",
-												"In this case, Kas lacks the completed {@item Rod of Seven Parts|VEoR}. Adjust {@adventure chapter 10|VEoR|10} to reflect that Miska never begins to escape his prison. The characters' priority remains stopping Vecna, but if they don't permanently destroy Kas, at some point the vampire hunts down the characters. Once the characters eventually defeat Kas, they learn where Vecna weaves his ritual and can proceed to {@adventure chapter 11|VEoR|11}."
+												"If the characters confront Kas before chapter 9, allow the battle to play out using the stat block for {@creature Kas the Betrayer|VEoR|Kas} in {@area appendix B|554|x}. If Kas defeats the characters, he kills them and absconds to Pandemonium. Alustriel has the clerics of Silverymoon bring the characters back to life, apologetic for not discovering Kas's ruse and angry she was duped. Alustriel suspects Kas knows where Vecna weaves his ritual and encourages the characters to follow the vampire to Pandemonium when they can.",
+												"In this case, Kas lacks the completed {@item Rod of Seven Parts|VEoR}. Adjust {@area chapter 10|481|x} to reflect that Miska never begins to escape his prison. The characters' priority remains stopping Vecna, but if they don't permanently destroy Kas, at some point the vampire hunts down the characters. Once the characters eventually defeat Kas, they learn where Vecna weaves his ritual and can proceed to {@area chapter 11|4d8|x}."
 											]
 										},
 										{
@@ -4716,7 +4716,7 @@
 											"page": 44,
 											"id": "0eb",
 											"entries": [
-												"If the characters defeat Kas, allow them to decide how to proceed. They might still want to reassemble the {@item Rod of Seven Parts|VEoR} to use its power against the lich-god. However, to reinforce the story's sense of urgency, feel free to skip the characters ahead to {@adventure chapter 10|VEoR|10}. If you do, award the characters the appropriate number of milestone level-ups so they have a fair chance of defeating the threats in the adventure's final chapters."
+												"If the characters defeat Kas, allow them to decide how to proceed. They might still want to reassemble the {@item Rod of Seven Parts|VEoR} to use its power against the lich-god. However, to reinforce the story's sense of urgency, feel free to skip the characters ahead to {@area chapter 10|481|x}. If you do, award the characters the appropriate number of milestone level-ups so they have a fair chance of defeating the threats in the adventure's final chapters."
 											]
 										}
 									]
@@ -4823,7 +4823,7 @@
 									"id": "0f3",
 									"entries": [
 										"In the guise of Mordenkainen, Kas has lied to the characters about the {@item Rod of Seven Parts|VEoR}. While the rod is useful against Vecna, Kas simply wants the characters to retrieve the rod so he can use it to free Miska.",
-										"Kas doesn't know that Vecna is weakened to pre-god status while weaving the Ritual of Remaking. The characters will learn this when they confront Vecna in {@adventure chapter 11|VEoR|11}."
+										"Kas doesn't know that Vecna is weakened to pre-god status while weaving the Ritual of Remaking. The characters will learn this when they confront Vecna in {@area chapter 11|4d8|x}."
 									]
 								}
 							]
@@ -7852,7 +7852,7 @@
 											"id": "11a",
 											"entries": [
 												"Even if the characters free her, Gertrude remains despondent. If the characters ask her what's wrong, Gertrude reveals that her friend, a svirfneblin named Rockzanna, was involved in a nearby mining operation and discovered that two of the operation's leaders were secret Lolth cultists planning an attack on the operation. Rockzanna was too scared to tell anyone besides Gertrude, and the cyclops fears a terrible fate for the miners.",
-												"Regardless of the characters' reaction to this revelation, learning it counts for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}. The mining operation is the same one the cultists in {@area area W7|123|x} are discussing."
+												"Regardless of the characters' reaction to this revelation, learning it counts for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}. The mining operation is the same one the cultists in {@area area W7|123|x} are discussing."
 											]
 										}
 									]
@@ -8081,7 +8081,7 @@
 												"An enormous web stretches across this open cavern's center, its strands plastered over stalagmites and stalactites. Crawling on the web is a gigantic reptilian creature with eight legs. Near that creature stands a smaller, one-eyed creature with a body that resembles melting wax."
 											]
 										},
-										"This cavern's ceilings are 50 feet tall. The cavern is the lair of Ker-arach, the {@creature spiderdragon|VEoR} (see {@adventure appendix A|VEoR|12}). Ker-arach crawled into this cavern through a temporary rift to the Abyss that opened during a ritual conducted here about half a year ago. Ker-arach brought with her a piece of the {@item Rod of Seven Parts|VEoR}, which she uses to answer questions posed directly to the Spider Queen. Ker-arach is essentially a tourist attraction for the few Lolth devotees who know she exists. The cultists consider her a sign of Lolth's favor, even though she eats hundreds of pounds of meat every few days and doesn't otherwise contribute to the complex.",
+										"This cavern's ceilings are 50 feet tall. The cavern is the lair of Ker-arach, the {@creature spiderdragon|VEoR} (see {@area appendix A|523|x}). Ker-arach crawled into this cavern through a temporary rift to the Abyss that opened during a ritual conducted here about half a year ago. Ker-arach brought with her a piece of the {@item Rod of Seven Parts|VEoR}, which she uses to answer questions posed directly to the Spider Queen. Ker-arach is essentially a tourist attraction for the few Lolth devotees who know she exists. The cultists consider her a sign of Lolth's favor, even though she eats hundreds of pounds of meat every few days and doesn't otherwise contribute to the complex.",
 										{
 											"type": "image",
 											"href": {
@@ -8221,7 +8221,7 @@
 							"page": 57,
 							"id": "13c",
 							"entries": [
-								"The characters can learn two secrets in this chapter that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@adventure introduction|VEoR|0}:",
+								"The characters can learn two secrets in this chapter that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@area introduction|000|x}:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -8345,7 +8345,7 @@
 										"Amid the clouds, two large globes of light bob toward you."
 									]
 								},
-								"Characters can make a {@dc 18} Wisdom ({@skill Perception}) check. On a successful check, a character notices a large, anglerfish-shaped outline following each bobbing light\u2014two hungry {@creature Star Angler|VEoR|star anglers} (see {@adventure appendix A|VEoR|12}) are stalking the party. The star anglers attack immediately.",
+								"Characters can make a {@dc 18} Wisdom ({@skill Perception}) check. On a successful check, a character notices a large, anglerfish-shaped outline following each bobbing light\u2014two hungry {@creature Star Angler|VEoR|star anglers} (see {@area appendix A|523|x}) are stalking the party. The star anglers attack immediately.",
 								"Once the star anglers are dispatched, the characters can continue on to the surface of the dying god, where the wreckage of the {@i Lambent Zenith} lies."
 							]
 						}
@@ -8360,7 +8360,7 @@
 						"With its navy-blue hull and golden gossamer sails, the spelljamming galleon {@i Lambent Zenith} once cut an elegant silhouette through the Astral Sea's silver clouds. Its captain, the deva {@creature Inda Malayuri|VEoR}, was an arcanist and emissary tasked with guiding the lost and bringing peace to tumultuous worlds. During a voyage, Inda uncovered a piece of the {@item Rod of Seven Parts|VEoR}.",
 						"Using her extensive arcane knowledge, Inda harnessed the magic within the rod piece to augment the {@i Lambent Zenith}, allowing the ship to travel to the farthest corners of the multiverse in the blink of an eye.",
 						"But the {@i Lambent Zenith}'s expedition screeched to a halt when it encountered a dying god of chaos named Havock drifting through the Astral Sea. The latent chaos magic around Havock twisted the ship's capabilities; the {@i Lambent Zenith} was ripped asunder, and its prow plunged into Havock's heart.",
-						"When the characters approach Havock and the wreckage (shown on {@adventure map 3.1|VEoR|3|Map 3.1: Lambent Zenith}), read or paraphrase the following:",
+						"When the characters approach Havock and the wreckage (shown on {@area map 3.1|00a|x}), read or paraphrase the following:",
 						{
 							"type": "insetReadaloud",
 							"page": 58,
@@ -8464,11 +8464,11 @@
 									"rows": [
 										[
 											"1\u20132",
-											"Two {@creature Night Scavver|BAM|night scavvers} (see {@adventure appendix A|VEoR|12})"
+											"Two {@creature Night Scavver|BAM|night scavvers} (see {@area appendix A|523|x})"
 										],
 										[
 											"3\u20134",
-											"One {@creature star angler|VEoR} (see {@adventure appendix A|VEoR|12})"
+											"One {@creature star angler|VEoR} (see {@area appendix A|523|x})"
 										],
 										[
 											"5\u20136",
@@ -10538,7 +10538,7 @@
 											"id": "168",
 											"entries": [
 												"After recovering his memories, Figaro remains agitated even if he confronts Ilren. If the characters ask what's bothering him, Figaro admits he knew about the dangers of this stretch of Astral Sea but didn't warn the captain, since this route was economical and Figaro believed it would be easy for the crew to traverse.",
-												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 											]
 										},
 										{
@@ -10696,7 +10696,7 @@
 											"id": "175",
 											"entries": [
 												"If the characters speak with Ikasa about Daveras, the blink dog becomes uncharacteristically morose. On further inquiry, Ikasa reveals he saw Daveras's friend, the halfling Palenna Tindertoe, escape the wreckage of the Verdant Branch after pirates attacked it. Palenna floated away from the ship using the power of her mind and likely still floats somewhere in the Astral Sea. Ikasa didn't tell Daveras, who believes he, Redbud, and the blink dog were the only survivors of the attack. Ikasa hasn't had the opportunity to find Palenna due to being trapped on the lifeboat, and he is afraid Daveras will become despondent thinking about his friend trying to survive in the Astral Sea alone.",
-												"Regardless of what the characters do on learning this, it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+												"Regardless of what the characters do on learning this, it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 											]
 										},
 										{
@@ -10927,7 +10927,7 @@
 											"page": 69,
 											"id": "18b",
 											"entries": [
-												"The hole in this area leads into the heart of Havock, as shown on {@adventure map 3.2|VEoR|3|Map 3.2: Heart of Havock} and described in the following section. To retrieve the rod piece, the characters must venture into the heart and confront the monster inside."
+												"The hole in this area leads into the heart of Havock, as shown on {@area map 3.2|00e|x} and described in the following section. To retrieve the rod piece, the characters must venture into the heart and confront the monster inside."
 											]
 										}
 									]
@@ -11927,14 +11927,14 @@
 												"The walls and floor of this massive chamber alternate between gray, petrified stone and flexing muscle and flesh. Clinging to the ceiling is a serpentine monstrosity, like a skinless snake. Its long, draconic snout drips with venom as it slumbers."
 											]
 										},
-										"The creature sleeping on the ceiling is the {@creature hertilod|VEoR} (see {@adventure appendix A|VEoR|12}) that swallowed the next rod piece. A character can move through the area without waking the hertilod by succeeding on a {@dc 18} Dexterity ({@skill Stealth}) check. Otherwise, the hertilod wakes when it detects a creature within 30 feet of itself and attacks.",
+										"The creature sleeping on the ceiling is the {@creature hertilod|VEoR} (see {@area appendix A|523|x}) that swallowed the next rod piece. A character can move through the area without waking the hertilod by succeeding on a {@dc 18} Dexterity ({@skill Stealth}) check. Otherwise, the hertilod wakes when it detects a creature within 30 feet of itself and attacks.",
 										{
 											"type": "entries",
 											"name": "Retrieving the Rod Piece",
 											"page": 71,
 											"id": "194",
 											"entries": [
-												"The rod piece is deep within the hertilod's gullet. If the hertilod is forced to regurgitate creatures in its gullet, roll a {@dice d6}. On a roll of 4 or higher, the {@item Rod of Seven Parts|VEoR|rod piece} is also regurgitated and lands in an unoccupied space within 10 feet of the hertilod. Alternatively, a creature within the hertilod's gullet can use its action to make a {@dc 15} Intelligence ({@skill Investigation}) check, finding the rod piece on a successful check. Once the hertilod is dispatched, a character can easily recover the rod piece from the hertilod's gullet. For more about the {@item Rod of Seven Parts|VEoR}, see this book's {@adventure introduction|VEoR|0}."
+												"The rod piece is deep within the hertilod's gullet. If the hertilod is forced to regurgitate creatures in its gullet, roll a {@dice d6}. On a roll of 4 or higher, the {@item Rod of Seven Parts|VEoR|rod piece} is also regurgitated and lands in an unoccupied space within 10 feet of the hertilod. Alternatively, a creature within the hertilod's gullet can use its action to make a {@dc 15} Intelligence ({@skill Investigation}) check, finding the rod piece on a successful check. Once the hertilod is dispatched, a character can easily recover the rod piece from the hertilod's gullet. For more about the {@item Rod of Seven Parts|VEoR}, see this book's {@area introduction|000|x}."
 											]
 										},
 										{
@@ -12033,7 +12033,7 @@
 							"page": 73,
 							"id": "19d",
 							"entries": [
-								"The characters can learn two secrets in this chapter that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@adventure introduction|VEoR|0}:",
+								"The characters can learn two secrets in this chapter that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@area introduction|000|x}:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -12058,7 +12058,7 @@
 							"page": 73,
 							"id": "19e",
 							"entries": [
-								"The third piece of the {@item Rod of Seven Parts|VEoR} is found in {@area area L28|20a|x} within Landro. For more information about the rod and the spell this piece allows its wielder to cast, see this book's {@adventure introduction|VEoR|0|The Rod's Pieces}."
+								"The third piece of the {@item Rod of Seven Parts|VEoR} is found in {@area area L28|20a|x} within Landro. For more information about the rod and the spell this piece allows its wielder to cast, see this book's {@area introduction|013|x}."
 							]
 						}
 					]
@@ -12110,7 +12110,7 @@
 							"width": 1700,
 							"height": 1120
 						},
-						"Before the characters leave Sigil for Mount Ironrot, the Wizards Three share their concerns that this rod piece will be particularly challenging to find since the Mournland is difficult to navigate. The wizards suspect that the rod piece is hidden in one of the dozens of ruined colossi scattered across Mount Ironrot (as shown on {@adventure map 4.1|VEoR|4|Map 4.1: Mount Ironrot Outskirts}).",
+						"Before the characters leave Sigil for Mount Ironrot, the Wizards Three share their concerns that this rod piece will be particularly challenging to find since the Mournland is difficult to navigate. The wizards suspect that the rod piece is hidden in one of the dozens of ruined colossi scattered across Mount Ironrot (as shown on {@area map 4.1|00f|x}).",
 						"Instead of searching each colossus individually, the wizards suggest augmenting the rod's divining power with local magic that can penetrate the Mournland's impeded navigation. The characters can do this by tuning their second rod piece to a working {@item Docent|ERLW} from inside one of the fallen colossi. A {@i Docent} is a small, sentient metal sphere that employs its sentience and magic on behalf of an attuned warforged; the full description of a {@i Docent} is found in the \"{@area Finding a Docent|1bb|x}\" section later in this chapter. The wizards correctly postulate that a {@i Docent}'s magic will stabilize and augment the rod's divining powers so it will directly point the way to the third piece.",
 						{
 							"type": "entries",
@@ -12193,7 +12193,7 @@
 									"page": 75,
 									"id": "1a7",
 									"entries": [
-										"There is no safe food to forage in the Mournland, and monsters are everywhere. If the party lingers too long between locations, introduce random encounters with creatures such as {@creature Blazebear|VEoR|blazebears} (see {@adventure appendix A|VEoR|12}) or blade scouting parties (see the \"{@area Blade Scouting Party|1ba|x}\" section later in this chapter)."
+										"There is no safe food to forage in the Mournland, and monsters are everywhere. If the party lingers too long between locations, introduce random encounters with creatures such as {@creature Blazebear|VEoR|blazebears} (see {@area appendix A|523|x}) or blade scouting parties (see the \"{@area Blade Scouting Party|1ba|x}\" section later in this chapter)."
 									]
 								}
 							]
@@ -12539,7 +12539,7 @@
 											"id": "1b0",
 											"entries": [
 												"If the characters are friendly with Kalyth, she asks to speak with them privately. In a quiet spot, Kalyth admits that in the aftermath of the Day of Mourning, she lost several valuable magic items and a purse full of gold that she could've used to stave off the veterans' current financial plight. The items are long gone, and Kalyth fears that the other veterans would reject her\u2014or worse\u2014if they found out she once had the money they desperately need and lost it.",
-												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of {@area the Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of {@area the Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 											]
 										},
 										{
@@ -12568,7 +12568,7 @@
 											]
 										},
 										"Mournland-roaming pilgrims (see the \"{@area Warforged Pilgrims|1b6|x}\" section later in this chapter) turned this ruined mill into an ossuary for fallen warforged.",
-										"From this base, pilgrims venture out to find relics or lost warforged. At such times, {@dice 2d4} pilgrims (use the {@creature warforged warrior|VEoR} stat block in {@adventure appendix A|VEoR|12}) remain in Ialos to guard the mill or patrol its surroundings. When no expedition is underway, thirteen pilgrims (including their leader, Mercy, who also uses the {@creature warforged warrior|VEoR} stat block) occupy Ialos. The pilgrims defend their home against attackers, but they flee when they're outmatched.",
+										"From this base, pilgrims venture out to find relics or lost warforged. At such times, {@dice 2d4} pilgrims (use the {@creature warforged warrior|VEoR} stat block in {@area appendix A|523|x}) remain in Ialos to guard the mill or patrol its surroundings. When no expedition is underway, thirteen pilgrims (including their leader, Mercy, who also uses the {@creature warforged warrior|VEoR} stat block) occupy Ialos. The pilgrims defend their home against attackers, but they flee when they're outmatched.",
 										"The following locations are keyed to map 4.2:",
 										{
 											"type": "gallery",
@@ -12695,7 +12695,7 @@
 									"page": 77,
 									"id": "1b6",
 									"entries": [
-										"The characters spot a band of five bipeds walking single file across a distant ridge. These are warforged pilgrims. Each uses the {@creature warforged warrior|VEoR} stat block (see {@adventure appendix A|VEoR|12}).",
+										"The characters spot a band of five bipeds walking single file across a distant ridge. These are warforged pilgrims. Each uses the {@creature warforged warrior|VEoR} stat block (see {@area appendix A|523|x}).",
 										"The pilgrims are peaceful folk who wander the Mournland in search of friendly travelers and artifacts important to warforged. A purple-hued ex-soldier named Mercy is the group's leader. Mercy is initially indifferent to the characters, but the leader responds positively to any aid the characters offer, such as advice or adventuring supplies.",
 										{
 											"type": "image",
@@ -12725,7 +12725,7 @@
 											"id": "1b8",
 											"entries": [
 												"If the characters befriend Mercy, they sense during their conversations with the warforged that something weighs heavily on Mercy. If the characters ask the warforged about their melancholy, Mercy asks to speak with the characters privately. In private, Mercy admits that their best friend has been missing in the Mournland since the Day of Mourning. Weighted with the responsibility of leadership, Mercy has never searched for this friend, a blue-and-red warforged named Filch. If the characters offer to search for Filch, they find the ex-soldier in {@area area L4|1d9|x} of {@area Landro|1c7|x}.",
-												"Regardless of the characters' reaction to this revelation or whether they offer to look for Filch, learning it counts as a secret for the purposes of {@area the Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+												"Regardless of the characters' reaction to this revelation or whether they offer to look for Filch, learning it counts as a secret for the purposes of {@area the Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 											]
 										}
 									]
@@ -12748,7 +12748,7 @@
 									"page": 78,
 									"id": "1ba",
 									"entries": [
-										"As they pass between scorched thickets, the characters are ambushed by violent followers of a bloodthirsty warmonger called the Lord of Blades. These scouts have orders to search the region for a suitable colossus to turn into a new outpost, but they'll happily make time to slay a few people in their way. The scouting party includes two {@creature Blade Scout|VEoR|blade scouts} and one {@creature blade lieutenant|VEoR} (see {@adventure appendix A|VEoR|12} for both stat blocks).",
+										"As they pass between scorched thickets, the characters are ambushed by violent followers of a bloodthirsty warmonger called the Lord of Blades. These scouts have orders to search the region for a suitable colossus to turn into a new outpost, but they'll happily make time to slay a few people in their way. The scouting party includes two {@creature Blade Scout|VEoR|blade scouts} and one {@creature blade lieutenant|VEoR} (see {@area appendix A|523|x} for both stat blocks).",
 										"The blades fight until destroyed. They remain tight-lipped if captured, but if a character demands information and succeeds on a {@dc 15} Charisma ({@skill Intimidation}) check, the lieutenant says his party's commander is a powerful warforged headhunter named Glaive. \"She'll make mincemeat out of you, interlopers!\" the lieutenant scoffs. The blades can point the party to ruined colossi in the area but otherwise have no useful information.",
 										{
 											"type": "image",
@@ -12887,7 +12887,7 @@
 							"id": "1c8",
 							"entries": [
 								"While the characters explore Landro, they're pursued by a warforged named {@creature Glaive|VEoR} (see the accompanying stat block). Glaive is a high-ranking commander loyal to the Lord of Blades. She has orders to find a ruined colossus suitable to transform into an outpost for the blades, and Landro fits this description perfectly. When she becomes aware of the party's presence in Landro, Glaive relishes the opportunity to destroy these \"meddlesome interlopers,\" as she calls them.",
-								"Glaive is accompanied by two {@creature Blade Scout|VEoR|blade scouts} (see {@adventure appendix A|VEoR|12}) named Rack and Crunch. The three blades prefer to split up and sneak around Landro and the adjoining caves. They take turns using hit-and-run tactics to harry the characters, creating a sense that more blades lurk around every corner. As long as Glaive is around, the characters can't finish an uninterrupted long rest inside Landro or in the caves of Mount Ironrot.",
+								"Glaive is accompanied by two {@creature Blade Scout|VEoR|blade scouts} (see {@area appendix A|523|x}) named Rack and Crunch. The three blades prefer to split up and sneak around Landro and the adjoining caves. They take turns using hit-and-run tactics to harry the characters, creating a sense that more blades lurk around every corner. As long as Glaive is around, the characters can't finish an uninterrupted long rest inside Landro or in the caves of Mount Ironrot.",
 								"It's up to you where the characters encounter this strike squad, though Landro's location descriptions provide suggestions. If you don't want to ambush the characters with this encounter, it should occur in {@area area L27|208|x}. Glaive is devoted to her mission and fights the characters until destroyed, but her subordinates are less motivated. If Glaive is defeated, Rack and Crunch flee.",
 								{
 									"type": "entries",
@@ -12906,7 +12906,7 @@
 							"page": 81,
 							"id": "1ca",
 							"entries": [
-								"The invisible barrier described in the \"Landro Features\" section below makes it impossible to enter the colossus via typical means. The barrier is damaged in three places, allowing ingress via paths along Mount Ironrot into {@area areas L5|1da|x}, {@area L11|1e7|x}, and {@area L16|1f4|x} of the colossus. {@adventure Map 4.3|VEoR|4|Map 4.3: Landro} includes a side view of Landro and the paths that lead into the colossus's interior.",
+								"The invisible barrier described in the \"Landro Features\" section below makes it impossible to enter the colossus via typical means. The barrier is damaged in three places, allowing ingress via paths along Mount Ironrot into {@area areas L5|1da|x}, {@area L11|1e7|x}, and {@area L16|1f4|x} of the colossus. {@area Map 4.3|011|x} includes a side view of Landro and the paths that lead into the colossus's interior.",
 								"The easiest way to enter the colossus is through the mountain caves that lead to area L5. The characters can also search higher up the mountain along outdoor paths for the entrances to caverns that lead to areas L11 and L16. Searching for area L11 takes {@dice 2d4} hours, and during the characters' search, a hungry {@creature roc} ambushes them. Searching for area L16 takes {@dice 3d4} hours, and during the characters' search, they stumble on a nest with two {@creature Roc||rocs} and one roc egg the height of a human. The angry roc parents attack the characters, though the rocs don't pursue if the characters flee."
 							]
 						},
@@ -12923,7 +12923,7 @@
 									"page": 82,
 									"id": "1cc",
 									"entries": [
-										"The piece of the {@item Rod of Seven Parts|VEoR} linked to the graymatter engine creates special gravity-altering effects in parts of Landro. The areas affected by these effects are denoted on {@adventure map 4.3|VEoR|4|Map 4.3: Landro} as the swirled features in {@area areas L5|1da|x}, {@area L6|1dc|x}, {@area L7|1de|x}, {@area L8|1df|x}, and {@area L9|1e1|x}. These have the following effects:",
+										"The piece of the {@item Rod of Seven Parts|VEoR} linked to the graymatter engine creates special gravity-altering effects in parts of Landro. The areas affected by these effects are denoted on {@area map 4.3|011|x} as the swirled features in {@area areas L5|1da|x}, {@area L6|1dc|x}, {@area L7|1de|x}, {@area L8|1df|x}, and {@area L9|1e1|x}. These have the following effects:",
 										{
 											"type": "list",
 											"style": "list-hang-notitle",
@@ -16093,7 +16093,7 @@
 									"id": "1d9",
 									"entries": [
 										"If the characters haven't run into significant challenges yet, Glaive and one of her blade scout companions attack the characters from both ends of this narrow tunnel. After all combatants have taken a turn, the attackers flee into Landro and hide for another surprise attack.",
-										"Regardless of whether the characters fight the strike squad, if they search this area, they find a comatose {@creature warforged warrior|VEoR} (see {@adventure appendix A|VEoR|12}) in the northeast corner of this area. A character who tries to rouse the warrior and succeeds at a {@dc 18} Charisma ({@skill Persuasion}) check wakes the warrior, who identifies themself as Filch. Filch wandered in here shortly after the Day of Mourning looking for their best friend, the warforged Mercy (see the \"{@area Warforged Pilgrims|1b6|x}\" section earlier in this chapter). The stress of the situation caused Filch's comatose state. Mercy and Filch would be happy to be reunited.",
+										"Regardless of whether the characters fight the strike squad, if they search this area, they find a comatose {@creature warforged warrior|VEoR} (see {@area appendix A|523|x}) in the northeast corner of this area. A character who tries to rouse the warrior and succeeds at a {@dc 18} Charisma ({@skill Persuasion}) check wakes the warrior, who identifies themself as Filch. Filch wandered in here shortly after the Day of Mourning looking for their best friend, the warforged Mercy (see the \"{@area Warforged Pilgrims|1b6|x}\" section earlier in this chapter). The stress of the situation caused Filch's comatose state. Mercy and Filch would be happy to be reunited.",
 										{
 											"type": "image",
 											"href": {
@@ -16356,7 +16356,7 @@
 												"A pile of leather scraps, broken bones, and sludgy offal fills a corner of this cave. Nesting in this nauseating pile is a monstrous beast that resembles a bear with three long, fleshy tentacles sprouting from its skull. Each tentacle is topped with a glowing, knobby lump of flesh."
 											]
 										},
-										"The monster dwelling here is a {@creature blazebear|VEoR} (see {@adventure appendix A|VEoR|12}). It attacks any creature it sees and fights until destroyed."
+										"The monster dwelling here is a {@creature blazebear|VEoR} (see {@area appendix A|523|x}). It attacks any creature it sees and fights until destroyed."
 									]
 								},
 								{
@@ -16373,7 +16373,7 @@
 												"Two tunnels branch off opposite sides of this thirty-foot-high cavern. The tunnels reconvene at an overhang fifteen feet above the eastern passage."
 											]
 										},
-										"Assuming they haven't both been defeated, one of Glaive's {@creature Blade Scout|VEoR|blade scouts} (see {@adventure appendix A|VEoR|12}) hides on the overhang here while the other scout hides down the eastern tunnel, near area L16. When the characters are within range, the scouts fire their crossbows at a random character.",
+										"Assuming they haven't both been defeated, one of Glaive's {@creature Blade Scout|VEoR|blade scouts} (see {@area appendix A|523|x}) hides on the overhang here while the other scout hides down the eastern tunnel, near area L16. When the characters are within range, the scouts fire their crossbows at a random character.",
 										"Any creature atop the overhang has {@book half cover|PHB|9|Cover} from creatures in the tunnel below."
 									]
 								},
@@ -16578,7 +16578,7 @@
 												"The mechanical guts of what must have been a magical cannon were torn out of the platform in this room. To the south, a three-foot-tall ledge is all that separates this chamber from the open air. If not for the dense mist of the Mournland, this window would afford a spectacular view."
 											]
 										},
-										"In this 15-foot-tall room, which is effectively Landro's mouth, {@creature Glaive|VEoR} makes her final stand against the characters if she has survived this long. Her {@creature Blade Scout|VEoR|blade scouts} (see {@adventure appendix A|VEoR|12}), Rack and Crunch, fight alongside her if they're still alive."
+										"In this 15-foot-tall room, which is effectively Landro's mouth, {@creature Glaive|VEoR} makes her final stand against the characters if she has survived this long. Her {@creature Blade Scout|VEoR|blade scouts} (see {@area appendix A|523|x}), Rack and Crunch, fight alongside her if they're still alive."
 									]
 								},
 								{
@@ -16687,7 +16687,7 @@
 											"page": 90,
 											"id": "212",
 											"entries": [
-												"If any character consents to the graymatter engine's secret-learning process, the most recent secret the party learned is spent, as described in \"{@area The Power of Secrets|028|x}\" section in the book's {@adventure introduction|VEoR|0}. Instead of the usual benefit of spending the secret, the characters all gain {@book inspiration|PHB|4|inspiration}. Mark off a secret spent in this way on the Secrets Tracker in {@adventure appendix C|VEoR|14}. No matter how many characters consent, only one secret is spent."
+												"If any character consents to the graymatter engine's secret-learning process, the most recent secret the party learned is spent, as described in \"{@area The Power of Secrets|028|x}\" section in the book's {@area introduction|000|x}. Instead of the usual benefit of spending the secret, the characters all gain {@book inspiration|PHB|4|inspiration}. Mark off a secret spent in this way on the Secrets Tracker in {@area appendix C|56e|x}. No matter how many characters consent, only one secret is spent."
 											]
 										}
 									]
@@ -16810,7 +16810,7 @@
 							"page": 93,
 							"id": "21a",
 							"entries": [
-								"The characters can learn one secret in this chapter that is applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@adventure introduction|VEoR|0}:",
+								"The characters can learn one secret in this chapter that is applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@area introduction|000|x}:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -16830,7 +16830,7 @@
 							"page": 93,
 							"id": "21b",
 							"entries": [
-								"The {@item Rod of Seven Parts|VEoR|fourth piece} of the {@item Rod of Seven Parts|VEoR} is in {@adventure area D38|VEoR|5|D38: Ritual Chamber} of Death House. For more information about the rod and the spell this piece allows its wielder to cast, see this book's {@area introduction|00e|x}."
+								"The {@item Rod of Seven Parts|VEoR|fourth piece} of the {@item Rod of Seven Parts|VEoR} is in {@area area D38|29a|x} of Death House. For more information about the rod and the spell this piece allows its wielder to cast, see this book's {@area introduction|00e|x}."
 							]
 						}
 					]
@@ -16929,7 +16929,7 @@
 							"page": 95,
 							"id": "222",
 							"entries": [
-								"After the characters are free of the mob, a cloaked adventurer named Sarusanda Allester approaches them. Sarusanda is a lawful neutral, human {@creature inquisitor of the tome|VRGR} (see {@adventure appendix A|VEoR|12}) who speaks Celestial, Common, Draconic, and Elvish, and can cast {@spell Speak with Dead} at will. She introduces herself and asks to speak with the characters in private. The characters can slip into an alley for this discussion, or they can duck into the Blood of the Vine, the village tavern, for a quiet conversation.",
+								"After the characters are free of the mob, a cloaked adventurer named Sarusanda Allester approaches them. Sarusanda is a lawful neutral, human {@creature inquisitor of the tome|VRGR} (see {@area appendix A|523|x}) who speaks Celestial, Common, Draconic, and Elvish, and can cast {@spell Speak with Dead} at will. She introduces herself and asks to speak with the characters in private. The characters can slip into an alley for this discussion, or they can duck into the Blood of the Vine, the village tavern, for a quiet conversation.",
 								{
 									"type": "image",
 									"href": {
@@ -17087,11 +17087,11 @@
 										],
 										[
 											"5\u20138",
-											"Three {@creature Priest of Osybus|VRGR|priests of Osybus} (see {@adventure appendix A|VEoR|12}) lurk nearby, poised to strike†"
+											"Three {@creature Priest of Osybus|VRGR|priests of Osybus} (see {@area appendix A|523|x}) lurk nearby, poised to strike†"
 										],
 										[
 											"9",
-											"One {@creature whirling chandelier|VEoR} (see {@adventure appendix A|VEoR|12}) falls on a random character before two {@creature Invisible Stalker||invisible stalkers} join the surprise attack"
+											"One {@creature whirling chandelier|VEoR} (see {@area appendix A|523|x}) falls on a random character before two {@creature Invisible Stalker||invisible stalkers} join the surprise attack"
 										],
 										[
 											"10\u201311",
@@ -17130,7 +17130,7 @@
 												"The remnants of a deadly battle lie about this chamber: broken bits of furniture, scattered weapons, and two bodies shrouded in dark robes. Sarusanda kneels in one corner, wrapping a linen bandage around her leg. She startles at your intrusion, then relaxes."
 											]
 										},
-										"The robed bodies belong to two {@creature Priest of Osybus|VRGR|priests of Osybus} (see {@adventure appendix A|VEoR|12}), each of whom is stable at 0 hit points. When the characters enter the room, each priest's Tattoo of Osybus trait causes the priest to rise on its next turn, at which point it attacks the characters.",
+										"The robed bodies belong to two {@creature Priest of Osybus|VRGR|priests of Osybus} (see {@area appendix A|523|x}), each of whom is stable at 0 hit points. When the characters enter the room, each priest's Tattoo of Osybus trait causes the priest to rise on its next turn, at which point it attacks the characters.",
 										{
 											"type": "entries",
 											"name": "Development",
@@ -17177,7 +17177,7 @@
 											"page": 97,
 											"id": "235",
 											"entries": [
-												"Elya's skull offers its words in hair-raising, singsong whispers. The skull doesn't know anything about the {@item Rod of Seven Parts|VEoR} or the priests of Osybus. It can, however, give directions to the cultists' ritual chamber ({@adventure area D38|VEoR|5|D38: Ritual Chamber}) and describe their general motives: \"We wish to impress our glorious lord, Strahd von Zarovich!\"",
+												"Elya's skull offers its words in hair-raising, singsong whispers. The skull doesn't know anything about the {@item Rod of Seven Parts|VEoR} or the priests of Osybus. It can, however, give directions to the cultists' ritual chamber ({@area area D38|29a|x}) and describe their general motives: \"We wish to impress our glorious lord, Strahd von Zarovich!\"",
 												"Once Sarusanda is done speaking with the skull, it cackles in grim amusement, then floats into the air. Three {@creature Will-o'-Wisp||will-o'-wisps} emerge from corners of the room and join the skull (use the {@creature flameskull} stat block) in attacking the party and Sarusanda."
 											]
 										}
@@ -17189,7 +17189,7 @@
 									"page": 97,
 									"id": "236",
 									"entries": [
-										"Run this encounter with Sarusanda after the characters have claimed the rod piece from the cultists (see {@adventure area D38|VEoR|5|D38: Ritual Chamber}) but before they encounter Strahd.",
+										"Run this encounter with Sarusanda after the characters have claimed the rod piece from the cultists (see {@area area D38|29a|x}) but before they encounter Strahd.",
 										{
 											"type": "insetReadaloud",
 											"page": 97,
@@ -17198,7 +17198,7 @@
 												"Sarusanda stands in the middle of the room. Her shoulders are slumped beneath her grimy armor, and dark circles underline her weary eyes. She doesn't turn to face you, but she holds a finger in the air to indicate silence. A moment later, the room erupts into chaos as three tattooed figures dart from the shadows."
 											]
 										},
-										"Three {@creature Priest of Osybus|VRGR|priests of Osybus} (see {@adventure appendix A|VEoR|12}) attack Sarusanda and the party, entering the room from multiple directions if possible.",
+										"Three {@creature Priest of Osybus|VRGR|priests of Osybus} (see {@area appendix A|523|x}) attack Sarusanda and the party, entering the room from multiple directions if possible.",
 										"With or without the characters' help, Sarusanda fights passionately against the priests. She discards her normally staid demeanor for this battle and openly rages at the priests, making careless tactical decisions amid the turmoil.",
 										{
 											"type": "entries",
@@ -17209,7 +17209,7 @@
 												"After the battle, a character who asks Sarusanda what's wrong is greeted with a long, bitter sigh. The inquisitor then reveals the source of her distress.",
 												"Shortly after she joined the Ulmist Inquisition, Sarusanda's father\u2014a man named Galias\u2014joined the priests of Osybus. Sarusanda witnessed him commit a terrible act in the cult's name, though she doesn't give details, and the inquisitor admits she didn't arrest her father. Sarusanda considers this her greatest failing.",
 												"Galias was fully inducted into the priests of Osybus, and Sarusanda heard that he would be among the cultists at Death House today. She is enraged that she hasn't found Galias so she can confront him.",
-												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 											]
 										}
 									]
@@ -17247,7 +17247,7 @@
 									"page": 98,
 									"id": "23c",
 									"entries": [
-										"Unless otherwise noted, each room in the house is lit with {@quickref Vision and Light||2||bright light} by oil lamps, a fireplace, or some other light source when the characters arrive. The cultists take oil lamps into the ritual chamber ({@adventure area D38|VEoR|5|D38: Ritual Chamber}) when they gather there."
+										"Unless otherwise noted, each room in the house is lit with {@quickref Vision and Light||2||bright light} by oil lamps, a fireplace, or some other light source when the characters arrive. The cultists take oil lamps into the ritual chamber ({@area area D38|29a|x}) when they gather there."
 									]
 								},
 								{
@@ -18841,7 +18841,7 @@
 											"page": 99,
 											"id": "248",
 											"entries": [
-												"A character searching the southwest corner of the room finds a trapdoor with a successful {@dc 20} Intelligence ({@skill Investigation}) check. The trapdoor is barred from the other side ({@adventure area D32|VEoR|5|D32: Hidden Trapdoor}). It is a Medium object with AC 13, 15 hit points, and immunity to poison and psychic damage."
+												"A character searching the southwest corner of the room finds a trapdoor with a successful {@dc 20} Intelligence ({@skill Investigation}) check. The trapdoor is barred from the other side ({@area area D32|28e|x}). It is a Medium object with AC 13, 15 hit points, and immunity to poison and psychic damage."
 											]
 										}
 									]
@@ -18913,7 +18913,7 @@
 												"Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a wood-framed portrait of a family: a man and a woman with two smiling children\u2014the same children you saw outside. The marble staircase continues upward."
 											]
 										},
-										"The red marble staircase that started on the first floor continues its upward spiral to {@adventure area D11|VEoR|5|D11: Balcony}. A cold draft flows down the steps."
+										"The red marble staircase that started on the first floor continues its upward spiral to {@area area D11|25e|x}. A cold draft flows down the steps."
 									]
 								},
 								{
@@ -19080,7 +19080,7 @@
 												"Burgundy drapes cover the windows of this large bedroom. The furnishings include a four-poster bed, a matching pair of wardrobes, and a vanity with a jewelry box. A portrait of a man and woman hangs above a fireplace. A parlor in the southwest corner contains a table and two chairs."
 											]
 										},
-										"The couple in the portrait are the same people from the family portrait in the upper hall ({@adventure area D6|VEoR|5|D6: Upper Hall}). A door facing the foot of the bed opens to an empty closet (area D12b). A door in the parlor leads to an outside balcony (area D12c).",
+										"The couple in the portrait are the same people from the family portrait in the upper hall ({@area area D6|24f|x}). A door facing the foot of the bed opens to an empty closet (area D12b). A door in the parlor leads to an outside balcony (area D12c).",
 										{
 											"type": "entries",
 											"name": "Dumbwaiter",
@@ -19179,7 +19179,7 @@
 									"page": 102,
 									"id": "26d",
 									"entries": [
-										"This bare hallway can be accessed by the staircase behind the secret doors in {@adventure areas D11|VEoR|5|D11: Balcony} and D15a."
+										"This bare hallway can be accessed by the staircase behind the secret doors in {@area areas D11|25e|x} and D15a."
 									]
 								},
 								{
@@ -19219,7 +19219,7 @@
 											"page": 103,
 											"id": "272",
 											"entries": [
-												"A character who examines the east wall and succeeds on a {@dc 15} Intelligence ({@skill Investigation}) check finds a secret door that opens to reveal a secret stair ({@adventure area D21|VEoR|5|D21: Secret Stairs}) to the dungeon ({@adventure area D22|VEoR|5|D22: Dungeon Level Access})."
+												"A character who examines the east wall and succeeds on a {@dc 15} Intelligence ({@skill Investigation}) check finds a secret door that opens to reveal a secret stair ({@area area D21|279|x}) to the dungeon ({@area area D22|27a|x})."
 											]
 										}
 									]
@@ -19298,7 +19298,7 @@
 											"page": 103,
 											"id": "27b",
 											"entries": [
-												"From the moment they arrive in the dungeon, the characters hear an eerie, incessant chant echoing throughout the chambers. It's impossible to determine which direction the sound is coming from until the characters reach {@adventure areas D26|VEoR|5|D26: Hidden Spiked Pit} or {@adventure D29|VEoR|5|D29: Intersection}. They can't discern its words until they reach {@adventure area D35|VEoR|5|D35: Reliquary}."
+												"From the moment they arrive in the dungeon, the characters hear an eerie, incessant chant echoing throughout the chambers. It's impossible to determine which direction the sound is coming from until the characters reach {@area areas D26|283|x} or {@area D29|288|x}. They can't discern its words until they reach {@area area D35|293|x}."
 											]
 										}
 									]
@@ -19434,7 +19434,7 @@
 									"page": 104,
 									"id": "289",
 									"entries": [
-										"Any character standing at the top of this 20-foot-long staircase realizes the chants originate from somewhere below. Characters who descend the stairs and follow the hall beyond arrive in {@adventure area D35|VEoR|5|D35: Reliquary}."
+										"Any character standing at the top of this 20-foot-long staircase realizes the chants originate from somewhere below. Characters who descend the stairs and follow the hall beyond arrive in {@area area D35|293|x}."
 									]
 								},
 								{
@@ -19478,7 +19478,7 @@
 									"page": 104,
 									"id": "28e",
 									"entries": [
-										"The staircase ends at a landing with a 6-foot-high wooden ceiling with a trapdoor set into it. The trapdoor is bolted shut from this side and can be pushed open to reveal the den ({@adventure area D3|VEoR|5|D3: Den of Wolves}) above."
+										"The staircase ends at a landing with a 6-foot-high wooden ceiling with a trapdoor set into it. The trapdoor is bolted shut from this side and can be pushed open to reveal the den ({@area area D3|246|x}) above."
 									]
 								},
 								{
@@ -19564,7 +19564,7 @@
 											"page": 105,
 											"id": "297",
 											"entries": [
-												"Characters searching the area find a secret door in the south wall with a successful {@dc 15} Intelligence ({@skill Investigation}) check. It pulls open to reveal {@adventure area D38|VEoR|5|D38: Ritual Chamber} on the other side."
+												"Characters searching the area find a secret door in the south wall with a successful {@dc 15} Intelligence ({@skill Investigation}) check. It pulls open to reveal {@area area D38|29a|x} on the other side."
 											]
 										}
 									]
@@ -19613,7 +19613,7 @@
 											"entries": [
 												"The figures along the ledge include Gustav and Elisabeth ({@creature Cult Fanatic||cult fanatics}), five senior cult members ({@creature Cult Fanatic||cult fanatics}), and seven {@creature Cultist||cultists}. The cult members fight only to defend themselves.",
 												"Dangling from the chains above the altar is the corpse of the Dursts' nursemaid, Brigetta. The cult ritually sacrificed Brigetta using a ceremonial stake tipped with the {@item Rod of Seven Parts|VEoR|fourth piece} of the {@item Rod of Seven Parts|VEoR}, which is still embedded in Brigetta's chest.",
-												"A {@creature relentless impaler|VEoR} (see {@adventure appendix A|VEoR|12}) has risen from the pool of Brigetta's blood on the altar. When the impaler detects the characters, it attacks. The impaler hunts them throughout the house until it is destroyed or the characters defeat it. For its Bloodheart Stake trait, the impaler is bound to the stake in Brigetta's corpse."
+												"A {@creature relentless impaler|VEoR} (see {@area appendix A|523|x}) has risen from the pool of Brigetta's blood on the altar. When the impaler detects the characters, it attacks. The impaler hunts them throughout the house until it is destroyed or the characters defeat it. For its Bloodheart Stake trait, the impaler is bound to the stake in Brigetta's corpse."
 											]
 										},
 										{
@@ -19686,7 +19686,7 @@
 											"type": "list",
 											"items": [
 												"Finish a long rest in Death House",
-												"Move through a haunted doorway (marked on {@adventure map 5.1|VEoR|5|Map 5.1: Death House})"
+												"Move through a haunted doorway (marked on {@area map 5.1|012|x})"
 											]
 										},
 										"Only one haunted zone manifests at a time. As long as at least one creature is in a haunted zone, any other creatures that enter a haunted zone appear in that same zone regardless of how they arrive. Once all the characters inside a haunted zone exit it, that zone can't be encountered again. The haunted zones are described below in the \"{@area Death House Hauntings|2a8|x}\" section.",
@@ -19740,19 +19740,19 @@
 													"rows": [
 														[
 															"1",
-															"The characters sit in the dining room ({@adventure area D5|VEoR|5|D5: Dining Room}), sated and covered with sticky crumbs, though there's no food in sight."
+															"The characters sit in the dining room ({@area area D5|24c|x}), sated and covered with sticky crumbs, though there's no food in sight."
 														],
 														[
 															"2",
-															"The characters stand in the storage room ({@adventure area D18|VEoR|5|D18: Storage Room}), draped in sheets."
+															"The characters stand in the storage room ({@area area D18|270|x}), draped in sheets."
 														],
 														[
 															"3",
-															"The characters kneel at the side of the cultists' well ({@adventure area D25|VEoR|5|D25: Cultist Quarters and Well}), desperately parched."
+															"The characters kneel at the side of the cultists' well ({@area area D25|27f|x}), desperately parched."
 														],
 														[
 															"4",
-															"The characters are slumped over the furniture in the storage room ({@adventure area D18|VEoR|5|D18: Storage Room})."
+															"The characters are slumped over the furniture in the storage room ({@area area D18|270|x})."
 														],
 														[
 															"5",
@@ -19760,7 +19760,7 @@
 														],
 														[
 															"6",
-															"The characters are shackled to the wall in the prison ({@adventure area D36|VEoR|5|D36: Prison}), each character in a different alcove. The characters can easily break their bonds."
+															"The characters are shackled to the wall in the prison ({@area area D36|295|x}), each character in a different alcove. The characters can easily break their bonds."
 														]
 													]
 												},
@@ -19875,7 +19875,7 @@
 												"You're seated in an ornate chair on the edge of a dimly lit parlor. Eight ghostly figures sit in identical chairs to either side of you. At the parlor's far end, a pale man at a harpsichord slowly plinks out a haunting elegy. The ghostly figures listen to the song with rapt attention."
 											]
 										},
-										"This zone resembles Death House's conservatory ({@adventure area D10|VEoR|5|D10: Conservatory}), except the room's doors and windows overlook a black, featureless void.",
+										"This zone resembles Death House's conservatory ({@area area D10|25b|x}), except the room's doors and windows overlook a black, featureless void.",
 										"If a character makes any noise or otherwise disrupts the performance, the musician\u2014yet another illusion of Strahd\u2014ceases playing, scowls at the character, and disappears. Eight {@creature Specter||specters} fly out of the harpsichord and attack the characters in anger.",
 										{
 											"type": "entries",
@@ -19961,7 +19961,7 @@
 							"id": "2bb",
 							"entries": [
 								"After he arrives at Death House, {@creature Strahd, Master of Death House|VEoR} (see {@area appendix B|566|x}) waits for the characters in the house's main hall ({@area area D2a|243|x}). He is accompanied by two {@creature vampire spawn}.",
-								"If the characters don't intend to return to the main hall, Strahd and his minions wait for the characters in another room of the house, such as the dining room ({@adventure area D5|VEoR|5|D5: Dining Room}) or the den of wolves ({@adventure area D3|VEoR|5|D3: Den of Wolves}).",
+								"If the characters don't intend to return to the main hall, Strahd and his minions wait for the characters in another room of the house, such as the dining room ({@area area D5|24c|x}) or the den of wolves ({@area area D3|246|x}).",
 								"When Strahd encounters the characters, read the following:",
 								{
 									"type": "insetReadaloud",
@@ -20048,7 +20048,7 @@
 							"page": 111,
 							"id": "2c3",
 							"entries": [
-								"The characters can learn two secrets in this chapter that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@adventure introduction|VEoR|0}:",
+								"The characters can learn two secrets in this chapter that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@area introduction|000|x}:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -22844,7 +22844,7 @@
 							"page": 114,
 							"id": "2db",
 							"entries": [
-								"As Riffel and the characters talk, the peylon tree's guardian emerges from the grotto's wall and stands before her uninvited guests. This is Gazaia, a {@creature deadbark dryad|VEoR} (see {@adventure appendix A|VEoR|12}). Annoyed at the disturbance, Gazaia tells the party and Riffel to state their business or leave her sanctum at once.",
+								"As Riffel and the characters talk, the peylon tree's guardian emerges from the grotto's wall and stands before her uninvited guests. This is Gazaia, a {@creature deadbark dryad|VEoR} (see {@area appendix A|523|x}). Annoyed at the disturbance, Gazaia tells the party and Riffel to state their business or leave her sanctum at once.",
 								{
 									"type": "entries",
 									"id": "2dc",
@@ -22893,7 +22893,7 @@
 												{
 													"type": "item",
 													"name": "Gazaia's Secret",
-													"entry": "The {@creature deadbark dryad|VEoR} bitterly recounts the tale of Lord Soth's soldiers assaulting the tree. If a character tries to comfort Gazaia, she confesses that she hid while the soldiers were around the tree. Gazaia feels extremely guilty that she didn't defend her charge. Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+													"entry": "The {@creature deadbark dryad|VEoR} bitterly recounts the tale of Lord Soth's soldiers assaulting the tree. If a character tries to comfort Gazaia, she confesses that she hid while the soldiers were around the tree. Gazaia feels extremely guilty that she didn't defend her charge. Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 												}
 											]
 										}
@@ -23021,7 +23021,7 @@
 										"An enormous, slavering monster attacks the bluff face, where a stone arch marks the entrance to an underground temple. A crumbling stone door separates the monster from the temple's interior."
 									]
 								},
-								"The Blue Fire Wardens are trapped inside their own temple. If the characters don't intervene, the {@creature borthak|VEoR} (see {@adventure appendix A|VEoR|12}) will soon break through the temple door.",
+								"The Blue Fire Wardens are trapped inside their own temple. If the characters don't intervene, the {@creature borthak|VEoR} (see {@area appendix A|523|x}) will soon break through the temple door.",
 								"The {@creature borthak|VEoR} is too large to fit through the stone door and into the temple, though smaller creatures can slip through with some effort. Left alone, the borthak uses its action on each of its turns to attack the temple door. The door has AC 20, 225 hit points, and immunity to poison and psychic damage. If the borthak succeeds in breaking down the door, it enters the temple and attacks the seven wardens (use the {@creature werewolf} stat block, except their alignments are neutral good) who are trapped inside.",
 								"The underground temple isn't shown on map 6.2. Hewn out of the rock and earth, it has a central gathering area and six adjoining cells, where the wardens sleep and pray behind thin wooden doors. The temple contains supplies but nothing of value."
 							]
@@ -27778,7 +27778,7 @@
 												"The goat path dead-ends at the convergence of three steep cliff walls. Two austere pillars flank a stone double door set into the wall. Next to each pillar stands a silver statue of a tall, mostly human-shaped individual."
 											]
 										},
-										"Two {@creature Moonlight Guardian|VEoR|moonlight guardians} (see {@adventure appendix A|VEoR|12}) guard this secret entrance. They attack any intruders on sight and fight until destroyed.",
+										"Two {@creature Moonlight Guardian|VEoR|moonlight guardians} (see {@area appendix A|523|x}) guard this secret entrance. They attack any intruders on sight and fight until destroyed.",
 										{
 											"type": "entries",
 											"name": "Trapped Doorway",
@@ -27993,7 +27993,7 @@
 											"id": "310",
 											"entries": [
 												"As the characters talk with Valendar, the leader adopts a sheepish demeanor, especially when talking about his capture. If the characters ask why, Valendar admits that he didn't properly scout the Three Moons Vault before the wardens' attack on the castle. Valendar underestimated Teremini, assuming she was a powerless lackey of Lord Soth. Valendar believes the wardens' defeat was his fault, and he's glad that no one else was captured in the assault.",
-												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 											]
 										}
 									]
@@ -28039,7 +28039,7 @@
 												"Though this tiered chamber was once elegantly appointed, its brass candelabras, velvet runners, and red tapestries were destroyed\u2014likely by the room's occupant, a desiccated Undead currently tearing at the walls. A single doorway is set into the short north wall of the room."
 											]
 										},
-										"The {@creature black rose bearer|VEoR} (see {@adventure appendix A|VEoR|12}) trapped here is raging at everything in sight. Akaazi (see {@area area V34|350|x}) locked the bearer in here to prevent it from wreaking havoc throughout the dungeon. The black rose bearer attacks anyone who enters and fights until destroyed.",
+										"The {@creature black rose bearer|VEoR} (see {@area appendix A|523|x}) trapped here is raging at everything in sight. Akaazi (see {@area area V34|350|x}) locked the bearer in here to prevent it from wreaking havoc throughout the dungeon. The black rose bearer attacks anyone who enters and fights until destroyed.",
 										"The doorway in the north wall opens to a stairway ascending to {@area area V35|353|x}."
 									]
 								},
@@ -28364,7 +28364,7 @@
 												"Two enormous, skeletal, birdlike creatures perch atop the wooden platform here."
 											]
 										},
-										"These two {@creature Bone Roc|VEoR|bone rocs} (see {@adventure appendix A|VEoR|12}) are trained to ferry passengers to and from a similar rookery near the bottom of the mountain.",
+										"These two {@creature Bone Roc|VEoR|bone rocs} (see {@area appendix A|523|x}) are trained to ferry passengers to and from a similar rookery near the bottom of the mountain.",
 										"A bone roc attacks only if threatened or harmed."
 									]
 								},
@@ -28606,7 +28606,7 @@
 												"Black candles cast {@quickref Vision and Light||2||dim light} throughout this inner room, revealing a circle of unholy runes drawn in chalk on the floor. A black-robed figure crouches, examining the runes, while a zombie-like creature holding a black rose in a glass jar stands nearby."
 											]
 										},
-										"A neutral evil human {@creature necromancer wizard|MPMM} (see {@adventure appendix A|VEoR|12}) named Akaazi uses this chamber to conduct necromantic rituals and create Undead soldiers for Lord Soth's army. Akaazi is accompanied by a {@creature black rose bearer|VEoR} (see {@adventure appendix A|VEoR|12}).",
+										"A neutral evil human {@creature necromancer wizard|MPMM} (see {@area appendix A|523|x}) named Akaazi uses this chamber to conduct necromantic rituals and create Undead soldiers for Lord Soth's army. Akaazi is accompanied by a {@creature black rose bearer|VEoR} (see {@area appendix A|523|x}).",
 										"As soon as she's aware of intruders, Akaazi commands the bearer to attack and fights to the death in the name of Lord Soth.",
 										"If the characters look up, they can see a black moonlight mirror hanging in {@area area V36|357|x}."
 									]
@@ -29212,7 +29212,7 @@
 												"A shadowy, skeletal wolf walking upright like a human stalks the area here."
 											]
 										},
-										"The skeletal wolf is a {@creature deathwolf|VEoR} (see {@adventure appendix A|VEoR|12}) created from the body of a slain Blue Fire Warden. Akaazi ordered the deathwolf to attack any intruders during Teremini's ritual. If it sees the characters, the deathwolf attacks viciously and stops at nothing to destroy its opponents."
+										"The skeletal wolf is a {@creature deathwolf|VEoR} (see {@area appendix A|523|x}) created from the body of a slain Blue Fire Warden. Akaazi ordered the deathwolf to attack any intruders during Teremini's ritual. If it sees the characters, the deathwolf attacks viciously and stops at nothing to destroy its opponents."
 									]
 								},
 								{
@@ -29229,7 +29229,7 @@
 												"Two desiccated, undead creatures, each holding a bell jar containing a black rose, stand guard here."
 											]
 										},
-										"Two {@creature Black Rose Bearer|VEoR|black rose bearers} (see {@adventure appendix A|VEoR|12}) have been ordered to defend this lunarium against intruders."
+										"Two {@creature Black Rose Bearer|VEoR|black rose bearers} (see {@area appendix A|523|x}) have been ordered to defend this lunarium against intruders."
 									]
 								},
 								{
@@ -29311,7 +29311,7 @@
 									"page": 129,
 									"id": "36d",
 									"entries": [
-										"A portal to Lunitari opens where the moondisk once hovered. Orinix, an {@creature adult lunar dragon|BAM} (see {@adventure appendix A|VEoR|12}) flies from this portal and looms over the courtyard. Displeased at Teremini's failure, the dragon attacks everyone in sight, focusing foremost on Teremini.",
+										"A portal to Lunitari opens where the moondisk once hovered. Orinix, an {@creature adult lunar dragon|BAM} (see {@area appendix A|523|x}) flies from this portal and looms over the courtyard. Displeased at Teremini's failure, the dragon attacks everyone in sight, focusing foremost on Teremini.",
 										{
 											"type": "image",
 											"href": {
@@ -29383,7 +29383,7 @@
 							"page": 131,
 							"id": "372",
 							"entries": [
-								"The characters can learn two secrets in this chapter that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@adventure introduction|VEoR|0}:",
+								"The characters can learn two secrets in this chapter that are applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@area introduction|000|x}:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -29623,14 +29623,14 @@
 											]
 										},
 										"Laysa is unfamiliar with the {@item Rod of Seven Parts|VEoR}, but she agrees that such a powerful magic item could be found within the complex. She isn't aware of any other location where the rod piece might be.",
-										"Laysa provides the characters with a rough map of the complex ({@adventure map 7.2|VEoR|7|Map 7.2: Tomb Complex}) and can lead the party to its entrance when they're ready.",
+										"Laysa provides the characters with a rough map of the complex ({@area map 7.2|538|x}) and can lead the party to its entrance when they're ready.",
 										{
 											"type": "entries",
 											"name": "Stolen Treasures",
 											"page": 133,
 											"id": "37e",
 											"entries": [
-												"Laysa hopes to recover six ancestral treasures stolen from her people. Some of these treasures are magic items, although Laysa describes them only as detailed below. The items (and their locations on {@adventure map 7.3|VEoR|7|Map 7.3: Tomb of Wayward Souls}) are as follows:",
+												"Laysa hopes to recover six ancestral treasures stolen from her people. Some of these treasures are magic items, although Laysa describes them only as detailed below. The items (and their locations on {@area map 7.3|529|x}) are as follows:",
 												{
 													"type": "list",
 													"items": [
@@ -29698,7 +29698,7 @@
 											"id": "382",
 											"entries": [
 												"When the characters speak at length with Marian, they notice the mage speaks enthusiastically, but somewhat guiltily, about Acererak. If the characters remark on or ask about this, Marian admits that she once admired the archlich and even considered studying necromancy. When Marian realized the great evil involved, though, she eschewed this grim path.",
-												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}.",
+												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}.",
 												{
 													"type": "image",
 													"href": {
@@ -29753,7 +29753,7 @@
 									"page": 134,
 									"id": "386",
 									"entries": [
-										"Illusion magic conceals many of the complex's doors, making them look like solid walls. These hidden doors are detectable by touch, and creatures with {@sense truesight} see the doors as if they weren't hidden. Casting {@spell Dispel Magic} on a hidden door permanently removes the magic concealing it. A hidden door is otherwise identical to other doors in the complex. Locations of hidden doors are marked on {@adventure map 7.3|VEoR|7|Map 7.3: Tomb of Wayward Souls}."
+										"Illusion magic conceals many of the complex's doors, making them look like solid walls. These hidden doors are detectable by touch, and creatures with {@sense truesight} see the doors as if they weren't hidden. Casting {@spell Dispel Magic} on a hidden door permanently removes the magic concealing it. A hidden door is otherwise identical to other doors in the complex. Locations of hidden doors are marked on {@area map 7.3|529|x}."
 									]
 								},
 								{
@@ -31561,7 +31561,7 @@
 												"Thin, obsidian pillars are spaced throughout this musty room, the ceiling of which is only ten feet high. In the flickering light, you see two massive, rolling constructs roving the space."
 											]
 										},
-										"The room's ceiling is 10 feet high\u2014barely large enough to accommodate the two {@creature Granite Juggernaut|VEoR|granite juggernauts} (see {@adventure appendix A|VEoR|12}) that trundle between the room's pillars. The juggernauts attack any intruders they notice, but they won't strike pillars.",
+										"The room's ceiling is 10 feet high\u2014barely large enough to accommodate the two {@creature Granite Juggernaut|VEoR|granite juggernauts} (see {@area appendix A|523|x}) that trundle between the room's pillars. The juggernauts attack any intruders they notice, but they won't strike pillars.",
 										"The juggernauts fight until they are destroyed or until a creature destroys the triangular stone in the control room (area T15)."
 									]
 								},
@@ -32001,7 +32001,7 @@
 												"At the room's center looms a black throne, upon which sits a skeleton dressed in luxurious robes and headdress. A platinum door stands behind the throne."
 											]
 										},
-										"The figure sitting on the throne is Rerak, a {@creature false lich|VEoR} (see {@adventure appendix A|VEoR|12}). Although alert, Rerak remains motionless until he takes damage or a creature moves within 15 feet of him, at which point he becomes hostile and attacks.",
+										"The figure sitting on the throne is Rerak, a {@creature false lich|VEoR} (see {@area appendix A|523|x}). Although alert, Rerak remains motionless until he takes damage or a creature moves within 15 feet of him, at which point he becomes hostile and attacks.",
 										{
 											"type": "entries",
 											"name": "Appeasing Rerak",
@@ -32020,7 +32020,7 @@
 											"id": "3e7",
 											"entries": [
 												"If the characters convince Rerak to turn against Acererak and talk with the false lich about his imprisonment in the tomb or his mistreatment at the archlich's hands, Rerak reveals how unhappy and lonely he has been for centuries. Rerak also reveals that as far back as his earliest memory, the false lich never truly wanted to fulfill Acererak's will.",
-												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@adventure introduction|VEoR|0}."
+												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the {@area Power of Secrets|028|x} rules in this book's {@area introduction|000|x}."
 											]
 										},
 										{
@@ -32161,7 +32161,7 @@
 							"page": 149,
 							"id": "3f2",
 							"entries": [
-								"The individuals the characters meet in Avernus are primarily Fiends and other unpleasant beings. As a rule, these creatures lack the remorse, guilt, and shame that would give their secrets power if revealed to the characters. The characters don't learn any secrets applicable to the rules in \"{@area The Power of Secrets|028|x}\" section found in this book's {@adventure introduction|VEoR|0}, though they can spend secrets during this chapter normally."
+								"The individuals the characters meet in Avernus are primarily Fiends and other unpleasant beings. As a rule, these creatures lack the remorse, guilt, and shame that would give their secrets power if revealed to the characters. The characters don't learn any secrets applicable to the rules in \"{@area The Power of Secrets|028|x}\" section found in this book's {@area introduction|000|x}, though they can spend secrets during this chapter normally."
 							]
 						},
 						{
@@ -32625,7 +32625,7 @@
 							"page": 156,
 							"id": "414",
 							"entries": [
-								"Each room of the casino is supervised by a trio of {@creature Pit Fiend||pit fiends}. They are silent observers and intervene only if a patron starts a fight or is caught cheating (see the \"{@adventure Cheating in the Red Belvedere|VEoR|8|Cheating in the Red Belvedere}\" sidebar).",
+								"Each room of the casino is supervised by a trio of {@creature Pit Fiend||pit fiends}. They are silent observers and intervene only if a patron starts a fight or is caught cheating (see the \"{@area Cheating in the Red Belvedere|418|x}\" sidebar).",
 								"On approaching a troublesome patron, the pit fiends confiscate the patron's talons and escort the patron from the casino. The patron is then barred from the casino for 24 hours. A barred patron can attempt to reenter by succeeding on either a {@dc 20} Dexterity ({@skill Stealth}) check to avoid the pit fiends' notice or a {@dc 15} Charisma ({@skill Persuasion}) check to convince the pit fiends to overlook the patron's past transgressions and allow reentry. Patrons barred more than once might be unable to reenter the casino for longer than 24 hours, at your discretion.",
 								"The pit fiends have no qualms about killing a patron who attacks them."
 							]
@@ -32674,7 +32674,7 @@
 									"id": "419",
 									"entries": [
 										"{@i Master of the Scarlet Coliseum}",
-										"Khai is a boisterous {@creature red abishai|MPMM} (see {@adventure appendix A|VEoR|12}) and the master of the casino's fighting pit. He relishes bloodshed, and his laughter booms over the gore-stained arena. Khai fancies himself the strongest of the pit masters, and he chafes under Windfall's leadership. Khai dedicates every death in the coliseum to Tiamat.",
+										"Khai is a boisterous {@creature red abishai|MPMM} (see {@area appendix A|523|x}) and the master of the casino's fighting pit. He relishes bloodshed, and his laughter booms over the gore-stained arena. Khai fancies himself the strongest of the pit masters, and he chafes under Windfall's leadership. Khai dedicates every death in the coliseum to Tiamat.",
 										{
 											"type": "entries",
 											"name": "Gaining Khai's Favor",
@@ -32704,7 +32704,7 @@
 									"id": "41b",
 									"entries": [
 										"{@i Master of the Cerulean Hall}",
-										"A stoic and haughty {@creature blue abishai|MPMM} (see {@adventure appendix A|VEoR|12}), Nyssa serves as the master of the casino's games of strategy and intellect. Nyssa prides herself on being an unbeatable foe in battles of wit. However, Nyssa doesn't hesitate to resort to underhanded methods to achieve victory, citing her opponent's inability to notice her cheating as a failure of intellect.",
+										"A stoic and haughty {@creature blue abishai|MPMM} (see {@area appendix A|523|x}), Nyssa serves as the master of the casino's games of strategy and intellect. Nyssa prides herself on being an unbeatable foe in battles of wit. However, Nyssa doesn't hesitate to resort to underhanded methods to achieve victory, citing her opponent's inability to notice her cheating as a failure of intellect.",
 										{
 											"type": "entries",
 											"name": "Gaining Nyssa's Favor",
@@ -32723,7 +32723,7 @@
 									"id": "41d",
 									"entries": [
 										"{@i Master of the Viridian Den}",
-										"Rezran, a greedy {@creature green abishai|MPMM} (see {@adventure appendix A|VEoR|12}), is the master of the casino's games of chance. His nickname \"Snake Eyes\" comes from his penchant for rolling ones in Triple Hydra (see the \"{@area Viridian Den|43f|x}\" section for an explanation of the game's rules). Rezran is an opportunist to his core, always chasing after riches. He is a devoted follower of Tiamat and covets the Dragon Queen's amassed wealth.",
+										"Rezran, a greedy {@creature green abishai|MPMM} (see {@area appendix A|523|x}), is the master of the casino's games of chance. His nickname \"Snake Eyes\" comes from his penchant for rolling ones in Triple Hydra (see the \"{@area Viridian Den|43f|x}\" section for an explanation of the game's rules). Rezran is an opportunist to his core, always chasing after riches. He is a devoted follower of Tiamat and covets the Dragon Queen's amassed wealth.",
 										{
 											"type": "entries",
 											"name": "Gaining Rezran's Favor",
@@ -34264,7 +34264,7 @@
 							"page": 169,
 							"id": "465",
 							"entries": [
-								"The characters can learn one secret in this chapter that is applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@adventure introduction|VEoR|0}:",
+								"The characters can learn one secret in this chapter that is applicable to the rules in \"{@area The Power of Secrets|028|x}\" section in this book's {@area introduction|000|x}:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -34346,7 +34346,7 @@
 									"entries": [
 										"It's unlikely, but one or more characters might be present when Kas reveals his true identity. In this case, use the stat block presented in the \"{@creature Kas the Betrayer|VEoR}\" section in {@area appendix B|55b|x}. Kas focuses on stealing the rod and using the portal to travel to Pandesmos. If the characters defeat Kas, he reveals the location of Vecna's ritual: the Cave of Shattered Reflection in Pandesmos on the plane of Pandemonium. Kas also reveals he planned to use the rod to free {@creature Miska the Wolf-Spider|VEoR} and ally with the demon lord to overtake Vecna.",
 										"It's up to the characters what happens to Kas next. Alustriel and Tasha are likely injured in the fight and therefore disinclined to join the characters in their pursuit of Vecna. However, Alustriel and Tasha urge the characters to take the {@item Rod of Seven Parts|VEoR} to aid their fight against the lich-god. At your discretion, Alustriel and Tasha might join the characters on the journey to Pandesmos, but they focus on neutralizing Kas's powerful remaining forces instead of joining the fight against Vecna. Alustriel or Tasha might join particularly persuasive characters in their pursuit of Vecna, but this will require significant effort on your part and might make the ensuing chapters significantly easier for the characters.",
-										"When the characters are ready, Alustriel can direct them to a portal in Sigil that leads to Pandesmos. It's up to you whether the door opens to Pandesmos Outlook (shown on {@adventure map 9.1|VEoR|9|Map 9.1: Pandesmos Outlook}) or directly at the cave entrance. In the former case, Alustriel can provide directions to the cave from the outlook. If this happens, skip parts of the next chapter as appropriate. In the latter case, the characters gain an additional level and skip to {@adventure chapter 11|VEoR|11}."
+										"When the characters are ready, Alustriel can direct them to a portal in Sigil that leads to Pandesmos. It's up to you whether the door opens to Pandesmos Outlook (shown on {@area map 9.1|52e|x}) or directly at the cave entrance. In the former case, Alustriel can provide directions to the cave from the outlook. If this happens, skip parts of the next chapter as appropriate. In the latter case, the characters gain an additional level and skip to {@area chapter 11|4d8|x}."
 									]
 								}
 							]
@@ -34436,7 +34436,7 @@
 											"id": "474",
 											"entries": [
 												"If the characters ask Malaina what's wrong, she admits she began suspecting something wasn't right shortly after Mordenkainen arrived in the sanctum. Malaina noticed that Mordenkainen muttered to himself in an unexpectedly cruel tone when he thought no one was around. He was also angrily defensive anytime Malaina casually asked how the mage fared. Malaina assumed Mordenkainen was merely stressed, so she didn't act on her suspicions until it was too late.",
-												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the rules in the \"{@area Power of Secrets|028|x}\" section in this book's {@adventure introduction|VEoR|0}."
+												"Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the rules in the \"{@area Power of Secrets|028|x}\" section in this book's {@area introduction|000|x}."
 											]
 										}
 									]
@@ -34523,7 +34523,7 @@
 									"page": 173,
 									"id": "478",
 									"entries": [
-										"The chaos and violence brewing in the area attracts demons. Within 10 feet of the bottom of the cliff's lowest shelf are two {@creature Degloth|VEoR|degloths} and two {@creature Vlazok|VEoR|vlazoks} (see {@adventure appendix A|VEoR|12} for stat blocks for both). The exact placement of the demons is at your discretion. If they notice the characters, the demons attack. A demon that sees a fight break out rushes to join in the combat, hoping to make an easy kill.",
+										"The chaos and violence brewing in the area attracts demons. Within 10 feet of the bottom of the cliff's lowest shelf are two {@creature Degloth|VEoR|degloths} and two {@creature Vlazok|VEoR|vlazoks} (see {@area appendix A|523|x} for stat blocks for both). The exact placement of the demons is at your discretion. If they notice the characters, the demons attack. A demon that sees a fight break out rushes to join in the combat, hoping to make an easy kill.",
 										"Demons reduced to 20 hit points or fewer might divulge key information in exchange for mercy. See the \"{@area Tracking Kas|47d|x}\" section for how these demons might help the characters locate Kas."
 									]
 								},
@@ -34649,7 +34649,7 @@
 							"page": 175,
 							"id": "484",
 							"entries": [
-								"The characters can learn two secrets in this chapter applicable to the {@area Power of Secrets|028|x} rules found in this book's {@adventure introduction|VEoR|0}:",
+								"The characters can learn two secrets in this chapter applicable to the {@area Power of Secrets|028|x} rules found in this book's {@area introduction|000|x}:",
 								{
 									"type": "list",
 									"style": "list-hang-notitle",
@@ -34746,7 +34746,7 @@
 								"A war between thousands of demonic combatants rages throughout the ridge. The forces organized around the tower include driders and monstrous spiders, which bear banners featuring a spider with a woman's head. The forces surging from the redoubt are enormous spiders with the heads of wolves. The spider-wolves carry banners with snarling wolf heads."
 							]
 						},
-						"Four spyder-fiend combatants of the battle linger near the characters: a {@creature quavilithku spyder-fiend|VEoR} and three {@creature Kakkuu Spyder-Fiend|VEoR|kakkuu spyder-fiends} (stat blocks for both appear in {@adventure appendix A|VEoR|12}). They're busily hollowing out the corpse of a massive {@creature citadel spider|VEoR} (see {@adventure appendix A|VEoR|12}) as a bunker for use if the battle shifts back this way. If they spot the characters, the spyder-fiends scuttle out of the citadel spider and skitter around its corpse to attack. The spyder-fiends retreat to the carapace if they start to lose the fight.",
+						"Four spyder-fiend combatants of the battle linger near the characters: a {@creature quavilithku spyder-fiend|VEoR} and three {@creature Kakkuu Spyder-Fiend|VEoR|kakkuu spyder-fiends} (stat blocks for both appear in {@area appendix A|523|x}). They're busily hollowing out the corpse of a massive {@creature citadel spider|VEoR} (see {@area appendix A|523|x}) as a bunker for use if the battle shifts back this way. If they spot the characters, the spyder-fiends scuttle out of the citadel spider and skitter around its corpse to attack. The spyder-fiends retreat to the carapace if they start to lose the fight.",
 						"Both sides of the battle use banners to identify units and send messages. The forces of {@creature Camlash|VEoR}, Lolth's balor general, use a stylized symbol of Lolth on their banners, while Miska's forces use banners featuring wolf heads. The troops are so numerous and powerful on both sides that even 19th-level characters can't materially affect the war by joining in the fighting.",
 						{
 							"type": "entries",
@@ -34837,7 +34837,7 @@
 									"page": 177,
 									"id": "48c",
 									"entries": [
-										"Camlash's {@creature Citadel Spider|VEoR|citadel spiders} (see {@adventure appendix A|VEoR|12}) function as artillery, but the skies are predominantly under Miska's control thanks to powerful flying demons pledged to his service. If the characters fly around or above the battle, three {@creature Hazvongel|VEoR|hazvongels} (see {@adventure appendix A|VEoR|12}) soar down from the wispy cloud cover to attack. The hazvongels fight to the death. If the characters don't fly directly toward the cliffside redoubt after this fight, another trio of hazvongels attacks from a different direction. After this second attack, the demons steer clear of the flying characters."
+										"Camlash's {@creature Citadel Spider|VEoR|citadel spiders} (see {@area appendix A|523|x}) function as artillery, but the skies are predominantly under Miska's control thanks to powerful flying demons pledged to his service. If the characters fly around or above the battle, three {@creature Hazvongel|VEoR|hazvongels} (see {@area appendix A|523|x}) soar down from the wispy cloud cover to attack. The hazvongels fight to the death. If the characters don't fly directly toward the cliffside redoubt after this fight, another trio of hazvongels attacks from a different direction. After this second attack, the demons steer clear of the flying characters."
 									]
 								}
 							]
@@ -35245,7 +35245,7 @@
 												"On the west side of this room, webs extend over a wooden altar with misshapen candelabras on it. Tiny spiders scuttle over the altar, and a drow man and a wood elf woman stand near it. Four bloated driders lounge around the room."
 											]
 										},
-										"A drow {@creature assassin} named Althein and a wood elf {@creature mage} named Vendrasha, both faithful of Lolth, pray to the Spider Queen at the altar. Of the apparent four driders, three {@creature Drider||driders} are what they appear to be; the fourth is a {@creature phisarazu spyder-fiend|VEoR} (see {@adventure appendix A|VEoR|12}) named Rachazz, who is masquerading as a drider using its Change Shape ability.",
+										"A drow {@creature assassin} named Althein and a wood elf {@creature mage} named Vendrasha, both faithful of Lolth, pray to the Spider Queen at the altar. Of the apparent four driders, three {@creature Drider||driders} are what they appear to be; the fourth is a {@creature phisarazu spyder-fiend|VEoR} (see {@area appendix A|523|x}) named Rachazz, who is masquerading as a drider using its Change Shape ability.",
 										"The three driders squad leaders are resting away from Pandemonium's winds here. Rachazz infiltrated the tower and is collecting information for Miska about Camlash's forces.",
 										"When intruders enter the vestibule, the three {@creature Drider||driders} rush into melee while Althein and Vendrasha hang back to support the driders. The driders and elves fight to the death.",
 										"Rachazz doesn't participate in the fight; it feigns injury and stays out of the way. If the characters look like they're winning the battle, Rachazz tries to slip out of the tower and report back to the Ruinous Citadel about the characters' prowess. The characters might later face Rachazz in or near the citadel. If the characters struggle to defeat the drow and driders, Rachazz joins the fight against the intruders to protect its disguise.",
@@ -35336,7 +35336,7 @@
 										{
 											"type": "item",
 											"name": "Spyder-Fiends Falter",
-											"entry": "The spyder-fiends can't capitalize on this sudden victory, since their {@creature Raklupis Spyder-Fiend|VEoR|raklupis battle-leaders} (see {@adventure appendix A|VEoR|12}) immediately devolve into infighting to seize control. The spyder-fiend battle lines break into violent packs."
+											"entry": "The spyder-fiends can't capitalize on this sudden victory, since their {@creature Raklupis Spyder-Fiend|VEoR|raklupis battle-leaders} (see {@area appendix A|523|x}) immediately devolve into infighting to seize control. The spyder-fiend battle lines break into violent packs."
 										},
 										{
 											"type": "item",
@@ -35375,7 +35375,7 @@
 							"id": "4a1",
 							"entries": [
 								"Kas returned the {@item Rod of Seven Parts|VEoR} to the citadel and thrust it into the sealed mystical portal that keeps Miska in his prison demiplane, creating an opening. However, the opening isn't wide enough for Miska to exit, so Miska is widening it. If he can break free, he can join the battle his forces are engaged in and revel in chaos once again. If the rod is removed or knocked aside, the seal snaps shut and binds Miska once more.",
-								"Miska isn't idle while trying to free himself. He commands the armies of spyder-fiends and other demons through his spyder-fiend battle leaders, the {@creature Raklupis Spyder-Fiend|VEoR|raklupises}. Miska's other spyder-fiends (see {@adventure appendix A|VEoR|12}) defend him and implement the demon lord's complex strategies.",
+								"Miska isn't idle while trying to free himself. He commands the armies of spyder-fiends and other demons through his spyder-fiend battle leaders, the {@creature Raklupis Spyder-Fiend|VEoR|raklupises}. Miska's other spyder-fiends (see {@area appendix A|523|x}) defend him and implement the demon lord's complex strategies.",
 								"Yet Miska's position is precarious. While he's a cunning general, he's unable to command his forces in person, and enforcing discipline is challenging; spyder-fiends, like many demons, find order and organization difficult to tolerate. Additionally, Kas is becoming increasingly frustrated with Miska's slow emergence; until Miska claws his way free and defeats Lolth's forces, Kas can't assault Vecna. And all the while, the portal to the demiplane Miska is trapped in is in danger of being swallowed by the Ruinous Sea."
 							]
 						},
@@ -35645,7 +35645,7 @@
 												"Several bloated spiders with wolf heads move back and forth on the black sand near the citadel's entrance."
 											]
 										},
-										"Nine {@creature Kakkuu Spyder-Fiend|VEoR|kakkuu spyder-fiends} (see {@adventure appendix A|VEoR|12}) drill on this beach while awaiting orders from the battle leaders in the citadel. They find marching in formation dull and are eager to rejoin the battle raging on the clifftop above. The kakkuus rush toward any opportunity for combat, so characters can draw them away with any ruse that promises bloodshed. A badly injured kakkuu flees the area, hoping to hide out elsewhere amid the chaos of war.",
+										"Nine {@creature Kakkuu Spyder-Fiend|VEoR|kakkuu spyder-fiends} (see {@area appendix A|523|x}) drill on this beach while awaiting orders from the battle leaders in the citadel. They find marching in formation dull and are eager to rejoin the battle raging on the clifftop above. The kakkuus rush toward any opportunity for combat, so characters can draw them away with any ruse that promises bloodshed. A badly injured kakkuu flees the area, hoping to hide out elsewhere amid the chaos of war.",
 										{
 											"type": "entries",
 											"name": "Glowing Signal",
@@ -35672,7 +35672,7 @@
 												"Old carvings of monstrous, tentacled beings adorn the walls in this long room. More recently, wolf heads have been painted on each figure. Webs stretch from wall to wall and are particularly thick to the southeast, around an open stone door. Two enormous demons with crablike bodies and wolflike heads flank the door."
 											]
 										},
-										"Two {@creature Phisarazu Spyder-Fiend|VEoR|phisarazu spyder-fiends} (see {@adventure appendix A|VEoR|12}) flank the open door that leads to area Y3. The phisarazus don't leave this chamber, but they attack intruders on sight and fight to the death.",
+										"Two {@creature Phisarazu Spyder-Fiend|VEoR|phisarazu spyder-fiends} (see {@area appendix A|523|x}) flank the open door that leads to area Y3. The phisarazus don't leave this chamber, but they attack intruders on sight and fight to the death.",
 										"The spyder-fiends spun the webs in this room, making the entire room {@book difficult terrain|PHB|8|Difficult Terrain}. The webs don't burn, but a creature can use an action to cut away the webs in a 10-foot-square section of the room.",
 										"The old carvings depict chaos krakens from the Ruinous Sea, but a spyder-fiend recently used demonic ichor to draw wolf heads on all the krakens."
 									]
@@ -35764,7 +35764,7 @@
 												"The north wall of this chamber has a three-dimensional map of the cliff that shows the tower above and the citadel below. Glowing dots are scattered across the map. Three monstrous spider demons, two human-sized and another ogre-sized, squat around the table."
 											]
 										},
-										"A {@creature raklupis spyder-fiend|VEoR} named Jallizanx is here with two {@creature Kakkuu Spyder-Fiend|VEoR|kakkuu spyder-fiends} (for both stat blocks, see {@adventure appendix A|VEoR|12}). The kakkuus are relaying orders to troops fighting elsewhere, and Jallizanx is deciding how to give directions the dim-witted kakkuus can be reasonably expected to convey. When they see the characters, the kakkuus rush into melee while Jallizanx hangs back to cast spells and hurl venom globes. If the kakkuus are defeated and Jallizanx is plainly losing the fight, Jallizanx teleports away and doesn't return. If the characters capture Jallizanx, the spyder-fiend tells the characters about the scrolls described in the \"Treasure\" section and offers this loot in exchange for its life.",
+										"A {@creature raklupis spyder-fiend|VEoR} named Jallizanx is here with two {@creature Kakkuu Spyder-Fiend|VEoR|kakkuu spyder-fiends} (for both stat blocks, see {@area appendix A|523|x}). The kakkuus are relaying orders to troops fighting elsewhere, and Jallizanx is deciding how to give directions the dim-witted kakkuus can be reasonably expected to convey. When they see the characters, the kakkuus rush into melee while Jallizanx hangs back to cast spells and hurl venom globes. If the kakkuus are defeated and Jallizanx is plainly losing the fight, Jallizanx teleports away and doesn't return. If the characters capture Jallizanx, the spyder-fiend tells the characters about the scrolls described in the \"Treasure\" section and offers this loot in exchange for its life.",
 										{
 											"type": "entries",
 											"name": "Reviewing the Map",
@@ -35869,7 +35869,7 @@
 												"The circle of stones shudders, and you realize the monstrous thing contained on the other side is expanding the circle, using the {@i Rod of Seven Parts} like a wedge to lever the circle large enough to climb free."
 											]
 										},
-										"A {@creature raklupis spyder-fiend|VEoR} named Uvonxu is here along with a {@creature phisarazu spyder-fiend|VEoR} bodyguard (for both stat blocks, see {@adventure appendix A|VEoR|12}). Uvonxu coordinates with Miska on strategy, while the phisarazu takes notes to relay to the troops. Both immediately attack intruders. The phisarazu tries to stun enemies and then attacks in melee while Uvonxu hangs back to cast spells. These spyder-fiends fight to the death to defend Miska.",
+										"A {@creature raklupis spyder-fiend|VEoR} named Uvonxu is here along with a {@creature phisarazu spyder-fiend|VEoR} bodyguard (for both stat blocks, see {@area appendix A|523|x}). Uvonxu coordinates with Miska on strategy, while the phisarazu takes notes to relay to the troops. Both immediately attack intruders. The phisarazu tries to stun enemies and then attacks in melee while Uvonxu hangs back to cast spells. These spyder-fiends fight to the death to defend Miska.",
 										{
 											"type": "entries",
 											"name": "Miska Intervenes",
@@ -36562,7 +36562,7 @@
 												"A squat stone and metal bunker protrudes from the clifftop. Demon attackers are battering the stone walls and the thick metal door, but the door seems to be holding."
 											]
 										},
-										"Lolth's forces batter at this bunker to reach Kas, who is lower in the redoubt. A {@creature citadel spider|VEoR} (see {@adventure appendix A|VEoR|12}) attacks the structure while four {@creature Drider||driders} direct its efforts. They expect retaliation from Miska's forces and are quick to attack unfamiliar creatures. If Lolth's forces were routed due to Camlash's defeat, the four driders are gone but the citadel spider remains to stubbornly bash at the bunker. It attacks anyone who comes near.",
+										"Lolth's forces batter at this bunker to reach Kas, who is lower in the redoubt. A {@creature citadel spider|VEoR} (see {@area appendix A|523|x}) attacks the structure while four {@creature Drider||driders} direct its efforts. They expect retaliation from Miska's forces and are quick to attack unfamiliar creatures. If Lolth's forces were routed due to Camlash's defeat, the four driders are gone but the citadel spider remains to stubbornly bash at the bunker. It attacks anyone who comes near.",
 										"The dented metal door doesn't open with any amount of pulling or pushing, since it's anchored from the inside with metal bars driven into metal frames. The area beyond the door is included in the redoubt's {@spell Forbiddance} effect, so teleportation into the bunker fails. The door has AC 22, 75 hit points, and immunity to poison and psychic damage.",
 										"The bunker contains a narrow set of stairs descending 200 feet into Kas's chamber ({@area area F3|4d0|x})."
 									]
@@ -36581,7 +36581,7 @@
 												"A cracked stone portico extends from a solid stone door set into the cliffside a few feet above the beach. Broken pillars around the portico are carved with demonic forms, blurred by scouring sand. Rubble is all that remains of the portico's collapsed roof."
 											]
 										},
-										"A {@creature raklupis spyder-fiend|VEoR} named Kalzak and three {@creature Phisarazu Spyder-Fiend|VEoR|phisarazu spyder-fiends} (for both stat blocks, see {@adventure appendix A|VEoR|12}) keep guard here. Kalzak uses {@spell Disguise Self} to maintain the form of a white-haired and bearded human ascetic leaning against a pillar. The phisarazus are disguised as crabs scuttling around the rubble, keeping watch while looking innocuous among the harmless crabs native to the beach.",
+										"A {@creature raklupis spyder-fiend|VEoR} named Kalzak and three {@creature Phisarazu Spyder-Fiend|VEoR|phisarazu spyder-fiends} (for both stat blocks, see {@area appendix A|523|x}) keep guard here. Kalzak uses {@spell Disguise Self} to maintain the form of a white-haired and bearded human ascetic leaning against a pillar. The phisarazus are disguised as crabs scuttling around the rubble, keeping watch while looking innocuous among the harmless crabs native to the beach.",
 										"If the characters reseal Miska in the Ruinous Citadel, Kalzak orders the phisarazus to remain on guard and then leaves to seize a higher position among the squabbling raklupises. One phisarazu stands in front of the door in its normal form while the other two continue their ruse of being mundane crabs.",
 										"Kalzak received this unfavorable posting due to his recent failed assault at Carapace Ridge. He's determined to follow Miska's order that no one enter Kas's redoubt. Kalzak engages in delaying conversation to give the phisarazus time to scuttle into position for an attack, uttering odd prophecies such as \"When the winds blowing from chaos bring order, the lawmakers must falter.\"",
 										"The door opens with a noisy groan, revealing a small room and staircase leading 200 feet up the cliffside into the central chamber (area F3). Kas comes and goes from this entrance when he doesn't use the ventilation holes."
@@ -36728,7 +36728,7 @@
 					"page": 191,
 					"id": "4dc",
 					"entries": [
-						"At the end of {@adventure chapter 10|VEoR|10}, the characters learned that Vecna is performing his ritual at a site in Pandesmos called the Cave of Shattered Reflection. At some point after this revelation, the characters receive a message via a {@spell Sending} spell from Alustriel offering to provide more help once the characters are ready. If the characters don't plan to return to Sigil, encourage them to do so.",
+						"At the end of {@area chapter 10|481|x}, the characters learned that Vecna is performing his ritual at a site in Pandesmos called the Cave of Shattered Reflection. At some point after this revelation, the characters receive a message via a {@spell Sending} spell from Alustriel offering to provide more help once the characters are ready. If the characters don't plan to return to Sigil, encourage them to do so.",
 						"If the characters return to the sanctum in Sigil, Alustriel and Tasha convey the following information:",
 						{
 							"type": "list",
@@ -37998,7 +37998,7 @@
 									"page": 194,
 									"id": "4f2",
 									"entries": [
-										"The hulking figures the characters saw from afar are two {@creature Cadaver Collector|MPMM|cadaver collectors} (see {@adventure appendix A|VEoR|12}). The monstrous war machines sift through the rubble of this ruined courtyard for remains. They attack creatures on sight, eager to add more corpses to their collections."
+										"The hulking figures the characters saw from afar are two {@creature Cadaver Collector|MPMM|cadaver collectors} (see {@area appendix A|523|x}). The monstrous war machines sift through the rubble of this ruined courtyard for remains. They attack creatures on sight, eager to add more corpses to their collections."
 									]
 								},
 								{
@@ -38186,7 +38186,7 @@
 								"You float amid a vast void speckled with distant silvery lights. All around you are the floating remains of enormous stone corpses. Nearby, a monstrous behemoth resembling a horned, serpentine lobster drifts slowly through a patch of debris. The creature groans in agony, its one eye darting around in confusion. Vecna's unholy symbol glows faintly from within the behemoth's immense torso. Six spherical pests\u2014each with a single eye and gaping maw\u2014gnash at the behemoth's flanks."
 							]
 						},
-						"The behemoth is a dying {@creature astral dreadnought|MPMM} that's being preyed on by six {@creature Eye Monger|BAM|eye mongers} (see {@adventure appendix A|VEoR|12} for both stat blocks). The dreadnought has only 150 hit points remaining, it has no remaining uses of its Legendary Resistance trait, and its flying speed is reduced to 20 feet until its hit points are fully restored. The eye mongers focus their attacks on the astral dreadnought unless the characters stop them.",
+						"The behemoth is a dying {@creature astral dreadnought|MPMM} that's being preyed on by six {@creature Eye Monger|BAM|eye mongers} (see {@area appendix A|523|x} for both stat blocks). The dreadnought has only 150 hit points remaining, it has no remaining uses of its Legendary Resistance trait, and its flying speed is reduced to 20 feet until its hit points are fully restored. The eye mongers focus their attacks on the astral dreadnought unless the characters stop them.",
 						"The astral dreadnought is called Arekanz. Arekanz has been consuming dead gods, but in this unreality, Vecna spitefully cursed the gods' remains to contaminate the dreadnought and induce its certain death. Arekanz is suffering the effects of the curse. It is so wracked with pain that it doesn't defend itself except to use its Donjon Visit legendary action.",
 						"A character who succeeds on a {@dc 15} Intelligence ({@skill Arcana}) check recognizes Arekanz as an {@creature astral dreadnought|MPMM}, a creature that has a demiplane where its stomach should be. Everything the dreadnought swallows ends up there. The character also knows that if the dreadnought dies, the demiplane inside it will be destroyed, leaving everything in it to float aimlessly in the Astral Sea.",
 						{
@@ -38519,7 +38519,7 @@
 												"The colossal, iron longsword of some legendary being was cast unceremoniously onto the ground here, creating an improvised crossing over the valley."
 											]
 										},
-										"Three {@creature Eye Monger|BAM|eye mongers} (see {@adventure appendix A|VEoR|12}) swallowed by Arekanz lurk below the sword. They attack any characters who cross the sword bridge."
+										"Three {@creature Eye Monger|BAM|eye mongers} (see {@area appendix A|523|x}) swallowed by Arekanz lurk below the sword. They attack any characters who cross the sword bridge."
 									]
 								},
 								{
@@ -38536,7 +38536,7 @@
 												"An wide fissure runs east to west between the sword bridge and a tall shrine."
 											]
 										},
-										"The fissure is 30 feet deep. As the characters approach, it shudders as a {@creature cosmic horror|BAM} (see {@adventure appendix A|VEoR|12}) slithers out of it from the east to feast on the characters' minds and bodies."
+										"The fissure is 30 feet deep. As the characters approach, it shudders as a {@creature cosmic horror|BAM} (see {@area appendix A|523|x}) slithers out of it from the east to feast on the characters' minds and bodies."
 									]
 								},
 								{
@@ -38583,7 +38583,7 @@
 							"page": 199,
 							"id": "50e",
 							"entries": [
-								"The Cave of Shattered Reflection has the following features, as shown on {@adventure map 11.5|VEoR|11|Map 11.5: Cave of Shattered Reflection}.",
+								"The Cave of Shattered Reflection has the following features, as shown on {@area map 11.5|536|x}.",
 								{
 									"type": "entries",
 									"name": "Crystal Walls",
@@ -38611,7 +38611,7 @@
 											"width": 850,
 											"height": 1032
 										},
-										"With the exception of the door in {@area area R2|517|x}, each side of each diamond door is set with a large ruby, the other with a large sapphire. (These are depicted on the map in red and blue, respectively.) Each side of the door is also etched with a sigil. This sigil matches the sigil on another door in the Cave of Shattered Reflection. {@adventure Map 11.5|VEoR|11|Map 11.5: Cave of Shattered Reflection} shows five pairs of identical sigils, labeled A1 and A2, B1 and B2, C1 and C2, {@dice D1} and {@dice D2}, and E1 and E2.",
+										"With the exception of the door in {@area area R2|517|x}, each side of each diamond door is set with a large ruby, the other with a large sapphire. (These are depicted on the map in red and blue, respectively.) Each side of the door is also etched with a sigil. This sigil matches the sigil on another door in the Cave of Shattered Reflection. {@area Map 11.5|536|x} shows five pairs of identical sigils, labeled A1 and A2, B1 and B2, C1 and C2, {@dice D1} and {@dice D2}, and E1 and E2.",
 										"{@b Teleporting between Sigils}. When Vecna or a creature carrying Vecna's Link touches a diamond door's gemstone, the doorway teleports the creature to the nearest unoccupied space next to the other door with a matching secret sigil.",
 										"The side of the destination doorway on which the creature appears depends on which gemstone the creature touched to teleport. If the touched gemstone was a ruby, the creature appears on the side of the destination doorway set with a ruby. If the touched gemstone was a sapphire, the creature appears on the side of the destination doorway set with a sapphire."
 									]
@@ -38641,7 +38641,7 @@
 									"id": "513",
 									"entries": [
 										"In the Cave of Shattered Reflection, secrets are power. Depending on how many secrets the characters kept throughout this campaign, they might be more powerful in this cave than they would otherwise be.",
-										"Before running this part of the adventure, refer to the tracking sheet in {@adventure appendix C|VEoR|14}. Tally the number of secrets the party has learned, and write the sum in the Total Secrets Learned box. Then add the number of secrets the characters traded for benefits, and write the sum in the Total Secrets Revealed box. Subtract the Total Secrets Revealed from Total Secrets Learned and write the result in the Secrets Kept Box. Consult the Power of Secrets table to determine what additional powers, if any, the characters have in the Cave of Shattered Reflection.",
+										"Before running this part of the adventure, refer to the tracking sheet in {@area appendix C|56e|x}. Tally the number of secrets the party has learned, and write the sum in the Total Secrets Learned box. Then add the number of secrets the characters traded for benefits, and write the sum in the Total Secrets Revealed box. Subtract the Total Secrets Revealed from Total Secrets Learned and write the result in the Secrets Kept Box. Consult the Power of Secrets table to determine what additional powers, if any, the characters have in the Cave of Shattered Reflection.",
 										"These powers are cumulative. For example, if the characters kept seven secrets, they start the encounter with {@book inspiration|PHB|4|inspiration} and also can see clearly through the cave's crystal walls.",
 										{
 											"type": "table",
@@ -39389,7 +39389,7 @@
 												"Set in the middle of the crystal wall is a large, circular slab of lustrous white diamond. A glowing ruby is set into the diamond's center. It looks uncannily like an eyeball with a bloodred iris. An identical ruby is set into the opposite side of the diamond slab."
 											]
 										},
-										"The first time a character comes within 5 feet of the crystal wall, a peculiar reflection of that character appears in the crystal. The reflection mirrors the character's appearance except for their face, which wears a twisted sneer. This is a {@creature mirror shade|VEoR} (see {@adventure appendix A|VEoR|12}). It attacks the character once, then flees to area R3.",
+										"The first time a character comes within 5 feet of the crystal wall, a peculiar reflection of that character appears in the crystal. The reflection mirrors the character's appearance except for their face, which wears a twisted sneer. This is a {@creature mirror shade|VEoR} (see {@area appendix A|523|x}). It attacks the character once, then flees to area R3.",
 										{
 											"type": "entries",
 											"name": "Psychic Hum",
@@ -39425,7 +39425,7 @@
 												"As you enter the cave, the psychic hum intensifies, shaking you to the core. The hum is coming from somewhere in the crystal maze."
 											]
 										},
-										"Four {@creature Mirror Shade|VEoR|mirror shades} (see {@adventure appendix A|VEoR|12}) lurk within the crystal walls. (If the characters already destroyed the one in {@area area R2|517|x}, there are three mirror shades in this chamber instead of four.) The mirror shades are servants of Vecna tasked with slaying intruders. The mirror shades use their Mirror Movement trait to move through the crystal walls.",
+										"Four {@creature Mirror Shade|VEoR|mirror shades} (see {@area appendix A|523|x}) lurk within the crystal walls. (If the characters already destroyed the one in {@area area R2|517|x}, there are three mirror shades in this chamber instead of four.) The mirror shades are servants of Vecna tasked with slaying intruders. The mirror shades use their Mirror Movement trait to move through the crystal walls.",
 										{
 											"type": "entries",
 											"name": "Amplified Hum",
@@ -39441,7 +39441,7 @@
 											"page": 202,
 											"id": "51e",
 											"entries": [
-												"The crystal walls divide the area into discrete chambers. To reach Vecna, the characters must use the diamond doors and figure out how to reach the central chamber (labeled \"Vecna\" on {@adventure map 11.5|VEoR|11|Map 11.5: Cave of Shattered Reflection}).",
+												"The crystal walls divide the area into discrete chambers. To reach Vecna, the characters must use the diamond doors and figure out how to reach the central chamber (labeled \"Vecna\" on {@area map 11.5|536|x}).",
 												"Ten diamond doors are set into the crystal walls. Each door has a ruby on one side and a sapphire on the other, and each door is etched with a sigil, as described earlier in the \"{@area Diamond Doors|510|x}\" section. The doors, their gemstones, and the etched sigils\u2014represented with labels\u2014are marked on map 11.5.",
 												"Characters can teleport to Vecna's central chamber by touching the ruby gemstone on one of the following doors: A2, B1, C1, {@dice D1}. The characters might need to use some trial and error to figure out which doors lead where. If the characters struggle, allow any character proficient in the {@skill Arcana} or {@skill Investigation} skill to figure out which doors lead to where the characters want to go."
 											]
@@ -39580,7 +39580,8 @@
 							"source": "MPMM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "0f5"
 				},
 				{
 					"type": "section",
@@ -39604,7 +39605,8 @@
 							"source": "MPMM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c2"
 				},
 				{
 					"type": "section",
@@ -39628,7 +39630,8 @@
 							"source": "MPMM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c3"
 				},
 				{
 					"type": "section",
@@ -39652,7 +39655,8 @@
 							"source": "MPMM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c4"
 				},
 				{
 					"type": "section",
@@ -39676,7 +39680,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c5"
 				},
 				{
 					"type": "section",
@@ -39700,7 +39705,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "1c6"
 				},
 				{
 					"type": "section",
@@ -39724,7 +39730,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "410"
 				},
 				{
 					"type": "section",
@@ -39748,7 +39755,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "411"
 				},
 				{
 					"type": "section",
@@ -39772,7 +39780,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "412"
 				},
 				{
 					"type": "section",
@@ -39796,7 +39805,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "413"
 				},
 				{
 					"type": "section",
@@ -39820,7 +39830,8 @@
 							"source": "MPMM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "53c"
 				},
 				{
 					"type": "section",
@@ -39844,7 +39855,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "53d"
 				},
 				{
 					"type": "section",
@@ -39868,7 +39880,8 @@
 							"source": "BAM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "53e"
 				},
 				{
 					"type": "section",
@@ -39892,7 +39905,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "53f"
 				},
 				{
 					"type": "section",
@@ -39916,7 +39930,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "540"
 				},
 				{
 					"type": "section",
@@ -39940,7 +39955,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "541"
 				},
 				{
 					"type": "section",
@@ -39964,7 +39980,8 @@
 							"source": "BAM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "542"
 				},
 				{
 					"type": "section",
@@ -39988,7 +40005,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "543"
 				},
 				{
 					"type": "section",
@@ -40012,7 +40030,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "544"
 				},
 				{
 					"type": "section",
@@ -40036,7 +40055,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "545"
 				},
 				{
 					"type": "section",
@@ -40060,7 +40080,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "546"
 				},
 				{
 					"type": "section",
@@ -40084,7 +40105,8 @@
 							"source": "VRGR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "547"
 				},
 				{
 					"type": "section",
@@ -40108,7 +40130,8 @@
 							"source": "BAM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "548"
 				},
 				{
 					"type": "section",
@@ -40132,7 +40155,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "549"
 				},
 				{
 					"type": "section",
@@ -40156,7 +40180,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "54a"
 				},
 				{
 					"type": "section",
@@ -40180,7 +40205,8 @@
 							"source": "MPMM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "54b"
 				},
 				{
 					"type": "section",
@@ -40204,7 +40230,8 @@
 							"source": "BAM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "54c"
 				},
 				{
 					"type": "section",
@@ -40228,7 +40255,8 @@
 							"source": "VRGR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "54d"
 				},
 				{
 					"type": "section",
@@ -40252,7 +40280,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "54e"
 				},
 				{
 					"type": "section",
@@ -40276,7 +40305,8 @@
 							"source": "MPMM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "54f"
 				},
 				{
 					"type": "section",
@@ -40300,7 +40330,8 @@
 							"source": "MPMM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "550"
 				},
 				{
 					"type": "section",
@@ -40324,7 +40355,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "551"
 				},
 				{
 					"type": "section",
@@ -40348,7 +40380,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "552"
 				},
 				{
 					"type": "section",
@@ -40372,7 +40405,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "553"
 				},
 				{
 					"type": "section",
@@ -40396,7 +40430,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "570"
 				},
 				{
 					"type": "section",
@@ -40420,7 +40455,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "571"
 				},
 				{
 					"type": "section",
@@ -40444,7 +40480,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "572"
 				},
 				{
 					"type": "section",
@@ -40468,7 +40505,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "573"
 				},
 				{
 					"type": "section",
@@ -40492,7 +40530,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "574"
 				},
 				{
 					"type": "section",
@@ -40516,7 +40555,8 @@
 							"source": "VEoR",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "575"
 				}
 			]
 		},
@@ -40851,7 +40891,7 @@
 									"height": 1150
 								},
 								"Tiamat is one of two primordial dragons, the other being Bahamut, the progenitor of metallic dragons. Together Tiamat and Bahamut created what became known as the First World: the first iteration of physical reality, which was subsequently sundered into the innumerable realities that now make up the Material Plane. The first inhabitant of this First World was Sardior, a ruby-red dragon with jeweled scales they made in their likeness, who worked with Bahamut and Tiamat to create metallic and chromatic dragons. The Draconic poem \"Elegy for the First World\" describes how hordes of creatures overran this fledgling world, waging war on the dragons and colonizing the realm in the names of their gods. Bahamut and Tiamat were defeated, and Sardior disappeared.",
-								"Sometime after the destruction of the First World, Tiamat carved out a lair in Avernus, the first layer of the Nine Hells, where she commands a fearsome legion of followers. She maintains a courteous relationship with Asmodeus, the ruler of the Nine Hells, and commands draconic devils called {@adventure abishais|VEoR|12} as her agents. Each type of abishai bears the coloring of one of Tiamat's five heads.",
+								"Sometime after the destruction of the First World, Tiamat carved out a lair in Avernus, the first layer of the Nine Hells, where she commands a fearsome legion of followers. She maintains a courteous relationship with Asmodeus, the ruler of the Nine Hells, and commands draconic devils called {@area abishais|523|x} as her agents. Each type of abishai bears the coloring of one of Tiamat's five heads.",
 								"Across many worlds, Tiamat is worshiped as a god, with clerics at her disposal. Mortals who covet wealth and power pledge their lives to the dragon queen. Tiamat can send a fragment of her power to the Material Plane, which manifests as a titanic, five-headed dragon driven by rampaging greed."
 							]
 						},
@@ -40896,7 +40936,7 @@
 			"id": "56e",
 			"entries": [
 				"Use this chart to keep track of the secrets characters learn during this adventure. Since it contains spoilers, keep this sheet hidden from the players!",
-				"When the characters learn a valuable secret, check the \"Secret Learned\" box in the appropriate row. If the characters use the {@area Power of Secrets|028|x} rules (see the {@adventure introduction|VEoR|0}) to spend a secret they've learned, or if they reveal a secret they've learned to a nonplayer character, mark a corresponding \"Secret Revealed\" box. The party's total \"Secrets Kept\"\u2014equal to the number of Secrets Learned minus Secrets Revealed\u2014can impact the characters' fight against Vecna in {@area chapter 11|513|x}.",
+				"When the characters learn a valuable secret, check the \"Secret Learned\" box in the appropriate row. If the characters use the {@area Power of Secrets|028|x} rules (see the {@area introduction|000|x}) to spend a secret they've learned, or if they reveal a secret they've learned to a nonplayer character, mark a corresponding \"Secret Revealed\" box. The party's total \"Secrets Kept\"\u2014equal to the number of Secrets Learned minus Secrets Revealed\u2014can impact the characters' fight against Vecna in {@area chapter 11|513|x}.",
 				"{@note {@5etoolsImg Downloadable PDF|pdf/VEoR/secrets-tracker.pdf}}",
 				{
 					"type": "table",

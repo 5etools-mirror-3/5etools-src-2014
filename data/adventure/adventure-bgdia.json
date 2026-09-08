@@ -21,7 +21,7 @@
 							"page": 5,
 							"id": "002",
 							"entries": [
-								"{@adventure Chapter 1|BGDIA|1} begins in the independent city of Baldur's Gate, where the characters find themselves trapped behind the city's walls after the gates are sealed to keep out hundreds of refugees from the neighboring land of Elturgard. However, the gates can't hold back news that Elturgard's capital has fallen, and that Grand Duke {@creature Ulder Ravengard|BGDIA} of Baldur's Gate is missing\u2014lost on a diplomatic mission to Elturel. The fact that Elturel's misfortune coincided with Ravengard's visit has left Baldurians wondering whether Baldur's Gate will suffer Elturel's fate.",
+								"{@area Chapter 1|014|x} begins in the independent city of Baldur's Gate, where the characters find themselves trapped behind the city's walls after the gates are sealed to keep out hundreds of refugees from the neighboring land of Elturgard. However, the gates can't hold back news that Elturgard's capital has fallen, and that Grand Duke {@creature Ulder Ravengard|BGDIA} of Baldur's Gate is missing\u2014lost on a diplomatic mission to Elturel. The fact that Elturel's misfortune coincided with Ravengard's visit has left Baldurians wondering whether Baldur's Gate will suffer Elturel's fate.",
 								"The characters are drafted by the Flaming Fist, the army of mercenaries tasked with protecting Baldur's Gate. Without Grand Duke {@creature Ulder Ravengard|BGDIA} to lead them, the Flaming Fist mercenaries are little more than glorified thugs. The characters' orders are to help maintain peace by rooting out and destroying followers of Bane, Bhaal, and Myrkul\u2014evil gods collectively known as the Dead Three. These vile priests, assassins, and necromancers are murdering city folk at random, and the Flaming Fist is too distracted and disorganized to hunt them down and find their lair. In the course of their investigation, the characters learn that the Dead Three cultists are secretly being financed by Thalamra Vanthampur, one of three remaining dukes who preside over the government of Baldur's Gate, using money stolen from the hoard of Tiamat, the evil queen of dragons imprisoned in the Nine Hells.",
 								"With Grand Duke {@creature Ulder Ravengard|BGDIA} out of the way, Thalamra is paying the Dead Three to shatter confidence in the Flaming Fist so that all payments to the decapitated organization can be cut off. Thalamra, a devout disciple of the archdevil Zariel, has brokered a deal that will enable her to claim the role of grand duke once the Flaming Fist disbands, paving the way for the city's descent into Avernus. To accomplish this last goal, Thalamra needs an artifact called the {@item Shield of the Hidden Lord|BGDIA}, imprisoned in which is a pit fiend named Gargauth. Until recently, the shield was sealed in a tomb under the city, but Thalamra's sons recently stole it and transported it to the dungeon below their villa. So corrupt is the shield that its mere presence in Baldur's Gate has contributed to the city's moral decay for decades.",
 								"To keep Baldur's Gate from falling into Zariel's clutches, the characters must take the shield far away from the city. Reya Mantlemorn, a young knight from Elturel, suspects that the Vanthampurs are sheltering {@creature Thavius Kreeg|BGDIA} at their estate and offers aid. Characters who storm Duke Vanthampur's villa find Thavius hidden in the dungeon below it. Thavius is helping Thalamra Vanthampur use the {@item Shield of the Hidden Lord|BGDIA} to bring about the fall of Baldur's Gate, in much the same fashion he used the Companion (see \"{@area The Companion|007|x}\") to doom Elturel. If the characters slay Thavius, his soul travels to the Nine Hells and re-forms as an amnizu devil on Avernus (see \"\"{@area Poor Devil: Thavius Kreeg|2b8|x}\")."
@@ -43,7 +43,7 @@
 							"page": 6,
 							"id": "004",
 							"entries": [
-								"{@adventure Chapter 2|BGDIA|2} opens with the characters' arrival in Elturel, which is anchored by enormous chains and trapped under the baleful light of the Companion. If the characters do nothing, the city will be pulled down into the River Styx and bound to the Nine Hells forever. {@creature Lulu|BGDIA} tries her best to serve as the party's guide in Avernus, but the hollyphant's memories are fragmented. It becomes clear, however, that {@creature Lulu|BGDIA} has a personal connection to Zariel, dating back to the archdevil's former angelic existence.",
+								"{@area Chapter 2|112|x} opens with the characters' arrival in Elturel, which is anchored by enormous chains and trapped under the baleful light of the Companion. If the characters do nothing, the city will be pulled down into the River Styx and bound to the Nine Hells forever. {@creature Lulu|BGDIA} tries her best to serve as the party's guide in Avernus, but the hollyphant's memories are fragmented. It becomes clear, however, that {@creature Lulu|BGDIA} has a personal connection to Zariel, dating back to the archdevil's former angelic existence.",
 								{
 									"type": "image",
 									"href": {
@@ -54,11 +54,11 @@
 									"width": 715,
 									"height": 2000
 								},
-								"After scouring Elturel for survivors and clashing with the denizens of Avernus, the characters encounter the valiant {@creature Ulder Ravengard|BGDIA}, who has been placed in the most unusual situation of defending a city he has long opposed. The beleaguered Ravengard urges the characters to do whatever they can to free Elturel and return what's left of it to Faerûn. To do so, they must scour Avernus for the means to destroy the Companion or break the enormous chains that shackle that city, as described in {@adventure chapter 3|BGDIA|3}.",
+								"After scouring Elturel for survivors and clashing with the denizens of Avernus, the characters encounter the valiant {@creature Ulder Ravengard|BGDIA}, who has been placed in the most unusual situation of defending a city he has long opposed. The beleaguered Ravengard urges the characters to do whatever they can to free Elturel and return what's left of it to Faerûn. To do so, they must scour Avernus for the means to destroy the Companion or break the enormous chains that shackle that city, as described in {@area chapter 3|199|x}.",
 								"Avernus has long been a battlefield in the never-ending Blood War. Apart from clashing demons and devils, petty warlords scour the Avernian wastelands in search of treasure, salvage, and fuel for their infernal war machines. Characters who forge an alliance with one warlord risk alienating the others. By acquiring an infernal war machine, characters can travel quickly across Avernus\u2014a domain rife with tortured souls, warmongers, and devils eager to tempt would-be heroes into soul-corrupting deals.",
-								"The more time she spends with the characters, the more {@creature Lulu|BGDIA} begins to remember long-lost memories of the {@item Sword of Zariel|BGDIA}, an angelic weapon with the power to destroy the Companion. After Zariel's fall from grace, the sword was hidden in a stronghold called the Bleeding Citadel\u2014a celestial sanctuary trapped in Avernus. The quest for the sword forms the crux of {@adventure chapter 4|BGDIA|7}, leading to the revelation that Zariel can be redeemed.",
+								"The more time she spends with the characters, the more {@creature Lulu|BGDIA} begins to remember long-lost memories of the {@item Sword of Zariel|BGDIA}, an angelic weapon with the power to destroy the Companion. After Zariel's fall from grace, the sword was hidden in a stronghold called the Bleeding Citadel\u2014a celestial sanctuary trapped in Avernus. The quest for the sword forms the crux of {@area chapter 4|2bf|x}, leading to the revelation that Zariel can be redeemed.",
 								"The characters' success doesn't hinge on acquiring the {@item Sword of Zariel|BGDIA} or helping Zariel find redemption, as Gargauth is quick to point out should the characters consult with him. There are other ways to free Elturel, but only if the characters are willing to cut deals with Avernus's most evil denizens. The characters might broker a deal with the deposed archdevil {@creature Bel|BGDIA}, who longs to supplant Zariel and regain his title as ruler of Avernus. They might stoke the rage of a horrific demon called {@creature Crokek'toeck|BGDIA} and trick it into gnawing through Elturel's chains. They might come to terms with an evil dragonborn paladin named {@creature Arkhan the Cruel|BGDIA}, using him to broker a deal with Tiamat. By returning her stolen treasure, characters can convince Tiamat to break Elturel's chains.",
-								"As tempting as such pursuits can be, the characters must be careful, for devil deals, demon lords, and Tiamat's rage number among the multiverse's greatest threats. Also, Zariel herself might become cross with the characters for daring to meddle in her diabolical affairs. How the adventure concludes depends on the choices the characters make, the chaos they foment, and the deals they forge, as discussed in {@adventure chapter 5|BGDIA|8}.",
+								"As tempting as such pursuits can be, the characters must be careful, for devil deals, demon lords, and Tiamat's rage number among the multiverse's greatest threats. Also, Zariel herself might become cross with the characters for daring to meddle in her diabolical affairs. How the adventure concludes depends on the choices the characters make, the chaos they foment, and the deals they forge, as discussed in {@area chapter 5|315|x}.",
 								{
 									"type": "image",
 									"href": {
@@ -134,7 +134,7 @@
 									"page": 8,
 									"id": "00b",
 									"entries": [
-										"The {@book Monster Manual|MM} contains stat blocks for most of the monsters and nonplayer characters (NPCs) found in this adventure. Whenever this adventure presents a new monster or NPC, you'll find its stat block near the encounter in which it appears, or in {@adventure appendix D|BGDIA|13}. When a creature's name appears in {@b bold} type, that's a visual cue pointing you to the creature's stat block in the {@book Monster Manual|MM}. If the stat block appears elsewhere, the adventure's text tells you where to find it."
+										"The {@book Monster Manual|MM} contains stat blocks for most of the monsters and nonplayer characters (NPCs) found in this adventure. Whenever this adventure presents a new monster or NPC, you'll find its stat block near the encounter in which it appears, or in {@area appendix D|46e|x}. When a creature's name appears in {@b bold} type, that's a visual cue pointing you to the creature's stat block in the {@book Monster Manual|MM}. If the stat block appears elsewhere, the adventure's text tells you where to find it."
 									]
 								},
 								{
@@ -143,7 +143,7 @@
 									"page": 8,
 									"id": "00c",
 									"entries": [
-										"Spells and nonmagical equipment mentioned in the adventure are described in the {@book Player's Handbook|PHB}. Magic items are described in the {@book Dungeon Master's Guide|DMG}, unless the adventure's text directs you to an item's description in {@adventure appendix C|BGDIA|12}."
+										"Spells and nonmagical equipment mentioned in the adventure are described in the {@book Player's Handbook|PHB}. Magic items are described in the {@book Dungeon Master's Guide|DMG}, unless the adventure's text directs you to an item's description in {@area appendix C|450|x}."
 									]
 								}
 							]
@@ -320,7 +320,7 @@
 					"page": 11,
 					"id": "017",
 					"entries": [
-						"{@adventure Diagram 1.1|BGDIA|1|Evil in Baldur's Gate} is a flowchart that presents the key events of this chapter in sequence. The adventurers begin as 1st-level characters, advancing to 2nd level if they survive the encounter in {@area Elfsong Tavern|01d|x} and 3rd level after conquering the {@area dungeon of the Dead Three|03a|x}. The challenges they must overcome at the {@area Low Lantern|080|x} and {@area Vanthampur Villa|096|x} are great enough to advance them to 4th level. After conquering the sewer complex {@area below the villa|0be|x} and obtaining valuable information at {@area Candlekeep|0f1|x}, the characters advance to 5th level before entering the Nine Hells in {@adventure chapter 2|BGDIA|2}."
+						"{@area Diagram 1.1|016|x} is a flowchart that presents the key events of this chapter in sequence. The adventurers begin as 1st-level characters, advancing to 2nd level if they survive the encounter in {@area Elfsong Tavern|01d|x} and 3rd level after conquering the {@area dungeon of the Dead Three|03a|x}. The challenges they must overcome at the {@area Low Lantern|080|x} and {@area Vanthampur Villa|096|x} are great enough to advance them to 4th level. After conquering the sewer complex {@area below the villa|0be|x} and obtaining valuable information at {@area Candlekeep|0f1|x}, the characters advance to 5th level before entering the Nine Hells in {@area chapter 2|112|x}."
 					]
 				},
 				{
@@ -1140,7 +1140,7 @@
 					"page": 20,
 					"id": "03a",
 					"entries": [
-						"Before running this part of the adventure, read the information on the Dead Three in {@adventure appendix D|BGDIA|13}. Stat blocks for the Dead Three's followers can be found there as well.",
+						"Before running this part of the adventure, read the information on the Dead Three in {@area appendix D|46e|x}. Stat blocks for the Dead Three's followers can be found there as well.",
 						"The Dungeon of the Dead Three is hidden below a bathhouse that's secretly owned and operated by the Vanthampur family. One member of the family, {@creature Mortlock Vanthampur|BGDIA}, is in the dungeon helping to coordinate the Dead Three cultists' attacks in the city. These attacks are meant to demonstrate to the citizens of Baldur's Gate that the Flaming Fist can't protect them.",
 						{
 							"type": "entries",
@@ -1165,7 +1165,7 @@
 							"page": 20,
 							"id": "03d",
 							"entries": [
-								"The following area descriptions are keyed to {@adventure map 1.3|BGDIA|1|Map 1.3: Dungeon of the Dead Three}.",
+								"The following area descriptions are keyed to {@area map 1.3|32a|x}.",
 								{
 									"type": "entries",
 									"name": "D1. Courtyard",
@@ -1189,7 +1189,7 @@
 									"page": 20,
 									"id": "040",
 									"entries": [
-										"From dawn to midnight, characters can expect to find {@dice 1d6} human {@creature Commoner||commoners} bathing here at any given time. From midnight to dawn, three female human {@creature Night Blade|BGDIA|night blades} stand guard near the pools and attack trespassers on sight. If a fight breaks out here, the {@creature necromite of Myrkul|BGDIA} in {@adventure area D4|BGDIA|1|D4. North Massage Room} joins the fray in the second round of combat.",
+										"From dawn to midnight, characters can expect to find {@dice 1d6} human {@creature Commoner||commoners} bathing here at any given time. From midnight to dawn, three female human {@creature Night Blade|BGDIA|night blades} stand guard near the pools and attack trespassers on sight. If a fight breaks out here, the {@creature necromite of Myrkul|BGDIA} in {@area area D4|043|x} joins the fray in the second round of combat.",
 										"Describe this location to the players as follows:",
 										{
 											"type": "insetReadaloud",
@@ -1218,8 +1218,8 @@
 									"page": 20,
 									"id": "043",
 									"entries": [
-										"From midnight to dawn, a male human {@creature necromite of Myrkul|BGDIA} guards this room unless he's drawn to {@adventure area D2|BGDIA|1|D2. Baths} by sounds of battle there. During the hours in which the bathhouse is open, a female human masseuse (neutral good {@creature commoner}) named Qurmilah works here. She knows the same information as Jabaz in area D3 and behaves similarly.",
-										"This room is furnished in the same fashion as area D3, with the additional feature of a secret door in the north wall. A character who searches the north wall and succeeds on a {@dc 10} Wisdom ({@skill Perception}) check finds the secret door, which swings inward when pushed. A foul, sewer-like stench greets anyone who opens the secret door. Behind the door, a staircase descends 20 feet to {@adventure area D5|BGDIA|1|D5. Welcome to the Dungeon}, featuring smooth stone steps and brick walls. Two sputtering torches in wall sconces illuminate the staircase, but the dungeon below is dark.",
+										"From midnight to dawn, a male human {@creature necromite of Myrkul|BGDIA} guards this room unless he's drawn to {@area area D2|040|x} by sounds of battle there. During the hours in which the bathhouse is open, a female human masseuse (neutral good {@creature commoner}) named Qurmilah works here. She knows the same information as Jabaz in area D3 and behaves similarly.",
+										"This room is furnished in the same fashion as area D3, with the additional feature of a secret door in the north wall. A character who searches the north wall and succeeds on a {@dc 10} Wisdom ({@skill Perception}) check finds the secret door, which swings inward when pushed. A foul, sewer-like stench greets anyone who opens the secret door. Behind the door, a staircase descends 20 feet to {@area area D5|044|x}, featuring smooth stone steps and brick walls. Two sputtering torches in wall sconces illuminate the staircase, but the dungeon below is dark.",
 										{
 											"type": "gallery",
 											"images": [
@@ -2525,7 +2525,7 @@
 														"The dungeon's rooms, corridors, and staircases are hewn from limestone and unlit unless the text states otherwise. (Followers of the Dead Three carry torches or rely on {@sense darkvision} to see in the dungeon.)",
 														"The 5-foot-wide corridors throughout the dungeon have 8-foot-high ceilings. Rooms have 9-foot-high ceilings, often braced with wooden beams. Each beam is a Large object with AC 15, 10 hit points, and immunity to poison and psychic damage. Destroying all the beams in an area has a {@chance 25} chance of triggering a roof collapse. Each creature under the collapsing roof must succeed on a {@dc 15} Dexterity saving throw, taking 22 ({@dice 4d10}) bludgeoning damage on a failed save, or half as much damage on a successful one. The area remains open but is {@quickref difficult terrain||3} thereafter.",
 														"Regular doors are made of soft, rotting wood. Each door is a Medium object with AC 15, 5 hit points, and immunity to poison and psychic damage. Secret doors are carved to look like the surrounding limestone walls and require a successful {@dc 10} Wisdom ({@skill Perception}) check to locate. Once located, a secret door pushes open easily.",
-														"Certain areas of the dungeon (as shown on {@adventure map 1.3|BGDIA|1|Map 1.3: Dungeon of the Dead Three}) are flooded with murky water to a depth of 2 feet to make them {@quickref difficult terrain||3}. The water seeps into the dungeon from nearby sewers through cracks in the limestone. It carries a foul stench and is undrinkable."
+														"Certain areas of the dungeon (as shown on {@area map 1.3|32a|x}) are flooded with murky water to a depth of 2 feet to make them {@quickref difficult terrain||3}. The water seeps into the dungeon from nearby sewers through cracks in the limestone. It carries a foul stench and is undrinkable."
 													]
 												}
 											]
@@ -2658,7 +2658,7 @@
 												"Standing before the altar are two grim figures: a powerfully built woman clutching a mace, and an even bigger man wearing a bucket helm. The helmed man is jabbing the prisoner with a spear, causing him to twitch. Both figures are clad in chain mail, and the woman carries a wooden shield with a leering skull painted on it."
 											]
 										},
-										"The two armored figures are Kazzira, a female human {@creature fist of Bane|BGDIA}, and Yignath, a male human {@creature iron consul|BGDIA}. Yignath is torturing the prisoner for fun while Kazzira watches. Both attack intruders but prefer to remain on dry ground. The skull on Kazzira's shield has been painted in fresh blood. Hanging from Yignath's belt is an iron key ring with seven keys\u2014one for the shackles above the altar, two for the shackles in {@adventure area D22|BGDIA|1|D22. Torture Chamber}, and four that unlock the chests in {@adventure area D30|BGDIA|1|D30. Tiamat's Stolen Treasure}.",
+										"The two armored figures are Kazzira, a female human {@creature fist of Bane|BGDIA}, and Yignath, a male human {@creature iron consul|BGDIA}. Yignath is torturing the prisoner for fun while Kazzira watches. Both attack intruders but prefer to remain on dry ground. The skull on Kazzira's shield has been painted in fresh blood. Hanging from Yignath's belt is an iron key ring with seven keys\u2014one for the shackles above the altar, two for the shackles in {@area area D22|063|x}, and four that unlock the chests in {@area area D30|06f|x}.",
 										"The prisoner hanging on the west wall is Klim Jhasso, a male human noble captured in the Lower City two days ago after his bodyguard was slain. Klim is a neutral evil {@creature noble} with 1 hit point remaining. He is unarmored (AC 10) and weaponless. He speaks Common and Elvish, but has no useful information to share. Klim guarantees that his family will pay a generous reward for his safe return to their estate in the Upper City\u2014but the noble is lying. His mother is dead, his patriar father is ailing, and his three younger siblings crave their inheritance, which they would rather split three ways than four. The trading coster that the family part-owns is struggling and can't afford to pay any large reward or ransom.",
 										"Klim's shackles have AC 19, 10 hit points, and immunity to poison and psychic damage.",
 										"The suit of armor is welded together and is harmless, but its gauntlets are detachable. Both gauntlets are animated objects statistically identical to {@creature Flying Sword||flying swords}, except they deal bludgeoning damage instead of slashing damage. The gauntlets detach from the armor and attack anyone who disturbs them or frees the prisoner from his shackles."
@@ -2699,7 +2699,7 @@
 									"id": "057",
 									"entries": [
 										"An ordinary {@creature rat} scurries around this room, looking for scraps of food. If the characters use a {@spell speak with animals} spell or similar magic to communicate with the rat, it can share its knowledge of the dungeon with them. It warms to characters who offer it food.",
-										"The rat's knowledge is limited to places it has visited\u2014specifically {@adventure areas D5|BGDIA|1|D5. Welcome to the Dungeon} through {@adventure D26|BGDIA|1|D26. Bhaal's Rest}. It doesn't know the location of secret doors, so it's unaware of {@adventure areas D27|BGDIA|1|D27. Echoes of Battle} through {@adventure D33|BGDIA|1|D33. Covenant of the Dead Three}, which are hidden behind the secret door in {@adventure area D23|BGDIA|1|D23. Secret Door and Sentry}."
+										"The rat's knowledge is limited to places it has visited\u2014specifically {@area areas D5|044|x} through {@area D26|069|x}. It doesn't know the location of secret doors, so it's unaware of {@area areas D27|06b|x} through {@area D33|074|x}, which are hidden behind the secret door in {@area area D23|065|x}."
 									]
 								},
 								{
@@ -2754,7 +2754,7 @@
 									"id": "05d",
 									"entries": [
 										"The ceiling of this flooded room is supported by numerous wooden beams. The air here smells like rotten eggs, a putrid stench that carries beyond the room. Any character approaching this area who succeeds on a {@dc 10} Wisdom ({@skill Survival}) check realizes that the stench is an indicator of flammable gas in the room. This gas disperses before reaching other areas of the dungeon, and the Dead Three cultists extinguish their torches before moving through this area.",
-										"Bringing a lit torch or other open flame into the gas-filled room triggers an explosion that fills the chamber. Creatures fully immersed in the water take no damage, but all others must succeed on a {@dc 15} Dexterity saving throw, taking 14 ({@dice 4d6}) fire damage on a failed save, or half as much damage on a successful one. All the wooden beams that support the ceiling are destroyed in the explosion, which could cause a roof collapse (see \"{@area Dungeon Features|044|x}\" in {@adventure area D5|BGDIA|1|D5. Welcome to the Dungeon}). The explosion also burns away the gas, which builds up slowly and becomes dangerous again after 24 hours."
+										"Bringing a lit torch or other open flame into the gas-filled room triggers an explosion that fills the chamber. Creatures fully immersed in the water take no damage, but all others must succeed on a {@dc 15} Dexterity saving throw, taking 14 ({@dice 4d6}) fire damage on a failed save, or half as much damage on a successful one. All the wooden beams that support the ceiling are destroyed in the explosion, which could cause a roof collapse (see \"{@area Dungeon Features|044|x}\" in {@area area D5|044|x}). The explosion also burns away the gas, which builds up slowly and becomes dangerous again after 24 hours."
 									]
 								},
 								{
@@ -2798,7 +2798,7 @@
 												"Six moaning humans with rotting flesh shamble about this dusty crypt, which reeks of death. An open stone sarcophagus rests against the back wall, its shattered lid lying in pieces on the floor around it."
 											]
 										},
-										"The shambling corpses are six {@creature Zombie||zombies} created by Flennis (see {@adventure area D13|BGDIA|1|D13. Morgue}) from the remains of the Dead Three cultists' murder victims. The zombies obey only their creator and attack all others, including other members of the Dead Three cult.",
+										"The shambling corpses are six {@creature Zombie||zombies} created by Flennis (see {@area area D13|054|x}) from the remains of the Dead Three cultists' murder victims. The zombies obey only their creator and attack all others, including other members of the Dead Three cult.",
 										"Carved into the north-facing side of the sarcophagus are ghastly images of human cannibalism. The sarcophagus was plundered long ago, and a search of its interior yields up only a jawless human skull and a few bone fragments."
 									]
 								},
@@ -2816,8 +2816,8 @@
 												"The walls and floor of this room are covered with streaks and splashes of dried blood. Two dangling bodies are shackled to the east and south walls. One is an elderly male human; the other, a young female tiefling. Both are covered in bloody gashes, and neither is moving. In the middle of the room is a sturdy wooden chair with a bloody whip draped over it. A bucket half filled with salt sits on the floor nearby."
 											]
 										},
-										"The followers of Bane rub salt into the wounds of the prisoners they torture here. Yignath the iron consul (see {@adventure area D12|BGDIA|1|D12. Bane's Altar}) carries the keys to both sets of shackles, which have AC 19, 10 hit points, and immunity to poison and psychic damage. A character with {@item thieves' tools|phb} can unlock a set of shackles with a successful {@dc 15} Dexterity check.",
-										"The male human is dead. He was Effinax Zalbor, a caravan coordinator employed by the Jhasso patriar family, which is part-owner of a trading coster that operates throughout the Western Heartlands (see {@adventure area D12|BGDIA|1|D12. Bane's Altar}).",
+										"The followers of Bane rub salt into the wounds of the prisoners they torture here. Yignath the iron consul (see {@area area D12|052|x}) carries the keys to both sets of shackles, which have AC 19, 10 hit points, and immunity to poison and psychic damage. A character with {@item thieves' tools|phb} can unlock a set of shackles with a successful {@dc 15} Dexterity check.",
+										"The male human is dead. He was Effinax Zalbor, a caravan coordinator employed by the Jhasso patriar family, which is part-owner of a trading coster that operates throughout the Western Heartlands (see {@area area D12|052|x}).",
 										"The female tiefling has 0 hit points, and is {@condition unconscious} but stable. She is Vendetta Kress, a neutral {@creature commoner} who speaks Common and Infernal. She has resistance to fire damage and {@sense darkvision} out to a range of 60 feet. Vendetta distributes wine and spirits for the Oathoon patriar family of Baldur's Gate, and was attacked in the Lower City, knocked {@condition unconscious}, and brought here to be tortured. Under interrogation, she gave her captors information regarding the Oathoons and their security arrangements. She also witnessed the interrogation and death of Effinax, who was questioned at length about the Jhasso family.",
 										"If set free, Vendetta stays with the characters until an opportunity to escape presents itself. Before that, though, she shares the following piece of information with her liberators. During her incarceration, she heard what sounded like a heavy stone door scraping open and closed from time to time, accompanied by the sound of splashing footsteps. The noise came from the north. This information might lead characters to search for a secret door in that direction (see area D23).",
 										"If Vendetta survives her ordeal in the dungeon, she spreads tales of her harrowing escape through her web of contacts in Baldur's Gate, which includes just about every tavern proprietor in the city."
@@ -2829,7 +2829,7 @@
 									"page": 24,
 									"id": "065",
 									"entries": [
-										"This flooded tunnel has a secret door in the north wall that swings open into {@adventure area D27|BGDIA|1|D27. Echoes of Battle}. Standing in the water south of the secret door, holding a lit torch and watching the west stairway, is a male {@creature fist of Bane|BGDIA}. On his first turn after seeing the characters, he withdraws to {@adventure area D25|BGDIA|1|D25. Bane's Rest} and pounds on the door to wake his fellow cultists, yelling \"Intruders!\" at the top of his lungs to alert the occupant of {@adventure area D26|BGDIA|1|D26. Bhaal's Rest}."
+										"This flooded tunnel has a secret door in the north wall that swings open into {@area area D27|06b|x}. Standing in the water south of the secret door, holding a lit torch and watching the west stairway, is a male {@creature fist of Bane|BGDIA}. On his first turn after seeing the characters, he withdraws to {@area area D25|068|x} and pounds on the door to wake his fellow cultists, yelling \"Intruders!\" at the top of his lungs to alert the occupant of {@area area D26|069|x}."
 									]
 								},
 								{
@@ -2855,7 +2855,7 @@
 									"page": 25,
 									"id": "068",
 									"entries": [
-										"Slumped against the walls of this plundered, partially collapsed crypt are four sleeping {@creature Fist of Bane|BGDIA|fists of Bane}. All are fully armored and have their weapons nearby. If awakened by loud noises or the guard in {@adventure area D23|BGDIA|1|D23. Secret Door and Sentry}, they grab their weapons and quickly mobilize to repel any intrusion.",
+										"Slumped against the walls of this plundered, partially collapsed crypt are four sleeping {@creature Fist of Bane|BGDIA|fists of Bane}. All are fully armored and have their weapons nearby. If awakened by loud noises or the guard in {@area area D23|065|x}, they grab their weapons and quickly mobilize to repel any intrusion.",
 										"The room is lit by two sputtering torches in sconces on the north and west walls. A stone sarcophagus in the middle of the room stands empty, its lid half buried under rubble on the floor behind it."
 									]
 								},
@@ -2873,7 +2873,7 @@
 												"Four flickering torches in wall sconces light this partially collapsed crypt. An open sarcophagus in the middle of the area is filled to the rim with blood, with spillage streaking the sides of the sarcophagus and pooling around its base. The sarcophagus lid lies half buried under rubble behind it."
 											]
 										},
-										"Bhaal worshipers like to bathe in the human blood that fills the sarcophagus. A female {@creature reaper of Bhaal|BGDIA} lurks behind the sarcophagus, drenched in blood from head to toe. At the first sign of intruders, she uses a {@spell disguise self} spell to appear as a frail old woman named Nebra. In this guise, she claims to be a florist who was captured by the Dead Three and brought to the dungeon as a slave. If the characters fall for the act and bring Nebra with them, she claims to know the location of a secret door ({@adventure area D23|BGDIA|1|D23. Secret Door and Sentry}) and tries to lead them through it to {@adventure area D29|BGDIA|1|D29. Mortlock Vanthampur}, where she hopes to find reinforcements. If she leads the party to a location occupied by other cultists, she drops the disguise and attacks. She also attacks if her spell ends before then."
+										"Bhaal worshipers like to bathe in the human blood that fills the sarcophagus. A female {@creature reaper of Bhaal|BGDIA} lurks behind the sarcophagus, drenched in blood from head to toe. At the first sign of intruders, she uses a {@spell disguise self} spell to appear as a frail old woman named Nebra. In this guise, she claims to be a florist who was captured by the Dead Three and brought to the dungeon as a slave. If the characters fall for the act and bring Nebra with them, she claims to know the location of a secret door ({@area area D23|065|x}) and tries to lead them through it to {@area area D29|06d|x}, where she hopes to find reinforcements. If she leads the party to a location occupied by other cultists, she drops the disguise and attacks. She also attacks if her spell ends before then."
 									]
 								},
 								{
@@ -2882,7 +2882,7 @@
 									"page": 25,
 									"id": "06b",
 									"entries": [
-										"This ten-foot-wide flooded passage is braced at regular intervals by wooden beams. Old torch stubs float on the murky water. At the point where the tunnel bends west toward {@adventure area D29|BGDIA|1|D29. Mortlock Vanthampur}, the characters hear echoes of a battle unfolding in that location."
+										"This ten-foot-wide flooded passage is braced at regular intervals by wooden beams. Old torch stubs float on the murky water. At the point where the tunnel bends west toward {@area area D29|06d|x}, the characters hear echoes of a battle unfolding in that location."
 									]
 								},
 								{
@@ -2910,7 +2910,7 @@
 										},
 										"The man with the greatclub is twenty-nine-year-old {@creature Mortlock Vanthampur|BGDIA}, who has 30 hit points left. His opponent is an uninjured {@creature death's head of Bhaal|BGDIA} named Vaaz. Four other Dead Three cultists lie dead in the water, their skulls caved in by Mortlock.",
 										"Mortlock is tolerated by his mother, {@creature Duke Thalamra Vanthampur|BGDIA}, and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock's face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance. He was sent to the bathhouse dungeon by his mother to help the followers of the Dead Three coordinate attacks against the city. When it became clear that the Dead Three cultists could function without Mortlock's support, Thurstwell and Amrik conspired with several Bhaal cultists to assassinate Mortlock without their mother's knowledge.",
-										"Mortlock and Vaaz stop fighting when the characters arrive. Believing them to be Mortlock's associates, Vaaz disengages from the fight on his next turn and withdraws to {@adventure area D33|BGDIA|1|D33. Covenant of the Dead Three}, where he makes his final stand. Vaaz takes his torch with him. Rather than pursuing, Mortlock tries to forge an alliance with the characters. If they come to terms with Mortlock, he gives them the following information in exchange for a promise of amnesty:",
+										"Mortlock and Vaaz stop fighting when the characters arrive. Believing them to be Mortlock's associates, Vaaz disengages from the fight on his next turn and withdraws to {@area area D33|074|x}, where he makes his final stand. Vaaz takes his torch with him. Rather than pursuing, Mortlock tries to forge an alliance with the characters. If they come to terms with Mortlock, he gives them the following information in exchange for a promise of amnesty:",
 										{
 											"type": "list",
 											"items": [
@@ -2919,7 +2919,7 @@
 												"\"My mother is one of the three remaining members of the Council of Four, which governs Baldur's Gate. She was instrumental in convincing {@creature Ulder Ravengard|BGDIA} to travel to Elturel and meet with its high overseer, {@creature Thavius Kreeg|BGDIA}. With Ravengard gone, the Flaming Fist is leaderless and vulnerable.\"",
 												"\"The Dead Three cultists receive regular payments from my brother, Amrik, who runs his own moneylending business out of a tavern called the Low Lantern. My mother doesn't expect much of me, but she thinks the world of Amrik. He's always been her favorite.\"",
 												"\"My oldest brother, Thurstwell, uses imps as spies throughout the city. He has the bathhouse under surveillance and probably knows you're here. He's very sickly and seldom leaves our mother's estate.\"",
-												"\"If you've made it this far, you've killed most of the leaders of the Dead Three cult. Without them, the cult will break up. The cultists keep their treasure nearby.\" (Mortlock points toward {@adventure area D30|BGDIA|1|D30. Tiamat's Stolen Treasure}.)"
+												"\"If you've made it this far, you've killed most of the leaders of the Dead Three cult. Without them, the cult will break up. The cultists keep their treasure nearby.\" (Mortlock points toward {@area area D30|06f|x}.)"
 											]
 										},
 										"If the characters let him go, Mortlock hides in the city until he can book passage on a ship and leave Baldur's Gate. He has no intention of ever returning.",
@@ -2942,7 +2942,7 @@
 									"page": 26,
 									"id": "06f",
 									"entries": [
-										"A short flight of stairs climbs to a circular chamber with four padlocked wooden chests piled in the middle of it. The chests are locked, but characters might have wrested the keys from the iron consul in {@adventure area D12|BGDIA|1|D12. Bane's Altar}. A character can also use {@item thieves' tools|phb} to pick a padlock with a successful {@dc 15} Dexterity check.",
+										"A short flight of stairs climbs to a circular chamber with four padlocked wooden chests piled in the middle of it. The chests are locked, but characters might have wrested the keys from the iron consul in {@area area D12|052|x}. A character can also use {@item thieves' tools|phb} to pick a padlock with a successful {@dc 15} Dexterity check.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -2973,7 +2973,7 @@
 									"page": 27,
 									"id": "072",
 									"entries": [
-										"Nine wooden crates are scattered throughout this room. Scurrying among them are six harmless {@creature Rat||rats} like the one encountered in {@adventure area D14|BGDIA|1|D14. Hungry Rat}.",
+										"Nine wooden crates are scattered throughout this room. Scurrying among them are six harmless {@creature Rat||rats} like the one encountered in {@area area D14|057|x}.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -2991,7 +2991,7 @@
 									"page": 27,
 									"id": "074",
 									"entries": [
-										"If Vaaz fled {@adventure area D29|BGDIA|1|D29. Mortlock Vanthampur}, he's standing in front of the statues in the west section of the room, his sputtering torch lying on the floor near his feet. Describe the room to the players as follows:",
+										"If Vaaz fled {@area area D29|06d|x}, he's standing in front of the statues in the west section of the room, his sputtering torch lying on the floor near his feet. Describe the room to the players as follows:",
 										{
 											"type": "insetReadaloud",
 											"id": "075",
@@ -3050,7 +3050,7 @@
 									"width": 568,
 									"height": 1000
 								},
-								"As the characters exit the dungeon and leave the bathhouse, they have one final encounter in the courtyard ({@adventure area D1|BGDIA|1|D1. Courtyard}). Read or paraphrase the following boxed text to set the scene:",
+								"As the characters exit the dungeon and leave the bathhouse, they have one final encounter in the courtyard ({@area area D1|03e|x}). Read or paraphrase the following boxed text to set the scene:",
 								{
 									"type": "insetReadaloud",
 									"id": "07a",
@@ -3059,8 +3059,8 @@
 									]
 								},
 								"The figures are four human {@creature Cultist||cultists} of Tiamat led by a male human {@creature cult fanatic} named Ultiss. These chaotic evil worshipers of Tiamat have been sent by {@creature Arkhan the Cruel|BGDIA} (see {@area chapter 3|247|x}) to retrieve the treasure stolen from the dragon queen's hoard on Avernus by agents of Zariel\u2014treasure given to Duke Vanthampur and her sons to buy the loyalty of the Dead Three followers.",
-								"Guided by visions sent to them by Tiamat, the cultists know when they're within 1,000 feet of her stolen loot. If the characters took any of the treasure from {@adventure area D30|BGDIA|1|D30. Tiamat's Stolen Treasure}, the cultists attack them to get it back. Otherwise, the cultists demand that the characters stand aside and not meddle in their business. Once they secure the dragon queen's lost treasure, the cultists plan to hunt down and kill the Vanthampurs and anyone else in Baldur's Gate considered to be an agent of Zariel. Cultists who survive this encounter can show up at a later time to help or hinder the characters, at your discretion.",
-								"If it's present when the cultists of Tiamat confront the characters, the {@condition invisible} {@creature imp} in {@adventure area D1|BGDIA|1|D1. Courtyard} quietly observes the interaction before reporting back to {@creature Thurstwell Vanthampur|BGDIA} at his family's villa."
+								"Guided by visions sent to them by Tiamat, the cultists know when they're within 1,000 feet of her stolen loot. If the characters took any of the treasure from {@area area D30|06f|x}, the cultists attack them to get it back. Otherwise, the cultists demand that the characters stand aside and not meddle in their business. Once they secure the dragon queen's lost treasure, the cultists plan to hunt down and kill the Vanthampurs and anyone else in Baldur's Gate considered to be an agent of Zariel. Cultists who survive this encounter can show up at a later time to help or hinder the characters, at your discretion.",
+								"If it's present when the cultists of Tiamat confront the characters, the {@condition invisible} {@creature imp} in {@area area D1|03e|x} quietly observes the interaction before reporting back to {@creature Thurstwell Vanthampur|BGDIA} at his family's villa."
 							]
 						},
 						{
@@ -3077,7 +3077,7 @@
 									"page": 28,
 									"id": "07c",
 									"entries": [
-										"Characters who clear out the Dungeon of the Dead Three might encounter more servants of Bane, Bhaal, or Myrkul in other parts of Baldur's Gate. These villains (see {@adventure appendix D|BGDIA|13}) usually operate as mixed groups of Banites, Bhaalites, and Myrkulites. Here are a few appropriate encounters for a party of four or five characters of 3rd to 5th level:",
+										"Characters who clear out the Dungeon of the Dead Three might encounter more servants of Bane, Bhaal, or Myrkul in other parts of Baldur's Gate. These villains (see {@area appendix D|46e|x}) usually operate as mixed groups of Banites, Bhaalites, and Myrkulites. Here are a few appropriate encounters for a party of four or five characters of 3rd to 5th level:",
 										{
 											"type": "entries",
 											"name": "Abduction Squad (for 3rd-level characters)",
@@ -3124,7 +3124,7 @@
 							"page": 28,
 							"id": "081",
 							"entries": [
-								"The Low Lantern's location is marked on {@adventure map 1.1|BGDIA|1|Map 1.1: Baldur's Gate}, while {@adventure map 1.4|BGDIA|1|Map 1.4: The Low Lantern} shows its interior. Describe the tavern to the players as follows:",
+								"The Low Lantern's location is marked on {@area map 1.1|1a8|x}, while {@area map 1.4|32b|x} shows its interior. Describe the tavern to the players as follows:",
 								{
 									"type": "insetReadaloud",
 									"id": "082",
@@ -3867,7 +3867,7 @@
 					"page": 32,
 					"id": "096",
 					"entries": [
-						"Vanthampur Villa is located in the Upper City, which is populated by the wealthiest residents of Baldur's Gate and heavily patrolled by the Watch. The villa's location is marked on {@adventure map 1.1|BGDIA|1|Map 1.1: Baldur's Gate}, while {@adventure map 1.5|BGDIA|1|Map 1.5: Vanthampur Villa} shows its interior. The villa connects with the dungeon and sewer complex shown on {@adventure map 1.6|BGDIA|1|Map 1.6: Under the Villa}.",
+						"Vanthampur Villa is located in the Upper City, which is populated by the wealthiest residents of Baldur's Gate and heavily patrolled by the Watch. The villa's location is marked on {@area map 1.1|1a8|x}, while {@area map 1.5|32c|x} shows its interior. The villa connects with the dungeon and sewer complex shown on {@area map 1.6|32d|x}.",
 						"The characters might want to visit Vanthampur Villa after leaving the Dungeon of the Dead Three or paying a visit to {@creature Amrik Vanthampur|BGDIA} at the Low Lantern. If they take Amrik prisoner, they can count on Reya Mantlemorn to keep a close eye on him.",
 						{
 							"type": "entries",
@@ -4619,14 +4619,14 @@
 							"page": 33,
 							"id": "09b",
 							"entries": [
-								"The following area descriptions are keyed to {@adventure map 1.5|BGDIA|1|Map 1.5: Vanthampur Villa}.",
+								"The following area descriptions are keyed to {@area map 1.5|32c|x}.",
 								{
 									"type": "entries",
 									"name": "V1. Yard",
 									"page": 33,
 									"id": "09c",
 									"entries": [
-										"Nine lawful evil human {@creature Guard||guards} patrol the yard in three groups of three. When the characters first arrive, these groups are located at the points marked \"V1\" on {@adventure map 1.5|BGDIA|1|Map 1.5: Vanthampur Villa}, and are circling the yard counterclockwise.",
+										"Nine lawful evil human {@creature Guard||guards} patrol the yard in three groups of three. When the characters first arrive, these groups are located at the points marked \"V1\" on {@area map 1.5|32c|x}, and are circling the yard counterclockwise.",
 										"The guards attack anyone who trespasses onto the estate without the consent or prior notification of Duke Vanthampur or one of her sons. If the characters have Amrik or Mortlock with them, they can convince either of the duke's sons to talk them past the guards. Otherwise, the characters need to kill the guards or sneak past them. The guards are too well paid to accept bribes, and they have no respect for the Flaming Fist. To sneak past a group of guards, each character must succeed on a {@dc 13} Dexterity ({@skill Stealth}) check. This check is made with advantage at night or in fog."
 									]
 								},
@@ -4829,7 +4829,7 @@
 											"page": 35,
 											"id": "0b0",
 											"entries": [
-												"The {@item infernal puzzle box|BGDIA} is a new magic item described in {@adventure Appendix C|BGDIA|12}. Each puzzle box is unique in its design. This particular box belongs to {@creature Thavius Kreeg|BGDIA} and was entrusted to Duke Vanthampur for safekeeping. Curious to know what's inside the box, the duke gave it to Thurstwell\u2014supposedly her smartest son\u2014to see if he could open it, but he's had no luck so far. Thurstwell can be threatened into relinquishing the box, or it can easily be taken from him. However, opening the box is beyond the ability of any of the characters. Falaster Fisk, a spy imprisoned in the dungeon ({@area area V29|0d3|x}), can advise the characters that taking the box to {@area Candlekeep|0f1|x} is their best bet for learning what it contains. The box holds a copy of the contract Thavius forged with Zariel to doom the city of Elturel.",
+												"The {@item infernal puzzle box|BGDIA} is a new magic item described in {@area Appendix C|450|x}. Each puzzle box is unique in its design. This particular box belongs to {@creature Thavius Kreeg|BGDIA} and was entrusted to Duke Vanthampur for safekeeping. Curious to know what's inside the box, the duke gave it to Thurstwell\u2014supposedly her smartest son\u2014to see if he could open it, but he's had no luck so far. Thurstwell can be threatened into relinquishing the box, or it can easily be taken from him. However, opening the box is beyond the ability of any of the characters. Falaster Fisk, a spy imprisoned in the dungeon ({@area area V29|0d3|x}), can advise the characters that taking the box to {@area Candlekeep|0f1|x} is their best bet for learning what it contains. The box holds a copy of the contract Thavius forged with Zariel to doom the city of Elturel.",
 												"The padlock on the chest can be picked by a character with {@item thieves' tools|phb} who succeeds on a {@dc 15} Dexterity check. The chest weighs 50 pounds and contains a jumble of wrinkled garments, red wax candles, quills, blank sheets of parchment, and jars of ink. It also holds an unlocked wooden coffer containing 73 gp, 120 sp, and a {@item potion of healing}, as well as a black-covered tome titled {@i Apocalypto}\u2014a poetic prophecy by an unknown author envisioning the end of the multiverse (worth 50 gp)."
 											]
 										}
@@ -5480,7 +5480,7 @@
 							"id": "0c0",
 							"entries": [
 								"Before the characters descend into the dungeon, allow them to advance to 4th level.",
-								"The following area descriptions are keyed to {@adventure map 1.6|BGDIA|1|Map 1.6: Under the Villa}.",
+								"The following area descriptions are keyed to {@area map 1.6|32d|x}.",
 								{
 									"type": "entries",
 									"name": "V20. Cellar",
@@ -5801,7 +5801,7 @@
 												"This room contains four wooden tables with two small wooden coffers atop each one. Hanging on the wall opposite the door is a beautiful golden shield. Standing in front of the shield is an old man in plain garments, carrying a lit candlestick. As he turns to face the door, you see that his shadow on the far wall doesn't match his form, but appears to be the shadow of a pudgy, horned fiend with small wings."
 											]
 										},
-										"The man is {@creature Thavius Kreeg|BGDIA}, the former high overseer of Elturel. Formerly a priest of Torm (god of courage and self-sacrifice), he lost his spellcasting ability when he abandoned his faith and now only pretends to worship that deity. The shield hanging on the wall behind him is the {@item Shield of the Hidden Lord|BGDIA}, which is depicted and described in {@adventure Appendix C|BGDIA|12}. Thavius has been speaking to Gargauth, the fiend imprisoned in the shield, and has concluded that the shield is responsible for much of the rampant avarice and malice in Baldur's Gate. Given time, Thavius thinks he can use the shield to drag Baldur's Gate down into Avernus.",
+										"The man is {@creature Thavius Kreeg|BGDIA}, the former high overseer of Elturel. Formerly a priest of Torm (god of courage and self-sacrifice), he lost his spellcasting ability when he abandoned his faith and now only pretends to worship that deity. The shield hanging on the wall behind him is the {@item Shield of the Hidden Lord|BGDIA}, which is depicted and described in {@area Appendix C|450|x}. Thavius has been speaking to Gargauth, the fiend imprisoned in the shield, and has concluded that the shield is responsible for much of the rampant avarice and malice in Baldur's Gate. Given time, Thavius thinks he can use the shield to drag Baldur's Gate down into Avernus.",
 										"Thavius craves power and the appreciation of his hellish masters. However, he abhors violence and avoids combat whenever possible. He sheds crocodile tears for Elturel, claiming that he was visiting a parish a few miles outside the city when it disappeared, and expressing horror in response to the city's fall. Neither story holds up under scrutiny.",
 										"Thavius also lies about his relationship with Duke Vanthampur. He claims the duke's guards captured him shortly after his arrival in Baldur's Gate, and that the duke needs his help to ascertain the magical properties of the celestial shield, which her family \"acquired\" from a crypt under the city. Despite being a practiced liar, Thavius has no lie to explain his diabolical shadow.",
 										"If she's with the party, Reya Mantlemorn is awestruck in the presence of the high overseer, and won't allow the characters to harm Thavius as long as she believes he's innocent of wrongdoing. His altered shadow is not damning enough evidence. Convincing Reya that Thavius is corrupt can be accomplished by forcing a confession out of him with a successful {@dc 15} Charisma ({@skill Intimidation}) check, or by proving that he has lost his spellcasting abilities. If the characters kill Thavius, they can encounter him again in {@area chapter 3|2b8|x}, after his soul is turned into a devil.",
@@ -6231,13 +6231,13 @@
 							"page": 50,
 							"id": "10a",
 							"entries": [
-								"{@creature Lulu|BGDIA} is a {@creature hollyphant|BGDIA} (see {@adventure Appendix C|BGDIA|13} for her stat block) who has lost most of her memories, as well as her Innate Spellcasting trait. (This has no effect on her challenge rating.) She regains her Innate Spellcasting trait gradually over the course of the adventure, as follows:",
+								"{@creature Lulu|BGDIA} is a {@creature hollyphant|BGDIA} (see {@area Appendix C|46e|x} for her stat block) who has lost most of her memories, as well as her Innate Spellcasting trait. (This has no effect on her challenge rating.) She regains her Innate Spellcasting trait gradually over the course of the adventure, as follows:",
 								{
 									"type": "list",
 									"items": [
-										"In {@adventure chapter 2|BGDIA|2}, {@creature Lulu|BGDIA} regains the at-will ability to cast {@spell light} when she arrives in Elturel for the first time.",
-										"In {@adventure chapter 4|BGDIA|7}, {@creature Lulu|BGDIA} regains her 2/day spells ({@spell bless}, {@spell cure wounds}, and {@spell protection from evil and good}) when she arrives at the Bleeding Citadel.",
-										"In {@adventure chapter 5|BGDIA|8}, {@creature Lulu|BGDIA} regains her 1/day spells ({@spell banishment}, {@spell heal}, {@spell raise dead}, {@spell shapechange}, and {@spell teleport}) once she helps reunite Zariel with her sword."
+										"In {@area chapter 2|112|x}, {@creature Lulu|BGDIA} regains the at-will ability to cast {@spell light} when she arrives in Elturel for the first time.",
+										"In {@area chapter 4|2bf|x}, {@creature Lulu|BGDIA} regains her 2/day spells ({@spell bless}, {@spell cure wounds}, and {@spell protection from evil and good}) when she arrives at the Bleeding Citadel.",
+										"In {@area chapter 5|315|x}, {@creature Lulu|BGDIA} regains her 1/day spells ({@spell banishment}, {@spell heal}, {@spell raise dead}, {@spell shapechange}, and {@spell teleport}) once she helps reunite Zariel with her sword."
 									]
 								},
 								{
@@ -6373,7 +6373,7 @@
 					"page": 52,
 					"id": "113",
 					"entries": [
-						"{@adventure Diagram 2.1|BGDIA|2|Arrival in Elturel} is a flowchart that presents the key events of this chapter in sequence.",
+						"{@area Diagram 2.1|114|x} is a flowchart that presents the key events of this chapter in sequence.",
 						"The adventurers should be 5th level when they arrive in Elturel. They begin on the east side of the city, where the immediate danger is greatest. With or without Reya Mantlemorn to guide them, the characters make their way toward the High Hall cathedral. Once they rid the cathedral and its catacombs of fiends, the adventurers should be 6th level.",
 						"NPC survivors cowering in the crypts under the High Hall cathedral urge the characters to locate Grand Duke {@creature Ulder Ravengard|BGDIA} of Baldur's Gate, who has emerged as Elturel's unlikeliest savior. This quest leads the characters to the chapel in Elturel's grand cemetery, where {@creature Ulder Ravengard|BGDIA} has fallen into a psychic coma after coming into telepathic contact with the demon lord Baphomet. After seeing Ravengard safely back to the High Hall and ridding him of his malady, the characters should be 7th level and ready to leave Elturel in search of the means to free the city from its chains and return what's left of it to Faerûn."
 					]
@@ -6476,7 +6476,7 @@
 							"page": 54,
 							"id": "11a",
 							"entries": [
-								"After their initial encounter with the Hunt family and the bearded devils, the characters are likely to want to get to the High Hall as quickly as possible to locate Grand Duke Ravengard. If you haven't done so already, unfold the poster map with the Elturel side facing up so players can get a sense of the city's layout and where they must go to reach the High Hall. {@adventure Map 2.1|BGDIA|2|Map 2.1: Elturel} is a shrunk-down version of this side of the poster map.",
+								"After their initial encounter with the Hunt family and the bearded devils, the characters are likely to want to get to the High Hall as quickly as possible to locate Grand Duke Ravengard. If you haven't done so already, unfold the poster map with the Elturel side facing up so players can get a sense of the city's layout and where they must go to reach the High Hall. {@area Map 2.1|3c7|x} is a shrunk-down version of this side of the poster map.",
 								"Whenever the party moves from one named location to another, roll a {@dice d20}. A roll of 11 or higher indicates an encounter while the characters travel within the city. For example, as the characters travel to a bridge, make an encounter check. Then after crossing the bridge and moving toward the High Hall, make another check. Also make checks if the characters wander the streets or go off in search of other survivors.",
 								"If an encounter is indicated, roll on the Encounters in Elturel table or choose an encounter you like. Each encounter can occur only once. If you roll an encounter that has already occurred, reroll on the table or select a different encounter. These encounters are described in the sections that follow the table.",
 								{
@@ -6621,7 +6621,7 @@
 															"page": 55,
 															"id": "124",
 															"entries": [
-																"Any creature that falls from Elturel's location high above Avernus plummets 500 feet into the soul-shattering waters of the River Styx, taking 70 ({@dice 20d6}) bludgeoning damage from the fall. The memory-wiping effects of the river are described in \"{@adventure River Styx|BGDIA|3|River Styx}\". However, characters who plunge into the Styx or the battle raging around the river are likely killed immediately, with their bodies beyond recovery."
+																"Any creature that falls from Elturel's location high above Avernus plummets 500 feet into the soul-shattering waters of the River Styx, taking 70 ({@dice 20d6}) bludgeoning damage from the fall. The memory-wiping effects of the river are described in \"{@area River Styx|1a3|x}\". However, characters who plunge into the Styx or the battle raging around the river are likely killed immediately, with their bodies beyond recovery."
 															]
 														},
 														{
@@ -6879,7 +6879,7 @@
 							"page": 60,
 							"id": "138",
 							"entries": [
-								"Three levels make up the High Hall cathedral: the cathedral level (areas H1 through H6), the choir level (areas H7 through H9), and the catacombs level (areas H10 through H17). These locations are keyed to {@adventure map 2.2|BGDIA|2|Map 2.2: High Hall Cathedral}, {@adventure map 2.3|BGDIA|2|Map 2.3: High Hall Cathedral, Choir Level}, and {@adventure map 2.4|BGDIA|2|Map 2.4: High Hall Catacombs}, respectively.",
+								"Three levels make up the High Hall cathedral: the cathedral level (areas H1 through H6), the choir level (areas H7 through H9), and the catacombs level (areas H10 through H17). These locations are keyed to {@area map 2.2|3c8|x}, {@area map 2.3|3c9|x}, and {@area map 2.4|3ca|x}, respectively.",
 								"Most of these descriptions highlight what the areas contain if a devil attack has not taken place there. Based on the encounters provided in the \"{@area Cathedral Assault|133|x}\" section above, you can adjust the text to describe what is happening in an area and what it looks like during or after a devil attack.",
 								{
 									"type": "inset",
@@ -9351,7 +9351,7 @@
 							"page": 66,
 							"id": "163",
 							"entries": [
-								"The section describes locations in the city's cemetery\u2014both the chapel and the areas around it (areas G1 through G6), and a subterranean ossuary level beneath the chapel (areas G7 through G12). The descriptions of the areas in this section are keyed to {@adventure map 2.5|BGDIA|2|Map 2.5: Grand Cemetery Chapel} and {@adventure map 2.6|BGDIA|2|Map 2.6: Grand Cemetery, Ossuary level}.",
+								"The section describes locations in the city's cemetery\u2014both the chapel and the areas around it (areas G1 through G6), and a subterranean ossuary level beneath the chapel (areas G7 through G12). The descriptions of the areas in this section are keyed to {@area map 2.5|3cb|x} and {@area map 2.6|3cc|x}.",
 								"Several graves have been dug up, leaving pits in the earth that are 6 feet deep, 2 feet wide, and 7 feet long. A number of stone mausoleums stand vacant, their doors hanging open. The interior of a mausoleum is dimly lit when its door is open and shrouded in darkness when the door is closed.",
 								"As the characters investigate the cemetery, they observe dozens of {@creature Skeleton||skeletons} and {@creature Zombie||zombies} moving about the grounds. These undead, wandering aimlessly and without direction, pose no threat to the characters on their way into the chapel. However, if the characters fail to deal with Gideon before leaving Elturel, the priest has time to coordinate the efforts of the undead, turning them into a potent threat against the city.",
 								{
@@ -10386,7 +10386,7 @@
 									"page": 72,
 									"id": "190",
 									"entries": [
-										"The jagged posts and enormous chains of infernal iron that hold Elturel are the only physical connection between the city and the ground. Each chain link is 30 feet long and 20 feet wide, and is formed of a welded loop of infernal iron that is 5 feet thick. See {@adventure chapter 5|BGDIA|7} for more information on breaking these infernal chains.",
+										"The jagged posts and enormous chains of infernal iron that hold Elturel are the only physical connection between the city and the ground. Each chain link is 30 feet long and 20 feet wide, and is formed of a welded loop of infernal iron that is 5 feet thick. See {@area chapter 5|2bf|x} for more information on breaking these infernal chains.",
 										"The chain links are covered in 1-foot-long iron barbs that make them relatively easy to move along. The posts of infernal iron that anchor Elturel to the ground likewise offer numerous handholds for climbing. If the characters navigate the chains and the posts carefully, no ability checks are needed to prevent a fall while climbing across the chains or descending the posts at normal speed. Any character who tries to move or climb more quickly during a turn must succeed on a {@dc 10} Strength ({@skill Athletics}) check or fall.",
 										"Fiendish magic within the posts and chains makes prolonged contact with them unbearable. Once per minute, any creature in contact with the infernal iron must make a {@dc 10} Constitution saving throw, taking 10 ({@dice 3d6}) necrotic damage on a failed save, or half as much damage on a successful one. A creature that fails this saving throw must then succeed on a {@dc 10} Dexterity saving throw or slip from the chain or post and fall.",
 										"Any character within reach of a falling creature can, with a successful {@dc 10} Strength ({@skill Athletics}) check, grab the falling creature and swing it back onto the chain, provided the falling creature is light enough for the character to carry.",
@@ -10460,7 +10460,7 @@
 											"page": 73,
 											"id": "196",
 											"entries": [
-												"Lucille wears a {@item helm of devil command|BGDIA} and carries a {@item battle standard of infernal power|BGDIA} (see {@adventure appendix C|BGDIA|12} for descriptions of these magic items), neither of which the pit fiend gives up willingly."
+												"Lucille wears a {@item helm of devil command|BGDIA} and carries a {@item battle standard of infernal power|BGDIA} (see {@area appendix C|450|x} for descriptions of these magic items), neither of which the pit fiend gives up willingly."
 											]
 										},
 										{
@@ -10469,7 +10469,7 @@
 											"page": 73,
 											"id": "197",
 											"entries": [
-												"The characters encounter Lucille again at the end of the adventure when they return to liberate Elturel (see \"{@adventure Endgame in Elturel|BGDIA|8|Endgame in Elturel}\")."
+												"The characters encounter Lucille again at the end of the adventure when they return to liberate Elturel (see \"{@area Endgame in Elturel|340|x}\")."
 											]
 										}
 									]
@@ -10482,7 +10482,7 @@
 							"page": 73,
 							"id": "198",
 							"entries": [
-								"Once they escape from Elturel, the characters must begin the ten-mile trek to Fort Knucklebone. If the characters move quickly and carefully, they can make the journey without running into any more trouble. Let them advance to 7th level before beginning {@adventure chapter 3|BGDIA|3}."
+								"Once they escape from Elturel, the characters must begin the ten-mile trek to Fort Knucklebone. If the characters move quickly and carefully, they can make the journey without running into any more trouble. Let them advance to 7th level before beginning {@area chapter 3|199|x}."
 							]
 						}
 					]
@@ -10504,7 +10504,7 @@
 					"width": 3200,
 					"height": 2048
 				},
-				"Guided by {@creature Lulu|BGDIA} the hollyphant and discoveries made in Elturel, the characters trek across Avernus, the first layer of the Nine Hells, to recover the {@item Sword of Zariel|BGDIA} and free Elturel from its chains. Navigating the wastelands of Avernus might seem like a difficult proposition, but thankfully the characters have the map given to them by {@creature Sylvira Savikas|BGDIA} in {@adventure chapter 1|BGDIA|1}. For more information on how to use the Avernus poster map, see \"{@area Using the Poster Map|1b0|x}\".",
+				"Guided by {@creature Lulu|BGDIA} the hollyphant and discoveries made in Elturel, the characters trek across Avernus, the first layer of the Nine Hells, to recover the {@item Sword of Zariel|BGDIA} and free Elturel from its chains. Navigating the wastelands of Avernus might seem like a difficult proposition, but thankfully the characters have the map given to them by {@creature Sylvira Savikas|BGDIA} in {@area chapter 1|014|x}. For more information on how to use the Avernus poster map, see \"{@area Using the Poster Map|1b0|x}\".",
 				"Elturel and Fort Knucklebone aren't marked on the poster map, as Elturel was not present when the map was drawn, and the cartographer who drew the map never encountered Fort Knucklebone. You can situate Elturel anywhere along the River Styx, and Fort Knucklebone anywhere within ten miles of Elturel.",
 				{
 					"type": "section",
@@ -10513,10 +10513,10 @@
 					"id": "19a",
 					"entries": [
 						"This chapter opens with information about Avernus that you need to run the encounters and adventure locations that follow.",
-						"The story picks up where it left off in {@adventure chapter 2|BGDIA|2}, with the characters embarking on a quest to save Elturel while {@creature Ulder Ravengard|BGDIA} and Reya Mantlemorn stay behind to organize survivors and defend the city. {@creature Lulu|BGDIA} guides the characters to Fort Knucklebone, home to a pair of kenku junk scavengers named {@creature Chukka|BGDIA} and {@creature Clonk|BGDIA}, whom {@creature Lulu|BGDIA} thinks can provide assistance. {@creature Mad Maggie|BGDIA}, the night hag who runs the fort, oversees the construction and repair of infernal war machines. If the characters agree to make a deal with the night hag, they can acquire one or more of these vehicles. {@creature Mad Maggie|BGDIA} can also help {@creature Lulu|BGDIA} unlock some of her forgotten memories.",
-						"From Fort Knucklebone, {@creature Lulu|BGDIA} guides the characters to the place where she thinks the {@item Sword of Zariel|BGDIA} is hidden: Haruman's Hill. There, they meet Jander Sunstar, a vampire with some information. They also meet Jander's torturer, Haruman\u2014a fallen Hellrider and one of Zariel's infernal generals. {@creature Lulu|BGDIA} eventually realizes she's made a grave mistake and led the characters to the wrong place. She suggests two possible paths going forward: the {@adventure Path of Demons|BGDIA|4} and the {@adventure Path of Devils|BGDIA|5}. Each path features a number of locations across Avernus that the characters must visit in sequence to learn where Zariel's sword is hidden.",
+						"The story picks up where it left off in {@area chapter 2|112|x}, with the characters embarking on a quest to save Elturel while {@creature Ulder Ravengard|BGDIA} and Reya Mantlemorn stay behind to organize survivors and defend the city. {@creature Lulu|BGDIA} guides the characters to Fort Knucklebone, home to a pair of kenku junk scavengers named {@creature Chukka|BGDIA} and {@creature Clonk|BGDIA}, whom {@creature Lulu|BGDIA} thinks can provide assistance. {@creature Mad Maggie|BGDIA}, the night hag who runs the fort, oversees the construction and repair of infernal war machines. If the characters agree to make a deal with the night hag, they can acquire one or more of these vehicles. {@creature Mad Maggie|BGDIA} can also help {@creature Lulu|BGDIA} unlock some of her forgotten memories.",
+						"From Fort Knucklebone, {@creature Lulu|BGDIA} guides the characters to the place where she thinks the {@item Sword of Zariel|BGDIA} is hidden: Haruman's Hill. There, they meet Jander Sunstar, a vampire with some information. They also meet Jander's torturer, Haruman\u2014a fallen Hellrider and one of Zariel's infernal generals. {@creature Lulu|BGDIA} eventually realizes she's made a grave mistake and led the characters to the wrong place. She suggests two possible paths going forward: the {@area Path of Demons|1fa|x} and the {@area Path of Devils|22f|x}. Each path features a number of locations across Avernus that the characters must visit in sequence to learn where Zariel's sword is hidden.",
 						"At any time during their exploration of Avernus, the characters and {@creature Lulu|BGDIA} might encounter the Wandering Emporium, a marketplace that wanders Avernus on the backs of giant infernal war machines. The Wandering Emporium provides a good place for the characters to rest and gather supplies that are otherwise hard to find in Avernus.",
-						"At the conclusion of this chapter, the characters learn that the {@item Sword of Zariel|BGDIA} is hidden in a place called the Bleeding Citadel. If she's still alive, {@creature Lulu|BGDIA} helps them get there. See {@adventure chapter 4|BGDIA|7} for details about the Bleeding Citadel."
+						"At the conclusion of this chapter, the characters learn that the {@item Sword of Zariel|BGDIA} is hidden in a place called the Bleeding Citadel. If she's still alive, {@creature Lulu|BGDIA} helps them get there. See {@area chapter 4|2bf|x} for details about the Bleeding Citadel."
 					]
 				},
 				{
@@ -10851,7 +10851,7 @@
 							"page": 80,
 							"id": "1b4",
 							"entries": [
-								"The main feature of the fort is the hand-shaped hill, between the fingers of which are caves where {@creature Mad Maggie|BGDIA} oversees repairs to several infernal war machines (see {@adventure appendix B|BGDIA|11} for infernal war machine rules and stat blocks). Around this hill is a ring of debris that serves as a crude rampart. This barrier is 15 feet thick, and its height averages 20 feet.",
+								"The main feature of the fort is the hand-shaped hill, between the fingers of which are caves where {@creature Mad Maggie|BGDIA} oversees repairs to several infernal war machines (see {@area appendix B|41c|x} for infernal war machine rules and stat blocks). Around this hill is a ring of debris that serves as a crude rampart. This barrier is 15 feet thick, and its height averages 20 feet.",
 								"Built into the rampart is a ramshackle gatehouse (see \"{@area Entering the Fort|1b8|x}\"). One of the redcaps that guards the gatehouse stands next to an iron gong that can be struck to warn of impending attack. A 15-foot high, 20-foot-wide, entryway passes through the gatehouse. A wall of junk on rollers can be pushed in front of the entryway to seal it in case of attack.",
 								"Within the rampart, surrounding the hill, are hovels made of junk and scrap metal. These quarters are mostly empty except for a few cots, since only the kenku require food, drink, and sleep. They are used when members of {@creature Mad Maggie|BGDIA}'s gang need privacy. Amid the hovels are the plundered wrecks of several infernal war machines that have been picked clean for parts."
 							]
@@ -11124,7 +11124,7 @@
 									"page": 84,
 									"id": "1cb",
 									"entries": [
-										"Redcaps are murderous fey creatures that soak their caps in fresh blood. Madcaps are redcaps that drench their caps in demon ichor instead. {@creature Mad Maggie|BGDIA} currently commands sixty redcaps and thirty madcaps, although a third of them operate outside the fort, patrolling the areas of the wasteland controlled by {@creature Mad Maggie|BGDIA}. As battles deplete this force, {@creature Mad Maggie|BGDIA} has new redcaps delivered to her from the Feywild, courtesy of powerful fey with whom she has struck bargains. For this reason, the night hag has no concern for the well-being of her redcap and madcap minions. See {@adventure appendix D|BGDIA|13} for more information about {@creature Redcap|VGM|redcaps} and {@creature Redcap|VGM|madcaps}.",
+										"Redcaps are murderous fey creatures that soak their caps in fresh blood. Madcaps are redcaps that drench their caps in demon ichor instead. {@creature Mad Maggie|BGDIA} currently commands sixty redcaps and thirty madcaps, although a third of them operate outside the fort, patrolling the areas of the wasteland controlled by {@creature Mad Maggie|BGDIA}. As battles deplete this force, {@creature Mad Maggie|BGDIA} has new redcaps delivered to her from the Feywild, courtesy of powerful fey with whom she has struck bargains. For this reason, the night hag has no concern for the well-being of her redcap and madcap minions. See {@area appendix D|46e|x} for more information about {@creature Redcap|VGM|redcaps} and {@creature Redcap|VGM|madcaps}.",
 										{
 											"type": "entries",
 											"name": "Redcap and Madcap Goals",
@@ -11366,7 +11366,7 @@
 							"page": 90,
 							"id": "1e1",
 							"entries": [
-								"All the warlords described in this adventure use infernal war machines to strike fear into their rivals, fend off demons and other threats, and flee from Zariel's devil patrols. The rules for infernal war machines in {@adventure appendix B|BGDIA|11} are meant to help you adjudicate situations that arise during encounters, but combat involving infernal war machines works best with \"theater of the mind\"-style play, where it's more important to capture the emotion of a chase than know the exact location and orientation of every vehicle on the battlefield.",
+								"All the warlords described in this adventure use infernal war machines to strike fear into their rivals, fend off demons and other threats, and flee from Zariel's devil patrols. The rules for infernal war machines in {@area appendix B|41c|x} are meant to help you adjudicate situations that arise during encounters, but combat involving infernal war machines works best with \"theater of the mind\"-style play, where it's more important to capture the emotion of a chase than know the exact location and orientation of every vehicle on the battlefield.",
 								"If a situation arises that the vehicle rules don't cover, fall back on the core rules. For example, if a character wants to leap from one moving vehicle to another, determine whether the character succeeds or not with a Strength ({@skill Athletics}) check, setting the jump's DC based on the distance between the two vehicles (as well as other factors, as appropriate). Keep it fun and fast-paced, and push the rules aside when they get in the way."
 							]
 						},
@@ -11394,7 +11394,7 @@
 									"id": "1e3",
 									"entries": [
 										"Zariel has declared that no other devil may associate with {@creature Bitter Breath|BGDIA}. However, Zariel's decree hasn't stopped the fiendish outcast from joining forces with a gang of marauding hobgoblins under the command of a battle-hardened {@creature hobgoblin warlord} named High Graj Karkajuk.",
-										"{@creature Bitter Breath|BGDIA} drives a {@vehicle Tormentor|BGDIA} that has an Infernal Screamer (see \"{@vehupgrade Infernal Screamer|BGDIA}\") instead of a Harpoon Flinger. {@creature Hobgoblin||Hobgoblins} round out the Tormentor's crew. High Graj Karkajuk drives a {@vehicle Devil's Ride|BGDIA} and commands a pair of {@vehicle Scavenger|BGDIA|Scavengers} driven by {@creature Hobgoblin Captain||hobgoblin captains} and crewed by ordinary {@creature Hobgoblin||hobgoblins}. See {@adventure appendix B|BGDIA|11} for the vehicles' stat blocks."
+										"{@creature Bitter Breath|BGDIA} drives a {@vehicle Tormentor|BGDIA} that has an Infernal Screamer (see \"{@vehupgrade Infernal Screamer|BGDIA}\") instead of a Harpoon Flinger. {@creature Hobgoblin||Hobgoblins} round out the Tormentor's crew. High Graj Karkajuk drives a {@vehicle Devil's Ride|BGDIA} and commands a pair of {@vehicle Scavenger|BGDIA|Scavengers} driven by {@creature Hobgoblin Captain||hobgoblin captains} and crewed by ordinary {@creature Hobgoblin||hobgoblins}. See {@area appendix B|41c|x} for the vehicles' stat blocks."
 									]
 								}
 							]
@@ -11474,8 +11474,8 @@
 					"id": "1e8",
 					"entries": [
 						"{@creature Lulu|BGDIA}'s dreams lead the characters on a wild goose chase to Haruman's Hill in search of the {@item Sword of Zariel|BGDIA}. Realizing that the Bleeding Citadel isn't where she remembers it, the hollyphant offers the characters a choice of paths. Both paths eventually lead to the Bleeding Citadel, but only through a combination of deal making, daring, and dumb luck.",
-						"{@adventure Diagram 3.2|BGDIA|4|Spawning Trees} and {@adventure diagram 3.3|BGDIA|5|Demon Zapper} are flowcharts that show the two paths characters can take through Avernus to reach the Bleeding Citadel: the {@adventure Path of Demons|BGDIA|4} and the {@adventure Path of Devils|BGDIA|5}, respectively. Neither is literally a \"path,\" but rather a sequence of locations that the characters must visit in order. If the characters wander off these paths, use optional encounters to pull them back (see \"{@adventure Other Locations|BGDIA|6},\" and \"{@area Roaming Encounter: Smiler the Defiler|2bb|x}\").",
-						"Each encounter location tied to a path has a recommended character level, as noted in {@adventure diagram 3.2|BGDIA|4|Spawning Trees} or {@adventure diagram 3.3|BGDIA|5|Demon Zapper}. If your group's average character level is lower than the recommended level of their destination, introduce some random encounters or reroute them to another location first to raise their level.",
+						"{@area Diagram 3.2|1fb|x} and {@area diagram 3.3|230|x} are flowcharts that show the two paths characters can take through Avernus to reach the Bleeding Citadel: the {@area Path of Demons|1fa|x} and the {@area Path of Devils|22f|x}, respectively. Neither is literally a \"path,\" but rather a sequence of locations that the characters must visit in order. If the characters wander off these paths, use optional encounters to pull them back (see \"{@area Other Locations|284|x},\" and \"{@area Roaming Encounter: Smiler the Defiler|2bb|x}\").",
+						"Each encounter location tied to a path has a recommended character level, as noted in {@area diagram 3.2|1fb|x} or {@area diagram 3.3|230|x}. If your group's average character level is lower than the recommended level of their destination, introduce some random encounters or reroute them to another location first to raise their level.",
 						"Allow characters the opportunity to explore locations on the poster map of Avernus in any order they please, or let them jump back and forth between the paths as they see fit."
 					]
 				},
@@ -11487,7 +11487,7 @@
 					"entries": [
 						"{@i Behold! Zariel's dog crucified those who betrayed his mistress in battle}.",
 						"\u2014The Cartographer",
-						"Haruman's Hill is marked on {@adventure map 3.1|BGDIA|3|Map 3.1: Avernus}. When the characters arrive at this location, read or paraphrase the following boxed text to the players:",
+						"Haruman's Hill is marked on {@area map 3.1|3cd|x}. When the characters arrive at this location, read or paraphrase the following boxed text to the players:",
 						{
 							"type": "insetReadaloud",
 							"id": "1ea",
@@ -11550,7 +11550,7 @@
 									"id": "1ee",
 									"entries": [
 										"If the hellwasp abducts {@creature Lulu|BGDIA}, it takes the hollyphant to its nest. If the characters wish to rescue {@creature Lulu|BGDIA}, they must storm the nest (see \"{@area Hellwasp Nest|1ef|x}\").",
-										"If the characters thwart the hellwasp's abduction of {@creature Lulu|BGDIA}, the hollyphant is grateful and apologizes for leading them to the wrong place, admitting that her memory of the Bleeding Citadel is hazier than she initially realized. Having pondered her dreams further, she says that two sites in Avernus seem important to finding the Citadel: a place where demons manifest (see \"{@area Spawning Trees|1fb|x}\"), and another where demons are destroyed (see \"{@area Demon Zapper|230|x}\"). {@creature Lulu|BGDIA} has no preference which to investigate first, so she points out both locations on the characters' map and leaves the decision to the characters. Each of these locations opens a different branch of investigation that ultimately leads to the Bleeding Citadel. See {@adventure diagram 3.2|BGDIA|4|Spawning Trees} and {@adventure diagram 3.3|BGDIA|5|Demon Zapper} for overviews of the two paths\u2014the {@adventure Path of Demons|BGDIA|4} and the {@adventure Path of Devils|BGDIA|5}."
+										"If the characters thwart the hellwasp's abduction of {@creature Lulu|BGDIA}, the hollyphant is grateful and apologizes for leading them to the wrong place, admitting that her memory of the Bleeding Citadel is hazier than she initially realized. Having pondered her dreams further, she says that two sites in Avernus seem important to finding the Citadel: a place where demons manifest (see \"{@area Spawning Trees|1fb|x}\"), and another where demons are destroyed (see \"{@area Demon Zapper|230|x}\"). {@creature Lulu|BGDIA} has no preference which to investigate first, so she points out both locations on the characters' map and leaves the decision to the characters. Each of these locations opens a different branch of investigation that ultimately leads to the Bleeding Citadel. See {@area diagram 3.2|1fb|x} and {@area diagram 3.3|230|x} for overviews of the two paths\u2014the {@area Path of Demons|1fa|x} and the {@area Path of Devils|22f|x}."
 									]
 								}
 							]
@@ -12194,7 +12194,7 @@
 											"page": 95,
 											"id": "1f9",
 											"entries": [
-												"If the characters free {@creature Lulu|BGDIA}, she admits that her memory of the Bleeding Citadel is hazier than she initially realized. Having pondered her dreams further, she says that two sites in Avernus seem important to finding the Citadel: a place where demons manifest (see \"{@area Spawning Trees|1fb|x}\"), and another where demons are destroyed (see \"{@area Demon Zapper|230|x}\"). {@creature Lulu|BGDIA} has no preference which to investigate first, so she points out both locations on the characters' map and leaves the decision to them. Each of these locations opens a different branch of investigation that leads to the Bleeding Citadel. See {@adventure diagram 3.2|BGDIA|4|Spawning Trees} for an overview of the {@adventure Path of Demons|BGDIA|4} and {@adventure diagram 3.3|BGDIA|5|Demon Zapper} for an overview of the {@adventure Path of Devils|BGDIA|5}."
+												"If the characters free {@creature Lulu|BGDIA}, she admits that her memory of the Bleeding Citadel is hazier than she initially realized. Having pondered her dreams further, she says that two sites in Avernus seem important to finding the Citadel: a place where demons manifest (see \"{@area Spawning Trees|1fb|x}\"), and another where demons are destroyed (see \"{@area Demon Zapper|230|x}\"). {@creature Lulu|BGDIA} has no preference which to investigate first, so she points out both locations on the characters' map and leaves the decision to them. Each of these locations opens a different branch of investigation that leads to the Bleeding Citadel. See {@area diagram 3.2|1fb|x} for an overview of the {@area Path of Demons|1fa|x} and {@area diagram 3.3|230|x} for an overview of the {@area Path of Devils|22f|x}."
 											]
 										}
 									]
@@ -13209,7 +13209,7 @@
 							]
 						},
 						"The demon lord {@creature Kostchtchie|BGDIA} resembles a squat hill giant with short, bandy legs and a grossly shaped head.",
-						"Frost giants who forsake their gods and turn to demon worship can summon {@creature Kostchtchie|BGDIA} with bloody offerings left on altars of hewn ice. If the demon lord chooses to answer the giants' call, he hunts and fights alongside them for a time, infecting the frost giants with savage madness and bloodlust before disappearing back to the Abyss. {@creature Kostchtchie|BGDIA|Kostchtchie's} favored weapon is {@item Matalotok|BGDIA}, a warhammer forged by the frost giant god Thrym (see {@adventure appendix C|BGDIA|12} for more information about this legendary magic item).",
+						"Frost giants who forsake their gods and turn to demon worship can summon {@creature Kostchtchie|BGDIA} with bloody offerings left on altars of hewn ice. If the demon lord chooses to answer the giants' call, he hunts and fights alongside them for a time, infecting the frost giants with savage madness and bloodlust before disappearing back to the Abyss. {@creature Kostchtchie|BGDIA|Kostchtchie's} favored weapon is {@item Matalotok|BGDIA}, a warhammer forged by the frost giant god Thrym (see {@area appendix C|450|x} for more information about this legendary magic item).",
 						"On his most recent visit to the Nine Hells, {@creature Kostchtchie|BGDIA} was defeated by the archdevil Zariel, who took his hammer and chained him at the bottom of this chasm, knowing that killing him would simply cause him to re-form on his icy layer of the Abyss. Without {@item Matalotok|BGDIA}, {@creature Kostchtchie|BGDIA}'s immunity to cold damage becomes resistance to cold damage.",
 						"Shackled by ever-tightening magical chains that prevent him from casting spells, {@creature Kostchtchie|BGDIA} squats in a 10-foot-deep, 80-foot-diameter pool of black tar in a cavern at the bottom of a chasm, his hands chained behind him. His unholy screams and vile epithets can be heard for miles. Characters who attempt to communicate with the demon lord are met with guttural cries of anguish and frustration. In sporadic moments of lucidity, {@creature Kostchtchie|BGDIA} glares at a character and bellows, \"FREE ME!\" or \"BRING ME MY HAMMER!\" in Giant first and Abyssal second. If that fails to garner the desired reaction, {@creature Kostchtchie|BGDIA} resorts to using telepathy to contact the nearest character, demanding its immediate release while offering nothing in return.",
 						{
@@ -13236,8 +13236,8 @@
 									"page": 104,
 									"id": "22e",
 									"entries": [
-										"If {@creature Kostchtchie|BGDIA} is freed, the he cries out to Zariel (in Giant) that he's coming for his hammer and swears to crush her with it. He then casts {@spell wind walk}, which turns him into a cloudy form with an astonishingly fast flying speed of 300 feet. In this form, he travels with great haste across Avernus, determined to get his hammer back. Characters swift enough to follow in his wake are led to Zariel (see {@adventure chapter 5|BGDIA|8}).",
-										"With {@creature Kostchtchie|BGDIA} freed, the characters can return to the Crypt of the Hellriders, where Olanthius dutifully reveals the location of the Bleeding Citadel (see {@adventure chapter 4|BGDIA|7}). As the characters leave the catacombs, he asks them to give his love to Yael when they see her.",
+										"If {@creature Kostchtchie|BGDIA} is freed, the he cries out to Zariel (in Giant) that he's coming for his hammer and swears to crush her with it. He then casts {@spell wind walk}, which turns him into a cloudy form with an astonishingly fast flying speed of 300 feet. In this form, he travels with great haste across Avernus, determined to get his hammer back. Characters swift enough to follow in his wake are led to Zariel (see {@area chapter 5|315|x}).",
+										"With {@creature Kostchtchie|BGDIA} freed, the characters can return to the Crypt of the Hellriders, where Olanthius dutifully reveals the location of the Bleeding Citadel (see {@area chapter 4|2bf|x}). As the characters leave the catacombs, he asks them to give his love to Yael when they see her.",
 										{
 											"type": "image",
 											"href": {
@@ -14497,8 +14497,8 @@
 							"page": 118,
 							"id": "265",
 							"entries": [
-								"When a creature fails a saving throw against the sibriex's Warp Creature effect, you can roll percentile dice and consult the {@adventure Flesh Warping table|BGDIA|5|Flesh Warping} to determine an additional effect, which vanishes when Warp Creature ends on the creature. If the creature transforms into an {@creature abyssal wretch|MTF}, the effect becomes a permanent feature of that body.",
-								"A creature can willingly submit to flesh warping, an agonizing process that takes at least 1 hour while the creature stays within 30 feet of the sibriex. At the end of the process, roll once on the {@adventure Flesh Warping table|BGDIA|5|Flesh Warping} (or choose one effect) to determine how the creature is transformed permanently.",
+								"When a creature fails a saving throw against the sibriex's Warp Creature effect, you can roll percentile dice and consult the {@area Flesh Warping table|265|x} to determine an additional effect, which vanishes when Warp Creature ends on the creature. If the creature transforms into an {@creature abyssal wretch|MTF}, the effect becomes a permanent feature of that body.",
+								"A creature can willingly submit to flesh warping, an agonizing process that takes at least 1 hour while the creature stays within 30 feet of the sibriex. At the end of the process, roll once on the {@area Flesh Warping table|265|x} (or choose one effect) to determine how the creature is transformed permanently.",
 								{
 									"type": "entries",
 									"name": "Development",
@@ -14592,7 +14592,7 @@
 							"page": 119,
 							"id": "26d",
 							"entries": [
-								"The command deck, shown on {@adventure map 3.6|BGDIA|5|Map 3.6: Wrecked Flying Fortress, Command Deck}, has the following features:",
+								"The command deck, shown on {@area map 3.6|3d2|x}, has the following features:",
 								"{@b Iron Surfaces}. The floor, walls, ceilings, and doors are made of iron that has been twisted, bent, and ruptured in places. Ceilings throughout are 15 feet high.",
 								"{@b Light Sources}. Areas that are exposed to the outdoors are dimly lit by the hellish red sky of Avernus. Beyond that, the only light sources are harmless showers of sparks that periodically rain down from gashes in the ceiling.",
 								"{@b Slant}. Like the rest of the fortress, the command deck leans at a twenty-degree angle, with {@area area W5|27a|x} being the lowest part of the deck and {@area area W8|281|x} being the highest. The sloped metal floor is {@quickref difficult terrain||3}."
@@ -15254,7 +15254,7 @@
 					"width": 1000,
 					"height": 651
 				},
-				"Some locations marked on the players' {@adventure map of Avernus|BGDIA|3|Map 3.1: Avernus} lie outside the two quest paths. Others, like the Wandering Emporium and Zariel's Flying Fortress, move around. These locations are summarized below and described in the sections that follow.",
+				"Some locations marked on the players' {@area map of Avernus|3cd|x} lie outside the two quest paths. Others, like the Wandering Emporium and Zariel's Flying Fortress, move around. These locations are summarized below and described in the sections that follow.",
 				"{@b Stygian Dock}. A river dock where flying fortresses can undergo repairs while siphoning souls from the Styx.",
 				"{@b Styx Watchtower}. One of several fortifications along the River Styx used by devils to guard against invasion.",
 				"{@b Sundered Chains}. Broken chains of Avernus that tried and failed to bind other cities before Elturel.",
@@ -15293,7 +15293,7 @@
 							"page": 123,
 							"id": "288",
 							"entries": [
-								"Engine oil covers this horned devil, which constantly chews on a shard of smoking, red hot coal. Bazelsteen is more interested in machines than creatures and is willing to repair or modify any infernal war machine that the characters currently use. See {@adventure appendix B|BGDIA|11} for possible weapon replacements, armor upgrades, and magic gadgetry. Instead of payment, the horned devil requires that they help it complete a test (see \"Test Run 221\" below). If the characters perform this task well, Bazelsteen agrees to fully repair their infernal war machines. He also offers one free weapon swap, armor upgrade, or magical gadget.",
+								"Engine oil covers this horned devil, which constantly chews on a shard of smoking, red hot coal. Bazelsteen is more interested in machines than creatures and is willing to repair or modify any infernal war machine that the characters currently use. See {@area appendix B|41c|x} for possible weapon replacements, armor upgrades, and magic gadgetry. Instead of payment, the horned devil requires that they help it complete a test (see \"Test Run 221\" below). If the characters perform this task well, Bazelsteen agrees to fully repair their infernal war machines. He also offers one free weapon swap, armor upgrade, or magical gadget.",
 								{
 									"type": "entries",
 									"name": "Test Run 221",
@@ -15676,7 +15676,7 @@
 									"page": 128,
 									"id": "29b",
 									"entries": [
-										"Mahadi has the power to make deals at the direction and with the authority of Asmodeus as if he were an archdevil (see {@adventure appendix A|BGDIA|10}). All such deals must be presented to the other party without alteration, and they are not negotiable. In all such agreements, Asmodeus wants one thing only: a character signing one of these contracts gives up their soul forever. After the signing character reaches 17th level, if at any point they die, their death is permanent, with no chance to return from the grave. Asmodeus takes their soul and makes them a {@creature pit fiend}, in his service for eternity.",
+										"Mahadi has the power to make deals at the direction and with the authority of Asmodeus as if he were an archdevil (see {@area appendix A|3fd|x}). All such deals must be presented to the other party without alteration, and they are not negotiable. In all such agreements, Asmodeus wants one thing only: a character signing one of these contracts gives up their soul forever. After the signing character reaches 17th level, if at any point they die, their death is permanent, with no chance to return from the grave. Asmodeus takes their soul and makes them a {@creature pit fiend}, in his service for eternity.",
 										"Mahadi can offer the following gifts in exchange for a soul contract:",
 										"{@b Magic Item}. Asmodeus gifts the adventurer with a {@item rod of lordly might}, to which only the recipient and its direct descendants can attune.",
 										"{@b Resurrection}. Asmodeus sends one of his loyal priest followers to cast {@spell true resurrection} on a deceased character.",
@@ -15750,7 +15750,7 @@
 											"page": 129,
 											"id": "2a2",
 											"entries": [
-												"The dining menu at Infernal Rapture changes daily, providing a fixed-price selection. Sample menus are provided as player handouts in {@adventure appendix E|BGDIA|14}. A full meal costs one {@item soul coin|BGDIA}. Unlike food consumed elsewhere in Avernus, which is uniformly terrible, the food at Infernal Rapture tastes delicious.",
+												"The dining menu at Infernal Rapture changes daily, providing a fixed-price selection. Sample menus are provided as player handouts in {@area appendix E|492|x}. A full meal costs one {@item soul coin|BGDIA}. Unlike food consumed elsewhere in Avernus, which is uniformly terrible, the food at Infernal Rapture tastes delicious.",
 												"Special food requests can be filled, but they must be made weeks in advance and can be costly. Mahadi charges from five to ten {@item Soul Coin|BGDIA|soul coins} for an exotic request, depending on the difficulty involved in fulfilling it. Consuming a meal at Infernal Rapture has the same benefits as a {@spell heroes' feast} spell, with the added effect that those who eat the food have disadvantage on Wisdom ({@skill Insight}) checks made against Mahadi."
 											]
 										},
@@ -15910,7 +15910,7 @@
 					"page": 130,
 					"id": "2b0",
 					"entries": [
-						"This 450-foot-tall structure is mobile and therefore doesn't appear on the poster map of Avernus or on {@adventure map 3.1|BGDIA|3|Map 3.1: Avernus}. From this flying fortress, Zariel oversees the defense of her infernal realm.",
+						"This 450-foot-tall structure is mobile and therefore doesn't appear on the poster map of Avernus or on {@area map 3.1|3cd|x}. From this flying fortress, Zariel oversees the defense of her infernal realm.",
 						"Attempting to infiltrate the fortress while it's on the move proves lethal due to the hundreds of devils onboard. While undergoing repairs and refueling at the Stygian Dock (see \"{@area Stygian Dock|285|x}\"), Zariel and most of her crew aren't present, leaving the fortress with a skeleton crew that consists of the following hostile forces:",
 						{
 							"type": "list",
@@ -15993,7 +15993,7 @@
 							"entries": [
 								"Characters can stow away inside the flying fortress while it's moored at the Stygian Dock, provided they sneak aboard without being detected. When the flying fortress is repaired and refueled, Zariel returns with the rest of her crew and takes the flying fortress to the front lines of the Blood War.",
 								"Whenever Zariel is aboard the flying fortress, its crew complement consists of hundreds of devils\u2014too many for characters to defeat without an army behind them. Deck patrols are bolstered by erinyes using {@sense truesight} to search for ethereal and {@condition invisible} enemies, making it unlikely that stowaways will stay hidden for long.",
-								"If the characters allow themselves to get caught, they are hauled before Zariel on the command deck, where she is joined by a {@creature pit fiend} general and six {@creature erinyes} bridge officers, including Nariangela. A dozen {@creature Bearded Devil||bearded devils} in plate armor (AC 18) stand guard. For advice on roleplaying Zariel, see {@adventure chapter 5|BGDIA|8}."
+								"If the characters allow themselves to get caught, they are hauled before Zariel on the command deck, where she is joined by a {@creature pit fiend} general and six {@creature erinyes} bridge officers, including Nariangela. A dozen {@creature Bearded Devil||bearded devils} in plate armor (AC 18) stand guard. For advice on roleplaying Zariel, see {@area chapter 5|315|x}."
 							]
 						},
 						{
@@ -16002,7 +16002,7 @@
 							"page": 132,
 							"id": "2b8",
 							"entries": [
-								"If the characters killed {@creature Thavius Kreeg|BGDIA} in {@adventure chapter 1|BGDIA|1}, his soul ends up in the Nine Hells, where it emerges from the River Styx as a lemure. Zariel instantly becomes aware of Thavius's fate and retrieves him. After promoting Thavius to an amnizu devil for his faithful service, Zariel confines him until Elturel's destruction. The characters find Thavius trapped in a cell aboard Zariel's flying fortress, feeling sorry for himself.",
+								"If the characters killed {@creature Thavius Kreeg|BGDIA} in {@area chapter 1|014|x}, his soul ends up in the Nine Hells, where it emerges from the River Styx as a lemure. Zariel instantly becomes aware of Thavius's fate and retrieves him. After promoting Thavius to an amnizu devil for his faithful service, Zariel confines him until Elturel's destruction. The characters find Thavius trapped in a cell aboard Zariel's flying fortress, feeling sorry for himself.",
 								"Characters who search the lower decks of Zariel's flying fortress hear sobs coming from an unguarded cellblock. If they investigate the sobbing, read the following boxed text to the players:",
 								{
 									"type": "insetReadaloud",
@@ -16022,7 +16022,7 @@
 								},
 								"The pitiable figure in the cell is {@creature Thavius Kreeg|BGDIA}, now an {@creature amnizu|MTF}. If the characters met Thavius when he was human, they recognize him in his devil form with a successful {@dc 10} Wisdom ({@skill Perception}) check. The locked cell door can be forced open with a successful {@dc 25} Strength ({@skill Athletics}) check, or a character can use {@item thieves' tools|phb} to try to pick its lock, doing so with a successful {@dc 20} Dexterity check.",
 								"Thavius poses no threat to the characters in his current predicament, and his shackles aren't long enough to let him get close to the cell door. Characters can kill him at range without even entering the cell, if they wish, by launching attacks through the bars. However, Thavius screams in agony whenever he takes damage, which might attract nearby patrols of bearded devils, at your discretion.",
-								"Once Elturel is pulled down into the River Styx, Thavius believes Zariel will set him free, but until then he's content to wallow in self-pity. He didn't expect to end up in the Nine Hells so soon. See {@adventure chapter 5|BGDIA|8} for more information on how to roleplay the devil Thavius.",
+								"Once Elturel is pulled down into the River Styx, Thavius believes Zariel will set him free, but until then he's content to wallow in self-pity. He didn't expect to end up in the Nine Hells so soon. See {@area chapter 5|315|x} for more information on how to roleplay the devil Thavius.",
 								{
 									"type": "entries",
 									"name": "Symbols and Shackles",
@@ -16101,7 +16101,7 @@
 					"width": 1000,
 					"height": 640
 				},
-				"The characters should be 11th level by the time they discover the location of the {@item Sword of Zariel|BGDIA}. The weapon awaits them in a cathedral formed out of positive energy. Avernus abhors the structure and has surrounded it in a bloody scab, earning it the name the Bleeding Citadel. This scab has also engulfed a demon named {@creature Crokek'toeck|BGDIA} that was sent by the demon lord Yeenoghu to devour the blade. The holy power of the citadel resists the scab's attempts to fully engulf it and make it one with Avernus, leaving the top of the citadel visible. The characters get directions to this location from {@creature Bel|BGDIA} or Olanthius in {@adventure chapter 3|BGDIA|3}.",
+				"The characters should be 11th level by the time they discover the location of the {@item Sword of Zariel|BGDIA}. The weapon awaits them in a cathedral formed out of positive energy. Avernus abhors the structure and has surrounded it in a bloody scab, earning it the name the Bleeding Citadel. This scab has also engulfed a demon named {@creature Crokek'toeck|BGDIA} that was sent by the demon lord Yeenoghu to devour the blade. The holy power of the citadel resists the scab's attempts to fully engulf it and make it one with Avernus, leaving the top of the citadel visible. The characters get directions to this location from {@creature Bel|BGDIA} or Olanthius in {@area chapter 3|199|x}.",
 				"Yeenoghu's demons carve tunnels through the scab as they search for a way to free {@creature Crokek'toeck|BGDIA} and break into the Bleeding Citadel, which is otherwise impenetrable. A nalfeshnee named Trantolox oversees this force.",
 				{
 					"type": "section",
@@ -16167,7 +16167,7 @@
 							"page": 135,
 							"id": "2c5",
 							"entries": [
-								"The following encounters are keyed to {@adventure map 4.1|BGDIA|7|Map 4.1: Side View of the Scab}. Because the scab wraps around the Bleeding Citadel, a creature can move off the left-hand side of the map onto the right-hand side of the map, or vice versa.",
+								"The following encounters are keyed to {@area map 4.1|3d4|x}. Because the scab wraps around the Bleeding Citadel, a creature can move off the left-hand side of the map onto the right-hand side of the map, or vice versa.",
 								{
 									"type": "entries",
 									"name": "S1. Oozing Entrance",
@@ -18164,7 +18164,7 @@
 						},
 						"{@creature Lulu|BGDIA} has all her hit points if she's restored to life by the citadel's magic. However, she has no memories between the time the characters last saw her and now.",
 						"The holy power of the citadel restores the characters, and they gain the benefits of a long rest. If a creature gained a flaw from a blood pool or similar effect, the flaw is removed. Casting {@spell detect magic} in the Bleeding Citadel reveals that the whole structure radiates auras of abjuration and evocation magic.",
-						"The interior of the citadel is one large alabaster chamber brightly lit by magically created sunlight shining through windows. The sword atop the dais is the {@item Sword of Zariel|BGDIA} (see {@adventure Appendix C|BGDIA|12}). The carvings on the dais read, in Celestial, \"The hero who becomes one with this blade exists no longer.\"",
+						"The interior of the citadel is one large alabaster chamber brightly lit by magically created sunlight shining through windows. The sword atop the dais is the {@item Sword of Zariel|BGDIA} (see {@area Appendix C|450|x}). The carvings on the dais read, in Celestial, \"The hero who becomes one with this blade exists no longer.\"",
 						"The characters can't claim the sword until they complete the Idyllglen memory (see \"{@area Idyllglen|2ed|x}\" below).",
 						{
 							"type": "entries",
@@ -18181,7 +18181,7 @@
 										"The solace of the cathedral is replaced by havoc, screams of panic, and acrid smoke. You stand at the edge of a small town of burning cottages, fields, and trees. A broken sign on the ground reveals the settlement's name: Idyllglen. Shrieking townsfolk run from cackling, snarling demons and gnolls."
 									]
 								},
-								"The characters are transported into {@creature Lulu|BGDIA}'s memory of Idyllglen near the west edge of Idyll Road ({@area area I1|2f6|x} on {@adventure map 4.2|BGDIA|7|Map 4.2: Idyllglen})."
+								"The characters are transported into {@creature Lulu|BGDIA}'s memory of Idyllglen near the west edge of Idyll Road ({@area area I1|2f6|x} on {@area map 4.2|3d5|x})."
 							]
 						}
 					]
@@ -18222,7 +18222,7 @@
 									"page": 140,
 									"id": "2f0",
 									"entries": [
-										"The characters are confined to the part of Idyllglen shown on {@adventure map 4.2|BGDIA|7|Map 4.2: Idyllglen}. Beyond the edges of the map, everything is engulfed in a smoky haze. Characters who fly or levitate to an altitude of 120 feet or higher find themselves engulfed in a similar smoky haze.",
+										"The characters are confined to the part of Idyllglen shown on {@area map 4.2|3d5|x}. Beyond the edges of the map, everything is engulfed in a smoky haze. Characters who fly or levitate to an altitude of 120 feet or higher find themselves engulfed in a similar smoky haze.",
 										"A creature that enters or starts its turn in the haze must make a {@dc 15} Wisdom saving throw, taking 22 ({@dice 4d10}) psychic damage on a failed save, or half as much damage on a successful one."
 									]
 								},
@@ -18232,7 +18232,7 @@
 									"page": 140,
 									"id": "2f1",
 									"entries": [
-										"The unlabeled buildings on {@adventure map 4.2|BGDIA|7|Map 4.2: Idyllglen} are homes and businesses that the gnolls have set ablaze. The buildings' supplies were taken by fleeing townsfolk or ransacked by Yeenoghu's horde. Each building is one or two stories tall (DM's choice) and 10 feet high per story. The interior rooms of the buildings have 9-foot-high ceilings with 8-foot-high doorways connecting them. A character can climb the walls of a building without equipment by succeeding on a {@dc 15} Strength ({@skill Athletics}) check.",
+										"The unlabeled buildings on {@area map 4.2|3d5|x} are homes and businesses that the gnolls have set ablaze. The buildings' supplies were taken by fleeing townsfolk or ransacked by Yeenoghu's horde. Each building is one or two stories tall (DM's choice) and 10 feet high per story. The interior rooms of the buildings have 9-foot-high ceilings with 8-foot-high doorways connecting them. A character can climb the walls of a building without equipment by succeeding on a {@dc 15} Strength ({@skill Athletics}) check.",
 										"A creature that starts its turn in or on a burning building must make a {@dc 15} Constitution saving throw, taking 10 ({@dice 3d6}) fire damage on a failed save, or half as much damage on a successful one."
 									]
 								},
@@ -18242,7 +18242,7 @@
 									"page": 140,
 									"id": "2f2",
 									"entries": [
-										"Each tree depicted on {@adventure map 4.2|BGDIA|7|Map 4.2: Idyllglen} is {@dice 1d6 + 10} feet tall and on fire. No ability check is required to climb a tree. However, a creature that starts its turn in a burning tree must make a {@dc 15} Constitution saving throw, taking 10 ({@dice 3d6}) fire damage on a failed save, or half as much damage on a successful one."
+										"Each tree depicted on {@area map 4.2|3d5|x} is {@dice 1d6 + 10} feet tall and on fire. No ability check is required to climb a tree. However, a creature that starts its turn in a burning tree must make a {@dc 15} Constitution saving throw, taking 10 ({@dice 3d6}) fire damage on a failed save, or half as much damage on a successful one."
 									]
 								},
 								{
@@ -18610,7 +18610,7 @@
 												"Six demons appear on the western edge of Idyllglen\u2014a hulking, ape-like brute and five small, doglike creatures with rubbery gray bodies and big ears. Cackles in the distance signal more enemies on the way."
 											]
 										},
-										"A {@creature barlgura} and five {@creature Dretch||dretches} appear on the western edge of {@adventure map 4.2|BGDIA|7|Map 4.2: Idyllglen}. If these demons notice the characters, they attack. If they don't notice the characters, they attack the temple ({@area area I3|2f8|x}), hoping to kill everyone within. At the start of the second round of combat, a {@creature gnoll pack lord} and six {@creature Gnoll||gnolls} join the fray from the south. At the start of the third round of combat, a {@creature vrock} swoops down from the sky to join the battle.",
+										"A {@creature barlgura} and five {@creature Dretch||dretches} appear on the western edge of {@area map 4.2|3d5|x}. If these demons notice the characters, they attack. If they don't notice the characters, they attack the temple ({@area area I3|2f8|x}), hoping to kill everyone within. At the start of the second round of combat, a {@creature gnoll pack lord} and six {@creature Gnoll||gnolls} join the fray from the south. At the start of the third round of combat, a {@creature vrock} swoops down from the sky to join the battle.",
 										{
 											"type": "entries",
 											"name": "Next Event",
@@ -18709,7 +18709,7 @@
 							]
 						},
 						"Any character who survived {@creature Lulu|BGDIA}'s memory of Idyllglen can pull the {@item Sword of Zariel|BGDIA} from the dais. Characters who died in Idyllglen are not able to remove the sword from the stone.",
-						"Once the sword is removed from its stone, a character can attune to it immediately if the sword deems that character worthy, and attuning to the sword changes the character irrevocably (see the item's description in {@adventure Appendix C|BGDIA|12}). When a character attunes to the sword, the citadel and the scab around it explode outward in blinding rays of light. Creatures in the scab take 110 ({@dice 20d10}) radiant damage and are hurled 1,000 feet away from the sword. Any demons that survive the explosion limp off to lick their wounds. Creatures inside the Bleeding Citadel are unharmed by the explosion and find themselves suddenly under Avernus's red sky.",
+						"Once the sword is removed from its stone, a character can attune to it immediately if the sword deems that character worthy, and attuning to the sword changes the character irrevocably (see the item's description in {@area Appendix C|450|x}). When a character attunes to the sword, the citadel and the scab around it explode outward in blinding rays of light. Creatures in the scab take 110 ({@dice 20d10}) radiant damage and are hurled 1,000 feet away from the sword. Any demons that survive the explosion limp off to lick their wounds. Creatures inside the Bleeding Citadel are unharmed by the explosion and find themselves suddenly under Avernus's red sky.",
 						"Once a character claims the {@item Sword of Zariel|BGDIA}, Yael's work is done. Her ghost bids the party good luck and fades away as her soul passes into the afterlife.",
 						"The destruction of the Bleeding Citadel restores all of {@creature Lulu|BGDIA}'s memories, which she can share with the characters. {@creature Lulu|BGDIA} continues to travel with the characters and encourages them to use the sword to redeem Zariel.",
 						{
@@ -18718,7 +18718,7 @@
 							"page": 145,
 							"id": "314",
 							"entries": [
-								"The characters should be at least 13th level before heading into {@adventure chapter 5|BGDIA|8} of the adventure."
+								"The characters should be at least 13th level before heading into {@area chapter 5|315|x} of the adventure."
 							]
 						}
 					]
@@ -18828,7 +18828,7 @@
 											]
 										},
 										"Characters who return with Elturel can find plenty to do in the city, aiding survivors and helping restore order in the aftermath of so much death and destruction. In addition to the leadership and magic the characters can lend to the people of Elturel, the planetar once bound within the Companion remains in the city for as long as it is needed, using its ability to raise the dead to restore as many of those lost to the destruction as it can.",
-										"In the longer term, the characters might also have loose ends in Baldur's Gate to take care of, especially if any villains in {@adventure chapter 1|BGDIA|1} were left alive to continue their dark plots.",
+										"In the longer term, the characters might also have loose ends in Baldur's Gate to take care of, especially if any villains in {@area chapter 1|014|x} were left alive to continue their dark plots.",
 										"Even if the tale of the two cities has been successfully completed to the characters' satisfaction, the events of the adventure continue to play out in Baldur's Gate and Elturel after the fact. In particular, if Grand Duke Ravengard survives and returns with Elturel, the survivors of the city will be greatly in his debt. Ravengard's efforts to defend the city should dramatically change the political landscape of Baldur's Gate and Elturel, ushering in an era of detente, if not full friendship and alliance, between the two cities."
 									]
 								}
@@ -18869,7 +18869,7 @@
 									"page": 148,
 									"id": "320",
 									"entries": [
-										"The {@creature pit fiend} Gargauth would like nothing more than to be released from its prison and replace Zariel as Lord of Avernus. If the characters possess the {@item Shield of the Hidden Lord|BGDIA}, they can free Gargauth as described in the item's description (see {@adventure Appendix C|BGDIA|12}).",
+										"The {@creature pit fiend} Gargauth would like nothing more than to be released from its prison and replace Zariel as Lord of Avernus. If the characters possess the {@item Shield of the Hidden Lord|BGDIA}, they can free Gargauth as described in the item's description (see {@area Appendix C|450|x}).",
 										"If released, Gargauth thanks the characters through tears of mirth. The pit fiend's first act is to produce a contract out of thin air, claiming that it will aid the characters in their quest to destroy Zariel if they sign it. The contract is full of convoluted text, and is summarized in its final clause: \"I, the undersigned, agree to form a compact with Gargauth, joining with it to destroy the archdevil Zariel. While bound by this compact, no intentional harm shall befall either party by the other party's hand, without voiding this agreement.\"",
 										"Gargauth takes joy in subverting ill-worded contracts and betraying those bound by them. Notably, the contract presented lasts only until Zariel is destroyed, after which point Gargauth intends to tear the adventurers limb from limb. Clever adventurers can subvert the pit fiend's betrayal by ensuring Zariel's capture, banishment, or some other nonlethal defeat.",
 										"In that event, though, Gargauth has left itself an easy out. The only consequence for harming an ally under the terms of the contract is the contract's immediate negation\u2014leaving Gargauth free to do whatever it sees fit. The pit fiend hopes that it can sneak this ruse through unchallenged, and argues fiercely if the characters spot this tricky phrase and demand its removal from the contract."
@@ -18912,7 +18912,7 @@
 									"page": 149,
 									"id": "323",
 									"entries": [
-										"Characters who choose to serve Zariel must sign a contract (see {@adventure appendix A|BGDIA|10}) forfeiting their souls to the archdevil. She then returns such characters to the Material Plane to do her bidding. Zariel has numerous schemes spinning at any given time, but the adventurers are particularly well suited to preparing Baldur's Gate to meet the same fate as Elturel. As a sign of favor, she bestows a charm upon each character (see \"{@area Archdevil Charms|414|x}\").",
+										"Characters who choose to serve Zariel must sign a contract (see {@area appendix A|3fd|x}) forfeiting their souls to the archdevil. She then returns such characters to the Material Plane to do her bidding. Zariel has numerous schemes spinning at any given time, but the adventurers are particularly well suited to preparing Baldur's Gate to meet the same fate as Elturel. As a sign of favor, she bestows a charm upon each character (see \"{@area Archdevil Charms|414|x}\").",
 										"Characters who die in Zariel's service are reborn as {@creature Lemure||lemures} from the River Styx. They lose all memories of their previous lives, and their alignment changes to lawful evil. If a character pleased Zariel with their loyalty in life, she might allow them to keep their memories as she promotes them to an NPC devil of your determination."
 									]
 								},
@@ -18982,7 +18982,7 @@
 							"id": "32e",
 							"entries": [
 								"Eight chains of infernal iron anchor Elturel to its binding posts, and each of those chains must be broken to free the city. If all the chains are broken, Elturel remains floating above Avernus and is no longer drawn toward the River Styx. However, the characters must still find a way to return the city to the Material Plane.",
-								"Each chain link is 30 feet long and 20 feet wide, and is formed of a welded loop of infernal iron that is 5 feet thick. A chain link is a Huge object with AC 19, 250 hit points, a damage threshold of 30, and immunity to poison and psychic damage. See {@adventure chapter 2|BGDIA|2} for information on moving along the chains and climbing the infernal iron posts they connect to.",
+								"Each chain link is 30 feet long and 20 feet wide, and is formed of a welded loop of infernal iron that is 5 feet thick. A chain link is a Huge object with AC 19, 250 hit points, a damage threshold of 30, and immunity to poison and psychic damage. See {@area chapter 2|112|x} for information on moving along the chains and climbing the infernal iron posts they connect to.",
 								{
 									"type": "entries",
 									"name": "Ire of Tiamat",
@@ -19037,7 +19037,7 @@
 											"id": "334",
 											"entries": [
 												"Characters hoping for a climactic battle against a worthy adversary won't find one by fighting {@creature Thavius Kreeg|BGDIA}. Despite the power he now possesses, the devil Thavius is a coward who would rather grovel than fight. Killing him marks a wretched end to a wretched life.",
-												"If the characters left Thavius alive in {@adventure chapter 1|BGDIA|1}, they must find a way back to the Material Plane to kill him. His location in Baldur's Gate (or the chance that he might have fled the city) is left to your determination, as is the process by which the characters can track down his devilish incarnation on Avernus after they return."
+												"If the characters left Thavius alive in {@area chapter 1|014|x}, they must find a way back to the Material Plane to kill him. His location in Baldur's Gate (or the chance that he might have fled the city) is left to your determination, as is the process by which the characters can track down his devilish incarnation on Avernus after they return."
 											]
 										},
 										{
@@ -19229,7 +19229,7 @@
 											"page": 155,
 											"id": "346",
 											"entries": [
-												"Lucille's {@item helm of devil command|BGDIA} and {@item battle standard of infernal power|BGDIA} are described in {@adventure appendix C|BGDIA|12}."
+												"Lucille's {@item helm of devil command|BGDIA} and {@item battle standard of infernal power|BGDIA} are described in {@area appendix C|450|x}."
 											]
 										}
 									]
@@ -20094,7 +20094,7 @@
 								"In the Outer City, murder is practically a way of life. With neither the Watch nor the Flaming Fist to look after residents, criminals run free in the sprawling district. Criminals use murder to keep order among their ranks and remove threats to their organization. So-called \"snuff streets\" hold the bodies of the dead, dumped by their murderers in piles along the lane. The most desperate of Outer City residents prowl the snuff streets, hoping to find a missed copper piece or a salvageable boot to pawn. They strip the teeth from bodies, cut off hair that might fetch a coin, and sometimes\u2014it is rumored\u2014slice flesh from the corpses to stave off starvation. Recent reports of ghoul activity in the Outer City likely have their origins in these snuff streets.",
 								"In the Lower City, murder is less common but remains a threat. Long-time residents know to travel in groups after dark. Those looking to earn a few coins sometimes linger outside of taverns, hiring out as escorts for drunken patrons. Revelers can stay as late as they wish and still get home safely, provided they hire someone trustworthy to guard their trip home.",
 								"Most murders in the Lower City have reasons behind them. The merchant found with his throat cut and pockets emptied, the husband murdered so his wife can marry her young mistress, the tyrannical shop owner stabbed by a desperate underling\u2014residents understand these crimes. What frightens people are the senseless murders. The man found ripped to pieces with his pockets still full of gold, the woman slaughtered so viciously that her grieving husband is sent to the asylum, the shop owner who suddenly strikes down his faithful clerk\u2014these are the crimes that lead to panic and wild rumors.",
-								"Some commoners claim that something about the city itself sparks violence in its citizens. A popular theory is that the spirits of the vicious pirates that once sailed the harbors still influence the city. Another is that the spirit of the long-executed serial murderer Alhasval Drenz, the Whitkeep Whistler, still stalks the city, possessing innocents to continue her unmatched killing spree. This adventure posits a third possibility: that the presence of the {@item Shield of the Hidden Lord|BGDIA} fuels the avarice and ambitions of evil-minded folk in Baldur's Gate. This magic item lies in a vault under Vanthampur Villa (see {@adventure chapter 1|BGDIA|1}) and has a pit fiend trapped inside it (see \"{@adventure Shield of the Hidden Lord|BGDIA|12|Shield of the Hidden Lord}\"). Were the shield to be taken from the city, the murder rate might drop suddenly.",
+								"Some commoners claim that something about the city itself sparks violence in its citizens. A popular theory is that the spirits of the vicious pirates that once sailed the harbors still influence the city. Another is that the spirit of the long-executed serial murderer Alhasval Drenz, the Whitkeep Whistler, still stalks the city, possessing innocents to continue her unmatched killing spree. This adventure posits a third possibility: that the presence of the {@item Shield of the Hidden Lord|BGDIA} fuels the avarice and ambitions of evil-minded folk in Baldur's Gate. This magic item lies in a vault under Vanthampur Villa (see {@area chapter 1|014|x}) and has a pit fiend trapped inside it. Were the shield to be taken from the city, the murder rate might drop suddenly.",
 								"It's unclear whether the rise of Bhaal's faith in Baldur's Gate stems from the frequency of murders, or if the murders spring from the worship of Bhaal. The Flaming Fist suspects a group of Bhaal worshipers behind a spate of recent similar murders, the victims stabbed to death and their own blood dribbled like a crown around their heads. The Fist's investigations have not yet resulted in an arrest, but officers suspect the murderers to be commoners with seemingly unremarkable lives covering their true, bloodthirsty natures.",
 								"In the Upper City, murder brings results. Muggings and crimes of opportunity are rare here. The Watch keeps Upper City residents safe from criminals and riffraff. The biggest threat to patriars are other patriars.",
 								"Bribery and blackmail can secure votes or sway an allegiance temporarily, but murder permanently changes the makeup of the Parliament of Peers. Several elite assassins exclusively take on political targets. The Watch puts little effort into tracking down expert assassins, knowing that arresting one means possibly exposing a whole cadre of powerful patriars. The wrath that would fall on the Watch isn't worth putting one assassin in the cells."
@@ -20109,7 +20109,7 @@
 					"id": "379",
 					"entries": [
 						"Today, Baldur's Gate is split into three districts: the wealthy Upper City on the hills above the docks, the bustling Lower City around the harbor, and the lawless Outer City (which includes all neighborhoods outside the city walls). Regardless of what district one might be visiting, certain features are impossible to ignore, like the wash of Gray Harbor, the shadows of Dusthawk Hill, or the gates that contribute to the city's name.",
-						"Important landmarks are marked on the large map of the city ({@adventure map 6.2|BGDIA|9|Map 6.2: Baldur's Gate}), which shows the entirety of Baldur's Gate and its immediate surroundings.",
+						"Important landmarks are marked on the large map of the city ({@area map 6.2|3d6|x}), which shows the entirety of Baldur's Gate and its immediate surroundings.",
 						{
 							"type": "entries",
 							"name": "The Gates",
@@ -20448,7 +20448,7 @@
 							"page": 178,
 							"id": "385",
 							"entries": [
-								"Despite its well-policed streets and decorous homes, the Upper City harbors secrets both marvelous and scandalous. Some of its most notable locales are described below in alphabetical order. These locations are also marked on the map of Baldur's Gate ({@adventure map 6.2|BGDIA|9|Map 6.2: Baldur's Gate}).",
+								"Despite its well-policed streets and decorous homes, the Upper City harbors secrets both marvelous and scandalous. Some of its most notable locales are described below in alphabetical order. These locations are also marked on the map of Baldur's Gate ({@area map 6.2|3d6|x}).",
 								{
 									"type": "entries",
 									"name": "Bormul House",
@@ -20624,7 +20624,7 @@
 									"page": 183,
 									"id": "395",
 									"entries": [
-										"Duke Vanthampur can't stand the rank gossip that hangs in the air of the Manorborn neighborhood. Thus, her estate lies in the Temples neighborhood of the Upper City, as far away from the other patriars as one can get while still being visible to them. For more information on this estate, see {@adventure chapter 1|BGDIA|1}."
+										"Duke Vanthampur can't stand the rank gossip that hangs in the air of the Manorborn neighborhood. Thus, her estate lies in the Temples neighborhood of the Upper City, as far away from the other patriars as one can get while still being visible to them. For more information on this estate, see {@area chapter 1|014|x}."
 									]
 								},
 								{
@@ -20935,7 +20935,7 @@
 							"page": 186,
 							"id": "39e",
 							"entries": [
-								"Presented below in alphabetical order are some of the most noteworthy Lower City locations. These locations are also marked on the city map ({@adventure map 6.2|BGDIA|9|Map 6.2: Baldur's Gate}).",
+								"Presented below in alphabetical order are some of the most noteworthy Lower City locations. These locations are also marked on the city map ({@area map 6.2|3d6|x}).",
 								{
 									"type": "entries",
 									"name": "Baldur's Mouth",
@@ -21007,7 +21007,7 @@
 									"id": "3a5",
 									"entries": [
 										"Despite its rough-and-tumble clientele, this tavern is one of the most popular in Baldur's Gate. At infrequent and seemingly random intervals, a disembodied elven voice cuts through the crowd, its song haunting enough to magically dim the room's lanterns and make even the bar's most hardened customers weep.",
-										"For more information about this establishment, see {@adventure chapter 1|BGDIA|1}."
+										"For more information about this establishment, see {@area chapter 1|014|x}."
 									]
 								},
 								{
@@ -21081,7 +21081,7 @@
 									"entries": [
 										"This old, three-masted ship rocks gently in the water alongside Stormshore Street Dock on the harbor's eastern side. A notorious festhall and tavern, the ship is no longer seaworthy and is in desperate need of repair.",
 										"On warm days and evenings, respectable clients can sit at tables on the upper deck beneath hanging lanterns, smoking and drinking between wagers, while a more raucous crowd congregates around bars and gambling tables on the decks below.",
-										"For more information about this establishment, see {@adventure chapter 1|BGDIA|1}."
+										"For more information about this establishment, see {@area chapter 1|014|x}."
 									]
 								},
 								{
@@ -21973,7 +21973,7 @@
 								],
 								[
 									"6",
-									"Falaster Fisk (see \"{@adventure Falaster Fisk|BGDIA|1|Falaster Fisk}\")"
+									"Falaster Fisk (see \"{@area Falaster Fisk|0d5|x}\")"
 								],
 								[
 									"7",
@@ -23842,7 +23842,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3da"
 				},
 				{
 					"type": "section",
@@ -23866,7 +23867,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3db"
 				},
 				{
 					"type": "section",
@@ -23890,7 +23892,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3dc"
 				},
 				{
 					"type": "section",
@@ -23914,7 +23917,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3dd"
 				},
 				{
 					"type": "section",
@@ -23938,7 +23942,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3de"
 				},
 				{
 					"type": "section",
@@ -23962,7 +23967,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3df"
 				},
 				{
 					"type": "section",
@@ -23986,7 +23992,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e0"
 				},
 				{
 					"type": "section",
@@ -24010,7 +24017,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e1"
 				},
 				{
 					"type": "section",
@@ -24034,7 +24042,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e2"
 				},
 				{
 					"type": "section",
@@ -24058,7 +24067,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e3"
 				},
 				{
 					"type": "section",
@@ -24082,7 +24092,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e4"
 				},
 				{
 					"type": "section",
@@ -24106,7 +24117,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e5"
 				},
 				{
 					"type": "section",
@@ -24130,7 +24142,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e6"
 				},
 				{
 					"type": "section",
@@ -24154,7 +24167,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e7"
 				},
 				{
 					"type": "section",
@@ -24178,7 +24192,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e8"
 				},
 				{
 					"type": "section",
@@ -24202,7 +24217,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3e9"
 				},
 				{
 					"type": "section",
@@ -24226,7 +24242,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3ea"
 				},
 				{
 					"type": "section",
@@ -24250,7 +24267,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "3eb"
 				},
 				{
 					"type": "section",
@@ -24274,7 +24292,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "415"
 				},
 				{
 					"type": "section",
@@ -24298,7 +24317,8 @@
 							"source": "VGM",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "416"
 				},
 				{
 					"type": "section",
@@ -24311,7 +24331,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "417"
 				},
 				{
 					"type": "section",
@@ -24335,7 +24356,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "418"
 				},
 				{
 					"type": "section",
@@ -24359,7 +24381,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "419"
 				},
 				{
 					"type": "section",
@@ -24383,7 +24406,8 @@
 							"source": "BGDIA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "41a"
 				}
 			]
 		},

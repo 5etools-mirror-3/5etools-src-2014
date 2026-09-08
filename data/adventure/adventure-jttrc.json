@@ -57,7 +57,7 @@
 									"page": 4,
 									"id": "005",
 									"entries": [
-										"The locations in this book can be incorporated into any D&D setting or a world of your own design. Each adventure includes a \"Setting the Adventure\" section that suggests where you might place the adventure. Weave these locations into your version of your favorite world, adding them where you like\u2014even replacing other lands on your world map. Alternatively, use the {@adventure Radiant Citadel|JttRC|1} or planes-spanning magic to place these locations in entirely new worlds, and use them as the thresholds of realms defined how you please.",
+										"The locations in this book can be incorporated into any D&D setting or a world of your own design. Each adventure includes a \"Setting the Adventure\" section that suggests where you might place the adventure. Weave these locations into your version of your favorite world, adding them where you like\u2014even replacing other lands on your world map. Alternatively, use the {@area Radiant Citadel|00d|x} or planes-spanning magic to place these locations in entirely new worlds, and use them as the thresholds of realms defined how you please.",
 										{
 											"type": "table",
 											"caption": "Journeys through the Radiant Citadel",
@@ -74,67 +74,67 @@
 											"rows": [
 												[
 													"1\u20132",
-													"{@adventure \"Salted Legacy\"|JttRC|2}",
+													"{@area \"Salted Legacy\"|03c|x}",
 													"A conflict between rival night market vendors draws characters into a hunt for a mysterious saboteur and a series of whimsical contests."
 												],
 												[
 													"3",
-													"{@adventure \"Written in Blood\"|JttRC|3}",
+													"{@area \"Written in Blood\"|08f|x}",
 													"A community is terrorized by a horror lurking in a distant farmhouse."
 												],
 												[
 													"4",
-													"{@adventure \"The Fiend of Hollow Mine\"|JttRC|4}",
+													"{@area \"The Fiend of Hollow Mine\"|0ec|x}",
 													"The cure for a spreading curse leads from an abandoned mine to a city celebrating the departed."
 												],
 												[
 													"5",
-													"{@adventure \"Wages of Vice\"|JttRC|5}",
+													"{@area \"Wages of Vice\"|162|x}",
 													"A murderer stalks the streets during a raucous festival."
 												],
 												[
 													"6",
-													"{@adventure \"Sins of the Elders\"|JttRC|6}",
+													"{@area \"Sins of the Elders\"|1aa|x}",
 													"A slighted spirit takes vengeance on the community that forgot her by stealing their memories."
 												],
 												[
 													"7",
-													"{@adventure \"Gold for Fools and Princes\"|JttRC|7}",
+													"{@area \"Gold for Fools and Princes\"|1f6|x}",
 													"Mysterious creatures cause a gold mine to collapse, precipitating a race between rival princes to save those trapped."
 												],
 												[
 													"8",
-													"{@adventure \"Trail of Destruction\"|JttRC|8}",
+													"{@area \"Trail of Destruction\"|248|x}",
 													"A legendary creature reawakens and begins a chain reaction of volcanic eruptions that threaten the land."
 												],
 												[
 													"9",
-													"{@adventure \"In the Mists of Manivarsha\"|JttRC|9}",
+													"{@area \"In the Mists of Manivarsha\"|29e|x}",
 													"A local champion goes missing after a deadly flood, leading to a search for her along the rivers of a vast swamp."
 												],
 												[
 													"10",
-													"{@adventure \"Between Tangled Roots\"|JttRC|10}",
+													"{@area \"Between Tangled Roots\"|2e6|x}",
 													"Rageful spirits provoke a dragon to go on a deadly rampage."
 												],
 												[
 													"11",
-													"{@adventure \"Shadow of the Sun\"|JttRC|11}",
+													"{@area \"Shadow of the Sun\"|338|x}",
 													"Rival factions clash in an angel-ruled city on the brink of rebellion."
 												],
 												[
 													"12",
-													"{@adventure \"The Nightsea's Succor\"|JttRC|12}",
+													"{@area \"The Nightsea's Succor\"|3bd|x}",
 													"A quest for ancient lore reveals threats from the past and leads to a mysterious nation beneath the waves."
 												],
 												[
 													"13",
-													"{@adventure \"Buried Dynasty\"|JttRC|13}",
+													"{@area \"Buried Dynasty\"|42f|x}",
 													"Agents of a long-lived emperor seek a timeless secret to keep their ruler in power at any cost."
 												],
 												[
 													"14",
-													"{@adventure \"Orchids of the Invisible Mountain\"|JttRC|14}",
+													"{@area \"Orchids of the Invisible Mountain\"|49e|x}",
 													"Adventurers must travel to the Feywild and the Far Realm to prevent otherworldly forces from tearing a land apart."
 												]
 											]
@@ -1155,7 +1155,7 @@
 						"{@creature Sholeh|JttRC} gathered a mighty expeditionary force of adventurers from the civilizations she believed originally created the Radiant Citadel. Their travels took them across perilous planes and to distant worlds, and many died or gave up in despair. Only a quarter of the heroes who set out completed {@creature Sholeh|JttRC}'s quest, but the adventurers' sacrifices were rewarded. In the depths of the Ethereal Plane, the Radiant Citadel lay dormant and abandoned by all but the Incarnates of the Preserve of the Ancestors. Yet it was undiminished in its grandeur, waiting for its inheritors to reawaken its power for a new era.",
 						"Many believe that the full potential of the Radiant Citadel can be unlocked only when the twelve missing civilizations are found and their representatives join the Speakers for the Ancestors. Some hypothesize the Citadel can unleash an incredible weapon, while others believe the Concord Jewels can be used to travel anywhere in the multiverse, or that the Radiant Citadel can be shifted between planes. The most fervent dream about tapping the power of the Auroral Diamond to resurrect lost civilizations and worlds.",
 						"Some scholars studying the Radiant Citadel's origins posit that the Citadel is a relic of the mythical First World and was a vital center of diplomacy between great cultures before a cataclysm shattered that world. Others speculate that it was a fortress, a refuge, or even a weapon in a war that transpired in the last days of the First World. Thus far, the Dawn Incarnates have declined to answer scholars' questions on the subject.",
-						"Recently, two founding civilizations were discovered and reconnected to the Citadel: the Tayyib Empire and Umizu (detailed in \"{@adventure Beyond the Radiant Citadel|JttRC|15}\" at the end of this book). This success has prompted new rumors in the Court of Whispers about the twelve civilizations still missing and how they might be found."
+						"Recently, two founding civilizations were discovered and reconnected to the Citadel: the Tayyib Empire and Umizu (detailed in \"{@area Beyond the Radiant Citadel|523|x}\" at the end of this book). This success has prompted new rumors in the Court of Whispers about the twelve civilizations still missing and how they might be found."
 					]
 				},
 				{
@@ -1179,15 +1179,15 @@
 							"rows": [
 								[
 									"1",
-									"A revolutionary from San Citlán tries to hire the party in the Court of Whispers to uncover the plot of a corrupt council member in their homeland (see the adventure \"{@adventure The Fiend of Hollow Mine|JttRC|4}\")."
+									"A revolutionary from San Citlán tries to hire the party in the Court of Whispers to uncover the plot of a corrupt council member in their homeland (see the adventure \"{@area The Fiend of Hollow Mine|0ec|x}\")."
 								],
 								[
 									"2",
-									"The committee that oversees the Trade Discal asks the party to negotiate with {@creature Atash|JttRC}, the angelic ruler of Akharin Sangar, for increased trade with the Radiant Citadel (see the adventure \"{@adventure Shadow of the Sun|JttRC|11}\")."
+									"The committee that oversees the Trade Discal asks the party to negotiate with {@creature Atash|JttRC}, the angelic ruler of Akharin Sangar, for increased trade with the Radiant Citadel (see the adventure \"{@area Shadow of the Sun|338|x}\")."
 								],
 								[
 									"3",
-									"The Dawn Incarnate of Atagua declares it is willing to reveal the location of one of the missing civilizations if the characters prevent an alien evil from encroaching on Atagua (see the adventure \"{@adventure Orchids of the Invisible Mountain|JttRC|14}\")."
+									"The Dawn Incarnate of Atagua declares it is willing to reveal the location of one of the missing civilizations if the characters prevent an alien evil from encroaching on Atagua (see the adventure \"{@area Orchids of the Invisible Mountain|49e|x}\")."
 								],
 								[
 									"4",
@@ -2151,7 +2151,7 @@
 												"The ladder descends into a dimly lit room smelling of dust and sweet spices. Musty furniture and crates are strewn about the space. A door leads north."
 											]
 										},
-										"The challenge area is depicted on {@adventure map 2.2|JttRC|2|Map 2.2: market challenges} and includes seven rooms. Unlocked doors connect the spaces, all of which are filled with colorful but worthless clutter. The doors are rickety and fit loosely in their frames, allowing tut-krogh caterpillars to move between the rooms unimpeded. Area H1 is lit by a lantern shedding {@quickref Vision and Light|PHB|2||dim light}; the other areas are dark.",
+										"The challenge area is depicted on {@area map 2.2|53a|x} and includes seven rooms. Unlocked doors connect the spaces, all of which are filled with colorful but worthless clutter. The doors are rickety and fit loosely in their frames, allowing tut-krogh caterpillars to move between the rooms unimpeded. Area H1 is lit by a lantern shedding {@quickref Vision and Light|PHB|2||dim light}; the other areas are dark.",
 										{
 											"type": "entries",
 											"name": "Starting the Challenge",
@@ -7805,7 +7805,7 @@
 										{
 											"type": "item",
 											"name": "Languages",
-											"entry": "The language of San Citlán is Citlanés, which is related to Tletlahtolli (the language of Tletepec; see the adventure \"{@adventure Trail of Destruction|JttRC|8}\") and the language of previous colonizers. Most people also speak Common."
+											"entry": "The language of San Citlán is Citlanés, which is related to Tletlahtolli (the language of Tletepec; see the adventure \"{@area Trail of Destruction|248|x}\") and the language of previous colonizers. Most people also speak Common."
 										}
 									]
 								}
@@ -8509,7 +8509,7 @@
 											"page": 70,
 											"id": "17b",
 											"entries": [
-												"The merchant uses the {@creature veteran} stat block, except his only weapon is a makeshift club\u2014treat it as a longsword that deals bludgeoning damage. He initially focuses his attack on the fallen man but randomly attacks any creature within reach. The merchant has been affected by a poison made by Kala called {@item biza's breath|JttRC} ({@adventure see the sidebar|JttRC|5|Biza's Breath (Inhaled)}). A character who succeeds on a {@dc 14} Wisdom ({@skill Medicine}) check notices that the man's glassy eyes and puppet-like movement suggest he has been drugged in some way. A {@spell protection from poison} spell or similar magic ends the effect on the merchant."
+												"The merchant uses the {@creature veteran} stat block, except his only weapon is a makeshift club\u2014treat it as a longsword that deals bludgeoning damage. He initially focuses his attack on the fallen man but randomly attacks any creature within reach. The merchant has been affected by a poison made by Kala called {@item biza's breath|JttRC} ({@area see the sidebar|17e|x}). A character who succeeds on a {@dc 14} Wisdom ({@skill Medicine}) check notices that the man's glassy eyes and puppet-like movement suggest he has been drugged in some way. A {@spell protection from poison} spell or similar magic ends the effect on the merchant."
 											]
 										},
 										{
@@ -8830,7 +8830,7 @@
 											"page": 74,
 											"id": "194",
 											"entries": [
-												"The two {@creature Guard||guards} are affected by the poison {@item biza's breath|JttRC} ({@adventure detailed in a sidebar|JttRC|5|Biza's Breath (Inhaled)} earlier in this adventure). They automatically fail their saving throws to end the poison's effect. The guards make one melee attack against a randomly determined creature within reach each round for 1 minute before the poison's effect ends."
+												"The two {@creature Guard||guards} are affected by the poison {@item biza's breath|JttRC} ({@area detailed in a sidebar|17e|x} earlier in this adventure). They automatically fail their saving throws to end the poison's effect. The guards make one melee attack against a randomly determined creature within reach each round for 1 minute before the poison's effect ends."
 											]
 										},
 										{
@@ -30555,7 +30555,7 @@
 										"Two wizened trees stand before the Silver Tapir Monastery, their ancient boughs lit by dusk light. Between them stretches the {@i Hammock of Worlds}, its patterned fabric loose and empty. Soon the Green Doctors and other visitors who have come to participate in the ritual begin a rhythmic drumming. All around the monastery, the dance begins, with the sound of drums, flutes, harps, and chants rising. Mystics, people from nearby villages, thri-kreen travelers, and even enthusiastic capybaras shuffle and gyrate in time to the music. As they do, the hammock sags and an otherworldly glow emanates from within it."
 									]
 								},
-								"At the height of the ritual, Melecio uses the hammock to open a portal to the Far Realm. When the characters are ready, they can pass through the portal, arriving inside the Drought Elder ({@adventure area D1|JttRC|14|D1: Egg Chamber}).",
+								"At the height of the ritual, Melecio uses the hammock to open a portal to the Far Realm. When the characters are ready, they can pass through the portal, arriving inside the Drought Elder ({@area area D1|4fe|x}).",
 								{
 									"type": "image",
 									"href": {
@@ -30595,7 +30595,7 @@
 											"page": 215,
 											"id": "4fc",
 											"entries": [
-												"Characters can access the exterior of the Drought Elder's carapace from {@adventure areas D3|JttRC|14|D3: Void Striders} and {@adventure D5|JttRC|14|D5: Mandible Walk}. It can be climbed by any creature that succeeds on a {@dc 16} Strength ({@skill Athletics}) check. However, traveling outside the carapace beyond area D3 or {@dice D5} attracts the attention of {@dice 1d3} {@creature Whistler|JttRC|whistlers} every minute. These whistlers are hostile.",
+												"Characters can access the exterior of the Drought Elder's carapace from {@area areas D3|505|x} and {@area D5|50d|x}. It can be climbed by any creature that succeeds on a {@dc 16} Strength ({@skill Athletics}) check. However, traveling outside the carapace beyond area D3 or {@dice D5} attracts the attention of {@dice 1d3} {@creature Whistler|JttRC|whistlers} every minute. These whistlers are hostile.",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",

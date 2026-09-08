@@ -477,12 +477,12 @@
 					"name": "Choosing a Guild",
 					"page": 11,
 					"entries": [
-						"{@book Chapter 2|GGR|2} describes the ten guilds of Ravnica in detail. How do you decide what guild you want your character to belong to? You can choose one of these approaches:",
+						"{@area Chapter 2|030|x} describes the ten guilds of Ravnica in detail. How do you decide what guild you want your character to belong to? You can choose one of these approaches:",
 						{
 							"type": "list",
 							"items": [
 								"Look at the questionnaire, \"What's Important to Me?\", in this chapter. Let its questions and your choice of answers direct you to a guild that appeals to you or that sounds like a fun character to play.",
-								"Read the guild descriptions in {@book chapter 2|GGR|2} and choose one that appeals to you.",
+								"Read the guild descriptions in {@area chapter 2|030|x} and choose one that appeals to you.",
 								"Read the descriptions of races and classes in this chapter. Guild membership recommendations are provided for each race and class, should one catch your eye.",
 								"If you have access to Magic: The Gathering cards from a Ravnica set, find a card that appeals to you and build that character.",
 								"If you're a Magic player and you already have a favorite guild, create a character from that guild."
@@ -497,8 +497,8 @@
 									"name": "Guildless Characters",
 									"page": 11,
 									"entries": [
-										"You can play a character who isn't a member of a guild. Choose one of the character backgrounds in the {@book Player's Handbook|PHB} or another source instead of one of the guild backgrounds in {@book chapter 2|GGR|2}. Your guildless character can be of any class, race, and alignment. At the DM's option, you might have contacts within guilds, or the DM can invent contacts for you that aren't associated with the guilds of Ravnica in any way.",
-										"If you want your character to join a guild at a later time, the same guidelines apply as if the person were changing guilds, as described in {@book chapter 2|GGR|2}."
+										"You can play a character who isn't a member of a guild. Choose one of the character backgrounds in the {@book Player's Handbook|PHB} or another source instead of one of the guild backgrounds in {@area chapter 2|030|x}. Your guildless character can be of any class, race, and alignment. At the DM's option, you might have contacts within guilds, or the DM can invent contacts for you that aren't associated with the guilds of Ravnica in any way.",
+										"If you want your character to join a guild at a later time, the same guidelines apply as if the person were changing guilds, as described in {@area chapter 2|030|x}."
 									],
 									"id": "00f"
 								}
@@ -510,7 +510,7 @@
 							"name": "Race and Class",
 							"page": 11,
 							"entries": [
-								"Each guild description in {@book chapter 2|GGR|2} provides suggested races and classes for characters belonging to that guild. Some races have strong traditions that direct them toward certain guilds, but exceptions exist. If you choose a class or a race that's not typical for your guild, you might have trouble finding a role in the guild\u2014or, more accurately, your superiors might have trouble figuring out what to do with you\u2014but that challenge can be an interesting facet of your character's development. An atypical choice can also motivate your character to adventure independently from the guild.",
+								"Each guild description in {@area chapter 2|030|x} provides suggested races and classes for characters belonging to that guild. Some races have strong traditions that direct them toward certain guilds, but exceptions exist. If you choose a class or a race that's not typical for your guild, you might have trouble finding a role in the guild\u2014or, more accurately, your superiors might have trouble figuring out what to do with you\u2014but that challenge can be an interesting facet of your character's development. An atypical choice can also motivate your character to adventure independently from the guild.",
 								"This chapter describes new races you can choose from: centaurs, goblins, loxodons, minotaurs, Simic hybrids, and vedalken. It also presents two new subclass options: the cleric's Order Domain and the druid's Circle of Spores. Every subclass in the {@book Player's Handbook|PHB} also receives a mention in this chapter, indicating the guilds where characters of those subclasses might find a home.",
 								"Once you've chosen your race and class and recorded the benefits you get from them, you can proceed with the remaining steps of character creation as described in the {@book Player's Handbook|PHB}."
 							],
@@ -521,8 +521,8 @@
 							"name": "Building a Party",
 							"page": 11,
 							"entries": [
-								"It's possible to put together a diverse party of D&D characters drawn from a single guild. The guild descriptions in {@book chapter 2|GGR|2} offer suggestions for what such a party might look like. Conversely, your party can include members of different guilds united by alliances or common principles. Or they could be childhood friends who ended up in different guilds, or just a haphazard collection of individuals thrown together by unforeseen circumstances. The Party Makeup table in this section offers suggestions for how you might compose your party.",
-								"The tables of contacts in {@book chapter 2|GGR|2} can also help you create connections among the characters in your party. Those tables describe family relationships, current and former romantic connections, random acquaintances, past rivals, and many other ties that form among people in different guilds. Let these tables inspire you as you think about the circumstances that bring your party together.",
+								"It's possible to put together a diverse party of D&D characters drawn from a single guild. The guild descriptions in {@area chapter 2|030|x} offer suggestions for what such a party might look like. Conversely, your party can include members of different guilds united by alliances or common principles. Or they could be childhood friends who ended up in different guilds, or just a haphazard collection of individuals thrown together by unforeseen circumstances. The Party Makeup table in this section offers suggestions for how you might compose your party.",
+								"The tables of contacts in {@area chapter 2|030|x} can also help you create connections among the characters in your party. Those tables describe family relationships, current and former romantic connections, random acquaintances, past rivals, and many other ties that form among people in different guilds. Let these tables inspire you as you think about the circumstances that bring your party together.",
 								"Although conflicts among the guilds drive much of the action in a Ravnica campaign, it's important not to let that tension cause too much friction in a party of adventurers. The D&D game relies on cooperation among the players, so it's helpful for the player characters to find common ground that unites them despite their differences in guild affiliation, ideals, and agendas. Even though some guild leaders (especially the villainous ones) might talk about exterminating or dominating other guilds, many guild members have family, lovers, friends, and acquaintances among other guilds. Those positive associations can bind an adventuring party together.",
 								"The DM can also use the Common Cause table in this section to find a way to bring together characters who don't know or trust each other.",
 								{
@@ -539,7 +539,7 @@
 									"rows": [
 										[
 											"1",
-											"{@b One-Guild Party}. Choose a guild and refer to its description in {@book chapter 2|GGR|2} for suggestions on building the party around it."
+											"{@b One-Guild Party}. Choose a guild and refer to its description in {@area chapter 2|030|x} for suggestions on building the party around it."
 										],
 										[
 											"2",
@@ -1898,7 +1898,7 @@
 											"name": "Lawmages",
 											"page": 33,
 											"entries": [
-												"As a spellcaster in the Azorius Senate, you use your magic to compel or restrain malefactors and scofflaws (perhaps as a wizard specialized in the School of Enchantment). You might also use your magic to protect Azorius soldiers and innocent bystanders from harm (perhaps as a wizard specialized in the School of Abjuration or as a cleric of the Order Domain, which is described in {@book chapter 1|GGR|1}). In any case, you're called a lawmage, and you can aspire to the title of justiciar and then deputy as your standing within the guild increases."
+												"As a spellcaster in the Azorius Senate, you use your magic to compel or restrain malefactors and scofflaws (perhaps as a wizard specialized in the School of Enchantment). You might also use your magic to protect Azorius soldiers and innocent bystanders from harm (perhaps as a wizard specialized in the School of Abjuration or as a cleric of the Order Domain, which is described in {@area chapter 1|00c|x}). In any case, you're called a lawmage, and you can aspire to the title of justiciar and then deputy as your standing within the guild increases."
 											],
 											"id": "042"
 										},
@@ -2023,7 +2023,7 @@
 												"If you are a scribe, you become an emissary."
 											]
 										},
-										"You are recognized as an authority in your field. You gain an {@reward Azorius charm|GGR} (described in {@book chapter 5|GGR|5}) at the start of each mission you undertake on the guild's behalf. At the start of any such mission, you can secure the assistance of a squad of {@dice 1d4} arresters (use the {@creature soldier|GGR} stat block) plus one {@creature lawmage|GGR}. These individuals remain with you until the mission ends.",
+										"You are recognized as an authority in your field. You gain an {@reward Azorius charm|GGR} (described in {@area chapter 5|19f|x}) at the start of each mission you undertake on the guild's behalf. At the start of any such mission, you can secure the assistance of a squad of {@dice 1d4} arresters (use the {@creature soldier|GGR} stat block) plus one {@creature lawmage|GGR}. These individuals remain with you until the mission ends.",
 										"Between adventures, you earn enough money pursuing your duties to support yourself at a comfortable lifestyle."
 									],
 									"id": "04b"
@@ -2362,7 +2362,7 @@
 										"{@i Prerequisite: Rank 1 and renown 10 or higher in the Boros Legion}",
 										"As a brigadier, you are responsible for missions and strategies that you can't execute entirely on your own or with the aid of a handful of soldiers. After receiving goals handed down from the captain above you, it's your job to figure out the tactics needed to accomplish those goals.",
 										"You lead a brigade that consists of six squads, each made up of four soldiers commanded by a sergeant (use the {@creature soldier|GGR} stat block to represent them). If you are also a skyknight, at least one of these squads is made up of other skyknights, which are {@creature Soldier|GGR|soldiers} mounted on {@creature Skyjek roc|GGR|Skyjek rocs}. You can assign these squads to tasks of your choosing within the area of the city where you have authority. You can also lead these soldiers into battle yourself, or bring one squad and its sergeant with you on a guild mission.",
-										"At this rank, you gain a {@reward Boros charm|ggr} (described in {@book chapter 5|GGR|5}) at the start of each mission you undertake on the guild's behalf. You continue to receive a salary sufficient to maintain a modest lifestyle, but your quarters in the garrison are more spacious."
+										"At this rank, you gain a {@reward Boros charm|ggr} (described in {@area chapter 5|19f|x}) at the start of each mission you undertake on the guild's behalf. You continue to receive a salary sufficient to maintain a modest lifestyle, but your quarters in the garrison are more spacious."
 									],
 									"id": "05e"
 								},
@@ -2598,7 +2598,7 @@
 									"entries": [
 										"{@i Prerequisite: Renown 3 or higher in House Dimir}",
 										"As an independent agent, you have considerable latitude in the way you choose to implement your mission goals.",
-										"You acquire a {@item Spies' Murmur|GGR|spies' murmur} (described in {@book chapter 5|GGR|5})\u2014a magic device that allows you to communicate telepathically with other Dimir agents who wear similar items. If this item is lost or destroyed, it's up to you to secure a replacement."
+										"You acquire a {@item Spies' Murmur|GGR|spies' murmur} (described in {@area chapter 5|19f|x})\u2014a magic device that allows you to communicate telepathically with other Dimir agents who wear similar items. If this item is lost or destroyed, it's up to you to secure a replacement."
 									],
 									"id": "06b"
 								},
@@ -2609,7 +2609,7 @@
 									"entries": [
 										"{@i Prerequisite: Renown 10 or higher in House Dimir}",
 										"By the time you reach this level of renown in House Dimir, you are amassing a significant collection of secrets about the people and places around you. You know the location of a hidden safe house where you can take shelter in case of dire need. At the DM's discretion, you might also know (or be able to find out) a secret about a person or group who lives or operates in a neighborhood you're familiar with. The secret is typically a person's flaw or details about a dark episode in a group's past. Whatever it is, the secret is a weakness that can be used to manipulate the person or group to assist you or your associates.",
-										"In addition, you gain a {@reward Dimir charm|ggr} (described in {@book chapter 5|GGR|5}) at the start of each mission you undertake on the guild's behalf."
+										"In addition, you gain a {@reward Dimir charm|ggr} (described in {@area chapter 5|19f|x}) at the start of each mission you undertake on the guild's behalf."
 									],
 									"id": "06c"
 								},
@@ -2809,7 +2809,7 @@
 									"page": 52,
 									"entries": [
 										"Similar to a {@creature swarm of insects}, the Golgari collectively behave more like a single organism than a scattering of individuals. New members aren't recruited or initiated into the Golgari Swarm; you have been absorbed and incorporated, and the biological system of the swarm funneled you to where your talents are most needed to contribute to the health of the guild. Your position within the guild is defined by your capabilities.",
-										"You might act as a shaman of the Golgari if you are a spellcaster\u2014perhaps a wizard specialized in the School of Necromancy, a druid of the Circle of the Land, or a druid of the Circle of Spores (described in {@book chapter 1|GGR|1}). In this revered position, you teach and advise other members of the swarm, keeping them attuned to the natural cycle of death and regrowth. You might manipulate that natural cycle by wielding the magic of death, snuffing out life and reanimating the dead. Or you might wield your magic to spread fungal rot and noxious gases, preparing parts of the city for annexation.",
+										"You might act as a shaman of the Golgari if you are a spellcaster\u2014perhaps a wizard specialized in the School of Necromancy, a druid of the Circle of the Land, or a druid of the Circle of Spores (described in {@area chapter 1|00c|x}). In this revered position, you teach and advise other members of the swarm, keeping them attuned to the natural cycle of death and regrowth. You might manipulate that natural cycle by wielding the magic of death, snuffing out life and reanimating the dead. Or you might wield your magic to spread fungal rot and noxious gases, preparing parts of the city for annexation.",
 										"If you aren't adept at magic, the swarm still needs you. Golgari warriors both defend the guild's territory and, when necessary, take offensive action. If you are a fighter (typically of the Champion archetype), you can serve as a shock trooper, perhaps fighting alongside kraul and trolls on behalf of the swarm. If you are a ranger (likely of the Beast Master archetype) or a rogue (of the Thief or Assassin archetype), you are more of a skirmisher. Golgari rangers favor insects and reptiles as companions."
 									],
 									"id": "076"
@@ -3211,7 +3211,7 @@
 									"entries": [
 										"{@i Prerequisite: Renown 10 or higher in your clan}",
 										"When you reach this level of renown, you develop a rapport with the beasts that haunt the rubblebelts. When you are in a rubblebelt area, you can summon one beast to be your mount: a batterboar (a {@creature giant boar} as described in the {@book Monster Manual|MM}), a ceratok (using the stat block of a {@creature rhinoceros}), or a raktusk (equivalent to a {@creature giant elk}). It doesn't fight for you unless you have magic or another ability that can control a beast.",
-										"In addition, when you carry out a raid on the guild's behalf, a druid of your clan gives you a {@reward Gruul charm|ggr} (described in {@book chapter 5|GGR|5|Guild Charms}) at the start of the raid."
+										"In addition, when you carry out a raid on the guild's behalf, a druid of your clan gives you a {@reward Gruul charm|ggr} (described in {@area chapter 5|1a1|x}) at the start of the raid."
 									],
 									"id": "08a"
 								},
@@ -4676,7 +4676,7 @@
 									"page": 97,
 									"entries": [
 										"{@i Prerequisite: Rank 2 and renown 50 or higher in the Simic Combine}",
-										"As a famous researcher or a successful project leader, you stand ready to take on a supervisory role for an entire clade. New clades rarely form, so you must wait for your clade leader to retire (one way or another) before a position exists for you to fill, except in truly exceptional circumstances. Similar to a project leader, you are responsible for directing the efforts of researchers exploring a wide variety of projects related to the focus of your clade. Unless an experiment turns out to be especially interesting, these efforts can carry on without your supervision. If you need to, you can enlist the aid of {@dice 5d12} researchers (which use the stat blocks of {@creature Commoner||commoners} or {@creature merfolk} from the {@book Monster Manual|MM}), and you can also request the support of hybrids, krasis, or any other creature associated with the Simic Combine (see the list in {@book chapter 6|GGR|6|Simic Creatures}) from the Speaker of any zonot where the members of your clade live and work.",
+										"As a famous researcher or a successful project leader, you stand ready to take on a supervisory role for an entire clade. New clades rarely form, so you must wait for your clade leader to retire (one way or another) before a position exists for you to fill, except in truly exceptional circumstances. Similar to a project leader, you are responsible for directing the efforts of researchers exploring a wide variety of projects related to the focus of your clade. Unless an experiment turns out to be especially interesting, these efforts can carry on without your supervision. If you need to, you can enlist the aid of {@dice 5d12} researchers (which use the stat blocks of {@creature Commoner||commoners} or {@creature merfolk} from the {@book Monster Manual|MM}), and you can also request the support of hybrids, krasis, or any other creature associated with the Simic Combine (see the list in {@area chapter 6|1c9|x}) from the Speaker of any zonot where the members of your clade live and work.",
 										"Because most clades span multiple zonots, you have status equal to the Speakers of the zonots. You have no voice on the Speakers' Chamber, unless you can persuade one or more of its members to speak on your behalf."
 									],
 									"id": "0de"
@@ -6435,7 +6435,7 @@
 				},
 				"This chapter provides a toolbox to help the Dungeon Master create adventures featuring the guilds of Ravnica. The tensions among the guilds, a constant current of animosity, provide a solid foundation for building adventures.",
 				"\"{@adventure Krenko's Way|KKW}\" can be used to launch a Ravnica campaign.",
-				"The tables and advice in this chapter expand on the material in {@book chapter 3|DMG|3} of the {@book Dungeon Master's Guide|DMG}. Monsters and nonplayer characters mentioned on the tables can be found either in the {@book Monster Manual|MM} or in {@book chapter 6|GGR|6} of this book. When a creature's name appears in bold type, that's a visual cue pointing you to the creature's stat block in the {@book Monster Manual|MM}. If the stat block appears elsewhere, the text tells you so.",
+				"The tables and advice in this chapter expand on the material in {@book chapter 3|DMG|3} of the {@book Dungeon Master's Guide|DMG}. Monsters and nonplayer characters mentioned on the tables can be found either in the {@book Monster Manual|MM} or in {@area chapter 6|1af|x} of this book. When a creature's name appears in bold type, that's a visual cue pointing you to the creature's stat block in the {@book Monster Manual|MM}. If the stat block appears elsewhere, the text tells you so.",
 				{
 					"type": "section",
 					"name": "Guild-Based Adventures",
@@ -6681,9 +6681,9 @@
 							"name": "Quick Build",
 							"entries": [
 								"To make a simple location-based adventure quickly, follow these steps:",
-								"1. Choose a guild (or use the Guilds table in {@book chapter 1|GGR|1} if you want to choose randomly). The adventure will take place in that guild's location, as described in this chapter.",
+								"1. Choose a guild (or use the Guilds table in {@area chapter 1|00c|x} if you want to choose randomly). The adventure will take place in that guild's location, as described in this chapter.",
 								"2. Determine the adventure goal using the table associated with that location.",
-								"3. Use creatures associated with the guild (shown on the tables in {@book chapter 6|GGR|6|Creatures by Guild}) to populate the location. Optionally, you can use the Location Connections table in this chapter to link the location you're using to a second location. You can either select a location based on the result of that table or determine the second location randomly."
+								"3. Use creatures associated with the guild (shown on the tables in {@area chapter 6|1b0|x}) to populate the location. Optionally, you can use the Location Connections table in this chapter to link the location you're using to a second location. You can either select a location based on the result of that table or determine the second location randomly."
 							],
 							"id": "140"
 						},
@@ -7156,7 +7156,7 @@
 									"type": "inset",
 									"name": "Random Nonplayer Characters",
 									"entries": [
-										"Any time you need an NPC for an adventure\u2014for example, if the player characters are sent on a mission to rescue a member of their guild\u2014you can use the contacts tables in {@book chapter 2|GGR|2} to help flesh out the NPC. If you don't know the NPC's guild affiliation, you can roll on the Random Guilds table in this book's introduction to determine the guild. Then you can choose an appropriate stat block to represent the NPC's game statistics."
+										"Any time you need an NPC for an adventure\u2014for example, if the player characters are sent on a mission to rescue a member of their guild\u2014you can use the contacts tables in {@area chapter 2|030|x} to help flesh out the NPC. If you don't know the NPC's guild affiliation, you can roll on the Random Guilds table in this book's introduction to determine the guild. Then you can choose an appropriate stat block to represent the NPC's game statistics."
 									],
 									"id": "14d"
 								}
@@ -10181,7 +10181,7 @@
 					"name": "Coins in Treasure",
 					"page": 173,
 					"entries": [
-						"When you use the treasure tables in {@book chapter 7|DMG|7|Treasure Tables} of the {@book Dungeon Master's Guide|DMG}, you can change the type of coinage found if you'd like to associate the coins with a particular guild. For more information about coinage in Ravnica, see the \"{@book Currency: Zibs and Zinos|GGR|0|Currency: Zibs and Zinos}\" section in this source's introduction.",
+						"When you use the treasure tables in {@book chapter 7|DMG|7|Treasure Tables} of the {@book Dungeon Master's Guide|DMG}, you can change the type of coinage found if you'd like to associate the coins with a particular guild. For more information about coinage in Ravnica, see the \"{@area Currency: Zibs and Zinos|009|x}\" section in this source's introduction.",
 						"{@b Copper pieces} encountered in treasure are either standard Azorius zibs or Orzhov alms-coins. A pouch of alms-coins might belong to someone who has been impoverished\u2014or someone who makes a habit of robbing from the poor. A chest full of alms-coins could be an Orzhov lockbox used to hold the coins before they are distributed to the poor.",
 						"{@b Silver coins} minted by the Azorius Senate are worth 25 cp, so they might be found in smaller numbers than the standard silver pieces mentioned on the treasure tables. They are common currency, so they're found in the coin purses of virtually everyone in Ravnica. A hoard of silver coins might be amassed by a miser or stored in a bank vault (or stolen from such places).",
 						"{@b Electrum pieces} found in treasure are Azorius 50-zib coins. These coins are more common than electrum pieces are on most other D&D worlds, and they serve a function very similar to the silver 25-zib coins. You might reflect this fact by turning some silver pieces found as treasure into electrum pieces.",
@@ -11400,7 +11400,7 @@
 					"credit": "Tomasz Jedruszek"
 				},
 				"Ravnica is home to a great variety of creatures, including some that are unknown on other worlds in Dungeons & Dragons. This chapter provides stat blocks for many of these creatures, and it concludes with a collection of nonplayer characters who fill the ranks of Ravnica's guilds.",
-				"Some of the stat blocks in this source have a special feature: guild spells. If a stat block says its creature is a spellcaster of a particular guild\u2014an Izzet spellcaster, for instance\u2014that creature's spell list includes one or more spells from that guild's spell list. See {@book chapter 2|GGR|2} for the guilds' lists.",
+				"Some of the stat blocks in this source have a special feature: guild spells. If a stat block says its creature is a spellcaster of a particular guild\u2014an Izzet spellcaster, for instance\u2014that creature's spell list includes one or more spells from that guild's spell list. See {@area chapter 2|030|x} for the guilds' lists.",
 				{
 					"type": "section",
 					"name": "Creatures by Guild",
@@ -13023,7 +13023,7 @@
 			"page": 226,
 			"entries": [
 				"This section describes various nonplayer characters that belong to each guild. These characters can serve as enemies, rivals, allies, or contacts. In addition to the NPCs presented here, you can customize the NPCs in the {@book Monster Manual|MM} and other sources to make them feel like part of a particular guild.",
-				"Also included in this chapter are statistics and descriptions of the guildmasters of Ravnica. Without exception, these are powerful creatures. In most campaigns, the guildmasters will come into play more often in negotiations and other social settings than in combat. Thus, each guildmaster's ideals, bonds, and flaws are included. As a general rule, a guildmaster's personal agenda is in line with the guild's goals described in {@book chapter 2|GGR|2}, so the guild entries there provide additional direction for roleplaying these individuals.",
+				"Also included in this chapter are statistics and descriptions of the guildmasters of Ravnica. Without exception, these are powerful creatures. In most campaigns, the guildmasters will come into play more often in negotiations and other social settings than in combat. Thus, each guildmaster's ideals, bonds, and flaws are included. As a general rule, a guildmaster's personal agenda is in line with the guild's goals described in {@area chapter 2|030|x}, so the guild entries there provide additional direction for roleplaying these individuals.",
 				"Several other named guild members are highlighted in sidebars.",
 				{
 					"type": "entries",

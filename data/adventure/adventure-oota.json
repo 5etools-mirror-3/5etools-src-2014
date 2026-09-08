@@ -8,7 +8,7 @@
 			"entries": [
 				"Deep beneath the surface of the world lies the Underdark, a realm of endless labyrinthine tunnels and caverns where the sun never shines. The Underdark is filled with races and creatures too numerous to count or list, and foremost among these are the dark elves\u2014the drow. Hated and feared even by their fellow dwellers in darkness, the drow raid other settlements in the Underdark as well as the surface world, taking prisoners back with them. Rendered {@condition unconscious} with {@item drow poison}, then collared and shackled, these prisoners are eventually sold as slaves or entertainment in the dark elves' subterranean cities.",
 				"The adventurers have all had the misfortune of falling to such a fate. Captured by the drow, they are prisoners at one of the dark elves' outposts, awaiting transportation to Menzoberranzan, the City of Spiders. Whether they came into the Underdark seeking knowledge or fortune, or were just in the wrong place at the wrong time, they were ripe prey for a drow raid.",
-				"The setup of {@i Out of the Abyss} is such that the characters need have no connections with events in the Underdark, or with each other, prior to the start of the adventure. They can meet and get to know each other as prisoners of the drow. Players who would like their characters to have a stronger Underdark connection can choose from the background options in {@adventure appendix A|OotA|17}.",
+				"The setup of {@i Out of the Abyss} is such that the characters need have no connections with events in the Underdark, or with each other, prior to the start of the adventure. They can meet and get to know each other as prisoners of the drow. Players who would like their characters to have a stronger Underdark connection can choose from the background options in {@area appendix A|5cf|x}.",
 				"\"Prisoners of the Drow\" assumes the characters start at 1st level, and that they will achieve 2nd level (if not 3rd) by the end of this chapter of the adventure. Given the challenges of the adventure and the dangers of the Underdark, you can start the characters at a higher level (2nd or 3rd) to make things a bit easier for the players.",
 				{
 					"type": "image",
@@ -293,7 +293,7 @@
 									"page": 7,
 									"id": "011",
 									"entries": [
-										"{@creature Stool|OotA} is a {@creature myconid sprout} captured by {@creature Sarith Kzekarit|OotA}. {@creature Stool|OotA} is lonely and {@condition frightened}, wanting only to return to its home in Neverlight Grove. If befriended by the characters, {@creature Stool|OotA} gladly offers to guide them to its home, promising them sanctuary with its folk, although it isn't aware of the dangers posed by Zuggtmoy's influence on the myconids (see {@adventure chapter 5|OotA|4}).",
+										"{@creature Stool|OotA} is a {@creature myconid sprout} captured by {@creature Sarith Kzekarit|OotA}. {@creature Stool|OotA} is lonely and {@condition frightened}, wanting only to return to its home in Neverlight Grove. If befriended by the characters, {@creature Stool|OotA} gladly offers to guide them to its home, promising them sanctuary with its folk, although it isn't aware of the dangers posed by Zuggtmoy's influence on the myconids (see {@area chapter 5|20e|x}).",
 										"{@creature Stool|OotA} uses rapport spores to establish telepathic communication with other creatures, and it does so to communicate with characters who are kind and friendly toward it. The myconid will also help establish communication with Underdark denizens with whom the characters don't share a language. Once it becomes attached to one or more of the adventurers, {@creature Stool|OotA} behaves somewhat like an enthusiastic and curious younger sibling, sticking close to the characters and asking all kinds of questions."
 									]
 								},
@@ -472,7 +472,7 @@
 									"id": "01e",
 									"entries": [
 										"This drow elite warrior has assumed the role of Ilvara's lieutenant and lover after the injuries suffered by his predecessor, Jorlan Duskryn. Shoor is relatively young and quite arrogant for a drow male, proud of his abilities and accomplishments. He is still flush with his success in winning the favor of Ilvara and advancing his position within the outpost, which shows in his swagger and the way he lords it over every other male in Velkynvelve, particularly Jorlan. Still insecure in his position, Shoor feels the need to demonstrate his skill and effectiveness to his mistress and to find ways to please her.",
-										"As Ilvara's lieutenant, Shoor carries a {@item wand of viscid globs|OotA} (see {@adventure appendix B|OotA|18}), which once belonged to Jorlan and is used to capture and restrain prisoners."
+										"As Ilvara's lieutenant, Shoor carries a {@item wand of viscid globs|OotA} (see {@area appendix B|5d5|x}), which once belonged to Jorlan and is used to capture and restrain prisoners."
 									]
 								},
 								{
@@ -1497,7 +1497,7 @@
 									"page": 11,
 									"id": "02c",
 									"entries": [
-										"Stone steps lead from the watch post to a 1-foot-thick platform of zurkhwood (see \"{@adventure Fungi of the Underdark|OotA|1|Fungi of the Underdark}\" earlier in chapter 2) extending between two of the hanging towers and into three adjoining caverns.",
+										"Stone steps lead from the watch post to a 1-foot-thick platform of zurkhwood (see \"{@area Fungi of the Underdark|067|x}\" earlier in chapter 2) extending between two of the hanging towers and into three adjoining caverns.",
 										"The two southernmost caves serve as barracks for the rank-and-file drow warriors of the outpost. Six warriors dwell in each barracks, each set up with a pallet, a small zurkhwood chest for holding personal possessions and equipment, and a side table. Spider silk rope webbing on the cavern walls is set with hooks for hanging lanterns and other items, but the barracks are rarely lit.",
 										"One {@creature drow} is present in each of the barracks caves at any time, resting in a meditative trance. A resting drow rises at any significant light or noise, ready to attack.",
 										{
@@ -1847,7 +1847,7 @@
 							"page": 16,
 							"id": "04a",
 							"entries": [
-								"This leads toward Menzoberranzan (see {@area chapter 15|4e4|x}) and, eventually, Blingdenstone (see {@adventure chapter 6|OotA|5}). Most of the characters' fellow prisoners discourage travel toward the drow city, and the deep gnomes suggest Blingdenstone as a route out of the Underdark. The party can also follow a circuitous route westward toward the Darklake (see {@adventure chapter 3|OotA|2})."
+								"This leads toward Menzoberranzan (see {@area chapter 15|4e4|x}) and, eventually, Blingdenstone (see {@area chapter 6|25f|x}). Most of the characters' fellow prisoners discourage travel toward the drow city, and the deep gnomes suggest Blingdenstone as a route out of the Underdark. The party can also follow a circuitous route westward toward the Darklake (see {@area chapter 3|0e9|x})."
 							]
 						},
 						{
@@ -1856,7 +1856,7 @@
 							"page": 16,
 							"id": "04b",
 							"entries": [
-								"This leads most directly toward the Darklake (see {@adventure chapter 3|OotA|2}), although the party could eventually veer south toward Gracklstugh (see {@adventure chapter 4|OotA|3})."
+								"This leads most directly toward the Darklake (see {@area chapter 3|0e9|x}), although the party could eventually veer south toward Gracklstugh (see {@area chapter 4|134|x})."
 							]
 						},
 						{
@@ -1865,7 +1865,7 @@
 							"page": 16,
 							"id": "04c",
 							"entries": [
-								"This leads toward the duergar city of Gracklstugh (see {@adventure chapter 4|OotA|3}), following a south-westerly route. Characters might need to pass under the battling demons, but the cavern floor is well out of range of their droning and screeching. The demons locked in combat ignore the escaping prisoners, with the possible exception of a fallen vrock (see \"{@area A Flight of Demons|048|x}\").",
+								"This leads toward the duergar city of Gracklstugh (see {@area chapter 4|134|x}), following a south-westerly route. Characters might need to pass under the battling demons, but the cavern floor is well out of range of their droning and screeching. The demons locked in combat ignore the escaping prisoners, with the possible exception of a fallen vrock (see \"{@area A Flight of Demons|048|x}\").",
 								"Whichever route the characters take, chapter 2 covers their passage through the Underdark toward their eventual destination."
 							]
 						}
@@ -1889,7 +1889,7 @@
 			"id": "04e",
 			"entries": [
 				"Once the adventurers escape from Velkynvelve, they'll want to escape the Underdark. Already miles beneath the surface, they must make their way through an endless maze of passages and caverns, avoid pursuit by the drow, and find a route to the world above\u2014all the while dealing with the dangers of the Underdark and struggling to find the resources they need to survive.",
-				"This chapter presents guidelines for the characters' travels between the various Underdark locales detailed in the other chapters of {@i Out of the Abyss}. Specific areas (including the Darklake region in {@adventure chapter 3|OotA|2}) offer modifications to these guidelines to suit those areas' particular qualities. This chapter also offers guidelines for the drow pursuit of the escaped prisoners, along with additional encounters you can place along the adventurers' route as they travel.",
+				"This chapter presents guidelines for the characters' travels between the various Underdark locales detailed in the other chapters of {@i Out of the Abyss}. Specific areas (including the Darklake region in {@area chapter 3|0e9|x}) offer modifications to these guidelines to suit those areas' particular qualities. This chapter also offers guidelines for the drow pursuit of the escaped prisoners, along with additional encounters you can place along the adventurers' route as they travel.",
 				{
 					"type": "section",
 					"name": "Where to Go?",
@@ -1914,7 +1914,7 @@
 								"{@creature Eldeth Feldrun|OotA} is unfamiliar with this region of the Underdark and can't navigate, but she has a +5 bonus on Wisdom ({@skill Survival}) checks and can help out in that regard.",
 								"{@creature Jimjar|OotA} can guide the party to Blingdenstone from the north route out of Velkynvelve. The svirfneblin city will give the characters access to the surface, although {@creature Jimjar|OotA} is fine with visiting other interesting places along the way, as well as taking {@creature Stool|OotA} back to its home.",
 								"{@creature Ront|OotA} is unfamiliar with the Underdark and can't navigate. He's willing to stick with the adventurers as long as they seek a destination that gets him back to the surface world.",
-								"{@creature Sarith Kzekarit|OotA} is the best potential guide in the group, but also the most deceptive. He can navigate to any region of the Underdark shown on the map, but will encourage the characters to travel to Neverlight Grove (see {@adventure chapter 5|OotA|4}). He claims to want to take advantage of {@creature Stool|OotA}'s offer of sanctuary, but it is actually the influence of Zuggtmoy's demon-tainted spores upon his mind.",
+								"{@creature Sarith Kzekarit|OotA} is the best potential guide in the group, but also the most deceptive. He can navigate to any region of the Underdark shown on the map, but will encourage the characters to travel to Neverlight Grove (see {@area chapter 5|20e|x}). He claims to want to take advantage of {@creature Stool|OotA}'s offer of sanctuary, but it is actually the influence of Zuggtmoy's demon-tainted spores upon his mind.",
 								"Shuushar can navigate through the Darklake once the party is within three miles of any part of it. He's willing to travel with the characters and guide them, and suggests visiting the kuo-toa town of Sloobludop to acquire boats. Shuushar wishes to return to his own people in hopes of guiding them to the enlightenment he has achieved.",
 								"{@creature Stool|OotA} can't navigate and has no knowledge of the local area, but it desperately wants to return home to Neverlight Grove, pleading with the characters to take it there. It claims that its people will be grateful and offer the party shelter and aid, and describes its sovereign as wise in the hidden ways of the Underdark.",
 								"{@creature Topsy|OotA} and {@creature Turvy|OotA} can navigate to Blingdenstone, but they're reluctant to do so. As such, they are likely to support any suggestion that will not take them to their former home. Once they feel safer, they're likely to strike out on their own, just as they were before the drow captured them."
@@ -2613,7 +2613,7 @@
 							"id": "07e",
 							"entries": [
 								"The drow try to capture the escaped prisoners if at all possible, since Ilvara wants the pleasure of teaching them a lesson about disobedience. If the dark elves reduce any characters to 0 hit points, those characters are knocked out rather than dying (see \"{@book Knocking a Creature Out|PHB|9|Knocking a Creature Out}\" in chapter 9 of the {@i Player's Handbook}). Even if one or more of the characters are accidentally killed, Ilvara is obsessed enough to cast {@spell raise dead} to restore them to life (assuming the character's soul is willing to return).",
-								"Captured characters are disarmed, their hands bound with spider silk rope, and gagged. The drow march them back to Velkynvelve unless Menzoberranzan is closer, in which case Ilvara takes them there instead. The characters will need to come up with a new plan of escape, ideally before Ilvara has the opportunity to torture them or sell them into slavery in the City of Spiders. If they escape her clutches again, the drow priestess continues her pursuit until she is dead or the party leaves the Underdark (see {@adventure chapter 7|OotA|6})."
+								"Captured characters are disarmed, their hands bound with spider silk rope, and gagged. The drow march them back to Velkynvelve unless Menzoberranzan is closer, in which case Ilvara takes them there instead. The characters will need to come up with a new plan of escape, ideally before Ilvara has the opportunity to torture them or sell them into slavery in the City of Spiders. If they escape her clutches again, the drow priestess continues her pursuit until she is dead or the party leaves the Underdark (see {@area chapter 7|308|x})."
 							]
 						}
 					]
@@ -3608,7 +3608,7 @@
 											"rows": [
 												[
 													"1\u20132",
-													"{@creature Y|OotA} the {@creature derro savant|OotA} (see {@adventure appendix C|OotA|19})"
+													"{@creature Y|OotA} the {@creature derro savant|OotA} (see {@area appendix C|5e2|x})"
 												],
 												[
 													"3\u20134",
@@ -3662,15 +3662,15 @@
 											"rows": [
 												[
 													"1\u20133",
-													"{@dice 1d4} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@adventure appendix C|OotA|19})"
+													"{@dice 1d4} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@area appendix C|5e2|x})"
 												],
 												[
 													"4\u20136",
-													"{@dice 1d6} {@creature Duergar Spore Servant|OotA|duergar spore servants} (see {@adventure appendix C|OotA|19})"
+													"{@dice 1d6} {@creature Duergar Spore Servant|OotA|duergar spore servants} (see {@area appendix C|5e2|x})"
 												],
 												[
 													"7\u20138",
-													"{@dice 1d4} {@creature Hook Horror Spore Servant|OotA|hook horror spore servants} (see {@adventure appendix C|OotA|19})"
+													"{@dice 1d4} {@creature Hook Horror Spore Servant|OotA|hook horror spore servants} (see {@area appendix C|5e2|x})"
 												],
 												[
 													"9\u201310",
@@ -3716,7 +3716,7 @@
 												]
 											]
 										},
-										"Deep gnome and drow traders have a 50 percent chance of having half their number in {@creature Giant Lizard||giant lizards} as mounts and pack animals. Duergar traders have a 50 percent chance of having half their number in {@creature Male Steeder|MTF|male steeders} (see {@adventure appendix C|OotA|19}) as pack animals. If there are male steeders present, there is a 50 percent chance that the traders are escorted by a {@creature duergar kavalrachni|MTF} astride a {@creature female steeder|MTF} (see {@adventure appendix C|OotA|19} for both).",
+										"Deep gnome and drow traders have a 50 percent chance of having half their number in {@creature Giant Lizard||giant lizards} as mounts and pack animals. Duergar traders have a 50 percent chance of having half their number in {@creature Male Steeder|MTF|male steeders} (see {@area appendix C|5e2|x}) as pack animals. If there are male steeders present, there is a 50 percent chance that the traders are escorted by a {@creature duergar kavalrachni|MTF} astride a {@creature female steeder|MTF} (see {@area appendix C|5e2|x} for both).",
 										"The traders carry goods worth {@dice 5d4 × 10} gp plus ten days of provisions per member of their party; they are willing to sell up to 20 percent of either. If drow traders see the adventurers and have the opportunity to report it, increase the drow pursuit level by 1."
 									]
 								}
@@ -5818,7 +5818,7 @@
 									"page": 38,
 									"id": "0e8",
 									"entries": [
-										"The thin gold sheath covering Brysis's sarcophagus can be pried loose and is worth 250 gp. Inside the stone sarcophagus, lying atop Brysis's withered and mummified corpse, is a magic sword called {@item Dawnbringer|OotA} (see {@adventure appendix B|OotA|18}). This intelligent weapon is the source of the telepathic messages.",
+										"The thin gold sheath covering Brysis's sarcophagus can be pried loose and is worth 250 gp. Inside the stone sarcophagus, lying atop Brysis's withered and mummified corpse, is a magic sword called {@item Dawnbringer|OotA} (see {@area appendix B|5d5|x}). This intelligent weapon is the source of the telepathic messages.",
 										"The stone chest is unlocked and contains the other treasures Brysis took with her into the afterlife: 4,000 sp, 1,200 gp, eleven {@item Zircon||zircons} (worth 50 gp each), a {@item necklace of fireballs}, a {@item philter of love}, and a {@item potion of greater healing}."
 									]
 								}
@@ -6200,7 +6200,7 @@
 										],
 										[
 											"6\u20137",
-											"{@dice 1d6 + 2} {@creature ixitxachitl|OotA} (see {@adventure appendix C|OotA|19})"
+											"{@dice 1d6 + 2} {@creature ixitxachitl|OotA} (see {@area appendix C|5e2|x})"
 										],
 										[
 											"8",
@@ -6941,7 +6941,7 @@
 								"The archpriest of the Sea Mother steps forward across the span of the altar toward the kuo-toa waiting for him there. \"The time has come,\" he says, \"for us to acknowledge your divine vision and welcome it. I have brought these as offerings.\" He gestures toward all of you, standing within a circle of guards behind him. \"Will you not accept them?\" \"You are wise, father,\" the younger archpriest replies. \"I accept your offering in the name of the Deep Father. May their blood nourish and strengthen him!\" A burbling cheer goes up from the surrounding kuo-toa, their fists raised in the air."
 							]
 						},
-						"The followers of the Deep Father are already preparing to sacrifice a bruised and bedraggled {@creature duergar} named Hemeth\u2014an arms smuggler who was looking to cut a deal with one or both factions of the kuo-toa, but instead found himself captured for his trouble. He's willing to cooperate with the characters to save his own skin, and will even return the favor given the opportunity (see chapter 4, \"{@adventure Gracklstugh|OotA|3}\")."
+						"The followers of the Deep Father are already preparing to sacrifice a bruised and bedraggled {@creature duergar} named Hemeth\u2014an arms smuggler who was looking to cut a deal with one or both factions of the kuo-toa, but instead found himself captured for his trouble. He's willing to cooperate with the characters to save his own skin, and will even return the favor given the opportunity (see chapter 4, \"{@area Gracklstugh|134|x}\")."
 					]
 				},
 				{
@@ -6955,7 +6955,7 @@
 						"When the sacrifices are brought forward, Bloppblippodd gestures toward the altar, whereupon her father suddenly attacks, striking her with his scepter. Kuo-toa loyal to him surge forward to attack, while the guards that brought the characters forward stand in shock. They are {@status surprised} and can't move or take an action on their first turn of the combat, and they can't take reactions until that first turn ends.",
 						"As the two {@creature Kuo-toa Archpriest||archpriests} and their followers fight, the characters can intervene on either side or attempt to slip away during the melee.",
 						"On round 3 of the fight, characters notice kuo-toa crying out and flailing in the shallows of the Darklake. Several are pulled under or strike at unseen foes beneath the surface. The water foams red with blood.",
-						"Dozens of {@creature ixitxachitl|OotA} (see {@adventure appendix C|OotA|19}) are responsible for the attacks in the water. They have been drawn by the kuo-toa ritual and feast on any creatures they can reach, including party members in the water. The sudden frenzy sets a wave of panic through the kuo-toa. The young archpriest calls out \"Leemooggoogoon!\" just as her father strikes a final, fatal blow, dropping her before the profane altar. (If any character is also engaging the archpriest of the Deep Father, allow that character to strike the final blow.)"
+						"Dozens of {@creature ixitxachitl|OotA} (see {@area appendix C|5e2|x}) are responsible for the attacks in the water. They have been drawn by the kuo-toa ritual and feast on any creatures they can reach, including party members in the water. The sudden frenzy sets a wave of panic through the kuo-toa. The young archpriest calls out \"Leemooggoogoon!\" just as her father strikes a final, fatal blow, dropping her before the profane altar. (If any character is also engaging the archpriest of the Deep Father, allow that character to strike the final blow.)"
 					]
 				},
 				{
@@ -6972,7 +6972,7 @@
 								"Another sound rises above the burbling cries of the kuo-toa. The dark surface of the water farther out bubbles and begins to foam. A thick, oily tentacle bursts forth, followed by another. Then two monstrous heads break the surface, both resembling hideous, angry baboons with wickedly curved tusks. Both heads are attached to a single torso, and the monster's red eyes burn with bloodlust and madness. The creature rising from the Darklake must stand thirty feet tall or more, with water cascading down its back and shoulders. Upon reaching its full height, the great demon throws back both its heads and roars!"
 							]
 						},
-						"The kuo-toa offerings and the fervor of his worshipers in the Darklake have drawn the attention of {@creature Demogorgon|MTF} (see {@adventure appendix D|OotA|20}). Upon witnessing the rise of the Prince of Demons, each party member must succeed on a {@dc 13} Charisma saving throw or gain a level of madness (see \"{@area Madness|063|x}\" in chapter 2). The kuo-toa become {@condition incapacitated} for {@dice 1d10} minutes, crying out \"Leemooggoogoon!\" over and over again.",
+						"The kuo-toa offerings and the fervor of his worshipers in the Darklake have drawn the attention of {@creature Demogorgon|MTF} (see {@area appendix D|5e4|x}). Upon witnessing the rise of the Prince of Demons, each party member must succeed on a {@dc 13} Charisma saving throw or gain a level of madness (see \"{@area Madness|063|x}\" in chapter 2). The kuo-toa become {@condition incapacitated} for {@dice 1d10} minutes, crying out \"Leemooggoogoon!\" over and over again.",
 						"Demogorgon wades toward Sloobludop, heads roaring and gibbering, tentacles flailing and smashing the water. In 4 rounds, he comes within reach of the shoreline and lashes out, smashing docks and sending bodies flying with each sweep of his tentacles. When the demon lord attacks, some kuo-toa recover their wits enough to flee, while others cower, {@condition paralyzed} with fear.",
 						{
 							"type": "entries",
@@ -7213,7 +7213,7 @@
 									"page": 52,
 									"id": "140",
 									"entries": [
-										"A mob of {@creature derro|OotA} (see {@adventure appendix C|OotA|19}) rampages through the streets. Five of them detach from the mob to attack the characters. Four duergar patrols (see \"Duergar Patrol\") arrive when the characters kill the last derro, but they simply nod at the characters before repressing the rest of the mob. Word quickly spreads that the characters helped the city guard control the unruly derro scum. At your discretion, give the characters advantage on checks made to interact with any duergar in the city until such time as the benefit no longer seems appropriate."
+										"A mob of {@creature derro|OotA} (see {@area appendix C|5e2|x}) rampages through the streets. Five of them detach from the mob to attack the characters. Four duergar patrols (see \"Duergar Patrol\") arrive when the characters kill the last derro, but they simply nod at the characters before repressing the rest of the mob. Word quickly spreads that the characters helped the city guard control the unruly derro scum. At your discretion, give the characters advantage on checks made to interact with any duergar in the city until such time as the benefit no longer seems appropriate."
 									]
 								},
 								{
@@ -7392,7 +7392,7 @@
 									"page": 53,
 									"id": "149",
 									"entries": [
-										"A group of {@dice 1d4 + 1} {@creature duergar} teamsters herd a clutch of {@dice 2d6} {@creature Male Steeder|MTF|male steeders} (see {@adventure appendix C|OotA|19}). There is a 50 percent chance that {@dice 1d4} of the steeders attack nearby characters or bystanders. The duergar keep the rest of the clutch in check, but they clamor for the characters' arrest if even one of the arachnids is killed. A nearby patrol (see \"Duergar Patrol\") hears the teamsters' clamor and arrives {@dice 1d6} rounds later."
+										"A group of {@dice 1d4 + 1} {@creature duergar} teamsters herd a clutch of {@dice 2d6} {@creature Male Steeder|MTF|male steeders} (see {@area appendix C|5e2|x}). There is a 50 percent chance that {@dice 1d4} of the steeders attack nearby characters or bystanders. The duergar keep the rest of the clutch in check, but they clamor for the characters' arrest if even one of the arachnids is killed. A nearby patrol (see \"Duergar Patrol\") hears the teamsters' clamor and arrives {@dice 1d6} rounds later."
 									]
 								},
 								{
@@ -7599,7 +7599,7 @@
 									"page": 54,
 									"id": "157",
 									"entries": [
-										"In addition to the clans' regular armies, Gracklstugh trains specialized warriors whose oaths of service always supersede their original loyalties. See {@adventure appendix C|OotA|19} for more information.",
+										"In addition to the clans' regular armies, Gracklstugh trains specialized warriors whose oaths of service always supersede their original loyalties. See {@area appendix C|5e2|x} for more information.",
 										{
 											"type": "entries",
 											"name": "Stone Guard",
@@ -7624,7 +7624,7 @@
 											"page": 54,
 											"id": "15a",
 											"entries": [
-												"The vicious kavalrachni ride giant tarantulas known as steeders (see {@adventure appendix C|OotA|19}). Most kavalrachni come from Clan Xundom."
+												"The vicious kavalrachni ride giant tarantulas known as steeders (see {@area appendix C|5e2|x}). Most kavalrachni come from Clan Xundom."
 											]
 										},
 										{
@@ -7697,7 +7697,7 @@
 									"id": "161",
 									"entries": [
 										"The {@i Forak-Erach-Naek} (\"Empty-Scabbard Killers\" in Common) are a folktale in Gracklstugh, their name derived from an ancient, obscure Dwarvish dialect. They are an order of psionic assassins practicing disciplines unknown to even the savviest derro or the wisest priest. More than a myth, these killers have been plying their trade for centuries, their motives unknown and their methods inscrutable.",
-										"The Empty-Scabbard Killers are {@creature Duergar Soulblade|MTF|duergar soulblades} (see {@adventure appendix C|OotA|19}) who roam the streets of Gracklstugh searching for psionically gifted children to abduct and train. They also keep an eye out for worthy {@i calassabrak} (see below), offering them a chance to join a new community from which they can strike back at those who cast them out."
+										"The Empty-Scabbard Killers are {@creature Duergar Soulblade|MTF|duergar soulblades} (see {@area appendix C|5e2|x}) who roam the streets of Gracklstugh searching for psionically gifted children to abduct and train. They also keep an eye out for worthy {@i calassabrak} (see below), offering them a chance to join a new community from which they can strike back at those who cast them out."
 									]
 								}
 							]
@@ -7871,7 +7871,7 @@
 								"When the characters first reached the road, six {@creature duergar} watching invisibly started following them at a safe distance. Twelve more {@creature duergar} soldiers are stationed in guardhouses concealed within the rocky walls of the cavern, all of them aiming heavy crossbows at the party.",
 								"The duergar are hostile, and the guard who spoke follows up on every answer the characters give. One character can take the lead in the interrogation by speaking for the party and making a {@dc 15} Charisma check ({@skill Deception} and {@skill Persuasion} apply; {@skill Intimidation} or {@skill Performance} are met with scorn). Depending on how believable the party's story is and how the other adventurers behave during the questioning, you might allow the character to make the check with advantage or impose disadvantage.",
 								"The guard grudgingly lets the characters pass if the check succeeds, and refuses them entrance if it fails. If the check fails by 5 or more, the guard gives the order to arrest the characters, announcing that they are now slaves of the duergar (see \"Getting Captured\" below).",
-								"The first time the characters are allowed inside the city or turned away from a gate, a secret door on the wall opens, revealing Gorglak, a {@creature duergar Stone Guard|MTF} (see {@adventure appendix C|OotA|19}).",
+								"The first time the characters are allowed inside the city or turned away from a gate, a secret door on the wall opens, revealing Gorglak, a {@creature duergar Stone Guard|MTF} (see {@area appendix C|5e2|x}).",
 								{
 									"type": "insetReadaloud",
 									"id": "172",
@@ -8317,7 +8317,7 @@
 									]
 								},
 								"The rampage happens in a broad plaza, so there is plenty of space for the different combatants to maneuver.",
-								"The giant moves in the characters' direction and lashes out. Two {@creature duergar} guards and two {@creature duergar xarrorn|MTF} (see {@adventure appendix C|OotA|19}) respond to the giant's roaring, racing in to join the fight in the second round. They are well trained and do their best to help, but to avoid additional complexity during the encounter, assume that the duergar act at the end of the initiative order and deal a flat total of 10 damage to the giant each round.",
+								"The giant moves in the characters' direction and lashes out. Two {@creature duergar} guards and two {@creature duergar xarrorn|MTF} (see {@area appendix C|5e2|x}) respond to the giant's roaring, racing in to join the fight in the second round. They are well trained and do their best to help, but to avoid additional complexity during the encounter, assume that the duergar act at the end of the initiative order and deal a flat total of 10 damage to the giant each round.",
 								"Bystanders take cover at once, but {@creature duergar} citizens are ready to jump in if the guards fail to contain the threat. The giant ignores characters attacking from range and attacks opponents in melee at random, including the duergar. Both the giant and the guards fight until they drop to 0 hit points.",
 								{
 									"type": "entries",
@@ -8326,7 +8326,7 @@
 									"id": "17b",
 									"entries": [
 										"Without the characters' help, the guards and assisting citizens bring down the stone giant with few casualties. If the characters are prisoners under escort when the giant attacks, the guards who engage the giant are their escort. The characters can use this chance to escape, or they can help, albeit with disadvantage on attack rolls if they are shackled. The duergar are pragmatists and release characters who help them deal with the giant's threat, but they attempt to arrest them again after the combat is over.",
-										"Once the crazed giant is put down, another stone giant comes through the shattered gate, but this one looks perfectly sane. He reaches the fallen giant at the same time as a squad of three {@creature Duergar Stone Guard|MTF|duergar stone guards} (see {@adventure appendix C|OotA|19}).",
+										"Once the crazed giant is put down, another stone giant comes through the shattered gate, but this one looks perfectly sane. He reaches the fallen giant at the same time as a squad of three {@creature Duergar Stone Guard|MTF|duergar stone guards} (see {@area appendix C|5e2|x}).",
 										"The guards who fought alongside the characters explain the situation, neither downplaying nor exalting the characters' actions. The characters can speak to the newly arrived giant while the duergar confer. The giant introduces himself as Dorhun, apprentice to Stonespeaker Hgraam. He reveals that the fallen giant's name is Rihuud, and that he was another of the Stonespeaker's apprentices. Rihuud was \"communing with the stone\" in Cairngorm Cavern when he went mad, sprouted a second head, and stormed out.",
 										"If the party was not previously arrested and didn't participate in the fight, the Stone Guards start questioning bystanders, who eventually point out the characters as new arrivals to the city.",
 										"If the characters knocked Rihuud {@condition unconscious} instead of dealing a lethal blow, a grateful Dorhun asks them to visit Cairngorm Cavern before they leave the city, informing the Stone Guards of this. The importance of the Stonespeaker means that the Stone Guards will escort the party across the city to meet with him, though they don't hide their displeasure at doing so.",
@@ -8367,7 +8367,7 @@
 										"The characters can continue to Overlake Hold and meet with Captain Errde Blackskull (see \"Overlake Hold\").",
 										"The {@creature drow scout|OotA} Xalith approaches the Stone Guards, claiming the characters as escaped property of her mistress, Ilvara (see \"Signs of Pursuit\" in the \"Blade Bazaar\" section). The Stone Guards arrest the characters and take them to Overlake Hold, pending negotiations with the drow. At this point, they also meet Captain Errde Blackskull.",
 										"{@creature Droki|OotA} (see \"{@creature Droki|OotA}\" in the \"Blade Bazaar\" section) accidentally bumps into the patrol, creating a distraction that allows the characters to escape.",
-										"A successful {@dc 15} Charisma ({@skill Persuasion}) check convinces the Stone Guards not to arrest the characters, provided the characters agree to visit Overlake Hold once their business in Gracklstugh is concluded. The party remains under watch at all times by an {@condition invisible} {@creature duergar Stone Guard|MTF}(see {@adventure appendix C|OotA|19}). If it seems like the characters have done what they came to do, the {@condition invisible} duergar reminds them to make good on their promise to visit Overlake Hold."
+										"A successful {@dc 15} Charisma ({@skill Persuasion}) check convinces the Stone Guards not to arrest the characters, provided the characters agree to visit Overlake Hold once their business in Gracklstugh is concluded. The party remains under watch at all times by an {@condition invisible} {@creature duergar Stone Guard|MTF}(see {@area appendix C|5e2|x}). If it seems like the characters have done what they came to do, the {@condition invisible} duergar reminds them to make good on their promise to visit Overlake Hold."
 									]
 								}
 							]
@@ -8406,7 +8406,7 @@
 									"id": "181",
 									"entries": [
 										"Ylsa Henstak is a female duergar member of the Merchant Council. She's a canny caravan master and prides herself on always arriving at her destination ahead of schedule. If the characters ask around for merchants who know how to reach the surface, they are directed to Ylsa. Though she has no caravans scheduled anytime soon, she does make the characters an offer.",
-										"Ylsa invites the characters into her well-guarded office, where she shows them a pile of coins and jewelry from all over the surface world. The hoard consists of 80 gp in mixed coinage, three gold rings worth 25 gp each, and two gem-inlaid necklaces worth 250 gp each. She has tracked the pieces to derro, who use them to pay for food. If the characters can figure out how the derro are getting surface currency and jewelry, Ylsa will provide the adventurers with directions for at least the next stage of their journey, including valuable advice on routes to Blingdenstone (see {@adventure chapter 6|OotA|5}) and the Wormwrithings (see {@adventure chapter 12|OotA|11}).",
+										"Ylsa invites the characters into her well-guarded office, where she shows them a pile of coins and jewelry from all over the surface world. The hoard consists of 80 gp in mixed coinage, three gold rings worth 25 gp each, and two gem-inlaid necklaces worth 250 gp each. She has tracked the pieces to derro, who use them to pay for food. If the characters can figure out how the derro are getting surface currency and jewelry, Ylsa will provide the adventurers with directions for at least the next stage of their journey, including valuable advice on routes to Blingdenstone (see {@area chapter 6|25f|x}) and the Wormwrithings (see {@area chapter 12|412|x}).",
 										{
 											"type": "image",
 											"href": {
@@ -8426,7 +8426,7 @@
 									"entries": [
 										"Attentive characters can spot a curious figure darting between the stalls and shops of the Blade Bazaar. Every time they roam the market, they have a 20 percent chance to see a derro dressed in rags styled as an imitation of a fancy jacket, wearing a wide-brimmed hat with two tentacles from a displacer beast sewn into the hat's crown. A large satchel hangs from his shoulder, and he's always muttering to himself.",
 										"Duergar merchants glare scornfully at this derro, and none will discuss him with the characters. If a character asks about him in the Ghohlbrorn's Lair, a successful {@dc 12} Charisma ({@skill Persuasion}) check yields up the name \"{@creature Droki|OotA},\" and identifies the wily derro as a courier and supplier of goods who works for disreputable employers.",
-										"Catching {@creature Droki|OotA} (see {@adventure appendix C|OotA|19}) is the objective of quests from Errde Blackskull (see \"Overlake Hold\") and Gartokkar Xundorn (see \"{@creature Themberchaud|OotA}'s Lair\"), but if the characters pursue the courier openly, he flees for the West Cleft District. Pursuing characters quickly lose sight of the derro as he vanishes into the crowd. See \"Finding {@creature Droki|OotA}\" in the \"Whorlstone Tunnels\" section for more information on what {@creature Droki|OotA} is carrying if the characters catch him.",
+										"Catching {@creature Droki|OotA} (see {@area appendix C|5e2|x}) is the objective of quests from Errde Blackskull (see \"Overlake Hold\") and Gartokkar Xundorn (see \"{@creature Themberchaud|OotA}'s Lair\"), but if the characters pursue the courier openly, he flees for the West Cleft District. Pursuing characters quickly lose sight of the derro as he vanishes into the crowd. See \"Finding {@creature Droki|OotA}\" in the \"Whorlstone Tunnels\" section for more information on what {@creature Droki|OotA} is carrying if the characters catch him.",
 										{
 											"type": "inset",
 											"name": "Chasing Droki",
@@ -8448,7 +8448,7 @@
 										"If the characters arrive in Gracklstugh with a drow pursuit level of 3 or higher (see \"{@area Drow Pursuit|078|x}\" in chapter 2), Ilvara has already sent a party ahead of them, guessing correctly that the escaped prisoners might seek refuge with the duergar.",
 										"Characters with a passive Wisdom ({@skill Perception}) score of 15 or higher spot six {@creature drow} watching them in the Blade Bazaar. One of them is Xalith Masq'il'yr, a female drow allied with House Mizzrym. Any of the party's NPC companions who know the duergar well can guess that these drow won't want to attract the duergar's attention to their \"lost property.\" Doing so would likely involve having to pay the gray dwarves a reward for the adventurers' capture. This gives the characters a chance to evade their pursuers, but they need to stay out of sight.",
 										"Xalith speaks to the duergar only if the characters are arrested. Otherwise, she sends a messenger to Ilvara and makes sure the characters don't go anywhere without her knowing. If the characters fail to lose themselves in the city (see \"{@area Gracklstugh and Drow Pursuit|136|x}\" earlier in this chapter), their pursuit level increases by 1 every {@dice 1d4} days until Ilvara arrives.",
-										"Alternatively, the adventurers might decide to turn the tables on the drow. Characters might figure out a way to quietly neutralize Xalith and her squad, perhaps tricking them into damaging a duergar merchant's property or forcing them outside Darklake District, where even drow are forbidden to go. Doing so decreases the pursuit level by 2. However, if combat ever breaks out between the characters and the drow, a squad of five {@creature Duergar Stone Guard|MTF|duergar stone guards} (see {@adventure appendix C|OotA|19}) and five {@creature duergar} warriors arrive within {@dice 1d4} rounds and arrest the lot of them (see \"Getting Captured\")."
+										"Alternatively, the adventurers might decide to turn the tables on the drow. Characters might figure out a way to quietly neutralize Xalith and her squad, perhaps tricking them into damaging a duergar merchant's property or forcing them outside Darklake District, where even drow are forbidden to go. Doing so decreases the pursuit level by 2. However, if combat ever breaks out between the characters and the drow, a squad of five {@creature Duergar Stone Guard|MTF|duergar stone guards} (see {@area appendix C|5e2|x}) and five {@creature duergar} warriors arrive within {@dice 1d4} rounds and arrest the lot of them (see \"Getting Captured\")."
 									]
 								}
 							]
@@ -8476,7 +8476,7 @@
 									"page": 62,
 									"id": "187",
 									"entries": [
-										"The characters spot a male duergar merchant at the end of a pier. Suddenly, two {@condition invisible} duergar appear next to him and stab him viciously with glowing swords. The assassins' faces are masked and hooded. The characters have 2 rounds to distract the two {@creature Duergar Soulblade|MTF|duergar soulblades} (see {@adventure appendix C|OotA|19}) before they finish off the merchant.",
+										"The characters spot a male duergar merchant at the end of a pier. Suddenly, two {@condition invisible} duergar appear next to him and stab him viciously with glowing swords. The assassins' faces are masked and hooded. The characters have 2 rounds to distract the two {@creature Duergar Soulblade|MTF|duergar soulblades} (see {@area appendix C|5e2|x}) before they finish off the merchant.",
 										"The merchant is Werz Saltbaron. If the characters save him, he is grudgingly grateful and says he has no idea why the assassins targeted him. A successful {@dc 12} Wisdom ({@skill Insight}) check suggests he's lying. He flees the scene, but not before telling the characters to meet him at the Shattered Spire the following day so he can reward them properly.",
 										"The characters have 1 minute to search the assassins before a patrol of four {@creature duergar} arrives. The glowing weapons wielded by the assassins are nowhere to be found, but one of the assassins has a piece of fish-skin parchment bearing Werz's likeness drawn in charcoal."
 									]
@@ -8563,7 +8563,7 @@
 									"id": "190",
 									"entries": [
 										"If the characters rescued Werz Saltbaron from the assassins (see \"Darklake Docks\"), he meets them at the Shattered Spire at the designated date and time. As modest thanks for saving him, he gives each character an {@item Obsidian||obsidian gemstone} worth 10 gp. He then offers them a job, delivering a sack full of raw gemstones (worth 100 gp total) to a svirfneblin named Kazook Pickshine in Blingdenstone, no questions asked.",
-										"{@creature Jimjar|OotA}, {@creature Topsy|OotA}, and {@creature Turvy|OotA} know of Kazook Pickshine and can provide basic information about the gnome alchemist (see {@adventure chapter 6|OotA|5}). The deep gnomes also recognize that Werz's gems resemble empty {@i spell gems}, similar to those used in the defense of Blingdenstone. The gems, mundane in their current form, are actually raw stones used in the crafting of {@i spell gems}. Werz met Kazook in Mantol-Derith (see {@adventure chapter 9|OotA|8}), and the two have been trading recently behind their superiors' backs. He declines to mention this, though, deflecting any questions by mentioning that Blingdenstone is a good place to find a way out of the Underdark."
+										"{@creature Jimjar|OotA}, {@creature Topsy|OotA}, and {@creature Turvy|OotA} know of Kazook Pickshine and can provide basic information about the gnome alchemist (see {@area chapter 6|25f|x}). The deep gnomes also recognize that Werz's gems resemble empty {@i spell gems}, similar to those used in the defense of Blingdenstone. The gems, mundane in their current form, are actually raw stones used in the crafting of {@i spell gems}. Werz met Kazook in Mantol-Derith (see {@area chapter 9|34e|x}), and the two have been trading recently behind their superiors' backs. He declines to mention this, though, deflecting any questions by mentioning that Blingdenstone is a good place to find a way out of the Underdark."
 									]
 								},
 								{
@@ -8648,7 +8648,7 @@
 										"As you pass through the gates, the stench in the air changes from acrid and metallic to fetid and repugnant, the fires of industry replaced by squalor. The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order. The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot you look at you with a burning hatred."
 									]
 								},
-								"At the end of each hour the adventurers stay inside either derro area, there is a 25 percent chance that {@dice 2d4} {@creature derro|OotA} (see {@adventure appendix C|OotA|19}) attack without warning. If the characters kill any derro, the chance of another attack becomes 50 percent every half hour.",
+								"At the end of each hour the adventurers stay inside either derro area, there is a 25 percent chance that {@dice 2d4} {@creature derro|OotA} (see {@area appendix C|5e2|x}) attack without warning. If the characters kill any derro, the chance of another attack becomes 50 percent every half hour.",
 								"Sneaking through the senseless arrangement of the burrows is relatively easy, as the derro are normally too preoccupied with their own mad scheming to notice a group trying not to attract attention. The characters can attempt a {@dc 10} group Dexterity ({@skill Stealth}) check, with success negating the need to roll for a possible attack at the end of each hour or half hour.",
 								"Other means of subterfuge such as illusions, climbing along the walls, or using flying or levitation magic automatically avoid detection, but invisibility of any kind activates magical wards placed by derro savants to guard against duergar intrusion. When a ward activates in response to the presence of an {@condition invisible} creature, nearby derro fly into a frenzy, creating a chaotic mob meant to drive away {@condition invisible} duergar patrols. Derro make active Wisdom ({@skill Perception}) checks contested by the characters' Dexterity ({@skill Stealth}) checks if a ward is activated. Characters using {@spell detect magic} actively can spot the {@condition invisible} sensor of a ward before it activates. Otherwise, {@condition invisible} characters encounter a ward every 15 minutes they move through derro territory.",
 								{
@@ -8706,7 +8706,7 @@
 									"id": "19f",
 									"entries": [
 										"As the characters prepare to leave, Hgraam calls for his apprentice Dorhun, who arrives bearing a polished crystal the length of a human forearm. Hgraam offers the crystal to the characters as a token of his gratitude, telling them it might be helpful in the future.",
-										"The {@item stonespeaker crystal|OotA} (see {@adventure appendix B|OotA|18}) resonates strongly with conjuration and divination magic. If the characters keep the crystal after escaping the Underdark, it will be of use if they return to deal with the demonic incursion, as it is linked to the mysterious library of Gravenhollow and has additional properties when used there (see {@adventure chapter 11|OotA|10})."
+										"The {@item stonespeaker crystal|OotA} (see {@area appendix B|5d5|x}) resonates strongly with conjuration and divination magic. If the characters keep the crystal after escaping the Underdark, it will be of use if they return to deal with the demonic incursion, as it is linked to the mysterious library of Gravenhollow and has additional properties when used there (see {@area chapter 11|3c1|x})."
 									]
 								}
 							]
@@ -8951,7 +8951,7 @@
 									"page": 68,
 									"id": "1b2",
 									"entries": [
-										"This pack consists of a {@creature quasit} leading {@dice 1d4 + 2} {@creature Dretch||dretches}. The quasit turns {@condition invisible} and tries to escape when only two dretches remain; if it succeeds, the cultists in area 14 are alerted. Replace any subsequent demon pack random encounter with {@dice 1d4} {@creature derro|OotA} (see {@adventure appendix C|OotA|19})."
+										"This pack consists of a {@creature quasit} leading {@dice 1d4 + 2} {@creature Dretch||dretches}. The quasit turns {@condition invisible} and tries to escape when only two dretches remain; if it succeeds, the cultists in area 14 are alerted. Replace any subsequent demon pack random encounter with {@dice 1d4} {@creature derro|OotA} (see {@area appendix C|5e2|x})."
 									]
 								},
 								{
@@ -9061,7 +9061,7 @@
 										"The dirty derro is easy to recognize: a pale face under a floppy hat fitted with two tentacle-like things that bob up and down in time with his brisk pace. He keeps muttering a repetitive series of phrases to himself at different volumes, failing to notice you. \"{@creature Droki|OotA} is late! They will be so angry! Stupid, stupid, stupid! Delays, blocks, procrastination, obstructions, pfah! No time, no rhyme, not mine! No! Time!\""
 									]
 								},
-								"{@creature Droki|OotA} (see {@adventure appendix C|OotA|19}) has errands to perform. The characters can shadow him or chase him down, but both the Darklake District and the derro territories provide him with abundant places to hide and paths down which he can lose pursuers, and he knows them all. Inside the Whorlstone Tunnels, however, the derro is distracted by ever-present threats, giving the party the best chance to catch him. The characters can fight {@creature Droki|OotA} by the tunnels' entrance or follow him farther in, depending on their end goals. If they follow {@creature Droki|OotA}, he goes to area 1a, eats a pygmywort mushroom, and disappears into a narrow tunnel (see the \"Whorlstone Tunnels: General Features\" sidebar).",
+								"{@creature Droki|OotA} (see {@area appendix C|5e2|x}) has errands to perform. The characters can shadow him or chase him down, but both the Darklake District and the derro territories provide him with abundant places to hide and paths down which he can lose pursuers, and he knows them all. Inside the Whorlstone Tunnels, however, the derro is distracted by ever-present threats, giving the party the best chance to catch him. The characters can fight {@creature Droki|OotA} by the tunnels' entrance or follow him farther in, depending on their end goals. If they follow {@creature Droki|OotA}, he goes to area 1a, eats a pygmywort mushroom, and disappears into a narrow tunnel (see the \"Whorlstone Tunnels: General Features\" sidebar).",
 								"{@creature Droki|OotA}'s route takes him all around the Whorlstone Tunnels, and he's too scatterbrained to notice anyone following him. {@creature Droki|OotA}'s route is marked with red arrows on the map of the Whorlstone Tunnels. He eats a pygmywort mushroom whenever he needs to navigate a narrow tunnel. As he approaches areas 7 and 8, he eats a bigwig mushroom, reverts to normal size, delivers the Gray Ghost parcel (see \"Treasure\"), and collects his payment from Lorthio the {@creature duergar alchemist|OotA} (see area 8). {@creature Droki|OotA} then heads north to area 9, where he sneaks quietly around the central pool so as not to disturb its occupant. Upon reaching area 11, he greets the derro there before eating another pygmywort mushroom and traveling through the narrow tunnel leading to area 12. He eats another bigwig and reverts to normal size before making his delivery to the cultists in that area. After visiting the cultists, {@creature Droki|OotA} makes his way out of the Whorlstone Tunnels.",
 								"If the characters hinder or attack {@creature Droki|OotA}, he screams in fright and knocks his feet together, activating his {@item boots of speed}. If a chase ensues, resolve the outcome using the chase rules in {@book chapter 8|DMG|8|Chases} of the {@book Dungeon Master's Guide|DMG}. {@creature Droki|OotA} has advantage in his Dexterity ({@skill Stealth}) checks, as he knows the Whorlstone Tunnels well. If he loses the characters, he resumes his errands as if nothing had happened.",
 								"If {@creature Droki|OotA} manages to escape, characters can pick up his trail by searching any area through which the derro passed and succeeding on a {@dc 15} Wisdom ({@skill Survival}) check.",
@@ -11992,7 +11992,7 @@
 											"page": 72,
 											"id": "1cf",
 											"entries": [
-												"{@creature Rumpadump|OotA} is as introverted as {@creature Stool|OotA} is outgoing, preferring to hang back and not use its rapport spores unless absolutely necessary. Whether {@creature Stool|OotA} is present or not, {@creature Rumpadump|OotA} can guide the characters to Neverlight Grove (see {@adventure chapter 5|OotA|4}), where the sovereigns might know of a way out of the Underdark. However, the myconid sprout is worried that Voosbur's \"strange spores\" might have infected the rest of the myconids back home."
+												"{@creature Rumpadump|OotA} is as introverted as {@creature Stool|OotA} is outgoing, preferring to hang back and not use its rapport spores unless absolutely necessary. Whether {@creature Stool|OotA} is present or not, {@creature Rumpadump|OotA} can guide the characters to Neverlight Grove (see {@area chapter 5|20e|x}), where the sovereigns might know of a way out of the Underdark. However, the myconid sprout is worried that Voosbur's \"strange spores\" might have infected the rest of the myconids back home."
 											]
 										},
 										{
@@ -12454,7 +12454,7 @@
 												"Two derro stand by a large cauldron in front of a tent near the cave's center. Both are talking while apparently ignoring each other. In the cages, three hulking brown bears appear to be resting."
 											]
 										},
-										"The two {@creature derro|OotA} (see {@adventure appendix C|OotA|19}) are cultists. One of them is complaining about \"the master\" while the other talks about something he once fished out of the Darklake.",
+										"The two {@creature derro|OotA} (see {@area appendix C|5e2|x}) are cultists. One of them is complaining about \"the master\" while the other talks about something he once fished out of the Darklake.",
 										{
 											"type": "image",
 											"href": {
@@ -12622,7 +12622,7 @@
 											"id": "5d6"
 										},
 										"{@creature Narrak|OotA}, a {@creature derro savant|OotA}, belongs to a fringe group within the Council of Savants using demonology as a path to power. Since the arrival of the demon lords, he has gathered and bullied several apprentices to participate in rituals aimed to sow chaos in Gracklstugh. {@creature Narrak|OotA} knows the stone giants are a pillar of the Deepking's power, and that cursing them with Demogorgon's madness will be an appropriate first step toward delivering the entire city to the demon lord.",
-										"The cage by the tunnel holds a {@creature death dog}, watched over by a nervous {@creature derro|OotA} cultist. Atop the platform, {@creature Narrak|OotA} and four more {@creature derro|OotA} cultists are performing a ritual around the statue at its center. (Statistics for {@creature Narrak|OotA} and the derro can be found in {@adventure appendix C|OotA|19}.) The cultists' chanting is punctuated with {@creature Narrak|OotA} calling out the name \"Demogorgon!\" Also atop the platform, resting comfortably in an fungi-filled alcove (and initially out of the party's view), is {@creature Narrak|OotA}'s bodyguard\u2014a female {@creature ettin} named Grula-Munga.",
+										"The cage by the tunnel holds a {@creature death dog}, watched over by a nervous {@creature derro|OotA} cultist. Atop the platform, {@creature Narrak|OotA} and four more {@creature derro|OotA} cultists are performing a ritual around the statue at its center. (Statistics for {@creature Narrak|OotA} and the derro can be found in {@area appendix C|5e2|x}.) The cultists' chanting is punctuated with {@creature Narrak|OotA} calling out the name \"Demogorgon!\" Also atop the platform, resting comfortably in an fungi-filled alcove (and initially out of the party's view), is {@creature Narrak|OotA}'s bodyguard\u2014a female {@creature ettin} named Grula-Munga.",
 										"When intruders appear, the cultists cease their chanting and take up positions along the edge of the platform as Grula-Munga rises to her feet and picks up her weapons. At the same time, the cultist standing next to the cage releases the death dog. {@creature Narrak|OotA} continues his part in the ritual until the characters kill the death dog or one of the cultists, at which point he joins the battle. The door to the death dog's cage is held shut with a simple clasp and requires an action to open.",
 										"If any of the quasits escaped from area 11, they warn the cultists that intruders are near. Otherwise, the characters might catch the cultists by surprise. The quasits remain {@condition invisible} and stay close to {@creature Narrak|OotA}.",
 										{
@@ -12789,7 +12789,7 @@
 											},
 											"id": "5d7"
 										},
-										"The different levels of the mesa are separated by 10-foot-high cliffs. Climbing a cliff requires a successful {@dc 12} Strength ({@skill Athletics}) check. Pliinki, a mad {@creature derro savant|OotA} (see {@adventure appendix C|OotA|19}), stands atop of the mesa. Hidden on a shelf above the cavern's entrance, a {@creature spectator} tasked with guarding this area sees the characters as soon as they walk 15 feet into the cavern. The spectator screeches an alarm and attacks, killing non-derro with glee. As it fights, it projects telepathic ramblings into the characters' minds, mostly dealing with how exciting it is to have intruders to kill and how even more exciting things will be when the obelisk is complete.",
+										"The different levels of the mesa are separated by 10-foot-high cliffs. Climbing a cliff requires a successful {@dc 12} Strength ({@skill Athletics}) check. Pliinki, a mad {@creature derro savant|OotA} (see {@area appendix C|5e2|x}), stands atop of the mesa. Hidden on a shelf above the cavern's entrance, a {@creature spectator} tasked with guarding this area sees the characters as soon as they walk 15 feet into the cavern. The spectator screeches an alarm and attacks, killing non-derro with glee. As it fights, it projects telepathic ramblings into the characters' minds, mostly dealing with how exciting it is to have intruders to kill and how even more exciting things will be when the obelisk is complete.",
 										"Pliinki shouts crass obscenities at the characters in a raspy voice while commanding the spectator to dispose of them. Both she and the spectator fight to the death.",
 										{
 											"type": "entries",
@@ -12864,7 +12864,7 @@
 					"entries": [
 						"The characters can gain the means to leave the city\u2014and information to guide them on their journey\u2014from a number of different sources, depending on the NPCs they interact with and the quests they undertake.",
 						"Errde Blackskull is true to her word, and she lets the characters leave the city freely if they fulfilled the tasks she set for them. Working for {@creature Themberchaud|OotA} or the Keepers of the Flame leaves the characters in a position where they can at least avoid arrest in the city.",
-						"Deciding the next step for the characters depends on what information or quests the characters picked up in Gracklstugh. Heading for Neverlight Grove (see {@adventure chapter 5|OotA|4}) or Blingdenstone (see {@adventure chapter 6|OotA|5}) are the obvious next steps, as both places hold the promise of a route to the surface world. Alternatively, the characters can try their luck in the Labyrinth or the Wormwrithings.",
+						"Deciding the next step for the characters depends on what information or quests the characters picked up in Gracklstugh. Heading for Neverlight Grove (see {@area chapter 5|20e|x}) or Blingdenstone (see {@area chapter 6|25f|x}) are the obvious next steps, as both places hold the promise of a route to the surface world. Alternatively, the characters can try their luck in the Labyrinth or the Wormwrithings.",
 						"Some of the quests the characters complete have the potential to change the power structure of Gracklstugh. For example, aiding Errde Blackskull and the Stone Guards might grant the characters the privilege of an audience with King Horgar Steelshadow V at some later time. If the characters press Errde, Gartokkar, or Stonespeaker Hgraam for a meeting with the Deepking, use the following section to run an encounter in the Deepking's palace."
 					]
 				},
@@ -12883,7 +12883,7 @@
 							]
 						},
 						"There appears to be no one guarding the palace, but this is an illusion. All of the palace guards are {@condition invisible}, and characters who observe the palace for some time can hear duergar guards in heavy armor marching to and fro.",
-						"Two hundred {@condition invisible} {@creature Duergar Stone Guard|MTF|duergar stone guards} (see {@adventure appendix C|OotA|19}) protect the palace and its king. Fifty stand at attention in perfect rows before the palace, ready to cut down anyone who approaches the palace gates unescorted. Another fifty watch from the turrets and battlements. One hundred more stand guard in the palace and comprise the Deepking's honor guard.",
+						"Two hundred {@condition invisible} {@creature Duergar Stone Guard|MTF|duergar stone guards} (see {@area appendix C|5e2|x}) protect the palace and its king. Fifty stand at attention in perfect rows before the palace, ready to cut down anyone who approaches the palace gates unescorted. Another fifty watch from the turrets and battlements. One hundred more stand guard in the palace and comprise the Deepking's honor guard.",
 						{
 							"type": "entries",
 							"name": "Audience with the Deepking",
@@ -13051,7 +13051,7 @@
 												],
 												[
 													"4",
-													"{@dice 1d4} {@creature Drow Spore Servant|OotA|drow spore servants}* (see {@adventure appendix C|OotA|19}) and {@dice 1d4} {@creature Quaggoth Spore Servant||quaggoth spore servants}*"
+													"{@dice 1d4} {@creature Drow Spore Servant|OotA|drow spore servants}* (see {@area appendix C|5e2|x}) and {@dice 1d4} {@creature Quaggoth Spore Servant||quaggoth spore servants}*"
 												],
 												[
 													"5",
@@ -13079,7 +13079,7 @@
 												],
 												[
 													"11",
-													"{@dice 1d4} {@creature Awakened Zurkhwood|OotA|awakened zurkhwoods}* (see {@adventure appendix C|OotA|19})"
+													"{@dice 1d4} {@creature Awakened Zurkhwood|OotA|awakened zurkhwoods}* (see {@area appendix C|5e2|x})"
 												],
 												[
 													"12",
@@ -13395,7 +13395,7 @@
 							"page": 87,
 							"id": "22b",
 							"entries": [
-								"To defend themselves, myconids have cultivated and guided the growth of awakened zurkhwoods (see {@adventure appendix C|OotA|19}) to serve as a kind of palisade around the grove."
+								"To defend themselves, myconids have cultivated and guided the growth of awakened zurkhwoods (see {@area appendix C|5e2|x}) to serve as a kind of palisade around the grove."
 							]
 						},
 						{
@@ -13404,8 +13404,8 @@
 							"page": 87,
 							"id": "22c",
 							"entries": [
-								"This malevolent disease is spread by myconids transformed by Zuggtmoy's demonic influence (see \"{@adventure Myconids|OotA|19}\" in appendix C).",
-								"A transformed myconid can release the spores in a cloud that fills a 10-foot-radius sphere centered on it, and the cloud lingers for 1 minute. Any flesh-and-blood creature in the cloud when it appears, or that enters it later, must make a Constitution saving throw. The save DC is 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy and also gains a random form of indefinite madness (determined by rolling on the Madness of Zuggtmoy table in {@adventure appendix D|OotA|20}) that lasts until the creature is cured of the disease or dies. While infected in this way, the creature can't be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature's body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it's a type of creature that can be (see the \"Myconids\" entry in the {@i Monster Manual})."
+								"This malevolent disease is spread by myconids transformed by Zuggtmoy's demonic influence (see \"{@area Myconids|5e2|x}\" in appendix C).",
+								"A transformed myconid can release the spores in a cloud that fills a 10-foot-radius sphere centered on it, and the cloud lingers for 1 minute. Any flesh-and-blood creature in the cloud when it appears, or that enters it later, must make a Constitution saving throw. The save DC is 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy and also gains a random form of indefinite madness (determined by rolling on the Madness of Zuggtmoy table in {@area appendix D|5e4|x}) that lasts until the creature is cured of the disease or dies. While infected in this way, the creature can't be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature's body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it's a type of creature that can be (see the \"Myconids\" entry in the {@i Monster Manual})."
 							]
 						}
 					]
@@ -14358,7 +14358,7 @@
 									"id": "234",
 									"entries": [
 										"The builders' circle leader is a pioneering would-be architect and a supporter of Sovereign Phylo. Already driven mad by Zuggtmoy's spores, Gasbide dreams of bizarre, elaborate structures no myconids would ever need, inspired by visions of Abyssal palaces.",
-										"If Gasbide interacts with the characters using rapport spores, it demands descriptions of surface-world structures, bristling with an excitement seldom seen in myconids. It asks for exasperatingly minor details such as the precise dimensions of bricks or the density of lumber. Gasbide reveals through the rapport that it dreams of building a fungal tower \"even greater than Yggmorgus.\" It hopes to break through the Underdark to the surface world, possibly \"with the aid of Araumycos.\" Gasbide has no conscious knowledge of what Araumycos is, sensing only that it is part of the great celebration to come. See \"{@area Yggmorgus|257|x}\" (at the end of this chapter) and chapter 16, \"{@adventure The Fetid Wedding|OotA|15},\" for more information."
+										"If Gasbide interacts with the characters using rapport spores, it demands descriptions of surface-world structures, bristling with an excitement seldom seen in myconids. It asks for exasperatingly minor details such as the precise dimensions of bricks or the density of lumber. Gasbide reveals through the rapport that it dreams of building a fungal tower \"even greater than Yggmorgus.\" It hopes to break through the Underdark to the surface world, possibly \"with the aid of Araumycos.\" Gasbide has no conscious knowledge of what Araumycos is, sensing only that it is part of the great celebration to come. See \"{@area Yggmorgus|257|x}\" (at the end of this chapter) and chapter 16, \"{@area The Fetid Wedding|575|x},\" for more information."
 									]
 								}
 							]
@@ -14403,7 +14403,7 @@
 							"page": 88,
 							"id": "239",
 							"entries": [
-								"The central mound is the base of the colony's two {@creature Myconid Sovereign||myconid sovereigns}, Phylo and Basidia. They hold court together with three {@creature myconid adult} councilors named Brelup, Posbara, and Breberil. Ten {@creature Awakened Zurkhwood|OotA|awakened zurkhwoods} (see {@adventure appendix C|OotA|19}) protect the mound and obey either of the sovereigns.",
+								"The central mound is the base of the colony's two {@creature Myconid Sovereign||myconid sovereigns}, Phylo and Basidia. They hold court together with three {@creature myconid adult} councilors named Brelup, Posbara, and Breberil. Ten {@creature Awakened Zurkhwood|OotA|awakened zurkhwoods} (see {@area appendix C|5e2|x}) protect the mound and obey either of the sovereigns.",
 								{
 									"type": "entries",
 									"name": "Sovereign Phylo",
@@ -14489,7 +14489,7 @@
 									"page": 90,
 									"id": "242",
 									"entries": [
-										"Behind the myconid breeding grounds is a narrow path leading up to a plateau and the Garden of Welcome (area 5). Two {@creature Chuul Spore Servant|OotA|chuul spore servants} (see {@adventure appendix C|OotA|19}) guard this path. They don't allow anyone to pass without Yrberop's permission, which the circle leader doesn't grant, even at Basidia's request."
+										"Behind the myconid breeding grounds is a narrow path leading up to a plateau and the Garden of Welcome (area 5). Two {@creature Chuul Spore Servant|OotA|chuul spore servants} (see {@area appendix C|5e2|x}) guard this path. They don't allow anyone to pass without Yrberop's permission, which the circle leader doesn't grant, even at Basidia's request."
 									]
 								}
 							]
@@ -14597,8 +14597,8 @@
 									]
 								},
 								"The drow is Xinaya, a young acolyte of Lolth. She was leading a routine scouting patrol out of Velkynvelve before Ilvara contacted her with a {@spell sending} spell. The patrol was ordered to search near the grove for the characters, anticipating that the escapees might seek shelter among the peaceful mushroom folk.",
-								"Upon her arrival, Xinaya made the mistake of accepting Phylo's invitation to visit the Garden of Welcome, where she and her patrol quickly became victims of the myconids' madness. She begs the adventurers to end her suffering and warn her people about the presence of the Demon Queen of Fungi in the Underdark, unaware of the madness that has already erupted in Menzoberranzan and throughout the Underdark (see {@adventure chapter 15|OotA|14}). Xinaya is too far gone to be saved, and any amount of damage kills her.",
-								"After the characters speak with Xinaya, {@creature Yestabrod|OotA} appears (see {@adventure appendix C|OotA|19}). The master of the foul garden takes delight in toying with trespassers.",
+								"Upon her arrival, Xinaya made the mistake of accepting Phylo's invitation to visit the Garden of Welcome, where she and her patrol quickly became victims of the myconids' madness. She begs the adventurers to end her suffering and warn her people about the presence of the Demon Queen of Fungi in the Underdark, unaware of the madness that has already erupted in Menzoberranzan and throughout the Underdark (see {@area chapter 15|4d2|x}). Xinaya is too far gone to be saved, and any amount of damage kills her.",
+								"After the characters speak with Xinaya, {@creature Yestabrod|OotA} appears (see {@area appendix C|5e2|x}). The master of the foul garden takes delight in toying with trespassers.",
 								{
 									"type": "insetReadaloud",
 									"id": "24f",
@@ -14607,7 +14607,7 @@
 										"\"Welcome, travelers.\" The aberrant myconid's voice gurgles and spits as it speaks both aloud and in your minds at once. \"Are you here for the wedding rehearsal? Friends of the bride or her intended? No matter! Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!\""
 									]
 								},
-								"As the garden comes alive with screams from its buried victims, {@creature Yestabrod|OotA} raises two {@creature Drow Spore Servant|OotA|drow spore servants} (see {@adventure appendix C|OotA|19}). At the same time, two {@creature Myconid Adult||myconid adults} from the Circle of Masters emerge from the surrounding growth, all of the creatures following the circle leader as he attacks.",
+								"As the garden comes alive with screams from its buried victims, {@creature Yestabrod|OotA} raises two {@creature Drow Spore Servant|OotA|drow spore servants} (see {@area appendix C|5e2|x}). At the same time, two {@creature Myconid Adult||myconid adults} from the Circle of Masters emerge from the surrounding growth, all of the creatures following the circle leader as he attacks.",
 								"If {@creature Sarith Kzekarit|OotA} (see {@area chapter 1|008|x}) is still with the party, he screams in agony as {@creature Yestabrod|OotA} attacks. The characters can only watch as the drow's head splits open, releasing a cloud of infecting spores and turning him into another {@creature drow spore servant|OotA} that joins the fight.",
 								"If {@creature Yestabrod|OotA} is slain and there are still drow spore servants active, they go limp and stop attacking, at which point the myconids from the Circle of Masters attempt to flee."
 							]
@@ -14618,7 +14618,7 @@
 							"page": 91,
 							"id": "250",
 							"entries": [
-								"Xinaya's equipment is piled in a heap not far from where she was buried. Characters searching the pile find a suit of {@item +2 studded leather armor}, a {@item +2 shortsword}, and a {@item bag of holding} containing two {@item Spell Scroll||spell scrolls} ({@spell remove curse} and {@spell spider climb}), 40 days of rations, and 320 sp. The drow spore servants wear chain shirts and carry shortswords. All of the armor and weapons found here are of drow construction (see the \"Drowcraft Items\" sidebar in {@adventure appendix B|OotA|18})."
+								"Xinaya's equipment is piled in a heap not far from where she was buried. Characters searching the pile find a suit of {@item +2 studded leather armor}, a {@item +2 shortsword}, and a {@item bag of holding} containing two {@item Spell Scroll||spell scrolls} ({@spell remove curse} and {@spell spider climb}), 40 days of rations, and 320 sp. The drow spore servants wear chain shirts and carry shortswords. All of the armor and weapons found here are of drow construction (see the \"Drowcraft Items\" sidebar in {@area appendix B|5d5|x})."
 							]
 						},
 						{
@@ -14658,7 +14658,7 @@
 								"{@i Hail! Hail! Hail}!"
 							]
 						},
-						"The entourage is composed of twelve {@creature Bridesmaid of Zuggtmoy|OotA|bridesmaids of Zuggtmoy} and six {@creature Chamberlain of Zuggtmoy|OotA|chamberlains of Zuggtmoy}(see {@adventure appendix C|OotA|19} for both), all of which are lost in their own reverie. They are in the midst of conducting an obscene ritual of some sort\u2014like a parody of a wedding ceremony.",
+						"The entourage is composed of twelve {@creature Bridesmaid of Zuggtmoy|OotA|bridesmaids of Zuggtmoy} and six {@creature Chamberlain of Zuggtmoy|OotA|chamberlains of Zuggtmoy}(see {@area appendix C|5e2|x} for both), all of which are lost in their own reverie. They are in the midst of conducting an obscene ritual of some sort\u2014like a parody of a wedding ceremony.",
 						"Zuggtmoy's thralls make their way to {@creature Yestabrod|OotA}'s garden, attacking only if the characters stand in their way.",
 						"Any character reduced to 0 hit points in this encounter is knocked {@condition unconscious} rather than killed. If all the characters are knocked {@condition unconscious}, the party wakes up in a fungi-filled cave {@dice 1d6 + 4} miles away from Neverlight Grove, with or without their NPC companions (at your discretion). Their drow pursuit level decreases by 1, and each character is infested with Zuggtmoy's spores (see the \"Neverlight Grove: General Features\" sidebar).",
 						{
@@ -14734,7 +14734,7 @@
 									"id": "25c",
 									"entries": [
 										"Scores of deformed creatures dance around the base of the giant fungal tower. The revelers are a motley collection of humanoids and various other creatures, all sporting tumors, cankers, and putrid patches of flesh all over their bodies. They are joined by dancing fungi vaguely shaped and twisted into forms resembling humanoids. Some of these creatures are spore servants enthralled to the Demon Queen of Fungi. Others are myconids and other fungal life forms infested with Zuggtmoy's spores.",
-										"The dancing creatures pay no attention to trespassers unless they are attacked. In that event, {@dice 1d6} {@creature Drow Spore Servant|OotA|drow spore servants} and {@dice 1d6} {@creature Hook Horror Spore Servant|OotA|hook horror spore servants} (see {@adventure appendix C|OotA|19} for both) stop dancing and turn on their attackers.",
+										"The dancing creatures pay no attention to trespassers unless they are attacked. In that event, {@dice 1d6} {@creature Drow Spore Servant|OotA|drow spore servants} and {@dice 1d6} {@creature Hook Horror Spore Servant|OotA|hook horror spore servants} (see {@area appendix C|5e2|x} for both) stop dancing and turn on their attackers.",
 										"Voices can be heard cackling and chatting amiably about Sovereign Phylo's success at \"bringing so many new guests to attend the party!\" The characters see drow dancing as if their bones were melting, duergar roaring with mock merriment and vomiting slime, and even nothics laughing madly as they leap and caper.",
 										"If the characters observe the mad dance for a few rounds, they see a form rising up out of the fungal muck. It is the {@creature drow scout|OotA} whose terrible end they just witnessed, wading out to join the other revelers in their mad dance. A character who witnesses this grotesque moment must succeed on a {@dc 15} Wisdom saving throw or gain one level of madness."
 									]
@@ -14746,7 +14746,7 @@
 									"id": "25d",
 									"entries": [
 										"Yggmorgus is the home that Zuggtmoy, the Demon Queen of Fungi, has carved for herself inside the great mushroom. The general layout is simple enough, with the hollowed stalk of the mushroom making a towering central hall in which Zuggtmoy floats, surrounded by spiraling balconies where her growing number of bridesmaids attend her, singing as they weave her bridal gown to prepare for the fateful wedding day.",
-										"If the adventurers enter Yggmorgus, they come face to face with {@creature Zuggtmoy|MTF} (see {@adventure appendix D|OotA|20}), attended by twelve {@creature Bridesmaid of Zuggtmoy|OotA|bridesmaids of Zuggtmoy} (see {@adventure appendix C|OotA|19}). Fortunately for them, Zuggtmoy is deep in meditation as her gown and veil are being prepared. She doesn't move, although she can speak and use her other abilities. Her bridesmaids attempt to chase off intruders, wailing and scolding them about how it is unlucky for them to see the bride before it is time. If the characters don't withdraw immediately, Zuggtmoy awakens and uses her Mind Control Spores ability to send them away, using her Infestation Spores only if the characters insist on engaging the demon lord here and now.",
+										"If the adventurers enter Yggmorgus, they come face to face with {@creature Zuggtmoy|MTF} (see {@area appendix D|5e4|x}), attended by twelve {@creature Bridesmaid of Zuggtmoy|OotA|bridesmaids of Zuggtmoy} (see {@area appendix C|5e2|x}). Fortunately for them, Zuggtmoy is deep in meditation as her gown and veil are being prepared. She doesn't move, although she can speak and use her other abilities. Her bridesmaids attempt to chase off intruders, wailing and scolding them about how it is unlucky for them to see the bride before it is time. If the characters don't withdraw immediately, Zuggtmoy awakens and uses her Mind Control Spores ability to send them away, using her Infestation Spores only if the characters insist on engaging the demon lord here and now.",
 										"Dozens of spore servants and myconids respond to Zuggtmoy's telepathic call if their mistress is in danger, attacking the characters heedless of their own safety. Any attack that successfully deals damage to Zuggtmoy damages her gown, driving the demon queen into a rage to attack the intruders."
 									]
 								}
@@ -14814,7 +14814,7 @@
 							"entries": [
 								"The svirfneblin settlement is a haven for the characters. For good reason, the deep gnomes rarely allow drow into Blingdenstone, and only then with a heavily armed escort. A drow character must succeed on a {@dc 15} Charisma ({@skill Persuasion}) check to enter escorted. However, if any deep gnomes are traveling with the party, having them vouch for the drow allows the escort to be waived at your discretion.",
 								"The party's drow pursuers won't attempt to follow the characters into Blingdenstone. The party's pursuit level (see \"{@area Drow Pursuit|078|x}\" in chapter 2) doesn't change while they are in the svirfneblin settlement.",
-								"If the party's pursuit level is 3 or higher when they arrive at Blingdenstone, Ilvara and her party are watching the tunnels leaving the settlement. The pursuit level increases to 5 when the characters leave Blingdenstone, possibly leading to a chase or straight into chapter 7, \"{@adventure Escape From the Underdark|OotA|6}.\""
+								"If the party's pursuit level is 3 or higher when they arrive at Blingdenstone, Ilvara and her party are watching the tunnels leaving the settlement. The pursuit level increases to 5 when the characters leave Blingdenstone, possibly leading to a chase or straight into chapter 7, \"{@area Escape From the Underdark|308|x}.\""
 							]
 						},
 						{
@@ -15239,7 +15239,7 @@
 									"id": "27c",
 									"entries": [
 										"The svirfneblin base most of their economic subsistence on their ability to mine ores and gems. The settlement is largely self-sufficient, but it still relies on the duergar of Mantol-Derith for tools, weapons, and supplies.",
-										"Because the Blingdenstone economy depends on mining, the Miners' Guild holds a lot of power in Blingdenstone. Led by the Pickshine family, the Miners' Guild oversees all of Blingdenstone's mines, as well as the mining, cutting, and enchanting of {@item Spell Gem|OotA|spell gems} (see {@adventure appendix B|OotA|18}), both for the settlement's defense and for trade export."
+										"Because the Blingdenstone economy depends on mining, the Miners' Guild holds a lot of power in Blingdenstone. Led by the Pickshine family, the Miners' Guild oversees all of Blingdenstone's mines, as well as the mining, cutting, and enchanting of {@item Spell Gem|OotA|spell gems} (see {@area appendix B|5d5|x}), both for the settlement's defense and for trade export."
 									]
 								},
 								{
@@ -15250,7 +15250,7 @@
 									"entries": [
 										"This group of svirfneblin spellcasters once trained under the Emerald Enclave but eventually splintered off, choosing to focus solely on earth elemental magic. After doing so, they absorbed the surviving priesthood serving the deep gnome deities Segojan Earthcaller (the god of deep earth and nature) and Callarduran Smoothhands (the god of stone and mining).",
 										"The Stoneheart Enclave is in charge of summoning earth elementals to help defend Blingdenstone. They also use their magic to aid in various engineering tasks, such as widening burrows, closing off tunnels, or establishing {@item spell gem|OotA} emplacements and defensive measures. When needed, the spellcasters of the Stoneheart Enclave serve as extraplanar diplomats, forging occasional agreements with xorn and galeb duhr to aid Blingdenstone.",
-										"The enclave's leader is Yantha Coaxrock, a young female mage who splits her time and energy between conducting magical research in Blingdenstone, aiding the svirfneblin enclave in Mantol-Derith (see {@adventure chapter 9|OotA|8}), and working with the rest of the Stoneheart Enclave."
+										"The enclave's leader is Yantha Coaxrock, a young female mage who splits her time and energy between conducting magical research in Blingdenstone, aiding the svirfneblin enclave in Mantol-Derith (see {@area chapter 9|34e|x}), and working with the rest of the Stoneheart Enclave."
 									]
 								},
 								{
@@ -15332,7 +15332,7 @@
 							"page": 100,
 							"id": "284",
 							"entries": [
-								"If the gelatinous cube {@creature Glabbagool|OotA} travels with the party (see {@adventure chapter 4|OotA|3}), its presence poses a few challenges in Blingdenstone. The recent ooze attacks have the deep gnomes rattled, and an intelligent, telepathic gelatinous cube is something beyond their understanding. The characters have to convince the svirfneblin to allow their unusual companion inside, or tell it to remain outside the settlement. If left outside, {@creature Glabbagool|OotA} might eventually find its way in through the wererat warrens, giving the characters insight into how the other oozes are getting in, or appearing in the nick of time to help the characters if they find themselves in peril."
+								"If the gelatinous cube {@creature Glabbagool|OotA} travels with the party (see {@area chapter 4|134|x}), its presence poses a few challenges in Blingdenstone. The recent ooze attacks have the deep gnomes rattled, and an intelligent, telepathic gelatinous cube is something beyond their understanding. The characters have to convince the svirfneblin to allow their unusual companion inside, or tell it to remain outside the settlement. If left outside, {@creature Glabbagool|OotA} might eventually find its way in through the wererat warrens, giving the characters insight into how the other oozes are getting in, or appearing in the nick of time to help the characters if they find themselves in peril."
 							]
 						},
 						{
@@ -15444,7 +15444,7 @@
 							"id": "28c",
 							"entries": [
 								"The Stoneheart Enclave has its headquarters in this cavern suffused with {@i faerzress} and elemental energy. This quarry doesn't provide stone for construction, since Blingdenstone builders need only take a pick to any wall to find their building materials. Rather, this cavern provides the small army of earth elementals aiding the settlers, and its magical stone is used in the creation of items such as {@item Elemental Gem||earth elemental gems}, {@item Ring of Earth Elemental Command||rings of earth elemental command}, and {@item Stone of Controlling Earth Elementals||stones of controlling earth elementals}. Elementals entering into the Material Plane here, whether by spell or other means, have an additional 2 Hit Dice.",
-								"Normally, Yantha Coaxrock leads the operations in the quarry. While she is in Mantol-Derith (see {@adventure chapter 9|OotA|8}), her apprentice Nomi Pathshutter is in charge of the druids and wizards of the Stoneheart Enclave.",
+								"Normally, Yantha Coaxrock leads the operations in the quarry. While she is in Mantol-Derith (see {@area chapter 9|34e|x}), her apprentice Nomi Pathshutter is in charge of the druids and wizards of the Stoneheart Enclave.",
 								{
 									"type": "entries",
 									"name": "Elemental Healing",
@@ -21839,7 +21839,7 @@
 							"entries": [
 								"The main gate of Blingdenstone is a door made of steel and mithral, inlaid with a secret magic-resistant alloy and plated with adamantine. The gate has AC 23, 60 hit points, a damage threshold of 20, resistance to thunder damage, and immunity to poison and psychic damage.",
 								"The terrace between the top of the stairs and the gate has a slight upward slope. The slope imposes disadvantage on checks made to ram the gate.",
-								"Eight {@creature Deep Gnome (Svirfneblin)||deep gnomes} guard the gate. One of them carries a {@item spell gem|OotA} (see {@adventure appendix B|OotA|18}) that contains a {@spell see invisibility} spell and uses it to scan for {@condition invisible} creatures when the party arrives. Arriving characters are questioned to determine their intentions. The guards are thorough but not threatening; as long as the characters seem benign, they are granted entry. Four of the guards escort them through the maze (area 3) and the gauntlet (area 4) to Inner Blingdenstone.",
+								"Eight {@creature Deep Gnome (Svirfneblin)||deep gnomes} guard the gate. One of them carries a {@item spell gem|OotA} (see {@area appendix B|5d5|x}) that contains a {@spell see invisibility} spell and uses it to scan for {@condition invisible} creatures when the party arrives. Arriving characters are questioned to determine their intentions. The guards are thorough but not threatening; as long as the characters seem benign, they are granted entry. Four of the guards escort them through the maze (area 3) and the gauntlet (area 4) to Inner Blingdenstone.",
 								"Having {@creature Jimjar|OotA}, {@creature Topsy|OotA}, or {@creature Turvy|OotA} in the party helps smooth the characters' entrance to Blingdenstone. This is especially important if the party contains one or more drow, whose presence would otherwise demand an armed escort at all times within the settlement.",
 								"If the characters reveal that they are fleeing the drow, the guards decide that Chief Dorbo Diggermattock should hear their tale. The armed escort that brings the characters into the settlement leads them to an audience with the chief in area 14."
 							]
@@ -22149,7 +22149,7 @@
 									"page": 103,
 									"id": "2a4",
 									"entries": [
-										"Once destroyed, the hostile cubes spill their contents on the ground: 12 gp and a {@item +1 shortsword} of drow manufacture (see the \"{@adventure Drowcraft Items|OotA|18}\" sidebar in appendix B)."
+										"Once destroyed, the hostile cubes spill their contents on the ground: 12 gp and a {@item +1 shortsword} of drow manufacture (see the \"{@area Drowcraft Items|5d5|x}\" sidebar in appendix B)."
 									]
 								}
 							]
@@ -22662,7 +22662,7 @@
 							"page": 106,
 							"id": "2b4",
 							"entries": [
-								"Gurnik Tapfinger, head priest of Callarduran Smoothhands in the Stoneheart Enclave, approaches the characters if they show any interest in the Speaking Stones (use the {@creature priest} statistics in the {@i Monster Manual}, but also give Gurnik the Stone Camouflage, Gnome Cunning, and Innate Spellcasting features of a {@creature Deep Gnome (Svirfneblin)||deep gnome}). He asks them to undertake a task in a closed-off area of the old city known as Rockblight, where the temple of his god stands desecrated. If the characters agree, he gives them a ruby {@item spell gem|OotA} (see {@adventure appendix B|OotA|18}) containing the {@spell hallow} spell and asks them to place the gem in the Steadfast Stone's menhir (see area 22).",
+								"Gurnik Tapfinger, head priest of Callarduran Smoothhands in the Stoneheart Enclave, approaches the characters if they show any interest in the Speaking Stones (use the {@creature priest} statistics in the {@i Monster Manual}, but also give Gurnik the Stone Camouflage, Gnome Cunning, and Innate Spellcasting features of a {@creature Deep Gnome (Svirfneblin)||deep gnome}). He asks them to undertake a task in a closed-off area of the old city known as Rockblight, where the temple of his god stands desecrated. If the characters agree, he gives them a ruby {@item spell gem|OotA} (see {@area appendix B|5d5|x}) containing the {@spell hallow} spell and asks them to place the gem in the Steadfast Stone's menhir (see area 22).",
 								"Gurnik warns them that once they place the gem, Ogrémoch's Bane will send its servants to stop them. They must defeat these servants until the gem awakens three temple guardians, at which point the temple will be cleansed and the characters can leave. Once the characters accomplish this task, Gurnik channels the power of the cleansed temple, bestowing a {@reward blessing of protection} or a {@reward blessing of weapon enhancement} on each of the characters (each player's choice); see \"{@book Other Rewards|DMG|7|Other Rewards}\" in chapter 7 of the {@i Dungeon Master's Guide} for more information on blessings."
 							]
 						}
@@ -22722,7 +22722,7 @@
 					"page": 107,
 					"id": "2ba",
 					"entries": [
-						"The Foaming Mug was built as an inn to house foreign guests visiting Blingdenstone. It was abandoned after the drow invasion but has recently reopened. While its supply of surface foods and beverages is meager, the rooms are sized for Medium guests, with comfortable beds and two separate hot springs used for bathing and relaxation. There are no other guests currently, so party members who stay here have the inn to themselves. Many svirfneblin frequent the inn's taproom after work, keeping the place lively. The tavern serves Darklake Stout, an ale that the svirfneblin purchase from duergar traders in Mantol-Derith (see {@adventure chapter 9|OotA|8}).",
+						"The Foaming Mug was built as an inn to house foreign guests visiting Blingdenstone. It was abandoned after the drow invasion but has recently reopened. While its supply of surface foods and beverages is meager, the rooms are sized for Medium guests, with comfortable beds and two separate hot springs used for bathing and relaxation. There are no other guests currently, so party members who stay here have the inn to themselves. Many svirfneblin frequent the inn's taproom after work, keeping the place lively. The tavern serves Darklake Stout, an ale that the svirfneblin purchase from duergar traders in Mantol-Derith (see {@area chapter 9|34e|x}).",
 						"Tappy Foamstrap, a bored {@creature Deep Gnome (Svirfneblin)||deep gnome}, runs the inn. The characters' arrival is the most exciting thing that has happened in months, so she peppers them with questions about their lives and adventures, pushing free drinks and food on them.",
 						{
 							"type": "entries",
@@ -23876,7 +23876,7 @@
 										"Phosphorescent lichen illuminates this cave, the floor of which is covered with pools of green slime. More green slime clings to the ceiling and forms hideous drapes along the walls. In the middle of the cave, facing east, is a slime-covered throne."
 									]
 								},
-								"The {@creature The Pudding King|OotA|Pudding King} (see {@adventure appendix C|OotA|19}) holds court here, attended by his royal \"children,\" {@creature Princess Ebonmire|OotA} and {@creature Gray Ooze||Prince Livid} (see the \"Royal Oozes\" sidebar).",
+								"The {@creature The Pudding King|OotA|Pudding King} (see {@area appendix C|5e2|x}) holds court here, attended by his royal \"children,\" {@creature Princess Ebonmire|OotA} and {@creature Gray Ooze||Prince Livid} (see the \"Royal Oozes\" sidebar).",
 								"The Pudding's King's throne is made of chiseled stone and sculpted with lidless eyes and gaping mouths. A patch of green slime covers it (see \"{@book Dungeon Hazards|DMG|5|Dungeon Hazards}\" in chapter 5 of the {@i Dungeon Master's Guide}). More patches of green slime hang from the ceiling and form pools on the floor. The pools are easily avoided, while the patches on the ceiling don't fall unless {@creature the Pudding King|OotA} commands them to. {@creature The Pudding King|OotA} can use a bonus action to make a patch of green slime fall from the ceiling onto a creature below.",
 								"In front of the throne is a footstool made from a squat, {@condition petrified} mushroom. The mushroom's cap can be removed, revealing a hollow compartment in the stem where {@creature the Pudding King|OotA} hides his treasure.",
 								{
@@ -24123,7 +24123,7 @@
 										"{@creature The Pudding King|OotA} cowers behind his slime-covered throne and chortles in his joy. \"Callooh! Callay! Now you can join the party!\" he cackles. \"You can be one with the Faceless Lord. Just let yourselves be eaten and disgorged!\""
 									]
 								},
-								"The {@creature The Pudding King|OotA|Pudding King} (see {@adventure appendix C|OotA|19}) prefers to cast spells while using the throne for cover. As a bonus action on his turn, he commands a patch of green slime to drop from the ceiling onto one randomly determined party member (see \"{@book Dungeon Hazards|DMG|5|Dungeon Hazards}\" in chapter 5 of the Dungeon Master's Guide for the rules and effects of green slime).",
+								"The {@creature The Pudding King|OotA|Pudding King} (see {@area appendix C|5e2|x}) prefers to cast spells while using the throne for cover. As a bonus action on his turn, he commands a patch of green slime to drop from the ceiling onto one randomly determined party member (see \"{@book Dungeon Hazards|DMG|5|Dungeon Hazards}\" in chapter 5 of the Dungeon Master's Guide for the rules and effects of green slime).",
 								"When one or more of the characters close to within reach of {@creature the Pudding King|OotA}, he laughs madly as he tears away his humanoid guise and transforms into an ooze. When he reaches 0 hit points, he shrieks as he dissolves into a dense puddle of goo. Read the following boxed text as he expires:",
 								{
 									"type": "insetReadaloud",
@@ -24163,7 +24163,7 @@
 					"entries": [
 						"The characters can leave Blingdenstone as heroes of the svirfneblin. If they express interest in visiting other Underdark locations, the deep gnomes give them whatever help they can, including placing them in a caravan to Gracklstugh or Neverlight Grove. If the characters ask for help reaching the surface world, the gnomes guiding them to a tunnel that leads there (eventually). They also provide enough food, water, and other basic supplies for the party's journey.",
 						"The characters achieve a great victory if they defeat {@creature the Pudding King|OotA}, but their victory is incomplete. {@creature The Pudding King|OotA}'s death is a small setback for Juiblex, and the demon lord might send another minion to command the remaining oozes in Blingdenstone until they are destroyed.",
-						"The \"banquet\" {@creature the Pudding King|OotA} referred to is the demonic rite of domination through which Zuggtmoy plans to transform the Underdark into her new abyssal domain. See chapter 16, \"{@adventure The Fetid Wedding|OotA|15},\" for more information."
+						"The \"banquet\" {@creature the Pudding King|OotA} referred to is the demonic rite of domination through which Zuggtmoy plans to transform the Underdark into her new abyssal domain. See chapter 16, \"{@area The Fetid Wedding|575|x},\" for more information."
 					]
 				}
 			]
@@ -24175,7 +24175,7 @@
 			"id": "308",
 			"entries": [
 				"This chapter marks the midpoint of {@i Out of the Abyss} and sees the characters finally make their way out of the Underdark. Before their final push to freedom, however, the vengeful drow pursuing the adventurers catch up to them, intent on dragging them back to their domain of perpetual darkness.",
-				"If they survive this final confrontation, the characters reach the surface in a place of your choosing. After all their arduous adventures, they are finally safe to return to their homes, and must say goodbye to many of the NPCs who've been traveling with them. Though the characters don't yet know it, their exploits in the Underdark will bring them to the attention of the dwarves of Gauntlgrym, setting the stage for {@adventure chapter 8|OotA|7} and a new call to adventure.",
+				"If they survive this final confrontation, the characters reach the surface in a place of your choosing. After all their arduous adventures, they are finally safe to return to their homes, and must say goodbye to many of the NPCs who've been traveling with them. Though the characters don't yet know it, their exploits in the Underdark will bring them to the attention of the dwarves of Gauntlgrym, setting the stage for {@area chapter 8|323|x} and a new call to adventure.",
 				"By the time they reach this point, the characters should be at least 7th level, having overcome countless challenges in their wild and dangerous journey through the locations described in chapters 1 through 6. They should also have reached a terrible conclusion: multiple demon lords of the Abyss are at large in the Underdark and could soon threaten the surface world.",
 				{
 					"type": "image",
@@ -24206,7 +24206,7 @@
 									"page": 116,
 									"id": "30b",
 									"entries": [
-										"The deep gnome settlement (see {@adventure chapter 6|OotA|5}) has the most dealings with the surface world of any community in this region of the Underdark, and the adventurers can find the resources there to guide them out. However, the deep gnomes are dealing with a number of looming threats to their settlement, and they can't afford to help the characters unless the characters help them first.",
+										"The deep gnome settlement (see {@area chapter 6|25f|x}) has the most dealings with the surface world of any community in this region of the Underdark, and the adventurers can find the resources there to guide them out. However, the deep gnomes are dealing with a number of looming threats to their settlement, and they can't afford to help the characters unless the characters help them first.",
 										"Since Blingdenstone is the most obvious and reliable location from which to find a way out of the Underdark, you might want to steer the campaign to other locations first. This can be done by treating the other chapters as side adventures to the characters' main journey, with many of those side adventures focused on the characters helping their NPC companions return to their homes in the Underdark."
 									]
 								},
@@ -24216,7 +24216,7 @@
 									"page": 117,
 									"id": "30c",
 									"entries": [
-										"The duergar of Gracklstugh have fewer dealings with the surface world compared to other Underdark races, relying more on trade flowing through Mantol-Derith (see {@adventure chapter 9|OotA|8}). The paranoid duergar are reluctant to share known routes to the surface world, so the adventurers need to cultivate considerable influence with the gray dwarves to earn such a prize."
+										"The duergar of Gracklstugh have fewer dealings with the surface world compared to other Underdark races, relying more on trade flowing through Mantol-Derith (see {@area chapter 9|34e|x}). The paranoid duergar are reluctant to share known routes to the surface world, so the adventurers need to cultivate considerable influence with the gray dwarves to earn such a prize."
 									]
 								},
 								{
@@ -24225,7 +24225,7 @@
 									"page": 117,
 									"id": "30d",
 									"entries": [
-										"The drow of Menzoberranzan know of several tunnels in this region of the Underdark that lead to the surface world. Characters lucky enough to find one eventually emerge in the Lurkwood, a forest south of the Spine of the World mountains. For more information on the Wormwrithings, see {@adventure chapter 13|OotA|12}."
+										"The drow of Menzoberranzan know of several tunnels in this region of the Underdark that lead to the surface world. Characters lucky enough to find one eventually emerge in the Lurkwood, a forest south of the Spine of the World mountains. For more information on the Wormwrithings, see {@area chapter 13|42b|x}."
 									]
 								},
 								{
@@ -24283,7 +24283,7 @@
 							"page": 117,
 							"id": "313",
 							"entries": [
-								"Companions such as {@creature Eldeth Feldrun|OotA|Eldeth} and {@creature Ront|OotA}, who prefer to live on or near the surface, gladly follow the characters all the way out if they can. Eldeth wishes to return to Gauntlgrym, and her presence there can provide a connection for the characters when they visit the dwarven settlement in {@adventure chapter 8|OotA|7}. If Eldeth didn't survive, she might have charged the characters with returning her body or effects to Gauntlgrym. {@creature Ront|OotA} might wish to rejoin his tribe or seek a new home elsewhere, based on how the events in the earlier chapters of the adventure have influenced him. Depending on how he was treated, the orc most likely parts from the characters in peace\u2014out of respect for their battle prowess, if nothing else."
+								"Companions such as {@creature Eldeth Feldrun|OotA|Eldeth} and {@creature Ront|OotA}, who prefer to live on or near the surface, gladly follow the characters all the way out if they can. Eldeth wishes to return to Gauntlgrym, and her presence there can provide a connection for the characters when they visit the dwarven settlement in {@area chapter 8|323|x}. If Eldeth didn't survive, she might have charged the characters with returning her body or effects to Gauntlgrym. {@creature Ront|OotA} might wish to rejoin his tribe or seek a new home elsewhere, based on how the events in the earlier chapters of the adventure have influenced him. Depending on how he was treated, the orc most likely parts from the characters in peace\u2014out of respect for their battle prowess, if nothing else."
 							]
 						},
 						{
@@ -24320,7 +24320,7 @@
 									"id": "317",
 									"entries": [
 										"Each participant in the chase rolls a {@dice d20} at the end of its turn and consults the Drow Chase Complications table. The result (if any) affects the next chase participant in initiative order.",
-										"If the characters escape from the drow, they can exit the Underdark unopposed. Ilvara returns in disgrace with nothing to show for her considerable efforts, although she and others from Velkynvelve might reappear when the adventurers return to the Underdark (see chapter 15, \"{@adventure The City of Spiders|OotA|14}\").",
+										"If the characters escape from the drow, they can exit the Underdark unopposed. Ilvara returns in disgrace with nothing to show for her considerable efforts, although she and others from Velkynvelve might reappear when the adventurers return to the Underdark (see chapter 15, \"{@area The City of Spiders|4d2|x}\").",
 										"If you want to extend the chase, the drow could pursue the characters onto the surface, which places them at a disadvantage once the sun comes up (see \"Evening the Odds\").",
 										"If the drow catch up with the characters, the chase becomes a combat (see \"Stand and Fight\")."
 									]
@@ -24372,7 +24372,7 @@
 									"page": 119,
 									"id": "31a",
 									"entries": [
-										"The characters can claim any equipment and treasure carried by the drow, although drowcraft items don't survive exposure to sunlight (see the \"{@adventure Drowcraft Items|OotA|18}\" sidebar in appendix B). In addition, if the characters fled Velkynvelve without retrieving specific magic items or valuables, Ilvara can be carrying those items, allowing the adventurers to finally reclaim their property."
+										"The characters can claim any equipment and treasure carried by the drow, although drowcraft items don't survive exposure to sunlight (see the \"{@area Drowcraft Items|5d5|x}\" sidebar in appendix B). In addition, if the characters fled Velkynvelve without retrieving specific magic items or valuables, Ilvara can be carrying those items, allowing the adventurers to finally reclaim their property."
 									]
 								},
 								{
@@ -24394,7 +24394,7 @@
 					"page": 119,
 					"id": "31c",
 					"entries": [
-						"The end of this chapter of {@i Out of the Abyss} forms a break between the first half of the adventure and the second half, which begins when the characters are summoned to an audience with King Bruenor Battlehammer of Gauntlgrym (see {@adventure chapter 8|OotA|7}). You can use the break between the two halves of the adventure to deal with any or all of the following.",
+						"The end of this chapter of {@i Out of the Abyss} forms a break between the first half of the adventure and the second half, which begins when the characters are summoned to an audience with King Bruenor Battlehammer of Gauntlgrym (see {@area chapter 8|323|x}). You can use the break between the two halves of the adventure to deal with any or all of the following.",
 						{
 							"type": "entries",
 							"name": "Overland Travel",
@@ -24419,7 +24419,7 @@
 							"page": 119,
 							"id": "31f",
 							"entries": [
-								"Characters can visit a surface community or trading post to acquire proper equipment and supplies in exchange for some of the treasures they bring out of the Underdark. By the beginning of {@adventure chapter 8|OotA|7}, they should be properly and fully equipped for the first time since the start of the adventure."
+								"Characters can visit a surface community or trading post to acquire proper equipment and supplies in exchange for some of the treasures they bring out of the Underdark. By the beginning of {@area chapter 8|323|x}, they should be properly and fully equipped for the first time since the start of the adventure."
 							]
 						},
 						{
@@ -24429,7 +24429,7 @@
 							"id": "320",
 							"entries": [
 								"The events the characters have witnessed during their harrowing escape are likely to make them want to warn the world that demon lords have come to the Underdark. It's only a matter of time before these fiends find their own way out of the depths, threatening the existence of the surface world.",
-								"Characters belonging to factions might feel compelled to report to their superiors. Others can share what they've learned with well-connected NPCs who can get the word out. The attention gained by the characters as a result leads into the events of {@adventure chapter 8|OotA|7}."
+								"Characters belonging to factions might feel compelled to report to their superiors. Others can share what they've learned with well-connected NPCs who can get the word out. The attention gained by the characters as a result leads into the events of {@area chapter 8|323|x}."
 							]
 						},
 						{
@@ -24439,7 +24439,7 @@
 							"id": "321",
 							"entries": [
 								"The characters should be 8th level by the start of the next chapter. If they're not there yet, plan additional encounters so that the characters can earn more experience points during their overland journey to Gauntlgrym.",
-								"If you'd rather skip the encounters and jump ahead to {@adventure chapter 8|OotA|7}, assume that the characters survive a few harrowing encounters en route (which you can describe or not) and gain enough XP to advance to 8th level by the time they reach Gauntlgrym.",
+								"If you'd rather skip the encounters and jump ahead to {@area chapter 8|323|x}, assume that the characters survive a few harrowing encounters en route (which you can describe or not) and gain enough XP to advance to 8th level by the time they reach Gauntlgrym.",
 								{
 									"type": "entries",
 									"name": "Drow Chase Complications",
@@ -25203,8 +25203,8 @@
 						"Having previously been imprisoned for many mortal lifetimes on the Material Plane, Fraz-Urb'luu had taken steps to bind himself to his layer of the Abyss. As soon as he felt the tug of Gromph's spell, Fraz-Urb'luu transferred his evil life force to a specially crafted, magically protected receptacle\u2014a black jewel. However, the spell proved irresistible, and the precious receptacle was cast into the Underdark. As a further indignity, Fraz-Urb'luu found himself trapped within the gem, unable to escape while on the Material Plane.",
 						"Anyone who touches the gem risks falling prey to delusional madness. A duergar ale merchant named Krimgol Muzgardt found the gem and took it to Mantol-Derith. By the time he arrived, Krimgol had succumbed to the delusion that he was a {@i calassabrak}\u2014a duergar without honor. He paid Yantha Coaxrock, an honest svirfneblin mage, to appraise the jewel, hoping that he could use it to buy back the goodwill of his clan. Touched by the gem's madness, Yantha lied to Krimgol and told him the gem was worthless. She offered a lump of gold in exchange, whereupon Krimgol suspected treachery and demanded the gem's immediate return. While Krimgol and Yantha argued, one of Yantha's apprentices tried to hide the gem for his mistress but succumbed to its evil power. The apprentice, Flink, took the gem to the drow enclave, hoping to trade it for some rare spell components that he imagined Yantha needing to make Krimgol go away. A gargoyle assigned to watch for thieves spotted the gem and wrested it from Flink, who hid for fear of incurring Yantha's wrath. Soon thereafter, the delusional gargoyle laid eyes on a drow assassin named {@creature Kinyel Druu'giir|OotA} and was instantly smitten by her. The gargoyle gave her the black gem as a token of its devotion, which she, in her madness, mistook as a payment from the drow enclave to assassinate {@creature Lorthuun|OotA}, a maimed beholder allied with the Zhentarim.",
 						"Yantha's theft of the gem led Krimgol to leave and return with duergar reinforcements. They attacked the svirfneblin enclave and captured Yantha, triggering open conflict between the two enclaves. With the fragile truce in Mantol-Derith finally broken, the drow are preparing to take out the weakened duergar and svirfneblin forces. Meanwhile, Druu'giir has infiltrated a drow delegation sent to meet with representatives of the Zhentarim enclave to discuss how best to divvy up Mantol-Derith between them.",
-						"Finding and destroying the gem prevents others from falling prey to Fraz-Urb'luu's madness. While imprisoned inside the gem, {@creature Fraz-Urb'luu|MTF} retains his alignment and senses (see {@adventure appendix D|OotA|20}), but loses all of his other attributes and can't take actions. The gem is as big as a human fist and has AC 10, 1 hit point, immunity to poison and psychic damage, and immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons. It is also immune to any spell effect that requires a saving throw. While inside the gem, the demon lord can't be attacked, harmed, coerced, or heard. He can be contacted via telepathy, however. Shattering the gem releases Fraz-Urb'luu's life force, which instantly returns to the demon lord's body in the Abyss.",
-						"Any creature that touches the gem must succeed on a {@dc 23} Charisma saving throw or succumb to a form of indefinite madness, as determined by rolling on the Indefinite Madness of Fraz-Urb'luu table in {@adventure appendix D|OotA|20}. A creature that succeeds on the saving throw is immune to the madness-inducing effect of the gem for the next 24 hours. The madness lasts until cured.",
+						"Finding and destroying the gem prevents others from falling prey to Fraz-Urb'luu's madness. While imprisoned inside the gem, {@creature Fraz-Urb'luu|MTF} retains his alignment and senses (see {@area appendix D|5e4|x}), but loses all of his other attributes and can't take actions. The gem is as big as a human fist and has AC 10, 1 hit point, immunity to poison and psychic damage, and immunity to bludgeoning, piercing, and slashing damage from nonmagical weapons. It is also immune to any spell effect that requires a saving throw. While inside the gem, the demon lord can't be attacked, harmed, coerced, or heard. He can be contacted via telepathy, however. Shattering the gem releases Fraz-Urb'luu's life force, which instantly returns to the demon lord's body in the Abyss.",
+						"Any creature that touches the gem must succeed on a {@dc 23} Charisma saving throw or succumb to a form of indefinite madness, as determined by rolling on the Indefinite Madness of Fraz-Urb'luu table in {@area appendix D|5e4|x}. A creature that succeeds on the saving throw is immune to the madness-inducing effect of the gem for the next 24 hours. The madness lasts until cured.",
 						"If the characters destroy Fraz-Urb'luu's gem, award each of them 1,000 XP.",
 						{
 							"type": "inset",
@@ -25241,8 +25241,8 @@
 					"page": 133,
 					"id": "353",
 					"entries": [
-						"If the characters reached an agreement with Davra Jassur in {@adventure chapter 8|OotA|7}, they can travel to Mantol-Derith along one of the many routes the Zhentarim use to move merchandise to the trade hub from the surface world. The Black Network doesn't reveal the shortest route for security reasons. Instead, its representatives lead the adventurers to a remote cave in the Surbrin Hills, about 180 miles east of Gauntlgrym. Black Network sentries (six human {@creature Veteran||veterans}) guard the cave, which leads to a series of tunnels. These tunnels descend sharply as they wind their way east for another 200 miles. Check for random encounters as the party's expedition makes its way to Mantol-Derith, using the tables in {@area chapter 2|07f|x}.",
-						"If the characters are traveling with faction representatives (see {@adventure chapter 8|OotA|7}), these NPCs help the characters overcome random encounters. Whenever a random encounter check yields a \"no encounter\" result, use that opportunity to roleplay some of these NPCs and develop their personalities as you see fit.",
+						"If the characters reached an agreement with Davra Jassur in {@area chapter 8|323|x}, they can travel to Mantol-Derith along one of the many routes the Zhentarim use to move merchandise to the trade hub from the surface world. The Black Network doesn't reveal the shortest route for security reasons. Instead, its representatives lead the adventurers to a remote cave in the Surbrin Hills, about 180 miles east of Gauntlgrym. Black Network sentries (six human {@creature Veteran||veterans}) guard the cave, which leads to a series of tunnels. These tunnels descend sharply as they wind their way east for another 200 miles. Check for random encounters as the party's expedition makes its way to Mantol-Derith, using the tables in {@area chapter 2|07f|x}.",
+						"If the characters are traveling with faction representatives (see {@area chapter 8|323|x}), these NPCs help the characters overcome random encounters. Whenever a random encounter check yields a \"no encounter\" result, use that opportunity to roleplay some of these NPCs and develop their personalities as you see fit.",
 						"Mantol-Derith abuts the Darklake and is roughly six days' travel from Blingdenstone and Menzoberranzan, and 22 days from Gracklstugh via the Darklake locks (see the overview map of the Underdark in {@area chapter 2|051|x}). Characters accompanied by Zhentarim guides approach Mantol-Derith via a subterranean rift. A narrow trail winds up the side of the rift, ending at a secret door in the northwest corner of the trade hub (area 1a)."
 					]
 				},
@@ -28146,7 +28146,7 @@
 									"page": 135,
 									"id": "35f",
 									"entries": [
-										"If the characters cure {@creature Sladis Vadir|OotA}'s madness, award each of them 100 XP. If he is safely returned to Morista Malkin in Gauntlgrym (see {@adventure chapter 8|OotA|7}), award each character 150 XP."
+										"If the characters cure {@creature Sladis Vadir|OotA}'s madness, award each of them 100 XP. If he is safely returned to Morista Malkin in Gauntlgrym (see {@area chapter 8|323|x}), award each character 150 XP."
 									]
 								}
 							]
@@ -28276,7 +28276,7 @@
 									"id": "36b",
 									"entries": [
 										"The svirfneblin holding the bag is {@creature Peebles|OotA}. He came to Mantol-Derith to investigate rumors of a beholder living here. He claims to be fascinated by aberrations, beholders in particular. He has confirmed that there are no beholders in the duergar or svirfneblin enclaves, but he hasn't yet been able to explore the drow or Zhentarim enclaves.",
-										"{@creature Peebles|OotA} is the deranged, neutral evil servant of {@creature Xazax the Eyemonger|OotA}, a beholder that hunts other beholders, takes their eyestalks, and grafts them to its own body. {@creature Peebles|OotA} is Xazax's private surgeon. Once he has confirmed the presence of a beholder in Mantol-Derith, {@creature Peebles|OotA} plans to find his \"master\" and share the news of his discovery. He suggests that the characters take him to the drow or Zhentarim enclave, under the pretense of having information about the duergar attack. Once he has found {@creature Lorthuun|OotA} the beholder, {@creature Peebles|OotA} tries to leave Mantol-Derith at once. If the characters delay his departure, he gets angry at them and claims to be an expert Underdark guide, promising to lead them wherever they wish to go. If they accept his offer, he leads them to {@creature Xazax the Eyemonger|OotA} (see {@adventure chapter 10|OotA|9} for more information).",
+										"{@creature Peebles|OotA} is the deranged, neutral evil servant of {@creature Xazax the Eyemonger|OotA}, a beholder that hunts other beholders, takes their eyestalks, and grafts them to its own body. {@creature Peebles|OotA} is Xazax's private surgeon. Once he has confirmed the presence of a beholder in Mantol-Derith, {@creature Peebles|OotA} plans to find his \"master\" and share the news of his discovery. He suggests that the characters take him to the drow or Zhentarim enclave, under the pretense of having information about the duergar attack. Once he has found {@creature Lorthuun|OotA} the beholder, {@creature Peebles|OotA} tries to leave Mantol-Derith at once. If the characters delay his departure, he gets angry at them and claims to be an expert Underdark guide, promising to lead them wherever they wish to go. If they accept his offer, he leads them to {@creature Xazax the Eyemonger|OotA} (see {@area chapter 10|393|x} for more information).",
 										"{@creature Peebles|OotA}'s bag is made from stitched quaggoth hide and contains a pair of sharpened flint knives, a spool of thread made from roper gut, a thin iron needle, two pounds of barrelstalk flesh, and a copper canteen containing a half gallon of water."
 									]
 								},
@@ -28413,7 +28413,7 @@
 							"page": 138,
 							"id": "376",
 							"entries": [
-								"The stone double doors to the warehouse are unlocked and open to reveal a 40-foot-high, rough-hewn chamber containing thirty {@creature duergar} merchants and twelve {@creature Male Steeder|MTF|male steeders} (see {@adventure appendix C|OotA|19}) used as pack animals. These duergar aren't spoiling for a fight and parley with intruders, sharing the following information:",
+								"The stone double doors to the warehouse are unlocked and open to reveal a 40-foot-high, rough-hewn chamber containing thirty {@creature duergar} merchants and twelve {@creature Male Steeder|MTF|male steeders} (see {@area appendix C|5e2|x}) used as pack animals. These duergar aren't spoiling for a fight and parley with intruders, sharing the following information:",
 								{
 									"type": "list",
 									"items": [
@@ -28429,7 +28429,7 @@
 									"page": 138,
 									"id": "377",
 									"entries": [
-										"{@creature Yantha Coaxrock|OotA|Yantha} is the leader of the Stoneheart Enclave based in Blingdenstone (see {@adventure chapter 6|OotA|5}). She is bound with rope and spinning an elaborate lie about how the drow must've {@condition charmed} her and taken Krimgol's gem. She has an Intelligence of 16 (+3) and the following additional feature:",
+										"{@creature Yantha Coaxrock|OotA|Yantha} is the leader of the Stoneheart Enclave based in Blingdenstone (see {@area chapter 6|25f|x}). She is bound with rope and spinning an elaborate lie about how the drow must've {@condition charmed} her and taken Krimgol's gem. She has an Intelligence of 16 (+3) and the following additional feature:",
 										{
 											"type": "inset",
 											"id": "378",
@@ -28694,7 +28694,7 @@
 					"id": "38b",
 					"entries": [
 						"If {@creature Ghazrim DuLoc|OotA} dies, characters can remove the ring from his dead hand and use it to find their way to Gravenhollow.",
-						"If the characters deduce that Kinyel's gem is responsible for the havoc in Mantol-Derith and inform the chief negotiators of this fact, the ones who are still alive are thankful enough to share disturbing news from their home settlements of Blingdenstone, Gracklstugh, and Menzoberranzan, respectively (see chapter 10, \"{@adventure Descent into the Depths|OotA|9}\").",
+						"If the characters deduce that Kinyel's gem is responsible for the havoc in Mantol-Derith and inform the chief negotiators of this fact, the ones who are still alive are thankful enough to share disturbing news from their home settlements of Blingdenstone, Gracklstugh, and Menzoberranzan, respectively (see chapter 10, \"{@area Descent into the Depths|393|x}\").",
 						{
 							"type": "inset",
 							"name": "Beholder Eyestalks",
@@ -28812,7 +28812,7 @@
 				"Having survived Mantol-Derith and obtained {@creature Ghazrim DuLoc|OotA}'s ring, the adventurers and their allies continue on into the Underdark. This time, rather than escaped prisoners looking for a way out, they are at the head of an expeditionary force ready to challenge whatever the Underdark has to offer.",
 				"Much of this middle section of the adventure is free-form, dictated largely by the characters' decisions and tactics. The adventurers' immediate destination is the legendary library of Gravenhollow (see {@area chapter 11|3cb|x}), where they gain information that likely takes them to the tower of Araj, home of the mysterious drow archmage {@creature Vizeran DeVir|OotA}. However, the characters are free to explore and visit different places before and after they explore Gravenhollow and unlock its secrets.",
 				"The events described in chapters 13 through 16 can be interspersed among the material in this part of the adventure, as the characters work to fully understand the new menaces that have appeared in the Underdark, seek new allies and information, and ultimately attempt to create a plan to end the demon lord threat.",
-				"Character advancement through this section of the adventure is important. The journey from Mantol-Derith to Gravenhollow should involve sufficient encounters and challenges for the characters to reach 10th level by the time they visit the stone giant library. As the characters travel from place to place, check for random encounters as normal (see {@area chapter 2|07f|x}), but swap out the creature encounters with ones presented in this chapter. Ideally, the characters should be 14th level by the time they crash Zuggtmoy's wedding (chapter 16, \"{@adventure The Fetid Wedding|OotA|15}\"), and 15th level for the final showdown against the demon lords (see chapter 17, \"{@adventure Against the Demon Lords|OotA|16}\").",
+				"Character advancement through this section of the adventure is important. The journey from Mantol-Derith to Gravenhollow should involve sufficient encounters and challenges for the characters to reach 10th level by the time they visit the stone giant library. As the characters travel from place to place, check for random encounters as normal (see {@area chapter 2|07f|x}), but swap out the creature encounters with ones presented in this chapter. Ideally, the characters should be 14th level by the time they crash Zuggtmoy's wedding (chapter 16, \"{@area The Fetid Wedding|575|x}\"), and 15th level for the final showdown against the demon lords (see chapter 17, \"{@area Against the Demon Lords|5a6|x}\").",
 				{
 					"type": "section",
 					"name": "Fellow Travelers",
@@ -28828,7 +28828,7 @@
 							"width": 1000,
 							"height": 756
 						},
-						"The characters initially traveled through the Underdark as a small group, perhaps joined by a few of their fellow prisoners from Velkynvelve and other allies they met along the way. Now, they return to the subterranean realm at the head of a group of allies that might outnumber the adventurers four-to-one, depending on how many NPCs were recruited from the factions in Gauntlgrym (see {@adventure chapter 8|OotA|7}). This changes some of the conditions described in \"{@area Underdark Travel|051|x}\" in chapter 2.",
+						"The characters initially traveled through the Underdark as a small group, perhaps joined by a few of their fellow prisoners from Velkynvelve and other allies they met along the way. Now, they return to the subterranean realm at the head of a group of allies that might outnumber the adventurers four-to-one, depending on how many NPCs were recruited from the factions in Gauntlgrym (see {@area chapter 8|323|x}). This changes some of the conditions described in \"{@area Underdark Travel|051|x}\" in chapter 2.",
 						{
 							"type": "inset",
 							"name": "Attacking in Force",
@@ -29174,7 +29174,7 @@
 														],
 														[
 															"19\u201320",
-															"{@creature Juiblex|MTF} (see {@adventure appendix D|OotA|20})"
+															"{@creature Juiblex|MTF} (see {@area appendix D|5e4|x})"
 														]
 													]
 												}
@@ -29379,14 +29379,14 @@
 							"entries": [
 								"If the adventurers encountered {@creature the Pudding King|OotA} and uncovered evidence of Juiblex's presence near Blingdenstone, they might want to return there to confirm that the svirfneblin settlement remains safe from the demon lord's influence.",
 								"Alternatively, if the characters didn't previously visit Blingdenstone, news of the challenges faced by the deep gnomes can reach them while they travel through the Underdark. Deep gnome merchants headed to Mantol-Derith bring word of oozes infesting the settlement, giving the characters an opportunity to face off against {@creature the Pudding King|OotA}.",
-								"At some point after {@creature the Pudding King|OotA} is dealt with, Juiblex and its servants make their way toward the caverns of Araumycos to crash Zuggtmoy's wedding (see chapter 16, \"{@adventure The Fetid Wedding|OotA|15}\"). If {@creature the Pudding King|OotA} is among the survivors, he leads the mad march to confront Zuggtmoy and her fungal followers.",
+								"At some point after {@creature the Pudding King|OotA} is dealt with, Juiblex and its servants make their way toward the caverns of Araumycos to crash Zuggtmoy's wedding (see chapter 16, \"{@area The Fetid Wedding|575|x}\"). If {@creature the Pudding King|OotA} is among the survivors, he leads the mad march to confront Zuggtmoy and her fungal followers.",
 								{
 									"type": "entries",
 									"name": "Reinforcements",
 									"page": 147,
 									"id": "3b7",
 									"entries": [
-										"The deep gnomes of Blingdenstone are valuable allies. In gratitude for the adventurers' aid, they offer to reinforce the party's expeditionary force with twelve {@creature Deep Gnome (Svirfneblin)||deep gnomes}. Chief Dorbo Diggermattock can also be persuaded to lend additional aid and troops, if the heroes present a compelling case. Use the information in {@adventure chapter 6|OotA|5} to guide any negotiations or arrangements the adventurers attempt to make with the svirfneblin."
+										"The deep gnomes of Blingdenstone are valuable allies. In gratitude for the adventurers' aid, they offer to reinforce the party's expeditionary force with twelve {@creature Deep Gnome (Svirfneblin)||deep gnomes}. Chief Dorbo Diggermattock can also be persuaded to lend additional aid and troops, if the heroes present a compelling case. Use the information in {@area chapter 6|25f|x} to guide any negotiations or arrangements the adventurers attempt to make with the svirfneblin."
 									]
 								}
 							]
@@ -29482,7 +29482,7 @@
 												"She speaks Common, Elvish, and Undercommon.",
 												"Khalessa's fey ancestry gives her advantage on saving throws against being {@condition charmed}, and magic can't put her to sleep.",
 												"She can cast the {@spell dancing lights} cantrip at will.",
-												"She owns a {@item hat of disguise}, which she uses to appear as a female drow while in the company of drow, and she wears a {@item Piwafwi (Cloak of Elvenkind)|OotA|piwafwi} (see {@adventure appendix B|OotA|18})."
+												"She owns a {@item hat of disguise}, which she uses to appear as a female drow while in the company of drow, and she wears a {@item Piwafwi (Cloak of Elvenkind)|OotA|piwafwi} (see {@area appendix B|5d5|x})."
 											]
 										},
 										"Khalessa urges the characters to turn back. If they don't, she fears that the drow force will overwhelm them. Having blown her cover to warn the characters, she asks to stay with them until they reach Gauntlgrym or an alliance settlement.",
@@ -29510,9 +29510,9 @@
 							"id": "3bf",
 							"entries": [
 								"If the characters return to Neverlight Grove, myconids loyal to {@creature Sovereign Basidia|OotA} (including {@creature Stool|OotA} and {@creature Rumpadump|OotA} if they remained behind) try to intercept them before their arrival and warn them off. The myconids say that matters have become grave, and that the characters should avoid the grove at all costs.",
-								"If the adventurers don't leave immediately, six {@creature Myconid Adult||myconid adults}, four {@creature Quaggoth Spore Servant||quaggoth spore servants}, and four {@creature Awakened Zurkhwood|OotA|awakened zurkhwoods} (see {@adventure appendix C|OotA|19}) loyal to Sovereign Phylo cut off their retreat. They surround the characters and their followers, offering to escort them to Phylo as the sovereign's honored guests.",
+								"If the adventurers don't leave immediately, six {@creature Myconid Adult||myconid adults}, four {@creature Quaggoth Spore Servant||quaggoth spore servants}, and four {@creature Awakened Zurkhwood|OotA|awakened zurkhwoods} (see {@area appendix C|5e2|x}) loyal to Sovereign Phylo cut off their retreat. They surround the characters and their followers, offering to escort them to Phylo as the sovereign's honored guests.",
 								"Sovereign Phylo is friendly and offers all visitors food and drink; however, his offerings are {@condition poisoned}. Each creature that consumes the food or drink must succeed on a {@dc 13} Constitution saving throw or become {@condition poisoned} for 8 hours. The creature is also {@condition unconscious} while {@condition poisoned} in this way. Any creature that remains {@condition unconscious} in the grove for 1 hour or more is afflicted by Zuggtmoy's spores, as described in {@area chapter 5|224|x}.",
-								"If the characters take Basidia's advice and turn back, the myconid sovereign promises to contact them again when \"the time is right to oppose Zuggtmoy\" (as described in chapter 16, \"{@adventure The Fetid Wedding|OotA|15}\")."
+								"If the characters take Basidia's advice and turn back, the myconid sovereign promises to contact them again when \"the time is right to oppose Zuggtmoy\" (as described in chapter 16, \"{@area The Fetid Wedding|575|x}\")."
 							]
 						},
 						{
@@ -29553,7 +29553,7 @@
 					"id": "3c2",
 					"entries": [
 						"The objective of the adventurers' return to the Underdark is to find Gravenhollow. Ancient legends state that every event that has ever occurred in the Underdark is recorded on the countless tablets and cylinders in Gravenhollow's halls. As such, it might be the key to discovering the cause of the demon lords' arrival.",
-						"The stone library lies west of the Wormwrithings, 360 miles from Mantol-Derith and 120 miles from Gauntlgrym. Only one tunnel leads to the library, and the magic surrounding Gravenhollow can change where the tunnel's entrance appears among the surrounding passageways, even as that magic allows visitors to locate its entrance. Fortunately for the characters, the library's awareness\u2014in tune with all events in the Underdark\u2014knows that they are coming. As such, the ring obtained from the Zhentarim in Mantol-Derith (see {@adventure chapter 9|OotA|8}) allows them to find the secret site. The journey from Mantol-Derith to Gravenhollow takes 60 days. If the characters {@spell teleport} back to Gauntlgrym and start there, the trip takes 20 days. See {@area chapters 2|051|x} and {@area 10|397|x} for information on traveling in the Underdark.",
+						"The stone library lies west of the Wormwrithings, 360 miles from Mantol-Derith and 120 miles from Gauntlgrym. Only one tunnel leads to the library, and the magic surrounding Gravenhollow can change where the tunnel's entrance appears among the surrounding passageways, even as that magic allows visitors to locate its entrance. Fortunately for the characters, the library's awareness\u2014in tune with all events in the Underdark\u2014knows that they are coming. As such, the ring obtained from the Zhentarim in Mantol-Derith (see {@area chapter 9|34e|x}) allows them to find the secret site. The journey from Mantol-Derith to Gravenhollow takes 60 days. If the characters {@spell teleport} back to Gauntlgrym and start there, the trip takes 20 days. See {@area chapters 2|051|x} and {@area 10|397|x} for information on traveling in the Underdark.",
 						{
 							"type": "entries",
 							"name": "Finding the Way",
@@ -29822,7 +29822,7 @@
 									"page": 153,
 									"id": "3d8",
 									"entries": [
-										"This echo of Graz'zt (see {@adventure appendix D|OotA|20}) is gathering all the information it can about the Underdark. The Dark Prince asks the characters what part of the Underdark they come from. If they mention the surface world, Graz'zt eyes widen as his curiosity is piqued."
+										"This echo of Graz'zt (see {@area appendix D|5e4|x}) is gathering all the information it can about the Underdark. The Dark Prince asks the characters what part of the Underdark they come from. If they mention the surface world, Graz'zt eyes widen as his curiosity is piqued."
 									]
 								},
 								{
@@ -29989,7 +29989,7 @@
 										"The library keeps its records on stone and crystal slabs, monoliths, and stelae fitting neatly in niches carved into the walls of every room. Thanks to the library's {@spell comprehend languages} effect, anyone can easily decipher and understand the runes and glyphs carved into the stone.",
 										"These records contain only what the librarians were able to write down. Even with their network of messengers and informants, and the visions they receive using the powers of the library, the stone giants are still mortal creatures. As such, the giants' own understanding might limit the characters' ability to locate information in the library.",
 										"The library's written records deal only with events in the Underdark and the history of giants. Like most stone giants, the librarians consider the surface world a realm of dreams, and what happens there is deemed less important than events in the Underdark.",
-										"To acquire information not inscribed in the records (including any events outside the Underdark), the characters need a {@item stonespeaker crystal|OotA} (see {@adventure appendix B|OotA|18}), after which they must find an appropriate archive to query events in the past, present, or future."
+										"To acquire information not inscribed in the records (including any events outside the Underdark), the characters need a {@item stonespeaker crystal|OotA} (see {@area appendix B|5d5|x}), after which they must find an appropriate archive to query events in the past, present, or future."
 									]
 								},
 								{
@@ -30102,7 +30102,7 @@
 						"If the characters are willing to talk to him, Vizeran tells them he has opposed the tyranny of Lolth and her priestesses for centuries. He believes that some kind of demonic invasion of the Underdark is underway, and he has come to Gravenhollow to confirm his suspicions and make plans to combat it.",
 						"The drow archmage suggests that the adventurers make their own inquiries\u2014and that they look in particular into Menzoberranzan and its archmage, Gromph Baenre. Vizeran then returns to his quarters, telling the adventurers how to seek the librarians if they don't already know how to do so.",
 						"During their time in the library, the characters can meet with Vizeran several times to exchange notes. The drow archmage already knows a lot of what has transpired since the demon lords arrived. He isn't, however, using the library to delve into specific events, so he welcomes the characters' input while remaining tight-lipped about his own intentions and goals.",
-						"If the characters threaten Vizeran, Kleve looms menacingly nearby even as the archmage tries to keep things civil, pointing out that there is nothing to be gained by fighting. If the adventurers attack him or Kleve, Vizeran casts {@spell time stop} and departs before {@creature Veldyskar|OotA} shows up (see \"A Place of Peace\" in the \"{@area Gravenhollow: General Features|3e2|x}\" sidebar). Kleve becomes {@condition invisible} and follows his master out of Gravenhollow. Despite their attack upon him, the archmage contacts the characters again in an attempt to forge an alliance (see chapter 12, \"{@adventure The Tower of Vengeance|OotA|11}\").",
+						"If the characters threaten Vizeran, Kleve looms menacingly nearby even as the archmage tries to keep things civil, pointing out that there is nothing to be gained by fighting. If the adventurers attack him or Kleve, Vizeran casts {@spell time stop} and departs before {@creature Veldyskar|OotA} shows up (see \"A Place of Peace\" in the \"{@area Gravenhollow: General Features|3e2|x}\" sidebar). Kleve becomes {@condition invisible} and follows his master out of Gravenhollow. Despite their attack upon him, the archmage contacts the characters again in an attempt to forge an alliance (see chapter 12, \"{@area The Tower of Vengeance|412|x}\").",
 						{
 							"type": "entries",
 							"name": "Approaching the Librarians",
@@ -30122,7 +30122,7 @@
 					"page": 156,
 					"id": "3f7",
 					"entries": [
-						"A creature attuned to a {@item stonespeaker crystal|OotA} (see {@adventure appendix B|OotA|18}) gains the ability to peer through the veils of time and receive visions of the past, present, and future\u2014but only while in Gravenhollow.",
+						"A creature attuned to a {@item stonespeaker crystal|OotA} (see {@area appendix B|5d5|x}) gains the ability to peer through the veils of time and receive visions of the past, present, and future\u2014but only while in Gravenhollow.",
 						{
 							"type": "image",
 							"href": {
@@ -30362,7 +30362,7 @@
 					"id": "410",
 					"entries": [
 						"As long as the characters remain respectful guests, the librarians don't mind them staying in Gravenhollow as long as they like. However, the library stops providing new visions after the characters learn the most essential information. If the players persist beyond that point, their efforts prove fruitless, and the librarians or their assistants suggest there is no more they can learn at this time.",
-						"The characters can travel with {@creature Vizeran DeVir|OotA|Vizeran}, or he provides them with a map and precise directions to guide them to Araj if they want to deal with other matters in the Underdark first. He emphasizes that time is of the essence. Every day the characters tarry allows the demon lords' power and influence in the Underdark to grow. See chapter 12, \"{@adventure The Tower of Vengeance|OotA|11},\" for more information about Araj.",
+						"The characters can travel with {@creature Vizeran DeVir|OotA|Vizeran}, or he provides them with a map and precise directions to guide them to Araj if they want to deal with other matters in the Underdark first. He emphasizes that time is of the essence. Every day the characters tarry allows the demon lords' power and influence in the Underdark to grow. See chapter 12, \"{@area The Tower of Vengeance|412|x},\" for more information about Araj.",
 						"The last favor the library provides for the adventurers is to have the tunnel out directly connect with routes leading to the characters' desired destination, whether that destination is Araj, Blingdenstone, Menzoberranzan, Gracklstugh, Mantol-Derith, the edge of the Darklake, or somewhere else.",
 						{
 							"type": "entries",
@@ -30400,7 +30400,7 @@
 							"width": 1000,
 							"height": 628
 						},
-						"Vizeran's tower lies on the edge of the Wormwrithings, about ten days from Menzoberranzan. The map and directions the archmage provides the adventurers in {@area chapter 11|40e|x} allow them to find the cavern where the tower stands without getting lost. Use random encounters from chapter 13, \"{@adventure The Wormwrithings|OotA|12},\" on the way to the tower.",
+						"Vizeran's tower lies on the edge of the Wormwrithings, about ten days from Menzoberranzan. The map and directions the archmage provides the adventurers in {@area chapter 11|40e|x} allow them to find the cavern where the tower stands without getting lost. Use random encounters from chapter 13, \"{@area The Wormwrithings|42b|x},\" on the way to the tower.",
 						"The final stretch to reach the tower is through a narrow passage off a side tunnel, concealed by a magically protected secret door. If Vizeran's map comes within 10 feet of the door, soft purple light outlines the word \"Araj\"\u2014a drow word for \"vengeance\"\u2014across its surface in spidery Elvish script. Touching the map to the door causes it to open for 1 minute or until the map is more than 100 feet away from it. If the characters travel with Vizeran, the secret door opens on his command.",
 						"The adventurers can travel to Araj with the full complement of their expeditionary force. Vizeran allows only the player characters within the tower, though the cavern around it offers space to camp and no risk of encounters. However, if the characters are riding giant lizards or other mounts, those mounts are unable to navigate the narrow route to the tower, and a separate camp farther from the tower will need to be established.",
 						{
@@ -30541,7 +30541,7 @@
 							"id": "41f",
 							"entries": [
 								"The only other person in Araj is Grin Ousstyl, Vizeran's {@creature drow mage} apprentice. A clever troublemaker from an out-of-favor house, Grin worked his way into the outlawed alliance of drow mages known as the Council of Spiders, but was careless and nearly executed for his ambition. Exiled from Menzoberranzan, he was taken in by Vizeran, who plays the role of a shadowy patron of the council. The young drow has continued his magical training under the archmage's tutelage.",
-								"Grin is loyal to his master but not well suited to such a solitary existence. He longs for the opportunity to return to Menzoberranzan, supporting the notion of an uprising to overthrow the matron mothers and end their rule. He is less enthused about the potential of turning his old home into a battlefield for the demon lords, however, and he eventually betrays Vizeran's confidence to the adventurers in an effort to prevent that outcome (see chapter 15, \"{@adventure The City of Spiders|OotA|14}\")."
+								"Grin is loyal to his master but not well suited to such a solitary existence. He longs for the opportunity to return to Menzoberranzan, supporting the notion of an uprising to overthrow the matron mothers and end their rule. He is less enthused about the potential of turning his old home into a battlefield for the demon lords, however, and he eventually betrays Vizeran's confidence to the adventurers in an effort to prevent that outcome (see chapter 15, \"{@area The City of Spiders|4d2|x}\")."
 							]
 						}
 					]
@@ -30617,7 +30617,7 @@
 								{
 									"type": "list",
 									"items": [
-										"Vizeran offers each character a drow {@item Piwafwi (Cloak of Elvenkind)|OotA|piwafwi} (see {@adventure appendix B|OotA|18}).",
+										"Vizeran offers each character a drow {@item Piwafwi (Cloak of Elvenkind)|OotA|piwafwi} (see {@area appendix B|5d5|x}).",
 										"Each character will be provided with an amulet that can be used one time as a {@item Scroll of Protection||scroll of protection from fiends}.",
 										"Vizeran offers the use of Araj as a safe haven in the Underdark, as long as his alliance with the characters lasts. The archmage won't countenance an army being housed within his home, but he opens it to the adventurers and their allies as they need it.",
 										"Most important of all, Vizeran can offer a plan to defeat the demon lords\u2014but he needs the adventurers' help to make it happen (see \"Vizeran's Plan\")."
@@ -30668,7 +30668,7 @@
 								"Gromph Baenre's grimoires and notes on his ritual, to assist in better understanding the power that summoned the demon lords."
 							]
 						},
-						"In his research, Vizeran has located potential sources for all these components, and he can direct the characters to retrieve them as detailed in subsequent chapters. The purple worm egg and the eye of the beholder can be found in the Wormwrithings (see {@adventure chapter 13|OotA|12}). The angel feathers and the demon heart can be claimed in the Labyrinth (see {@adventure chapter 14|OotA|13}). The grimoire is found in Menzoberranzan, the City of Spiders (see {@adventure chapter 15|OotA|14}). Being able to acquire the timmask mushrooms and blood from a demon lord depends on the adventurers' resourcefulness and on the opportunities found in other chapters of the adventure.",
+						"In his research, Vizeran has located potential sources for all these components, and he can direct the characters to retrieve them as detailed in subsequent chapters. The purple worm egg and the eye of the beholder can be found in the Wormwrithings (see {@area chapter 13|42b|x}). The angel feathers and the demon heart can be claimed in the Labyrinth (see {@area chapter 14|48e|x}). The grimoire is found in Menzoberranzan, the City of Spiders (see {@area chapter 15|4d2|x}). Being able to acquire the timmask mushrooms and blood from a demon lord depends on the adventurers' resourcefulness and on the opportunities found in other chapters of the adventure.",
 						"You can modify the components list if you wish, using the encounters in chapters 13 through 15 as guidelines and opportunities. Additional encounters can easily be inserted into chapters 13 and 14 for any other elements you want to add to the ritual.",
 						"Vizeran provides the means for the adventurers and their allies to gather the components for the talisman and encourages them to get started immediately. See chapters 13 through 15 for the sources Vizeran has found, then chapters 16 and 17 for the endgame battles against the demon lords."
 					]
@@ -30679,8 +30679,8 @@
 					"page": 165,
 					"id": "428",
 					"entries": [
-						"It is up to you whether or not the adventurers can succeed against the demon lords without Vizeran's aid. They might be able to implement his plan on their own, particularly once he has supplied them with the necessary components and information. The {@i dark heart} talisman to be crafted for the ritual (see {@adventure chapter 15|OotA|14}) can be placed anywhere to draw the demons to it. Likewise, the ritual can be performed in any location in the Underdark imbued with {@i faerzress}. Vizeran has kept this information from the adventurers only because he sees the ritual as his chance to destroy Menzoberranzan and take his revenge on the drow who cast him out.",
-						"A player character spellcaster might be able to reproduce Vizeran's work to create and perform the ritual, setting up the scenario in chapter 17, \"{@adventure Against the Demon Lords|OotA|16}.\" Regardless of how the plan unfolds, though, the adventurers should get the opportunity to choose what they'll do about Vizeran when they learn that the drow archmage has not been entirely truthful with them. See chapter 15, \"{@adventure The City of Spiders|OotA|14},\" for details."
+						"It is up to you whether or not the adventurers can succeed against the demon lords without Vizeran's aid. They might be able to implement his plan on their own, particularly once he has supplied them with the necessary components and information. The {@i dark heart} talisman to be crafted for the ritual (see {@area chapter 15|4d2|x}) can be placed anywhere to draw the demons to it. Likewise, the ritual can be performed in any location in the Underdark imbued with {@i faerzress}. Vizeran has kept this information from the adventurers only because he sees the ritual as his chance to destroy Menzoberranzan and take his revenge on the drow who cast him out.",
+						"A player character spellcaster might be able to reproduce Vizeran's work to create and perform the ritual, setting up the scenario in chapter 17, \"{@area Against the Demon Lords|5a6|x}.\" Regardless of how the plan unfolds, though, the adventurers should get the opportunity to choose what they'll do about Vizeran when they learn that the drow archmage has not been entirely truthful with them. See chapter 15, \"{@area The City of Spiders|4d2|x},\" for details."
 					]
 				},
 				{
@@ -33713,7 +33713,7 @@
 							"page": 168,
 							"id": "443",
 							"entries": [
-								"H'slaat, a {@creature troglodyte champion of Laogzed|OotA} (see {@adventure appendix C|OotA|19}), and twenty-two {@creature Troglodyte||troglodytes} are arrayed in a rough battle line along the south bank of a freshwater stream that nearly bisects the cavern. The stream runs west to east, tumbling down a short waterfall and forming a small pool (area 9). The stream is about 15 feet wide and 3 feet deep at its deepest point. It can be crossed on foot but is {@quickref difficult terrain||3}.",
+								"H'slaat, a {@creature troglodyte champion of Laogzed|OotA} (see {@area appendix C|5e2|x}), and twenty-two {@creature Troglodyte||troglodytes} are arrayed in a rough battle line along the south bank of a freshwater stream that nearly bisects the cavern. The stream runs west to east, tumbling down a short waterfall and forming a small pool (area 9). The stream is about 15 feet wide and 3 feet deep at its deepest point. It can be crossed on foot but is {@quickref difficult terrain||3}.",
 								"The troglodytes are so distracted that it's possible to sneak through this area undetected as long as the adventurers stay close to the cavern walls. Each character must succeed on a {@dc 10} Dexterity ({@skill Stealth}) check or be noticed by the troglodytes.",
 								{
 									"type": "entries",
@@ -33782,7 +33782,7 @@
 									"page": 169,
 									"id": "44b",
 									"entries": [
-										"S'slaar's {@item +2 longsword} is of drow manufacture (see the \"{@adventure Drowcraft Items|OotA|18}\" sidebar in appendix B). It has a cross guard shaped like a stylized spider with tiny gems for eyes. Etched into its blade are the words {@i Oloth tlu malla}, which is a drow expression meaning \"Darkness be praised.\""
+										"S'slaar's {@item +2 longsword} is of drow manufacture (see the \"{@area Drowcraft Items|5d5|x}\" sidebar in appendix B). It has a cross guard shaped like a stylized spider with tiny gems for eyes. Etched into its blade are the words {@i Oloth tlu malla}, which is a drow expression meaning \"Darkness be praised.\""
 									]
 								}
 							]
@@ -33802,7 +33802,7 @@
 									"page": 170,
 									"id": "44d",
 									"entries": [
-										"Within the cave, four zurkhwood boxes hold a 50-foot length of spider silk rope, four flasks of oil, twenty pounds of rancid food, a pile of moldy blankets, six maces and sixteen javelins (all battered but usable), four casks of unspoiled wine worth 10 gp each, and a locked tribute chest. It takes a successful {@dc 15} Dexterity check using thieves' tools to open the chest, which contains 180 gp (minted in Menzoberranzan and Gracklstugh), three gems each worth 50 gp each, a {@item potion of gaseous form}, and a {@item +1 dagger} with silvery, weblike filigree worked into the hilt. The dagger is of drow manufacture (see the \"{@adventure Drowcraft Items|OotA|18}\" sidebar in appendix B). The crude litters that the troglodytes use to bear these goods are propped up against the cave wall."
+										"Within the cave, four zurkhwood boxes hold a 50-foot length of spider silk rope, four flasks of oil, twenty pounds of rancid food, a pile of moldy blankets, six maces and sixteen javelins (all battered but usable), four casks of unspoiled wine worth 10 gp each, and a locked tribute chest. It takes a successful {@dc 15} Dexterity check using thieves' tools to open the chest, which contains 180 gp (minted in Menzoberranzan and Gracklstugh), three gems each worth 50 gp each, a {@item potion of gaseous form}, and a {@item +1 dagger} with silvery, weblike filigree worked into the hilt. The dagger is of drow manufacture (see the \"{@area Drowcraft Items|5d5|x}\" sidebar in appendix B). The crude litters that the troglodytes use to bear these goods are propped up against the cave wall."
 									]
 								}
 							]
@@ -37859,7 +37859,7 @@
 							"page": 175,
 							"id": "47c",
 							"entries": [
-								"If the characters reunite Zhora and Hanne, this act of benevolence could lead to Zhora potentially aiding the adventurers in chapter 15, \"{@adventure The City of Spiders|OotA|14}.\" See that chapter for details."
+								"If the characters reunite Zhora and Hanne, this act of benevolence could lead to Zhora potentially aiding the adventurers in chapter 15, \"{@area The City of Spiders|4d2|x}.\" See that chapter for details."
 							]
 						}
 					]
@@ -38572,7 +38572,7 @@
 									]
 								},
 								"Filthriddens is contained within a cave roughly 100 feet long and 60 feet wide. The characters enter from a natural tunnel along one of the shorter walls, with another tunnel exiting on the opposite side. Much of the cave is taken up with crude shanties. Most of them stand empty, their inhabitants either exiled or dead.",
-								"{@creature Grisha|OotA} (see {@adventure appendix C|OotA|19}) can recount the history of Filthriddens and how Yeenoghu saved its denizens from the oppression of the minotaurs. He can also reveal how he spent years as a slave of the drow. {@creature Grisha|OotA} seeks new disciples to grow his cult's power.",
+								"{@creature Grisha|OotA} (see {@area appendix C|5e2|x}) can recount the history of Filthriddens and how Yeenoghu saved its denizens from the oppression of the minotaurs. He can also reveal how he spent years as a slave of the drow. {@creature Grisha|OotA} seeks new disciples to grow his cult's power.",
 								"Twelve {@creature Cultist||cultists} (a mix of shield dwarves, halflings, and humans) support {@creature Grisha|OotA} if a fight breaks out. Ten of them are hidden in the shanties. Two more stand next to a zurkhwood door, beyond which lies a small side cave where cultists who have died and risen as undead are kept. If battle erupts, the cultists open the door and release six {@creature Ghoul||ghouls}. The ghouls ignore the cultists as long as there are other creatures to feed on."
 							]
 						}
@@ -38594,7 +38594,7 @@
 							]
 						},
 						"Twelve {@creature Monodrone||monodrones} and a {@creature tridrone} have been wandering the Labyrinth since the last Great Modron March. The modrons became separated from their fellows and trapped here. Unable to find their way back to Mechanus, the modrons have been pressing on (and on), knowing that they must find their way back or be destroyed in the process.",
-						"The extended march has taxed the modrons to their limit. Most show signs of the frustration of being unable to fulfill their mission. The tridrone has managed to keep the group together, but it feels responsible for their collective fate and their failure to return home. Even if the characters have the ability to communicate with the modrons, the monodrones' ability to communicate is all but spent (see the \"{@adventure Roleplaying the Modrons|OotA|13}\" sidebar).",
+						"The extended march has taxed the modrons to their limit. Most show signs of the frustration of being unable to fulfill their mission. The tridrone has managed to keep the group together, but it feels responsible for their collective fate and their failure to return home. Even if the characters have the ability to communicate with the modrons, the monodrones' ability to communicate is all but spent (see the \"{@area Roleplaying the Modrons|48e|x}\" sidebar).",
 						{
 							"type": "inset",
 							"name": "Roleplaying the Modrons",
@@ -38629,8 +38629,8 @@
 								"In less than a minute, the battle is won. The demon lord Yeenoghu pulls back the goristro's head by the horns and rips out its throat with his teeth. He throws back his head and his howl of triumph echoes through the chamber, shaking the stones themselves. Several hyenas nipping at Yeenoghu's heels leap onto the goristro's corpse and begin feasting on its flesh. As you watch, these hyenas transform into gnolls."
 							]
 						},
-						"Any adventurer witnessing this horrible tableau must succeed on a {@dc 12} Wisdom saving throw or gain one level of madness (see \"{@area Madness|063|x}\" in chapter 2). If this causes the character to suffer a bout of indefinite madness, determine the nature of the madness using the Madness of Yeenoghu table in {@adventure appendix D|OotA|20}.",
-						"{@creature Yeenoghu|MTF} (see {@adventure appendix D|OotA|20}) has been wandering the Underdark since he was first summoned, and the adventurers have run across him and his pack. The characters' only advantage at this moment is that they haven't yet been detected. Considering their level at this stage of the adventure, the players might be creating new characters quite soon if they dare confront the demon lord.",
+						"Any adventurer witnessing this horrible tableau must succeed on a {@dc 12} Wisdom saving throw or gain one level of madness (see \"{@area Madness|063|x}\" in chapter 2). If this causes the character to suffer a bout of indefinite madness, determine the nature of the madness using the Madness of Yeenoghu table in {@area appendix D|5e4|x}.",
+						"{@creature Yeenoghu|MTF} (see {@area appendix D|5e4|x}) has been wandering the Underdark since he was first summoned, and the adventurers have run across him and his pack. The characters' only advantage at this moment is that they haven't yet been detected. Considering their level at this stage of the adventure, the players might be creating new characters quite soon if they dare confront the demon lord.",
 						"If the characters stay hidden and observe, Yeenoghu leaves in short order. He is restless and eager for new prey. Yeenoghu gathers up most of the gnolls and hyenas and leads them down a tunnel on the right side of the cavern. Eight {@creature Gnoll||gnolls} led by a {@creature gnoll pack lord} remain in the cavern, feasting on the goristro's corpse.",
 						"If the characters want to continue forward, the gnolls and hyenas need to be dealt with. Alternatively, if the characters are indecisive or spend too long debating the best course of action, the gnoll pack lord sniffs out the intruders. When it realizes that enemies are present, the pack lord howls to draw the attention of its followers.",
 						{
@@ -38641,7 +38641,7 @@
 							"entries": [
 								"If you'd like Yeenoghu to play more of a role in this chapter of the adventure, it's easy to do so. When the gnolls killed by the characters do not rejoin the hunt, the demon lord circles back to the site of the goristro's demise and discovers his slain minions\u2014and also picks up the scent of the adventurers.",
 								"Later in the adventure, Yeenoghu hunts down the characters to make them pay for their impudence (ideally when they are much higher in level). Before the final confrontation, give the characters hints that they have become the demon lord's prey. They might face an increasing number of gnoll ambushes, for example. One or more of their attackers might refer to them as \"prey of Yeenoghu,\" or otherwise taunt them by speaking of their impending doom.",
-								"The characters should have time to prepare for the fight they know is coming, and to think about tactics other than facing Yeenoghu in straight-up combat. For example, becoming the demon lord's quarry might work to their advantage later in the campaign, making them the perfect bait to lure Yeenoghu into a trap in chapter 17, \"{@adventure Against the Demon Lords|OotA|16}.\""
+								"The characters should have time to prepare for the fight they know is coming, and to think about tactics other than facing Yeenoghu in straight-up combat. For example, becoming the demon lord's quarry might work to their advantage later in the campaign, making them the perfect bait to lure Yeenoghu into a trap in chapter 17, \"{@area Against the Demon Lords|5a6|x}.\""
 							]
 						},
 						{
@@ -39174,7 +39174,7 @@
 											"rows": [
 												[
 													"1\u20132",
-													"{@dice 3d6} {@creature derro|OotA} (see {@adventure appendix C|OotA|19})"
+													"{@dice 3d6} {@creature derro|OotA} (see {@area appendix C|5e2|x})"
 												],
 												[
 													"3\u20134",
@@ -39329,7 +39329,7 @@
 										],
 										[
 											"11\u201312",
-											"{@dice 1d4 + 1} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@adventure appendix C|OotA|19})"
+											"{@dice 1d4 + 1} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@area appendix C|5e2|x})"
 										],
 										[
 											"13\u201314",
@@ -39733,7 +39733,7 @@
 												],
 												[
 													"6\u20138",
-													"{@dice 2d4 + 2} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@adventure appendix C|OotA|19})"
+													"{@dice 2d4 + 2} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@area appendix C|5e2|x})"
 												],
 												[
 													"9\u201310",
@@ -40082,7 +40082,7 @@
 												],
 												[
 													"12",
-													"{@dice 3d6} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@adventure appendix C|OotA|19})"
+													"{@dice 3d6} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@area appendix C|5e2|x})"
 												],
 												[
 													"13",
@@ -40226,7 +40226,7 @@
 									"page": 198,
 									"id": "527",
 									"entries": [
-										"The characters happen upon a group of {@dice 1d4 + 2} {@creature drow} from one of the eight ruling houses that live atop the plateau. These \"lesser nobles\" wear the insignia of their house and are hunting gricks for sport. They try to make short work of any trespassers they encounter. Roll a {@dice d8} and consult the Drow Ruling Houses table to determine which house they belong to. If the result is House Do'Urden, the drow are actually Bregan D'aerthe initiates on a training exercise (see \"{@adventure House Do'Urden|OotA|14}\" later in this chapter)."
+										"The characters happen upon a group of {@dice 1d4 + 2} {@creature drow} from one of the eight ruling houses that live atop the plateau. These \"lesser nobles\" wear the insignia of their house and are hunting gricks for sport. They try to make short work of any trespassers they encounter. Roll a {@dice d8} and consult the Drow Ruling Houses table to determine which house they belong to. If the result is House Do'Urden, the drow are actually Bregan D'aerthe initiates on a training exercise (see \"{@area House Do'Urden|4d2|x}\" later in this chapter)."
 									]
 								},
 								{
@@ -40918,7 +40918,7 @@
 							"id": "553",
 							"entries": [
 								"The matron mother of House Baenre is the voice of Lolth in Menzoberranzan, and despite recent events, maintains absolute control of the city. Quenthel knows how Demogorgon made his way from the Abyss to the City of Spiders. She wasn't surprised to learn that her brother Gromph\u2014the Archmage of Menzoberranzan\u2014was behind it, for she's seen evidence of his growing unhappiness in recent months, and she also knows that Lolth was behind it. Quenthel assumes that Lolth is making some sort of power play in the Abyss.",
-								"If Quenthel learns that adventurers are trying to rid the Underdark of its demon lord menace, she doesn't stand in their way (see \"{@adventure Private Meetings|OotA|14}\") and even allows them to travel through the city unmolested."
+								"If Quenthel learns that adventurers are trying to rid the Underdark of its demon lord menace, she doesn't stand in their way (see \"{@area Private Meetings|4d2|x}\") and even allows them to travel through the city unmolested."
 							]
 						},
 						{
@@ -41664,19 +41664,19 @@
 											"rows": [
 												[
 													"1\u20132",
-													"{@dice 1d6} {@creature Chuul Spore Servant|OotA|chuul spore servants} (see {@adventure appendix C|OotA|19})"
+													"{@dice 1d6} {@creature Chuul Spore Servant|OotA|chuul spore servants} (see {@area appendix C|5e2|x})"
 												],
 												[
 													"3\u20134",
-													"{@dice 1d6} {@creature Drow Spore Servant|OotA|drow spore servants} {@dice 1d6} {@creature Duergar Spore Servant|OotA|duergar spore servants} (see {@adventure appendix C|OotA|19} for both)"
+													"{@dice 1d6} {@creature Drow Spore Servant|OotA|drow spore servants} {@dice 1d6} {@creature Duergar Spore Servant|OotA|duergar spore servants} (see {@area appendix C|5e2|x} for both)"
 												],
 												[
 													"5\u20136",
-													"{@dice 1d6} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@adventure appendix C|OotA|19}) and {@dice 1d6} {@creature Quaggoth Spore Servant||quaggoth spore servants}"
+													"{@dice 1d6} {@creature Drow Spore Servant|OotA|drow spore servants} (see {@area appendix C|5e2|x}) and {@dice 1d6} {@creature Quaggoth Spore Servant||quaggoth spore servants}"
 												],
 												[
 													"7\u20138",
-													"{@dice 1d6} {@creature Hook Horror Spore Servant|OotA|hook horror spore servants} (see {@adventure appendix C|OotA|19})"
+													"{@dice 1d6} {@creature Hook Horror Spore Servant|OotA|hook horror spore servants} (see {@area appendix C|5e2|x})"
 												]
 											]
 										},
@@ -41742,7 +41742,7 @@
 					"page": 211,
 					"id": "58c",
 					"entries": [
-						"In the time it takes the characters to reach Araumycos's caverns after receiving Basidia's message, Zuggtmoy and her fungal entourage arrive at the site of the ceremony, near the center of those caverns. The entourage includes hundreds of {@creature Myconid Adult||myconid adults} and {@creature Myconid Sprout||myconid sprouts}, accompanied by {@creature Awakened Zurkhwood|OotA|awakened zurkhwoods} and {@creature Bridesmaid of Zuggtmoy|OotA|bridesmaids of Zuggtmoy} (both from {@adventure appendix C|OotA|19}), as well as ambulatory fungi such as {@creature Violet Fungus||violet fungi} and {@creature Gas Spore||gas spores}. Various spore servants fill out Zuggtmoy's entourage (see the \"Myconids\" entry of the {@i Monster Manual} and {@adventure appendix C|OotA|19} of this adventure).",
+						"In the time it takes the characters to reach Araumycos's caverns after receiving Basidia's message, Zuggtmoy and her fungal entourage arrive at the site of the ceremony, near the center of those caverns. The entourage includes hundreds of {@creature Myconid Adult||myconid adults} and {@creature Myconid Sprout||myconid sprouts}, accompanied by {@creature Awakened Zurkhwood|OotA|awakened zurkhwoods} and {@creature Bridesmaid of Zuggtmoy|OotA|bridesmaids of Zuggtmoy} (both from {@area appendix C|5e2|x}), as well as ambulatory fungi such as {@creature Violet Fungus||violet fungi} and {@creature Gas Spore||gas spores}. Various spore servants fill out Zuggtmoy's entourage (see the \"Myconids\" entry of the {@i Monster Manual} and {@area appendix C|5e2|x} of this adventure).",
 						{
 							"type": "entries",
 							"name": "Basidia's Aid",
@@ -41917,7 +41917,7 @@
 					"page": 214,
 					"id": "59f",
 					"entries": [
-						"Under normal circumstances, {@creature Juiblex|MTF} (see {@adventure appendix D|OotA|20}) would be an overwhelming foe. Fortunately for the adventurers, the Faceless Lord's battle with Zuggtmoy has weakened it. The characters might also have aid from allies, the newly freed myconids, and Araumycos in overcoming the demon lord.",
+						"Under normal circumstances, {@creature Juiblex|MTF} (see {@area appendix D|5e4|x}) would be an overwhelming foe. Fortunately for the adventurers, the Faceless Lord's battle with Zuggtmoy has weakened it. The characters might also have aid from allies, the newly freed myconids, and Araumycos in overcoming the demon lord.",
 						"Apply the following penalties to Juiblex:",
 						{
 							"type": "list",
@@ -41928,7 +41928,7 @@
 								"It has no lair actions or regional effects."
 							]
 						},
-						"Basidia rallies thirty {@creature Myconid Adult||myconid adults} and thirty-two {@creature Drow Spore Servant|OotA|drow spore servants} (see {@adventure appendix C|OotA|19}) to fight alongside the characters. Their attacks are incapable of harming Juiblex. However, as they swarm around the demon lord, one time per round (as agreed upon by the players), a character who would be hit by an attack can have a myconid or a spore servant hit by the attack instead. The myconids can also fight off oozes, allowing the adventurers to focus their attention on the demon lord.",
+						"Basidia rallies thirty {@creature Myconid Adult||myconid adults} and thirty-two {@creature Drow Spore Servant|OotA|drow spore servants} (see {@area appendix C|5e2|x}) to fight alongside the characters. Their attacks are incapable of harming Juiblex. However, as they swarm around the demon lord, one time per round (as agreed upon by the players), a character who would be hit by an attack can have a myconid or a spore servant hit by the attack instead. The myconids can also fight off oozes, allowing the adventurers to focus their attention on the demon lord.",
 						"If the adventurers freed it from Zuggtmoy's influence, Araumycos aids them by releasing spores into the cavern, granting all living creatures in the area immunity to poison damage and the {@condition poisoned} condition."
 					]
 				},
@@ -41938,7 +41938,7 @@
 					"page": 214,
 					"id": "5a0",
 					"entries": [
-						"The characters might overcome two demon lords if they are successful in this chapter. If they fail, terrible consequences unfold for the myconids and other creatures of the Underdark, though the adventurers will get another chance to take the fight to Zuggtmoy, Juiblex, and all the other demon lords in {@adventure chapter 17|OotA|16}.",
+						"The characters might overcome two demon lords if they are successful in this chapter. If they fail, terrible consequences unfold for the myconids and other creatures of the Underdark, though the adventurers will get another chance to take the fight to Zuggtmoy, Juiblex, and all the other demon lords in {@area chapter 17|5a6|x}.",
 						{
 							"type": "entries",
 							"name": "Escaping Defeat",
@@ -41946,7 +41946,7 @@
 							"id": "5a1",
 							"entries": [
 								"If the characters lose their battle against Juiblex, their best hope lies in {@creature Vizeran DeVir|OotA}'s ritual. In the worst-case scenario where one or more heroes fall in the fight against the Faceless Lord, their allies might be able to carry them to safety so that they can be healed or restored to life.",
-								"If the adventurers flee from Juiblex, the demon lord pursues them. However, Araumycos (or its death throes) triggers a cave-in, allowing defeated characters to barely escape. Juiblex then turns its attention to feeding on Araumycos and is one of the demon lords drawn into battle by Vizeran's ritual in {@adventure chapter 17|OotA|16}."
+								"If the adventurers flee from Juiblex, the demon lord pursues them. However, Araumycos (or its death throes) triggers a cave-in, allowing defeated characters to barely escape. Juiblex then turns its attention to feeding on Araumycos and is one of the demon lords drawn into battle by Vizeran's ritual in {@area chapter 17|5a6|x}."
 							]
 						},
 						{
@@ -42189,7 +42189,7 @@
 								"Finally, a swirling light begins to flare in the darkness. A barely audible humming shakes you to the core, rising and falling like a vast heartbeat in the depths. The glow of {@i faerzress} gathers and brightens, creating swirling pools like holes torn in the air. A roar sounds from far away as shadows move in the depths of those pools of light. The demons are coming."
 							]
 						},
-						"The demon lords described in {@adventure appendix D|OotA|20} of this adventure all appear in the final battle, with the following exceptions:",
+						"The demon lords described in {@area appendix D|5e4|x} of this adventure all appear in the final battle, with the following exceptions:",
 						{
 							"type": "list",
 							"items": [
@@ -42286,7 +42286,7 @@
 											"page": 218,
 											"id": "5be",
 											"entries": [
-												"Rather than focusing on the adventurers biding their time and dealing with the fallout of the titanic battle between the demon lords, you can shift focus for this part of the adventure. Consider having the players take control of the various demon lords from {@adventure appendix D|OotA|20}, then play out the conflict between them.",
+												"Rather than focusing on the adventurers biding their time and dealing with the fallout of the titanic battle between the demon lords, you can shift focus for this part of the adventure. Consider having the players take control of the various demon lords from {@area appendix D|5e4|x}, then play out the conflict between them.",
 												"Assign each player an available demon lord, or allow players to choose one demon lord to control during the battle. You manage any of the remaining demon lords. If there aren't enough demon lords for all the players, you can use {@creature Balor||balors} or other powerful demons to round out their numbers.",
 												"The players control the demons in their battle to the death, with the only restriction being that they can't withdraw from the combat. Brief tactical retreats are permissible, but Vizeran's ritual has filled the demon lords with the rage to do battle.",
 												"The demonic victor of this battle, its hit points and other resources sufficiently depleted, is the foe that the adventurers must overcome in the final confrontation."
@@ -42357,7 +42357,7 @@
 							]
 						},
 						"Determine the characters' starting positions based on their actions during the battle. Demogorgon should be at least 80 feet away from them initially, unless the players specifically stated they were remaining close to the demon lord.",
-						"Demogorgon has been wounded during the fight, giving the characters an edge in the battle to come. Apply the following penalties to the {@creature Demogorgon|MTF} stat block in {@adventure appendix D|OotA|20}:",
+						"Demogorgon has been wounded during the fight, giving the characters an edge in the battle to come. Apply the following penalties to the {@creature Demogorgon|MTF} stat block in {@area appendix D|5e4|x}:",
 						{
 							"type": "list",
 							"items": [
@@ -42825,7 +42825,8 @@
 							"source": "OotA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5e0"
 				},
 				{
 					"type": "section",
@@ -42849,7 +42850,8 @@
 							"source": "OotA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5e1"
 				},
 				{
 					"type": "section",
@@ -42873,7 +42875,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5e7"
 				},
 				{
 					"type": "section",
@@ -42939,7 +42942,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5e8"
 				},
 				{
 					"type": "section",
@@ -42963,7 +42967,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5e9"
 				},
 				{
 					"type": "section",
@@ -42987,7 +42992,8 @@
 							"source": "OotA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5ea"
 				},
 				{
 					"type": "statblock",
@@ -43018,7 +43024,8 @@
 							"source": "OotA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5eb"
 				},
 				{
 					"type": "statblock",
@@ -43056,7 +43063,8 @@
 							"source": "OotA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5ec"
 				},
 				{
 					"type": "section",
@@ -43080,7 +43088,8 @@
 							"source": "OotA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5ed"
 				},
 				{
 					"type": "statblock",
@@ -43111,7 +43120,8 @@
 							"source": "OotA",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5ee"
 				},
 				{
 					"type": "statblock",
@@ -43179,7 +43189,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5ef"
 				},
 				{
 					"type": "section",
@@ -43203,7 +43214,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5f0"
 				},
 				{
 					"type": "section",
@@ -43227,7 +43239,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5f1"
 				},
 				{
 					"type": "section",
@@ -43251,7 +43264,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5f2"
 				},
 				{
 					"type": "section",
@@ -43275,7 +43289,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5f3"
 				},
 				{
 					"type": "section",
@@ -43299,7 +43314,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5f4"
 				},
 				{
 					"type": "section",
@@ -43323,7 +43339,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5f5"
 				},
 				{
 					"type": "section",
@@ -43347,7 +43364,8 @@
 							"source": "MTF",
 							"style": "narrow"
 						}
-					]
+					],
+					"id": "5f6"
 				}
 			]
 		},

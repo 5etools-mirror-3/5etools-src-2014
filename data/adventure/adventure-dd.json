@@ -56,7 +56,7 @@
 					"page": 218,
 					"id": "7c2",
 					"entries": [
-						"The adventure begins with the characters arriving (whether singly or together) in Hupperdook. {@adventure Map 5.4|DD|0|Map 5.4: Lower Hupperdook} shows Lower Hupperdook and marks the locations of the Ironlot and Assembly Yard sections of the city.",
+						"The adventure begins with the characters arriving (whether singly or together) in Hupperdook. {@area Map 5.4|000|x} shows Lower Hupperdook and marks the locations of the Ironlot and Assembly Yard sections of the city.",
 						"Once the players are ready to begin, read or paraphrase the following boxed text to set the scene:",
 						{
 							"type": "insetReadaloud",
@@ -743,7 +743,7 @@
 									"id": "7c8",
 									"entries": [
 										"If any kobold underlings are reduced to 0 hit points during the fight, the characters have only 2 rounds to investigate and loot the corpse before the body begins to emit a high-pitched whine. If a kobold was reduced to 0 hit points by a critical hit, it explodes immediately (see the Messy End trait in the kobold underling's stat block).",
-										"A character with a bladed weapon or thieves' tools can attempt a {@dc 10} Wisdom ({@skill Medicine}) check to remove the acorn-sized explosive from a dead kobold's body before it explodes (see the \"{@adventure Alchemical Items|DD|0|Alchemical Items}\" sidebar presented later in this chapter). On a success, the character removes the explosive and has 1 round to dispose of it or disarm it. Throwing the explosive away from creatures and structures allows it to detonate safely. A character can also use tinker's tools to try to disarm the explosive, which requires an action and a successful {@dc 12} Dexterity check.",
+										"A character with a bladed weapon or thieves' tools can attempt a {@dc 10} Wisdom ({@skill Medicine}) check to remove the acorn-sized explosive from a dead kobold's body before it explodes (see the \"{@area Alchemical Items|7ee|x}\" sidebar presented later in this chapter). On a success, the character removes the explosive and has 1 round to dispose of it or disarm it. Throwing the explosive away from creatures and structures allows it to detonate safely. A character can also use tinker's tools to try to disarm the explosive, which requires an action and a successful {@dc 12} Dexterity check.",
 										"A successful {@dc 14} Intelligence ({@skill Investigation}) check made to search a kobold reveals a deep-crimson mud staining its feet, plus a lead key hanging on a cord around its neck.",
 										"If the characters manage to subdue or capture any kobolds, their loyalty to Stahlmast is hard to break. A successful {@dc 15} Charisma ({@skill Intimidation}) check begins to turn a captured kobold, but before it can reveal any information, crossbow bolts shot from the distant shadows (where more of Stahlmast's loyal forces are watching) silences the would-be confessor."
 									]
@@ -844,9 +844,9 @@
 										{
 											"type": "list",
 											"items": [
-												"If they ask about the automaton, the characters are directed toward Master Maker Cleff Tinkertop. His shop in the Idleworks Shelf has been closed since the war picked up. The city's leaders keep him and his daughter Rissa working on warfare designs down in the Builder's Plot ({@adventure area h3|DD|0|H3. The Builder's Plot}).",
-												"If the characters ask around regarding explosives or blasting powder, helpful citizens can point them toward the city's only sanctioned creators of such things at the Firemark Facility ({@adventure area H5|DD|0|H5. Firemark Facility}).",
-												"If they ask about the deep-crimson mud seen on the kobolds' feet, none of the locals have any sense of where it might have come from, but it's suggested that the characters might find more information at the Lay of the Land herbalist shop ({@adventure area H4|DD|0|H4. Lay of the Land Herbalist}).",
+												"If they ask about the automaton, the characters are directed toward Master Maker Cleff Tinkertop. His shop in the Idleworks Shelf has been closed since the war picked up. The city's leaders keep him and his daughter Rissa working on warfare designs down in the Builder's Plot ({@area area h3|7d2|x}).",
+												"If the characters ask around regarding explosives or blasting powder, helpful citizens can point them toward the city's only sanctioned creators of such things at the Firemark Facility ({@area area H5|7d9|x}).",
+												"If they ask about the deep-crimson mud seen on the kobolds' feet, none of the locals have any sense of where it might have come from, but it's suggested that the characters might find more information at the Lay of the Land herbalist shop ({@area area H4|7d6|x}).",
 												"If the characters ask if anyone saw where Sken and the kobolds escaped to, a number of people saw them running toward the north side of the city, but they eventually vanished from sight in the shadows.",
 												"Asking about strange happenings in the city recently, a number of builders and designers complain of a growing rash of thefts. Tools, raw materials, metal ingots, and other manufacturing supplies are consistently targeted, though always in small amounts."
 											]
@@ -869,14 +869,14 @@
 										"Stepping past the outer walls of the city brings you back into the dusty expanse of the Assembly Yard. Row after row of shaded construction bays and towers flank partially built catapults, heavy cannons, and other odd, experimental weaponry encircled by metal fences. Following the directions you were given to the Builder's Plot leads you toward high piles of metal sheeting and the sounds of incessant hammering."
 									]
 								},
-								"During the day, the characters find Cleff Tinkertop and his daughter Rissa (chaotic good gnome {@creature Commoner||commoners}) building a prototype metallic glider. If they arrive in the evening, the area is empty except for a few patrolling Crownsguard. Asking the guards about Cleff Tinkertop sees the characters directed to Sootswallow Lodge (see \"{@adventure Other Hupperdook Locations|DD|0|Other Hupperdook Locations}\" later in the adventure), where he often spends his evenings after work.",
+								"During the day, the characters find Cleff Tinkertop and his daughter Rissa (chaotic good gnome {@creature Commoner||commoners}) building a prototype metallic glider. If they arrive in the evening, the area is empty except for a few patrolling Crownsguard. Asking the guards about Cleff Tinkertop sees the characters directed to Sootswallow Lodge (see \"{@area Other Hupperdook Locations|7e4|x}\" later in the adventure), where he often spends his evenings after work.",
 								{
 									"type": "entries",
 									"name": "Master Maker Cleff Tinkertop",
 									"page": 222,
 									"id": "7d4",
 									"entries": [
-										"Cleff is an amiable middle-aged gnome, albeit a bit absent-minded and easily distracted. Rissa is sharp and keeps her father on track as best she can. If they are asked about explosives or shown the bronze shrapnel, they direct the characters toward the Firemark Facility ({@adventure area H5|DD|0|H5. Firemark Facility}), the only sanctioned manufacturing den of {@item blasting powder|EGW} and black powder in Hupperdook.",
+										"Cleff is an amiable middle-aged gnome, albeit a bit absent-minded and easily distracted. Rissa is sharp and keeps her father on track as best she can. If they are asked about explosives or shown the bronze shrapnel, they direct the characters toward the Firemark Facility ({@area area H5|7d9|x}), the only sanctioned manufacturing den of {@item blasting powder|EGW} and black powder in Hupperdook.",
 										"If the characters show Cleff the damaged automaton, he recognizes the design as his own. Thinking at first that the device might be one of his older models, he inspects it further and scoffs at the realization that it is a poor copy. The crafting reminds him of the work of an old colleague of his\u2014Huron Stahlmast. Talented but impatient, Stahlmast was prone to copying the work of others and executing it poorly. He hasn't been seen in Hupperdook for years."
 									]
 								},
@@ -957,7 +957,7 @@
 									"page": 223,
 									"id": "7dd",
 									"entries": [
-										"Sleese offers a pouch of {@item blasting powder|EGW} (see the \"{@adventure Alchemical Items|DD|0|Alchemical Items}\" sidebar later in the adventure) as a gift if the characters agree to check in on Nima Cinnarid. He can direct them to her house at area H6."
+										"Sleese offers a pouch of {@item blasting powder|EGW} (see the \"{@area Alchemical Items|7ee|x}\" sidebar later in the adventure) as a gift if the characters agree to check in on Nima Cinnarid. He can direct them to her house at area H6."
 									]
 								}
 							]
@@ -1025,7 +1025,7 @@
 								"The front and side doors to the house are locked, but can be picked with a successful {@dc 15} Dexterity check using thieves' tools. Knocking once on the front door yields no answer, but a second knock summons a coughing, creaky voice from the other side that falteringly tells the characters to stay away for fear of catching the sickness. Any character with a passive Wisdom ({@skill Insight}) score of 15 or higher, or who is successful on a {@dc 15} Wisdom ({@skill Insight}) check, recognizes that the voice is nervous\u2014and is definitely not a female gnome.",
 								"If the characters mention anything about the prison break, the voice pauses, then states, \"Actually, I think I might know something about that.\" As the front door is unlocked, the voice invites the characters in.",
 								"The interior of Nima Cinnarid's house is dark except for a guttering candle on the back table, shedding {@quickref Vision and Light||2||dim light} in a 5-foot radius. Four {@creature Kobold Underling|EGW|kobold underlings} lie in wait in the shadows. Any character with a passive Wisdom ({@skill Perception}) score of 16 or higher, or who succeeds on a {@dc 16} Wisdom ({@skill Perception}) check, sees the kobolds hiding and ready to spring. When any character moves more than 10 feet into the house, the kobolds attack. Anyone who was not aware of the hidden kobolds is {@status surprised}.",
-								"When the kobolds are defeated, the characters have 2 rounds to loot or investigate the corpses of any slain kobolds. After that time, the kobolds' bodies explode as in {@adventure area H1|DD|0|H1. Ironlot Streets}. See the \"{@adventure Exploding Kobolds|DD|0|Exploding Kobolds}\" section in that area, the kobold underling stat block (earlier in the adventure), and the \"{@adventure Alchemical Items|DD|0|Alchemical Items}\" sidebar for information on removing and keeping the {@item Explosive Seed|EGW|explosive seeds} the kobolds carry.",
+								"When the kobolds are defeated, the characters have 2 rounds to loot or investigate the corpses of any slain kobolds. After that time, the kobolds' bodies explode as in {@area area H1|7c6|x}. See the \"{@area Exploding Kobolds|7c8|x}\" section in that area, the kobold underling stat block (earlier in the adventure), and the \"{@area Alchemical Items|7ee|x}\" sidebar for information on removing and keeping the {@item Explosive Seed|EGW|explosive seeds} the kobolds carry.",
 								"As in area H1, a successful {@dc 14} Intelligence ({@skill Investigation}) check reveals that each of these kobolds has a deep-crimson mud staining its feet, plus a lead key hanging on a cord around its neck. Neither of these things can be discovered if a kobold explodes.",
 								{
 									"type": "entries",
@@ -1051,7 +1051,7 @@
 									"page": 224,
 									"id": "7e2",
 									"entries": [
-										"Characters who sift through the wreckage find a pouch of {@item blasting powder|EGW} (see the \"{@adventure Alchemical Items|DD|0|Alchemical Items}\" sidebar).",
+										"Characters who sift through the wreckage find a pouch of {@item blasting powder|EGW} (see the \"{@area Alchemical Items|7ee|x}\" sidebar).",
 										{
 											"type": "image",
 											"href": {
@@ -1252,14 +1252,14 @@
 										"The sound of rushing water grows louder as you finally reach the top of the Silver Falls. The impressive flow of water cascades down the mountainside toward Hupperdook below. Around the crest of the falls, the rocky earth is a deep, rich red."
 									]
 								},
-								"With the information revealed in the note recovered in Nima's house ({@adventure area H6|DD|0|H6. Nima Cinnarid's House}), the characters have no trouble spotting telltale shadows behind the waterfall that hint at a hidden cavern. Any investigation of the area reveals a 10-foot-wide rock shelf covered in red mud that leads behind the falls and into the cavern beyond.",
+								"With the information revealed in the note recovered in Nima's house ({@area area H6|7de|x}), the characters have no trouble spotting telltale shadows behind the waterfall that hint at a hidden cavern. Any investigation of the area reveals a 10-foot-wide rock shelf covered in red mud that leads behind the falls and into the cavern beyond.",
 								{
 									"type": "entries",
 									"name": "Fool's Entrance",
 									"page": 226,
 									"id": "7f5",
 									"entries": [
-										"Any character with a passive Wisdom ({@skill Perception}) score of 17 or higher, or who succeeds on a {@dc 17} Wisdom ({@skill Perception}) check, spots a faint column of smoke rising above the waterfall. Characters who continue the mountainside climb discover a hidden, 3-foot-wide iron chimney rising from the rocky ground. The chimney is too smooth to be climbed except with a rope anchored to the rocks above. It descends 30 feet before it splits into three chimneys leading to the kitchen ({@adventure area L6|DD|0|L6. Kitchen}), the smithy ({@adventure area L14|DD|0|L14. Smithy}), and the clockwork forge ({@adventure area L19|DD|0|L19. Clockwork Forge}).",
+										"Any character with a passive Wisdom ({@skill Perception}) score of 17 or higher, or who succeeds on a {@dc 17} Wisdom ({@skill Perception}) check, spots a faint column of smoke rising above the waterfall. Characters who continue the mountainside climb discover a hidden, 3-foot-wide iron chimney rising from the rocky ground. The chimney is too smooth to be climbed except with a rope anchored to the rocks above. It descends 30 feet before it splits into three chimneys leading to the kitchen ({@area area L6|81b|x}), the smithy ({@area area L14|830|x}), and the clockwork forge ({@area area L19|842|x}).",
 										"Any character who tries to descend the chimney without a rope or a climbing speed inevitably falls. Roll a {@dice d3} to determine which lower chimney the character tumbles down. At the end of the fall, the character must succeed on a {@dc 12} Dexterity saving throw or take {@dice 1d6} bludgeoning damage. In addition, the fire at the bottom deals damage to creatures that come in contact with it, as noted in each area's description."
 									]
 								}
@@ -1340,7 +1340,7 @@
 												"From under the bench, the shackled gnome grabs a handful of small brass spheres piled nearby. \"You wanted these made?\" she shouts. \"Well, here! You can have them!\""
 											]
 										},
-										"Nima throws an {@item explosive seed|EGW} (see the \"{@adventure Alchemical Items|DD|0|Alchemical Items}\" sidebar earlier in this adventure) at whichever enemies are closest, then throws another seed on each of her turns until she runs out of seeds. She has a total of four explosive seeds.",
+										"Nima throws an {@item explosive seed|EGW} (see the \"{@area Alchemical Items|7ee|x}\" sidebar earlier in this adventure) at whichever enemies are closest, then throws another seed on each of her turns until she runs out of seeds. She has a total of four explosive seeds.",
 										"If any of the characters speak to Nima and offer her help, Sken rushes over to take the gnome hostage, threatening to kill her unless the characters drop their weapons. If the characters don't comply and can't stop Sken in time, the goliath attacks Nima.",
 										"If Sken is reduced to 11 hit points or fewer, she attempts to use her {@item ring of obscuring|EGW} and flees to the steel door. She spends her action pulling out a lead key she carries and opening the door, and it takes another action to close and lock it behind her. If Sken escapes, the characters need to pursue her into Stahlmast's lair to complete their contract with Bram Gulchswattle."
 									]
@@ -1379,7 +1379,7 @@
 												"The eight-foot-tall steel door has layered crossbars and supports are embedded deep into the rock of the mountain, creating an impassible entrance to whatever lies beyond."
 											]
 										},
-										"If the characters want to try to open the door right away, see the next section of the adventure (\"{@adventure Stahlmast's Lair|DD|0|Stahlmast's Lair}\") for more information."
+										"If the characters want to try to open the door right away, see the next section of the adventure (\"{@area Stahlmast's Lair|801|x}\") for more information."
 									]
 								},
 								{
@@ -1388,7 +1388,7 @@
 									"page": 227,
 									"id": "7fd",
 									"entries": [
-										"After defeating Sken, the characters can claim her {@item ring of obscuring|EGW}. The workbench Nima was working at holds {@dice 1d4 + 1} {@item Explosive Seed|EGW|explosive seeds} (see the earlier \"{@adventure Alchemical Items|DD|0|Alchemical Items}\" sidebar)."
+										"After defeating Sken, the characters can claim her {@item ring of obscuring|EGW}. The workbench Nima was working at holds {@dice 1d4 + 1} {@item Explosive Seed|EGW|explosive seeds} (see the earlier \"{@area Alchemical Items|7ee|x}\" sidebar)."
 									]
 								}
 							]
@@ -1400,7 +1400,7 @@
 							"id": "7fe",
 							"entries": [
 								"At the end of this part of the adventure, the characters all reach 2nd level. The setup for the next part of the adventure assumes that the characters return to the city before seeing what lies beyond the steel door. If Nima survived the fight, she is anxious to flee the cavern and begs the characters to escort her back to Hupperdook.",
-								"If the players want to press on immediately\u2014especially if both Nima and Sken were killed\u2014that's fine. Just make sure all the characters have leveled up, and let them take a long rest in the cave before moving on to the next part of the adventure (\"{@adventure Stahlmast's Lair|DD|0|Stahlmast's Lair}\"). You can then rework the events below when the characters return to Hupperdook after having bested Stahlmast in his lair."
+								"If the players want to press on immediately\u2014especially if both Nima and Sken were killed\u2014that's fine. Just make sure all the characters have leveled up, and let them take a long rest in the cave before moving on to the next part of the adventure (\"{@area Stahlmast's Lair|801|x}\"). You can then rework the events below when the characters return to Hupperdook after having bested Stahlmast in his lair."
 							]
 						},
 						{
@@ -1409,7 +1409,7 @@
 							"page": 227,
 							"id": "7ff",
 							"entries": [
-								"If Sken was left alive after combat, the characters can use the chains that once shackled Nima to bind the goliath. Taking her or her corpse back to Watchmaster Bram Gulchswattle at Ironside Barracks ({@adventure area H10|DD|0|H10. Ironside Barracks} in the first part of the adventure) completes their contract and allows them to collect their reward. The characters can then take some time to rest and handle any business they might wish to conduct in Hupperdook.",
+								"If Sken was left alive after combat, the characters can use the chains that once shackled Nima to bind the goliath. Taking her or her corpse back to Watchmaster Bram Gulchswattle at Ironside Barracks ({@area area H10|7e8|x} in the first part of the adventure) completes their contract and allows them to collect their reward. The characters can then take some time to rest and handle any business they might wish to conduct in Hupperdook.",
 								"You can read or paraphrase the following text to complete this part of the adventure:",
 								{
 									"type": "insetReadaloud",
@@ -5790,15 +5790,15 @@
 									"id": "808",
 									"entries": [
 										"Each area of the lair is outfitted with a metal speaking tube that protrudes from the ceiling, and which Stahlmast uses to issue orders wherever he happens to be. If a character speaks into a tube, their words are heard in all areas of the lair.",
-										"If Stahlmast is aware of the characters' intrusion, he occasionally taunts them through these tubes. His remarks alternate between threatening and mocking, boasting about his plans while goading the characters into finding him\u2014and trying to lead them into traps and ambushes. As characters approach the clockwork forge in {@adventure area L19|DD|0|L19. Clockwork Forge}, he might start describing the benefits of joining him.",
+										"If Stahlmast is aware of the characters' intrusion, he occasionally taunts them through these tubes. His remarks alternate between threatening and mocking, boasting about his plans while goading the characters into finding him\u2014and trying to lead them into traps and ambushes. As characters approach the clockwork forge in {@area area L19|842|x}, he might start describing the benefits of joining him.",
 										{
 											"type": "inset",
 											"name": "All Is Not Lost",
 											"page": 228,
 											"id": "809",
 											"entries": [
-												"If the characters lose the fight in the Silver Falls cavern or in any part of Stahlmast's lair, it doesn't necessarily mean the adventure is at an end. Whenever Stahlmast's minions get the upper hand, you can have them start knocking characters out rather than killing them. {@condition Unconscious} survivors of a fight wake up in a holding cell in {@adventure area L7|DD|0|L7. Prison Cells} of Stahlmast's lair, stripped of their equipment. Any new characters replacing fallen characters can join them there as previously captured prisoners.",
-												"The characters' confiscated equipment is in a chest in the armory ({@adventure area L2|DD|0|L2. Armory}), and a confident {@creature kobold underling|EGW} guards their cells. You can then set up a scenario in which the characters find a way to escape and recover their equipment."
+												"If the characters lose the fight in the Silver Falls cavern or in any part of Stahlmast's lair, it doesn't necessarily mean the adventure is at an end. Whenever Stahlmast's minions get the upper hand, you can have them start knocking characters out rather than killing them. {@condition Unconscious} survivors of a fight wake up in a holding cell in {@area area L7|81f|x} of Stahlmast's lair, stripped of their equipment. Any new characters replacing fallen characters can join them there as previously captured prisoners.",
+												"The characters' confiscated equipment is in a chest in the armory ({@area area L2|80c|x}), and a confident {@creature kobold underling|EGW} guards their cells. You can then set up a scenario in which the characters find a way to escape and recover their equipment."
 											]
 										}
 									]
@@ -5836,14 +5836,14 @@
 									]
 								},
 								"A {@creature kobold underling|EGW} (see the stat block earlier in this adventure) sits at one of the tables as the characters approach this area, cleaning a pile of soiled tools and weapons with a rag as it curses under its breath in Draconic. If it receives any warning that intruders are coming (including hearing the characters fighting or talking in area L1), it might make a brief stand against them\u2014or it might flee before they arrive, leaving its work behind.",
-								"The north door into area L3 is locked. Roguun the duergar blacksmith ({@adventure area L14|DD|0|L14. Smithy}) has the key, or the lock can be picked with a successful {@dc 18} Dexterity check using thieves' tools.",
+								"The north door into area L3 is locked. Roguun the duergar blacksmith ({@area area L14|830|x}) has the key, or the lock can be picked with a successful {@dc 18} Dexterity check using thieves' tools.",
 								{
 									"type": "entries",
 									"name": "Recovered Goods",
 									"page": 229,
 									"id": "80e",
 									"entries": [
-										"If the characters were captured and thrown into the prison cells in area L7, their weapons hang on the walls here and their other equipment is in the chest beneath the table. {@creature Yinra Emberwind|EGW|Yinra Emberwind's} equipment is also stored there (see {@adventure area L7|DD|0|L7. Prison Cells})."
+										"If the characters were captured and thrown into the prison cells in area L7, their weapons hang on the walls here and their other equipment is in the chest beneath the table. {@creature Yinra Emberwind|EGW|Yinra Emberwind's} equipment is also stored there (see {@area area L7|81f|x})."
 									]
 								},
 								{
@@ -5878,7 +5878,7 @@
 									"page": 230,
 									"id": "812",
 									"entries": [
-										"The characters can claim up to twenty pouches of blasting powder (see the \"{@adventure Alchemical Items|DD|0|Alchemical Items}\" sidebar, earlier in this adventure) from this area."
+										"The characters can claim up to twenty pouches of blasting powder (see the \"{@area Alchemical Items|7ee|x}\" sidebar, earlier in this adventure) from this area."
 									]
 								}
 							]
@@ -5921,7 +5921,7 @@
 										"From the inclined passage leading to this rectangular cavern, you see a heavy lantern hanging from the ceiling, shedding {@quickref Vision and Light||2||bright light}. A long table in the cavern is covered in large sheets of parchment, books, inkwells, and charcoal, and numerous notes are spiked to the stone walls."
 									]
 								},
-								"Most of the notes here read like mad scrawls mixed with engineering designs. Sketches of the layout of Hupperdook and the mountaintop are seen, as well as what looks like the designs for {@item Explosive Seed|EGW|explosive seeds} (see the \"{@adventure Alchemical Items|DD|0|Alchemical Items}\" sidebar earlier in this adventure) and a diagram of how the seeds can be surgically implanted into creatures. Another note details the process by which sharks are to be placed into the waterfall lake in Silver Falls Grove. One strange design shows what appears to be some kind of clockwork-powered armor.",
+								"Most of the notes here read like mad scrawls mixed with engineering designs. Sketches of the layout of Hupperdook and the mountaintop are seen, as well as what looks like the designs for {@item Explosive Seed|EGW|explosive seeds} (see the \"{@area Alchemical Items|7ee|x}\" sidebar earlier in this adventure) and a diagram of how the seeds can be surgically implanted into creatures. Another note details the process by which sharks are to be placed into the waterfall lake in Silver Falls Grove. One strange design shows what appears to be some kind of clockwork-powered armor.",
 								{
 									"type": "entries",
 									"name": "Vox Seeker",
@@ -5937,7 +5937,7 @@
 									"page": 230,
 									"id": "819",
 									"entries": [
-										"A character who studies the notes and diagrams can determine that Stahlmast plans to set powerful explosives across the mountainside in a way that will bury most of Hupperdook in a landslide, even as it leaves his lair intact. Bringing these designs to Watchmaster Bram Gulchswattle earns the characters an additional reward (see \"{@adventure Concluding the Adventure|DD|0|Concluding the Adventure}\" at the end of this adventure)."
+										"A character who studies the notes and diagrams can determine that Stahlmast plans to set powerful explosives across the mountainside in a way that will bury most of Hupperdook in a landslide, even as it leaves his lair intact. Bringing these designs to Watchmaster Bram Gulchswattle earns the characters an additional reward (see \"{@area Concluding the Adventure|851|x}\" at the end of this adventure)."
 									]
 								},
 								{
@@ -5946,7 +5946,7 @@
 									"page": 230,
 									"id": "81a",
 									"entries": [
-										"Any character with a passive Wisdom ({@skill Perception}) score of 17 or higher, or who succeeds on a {@dc 17} Wisdom ({@skill Perception}) check, notices a thin slab of rock that hides a hidden passageway. This passage leads into Stahlmast's bedroom in {@adventure area L18|DD|0|L18. Stahlmast's Bedroom}."
+										"Any character with a passive Wisdom ({@skill Perception}) score of 17 or higher, or who succeeds on a {@dc 17} Wisdom ({@skill Perception}) check, notices a thin slab of rock that hides a hidden passageway. This passage leads into Stahlmast's bedroom in {@area area L18|83e|x}."
 									]
 								}
 							]
@@ -5981,7 +5981,7 @@
 									"page": 230,
 									"id": "81e",
 									"entries": [
-										"A 3-foot-wide iron chimney rises above the cauldron, eventually leading outside the mountain (see the earlier \"{@adventure Ascending the Mountain|DD|0|Ascending the Mountain}\" section for more information)."
+										"A 3-foot-wide iron chimney rises above the cauldron, eventually leading outside the mountain (see the earlier \"{@area Ascending the Mountain|7ef|x}\" section for more information)."
 									]
 								}
 							]
@@ -6042,8 +6042,8 @@
 										"A dark elf stands in the middle of the room, shaking his head and watching with a faint look of disgust as four kobolds spar with one another."
 									]
 								},
-								"When the characters first arrive here, four {@creature Kobold||kobolds} are being trained by Ishel\u2014a drow ambassador from the Kryn Dynasty. {@creature Ishel|EGW} uses the {@creature drow} stat block but has 24 hit points, which raises his challenge rating to 1/2 (100 XP). He carries keys to the chest in area L10 and to the secret door in {@adventure area L19|DD|0|L19. Clockwork Forge}.",
-								"If Ishel is reduced to 12 hit points or fewer, he attempts to flee through {@adventure area L20|DD|0|L20. Passage to the Underdark} and alert Stahlmast about the intruders. If he is captured and questioned, the drow warns the characters of the steam trap in {@adventure area L12|DD|0|L12. Steam Trap}. If pressed hard, he might mention that he belongs to Den Hythenos of the Kryn Dynasty, which has an agreement with Stahlmast. He can also tell the characters about the path to the Underdark in area L20."
+								"When the characters first arrive here, four {@creature Kobold||kobolds} are being trained by Ishel\u2014a drow ambassador from the Kryn Dynasty. {@creature Ishel|EGW} uses the {@creature drow} stat block but has 24 hit points, which raises his challenge rating to 1/2 (100 XP). He carries keys to the chest in area L10 and to the secret door in {@area area L19|842|x}.",
+								"If Ishel is reduced to 12 hit points or fewer, he attempts to flee through {@area area L20|84f|x} and alert Stahlmast about the intruders. If he is captured and questioned, the drow warns the characters of the steam trap in {@area area L12|82b|x}. If pressed hard, he might mention that he belongs to Den Hythenos of the Kryn Dynasty, which has an agreement with Stahlmast. He can also tell the characters about the path to the Underdark in area L20."
 							]
 						},
 						{
@@ -6102,7 +6102,7 @@
 									]
 								},
 								"The holes in the walls extend 1 foot in, then angle downward, preventing the mechanisms of the trap from being seen. This chamber does nothing as long as the characters have not yet caught Stahlmast's notice. However, if he has been alerted to their presence, both sets of double doors swing shut and lock tight once all the characters (or a majority of the characters if some are hanging back) have entered. The locks on both sets of doors can be picked with a successful {@dc 16} Dexterity check using thieves' tools, or the doors can be forced open with a successful {@dc 16} Strength check.",
-								"With the doors locked, Stahlmast taunts the characters via the speaking tube in the ceiling before filling the chamber with scalding hot steam from the holes in the wall plates. Each creature that starts its turn in the steam takes 2 ({@dice 1d4}) fire damage. If all four steam holes are plugged up with cloth or some similar material, the trap stops dealing damage, and instead backs up and deals {@dice 4d4} fire damage to the Stahlmaster in the clockwork forge ({@adventure area L19|DD|0|L19. Clockwork Forge})."
+								"With the doors locked, Stahlmast taunts the characters via the speaking tube in the ceiling before filling the chamber with scalding hot steam from the holes in the wall plates. Each creature that starts its turn in the steam takes 2 ({@dice 1d4}) fire damage. If all four steam holes are plugged up with cloth or some similar material, the trap stops dealing damage, and instead backs up and deals {@dice 4d4} fire damage to the Stahlmaster in the clockwork forge ({@area area L19|842|x})."
 							]
 						},
 						{
@@ -6143,8 +6143,8 @@
 										"This cramped, uncomfortably hot chamber is outfitted for a blacksmith, featuring a glowing forge, an anvil, and a water trough. Various tools are set around the anvil, while piles of metal ingots stand beside the entrance."
 									]
 								},
-								"The blacksmith, Roguun (a lawful evil, male {@creature duergar}), is hard at work when the characters first enter this area. He attacks intruders at once but flees to join Stahlmast in the clockwork forge ({@adventure area L19|DD|0|L19. Clockwork Forge}) if he is reduced to 11 hit points or fewer. Roguun carries the keys to the volatile materials storage cavern ({@adventure area L3|DD|0|L3. Volatile Materials Storage}).",
-								"If a character possesses the small statue from area L13 and threatens to smash it, Roguun halts his aggression and refrains from fleeing while he attempts to barter for its safety. A character holding the statuette has advantage on Charisma checks made against the duergar. If he is captured and questioned, Roguun might mention the explosives locked away in {@adventure area L3|DD|0|L3. Volatile Materials Storage}, and might also mention the secret door that Stahlmast had him install in {@adventure area L5|DD|0|L5. Stahlmast's Workroom}.",
+								"The blacksmith, Roguun (a lawful evil, male {@creature duergar}), is hard at work when the characters first enter this area. He attacks intruders at once but flees to join Stahlmast in the clockwork forge ({@area area L19|842|x}) if he is reduced to 11 hit points or fewer. Roguun carries the keys to the volatile materials storage cavern ({@area area L3|810|x}).",
+								"If a character possesses the small statue from area L13 and threatens to smash it, Roguun halts his aggression and refrains from fleeing while he attempts to barter for its safety. A character holding the statuette has advantage on Charisma checks made against the duergar. If he is captured and questioned, Roguun might mention the explosives locked away in {@area area L3|810|x}, and might also mention the secret door that Stahlmast had him install in {@area area L5|816|x}.",
 								{
 									"type": "entries",
 									"name": "Forge",
@@ -6160,7 +6160,7 @@
 									"page": 232,
 									"id": "833",
 									"entries": [
-										"A 3-foot-wide iron chimney rises above the forge, eventually leading outside the mountain (see the earlier \"{@adventure Ascending the Mountain|DD|0|Ascending the Mountain}\" section for details)."
+										"A 3-foot-wide iron chimney rises above the forge, eventually leading outside the mountain (see the earlier \"{@area Ascending the Mountain|7ef|x}\" section for details)."
 									]
 								},
 								{
@@ -6220,7 +6220,7 @@
 										"A row of rough, bloodstained beds outfit this makeshift infirmary. Soiled cloths have been tossed in one corner, and a door stands closed to the northwest. A kobold sleeps soundly in the bed farthest from the entrance."
 									]
 								},
-								"The sleeping {@creature kobold underling|EGW} (see its stat block earlier in the adventure) has its chest wrapped with bloodstained bandages. If the sore and scared kobold is woken up, characters have advantage on Charisma checks to question it (see \"{@adventure Stahlmast's Minions|DD|0|Stahlmast's Minions}\" at the beginning of this section). In addition to any other information you want to reveal, the kobold complains about the pain in its chest. (Stahlmast recently implanted an {@item explosive seed|EGW} inside the kobold.)"
+								"The sleeping {@creature kobold underling|EGW} (see its stat block earlier in the adventure) has its chest wrapped with bloodstained bandages. If the sore and scared kobold is woken up, characters have advantage on Charisma checks to question it (see \"{@area Stahlmast's Minions|806|x}\" at the beginning of this section). In addition to any other information you want to reveal, the kobold complains about the pain in its chest. (Stahlmast recently implanted an {@item explosive seed|EGW} inside the kobold.)"
 							]
 						},
 						{
@@ -6236,14 +6236,14 @@
 										"The smell of acrid chemicals and rusting metal are pungent within this dark cavern. Two small tables against the far walls hold all manner of surgical tools and knives, as well as a tattered notebook. Beneath an unlit lantern hanging from the ceiling, a larger rectangular table is affixed with restraints and stained with old blood."
 									]
 								},
-								"The notebook on the side table builds on some of the notes the characters might have found already in {@adventure area L5|DD|0|L5. Stahlmast's Workroom}. They describe in gory detail the process by which Stahlmast performs the experimental surgery that implants explosive seeds in his minions.",
+								"The notebook on the side table builds on some of the notes the characters might have found already in {@area area L5|816|x}. They describe in gory detail the process by which Stahlmast performs the experimental surgery that implants explosive seeds in his minions.",
 								{
 									"type": "entries",
 									"name": "Treasure",
 									"page": 233,
 									"id": "83d",
 									"entries": [
-										"A search of the room reveals a small box under one of the tables that holds {@dice 1d4} {@item Explosive Seed|EGW|explosive seeds} (see the \"{@adventure Alchemical Items|DD|0|Alchemical Items}\" sidebar earlier in this adventure)."
+										"A search of the room reveals a small box under one of the tables that holds {@dice 1d4} {@item Explosive Seed|EGW|explosive seeds} (see the \"{@area Alchemical Items|7ee|x}\" sidebar earlier in this adventure)."
 									]
 								}
 							]
@@ -6268,7 +6268,7 @@
 									"page": 233,
 									"id": "840",
 									"entries": [
-										"Any character with a passive Wisdom ({@skill Perception}) score of 17 or higher, or who succeeds on a {@dc 17} Wisdom ({@skill Perception}) check, notices a thin slab of rock that hides a hidden passageway. This passage leads into Stahlmast's workroom ({@adventure area L5|DD|0|L5. Stahlmast's Workroom})."
+										"Any character with a passive Wisdom ({@skill Perception}) score of 17 or higher, or who succeeds on a {@dc 17} Wisdom ({@skill Perception}) check, notices a thin slab of rock that hides a hidden passageway. This passage leads into Stahlmast's workroom ({@area area L5|816|x})."
 									]
 								},
 								{
@@ -6277,7 +6277,7 @@
 									"page": 233,
 									"id": "841",
 									"entries": [
-										"A locked chest is hidden beneath the bed, and can be opened with thieves' tools and a successful {@dc 16} Dexterity check. The chest holds 170 gp, 65 sp, and two {@item Potion of Healing||potions of healing}. It also contains a letter written in Undercommon, which promises that more support and minions will soon be sent through the tunnel. The letter thanks Stahlmast for his soon-to-be fruitful alliance with Den Hythenos of the Kryn Dynasty. Turning the letter over to Watchmaster Bram Gulchswattle earns the characters an additional reward (see \"{@adventure Concluding the Adventure|DD|0|Concluding the Adventure}\" at the end of this adventure)."
+										"A locked chest is hidden beneath the bed, and can be opened with thieves' tools and a successful {@dc 16} Dexterity check. The chest holds 170 gp, 65 sp, and two {@item Potion of Healing||potions of healing}. It also contains a letter written in Undercommon, which promises that more support and minions will soon be sent through the tunnel. The letter thanks Stahlmast for his soon-to-be fruitful alliance with Den Hythenos of the Kryn Dynasty. Turning the letter over to Watchmaster Bram Gulchswattle earns the characters an additional reward (see \"{@area Concluding the Adventure|851|x}\" at the end of this adventure)."
 									]
 								}
 							]
@@ -6288,7 +6288,7 @@
 							"page": 233,
 							"id": "842",
 							"entries": [
-								"Huron Stahlmast (a lawful evil human {@creature cultist} wearing {@item goggles of night}) awaits the characters in this elaborate workshop. If the drow ambassador from {@adventure area L9|DD|0|L9. Training Room} or Roguun from {@adventure area L14|DD|0|L14. Smithy} escaped earlier encounters with the characters, he has joined Stahlmast here for the final fight.",
+								"Huron Stahlmast (a lawful evil human {@creature cultist} wearing {@item goggles of night}) awaits the characters in this elaborate workshop. If the drow ambassador from {@area area L9|824|x} or Roguun from {@area area L14|830|x} escaped earlier encounters with the characters, he has joined Stahlmast here for the final fight.",
 								"When the characters can see into this area, read:",
 								{
 									"type": "insetReadaloud",
@@ -6307,7 +6307,7 @@
 									]
 								},
 								"Stahlmast has no qualms about whom he works with, as long as those who serve him understand that he's in charge. He might appeal to the characters as free adventurers, hoping to convince him that fighting against the Dwendalian Empire is a noble cause, or he might appeal to their greed, talking of how much wealth might be gained by breaking the empire's power.",
-								"If the characters abandon their pledge to aid Hupperdook and instead agree to Stahlmast's offer, they are granted a room of their choice within the lair and a weekly pay of 25 gp as his elite enforcers. The characters reach 3rd level (see \"{@adventure Concluding the Adventure|DD|0|Concluding the Adventure}\"), but their path now leans toward working with the Kryn Dynasty and helping Stahlmast with his plots against Hupperdook and the Dwendalian Empire.",
+								"If the characters abandon their pledge to aid Hupperdook and instead agree to Stahlmast's offer, they are granted a room of their choice within the lair and a weekly pay of 25 gp as his elite enforcers. The characters reach 3rd level (see \"{@area Concluding the Adventure|851|x}\"), but their path now leans toward working with the Kryn Dynasty and helping Stahlmast with his plots against Hupperdook and the Dwendalian Empire.",
 								"Alternatively, the characters might pretend to want to serve Stahlmast to get the upper hand on him. That kind of twist is perfect for an intrigue adventure, so have fun with it!",
 								{
 									"type": "inset",
@@ -6369,7 +6369,7 @@
 									"page": 234,
 									"id": "84b",
 									"entries": [
-										"A steel lever topped with a brass sphere is mounted on the east wall. If the lever is pulled, the doors to {@adventure area L12|DD|0|L12. Steam Trap} close and the steam trap in that area triggers. If the wall holes in area L12 are plugged when the lever is pulled, a jet of scalding hot steam erupts from the forge in a line that is 15 feet long and 1 foot wide, and which deals 10 ({@dice 4d4}) fire damage to each creature in its area (including the Stahlmaster while it remains in its initial position)."
+										"A steel lever topped with a brass sphere is mounted on the east wall. If the lever is pulled, the doors to {@area area L12|82b|x} close and the steam trap in that area triggers. If the wall holes in area L12 are plugged when the lever is pulled, a jet of scalding hot steam erupts from the forge in a line that is 15 feet long and 1 foot wide, and which deals 10 ({@dice 4d4}) fire damage to each creature in its area (including the Stahlmaster while it remains in its initial position)."
 									]
 								},
 								{
@@ -6378,7 +6378,7 @@
 									"page": 234,
 									"id": "84c",
 									"entries": [
-										"The secret door leading to area L20 can be spotted by any character with a passive Wisdom ({@skill Perception}) score of 13 or higher, or by one who searches the wall and succeeds on a {@dc 13} Wisdom ({@skill Perception}) check. The door is locked, and Stahlmast and the drow ambassador from {@adventure area L9|DD|0|L9. Training Room} carry keys that open it. The locked door can also be opened with a successful {@dc 15} Dexterity check using thieves' tools."
+										"The secret door leading to area L20 can be spotted by any character with a passive Wisdom ({@skill Perception}) score of 13 or higher, or by one who searches the wall and succeeds on a {@dc 13} Wisdom ({@skill Perception}) check. The door is locked, and Stahlmast and the drow ambassador from {@area area L9|824|x} carry keys that open it. The locked door can also be opened with a successful {@dc 15} Dexterity check using thieves' tools."
 									]
 								},
 								{
@@ -6387,7 +6387,7 @@
 									"page": 234,
 									"id": "84d",
 									"entries": [
-										"A 3-foot-wide iron chimney rises above the forge, eventually leading outside the mountain. See \"{@adventure Ascending the Mountain|DD|0|Ascending the Mountain}\" for more information."
+										"A 3-foot-wide iron chimney rises above the forge, eventually leading outside the mountain. See \"{@area Ascending the Mountain|7ef|x}\" for more information."
 									]
 								},
 								{
@@ -6427,7 +6427,7 @@
 					"id": "851",
 					"entries": [
 						"If Stahlmast was killed or subdued, the characters can drag him back to Hupperdook as their prisoner. Turning him over to Watchmaster Bram Gulchswattle with proof of his wrongdoings completes their assignment, and the characters receive the bounty promised them. If Stahlmast got away, the watchmaster pays them 500 gp for thwarting the mad inventor's dark plots.",
-						"If the characters recovered the plans to destroy Hupperdook found in {@adventure area L5|DD|0|L5. Stahlmast's Workroom}, Bram rewards them an additional 300 gp. If they recovered the letter confirming Stahlmast's relationship with the Kryn Dynasty in {@adventure area L18|DD|0|L18. Stahlmast's Bedroom}, Bram gives them an additional 150 gp.",
+						"If the characters recovered the plans to destroy Hupperdook found in {@area area L5|816|x}, Bram rewards them an additional 300 gp. If they recovered the letter confirming Stahlmast's relationship with the Kryn Dynasty in {@area area L18|83e|x}, Bram gives them an additional 150 gp.",
 						{
 							"type": "entries",
 							"name": "New Lodgings?",
